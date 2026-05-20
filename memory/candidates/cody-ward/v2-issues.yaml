@@ -1,0 +1,360 @@
+{
+  "slug": "cody-ward",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "agent": "codex missing-roster artifact generator",
+  "candidate_metadata": {
+    "slug": "cody-ward",
+    "name": "Cody Ward",
+    "party": "NP",
+    "position": "Kansas House District 110 candidate; party pending direct SOS readback",
+    "electionSlug": "ks-house-110",
+    "incumbent": false,
+    "occupation": "Kansas House District 110 candidate",
+    "whoTheyAre": "Cody Ward was added because House District 110 includes parts of Ellis County and the state audit found the race missing from the site. The public record found in this pass is thin: KPDC records identify Cody D. Ward of Logan as a House District 110 candidate with an appointment of treasurer on May 12, 2026, but this pass did not find a candidate-controlled website, issue platform, or reliable social feed.",
+    "recordSummary": "The current record confirms roster/finance filing status only. No source-backed issue platform, official office record, voting record, or candidate-controlled social record was found in this pass.",
+    "whereTheyWorship": "No direct public evidence of a current worship community was found in this missing-roster pass. No faith-based policy inference is made.",
+    "social_presence_note": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for Cody Ward in this missing-roster pass. Public social evidence remains a signal layer only; none is used as a confirmed policy position."
+  },
+  "sources": [
+    {
+      "id": "s-sos-2026-primary",
+      "tier": "primary",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "title": "Kansas SOS Candidate List - 2026 Primary",
+      "publisher": "Kansas Secretary of State",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "State audit found Cody Ward listed for Kansas House District 110."
+      ]
+    },
+    {
+      "id": "s-kpdc-house-index",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/HLinks2026EC.htm",
+      "title": "Kansas House of Representatives - 2026 Election Cycle",
+      "publisher": "Kansas Public Disclosure Commission",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "KPDC lists Cody Ward for House District 110."
+      ]
+    },
+    {
+      "id": "s-kpdc-at",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/Treasurers/H110CW_AT.pdf",
+      "title": "Cody D. Ward Appointment of Treasurer",
+      "publisher": "Kansas Public Disclosure Commission",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Appointment-of-treasurer form identifies Cody D. Ward as a House District 110 candidate, dated 2026-05-12."
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "i-roster-status",
+      "title": "Roster and filing status",
+      "stated": {
+        "text": "State audit found Cody Ward on the Kansas SOS 2026 Primary list for House District 110. KPDC shows a Cody D. Ward appointment-of-treasurer filing dated May 12, 2026.",
+        "sourceIds": [
+          "s-sos-2026-primary",
+          "s-kpdc-house-index"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-roster-status",
+          "date": "2026-05-20",
+          "body": "State audit found Cody Ward on the Kansas SOS 2026 Primary list for House District 110. KPDC shows a Cody D. Ward appointment-of-treasurer filing dated May 12, 2026.",
+          "sourceIds": [
+            "s-sos-2026-primary",
+            "s-kpdc-house-index"
+          ]
+        }
+      ],
+      "socialSignals": []
+    }
+  ],
+  "campaign_finance": {
+    "totalRaised": "Not itemized in the reviewed public records for this missing-roster pass",
+    "narrative": "Campaign-finance status is limited to the linked KPDC/FEC/official filing records reviewed in this pass. Donor-by-donor interpretation is not inferred beyond public reports.",
+    "donors": [],
+    "reportingPeriod": "Most recent public record reviewed on 2026-05-20",
+    "source": "Kansas SOS Candidate List - 2026 Primary",
+    "sourceIds": [
+      "s-sos-2026-primary",
+      "s-kpdc-house-index",
+      "s-kpdc-at"
+    ]
+  },
+  "editorial_notes": [
+    "Added from the May 20, 2026 missing-candidate delta audit.",
+    "Every candidate has a 14-issue matrix; thin public records are explicitly caveated.",
+    "Social evidence was not deleted. No reliable candidate-controlled follows, likes, comments, or posts were found for this pass unless separately listed in evidence."
+  ],
+  "fixed_issue_matrix": [
+    {
+      "issueNumber": 1,
+      "title": "Abortion / life",
+      "summary": "No relevant public evidence was found for Abortion / life after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 2,
+      "title": "LGBT / gender / parental rights",
+      "summary": "No relevant public evidence was found for LGBT / gender / parental rights after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 3,
+      "title": "Education / curriculum / schools",
+      "summary": "No relevant public evidence was found for Education / curriculum / schools after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 4,
+      "title": "Religious liberty / church / civic morality",
+      "summary": "No relevant public evidence was found for Religious liberty / church / civic morality after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 5,
+      "title": "Taxes / spending / debt",
+      "summary": "No relevant public evidence was found for Taxes / spending / debt after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 6,
+      "title": "Economy / jobs / labor",
+      "summary": "No relevant public evidence was found for Economy / jobs / labor after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 7,
+      "title": "Guns / Second Amendment",
+      "summary": "No relevant public evidence was found for Guns / Second Amendment after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 8,
+      "title": "Immigration / border",
+      "summary": "No relevant public evidence was found for Immigration / border after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 9,
+      "title": "Health care / insurance / Medicaid",
+      "summary": "No relevant public evidence was found for Health care / insurance / Medicaid after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 10,
+      "title": "Election integrity / voting / courts",
+      "summary": "Election integrity / voting / courts: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-cody-ward-00001",
+          "classification": "documented-record",
+          "text": "The state roster audit found Cody Ward on the official Kansas SOS 2026 Primary list for House District 110.",
+          "sourceIds": [
+            "s-sos-2026-primary"
+          ],
+          "sourceUrl": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+          "sourceFile": "memory/candidates/cody-ward/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 11,
+      "title": "Public safety / law enforcement / criminal justice",
+      "summary": "No relevant public evidence was found for Public safety / law enforcement / criminal justice after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 12,
+      "title": "Agriculture / rural economy / water",
+      "summary": "No relevant public evidence was found for Agriculture / rural economy / water after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 13,
+      "title": "Local governance / transparency / ethics",
+      "summary": "Local governance / transparency / ethics: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-cody-ward-00002",
+          "classification": "documented-record",
+          "text": "KPDC's House index and appointment-of-treasurer form identify Cody D. Ward as a House District 110 candidate with a May 12, 2026 treasurer appointment.",
+          "sourceIds": [
+            "s-kpdc-house-index",
+            "s-kpdc-at"
+          ],
+          "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/HLinks2026EC.htm",
+          "sourceFile": "memory/candidates/cody-ward/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 14,
+      "title": "Environment / energy / land use",
+      "summary": "No relevant public evidence was found for Environment / energy / land use after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    }
+  ]
+}

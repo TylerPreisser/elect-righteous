@@ -1,0 +1,107 @@
+[
+  {
+    "id": "em-david-c-graham-00001",
+    "candidateSlug": "david-c-graham",
+    "candidateName": "David C. Graham",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/david-c-graham/raw-dump-v2.md",
+    "sourceUrl": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "sourceTier": "primary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "The Kansas SOS 2026 General candidate list, checked by the federal audit on May 20, 2026, added David C. Graham as a Libertarian candidate for U.S. Senate; the same audit found no 2026 FEC candidate ID.",
+    "exactEvidenceSummary": "The Kansas SOS 2026 General candidate list, checked by the federal audit on May 20, 2026, added David C. Graham as a Libertarian candidate for U.S. Senate; the same audit found no 2026 FEC candidate ID.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-sos-2026-general"
+    ]
+  },
+  {
+    "id": "em-david-c-graham-00002",
+    "candidateSlug": "david-c-graham",
+    "candidateName": "David C. Graham",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/david-c-graham/raw-dump-v2.md",
+    "sourceUrl": "https://lawrencekstimes.com/2022/07/22/ussen-ks-candidates-202208/",
+    "sourceTier": "secondary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "Graham has prior statewide ballot history: the Lawrence Times identified him as the Libertarian U.S. Senate nominee in the 2022 general election.",
+    "exactEvidenceSummary": "Graham has prior statewide ballot history: the Lawrence Times identified him as the Libertarian U.S. Senate nominee in the 2022 general election.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-lawrence-times-2022"
+    ]
+  },
+  {
+    "id": "em-david-c-graham-00003",
+    "candidateSlug": "david-c-graham",
+    "candidateName": "David C. Graham",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/david-c-graham/raw-dump-v2.md",
+    "sourceUrl": "https://ivoterguide.com/candidate/74609/race/11249/election/987",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      1
+    ],
+    "claim": "A 2022 iVoterGuide questionnaire records Graham agreeing that abortion providers should not receive public funds; this is older candidate-response material and should not be treated as a newly issued 2026 statement without recheck.",
+    "exactEvidenceSummary": "A 2022 iVoterGuide questionnaire records Graham agreeing that abortion providers should not receive public funds; this is older candidate-response material and should not be treated as a newly issued 2026 statement without recheck.",
+    "confidence": "likely",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Older 2022 questionnaire; use with date caveat.",
+    "sourceIds": [
+      "s-ivoterguide-2022"
+    ]
+  },
+  {
+    "id": "em-david-c-graham-00004",
+    "candidateSlug": "david-c-graham",
+    "candidateName": "David C. Graham",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/david-c-graham/raw-dump-v2.md",
+    "sourceUrl": "https://ivoterguide.com/candidate/74609/race/11249/election/987",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      7
+    ],
+    "claim": "A 2022 iVoterGuide questionnaire records Graham rejecting strict liability for firearm dealers and manufacturers while allowing liability under traditional civil procedure if causation is proved.",
+    "exactEvidenceSummary": "A 2022 iVoterGuide questionnaire records Graham rejecting strict liability for firearm dealers and manufacturers while allowing liability under traditional civil procedure if causation is proved.",
+    "confidence": "likely",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Older 2022 questionnaire; use with date caveat.",
+    "sourceIds": [
+      "s-ivoterguide-2022"
+    ]
+  },
+  {
+    "id": "em-david-c-graham-00005",
+    "candidateSlug": "david-c-graham",
+    "candidateName": "David C. Graham",
+    "raceSlug": "us-senate-2026",
+    "sourceFile": "memory/candidates/david-c-graham/raw-dump-v2.md",
+    "sourceUrl": "https://ivoterguide.com/candidate/74609/race/11249/election/987",
+    "sourceTier": "secondary",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      11
+    ],
+    "claim": "The 2022 iVoterGuide profile lists Graham as a former Harper County attorney for 2017-2018.",
+    "exactEvidenceSummary": "The 2022 iVoterGuide profile lists Graham as a former Harper County attorney for 2017-2018.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-ivoterguide-2022"
+    ]
+  }
+]

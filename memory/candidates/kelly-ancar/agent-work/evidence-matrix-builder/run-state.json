@@ -1,0 +1,18 @@
+{
+  "candidateSlug": "kelly-ancar",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "inputs_read": [
+    "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "https://hayspost.com/posts/2c3a44b2-1b4a-414a-8082-0ecddc9fcacd",
+    "https://hayspost.com/posts/277408cf-68c3-4bb4-b3dc-7bba965651ef",
+    "https://www.amazinggracestaffing.com/copy-of-what-is-homecare-1",
+    "https://www.ellisco.net/DocumentCenter/View/5814/Notice-of-Election-with-Names-489"
+  ],
+  "outputs_written": [
+    "memory/candidates/kelly-ancar/evidence-matrix.json",
+    "memory/candidates/kelly-ancar/social-evidence-matrix.json",
+    "memory/candidates/kelly-ancar/source-audit.md",
+    "memory/candidates/kelly-ancar/issue-matrix.md",
+    "memory/candidates/kelly-ancar/v2-issues.yaml"
+  ]
+}

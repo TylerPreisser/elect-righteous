@@ -1,0 +1,58 @@
+{
+  "candidateSlug": "renee-duxler",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "sources": [
+    {
+      "sourceId": "s-kansas-reflector-duxler",
+      "title": "Democratic governor candidate Ethan Corson joins forces with Salina business director",
+      "url": "https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/",
+      "publisher": "Kansas Reflector",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Reports Duxler as Corson's running mate and gives biography, education, and economic-development background."
+      ],
+      "rowIds": [
+        "em-renee-duxler-00001",
+        "em-renee-duxler-00002",
+        "em-renee-duxler-00003",
+        "em-renee-duxler-00004",
+        "em-renee-duxler-00005"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-salina-chamber-team",
+      "title": "Meet Our Team - Salina Area Chamber of Commerce",
+      "url": "https://www.salinakansas.org/meet-our-team.html",
+      "publisher": "Salina Area Chamber of Commerce",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Chamber staff page identifies Renee Duxler as president/CEO."
+      ],
+      "rowIds": [
+        "em-renee-duxler-00002"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-ksal-duxler",
+      "title": "Duxler is New Chamber President & CEO",
+      "url": "https://www.ksal.com/duxler-is-new-chamber-president-ceo/",
+      "publisher": "KSAL",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Reports Duxler becoming president and CEO of the Salina Area Chamber of Commerce."
+      ],
+      "rowIds": [],
+      "tierCorrect": true
+    }
+  ],
+  "brokenSources": [],
+  "unsupportedClaims": []
+}

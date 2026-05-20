@@ -1,0 +1,422 @@
+{
+  "slug": "marvin-matchett",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "agent": "codex missing-roster artifact generator",
+  "candidate_metadata": {
+    "slug": "marvin-matchett",
+    "name": "Marvin Matchett",
+    "party": "NP",
+    "position": "Kansas House District 110 candidate; party pending direct SOS readback",
+    "electionSlug": "ks-house-110",
+    "incumbent": false,
+    "occupation": "Norton County commissioner; Kansas county-government policy advocate",
+    "whoTheyAre": "Marvin Matchett was added because House District 110 includes parts of Ellis County and the state audit found the race missing from the site. Official Norton County records list Matchett as a county commissioner, and Kansas Association of Counties records list him in county-government leadership roles. Legislative testimony records show Matchett appearing in Topeka on taxation and election-related measures in a county-policy capacity.",
+    "recordSummary": "The current record confirms an official HD110 roster finding and a public county-government record. Party is left as not-party-rendered in the v2 schema until direct SOS party readback is captured.",
+    "whereTheyWorship": "No direct public evidence of a current worship community was found in this missing-roster pass. No faith-based policy inference is made.",
+    "social_presence_note": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for Marvin Matchett in this missing-roster pass. Public social evidence remains a signal layer only; none is used as a confirmed policy position."
+  },
+  "sources": [
+    {
+      "id": "s-sos-2026-primary",
+      "tier": "primary",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "title": "Kansas SOS Candidate List - 2026 Primary",
+      "publisher": "Kansas Secretary of State",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "State audit found Marvin Matchett listed for Kansas House District 110."
+      ]
+    },
+    {
+      "id": "s-norton-commission",
+      "tier": "primary",
+      "url": "https://www.nortoncountyks.gov/departments/staff_directory/BoardofCountyCommissioners/",
+      "title": "Norton County Board of County Commissioners contacts",
+      "publisher": "Norton County",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Official county page lists Marvin Matchett as a commissioner."
+      ]
+    },
+    {
+      "id": "s-kac-board",
+      "tier": "secondary",
+      "url": "https://kansascounties.org/page/GoverningBoard",
+      "title": "Kansas Association of Counties Governing Board",
+      "publisher": "Kansas Association of Counties",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "KAC lists Marvin Matchett in county-association leadership roles."
+      ]
+    },
+    {
+      "id": "s-hb2712",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/bills/HB2712/",
+      "title": "HB 2712 - Kansas Legislature testimony listing",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Kansas Legislature page lists Marvin Matchett testimony on HB 2712."
+      ]
+    },
+    {
+      "id": "s-sb488-testimony",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/committees/ctte_s_assess_tax_1/documents/testimony/20260310_282.pdf",
+      "title": "Marvin Matchett testimony on SCR 1621 and SB 488",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Written testimony identifies Matchett as Norton County Commissioner and president of the Kansas Legislative Policy Group."
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "i-roster-status",
+      "title": "Roster and filing status",
+      "stated": {
+        "text": "State audit found Marvin Matchett on the Kansas SOS 2026 Primary list for House District 110. Direct SOS readback remains blocked by the JS/anti-bot page in this environment.",
+        "sourceIds": [
+          "s-sos-2026-primary",
+          "s-norton-commission"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-roster-status",
+          "date": "2026-05-20",
+          "body": "State audit found Marvin Matchett on the Kansas SOS 2026 Primary list for House District 110. Direct SOS readback remains blocked by the JS/anti-bot page in this environment.",
+          "sourceIds": [
+            "s-sos-2026-primary",
+            "s-norton-commission"
+          ]
+        }
+      ],
+      "socialSignals": []
+    }
+  ],
+  "campaign_finance": {
+    "totalRaised": "Not itemized in the reviewed public records for this missing-roster pass",
+    "narrative": "No itemized campaign-finance filing was found in this missing-roster pass.",
+    "donors": [],
+    "reportingPeriod": "Most recent public record reviewed on 2026-05-20",
+    "source": "Kansas SOS Candidate List - 2026 Primary",
+    "sourceIds": [
+      "s-sos-2026-primary",
+      "s-norton-commission",
+      "s-kac-board"
+    ]
+  },
+  "editorial_notes": [
+    "Added from the May 20, 2026 missing-candidate delta audit.",
+    "Every candidate has a 14-issue matrix; thin public records are explicitly caveated.",
+    "Social evidence was not deleted. No reliable candidate-controlled follows, likes, comments, or posts were found for this pass unless separately listed in evidence."
+  ],
+  "fixed_issue_matrix": [
+    {
+      "issueNumber": 1,
+      "title": "Abortion / life",
+      "summary": "No relevant public evidence was found for Abortion / life after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 2,
+      "title": "LGBT / gender / parental rights",
+      "summary": "No relevant public evidence was found for LGBT / gender / parental rights after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 3,
+      "title": "Education / curriculum / schools",
+      "summary": "No relevant public evidence was found for Education / curriculum / schools after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 4,
+      "title": "Religious liberty / church / civic morality",
+      "summary": "No relevant public evidence was found for Religious liberty / church / civic morality after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 5,
+      "title": "Taxes / spending / debt",
+      "summary": "Taxes / spending / debt: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-marvin-matchett-00003",
+          "classification": "documented-record",
+          "text": "Kansas Legislature pages list Matchett testimony on taxation measures including HB 2712 and SCR 1621/SB 488.",
+          "sourceIds": [
+            "s-hb2712",
+            "s-sb488-testimony"
+          ],
+          "sourceUrl": "https://www.kslegislature.gov/bills/HB2712/",
+          "sourceFile": "memory/candidates/marvin-matchett/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 6,
+      "title": "Economy / jobs / labor",
+      "summary": "No relevant public evidence was found for Economy / jobs / labor after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 7,
+      "title": "Guns / Second Amendment",
+      "summary": "No relevant public evidence was found for Guns / Second Amendment after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 8,
+      "title": "Immigration / border",
+      "summary": "No relevant public evidence was found for Immigration / border after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 9,
+      "title": "Health care / insurance / Medicaid",
+      "summary": "No relevant public evidence was found for Health care / insurance / Medicaid after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 10,
+      "title": "Election integrity / voting / courts",
+      "summary": "Election integrity / voting / courts: 2 source-backed items found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-marvin-matchett-00001",
+          "classification": "documented-record",
+          "text": "The state roster audit found Marvin Matchett on the official Kansas SOS 2026 Primary list for House District 110.",
+          "sourceIds": [
+            "s-sos-2026-primary"
+          ],
+          "sourceUrl": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+          "sourceFile": "memory/candidates/marvin-matchett/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        },
+        {
+          "evidenceRowId": "em-marvin-matchett-00005",
+          "classification": "documented-record",
+          "text": "Legislative minutes list Matchett written testimony on HB 2503, a mail-ballot-election-act repeal bill, but the profile should cite the testimony itself before characterizing his position in detail.",
+          "sourceIds": [
+            "s-sos-2026-primary"
+          ],
+          "sourceUrl": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+          "sourceFile": "memory/candidates/marvin-matchett/raw-dump-v2.md",
+          "confidence": "unknown",
+          "useDecision": "use-with-caveat",
+          "caveat": "Roster context only until testimony PDF is fully reviewed."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 2,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 2
+      },
+      "caveats": [
+        "One or more items require the caveat shown with the evidence item."
+      ]
+    },
+    {
+      "issueNumber": 11,
+      "title": "Public safety / law enforcement / criminal justice",
+      "summary": "No relevant public evidence was found for Public safety / law enforcement / criminal justice after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 12,
+      "title": "Agriculture / rural economy / water",
+      "summary": "Agriculture / rural economy / water: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-marvin-matchett-00004",
+          "classification": "documented-record",
+          "text": "KAC records and legislative testimony place Matchett in western Kansas county-policy work affecting rural counties.",
+          "sourceIds": [
+            "s-kac-board",
+            "s-sb488-testimony"
+          ],
+          "sourceUrl": "https://kansascounties.org/page/GoverningBoard",
+          "sourceFile": "memory/candidates/marvin-matchett/raw-dump-v2.md",
+          "confidence": "likely",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 13,
+      "title": "Local governance / transparency / ethics",
+      "summary": "Local governance / transparency / ethics: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-marvin-matchett-00002",
+          "classification": "documented-record",
+          "text": "Norton County's official staff directory lists Marvin Matchett as a county commissioner.",
+          "sourceIds": [
+            "s-norton-commission"
+          ],
+          "sourceUrl": "https://www.nortoncountyks.gov/departments/staff_directory/BoardofCountyCommissioners/",
+          "sourceFile": "memory/candidates/marvin-matchett/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 14,
+      "title": "Environment / energy / land use",
+      "summary": "No relevant public evidence was found for Environment / energy / land use after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    }
+  ]
+}

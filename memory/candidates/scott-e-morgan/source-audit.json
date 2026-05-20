@@ -1,0 +1,74 @@
+{
+  "candidateSlug": "scott-e-morgan",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "sources": [
+    {
+      "sourceId": "s-sos-2026-general",
+      "title": "Kansas SOS Candidate List - 2026 General",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "publisher": "Kansas Secretary of State",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "official page requires JavaScript/anti-bot verification in this CLI environment; details captured from auditor readback",
+      "claimsAnchored": [
+        "State audit found Scott E. Morgan listed for Kansas secretary of state as a United Kansas candidate filed on 2026-05-20."
+      ],
+      "rowIds": [],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kansas-reflector-morgan",
+      "title": "United Kansas Party nominates Lawrence's Scott Morgan in secretary of state's race",
+      "url": "https://kansasreflector.com/briefs/united-kansas-party-nominates-lawrences-scott-morgan-in-secretary-of-states-race/",
+      "publisher": "Kansas Reflector",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Morgan's candidacy, biography, election-administration message, and prior public service."
+      ],
+      "rowIds": [
+        "em-scott-e-morgan-00001",
+        "em-scott-e-morgan-00002",
+        "em-scott-e-morgan-00003",
+        "em-scott-e-morgan-00004"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-united-kansas-who",
+      "title": "United Kansas - Who We Are",
+      "url": "https://www.unitedkansas.com/who-we-are",
+      "publisher": "United Kansas",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "United Kansas identifies Scott Morgan as executive director."
+      ],
+      "rowIds": [],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-united-kansas-principles",
+      "title": "United Kansas Party Principles",
+      "url": "https://www.unitedkansas.com/principles",
+      "publisher": "United Kansas",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "United Kansas issue principles on fiscal responsibility, education, health care, immigration, guns, environment, abortion, and judicial selection."
+      ],
+      "rowIds": [
+        "em-scott-e-morgan-00005",
+        "em-scott-e-morgan-00006",
+        "em-scott-e-morgan-00007",
+        "em-scott-e-morgan-00008"
+      ],
+      "tierCorrect": true
+    }
+  ],
+  "brokenSources": [],
+  "unsupportedClaims": []
+}

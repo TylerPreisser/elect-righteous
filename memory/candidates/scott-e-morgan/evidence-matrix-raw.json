@@ -1,0 +1,170 @@
+[
+  {
+    "id": "em-scott-e-morgan-00001",
+    "candidateSlug": "scott-e-morgan",
+    "candidateName": "Scott E. Morgan",
+    "raceSlug": "kansas-sos-2026",
+    "sourceFile": "memory/candidates/scott-e-morgan/raw-dump-v2.md",
+    "sourceUrl": "https://kansasreflector.com/briefs/united-kansas-party-nominates-lawrences-scott-morgan-in-secretary-of-states-race/",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "Morgan told Kansas Reflector he wants the secretary of state to support safe and secure elections while avoiding unnecessary barriers to voter participation.",
+    "exactEvidenceSummary": "Morgan told Kansas Reflector he wants the secretary of state to support safe and secure elections while avoiding unnecessary barriers to voter participation.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-reflector-morgan"
+    ]
+  },
+  {
+    "id": "em-scott-e-morgan-00002",
+    "candidateSlug": "scott-e-morgan",
+    "candidateName": "Scott E. Morgan",
+    "raceSlug": "kansas-sos-2026",
+    "sourceFile": "memory/candidates/scott-e-morgan/raw-dump-v2.md",
+    "sourceUrl": "https://kansasreflector.com/briefs/united-kansas-party-nominates-lawrences-scott-morgan-in-secretary-of-states-race/",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "Morgan framed the secretary of state as a quiet steward of elections and public trust rather than a source of partisan conflict.",
+    "exactEvidenceSummary": "Morgan framed the secretary of state as a quiet steward of elections and public trust rather than a source of partisan conflict.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-reflector-morgan"
+    ]
+  },
+  {
+    "id": "em-scott-e-morgan-00003",
+    "candidateSlug": "scott-e-morgan",
+    "candidateName": "Scott E. Morgan",
+    "raceSlug": "kansas-sos-2026",
+    "sourceFile": "memory/candidates/scott-e-morgan/raw-dump-v2.md",
+    "sourceUrl": "https://kansasreflector.com/briefs/united-kansas-party-nominates-lawrences-scott-morgan-in-secretary-of-states-race/",
+    "sourceTier": "secondary",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      3
+    ],
+    "claim": "Kansas Reflector reported that Morgan served two terms on the Lawrence school board.",
+    "exactEvidenceSummary": "Kansas Reflector reported that Morgan served two terms on the Lawrence school board.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-reflector-morgan"
+    ]
+  },
+  {
+    "id": "em-scott-e-morgan-00004",
+    "candidateSlug": "scott-e-morgan",
+    "candidateName": "Scott E. Morgan",
+    "raceSlug": "kansas-sos-2026",
+    "sourceFile": "memory/candidates/scott-e-morgan/raw-dump-v2.md",
+    "sourceUrl": "https://kansasreflector.com/briefs/united-kansas-party-nominates-lawrences-scott-morgan-in-secretary-of-states-race/",
+    "sourceTier": "secondary",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      6
+    ],
+    "claim": "Kansas Reflector reported that Morgan co-founded Morgan Quitno Press, a publisher of state and city statistical reference books and databases.",
+    "exactEvidenceSummary": "Kansas Reflector reported that Morgan co-founded Morgan Quitno Press, a publisher of state and city statistical reference books and databases.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-reflector-morgan"
+    ]
+  },
+  {
+    "id": "em-scott-e-morgan-00005",
+    "candidateSlug": "scott-e-morgan",
+    "candidateName": "Scott E. Morgan",
+    "raceSlug": "kansas-sos-2026",
+    "sourceFile": "memory/candidates/scott-e-morgan/raw-dump-v2.md",
+    "sourceUrl": "https://www.unitedkansas.com/principles",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      5
+    ],
+    "claim": "United Kansas principles say fiscal responsibility means maintaining priorities, making difficult decisions, and living within means; this is party guidance, not a Morgan-only position.",
+    "exactEvidenceSummary": "United Kansas principles say fiscal responsibility means maintaining priorities, making difficult decisions, and living within means; this is party guidance, not a Morgan-only position.",
+    "confidence": "likely",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Party-principles evidence; do not overstate as a personal detailed platform.",
+    "sourceIds": [
+      "s-united-kansas-principles"
+    ]
+  },
+  {
+    "id": "em-scott-e-morgan-00006",
+    "candidateSlug": "scott-e-morgan",
+    "candidateName": "Scott E. Morgan",
+    "raceSlug": "kansas-sos-2026",
+    "sourceFile": "memory/candidates/scott-e-morgan/raw-dump-v2.md",
+    "sourceUrl": "https://www.unitedkansas.com/principles",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      9
+    ],
+    "claim": "United Kansas principles support accessible and affordable health care and identify Medicaid expansion as one possible part of addressing gaps; this is party guidance, not a Morgan-only position.",
+    "exactEvidenceSummary": "United Kansas principles support accessible and affordable health care and identify Medicaid expansion as one possible part of addressing gaps; this is party guidance, not a Morgan-only position.",
+    "confidence": "likely",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Party-principles evidence.",
+    "sourceIds": [
+      "s-united-kansas-principles"
+    ]
+  },
+  {
+    "id": "em-scott-e-morgan-00007",
+    "candidateSlug": "scott-e-morgan",
+    "candidateName": "Scott E. Morgan",
+    "raceSlug": "kansas-sos-2026",
+    "sourceFile": "memory/candidates/scott-e-morgan/raw-dump-v2.md",
+    "sourceUrl": "https://www.unitedkansas.com/principles",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      8
+    ],
+    "claim": "United Kansas principles support a strong border with humane treatment of undocumented people, a pathway to citizenship for long-time residents, and ample temporary-worker visas with labor protections; this is party guidance.",
+    "exactEvidenceSummary": "United Kansas principles support a strong border with humane treatment of undocumented people, a pathway to citizenship for long-time residents, and ample temporary-worker visas with labor protections; this is party guidance.",
+    "confidence": "likely",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Party-principles evidence.",
+    "sourceIds": [
+      "s-united-kansas-principles"
+    ]
+  },
+  {
+    "id": "em-scott-e-morgan-00008",
+    "candidateSlug": "scott-e-morgan",
+    "candidateName": "Scott E. Morgan",
+    "raceSlug": "kansas-sos-2026",
+    "sourceFile": "memory/candidates/scott-e-morgan/raw-dump-v2.md",
+    "sourceUrl": "https://www.unitedkansas.com/principles",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      14
+    ],
+    "claim": "United Kansas principles call for stewardship of natural resources, including water access, productive land, and sustainability of Kansas communities; this is party guidance.",
+    "exactEvidenceSummary": "United Kansas principles call for stewardship of natural resources, including water access, productive land, and sustainability of Kansas communities; this is party guidance.",
+    "confidence": "likely",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Party-principles evidence.",
+    "sourceIds": [
+      "s-united-kansas-principles"
+    ]
+  }
+]

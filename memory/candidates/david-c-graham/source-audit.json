@@ -1,0 +1,58 @@
+{
+  "candidateSlug": "david-c-graham",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "sources": [
+    {
+      "sourceId": "s-sos-2026-general",
+      "title": "Kansas SOS Candidate List - 2026 General",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "publisher": "Kansas Secretary of State",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "official page requires JavaScript/anti-bot verification in this CLI environment; details captured from auditor readback",
+      "claimsAnchored": [
+        "State audit found David C. Graham listed for U.S. Senate as a Libertarian candidate filed on 2026-05-12."
+      ],
+      "rowIds": [
+        "em-david-c-graham-00001"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-ivoterguide-2022",
+      "title": "David C. Graham iVoterGuide 2022 candidate profile",
+      "url": "https://ivoterguide.com/candidate/74609/race/11249/election/987",
+      "publisher": "iVoterGuide",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "2022 profile lists education, Harper County attorney service, Libertarian Party of Kansas affiliation, and questionnaire answers."
+      ],
+      "rowIds": [
+        "em-david-c-graham-00003",
+        "em-david-c-graham-00004",
+        "em-david-c-graham-00005"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-lawrence-times-2022",
+      "title": "Meet the candidates vying to represent Kansas in the U.S. Senate",
+      "url": "https://lawrencekstimes.com/2022/07/22/ussen-ks-candidates-202208/",
+      "publisher": "The Lawrence Times",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "2022 Lawrence Times guide listed David C. Graham as the Libertarian U.S. Senate candidate."
+      ],
+      "rowIds": [
+        "em-david-c-graham-00002"
+      ],
+      "tierCorrect": true
+    }
+  ],
+  "brokenSources": [],
+  "unsupportedClaims": []
+}

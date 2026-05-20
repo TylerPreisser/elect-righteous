@@ -1,0 +1,150 @@
+[
+  {
+    "id": "em-kelly-ancar-00001",
+    "candidateSlug": "kelly-ancar",
+    "candidateName": "Kelly Ancar",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+    "sourceUrl": "https://hayspost.com/posts/277408cf-68c3-4bb4-b3dc-7bba965651ef",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      3
+    ],
+    "claim": "In the 2025 USD 489 Q&A, Ancar said school-board members should manage resources wisely, focus on student outcomes, and help students graduate competitively.",
+    "exactEvidenceSummary": "In the 2025 USD 489 Q&A, Ancar said school-board members should manage resources wisely, focus on student outcomes, and help students graduate competitively.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-hayspost-usd-2025"
+    ]
+  },
+  {
+    "id": "em-kelly-ancar-00002",
+    "candidateSlug": "kelly-ancar",
+    "candidateName": "Kelly Ancar",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+    "sourceUrl": "https://hayspost.com/posts/277408cf-68c3-4bb4-b3dc-7bba965651ef",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      3
+    ],
+    "claim": "Ancar specifically identified math proficiency as an area where USD 489 could improve and said spending more money does not necessarily translate into better outcomes.",
+    "exactEvidenceSummary": "Ancar specifically identified math proficiency as an area where USD 489 could improve and said spending more money does not necessarily translate into better outcomes.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-hayspost-usd-2025"
+    ]
+  },
+  {
+    "id": "em-kelly-ancar-00003",
+    "candidateSlug": "kelly-ancar",
+    "candidateName": "Kelly Ancar",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+    "sourceUrl": "https://hayspost.com/posts/277408cf-68c3-4bb4-b3dc-7bba965651ef",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "Ancar called for more transparency in bond-project planning, including readable plans and better opportunities for board members and the community to review proposed work.",
+    "exactEvidenceSummary": "Ancar called for more transparency in bond-project planning, including readable plans and better opportunities for board members and the community to review proposed work.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-hayspost-usd-2025"
+    ]
+  },
+  {
+    "id": "em-kelly-ancar-00004",
+    "candidateSlug": "kelly-ancar",
+    "candidateName": "Kelly Ancar",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+    "sourceUrl": "https://hayspost.com/posts/2c3a44b2-1b4a-414a-8082-0ecddc9fcacd",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      5
+    ],
+    "claim": "In her 2023 Hays city questionnaire, Ancar said the city should reduce its mill levy and stay revenue neutral to give taxpayers relief.",
+    "exactEvidenceSummary": "In her 2023 Hays city questionnaire, Ancar said the city should reduce its mill levy and stay revenue neutral to give taxpayers relief.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-hayspost-city-2023"
+    ]
+  },
+  {
+    "id": "em-kelly-ancar-00005",
+    "candidateSlug": "kelly-ancar",
+    "candidateName": "Kelly Ancar",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+    "sourceUrl": "https://hayspost.com/posts/2c3a44b2-1b4a-414a-8082-0ecddc9fcacd",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      6
+    ],
+    "claim": "Ancar identified housing supply and business recruitment as connected economic-development priorities for Hays.",
+    "exactEvidenceSummary": "Ancar identified housing supply and business recruitment as connected economic-development priorities for Hays.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-hayspost-city-2023"
+    ]
+  },
+  {
+    "id": "em-kelly-ancar-00006",
+    "candidateSlug": "kelly-ancar",
+    "candidateName": "Kelly Ancar",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+    "sourceUrl": "https://hayspost.com/posts/2c3a44b2-1b4a-414a-8082-0ecddc9fcacd",
+    "sourceTier": "secondary",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      9
+    ],
+    "claim": "Ancar's public biographies identify her as a registered nurse and home-care business owner.",
+    "exactEvidenceSummary": "Ancar's public biographies identify her as a registered nurse and home-care business owner.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-hayspost-city-2023",
+      "s-amazing-grace-about"
+    ]
+  },
+  {
+    "id": "em-kelly-ancar-00007",
+    "candidateSlug": "kelly-ancar",
+    "candidateName": "Kelly Ancar",
+    "raceSlug": "sboe-district-5",
+    "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+    "sourceUrl": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "sourceTier": "primary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "The state roster audit found Ancar in the official Kansas SOS 2026 Primary list for State Board of Education District 5.",
+    "exactEvidenceSummary": "The state roster audit found Ancar in the official Kansas SOS 2026 Primary list for State Board of Education District 5.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-sos-2026-primary"
+    ]
+  }
+]

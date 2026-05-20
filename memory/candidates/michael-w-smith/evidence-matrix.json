@@ -1,0 +1,86 @@
+[
+  {
+    "id": "em-michael-w-smith-00001",
+    "candidateSlug": "michael-w-smith",
+    "candidateName": "Michael W. Smith",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/michael-w-smith/raw-dump-v2.md",
+    "sourceUrl": "https://www.pawneecountykansas.com/DocumentCenter/View/2078/2026-PN-Co-Candidate-List",
+    "sourceTier": "primary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "A county filing mirror lists the Rogers/Smith governor-lieutenant governor ticket as filed December 22, 2025.",
+    "exactEvidenceSummary": "A county filing mirror lists the Rogers/Smith governor-lieutenant governor ticket as filed December 22, 2025.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-pawnee-candidate-list"
+    ]
+  },
+  {
+    "id": "em-michael-w-smith-00002",
+    "candidateSlug": "michael-w-smith",
+    "candidateName": "Michael W. Smith",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/michael-w-smith/raw-dump-v2.md",
+    "sourceUrl": "https://stacyrogersforks.com/stacys-team",
+    "sourceTier": "secondary",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      11
+    ],
+    "claim": "Rogers's campaign says Smith began public service as chief of police for Lansing.",
+    "exactEvidenceSummary": "Rogers's campaign says Smith began public service as chief of police for Lansing.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-stacy-team"
+    ]
+  },
+  {
+    "id": "em-michael-w-smith-00003",
+    "candidateSlug": "michael-w-smith",
+    "candidateName": "Michael W. Smith",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/michael-w-smith/raw-dump-v2.md",
+    "sourceUrl": "https://stacyrogersforks.com/stacys-team",
+    "sourceTier": "secondary",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "The campaign says Smith has served as Leavenworth County commissioner, mayor of Lansing, city administrator, and former president of the Kansas Mayor's Association.",
+    "exactEvidenceSummary": "The campaign says Smith has served as Leavenworth County commissioner, mayor of Lansing, city administrator, and former president of the Kansas Mayor's Association.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-stacy-team"
+    ]
+  },
+  {
+    "id": "em-michael-w-smith-00004",
+    "candidateSlug": "michael-w-smith",
+    "candidateName": "Michael W. Smith",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/michael-w-smith/raw-dump-v2.md",
+    "sourceUrl": "https://stacyrogersforks.com/stacys-team",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      6
+    ],
+    "claim": "Rogers's campaign frames Smith's record around responsible growth, business development, and fiscal management in local government.",
+    "exactEvidenceSummary": "Rogers's campaign frames Smith's record around responsible growth, business development, and fiscal management in local government.",
+    "confidence": "likely",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Campaign biography, not an independent performance audit.",
+    "sourceIds": [
+      "s-stacy-team"
+    ]
+  }
+]

@@ -1,0 +1,396 @@
+{
+  "slug": "renee-duxler",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "agent": "codex missing-roster artifact generator",
+  "candidate_metadata": {
+    "slug": "renee-duxler",
+    "name": "Renee Duxler",
+    "party": "D",
+    "position": "Lieutenant governor running mate on the Ethan Corson ticket",
+    "electionSlug": "kansas-governor-2026",
+    "incumbent": false,
+    "occupation": "President and CEO of the Salina Area Chamber of Commerce; former economic and workforce development director",
+    "whoTheyAre": "Renee Duxler was added because Kansas Reflector reported on May 20, 2026 that Ethan Corson selected her as his lieutenant governor running mate. The report says Duxler is president and CEO of the Salina Area Chamber of Commerce, was raised in Hays and McPherson, earned social-work degrees from Kansas State University and Newman University, worked at an HIV/AIDS clinic, owned a resale clothing store, led the Douglas Design District, served on the Wichita/Sedgwick County Metropolitan Planning Commission, and moved to Salina in 2020 for a chamber economic/workforce development role.",
+    "recordSummary": "The current record documents Duxler as a newly named running mate with a chamber, workforce-development, small-business, and social-work background. No separate elected-office voting record was found in this pass.",
+    "whereTheyWorship": "No direct public evidence of a current worship community was found in this missing-roster pass. No faith-based policy inference is made.",
+    "social_presence_note": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for Renee Duxler in this missing-roster pass. Public social evidence remains a signal layer only; none is used as a confirmed policy position."
+  },
+  "sources": [
+    {
+      "id": "s-kansas-reflector-duxler",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/",
+      "title": "Democratic governor candidate Ethan Corson joins forces with Salina business director",
+      "publisher": "Kansas Reflector",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Reports Duxler as Corson's running mate and gives biography, education, and economic-development background."
+      ]
+    },
+    {
+      "id": "s-salina-chamber-team",
+      "tier": "secondary",
+      "url": "https://www.salinakansas.org/meet-our-team.html",
+      "title": "Meet Our Team - Salina Area Chamber of Commerce",
+      "publisher": "Salina Area Chamber of Commerce",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Chamber staff page identifies Renee Duxler as president/CEO."
+      ]
+    },
+    {
+      "id": "s-ksal-duxler",
+      "tier": "secondary",
+      "url": "https://www.ksal.com/duxler-is-new-chamber-president-ceo/",
+      "title": "Duxler is New Chamber President & CEO",
+      "publisher": "KSAL",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Reports Duxler becoming president and CEO of the Salina Area Chamber of Commerce."
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "i-roster-status",
+      "title": "Roster and filing status",
+      "stated": {
+        "text": "Named lieutenant-governor running mate on Ethan Corson's Democratic governor ticket on May 20, 2026.",
+        "sourceIds": [
+          "s-kansas-reflector-duxler",
+          "s-salina-chamber-team"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-roster-status",
+          "date": "2026-05-20",
+          "body": "Named lieutenant-governor running mate on Ethan Corson's Democratic governor ticket on May 20, 2026.",
+          "sourceIds": [
+            "s-kansas-reflector-duxler",
+            "s-salina-chamber-team"
+          ]
+        }
+      ],
+      "socialSignals": []
+    }
+  ],
+  "campaign_finance": {
+    "totalRaised": "Not itemized in the reviewed public records for this missing-roster pass",
+    "narrative": "No itemized campaign-finance filing was found in this missing-roster pass.",
+    "donors": [],
+    "reportingPeriod": "Most recent public record reviewed on 2026-05-20",
+    "source": "Democratic governor candidate Ethan Corson joins forces with Salina business director",
+    "sourceIds": [
+      "s-kansas-reflector-duxler",
+      "s-salina-chamber-team",
+      "s-ksal-duxler"
+    ]
+  },
+  "editorial_notes": [
+    "Added from the May 20, 2026 missing-candidate delta audit.",
+    "Every candidate has a 14-issue matrix; thin public records are explicitly caveated.",
+    "Social evidence was not deleted. No reliable candidate-controlled follows, likes, comments, or posts were found for this pass unless separately listed in evidence."
+  ],
+  "fixed_issue_matrix": [
+    {
+      "issueNumber": 1,
+      "title": "Abortion / life",
+      "summary": "No relevant public evidence was found for Abortion / life after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 2,
+      "title": "LGBT / gender / parental rights",
+      "summary": "No relevant public evidence was found for LGBT / gender / parental rights after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 3,
+      "title": "Education / curriculum / schools",
+      "summary": "No relevant public evidence was found for Education / curriculum / schools after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 4,
+      "title": "Religious liberty / church / civic morality",
+      "summary": "No relevant public evidence was found for Religious liberty / church / civic morality after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 5,
+      "title": "Taxes / spending / debt",
+      "summary": "No relevant public evidence was found for Taxes / spending / debt after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 6,
+      "title": "Economy / jobs / labor",
+      "summary": "Economy / jobs / labor: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-renee-duxler-00002",
+          "classification": "background-context",
+          "text": "Kansas Reflector reported Duxler has worked in economic and workforce development and currently leads the Salina Area Chamber of Commerce.",
+          "sourceIds": [
+            "s-kansas-reflector-duxler",
+            "s-salina-chamber-team"
+          ],
+          "sourceUrl": "https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/",
+          "sourceFile": "memory/candidates/renee-duxler/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 7,
+      "title": "Guns / Second Amendment",
+      "summary": "No relevant public evidence was found for Guns / Second Amendment after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 8,
+      "title": "Immigration / border",
+      "summary": "No relevant public evidence was found for Immigration / border after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 9,
+      "title": "Health care / insurance / Medicaid",
+      "summary": "Health care / insurance / Medicaid: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-renee-duxler-00003",
+          "classification": "background-context",
+          "text": "Kansas Reflector reported Duxler worked at an HIV/AIDS clinic and earned social-work degrees from Kansas State University and Newman University.",
+          "sourceIds": [
+            "s-kansas-reflector-duxler"
+          ],
+          "sourceUrl": "https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/",
+          "sourceFile": "memory/candidates/renee-duxler/raw-dump-v2.md",
+          "confidence": "likely",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 10,
+      "title": "Election integrity / voting / courts",
+      "summary": "Election integrity / voting / courts: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-renee-duxler-00001",
+          "classification": "documented-record",
+          "text": "Kansas Reflector reported that Ethan Corson selected Renee Duxler as his lieutenant governor running mate.",
+          "sourceIds": [
+            "s-kansas-reflector-duxler"
+          ],
+          "sourceUrl": "https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/",
+          "sourceFile": "memory/candidates/renee-duxler/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 11,
+      "title": "Public safety / law enforcement / criminal justice",
+      "summary": "No relevant public evidence was found for Public safety / law enforcement / criminal justice after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 12,
+      "title": "Agriculture / rural economy / water",
+      "summary": "Agriculture / rural economy / water: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-renee-duxler-00005",
+          "classification": "background-context",
+          "text": "Kansas Reflector reported Duxler was raised in Hays and McPherson, giving the ticket central/western Kansas roots.",
+          "sourceIds": [
+            "s-kansas-reflector-duxler"
+          ],
+          "sourceUrl": "https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/",
+          "sourceFile": "memory/candidates/renee-duxler/raw-dump-v2.md",
+          "confidence": "likely",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 13,
+      "title": "Local governance / transparency / ethics",
+      "summary": "Local governance / transparency / ethics: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-renee-duxler-00004",
+          "classification": "background-context",
+          "text": "Kansas Reflector reported Duxler served on the Wichita/Sedgwick County Metropolitan Planning Commission.",
+          "sourceIds": [
+            "s-kansas-reflector-duxler"
+          ],
+          "sourceUrl": "https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/",
+          "sourceFile": "memory/candidates/renee-duxler/raw-dump-v2.md",
+          "confidence": "likely",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 14,
+      "title": "Environment / energy / land use",
+      "summary": "No relevant public evidence was found for Environment / energy / land use after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    }
+  ]
+}

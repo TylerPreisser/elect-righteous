@@ -14,11 +14,13 @@ import { CHRIS_MANN_V2 } from "./chris-mann";
 import { CHRISTY_CAUBLE_DAVIS_V2 } from "./christy-cauble-davis";
 import { CINDY_HOLSCHER_V2 } from "./cindy-holscher";
 import { COLIN_MCROBERTS_V2 } from "./colin-mcroberts";
+import { CODY_WARD_V2 } from "./cody-ward";
 import { CRAIG_MUSSER_V2 } from "./craig-musser";
 import { CRAIG_PALLISTER_V2 } from "./craig-pallister";
 import { CURT_VAJNAR_V2 } from "./curt-vajnar";
 import { DAMON_ANDERSON_V2 } from "./damon-anderson";
 import { DANIEL_HAWKINS_V2 } from "./daniel-hawkins";
+import { DAVID_C_GRAHAM_V2 } from "./david-c-graham";
 import { DAVID_VILAYSING_V2 } from "./david-vilaysing";
 import { DEREK_YARMER_V2 } from "./derek-yarmer";
 import { DINAH_SYKES_V2 } from "./dinah-sykes";
@@ -30,7 +32,10 @@ import { JASON_HART_V2 } from "./jason-hart";
 import { JAYME_GOETZ_V2 } from "./jayme-goetz";
 import { JEFF_COLYER_V2 } from "./jeff-colyer";
 import { JENNIFER_DAY_V2 } from "./jennifer-day";
+import { JOE_NEWLAND_V2 } from "./joe-newland";
 import { JOY_EAKINS_V2 } from "./joy-eakins";
+import { KC_OHAEBOSIM_V2 } from "./kc-ohaebosim";
+import { KELLY_ANCAR_V2 } from "./kelly-ancar";
 import { KEN_BROOKS_V2 } from "./ken-brooks";
 import { KEN_RAHJES_V2 } from "./ken-rahjes";
 import { KEVIN_LATZ_V2 } from "./kevin-latz";
@@ -38,10 +43,14 @@ import { KRIS_KOBACH_V2 } from "./kris-kobach";
 import { LAUREN_REINHOLD_V2 } from "./lauren-reinhold";
 import { LORIE_WOOD_V2 } from "./lorie-wood";
 import { MARK_LANE_V2 } from "./mark-lane";
+import { MARK_SCHAUKOWITCH_V2 } from "./mark-schaukowitch";
 import { MARTY_TULEY_V2 } from "./marty-tuley";
 import { MASON_RUDER_V2 } from "./mason-ruder";
+import { MARVIN_MATCHETT_V2 } from "./marvin-matchett";
+import { MAX_DIBBLE_V2 } from "./max-dibble";
 import { MICHAEL_BERGES_V2 } from "./michael-berges";
 import { MICHAEL_SOETAERT_V2 } from "./michael-soetaert";
+import { MICHAEL_W_SMITH_V2 } from "./michael-w-smith";
 import { MICHELLE_CUNNINGHAM_V2 } from "./michelle-cunningham";
 import { NATHAN_LEIKER_V2 } from "./nathan-leiker";
 import { NEAL_YOUNGER_V2 } from "./neal-younger";
@@ -50,6 +59,7 @@ import { PAT_PROCTOR_V2 } from "./pat-proctor";
 import { PATRICK_SCHMIDT_V2 } from "./patrick-schmidt";
 import { PHILIP_SARNECKI_V2 } from "./philip-sarnecki";
 import { REBECCA_HERZOG_V2 } from "./rebecca-herzog";
+import { RENEE_DUXLER_V2 } from "./renee-duxler";
 import { RIC_KOEHN_V2 } from "./ric-koehn";
 import { ROGER_MARSHALL_V2 } from "./roger-marshall";
 import { RON_WILSON_V2 } from "./ron-wilson";
@@ -58,6 +68,7 @@ import { SAM_LANE_V2 } from "./sam-lane";
 import { SANDY_JACOBS_V2 } from "./sandy-jacobs";
 import { SANDY_SPIDEL_NEUMANN_V2 } from "./sandy-spidel-neumann";
 import { SCOTT_BRAUN_V2 } from "./scott-braun";
+import { SCOTT_E_MORGAN_V2 } from "./scott-e-morgan";
 import { SCOTT_SCHWAB_V2 } from "./scott-schwab";
 import { SHAUN_MUSIL_V2 } from "./shaun-musil";
 import { SHARILYN_RAY_V2 } from "./sharilyn-ray";
@@ -86,11 +97,13 @@ export const V2_CANDIDATES: CandidateFullV2[] = [
   CHRISTY_CAUBLE_DAVIS_V2,
   CINDY_HOLSCHER_V2,
   COLIN_MCROBERTS_V2,
+  CODY_WARD_V2,
   CRAIG_MUSSER_V2,
   CRAIG_PALLISTER_V2,
   CURT_VAJNAR_V2,
   DAMON_ANDERSON_V2,
   DANIEL_HAWKINS_V2,
+  DAVID_C_GRAHAM_V2,
   DAVID_VILAYSING_V2,
   DEREK_YARMER_V2,
   DINAH_SYKES_V2,
@@ -102,7 +115,10 @@ export const V2_CANDIDATES: CandidateFullV2[] = [
   JAYME_GOETZ_V2,
   JEFF_COLYER_V2,
   JENNIFER_DAY_V2,
+  JOE_NEWLAND_V2,
   JOY_EAKINS_V2,
+  KC_OHAEBOSIM_V2,
+  KELLY_ANCAR_V2,
   KEN_BROOKS_V2,
   KEN_RAHJES_V2,
   KEVIN_LATZ_V2,
@@ -110,10 +126,14 @@ export const V2_CANDIDATES: CandidateFullV2[] = [
   LAUREN_REINHOLD_V2,
   LORIE_WOOD_V2,
   MARK_LANE_V2,
+  MARK_SCHAUKOWITCH_V2,
   MARTY_TULEY_V2,
   MASON_RUDER_V2,
+  MARVIN_MATCHETT_V2,
+  MAX_DIBBLE_V2,
   MICHAEL_BERGES_V2,
   MICHAEL_SOETAERT_V2,
+  MICHAEL_W_SMITH_V2,
   MICHELLE_CUNNINGHAM_V2,
   NATHAN_LEIKER_V2,
   NEAL_YOUNGER_V2,
@@ -122,6 +142,7 @@ export const V2_CANDIDATES: CandidateFullV2[] = [
   PATRICK_SCHMIDT_V2,
   PHILIP_SARNECKI_V2,
   REBECCA_HERZOG_V2,
+  RENEE_DUXLER_V2,
   RIC_KOEHN_V2,
   ROGER_MARSHALL_V2,
   RON_WILSON_V2,
@@ -130,6 +151,7 @@ export const V2_CANDIDATES: CandidateFullV2[] = [
   SANDY_JACOBS_V2,
   SANDY_SPIDEL_NEUMANN_V2,
   SCOTT_BRAUN_V2,
+  SCOTT_E_MORGAN_V2,
   SCOTT_SCHWAB_V2,
   SHAUN_MUSIL_V2,
   SHARILYN_RAY_V2,

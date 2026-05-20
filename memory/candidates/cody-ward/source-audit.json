@@ -1,0 +1,56 @@
+{
+  "candidateSlug": "cody-ward",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "sources": [
+    {
+      "sourceId": "s-sos-2026-primary",
+      "title": "Kansas SOS Candidate List - 2026 Primary",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "publisher": "Kansas Secretary of State",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "official page requires JavaScript/anti-bot verification in this CLI environment; details captured from auditor readback",
+      "claimsAnchored": [
+        "State audit found Cody Ward listed for Kansas House District 110."
+      ],
+      "rowIds": [
+        "em-cody-ward-00001"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kpdc-house-index",
+      "title": "Kansas House of Representatives - 2026 Election Cycle",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/HLinks2026EC.htm",
+      "publisher": "Kansas Public Disclosure Commission",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "KPDC lists Cody Ward for House District 110."
+      ],
+      "rowIds": [
+        "em-cody-ward-00002"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kpdc-at",
+      "title": "Cody D. Ward Appointment of Treasurer",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/Treasurers/H110CW_AT.pdf",
+      "publisher": "Kansas Public Disclosure Commission",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Appointment-of-treasurer form identifies Cody D. Ward as a House District 110 candidate, dated 2026-05-12."
+      ],
+      "rowIds": [
+        "em-cody-ward-00002"
+      ],
+      "tierCorrect": true
+    }
+  ],
+  "brokenSources": [],
+  "unsupportedClaims": []
+}

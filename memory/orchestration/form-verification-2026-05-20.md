@@ -27,6 +27,7 @@ The rendered correction form is wired to Tyler's `@preissersolutions.com` email 
 - FormSubmit activation is not confirmed from the repo. FormSubmit commonly requires first-time recipient activation via an email confirmation.
 - Old submissions were not investigated in this pass because no mailbox/FormSubmit dashboard access is available in the repo context.
 - 2026-05-20 update: a controlled live test submission was attempted after Tyler requested a test. Both the AJAX endpoint (`https://formsubmit.co/ajax/tyler@preissersolutions.com`) and HTML fallback endpoint (`https://formsubmit.co/tyler@preissersolutions.com`) returned Cloudflare/FormSubmit `522` timeout responses from this environment. The provider root also returned `522`. This pass did not prove live delivery.
+- 2026-05-20 roster-delta update: a second controlled AJAX test was sent after the missing-candidate update using subject `Elect Righteous - Correction form delivery test 2026-05-20`. FormSubmit/Cloudflare returned HTTP `521` (`error code: 521`). Delivery still is not proven from this environment.
 
 ## Required Follow-Up
 

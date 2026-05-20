@@ -1,0 +1,76 @@
+{
+  "candidateSlug": "kc-ohaebosim",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "sources": [
+    {
+      "sourceId": "s-community-voice",
+      "title": "Holscher Taps Wichita Rep. KC Ohaebosim as Running Mate in Governor's Race",
+      "url": "https://www.communityvoiceks.com/2026/05/14/holscher-kc-ohaebosim-running-mate/",
+      "publisher": "The Community Voice / Kansas Reflector",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Reports Ohaebosim as Holscher's running mate and summarizes biography and policy alignment."
+      ],
+      "rowIds": [
+        "em-kc-ohaebosim-00001",
+        "em-kc-ohaebosim-00002",
+        "em-kc-ohaebosim-00003",
+        "em-kc-ohaebosim-00004",
+        "em-kc-ohaebosim-00007"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kwch-ohaebosim",
+      "title": "Kansas gubernatorial candidate picks Wichita representative for running mate",
+      "url": "https://www.kwch.com/2026/05/14/kansas-gubernatorial-candidate-picks-wichita-representative-running-mate/",
+      "publisher": "KWCH",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Reports Holscher selected Ohaebosim and summarizes his legislative background."
+      ],
+      "rowIds": [
+        "em-kc-ohaebosim-00001",
+        "em-kc-ohaebosim-00002",
+        "em-kc-ohaebosim-00005",
+        "em-kc-ohaebosim-00006",
+        "em-kc-ohaebosim-00007"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-ksleg-ohaebosim",
+      "title": "Representative KC Ohaebosim",
+      "url": "https://kslegislature.gov/li_2024s/b2023_24/members/rep_ohaebosim_kc_1/",
+      "publisher": "Kansas Legislature",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Official legislature profile for Representative KC Ohaebosim."
+      ],
+      "rowIds": [],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kpdc-house-index",
+      "title": "Kansas House of Representatives - 2026 Election Cycle",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/HLinks2026EC.htm",
+      "publisher": "Kansas Public Disclosure Commission",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "KPDC lists Ohaebosim in House District 89 campaign-finance records."
+      ],
+      "rowIds": [],
+      "tierCorrect": true
+    }
+  ],
+  "brokenSources": [],
+  "unsupportedClaims": []
+}

@@ -1,0 +1,90 @@
+{
+  "candidateSlug": "marvin-matchett",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "sources": [
+    {
+      "sourceId": "s-sos-2026-primary",
+      "title": "Kansas SOS Candidate List - 2026 Primary",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "publisher": "Kansas Secretary of State",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "official page requires JavaScript/anti-bot verification in this CLI environment; details captured from auditor readback",
+      "claimsAnchored": [
+        "State audit found Marvin Matchett listed for Kansas House District 110."
+      ],
+      "rowIds": [
+        "em-marvin-matchett-00001",
+        "em-marvin-matchett-00005"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-norton-commission",
+      "title": "Norton County Board of County Commissioners contacts",
+      "url": "https://www.nortoncountyks.gov/departments/staff_directory/BoardofCountyCommissioners/",
+      "publisher": "Norton County",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Official county page lists Marvin Matchett as a commissioner."
+      ],
+      "rowIds": [
+        "em-marvin-matchett-00002"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kac-board",
+      "title": "Kansas Association of Counties Governing Board",
+      "url": "https://kansascounties.org/page/GoverningBoard",
+      "publisher": "Kansas Association of Counties",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "KAC lists Marvin Matchett in county-association leadership roles."
+      ],
+      "rowIds": [
+        "em-marvin-matchett-00004"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-hb2712",
+      "title": "HB 2712 - Kansas Legislature testimony listing",
+      "url": "https://www.kslegislature.gov/bills/HB2712/",
+      "publisher": "Kansas Legislature",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Kansas Legislature page lists Marvin Matchett testimony on HB 2712."
+      ],
+      "rowIds": [
+        "em-marvin-matchett-00003"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-sb488-testimony",
+      "title": "Marvin Matchett testimony on SCR 1621 and SB 488",
+      "url": "https://www.kslegislature.gov/li/b2025_26/committees/ctte_s_assess_tax_1/documents/testimony/20260310_282.pdf",
+      "publisher": "Kansas Legislature",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Written testimony identifies Matchett as Norton County Commissioner and president of the Kansas Legislative Policy Group."
+      ],
+      "rowIds": [
+        "em-marvin-matchett-00003",
+        "em-marvin-matchett-00004"
+      ],
+      "tierCorrect": true
+    }
+  ],
+  "brokenSources": [],
+  "unsupportedClaims": []
+}

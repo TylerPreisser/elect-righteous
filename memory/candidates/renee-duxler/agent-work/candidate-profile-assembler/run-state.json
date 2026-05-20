@@ -1,0 +1,16 @@
+{
+  "candidateSlug": "renee-duxler",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "inputs_read": [
+    "https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/",
+    "https://www.salinakansas.org/meet-our-team.html",
+    "https://www.ksal.com/duxler-is-new-chamber-president-ceo/"
+  ],
+  "outputs_written": [
+    "memory/candidates/renee-duxler/evidence-matrix.json",
+    "memory/candidates/renee-duxler/social-evidence-matrix.json",
+    "memory/candidates/renee-duxler/source-audit.md",
+    "memory/candidates/renee-duxler/issue-matrix.md",
+    "memory/candidates/renee-duxler/v2-issues.yaml"
+  ]
+}

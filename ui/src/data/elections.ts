@@ -25,7 +25,7 @@ export const ELECTIONS: Election[] = [
     jurisdiction: "State of Kansas",
     seats: 1,
     status: "Incumbent Running",
-    candidateCount: 13,
+    candidateCount: 14,
     candidateSlugs: [
       "roger-marshall",
       "damon-anderson",
@@ -40,11 +40,12 @@ export const ELECTIONS: Election[] = [
       "noah-taylor",
       "adam-hamilton",
       "chase-laporte",
+      "david-c-graham",
     ],
     description:
-      "Roger Marshall faces a crowded field of Democratic challengers plus Republican-side filing activity in one of Kansas's highest-profile races.",
+      "Roger Marshall faces a crowded field of Democratic challengers, Republican-side filing activity, and a Libertarian general-election filing in one of Kansas's highest-profile races.",
     plainEnglish:
-      "Kansas gets only two U.S. senators, and this seat is on the ballot in November 2026. Incumbent Roger Marshall is running again, while Democratic challengers now include Damon Anderson, Jason Hart, Kevin Latz, Patrick Schmidt, Christy Cauble Davis, Sandy Spidel Neumann, Erik Murray, Anne Parelkar, Michael Soetaert, Noah Taylor, and Adam Hamilton. Chase LaPorte remains flagged because federal filing evidence exists, but his profile notes conflicting House/Senate records that require final-list recheck.",
+      "Kansas gets only two U.S. senators, and this seat is on the ballot in November 2026. Incumbent Roger Marshall is running again, while Democratic challengers now include Damon Anderson, Jason Hart, Kevin Latz, Patrick Schmidt, Christy Cauble Davis, Sandy Spidel Neumann, Erik Murray, Anne Parelkar, Michael Soetaert, Noah Taylor, and Adam Hamilton. David C. Graham was added from the Kansas SOS general-election list as a Libertarian candidate. Chase LaPorte remains flagged because federal filing evidence exists, but his profile notes conflicting House/Senate records that require final-list recheck.",
     whyItMatters:
       "U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington.",
     jobDescription:
@@ -83,7 +84,7 @@ export const ELECTIONS: Election[] = [
     jurisdiction: "State of Kansas",
     seats: 1,
     status: "Open Seat",
-    candidateCount: 15,
+    candidateCount: 19,
     candidateSlugs: [
       "scott-schwab",
       "vicki-schmidt",
@@ -97,14 +98,18 @@ export const ELECTIONS: Election[] = [
       "joy-eakins",
       "ethan-corson",
       "cindy-holscher",
+      "kc-ohaebosim",
       "mark-lane",
       "marty-tuley",
       "sharilyn-ray",
+      "michael-w-smith",
+      "renee-duxler",
+      "joe-newland",
     ],
     description:
-      "With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics.",
+      "With Laura Kelly term-limited, both parties and multiple campaign-account holders are building a large field for one of the most important open-seat races in Kansas politics; named lieutenant-governor running mates are included when public sources identify them.",
     plainEnglish:
-      "Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available and KPDC statewide campaign-account records that still need final ballot readback after the filing deadline.",
+      "Kansas will elect a new governor in 2026 because Laura Kelly cannot run again. The site now includes confirmed filing rows where available, KPDC statewide campaign-account records that still need final ballot readback after the filing deadline, and publicly named lieutenant-governor running mates for tickets where those names have been announced or filed.",
     whyItMatters:
       "The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more.",
     jobDescription:
@@ -137,12 +142,12 @@ export const ELECTIONS: Election[] = [
     jurisdiction: "State of Kansas",
     seats: 1,
     status: "Open Seat",
-    candidateCount: 4,
-    candidateSlugs: ["pat-proctor", "ken-rahjes", "jennifer-day", "sam-lane"],
+    candidateCount: 5,
+    candidateSlugs: ["pat-proctor", "ken-rahjes", "jennifer-day", "sam-lane", "scott-e-morgan"],
     description:
-      "Scott Schwab is leaving the office to run for governor, which opens a four-candidate contest over who will manage Kansas elections and business filings.",
+      "Scott Schwab is leaving the office to run for governor, which opens a multi-candidate contest over who will manage Kansas elections and business filings.",
     plainEnglish:
-      "The secretary of state runs Kansas elections, handles candidate filings, and oversees major state records. With Scott Schwab stepping aside, Pat Proctor, Ken Rahjes, Jennifer Day, and Sam Lane are all in the race.",
+      "The secretary of state runs Kansas elections, handles candidate filings, and oversees major state records. With Scott Schwab stepping aside, Pat Proctor, Ken Rahjes, Jennifer Day, Sam Lane, and United Kansas candidate Scott E. Morgan are all in the race.",
     whyItMatters:
       "This office decides how easy or difficult it is to vote, how election disputes are handled, and how confidently Kansans can trust the statewide process.",
     jobDescription:
@@ -159,9 +164,9 @@ export const ELECTIONS: Election[] = [
     candidateCount: 2,
     candidateSlugs: ["steven-johnson", "eric-lund"],
     description:
-      "Steven Johnson is listed as a filed Republican candidate for state treasurer, and Eric Lund appears in the KPDC statewide campaign-finance index for the treasurer race.",
+      "Steven Johnson is listed as a filed Republican candidate for state treasurer, and Eric Lund was added as a Libertarian general-election filing after the updated SOS roster check.",
     plainEnglish:
-      "The treasurer race was missing from the site. It now includes the confirmed statewide filing row for incumbent Steven Johnson and the KPDC account record for Eric Lund, with final ballot status still subject to official post-deadline verification.",
+      "The treasurer race was missing from the site. It now includes the confirmed statewide filing row for incumbent Steven Johnson and the updated SOS general-election listing for Libertarian Eric Lund, with final ballot status still subject to official post-deadline verification.",
     whyItMatters:
       "The state treasurer oversees state cash management, debt, public deposits, unclaimed property, and college-savings programs that affect Kansas taxpayers and families.",
     jobDescription:
@@ -178,13 +183,32 @@ export const ELECTIONS: Election[] = [
     candidateCount: 3,
     candidateSlugs: ["daniel-hawkins", "dinah-sykes", "ric-koehn"],
     description:
-      "The open-seat insurance commissioner race currently includes Daniel Hawkins and Dinah Sykes in filing rows, plus Ric Koehn in KPDC campaign-finance records.",
+      "The open-seat insurance commissioner race currently includes Daniel Hawkins and Dinah Sykes in filing rows, plus Ric Koehn as a Libertarian general-election filing after the updated SOS roster check.",
     plainEnglish:
-      "Kansas elects its insurance commissioner, and this office touches rates, claims, consumer complaints, and company oversight. Daniel Hawkins and Dinah Sykes are confirmed in the statewide filing mirror; Ric Koehn is included from the KPDC account index until final ballot records are rechecked.",
+      "Kansas elects its insurance commissioner, and this office touches rates, claims, consumer complaints, and company oversight. Daniel Hawkins and Dinah Sykes are confirmed in statewide filing records, and Ric Koehn was added from the updated SOS general-election list as a Libertarian candidate.",
     whyItMatters:
       "Insurance decisions affect what Kansans pay for health, auto, crop, and home coverage, and whether regulators push back when companies fail consumers.",
     jobDescription:
       "The insurance commissioner regulates every insurance company doing business in Kansas. They approve or reject the rates you pay for health, auto, home, and crop insurance, investigate complaints when companies deny claims, and decide whether insurers are treating customers fairly. If your insurance premiums go up or a claim gets denied, this office is the one with the power to do something about it.",
+  },
+  {
+    slug: "ks-house-110",
+    name: "KS House District 110",
+    level: "State",
+    date: "2026-11-03",
+    jurisdiction: "Kansas House District 110 (includes parts of Ellis County)",
+    seats: 1,
+    status: "N/A",
+    candidateCount: 4,
+    candidateSlugs: ["mark-schaukowitch", "max-dibble", "marvin-matchett", "cody-ward"],
+    description:
+      "House District 110 includes parts of Ellis County outside central Hays, including Ellis, Catharine, Munjor, Schoenchen, and surrounding townships, so it is relevant for a meaningful slice of local voters.",
+    plainEnglish:
+      "Some Ellis County voters are in House District 110 rather than House District 111. The updated roster adds Mark Schaukowitch, Max Dibble, Marvin Matchett, and Cody Ward from the official 2026 state race audit so those voters are not left with the wrong local legislative race.",
+    whyItMatters:
+      "Your state representative votes on the same state budget, school funding, tax, water, public safety, and agriculture issues that affect Hays-area voters, even when the district is outside central Hays.",
+    jobDescription:
+      "Your state representative is one of 125 members of the Kansas House. They vote on state laws and the state budget, including property taxes, school funding, road projects, water policy, agriculture, gun laws, abortion policy, and criminal penalties. District 110 covers parts of Ellis County, so voters in those communities need this race tracked alongside District 111.",
   },
   {
     slug: "ks-house-111",
@@ -213,12 +237,12 @@ export const ELECTIONS: Election[] = [
     jurisdiction: "Kansas State Board of Education District 5",
     seats: 1,
     status: "N/A",
-    candidateCount: 2,
-    candidateSlugs: ["michelle-cunningham", "lorie-wood"],
+    candidateCount: 3,
+    candidateSlugs: ["kelly-ancar", "michelle-cunningham", "lorie-wood"],
     description:
-      "District 5 covers western Kansas, including Ellis County. The KPDC 2026 odd-district index currently lists Michelle Cunningham and Lorie Wood for District 5; current officeholder Cathy Hopkins remains profiled separately but is not treated as the only 2026 candidate.",
+      "District 5 covers western Kansas, including Ellis County. Kelly Ancar was added from the Kansas SOS 2026 Primary filing list; Michelle Cunningham and Lorie Wood remain included from KPDC/source records until the final ballot list is rechecked.",
     plainEnglish:
-      "The State Board of Education helps decide statewide standards, curriculum fights, accreditation, and major school policy. District 5 includes Hays and much of western Kansas. The site now separates current-officeholder context from the KPDC 2026 account records so the race is not missing Cunningham and Wood.",
+      "The State Board of Education helps decide statewide standards, curriculum fights, accreditation, and major school policy. District 5 includes Hays and much of western Kansas. Kelly Ancar is now included as an official SOS-filed Republican candidate, while Cunningham and Wood remain clearly caveated as KPDC/source-record entries pending final-list recheck.",
     whyItMatters:
       "Board members influence what schools teach, how districts are judged, and what statewide education debates look like for years to come.",
     jobDescription:

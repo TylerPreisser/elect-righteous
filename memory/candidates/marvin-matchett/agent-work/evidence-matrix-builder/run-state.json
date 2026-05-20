@@ -1,0 +1,18 @@
+{
+  "candidateSlug": "marvin-matchett",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "inputs_read": [
+    "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "https://www.nortoncountyks.gov/departments/staff_directory/BoardofCountyCommissioners/",
+    "https://kansascounties.org/page/GoverningBoard",
+    "https://www.kslegislature.gov/bills/HB2712/",
+    "https://www.kslegislature.gov/li/b2025_26/committees/ctte_s_assess_tax_1/documents/testimony/20260310_282.pdf"
+  ],
+  "outputs_written": [
+    "memory/candidates/marvin-matchett/evidence-matrix.json",
+    "memory/candidates/marvin-matchett/social-evidence-matrix.json",
+    "memory/candidates/marvin-matchett/source-audit.md",
+    "memory/candidates/marvin-matchett/issue-matrix.md",
+    "memory/candidates/marvin-matchett/v2-issues.yaml"
+  ]
+}

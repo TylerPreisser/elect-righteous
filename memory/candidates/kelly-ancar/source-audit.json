@@ -1,0 +1,90 @@
+{
+  "candidateSlug": "kelly-ancar",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "sources": [
+    {
+      "sourceId": "s-sos-2026-primary",
+      "title": "Kansas SOS Candidate List - 2026 Primary",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "publisher": "Kansas Secretary of State",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "official page requires JavaScript/anti-bot verification in this CLI environment; details captured from auditor readback",
+      "claimsAnchored": [
+        "State audit found Kelly Ancar listed for State Board of Education District 5 as a Republican candidate from Hays filed on 2026-05-08."
+      ],
+      "rowIds": [
+        "em-kelly-ancar-00007"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-hayspost-city-2023",
+      "title": "Hays City Commission candidate: Kelly Ancar",
+      "url": "https://hayspost.com/posts/2c3a44b2-1b4a-414a-8082-0ecddc9fcacd",
+      "publisher": "Hays Post",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Ancar's occupation, community involvement, property-tax statements, housing statements, and city governance answers."
+      ],
+      "rowIds": [
+        "em-kelly-ancar-00004",
+        "em-kelly-ancar-00005",
+        "em-kelly-ancar-00006"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-hayspost-usd-2025",
+      "title": "Hays USD 489 candidate Q&A: Kelly Ancar",
+      "url": "https://hayspost.com/posts/277408cf-68c3-4bb4-b3dc-7bba965651ef",
+      "publisher": "Hays Post",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Ancar's school-board answers on transparency, academic outcomes, capital planning, budget audit, and board role."
+      ],
+      "rowIds": [
+        "em-kelly-ancar-00001",
+        "em-kelly-ancar-00002",
+        "em-kelly-ancar-00003"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-amazing-grace-about",
+      "title": "Amazing Grace Homecare - About Us",
+      "url": "https://www.amazinggracestaffing.com/copy-of-what-is-homecare-1",
+      "publisher": "Amazing Grace Homecare",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Business biography identifying Kelly Ancar as owner/CEO and RN-BSN."
+      ],
+      "rowIds": [
+        "em-kelly-ancar-00006"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-ellis-2025-school-notice",
+      "title": "Ellis County Notice of General School Election - USD 489",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5814/Notice-of-Election-with-Names-489",
+      "publisher": "Ellis County",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Official 2025 USD 489 notice listed Kelly Ancar for school board."
+      ],
+      "rowIds": [],
+      "tierCorrect": true
+    }
+  ],
+  "brokenSources": [],
+  "unsupportedClaims": []
+}

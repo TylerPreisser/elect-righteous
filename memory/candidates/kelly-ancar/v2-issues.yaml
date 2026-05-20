@@ -1,0 +1,443 @@
+{
+  "slug": "kelly-ancar",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "agent": "codex missing-roster artifact generator",
+  "candidate_metadata": {
+    "slug": "kelly-ancar",
+    "name": "Kelly Ancar",
+    "party": "R",
+    "position": "Kansas State Board of Education District 5 candidate",
+    "electionSlug": "sboe-district-5",
+    "incumbent": false,
+    "occupation": "Small business owner; registered nurse",
+    "whoTheyAre": "Kelly Ancar was added after the state roster audit found her on the Kansas SOS 2026 Primary list for State Board of Education District 5. Hays Post profiles from her Hays city commission and USD 489 school board campaigns identify her as a Hays small-business owner and registered nurse who owns Amazing Grace Home Care and the Horseshoe Bar and Grill. Her prior local questionnaires are relevant because they give direct statements on school governance, spending, transparency, property taxes, and business conditions.",
+    "recordSummary": "The current record confirms a 2026 SBOE District 5 filing plus prior local candidate statements from Hays city commission and USD 489 school board races. No statewide SBOE voting record exists because Ancar is not an incumbent board member.",
+    "whereTheyWorship": "No direct public evidence of a current worship community was found in this missing-roster pass. No faith-based policy inference is made.",
+    "social_presence_note": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for Kelly Ancar in this missing-roster pass. Public social evidence remains a signal layer only; none is used as a confirmed policy position."
+  },
+  "sources": [
+    {
+      "id": "s-sos-2026-primary",
+      "tier": "primary",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "title": "Kansas SOS Candidate List - 2026 Primary",
+      "publisher": "Kansas Secretary of State",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "State audit found Kelly Ancar listed for State Board of Education District 5 as a Republican candidate from Hays filed on 2026-05-08."
+      ]
+    },
+    {
+      "id": "s-hayspost-city-2023",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/2c3a44b2-1b4a-414a-8082-0ecddc9fcacd",
+      "title": "Hays City Commission candidate: Kelly Ancar",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Ancar's occupation, community involvement, property-tax statements, housing statements, and city governance answers."
+      ]
+    },
+    {
+      "id": "s-hayspost-usd-2025",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/277408cf-68c3-4bb4-b3dc-7bba965651ef",
+      "title": "Hays USD 489 candidate Q&A: Kelly Ancar",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Ancar's school-board answers on transparency, academic outcomes, capital planning, budget audit, and board role."
+      ]
+    },
+    {
+      "id": "s-amazing-grace-about",
+      "tier": "secondary",
+      "url": "https://www.amazinggracestaffing.com/copy-of-what-is-homecare-1",
+      "title": "Amazing Grace Homecare - About Us",
+      "publisher": "Amazing Grace Homecare",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Business biography identifying Kelly Ancar as owner/CEO and RN-BSN."
+      ]
+    },
+    {
+      "id": "s-ellis-2025-school-notice",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5814/Notice-of-Election-with-Names-489",
+      "title": "Ellis County Notice of General School Election - USD 489",
+      "publisher": "Ellis County",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Official 2025 USD 489 notice listed Kelly Ancar for school board."
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "i-roster-status",
+      "title": "Roster and filing status",
+      "stated": {
+        "text": "Kansas SOS 2026 Primary filing, Republican, Hays, filed May 8, 2026.",
+        "sourceIds": [
+          "s-sos-2026-primary",
+          "s-hayspost-city-2023"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-roster-status",
+          "date": "2026-05-20",
+          "body": "Kansas SOS 2026 Primary filing, Republican, Hays, filed May 8, 2026.",
+          "sourceIds": [
+            "s-sos-2026-primary",
+            "s-hayspost-city-2023"
+          ]
+        }
+      ],
+      "socialSignals": []
+    }
+  ],
+  "campaign_finance": {
+    "totalRaised": "Not itemized in the reviewed public records for this missing-roster pass",
+    "narrative": "No itemized campaign-finance filing was found in this missing-roster pass.",
+    "donors": [],
+    "reportingPeriod": "Most recent public record reviewed on 2026-05-20",
+    "source": "Kansas SOS Candidate List - 2026 Primary",
+    "sourceIds": [
+      "s-sos-2026-primary",
+      "s-hayspost-city-2023",
+      "s-hayspost-usd-2025"
+    ]
+  },
+  "editorial_notes": [
+    "Added from the May 20, 2026 missing-candidate delta audit.",
+    "Every candidate has a 14-issue matrix; thin public records are explicitly caveated.",
+    "Social evidence was not deleted. No reliable candidate-controlled follows, likes, comments, or posts were found for this pass unless separately listed in evidence."
+  ],
+  "fixed_issue_matrix": [
+    {
+      "issueNumber": 1,
+      "title": "Abortion / life",
+      "summary": "No relevant public evidence was found for Abortion / life after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 2,
+      "title": "LGBT / gender / parental rights",
+      "summary": "No relevant public evidence was found for LGBT / gender / parental rights after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 3,
+      "title": "Education / curriculum / schools",
+      "summary": "Education / curriculum / schools: 2 source-backed items found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-kelly-ancar-00001",
+          "classification": "candidate-stated",
+          "text": "In the 2025 USD 489 Q&A, Ancar said school-board members should manage resources wisely, focus on student outcomes, and help students graduate competitively.",
+          "sourceIds": [
+            "s-hayspost-usd-2025"
+          ],
+          "sourceUrl": "https://hayspost.com/posts/277408cf-68c3-4bb4-b3dc-7bba965651ef",
+          "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        },
+        {
+          "evidenceRowId": "em-kelly-ancar-00002",
+          "classification": "candidate-stated",
+          "text": "Ancar specifically identified math proficiency as an area where USD 489 could improve and said spending more money does not necessarily translate into better outcomes.",
+          "sourceIds": [
+            "s-hayspost-usd-2025"
+          ],
+          "sourceUrl": "https://hayspost.com/posts/277408cf-68c3-4bb4-b3dc-7bba965651ef",
+          "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 2,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 2
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 4,
+      "title": "Religious liberty / church / civic morality",
+      "summary": "No relevant public evidence was found for Religious liberty / church / civic morality after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 5,
+      "title": "Taxes / spending / debt",
+      "summary": "Taxes / spending / debt: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-kelly-ancar-00004",
+          "classification": "candidate-stated",
+          "text": "In her 2023 Hays city questionnaire, Ancar said the city should reduce its mill levy and stay revenue neutral to give taxpayers relief.",
+          "sourceIds": [
+            "s-hayspost-city-2023"
+          ],
+          "sourceUrl": "https://hayspost.com/posts/2c3a44b2-1b4a-414a-8082-0ecddc9fcacd",
+          "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 6,
+      "title": "Economy / jobs / labor",
+      "summary": "Economy / jobs / labor: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-kelly-ancar-00005",
+          "classification": "candidate-stated",
+          "text": "Ancar identified housing supply and business recruitment as connected economic-development priorities for Hays.",
+          "sourceIds": [
+            "s-hayspost-city-2023"
+          ],
+          "sourceUrl": "https://hayspost.com/posts/2c3a44b2-1b4a-414a-8082-0ecddc9fcacd",
+          "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 7,
+      "title": "Guns / Second Amendment",
+      "summary": "No relevant public evidence was found for Guns / Second Amendment after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 8,
+      "title": "Immigration / border",
+      "summary": "No relevant public evidence was found for Immigration / border after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 9,
+      "title": "Health care / insurance / Medicaid",
+      "summary": "Health care / insurance / Medicaid: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-kelly-ancar-00006",
+          "classification": "background-context",
+          "text": "Ancar's public biographies identify her as a registered nurse and home-care business owner.",
+          "sourceIds": [
+            "s-hayspost-city-2023",
+            "s-amazing-grace-about"
+          ],
+          "sourceUrl": "https://hayspost.com/posts/2c3a44b2-1b4a-414a-8082-0ecddc9fcacd",
+          "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+          "confidence": "likely",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 10,
+      "title": "Election integrity / voting / courts",
+      "summary": "Election integrity / voting / courts: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-kelly-ancar-00007",
+          "classification": "documented-record",
+          "text": "The state roster audit found Ancar in the official Kansas SOS 2026 Primary list for State Board of Education District 5.",
+          "sourceIds": [
+            "s-sos-2026-primary"
+          ],
+          "sourceUrl": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+          "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 11,
+      "title": "Public safety / law enforcement / criminal justice",
+      "summary": "No relevant public evidence was found for Public safety / law enforcement / criminal justice after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 12,
+      "title": "Agriculture / rural economy / water",
+      "summary": "No relevant public evidence was found for Agriculture / rural economy / water after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 13,
+      "title": "Local governance / transparency / ethics",
+      "summary": "Local governance / transparency / ethics: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-kelly-ancar-00003",
+          "classification": "candidate-stated",
+          "text": "Ancar called for more transparency in bond-project planning, including readable plans and better opportunities for board members and the community to review proposed work.",
+          "sourceIds": [
+            "s-hayspost-usd-2025"
+          ],
+          "sourceUrl": "https://hayspost.com/posts/277408cf-68c3-4bb4-b3dc-7bba965651ef",
+          "sourceFile": "memory/candidates/kelly-ancar/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 14,
+      "title": "Environment / energy / land use",
+      "summary": "No relevant public evidence was found for Environment / energy / land use after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    }
+  ]
+}

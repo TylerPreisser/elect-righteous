@@ -1,0 +1,19 @@
+{
+  "candidateSlug": "mark-schaukowitch",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "inputs_read": [
+    "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/HLinks2026EC.htm",
+    "https://kansas.gov/ethics/CFAScanned/House/2026ElecCycle/Treasurers/H110MS_AT.pdf",
+    "https://kansas.gov/ethics/CFAScanned/House/2026ElecCycle/202601/H110MS_202601.pdf",
+    "https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9",
+    "https://podcasts.apple.com/us/podcast/mark-schaukowitch-kansas-house-110-rural-housing/id1878279211?i=1000763065114"
+  ],
+  "outputs_written": [
+    "memory/candidates/mark-schaukowitch/evidence-matrix.json",
+    "memory/candidates/mark-schaukowitch/social-evidence-matrix.json",
+    "memory/candidates/mark-schaukowitch/source-audit.md",
+    "memory/candidates/mark-schaukowitch/issue-matrix.md",
+    "memory/candidates/mark-schaukowitch/v2-issues.yaml"
+  ]
+}

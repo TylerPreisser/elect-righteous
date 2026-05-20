@@ -1,0 +1,150 @@
+[
+  {
+    "id": "em-mark-schaukowitch-00001",
+    "candidateSlug": "mark-schaukowitch",
+    "candidateName": "Mark Schaukowitch",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/mark-schaukowitch/raw-dump-v2.md",
+    "sourceUrl": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "sourceTier": "primary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "The state roster audit found Schaukowitch on the Kansas SOS 2026 Primary list for House District 110.",
+    "exactEvidenceSummary": "The state roster audit found Schaukowitch on the Kansas SOS 2026 Primary list for House District 110.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-sos-2026-primary"
+    ]
+  },
+  {
+    "id": "em-mark-schaukowitch-00002",
+    "candidateSlug": "mark-schaukowitch",
+    "candidateName": "Mark Schaukowitch",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/mark-schaukowitch/raw-dump-v2.md",
+    "sourceUrl": "https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      5
+    ],
+    "claim": "At Democracy Fest, Schaukowitch described creating a rural permanent fund using oil revenues to stabilize county services.",
+    "exactEvidenceSummary": "At Democracy Fest, Schaukowitch described creating a rural permanent fund using oil revenues to stabilize county services.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-hayspost-demfest"
+    ]
+  },
+  {
+    "id": "em-mark-schaukowitch-00003",
+    "candidateSlug": "mark-schaukowitch",
+    "candidateName": "Mark Schaukowitch",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/mark-schaukowitch/raw-dump-v2.md",
+    "sourceUrl": "https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      9
+    ],
+    "claim": "At Democracy Fest, Schaukowitch identified Medicaid expansion as a priority tied to hospitals, nursing homes, and rural workforce retention.",
+    "exactEvidenceSummary": "At Democracy Fest, Schaukowitch identified Medicaid expansion as a priority tied to hospitals, nursing homes, and rural workforce retention.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-hayspost-demfest"
+    ]
+  },
+  {
+    "id": "em-mark-schaukowitch-00004",
+    "candidateSlug": "mark-schaukowitch",
+    "candidateName": "Mark Schaukowitch",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/mark-schaukowitch/raw-dump-v2.md",
+    "sourceUrl": "https://podcasts.apple.com/us/podcast/mark-schaukowitch-kansas-house-110-rural-housing/id1878279211?i=1000763065114",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      12
+    ],
+    "claim": "Schaukowitch's rural-housing podcast segment discussed MIH, tax credits, loan programs, job opportunities, construction costs, and internet infrastructure as rural barriers.",
+    "exactEvidenceSummary": "Schaukowitch's rural-housing podcast segment discussed MIH, tax credits, loan programs, job opportunities, construction costs, and internet infrastructure as rural barriers.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-helen-podcast"
+    ]
+  },
+  {
+    "id": "em-mark-schaukowitch-00005",
+    "candidateSlug": "mark-schaukowitch",
+    "candidateName": "Mark Schaukowitch",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/mark-schaukowitch/raw-dump-v2.md",
+    "sourceUrl": "https://podcasts.apple.com/us/podcast/mark-schaukowitch-kansas-house-110-rural-housing/id1878279211?i=1000763065114",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      6
+    ],
+    "claim": "Schaukowitch connected rural housing availability with workforce and local economic viability.",
+    "exactEvidenceSummary": "Schaukowitch connected rural housing availability with workforce and local economic viability.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-helen-podcast"
+    ]
+  },
+  {
+    "id": "em-mark-schaukowitch-00006",
+    "candidateSlug": "mark-schaukowitch",
+    "candidateName": "Mark Schaukowitch",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/mark-schaukowitch/raw-dump-v2.md",
+    "sourceUrl": "https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9",
+    "sourceTier": "secondary",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      3
+    ],
+    "claim": "Hays Post described Schaukowitch as a former teacher.",
+    "exactEvidenceSummary": "Hays Post described Schaukowitch as a former teacher.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-hayspost-demfest"
+    ]
+  },
+  {
+    "id": "em-mark-schaukowitch-00007",
+    "candidateSlug": "mark-schaukowitch",
+    "candidateName": "Mark Schaukowitch",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/mark-schaukowitch/raw-dump-v2.md",
+    "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/HLinks2026EC.htm",
+    "sourceTier": "primary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "KPDC records identify Schaukowitch's House District 110 campaign-finance account and treasurer appointment.",
+    "exactEvidenceSummary": "KPDC records identify Schaukowitch's House District 110 campaign-finance account and treasurer appointment.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kpdc-house-index",
+      "s-kpdc-at"
+    ]
+  }
+]

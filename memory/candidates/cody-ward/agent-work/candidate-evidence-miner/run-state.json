@@ -1,0 +1,16 @@
+{
+  "candidateSlug": "cody-ward",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "inputs_read": [
+    "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/HLinks2026EC.htm",
+    "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/Treasurers/H110CW_AT.pdf"
+  ],
+  "outputs_written": [
+    "memory/candidates/cody-ward/evidence-matrix.json",
+    "memory/candidates/cody-ward/social-evidence-matrix.json",
+    "memory/candidates/cody-ward/source-audit.md",
+    "memory/candidates/cody-ward/issue-matrix.md",
+    "memory/candidates/cody-ward/v2-issues.yaml"
+  ]
+}

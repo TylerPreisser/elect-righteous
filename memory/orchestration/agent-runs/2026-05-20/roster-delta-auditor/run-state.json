@@ -1,0 +1,42 @@
+{
+  "agent": "roster-delta-auditor",
+  "startedAt": "2026-05-20T21:30:00Z",
+  "completedAt": "2026-05-20T22:05:44Z",
+  "status": "completed-with-caveats",
+  "inputsRead": [
+    "memory/orchestration/STATE.md",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/index.ts",
+    "scripts/generate-missing-roster-artifacts-2026-05-20.mjs",
+    "memory/orchestration/form-verification-2026-05-20.md",
+    "Federal roster-auditor subagent result",
+    "State roster-auditor subagent result",
+    "Local roster-auditor subagent result"
+  ],
+  "outputsWritten": [
+    "memory/orchestration/missing-candidate-delta-audit-2026-05-20.md",
+    "memory/orchestration/STATE.md",
+    "memory/orchestration/form-verification-2026-05-20.md",
+    "ui/src/data/elections.ts",
+    "ui/src/data/v2/index.ts",
+    "scripts/generate-missing-roster-artifacts-2026-05-20.mjs",
+    "memory/candidates/<11-new-slugs>/*",
+    "ui/src/data/v2/<11-new-slugs>.ts",
+    "memory/candidates/eric-lund/v2-issues.yaml",
+    "ui/src/data/v2/eric-lund.ts",
+    "memory/candidates/ric-koehn/v2-issues.yaml",
+    "ui/src/data/v2/ric-koehn.ts",
+    "memory/candidates/ken-brooks/*",
+    "ui/src/data/v2/ken-brooks.ts",
+    "ui/src/data/candidates.ts"
+  ],
+  "validation": {
+    "yamlParse": "pass",
+    "phase2Inventory": "pass: 81 candidate-like slugs, 59 active 2026, 81 rendered v2, no missing UI entries",
+    "v2RuntimeValidation": "pass: validateCandidateV2 accepted 81 candidates",
+    "candidateIssueCount": "pass: all 81 candidates have 14 issues",
+    "typescript": "pass",
+    "staticBuild": "pass: 266 static pages generated",
+    "correctionFormLiveDelivery": "blocked: FormSubmit returned HTTP 521 on retry"
+  }
+}

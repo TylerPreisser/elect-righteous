@@ -1,0 +1,45 @@
+[
+  {
+    "id": "em-cody-ward-00001",
+    "candidateSlug": "cody-ward",
+    "candidateName": "Cody Ward",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/cody-ward/raw-dump-v2.md",
+    "sourceUrl": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "sourceTier": "primary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "The state roster audit found Cody Ward on the official Kansas SOS 2026 Primary list for House District 110.",
+    "exactEvidenceSummary": "The state roster audit found Cody Ward on the official Kansas SOS 2026 Primary list for House District 110.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-sos-2026-primary"
+    ]
+  },
+  {
+    "id": "em-cody-ward-00002",
+    "candidateSlug": "cody-ward",
+    "candidateName": "Cody Ward",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/cody-ward/raw-dump-v2.md",
+    "sourceUrl": "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/HLinks2026EC.htm",
+    "sourceTier": "primary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "KPDC's House index and appointment-of-treasurer form identify Cody D. Ward as a House District 110 candidate with a May 12, 2026 treasurer appointment.",
+    "exactEvidenceSummary": "KPDC's House index and appointment-of-treasurer form identify Cody D. Ward as a House District 110 candidate with a May 12, 2026 treasurer appointment.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kpdc-house-index",
+      "s-kpdc-at"
+    ]
+  }
+]

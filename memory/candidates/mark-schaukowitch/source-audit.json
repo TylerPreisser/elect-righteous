@@ -1,0 +1,105 @@
+{
+  "candidateSlug": "mark-schaukowitch",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "sources": [
+    {
+      "sourceId": "s-sos-2026-primary",
+      "title": "Kansas SOS Candidate List - 2026 Primary",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "publisher": "Kansas Secretary of State",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "official page requires JavaScript/anti-bot verification in this CLI environment; details captured from auditor readback",
+      "claimsAnchored": [
+        "State audit found Mark Schaukowitch listed for Kansas House District 110."
+      ],
+      "rowIds": [
+        "em-mark-schaukowitch-00001"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kpdc-house-index",
+      "title": "Kansas House of Representatives - 2026 Election Cycle",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/HLinks2026EC.htm",
+      "publisher": "Kansas Public Disclosure Commission",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "KPDC lists Mark Schaukowitch for House District 110."
+      ],
+      "rowIds": [
+        "em-mark-schaukowitch-00007"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kpdc-at",
+      "title": "Mark Schaukowitch Appointment of Treasurer",
+      "url": "https://kansas.gov/ethics/CFAScanned/House/2026ElecCycle/Treasurers/H110MS_AT.pdf",
+      "publisher": "Kansas Public Disclosure Commission",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Appointment-of-treasurer form identifies Mark Schaukowitch as a House District 110 candidate."
+      ],
+      "rowIds": [
+        "em-mark-schaukowitch-00007"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kpdc-202601",
+      "title": "Mark Schaukowitch January 2026 Receipts and Expenditures",
+      "url": "https://kansas.gov/ethics/CFAScanned/House/2026ElecCycle/202601/H110MS_202601.pdf",
+      "publisher": "Kansas Public Disclosure Commission",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "KPDC links a January 2026 receipts-and-expenditures report for Schaukowitch."
+      ],
+      "rowIds": [],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-hayspost-demfest",
+      "title": "Kansas Democrats wrap up Democracy Fest in Hays",
+      "url": "https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9",
+      "publisher": "Hays Post",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Schaukowitch announced HD110 campaign and described rural-fund, Medicaid expansion, county-service, hospital, nursing-home, and workforce priorities."
+      ],
+      "rowIds": [
+        "em-mark-schaukowitch-00002",
+        "em-mark-schaukowitch-00003",
+        "em-mark-schaukowitch-00006"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kansas-helen-podcast",
+      "title": "Mark Schaukowitch - Kansas House 110 - Rural Housing",
+      "url": "https://podcasts.apple.com/us/podcast/mark-schaukowitch-kansas-house-110-rural-housing/id1878279211?i=1000763065114",
+      "publisher": "Kansas Helen Podcast",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Podcast notes describe Schaukowitch discussion of rural housing, MIH, tax credits, loan programs, jobs, construction costs, and internet infrastructure."
+      ],
+      "rowIds": [
+        "em-mark-schaukowitch-00004",
+        "em-mark-schaukowitch-00005"
+      ],
+      "tierCorrect": true
+    }
+  ],
+  "brokenSources": [],
+  "unsupportedClaims": []
+}

@@ -1,0 +1,17 @@
+{
+  "candidateSlug": "joe-newland",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "inputs_read": [
+    "https://vickiforgovernor.com/",
+    "https://kansasreflector.com/2026/05/18/gop-governor-candidate-vicki-schmidts-running-mate-will-be-kansas-farm-bureau-president/",
+    "https://www.kwch.com/2026/05/18/vicki-schmidt-picks-kansas-farm-bureau-president-lieutenant-governor/",
+    "https://kansaslivingmagazine.com/articles/2023/05/17/meet-kansas-farm-bureau-president-joe-newland"
+  ],
+  "outputs_written": [
+    "memory/candidates/joe-newland/evidence-matrix.json",
+    "memory/candidates/joe-newland/social-evidence-matrix.json",
+    "memory/candidates/joe-newland/source-audit.md",
+    "memory/candidates/joe-newland/issue-matrix.md",
+    "memory/candidates/joe-newland/v2-issues.yaml"
+  ]
+}

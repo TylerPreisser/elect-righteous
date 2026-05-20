@@ -1,0 +1,17 @@
+{
+  "candidateSlug": "michael-w-smith",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "inputs_read": [
+    "https://www.pawneecountykansas.com/DocumentCenter/View/2078/2026-PN-Co-Candidate-List",
+    "https://stacyrogersforks.com/stacys-team",
+    "https://stacyrogersforks.com/",
+    "https://www.kwch.com/2026/05/14/kansas-gubernatorial-candidate-picks-wichita-representative-running-mate/"
+  ],
+  "outputs_written": [
+    "memory/candidates/michael-w-smith/evidence-matrix.json",
+    "memory/candidates/michael-w-smith/social-evidence-matrix.json",
+    "memory/candidates/michael-w-smith/source-audit.md",
+    "memory/candidates/michael-w-smith/issue-matrix.md",
+    "memory/candidates/michael-w-smith/v2-issues.yaml"
+  ]
+}

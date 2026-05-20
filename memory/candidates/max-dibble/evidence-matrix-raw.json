@@ -1,0 +1,107 @@
+[
+  {
+    "id": "em-max-dibble-00001",
+    "candidateSlug": "max-dibble",
+    "candidateName": "Max L. Dibble",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/max-dibble/raw-dump-v2.md",
+    "sourceUrl": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "sourceTier": "primary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "The state roster audit found Max L. Dibble on the official Kansas SOS 2026 Primary list for House District 110.",
+    "exactEvidenceSummary": "The state roster audit found Max L. Dibble on the official Kansas SOS 2026 Primary list for House District 110.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-sos-2026-primary"
+    ]
+  },
+  {
+    "id": "em-max-dibble-00002",
+    "candidateSlug": "max-dibble",
+    "candidateName": "Max L. Dibble",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/max-dibble/raw-dump-v2.md",
+    "sourceUrl": "https://cityofphillipsburg.com/324/Economic-Development-Advisory-Board",
+    "sourceTier": "primary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "The City of Phillipsburg lists Max Dibble as Phillips County Commissioner District 2 representative on the Economic Development Advisory Board.",
+    "exactEvidenceSummary": "The City of Phillipsburg lists Max Dibble as Phillips County Commissioner District 2 representative on the Economic Development Advisory Board.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-phillipsburg-edab"
+    ]
+  },
+  {
+    "id": "em-max-dibble-00003",
+    "candidateSlug": "max-dibble",
+    "candidateName": "Max L. Dibble",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/max-dibble/raw-dump-v2.md",
+    "sourceUrl": "https://www.phillipscountyks.org/media/MinutesAgendas/Commissioners/2025/01_13_2025.pdf",
+    "sourceTier": "primary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      5
+    ],
+    "claim": "Phillips County minutes record Dibble discussing budget adjustments to increase government efficiency.",
+    "exactEvidenceSummary": "Phillips County minutes record Dibble discussing budget adjustments to increase government efficiency.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-phillips-minutes-2025-01-13"
+    ]
+  },
+  {
+    "id": "em-max-dibble-00004",
+    "candidateSlug": "max-dibble",
+    "candidateName": "Max L. Dibble",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/max-dibble/raw-dump-v2.md",
+    "sourceUrl": "https://www.phillipscountyks.org/media/MinutesAgendas/Commissioners/2025/01_13_2025.pdf",
+    "sourceTier": "primary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      6
+    ],
+    "claim": "Phillips County minutes record Dibble mentioning a housing development project on the south side of Phillipsburg.",
+    "exactEvidenceSummary": "Phillips County minutes record Dibble mentioning a housing development project on the south side of Phillipsburg.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-phillips-minutes-2025-01-13"
+    ]
+  },
+  {
+    "id": "em-max-dibble-00005",
+    "candidateSlug": "max-dibble",
+    "candidateName": "Max L. Dibble",
+    "raceSlug": "ks-house-110",
+    "sourceFile": "memory/candidates/max-dibble/raw-dump-v2.md",
+    "sourceUrl": "https://www.kslegislature.gov/li/b2021_22/measures/minutes/agenda_item_2022020913136767171",
+    "sourceTier": "primary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      12
+    ],
+    "claim": "Kansas Legislature minutes record Dibble testifying about pipelines in county rights-of-way and the related local tax base.",
+    "exactEvidenceSummary": "Kansas Legislature minutes record Dibble testifying about pipelines in county rights-of-way and the related local tax base.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-ksleg-2022-utilities"
+    ]
+  }
+]

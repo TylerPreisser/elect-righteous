@@ -1,0 +1,78 @@
+{
+  "candidateSlug": "joe-newland",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "sources": [
+    {
+      "sourceId": "s-vicki-home",
+      "title": "Vicki Schmidt for Governor homepage",
+      "url": "https://vickiforgovernor.com/",
+      "publisher": "Vicki Schmidt for Governor",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Campaign homepage announces Joe Newland as Schmidt's lieutenant governor running mate."
+      ],
+      "rowIds": [
+        "em-joe-newland-00003"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kansas-reflector-newland",
+      "title": "GOP governor candidate Vicki Schmidt's running mate will be Kansas Farm Bureau president",
+      "url": "https://kansasreflector.com/2026/05/18/gop-governor-candidate-vicki-schmidts-running-mate-will-be-kansas-farm-bureau-president/",
+      "publisher": "Kansas Reflector",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Reports Newland's running-mate selection, Farm Bureau role, former House service, farm operation, and policy themes."
+      ],
+      "rowIds": [
+        "em-joe-newland-00001",
+        "em-joe-newland-00002",
+        "em-joe-newland-00003",
+        "em-joe-newland-00005",
+        "em-joe-newland-00006"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kwch-newland",
+      "title": "Vicki Schmidt picks Kansas Farm Bureau president for lieutenant governor",
+      "url": "https://www.kwch.com/2026/05/18/vicki-schmidt-picks-kansas-farm-bureau-president-lieutenant-governor/",
+      "publisher": "KWCH",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Reports Schmidt selected Newland and said he would serve as lieutenant governor and secretary of agriculture if elected."
+      ],
+      "rowIds": [
+        "em-joe-newland-00001",
+        "em-joe-newland-00002",
+        "em-joe-newland-00004",
+        "em-joe-newland-00005",
+        "em-joe-newland-00007"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kansas-living-newland",
+      "title": "Meet Kansas Farm Bureau President Joe Newland",
+      "url": "https://kansaslivingmagazine.com/articles/2023/05/17/meet-kansas-farm-bureau-president-joe-newland",
+      "publisher": "Kansas Living Magazine",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Profiles Newland as Kansas Farm Bureau president and former legislator."
+      ],
+      "rowIds": [],
+      "tierCorrect": true
+    }
+  ],
+  "brokenSources": [],
+  "unsupportedClaims": []
+}

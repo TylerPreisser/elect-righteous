@@ -1,0 +1,73 @@
+{
+  "candidateSlug": "max-dibble",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "sources": [
+    {
+      "sourceId": "s-sos-2026-primary",
+      "title": "Kansas SOS Candidate List - 2026 Primary",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "publisher": "Kansas Secretary of State",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "official page requires JavaScript/anti-bot verification in this CLI environment; details captured from auditor readback",
+      "claimsAnchored": [
+        "State audit found Max L. Dibble listed for Kansas House District 110."
+      ],
+      "rowIds": [
+        "em-max-dibble-00001"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-phillipsburg-edab",
+      "title": "Phillipsburg Economic Development Advisory Board",
+      "url": "https://cityofphillipsburg.com/324/Economic-Development-Advisory-Board",
+      "publisher": "City of Phillipsburg",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "City page lists Max Dibble as Phillips County Commissioner District 2 representative."
+      ],
+      "rowIds": [
+        "em-max-dibble-00002"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-phillips-minutes-2025-01-13",
+      "title": "Phillips County Commission Minutes - January 13, 2025",
+      "url": "https://www.phillipscountyks.org/media/MinutesAgendas/Commissioners/2025/01_13_2025.pdf",
+      "publisher": "Phillips County",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Minutes record Dibble motions and comments on housing development, courthouse chiller, and budget efficiency."
+      ],
+      "rowIds": [
+        "em-max-dibble-00003",
+        "em-max-dibble-00004"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-ksleg-2022-utilities",
+      "title": "Kansas Legislature minutes - county right-of-way testimony",
+      "url": "https://www.kslegislature.gov/li/b2021_22/measures/minutes/agenda_item_2022020913136767171",
+      "publisher": "Kansas Legislature",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Legislative minutes record Max Dibble, Phillips County Commissioner, testifying on pipeline use in right-of-way and county tax base."
+      ],
+      "rowIds": [
+        "em-max-dibble-00005"
+      ],
+      "tierCorrect": true
+    }
+  ],
+  "brokenSources": [],
+  "unsupportedClaims": []
+}

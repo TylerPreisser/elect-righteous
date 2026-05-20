@@ -1,0 +1,399 @@
+{
+  "slug": "david-c-graham",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "agent": "codex missing-roster artifact generator",
+  "candidate_metadata": {
+    "slug": "david-c-graham",
+    "name": "David C. Graham",
+    "party": "I",
+    "position": "Libertarian candidate for U.S. Senate",
+    "electionSlug": "us-senate-2026",
+    "incumbent": false,
+    "occupation": "Attorney; former Harper County attorney; Libertarian U.S. Senate candidate",
+    "whoTheyAre": "David C. Graham was added after the federal roster audit found him on the Kansas Secretary of State 2026 General candidate list for U.S. Senate as a Libertarian candidate. Public biographical material from his 2022 U.S. Senate profile identifies him as a University of Kansas law graduate, Washburn University graduate, former Harper County attorney, and member of the Libertarian Party of Kansas judicial committee. Because the current 2026 public record is thin, this profile keeps older questionnaire material dated and caveated rather than treating it as a fresh 2026 platform.",
+    "recordSummary": "The current record confirms a 2026 Kansas SOS General filing and a prior 2022 statewide U.S. Senate run. No 2026 FEC candidate or principal committee ID was found in the FEC pull used for this audit, so finance status remains a recheck item.",
+    "whereTheyWorship": "No direct public evidence of a current worship community was found in this missing-roster pass. No faith-based policy inference is made.",
+    "social_presence_note": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for David C. Graham in this missing-roster pass. Public social evidence remains a signal layer only; none is used as a confirmed policy position."
+  },
+  "sources": [
+    {
+      "id": "s-sos-2026-general",
+      "tier": "primary",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "title": "Kansas SOS Candidate List - 2026 General",
+      "publisher": "Kansas Secretary of State",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "State audit found David C. Graham listed for U.S. Senate as a Libertarian candidate filed on 2026-05-12."
+      ]
+    },
+    {
+      "id": "s-ivoterguide-2022",
+      "tier": "secondary",
+      "url": "https://ivoterguide.com/candidate/74609/race/11249/election/987",
+      "title": "David C. Graham iVoterGuide 2022 candidate profile",
+      "publisher": "iVoterGuide",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "2022 profile lists education, Harper County attorney service, Libertarian Party of Kansas affiliation, and questionnaire answers."
+      ]
+    },
+    {
+      "id": "s-lawrence-times-2022",
+      "tier": "secondary",
+      "url": "https://lawrencekstimes.com/2022/07/22/ussen-ks-candidates-202208/",
+      "title": "Meet the candidates vying to represent Kansas in the U.S. Senate",
+      "publisher": "The Lawrence Times",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "2022 Lawrence Times guide listed David C. Graham as the Libertarian U.S. Senate candidate."
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "i-roster-status",
+      "title": "Roster and filing status",
+      "stated": {
+        "text": "Kansas SOS 2026 General filing, Libertarian, filed May 12, 2026; not found in the 2026 FEC bulk/API pull used for this audit.",
+        "sourceIds": [
+          "s-sos-2026-general",
+          "s-ivoterguide-2022"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-roster-status",
+          "date": "2026-05-20",
+          "body": "Kansas SOS 2026 General filing, Libertarian, filed May 12, 2026; not found in the 2026 FEC bulk/API pull used for this audit.",
+          "sourceIds": [
+            "s-sos-2026-general",
+            "s-ivoterguide-2022"
+          ]
+        }
+      ],
+      "socialSignals": []
+    }
+  ],
+  "campaign_finance": {
+    "totalRaised": "Not itemized in the reviewed public records for this missing-roster pass",
+    "narrative": "No itemized campaign-finance filing was found in this missing-roster pass.",
+    "donors": [],
+    "reportingPeriod": "Most recent public record reviewed on 2026-05-20",
+    "source": "Kansas SOS Candidate List - 2026 General",
+    "sourceIds": [
+      "s-sos-2026-general",
+      "s-ivoterguide-2022",
+      "s-lawrence-times-2022"
+    ]
+  },
+  "editorial_notes": [
+    "Added from the May 20, 2026 missing-candidate delta audit.",
+    "Every candidate has a 14-issue matrix; thin public records are explicitly caveated.",
+    "Social evidence was not deleted. No reliable candidate-controlled follows, likes, comments, or posts were found for this pass unless separately listed in evidence."
+  ],
+  "fixed_issue_matrix": [
+    {
+      "issueNumber": 1,
+      "title": "Abortion / life",
+      "summary": "Abortion / life: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-david-c-graham-00003",
+          "classification": "candidate-stated",
+          "text": "A 2022 iVoterGuide questionnaire records Graham agreeing that abortion providers should not receive public funds; this is older candidate-response material and should not be treated as a newly issued 2026 statement without recheck.",
+          "sourceIds": [
+            "s-ivoterguide-2022"
+          ],
+          "sourceUrl": "https://ivoterguide.com/candidate/74609/race/11249/election/987",
+          "sourceFile": "memory/candidates/david-c-graham/raw-dump-v2.md",
+          "confidence": "likely",
+          "useDecision": "use-with-caveat",
+          "caveat": "Older 2022 questionnaire; use with date caveat."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": [
+        "One or more items require the caveat shown with the evidence item."
+      ]
+    },
+    {
+      "issueNumber": 2,
+      "title": "LGBT / gender / parental rights",
+      "summary": "No relevant public evidence was found for LGBT / gender / parental rights after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 3,
+      "title": "Education / curriculum / schools",
+      "summary": "No relevant public evidence was found for Education / curriculum / schools after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 4,
+      "title": "Religious liberty / church / civic morality",
+      "summary": "No relevant public evidence was found for Religious liberty / church / civic morality after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 5,
+      "title": "Taxes / spending / debt",
+      "summary": "No relevant public evidence was found for Taxes / spending / debt after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 6,
+      "title": "Economy / jobs / labor",
+      "summary": "No relevant public evidence was found for Economy / jobs / labor after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 7,
+      "title": "Guns / Second Amendment",
+      "summary": "Guns / Second Amendment: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-david-c-graham-00004",
+          "classification": "candidate-stated",
+          "text": "A 2022 iVoterGuide questionnaire records Graham rejecting strict liability for firearm dealers and manufacturers while allowing liability under traditional civil procedure if causation is proved.",
+          "sourceIds": [
+            "s-ivoterguide-2022"
+          ],
+          "sourceUrl": "https://ivoterguide.com/candidate/74609/race/11249/election/987",
+          "sourceFile": "memory/candidates/david-c-graham/raw-dump-v2.md",
+          "confidence": "likely",
+          "useDecision": "use-with-caveat",
+          "caveat": "Older 2022 questionnaire; use with date caveat."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": [
+        "One or more items require the caveat shown with the evidence item."
+      ]
+    },
+    {
+      "issueNumber": 8,
+      "title": "Immigration / border",
+      "summary": "No relevant public evidence was found for Immigration / border after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 9,
+      "title": "Health care / insurance / Medicaid",
+      "summary": "No relevant public evidence was found for Health care / insurance / Medicaid after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 10,
+      "title": "Election integrity / voting / courts",
+      "summary": "Election integrity / voting / courts: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-david-c-graham-00001",
+          "classification": "documented-record",
+          "text": "The Kansas SOS 2026 General candidate list, checked by the federal audit on May 20, 2026, added David C. Graham as a Libertarian candidate for U.S. Senate; the same audit found no 2026 FEC candidate ID.",
+          "sourceIds": [
+            "s-sos-2026-general"
+          ],
+          "sourceUrl": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+          "sourceFile": "memory/candidates/david-c-graham/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 11,
+      "title": "Public safety / law enforcement / criminal justice",
+      "summary": "Public safety / law enforcement / criminal justice: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-david-c-graham-00005",
+          "classification": "background-context",
+          "text": "The 2022 iVoterGuide profile lists Graham as a former Harper County attorney for 2017-2018.",
+          "sourceIds": [
+            "s-ivoterguide-2022"
+          ],
+          "sourceUrl": "https://ivoterguide.com/candidate/74609/race/11249/election/987",
+          "sourceFile": "memory/candidates/david-c-graham/raw-dump-v2.md",
+          "confidence": "likely",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 12,
+      "title": "Agriculture / rural economy / water",
+      "summary": "No relevant public evidence was found for Agriculture / rural economy / water after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 13,
+      "title": "Local governance / transparency / ethics",
+      "summary": "Local governance / transparency / ethics: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-david-c-graham-00002",
+          "classification": "documented-record",
+          "text": "Graham has prior statewide ballot history: the Lawrence Times identified him as the Libertarian U.S. Senate nominee in the 2022 general election.",
+          "sourceIds": [
+            "s-lawrence-times-2022"
+          ],
+          "sourceUrl": "https://lawrencekstimes.com/2022/07/22/ussen-ks-candidates-202208/",
+          "sourceFile": "memory/candidates/david-c-graham/raw-dump-v2.md",
+          "confidence": "likely",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 14,
+      "title": "Environment / energy / land use",
+      "summary": "No relevant public evidence was found for Environment / energy / land use after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    }
+  ]
+}

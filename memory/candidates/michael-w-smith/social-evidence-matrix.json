@@ -1,0 +1,13 @@
+[
+  {
+    "candidateSlug": "michael-w-smith",
+    "platform": "public web/social search",
+    "actionType": "public absence",
+    "target": "candidate-controlled follows, likes, comments, or posts",
+    "date": "2026-05-20",
+    "exactContentOrDescription": "This missing-roster pass did not find reliable candidate-controlled social follows, likes, comments, or posts that could be attributed cleanly and mapped as social signals. Candidate websites, public news statements, KPDC/FEC/SOS records, and official pages were prioritized.",
+    "issueMappedTo": [],
+    "signalStrength": "ambiguous",
+    "caveat": "Absence of harvested social interactions is not evidence of belief. Do not infer private views from this absence."
+  }
+]

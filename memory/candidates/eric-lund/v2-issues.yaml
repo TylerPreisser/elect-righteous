@@ -1,20 +1,31 @@
 {
   "slug": "eric-lund",
-  "generated": "2026-05-20T02:11:14.685Z",
+  "generated": "2026-05-20T22:01:48.056Z",
   "agent": "codex candidate-completeness generator",
   "candidate_metadata": {
     "slug": "eric-lund",
     "name": "Eric Lund",
-    "party": "NP",
-    "position": "Kansas State Treasurer campaign-finance account holder",
+    "party": "I",
+    "position": "Libertarian candidate for Kansas State Treasurer",
     "electionSlug": "kansas-treasurer-2026",
     "incumbent": false,
-    "occupation": "State Treasurer candidate / campaign-finance account holder",
-    "whoTheyAre": "Eric Lund appears in the KPDC statewide index under State Treasurer candidates. This pass did not verify a current Secretary of State filing-row entry or a candidate-controlled platform.",
-    "recordSummary": "Treat Lund as a treasurer-race public-record profile until final filing records clarify whether the KPDC account corresponds to a certified ballot candidate.",
+    "occupation": "Kansas State Treasurer candidate; Libertarian general-election filing",
+    "whoTheyAre": "Eric Lund was updated after the state roster audit found him on the Kansas SOS 2026 General list for state treasurer as a Libertarian candidate filed May 12, 2026. The KPDC statewide index and appointment-of-treasurer filing remain relevant campaign-finance records, but the profile no longer treats him as KPDC-only.",
+    "recordSummary": "The current record confirms a Kansas SOS 2026 General filing for state treasurer and a KPDC treasurer appointment/account record. No candidate-controlled issue platform was found in this pass, so issue entries remain evidence-limited and caveated.",
     "social_presence_note": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set."
   },
   "sources": [
+    {
+      "accessed": "2026-05-20",
+      "publisher": "Kansas Secretary of State",
+      "claimsAnchored": [
+        "Kansas SOS 2026 General list includes Eric Lund for State Treasurer as a Libertarian candidate filed on 2026-05-12."
+      ],
+      "id": "s-sos-2026-general",
+      "tier": "primary",
+      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+      "title": "Kansas SOS Candidate List - 2026 General"
+    },
     {
       "accessed": "2026-05-20",
       "publisher": "Kansas Governmental Ethics Commission / KPDC",
@@ -43,18 +54,20 @@
       "id": "i-ballot-status",
       "title": "Ballot / filing status",
       "stated": {
-        "text": "KPDC lists Eric Lund under State Treasurer candidates, but this pass did not find Lund on the statewide Secretary-of-State filing mirror used for confirmed ballot rows.",
+        "text": "Kansas SOS lists Eric Lund as a Libertarian candidate for State Treasurer on the 2026 General list, filed May 12, 2026. KPDC records separately show a campaign-finance account/treasurer appointment for the same race.",
         "sourceIds": [
+          "s-sos-2026-general",
           "s-kpdc-statewide",
           "s-kpdc-at"
         ]
       },
       "actions": [
         {
-          "id": "a-record-appearance",
-          "date": "2026-05-20",
-          "body": "KPDC's statewide index includes an Eric Lund appointment-of-treasurer link under State Treasurer.",
+          "id": "a-sos-general-filing",
+          "date": "2026-05-12",
+          "body": "The updated state roster audit found Eric Lund on the Kansas SOS 2026 General candidate list for State Treasurer as a Libertarian candidate filed on May 12, 2026; KPDC records separately show the campaign-finance account.",
           "sourceIds": [
+            "s-sos-2026-general",
             "s-kpdc-statewide",
             "s-kpdc-at"
           ]
@@ -122,7 +135,7 @@
   "editorial_notes": [
     "Generated from the separate candidate-completeness audit so newly discovered names have individual v2 profile artifacts.",
     "Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.",
-    "Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication."
+    "Final certified ballot records should still be rechecked after the 2026 Kansas filing deadline, but this pass found a Kansas SOS 2026 General filing."
   ],
   "fixed_issue_matrix": [
     {
@@ -477,8 +490,20 @@
     {
       "issueNumber": 10,
       "title": "Election integrity / voting / courts",
-      "summary": "Election integrity / voting / courts: 17 selected evidence items from 21 mapped rows. Public URL-backed rows: 1.",
+      "summary": "Kansas SOS lists Eric Lund as a Libertarian candidate for State Treasurer on the 2026 General list, filed May 12, 2026. KPDC records separately show a campaign-finance account/treasurer appointment for the same race. This is ballot-status evidence, not an issue-position claim.",
       "evidenceItems": [
+        {
+          "evidenceRowId": "em-eric-lund-sos-2026-general",
+          "classification": "documented-record",
+          "text": "The updated state roster audit found Eric Lund on the Kansas SOS 2026 General candidate list for State Treasurer as a Libertarian candidate filed on May 12, 2026; KPDC records separately show the campaign-finance account.",
+          "sourceIds": [
+            "s-sos-2026-general"
+          ],
+          "sourceUrl": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+          "sourceFile": "memory/orchestration/missing-candidate-delta-audit-2026-05-20.md",
+          "confidence": "confirmed",
+          "useDecision": "use-with-caveat"
+        },
         {
           "evidenceRowId": "em-eric-lund-00045",
           "classification": "documented-record",
@@ -587,7 +612,7 @@
         {
           "evidenceRowId": "em-eric-lund-00035",
           "classification": "donor-organization-signal",
-          "text": "\"whoTheyAre\": \"Eric Lund appears in the KPDC statewide index under State Treasurer candidates. This pass did not verify a current Secretary of State filing-row entry or a candidate-controlled platform.\",",
+          "text": "\"whoTheyAre\": \"Eric Lund was updated after the state roster audit found him on the Kansas SOS 2026 General list for state treasurer as a Libertarian candidate filed May 12, 2026. The KPDC statewide index and appointment-of-treasurer filing remain relevant campaign-finance records, but the profile no longer treats him as KPDC-only.\",",
           "sourceIds": [
             "mem-memory-candidates-eric-lund-v2-issues-yaml-l13",
             "mem-ui-src-data-v2-eric-lund-ts-l110"
@@ -600,7 +625,7 @@
         {
           "evidenceRowId": "em-eric-lund-00036",
           "classification": "donor-organization-signal",
-          "text": "\"recordSummary\": \"Treat Lund as a treasurer-race public-record profile until final filing records clarify whether the KPDC account corresponds to a certified ballot candidate.\",",
+          "text": "\"recordSummary\": \"The current record confirms a Kansas SOS 2026 General filing for state treasurer and a KPDC treasurer appointment/account record. No candidate-controlled issue platform was found in this pass, so issue entries remain evidence-limited and caveated.\",",
           "sourceIds": [
             "mem-memory-candidates-eric-lund-v2-issues-yaml-l14",
             "mem-ui-src-data-v2-eric-lund-ts-l111"
@@ -613,7 +638,7 @@
         {
           "evidenceRowId": "em-eric-lund-00054",
           "classification": "donor-organization-signal",
-          "text": "\"text\": \"KPDC lists Eric Lund under State Treasurer candidates, but this pass did not find Lund on the statewide Secretary-of-State filing mirror used for confirmed ballot rows.\",",
+          "text": "\"text\": \"Kansas SOS lists Eric Lund as a Libertarian candidate for State Treasurer on the 2026 General list, filed May 12, 2026. KPDC records separately show a campaign-finance account/treasurer appointment for the same race.\",",
           "sourceIds": [
             "mem-memory-candidates-eric-lund-v2-issues-yaml-l46",
             "mem-ui-src-data-v2-eric-lund-ts-l22"
@@ -639,7 +664,7 @@
         {
           "evidenceRowId": "em-eric-lund-00095",
           "classification": "donor-organization-signal",
-          "text": "\"The treasurer race was missing from the site. It now includes the confirmed statewide filing row for incumbent Steven Johnson and the KPDC account record for Eric Lund, with final ballot status still subject to official post-deadline verification.\",",
+          "text": "\"The treasurer race was missing from the site. It now includes the confirmed statewide filing row for incumbent Steven Johnson and the updated SOS general-election listing for Libertarian Eric Lund, with final ballot status still subject to official post-deadline verification.\",",
           "sourceIds": [
             "mem-ui-src-data-elections-ts-l164"
           ],
@@ -679,7 +704,7 @@
         {
           "evidenceRowId": "em-eric-lund-00012",
           "classification": "social-online-signal",
-          "text": "Ballot / filing status: KPDC lists Eric Lund under State Treasurer candidates, but this pass did not find Lund on the statewide Secretary-of-State filing mirror used for confirmed ballot rows.",
+          "text": "Ballot / filing status: Kansas SOS lists Eric Lund as a Libertarian candidate for State Treasurer on the 2026 General list, filed May 12, 2026. KPDC records separately show a campaign-finance account/treasurer appointment for the same race.",
           "sourceIds": [
             "mem-memory-candidates-eric-lund-in-their-own-words-md-l19",
             "mem-memory-candidates-eric-lund-raw-dump-v2-md-l19",
@@ -726,7 +751,7 @@
           "platform": "Public web / internal harvest",
           "actionType": "post",
           "signalStrength": "weak",
-          "observation": "Ballot / filing status: KPDC lists Eric Lund under State Treasurer candidates, but this pass did not find Lund on the statewide Secretary-of-State filing mirror used for confirmed ballot rows.",
+          "observation": "Ballot / filing status: Kansas SOS lists Eric Lund as a Libertarian candidate for State Treasurer on the 2026 General list, filed May 12, 2026. KPDC records separately show a campaign-finance account/treasurer appointment for the same race.",
           "sourceUrl": null,
           "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
         },
@@ -746,7 +771,7 @@
           "platform": "Public web / internal harvest",
           "actionType": "online-reference",
           "signalStrength": "ambiguous",
-          "observation": "\"whoTheyAre\": \"Eric Lund appears in the KPDC statewide index under State Treasurer candidates. This pass did not verify a current Secretary of State filing-row entry or a candidate-controlled platform.\",",
+          "observation": "\"whoTheyAre\": \"Eric Lund was updated after the state roster audit found him on the Kansas SOS 2026 General list for state treasurer as a Libertarian candidate filed May 12, 2026. The KPDC statewide index and appointment-of-treasurer filing remain relevant campaign-finance records, but the profile no longer treats him as KPDC-only.\",",
           "sourceUrl": null,
           "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
         },
@@ -789,6 +814,7 @@
         "publicUrlRows": 1
       },
       "caveats": [
+        "This is ballot-status evidence, not a policy position; do not infer broader election-administration views from filing status.",
         "Social signals are observations only and are not treated as confirmed beliefs or policy positions.",
         "This issue still relies heavily on internal-memory rows; downstream profile writers should prefer public URL-backed rows where possible."
       ]
@@ -976,7 +1002,7 @@
         {
           "evidenceRowId": "em-eric-lund-00035",
           "classification": "donor-organization-signal",
-          "text": "\"whoTheyAre\": \"Eric Lund appears in the KPDC statewide index under State Treasurer candidates. This pass did not verify a current Secretary of State filing-row entry or a candidate-controlled platform.\",",
+          "text": "\"whoTheyAre\": \"Eric Lund was updated after the state roster audit found him on the Kansas SOS 2026 General list for state treasurer as a Libertarian candidate filed May 12, 2026. The KPDC statewide index and appointment-of-treasurer filing remain relevant campaign-finance records, but the profile no longer treats him as KPDC-only.\",",
           "sourceIds": [
             "mem-memory-candidates-eric-lund-v2-issues-yaml-l13",
             "mem-ui-src-data-v2-eric-lund-ts-l110"
@@ -989,7 +1015,7 @@
         {
           "evidenceRowId": "em-eric-lund-00036",
           "classification": "donor-organization-signal",
-          "text": "\"recordSummary\": \"Treat Lund as a treasurer-race public-record profile until final filing records clarify whether the KPDC account corresponds to a certified ballot candidate.\",",
+          "text": "\"recordSummary\": \"The current record confirms a Kansas SOS 2026 General filing for state treasurer and a KPDC treasurer appointment/account record. No candidate-controlled issue platform was found in this pass, so issue entries remain evidence-limited and caveated.\",",
           "sourceIds": [
             "mem-memory-candidates-eric-lund-v2-issues-yaml-l14",
             "mem-ui-src-data-v2-eric-lund-ts-l111"
@@ -1030,7 +1056,7 @@
         {
           "evidenceRowId": "em-eric-lund-00054",
           "classification": "donor-organization-signal",
-          "text": "\"text\": \"KPDC lists Eric Lund under State Treasurer candidates, but this pass did not find Lund on the statewide Secretary-of-State filing mirror used for confirmed ballot rows.\",",
+          "text": "\"text\": \"Kansas SOS lists Eric Lund as a Libertarian candidate for State Treasurer on the 2026 General list, filed May 12, 2026. KPDC records separately show a campaign-finance account/treasurer appointment for the same race.\",",
           "sourceIds": [
             "mem-memory-candidates-eric-lund-v2-issues-yaml-l46",
             "mem-ui-src-data-v2-eric-lund-ts-l22"
@@ -1085,7 +1111,7 @@
         {
           "evidenceRowId": "em-eric-lund-00012",
           "classification": "social-online-signal",
-          "text": "Ballot / filing status: KPDC lists Eric Lund under State Treasurer candidates, but this pass did not find Lund on the statewide Secretary-of-State filing mirror used for confirmed ballot rows.",
+          "text": "Ballot / filing status: Kansas SOS lists Eric Lund as a Libertarian candidate for State Treasurer on the 2026 General list, filed May 12, 2026. KPDC records separately show a campaign-finance account/treasurer appointment for the same race.",
           "sourceIds": [
             "mem-memory-candidates-eric-lund-in-their-own-words-md-l19",
             "mem-memory-candidates-eric-lund-raw-dump-v2-md-l19",
@@ -1193,7 +1219,7 @@
           "platform": "Public web / internal harvest",
           "actionType": "post",
           "signalStrength": "weak",
-          "observation": "Ballot / filing status: KPDC lists Eric Lund under State Treasurer candidates, but this pass did not find Lund on the statewide Secretary-of-State filing mirror used for confirmed ballot rows.",
+          "observation": "Ballot / filing status: Kansas SOS lists Eric Lund as a Libertarian candidate for State Treasurer on the 2026 General list, filed May 12, 2026. KPDC records separately show a campaign-finance account/treasurer appointment for the same race.",
           "sourceUrl": null,
           "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
         },
@@ -1213,7 +1239,7 @@
           "platform": "Public web / internal harvest",
           "actionType": "online-reference",
           "signalStrength": "ambiguous",
-          "observation": "\"whoTheyAre\": \"Eric Lund appears in the KPDC statewide index under State Treasurer candidates. This pass did not verify a current Secretary of State filing-row entry or a candidate-controlled platform.\",",
+          "observation": "\"whoTheyAre\": \"Eric Lund was updated after the state roster audit found him on the Kansas SOS 2026 General list for state treasurer as a Libertarian candidate filed May 12, 2026. The KPDC statewide index and appointment-of-treasurer filing remain relevant campaign-finance records, but the profile no longer treats him as KPDC-only.\",",
           "sourceUrl": null,
           "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
         },

@@ -1,0 +1,16 @@
+{
+  "candidateSlug": "david-c-graham",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "inputs_read": [
+    "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "https://ivoterguide.com/candidate/74609/race/11249/election/987",
+    "https://lawrencekstimes.com/2022/07/22/ussen-ks-candidates-202208/"
+  ],
+  "outputs_written": [
+    "memory/candidates/david-c-graham/evidence-matrix.json",
+    "memory/candidates/david-c-graham/social-evidence-matrix.json",
+    "memory/candidates/david-c-graham/source-audit.md",
+    "memory/candidates/david-c-graham/issue-matrix.md",
+    "memory/candidates/david-c-graham/v2-issues.yaml"
+  ]
+}

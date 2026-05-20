@@ -1,0 +1,397 @@
+{
+  "slug": "michael-w-smith",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "agent": "codex missing-roster artifact generator",
+  "candidate_metadata": {
+    "slug": "michael-w-smith",
+    "name": "Michael W. Smith",
+    "party": "R",
+    "position": "Lieutenant governor running mate on the Stacy Rogers ticket",
+    "electionSlug": "kansas-governor-2026",
+    "incumbent": false,
+    "occupation": "Leavenworth County commissioner; former Lansing mayor, city administrator, and police chief",
+    "campaignWebsite": "https://stacyrogersforks.com/stacys-team",
+    "whoTheyAre": "Michael W. Smith was added because official/campaign records identify him as Stacy Rogers's lieutenant governor running mate. Rogers's campaign describes Smith as a lifelong public servant with nearly 40 years in Lansing and Leavenworth County government, including service as Leavenworth County commissioner, mayor of Lansing, city administrator, chief of police, and former president of the Kansas Mayor's Association.",
+    "recordSummary": "The current record confirms Smith as Rogers's running mate and documents a local-government/public-safety background. No separate candidate-controlled issue platform beyond the Rogers campaign materials was found in this pass.",
+    "whereTheyWorship": "No direct public evidence of a current worship community was found in this missing-roster pass. No faith-based policy inference is made.",
+    "social_presence_note": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for Michael W. Smith in this missing-roster pass. Public social evidence remains a signal layer only; none is used as a confirmed policy position."
+  },
+  "sources": [
+    {
+      "id": "s-pawnee-candidate-list",
+      "tier": "primary",
+      "url": "https://www.pawneecountykansas.com/DocumentCenter/View/2078/2026-PN-Co-Candidate-List",
+      "title": "Pawnee County 2026 Candidate Filings mirror",
+      "publisher": "Pawnee County",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "County filing mirror lists Stacy L. Rogers/Michael W. Smith for Governor/Lt. Governor, Republican, filed 2025-12-22."
+      ]
+    },
+    {
+      "id": "s-stacy-team",
+      "tier": "secondary",
+      "url": "https://stacyrogersforks.com/stacys-team",
+      "title": "Stacy Rogers campaign team page",
+      "publisher": "Stacy Rogers for Kansas",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Campaign identifies Michael Smith as candidate for lieutenant governor and summarizes local-government experience."
+      ]
+    },
+    {
+      "id": "s-stacy-home",
+      "tier": "secondary",
+      "url": "https://stacyrogersforks.com/",
+      "title": "Stacy Rogers for Kansas homepage",
+      "publisher": "Stacy Rogers for Kansas",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Campaign says Rogers and Smith formally signed official documents and frames Smith as an experienced partner."
+      ]
+    },
+    {
+      "id": "s-kwch-holscher",
+      "tier": "secondary",
+      "url": "https://www.kwch.com/2026/05/14/kansas-gubernatorial-candidate-picks-wichita-representative-running-mate/",
+      "title": "Kansas gubernatorial candidate picks Wichita representative for running mate",
+      "publisher": "KWCH",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "KWCH noted only Stacy Rogers and Michael Smith had filed among Republican gubernatorial tickets as of May 14, 2026."
+      ]
+    }
+  ],
+  "issues": [
+    {
+      "id": "i-roster-status",
+      "title": "Roster and filing status",
+      "stated": {
+        "text": "Named lieutenant-governor running mate on Stacy Rogers's officially filed governor ticket; official county mirror lists Stacy L. Rogers/Michael W. Smith filed December 22, 2025.",
+        "sourceIds": [
+          "s-pawnee-candidate-list",
+          "s-stacy-team"
+        ]
+      },
+      "actions": [
+        {
+          "id": "a-roster-status",
+          "date": "2026-05-20",
+          "body": "Named lieutenant-governor running mate on Stacy Rogers's officially filed governor ticket; official county mirror lists Stacy L. Rogers/Michael W. Smith filed December 22, 2025.",
+          "sourceIds": [
+            "s-pawnee-candidate-list",
+            "s-stacy-team"
+          ]
+        }
+      ],
+      "socialSignals": []
+    }
+  ],
+  "campaign_finance": {
+    "totalRaised": "Not itemized in the reviewed public records for this missing-roster pass",
+    "narrative": "No itemized campaign-finance filing was found in this missing-roster pass.",
+    "donors": [],
+    "reportingPeriod": "Most recent public record reviewed on 2026-05-20",
+    "source": "Pawnee County 2026 Candidate Filings mirror",
+    "sourceIds": [
+      "s-pawnee-candidate-list",
+      "s-stacy-team",
+      "s-stacy-home"
+    ]
+  },
+  "editorial_notes": [
+    "Added from the May 20, 2026 missing-candidate delta audit.",
+    "Every candidate has a 14-issue matrix; thin public records are explicitly caveated.",
+    "Social evidence was not deleted. No reliable candidate-controlled follows, likes, comments, or posts were found for this pass unless separately listed in evidence."
+  ],
+  "fixed_issue_matrix": [
+    {
+      "issueNumber": 1,
+      "title": "Abortion / life",
+      "summary": "No relevant public evidence was found for Abortion / life after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 2,
+      "title": "LGBT / gender / parental rights",
+      "summary": "No relevant public evidence was found for LGBT / gender / parental rights after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 3,
+      "title": "Education / curriculum / schools",
+      "summary": "No relevant public evidence was found for Education / curriculum / schools after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 4,
+      "title": "Religious liberty / church / civic morality",
+      "summary": "No relevant public evidence was found for Religious liberty / church / civic morality after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 5,
+      "title": "Taxes / spending / debt",
+      "summary": "No relevant public evidence was found for Taxes / spending / debt after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 6,
+      "title": "Economy / jobs / labor",
+      "summary": "Economy / jobs / labor: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-michael-w-smith-00004",
+          "classification": "candidate-stated",
+          "text": "Rogers's campaign frames Smith's record around responsible growth, business development, and fiscal management in local government.",
+          "sourceIds": [
+            "s-stacy-team"
+          ],
+          "sourceUrl": "https://stacyrogersforks.com/stacys-team",
+          "sourceFile": "memory/candidates/michael-w-smith/raw-dump-v2.md",
+          "confidence": "likely",
+          "useDecision": "use-with-caveat",
+          "caveat": "Campaign biography, not an independent performance audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": [
+        "One or more items require the caveat shown with the evidence item."
+      ]
+    },
+    {
+      "issueNumber": 7,
+      "title": "Guns / Second Amendment",
+      "summary": "No relevant public evidence was found for Guns / Second Amendment after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 8,
+      "title": "Immigration / border",
+      "summary": "No relevant public evidence was found for Immigration / border after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 9,
+      "title": "Health care / insurance / Medicaid",
+      "summary": "No relevant public evidence was found for Health care / insurance / Medicaid after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 10,
+      "title": "Election integrity / voting / courts",
+      "summary": "Election integrity / voting / courts: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-michael-w-smith-00001",
+          "classification": "documented-record",
+          "text": "A county filing mirror lists the Rogers/Smith governor-lieutenant governor ticket as filed December 22, 2025.",
+          "sourceIds": [
+            "s-pawnee-candidate-list"
+          ],
+          "sourceUrl": "https://www.pawneecountykansas.com/DocumentCenter/View/2078/2026-PN-Co-Candidate-List",
+          "sourceFile": "memory/candidates/michael-w-smith/raw-dump-v2.md",
+          "confidence": "confirmed",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 1,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 11,
+      "title": "Public safety / law enforcement / criminal justice",
+      "summary": "Public safety / law enforcement / criminal justice: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-michael-w-smith-00002",
+          "classification": "background-context",
+          "text": "Rogers's campaign says Smith began public service as chief of police for Lansing.",
+          "sourceIds": [
+            "s-stacy-team"
+          ],
+          "sourceUrl": "https://stacyrogersforks.com/stacys-team",
+          "sourceFile": "memory/candidates/michael-w-smith/raw-dump-v2.md",
+          "confidence": "likely",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 12,
+      "title": "Agriculture / rural economy / water",
+      "summary": "No relevant public evidence was found for Agriculture / rural economy / water after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    },
+    {
+      "issueNumber": 13,
+      "title": "Local governance / transparency / ethics",
+      "summary": "Local governance / transparency / ethics: 1 source-backed item found in the missing-roster audit.",
+      "evidenceItems": [
+        {
+          "evidenceRowId": "em-michael-w-smith-00003",
+          "classification": "background-context",
+          "text": "The campaign says Smith has served as Leavenworth County commissioner, mayor of Lansing, city administrator, and former president of the Kansas Mayor's Association.",
+          "sourceIds": [
+            "s-stacy-team"
+          ],
+          "sourceUrl": "https://stacyrogersforks.com/stacys-team",
+          "sourceFile": "memory/candidates/michael-w-smith/raw-dump-v2.md",
+          "confidence": "likely",
+          "useDecision": "use",
+          "caveat": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit."
+        }
+      ],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 1,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 1
+      },
+      "caveats": []
+    },
+    {
+      "issueNumber": 14,
+      "title": "Environment / energy / land use",
+      "summary": "No relevant public evidence was found for Environment / energy / land use after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.",
+      "evidenceItems": [],
+      "socialSignals": [],
+      "sourceCoverage": {
+        "primary": 0,
+        "secondary": 0,
+        "social": 0,
+        "internalMemory": 0,
+        "publicUrlRows": 0
+      },
+      "caveats": [
+        "No position is inferred from party, faith, office title, associations, follows, likes, or the absence of public evidence."
+      ]
+    }
+  ]
+}

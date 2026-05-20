@@ -1,0 +1,17 @@
+{
+  "candidateSlug": "kc-ohaebosim",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "inputs_read": [
+    "https://www.communityvoiceks.com/2026/05/14/holscher-kc-ohaebosim-running-mate/",
+    "https://www.kwch.com/2026/05/14/kansas-gubernatorial-candidate-picks-wichita-representative-running-mate/",
+    "https://kslegislature.gov/li_2024s/b2023_24/members/rep_ohaebosim_kc_1/",
+    "https://www.kansas.gov/ethics/CFAScanned/House/2026ElecCycle/HLinks2026EC.htm"
+  ],
+  "outputs_written": [
+    "memory/candidates/kc-ohaebosim/evidence-matrix.json",
+    "memory/candidates/kc-ohaebosim/social-evidence-matrix.json",
+    "memory/candidates/kc-ohaebosim/source-audit.md",
+    "memory/candidates/kc-ohaebosim/issue-matrix.md",
+    "memory/candidates/kc-ohaebosim/v2-issues.yaml"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "candidateSlug": "scott-e-morgan",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "inputs_read": [
+    "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "https://kansasreflector.com/briefs/united-kansas-party-nominates-lawrences-scott-morgan-in-secretary-of-states-race/",
+    "https://www.unitedkansas.com/who-we-are",
+    "https://www.unitedkansas.com/principles"
+  ],
+  "outputs_written": [
+    "memory/candidates/scott-e-morgan/evidence-matrix.json",
+    "memory/candidates/scott-e-morgan/social-evidence-matrix.json",
+    "memory/candidates/scott-e-morgan/source-audit.md",
+    "memory/candidates/scott-e-morgan/issue-matrix.md",
+    "memory/candidates/scott-e-morgan/v2-issues.yaml"
+  ]
+}

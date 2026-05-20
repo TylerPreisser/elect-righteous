@@ -1,0 +1,17 @@
+{
+  "candidateSlug": "max-dibble",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "inputs_read": [
+    "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "https://cityofphillipsburg.com/324/Economic-Development-Advisory-Board",
+    "https://www.phillipscountyks.org/media/MinutesAgendas/Commissioners/2025/01_13_2025.pdf",
+    "https://www.kslegislature.gov/li/b2021_22/measures/minutes/agenda_item_2022020913136767171"
+  ],
+  "outputs_written": [
+    "memory/candidates/max-dibble/evidence-matrix.json",
+    "memory/candidates/max-dibble/social-evidence-matrix.json",
+    "memory/candidates/max-dibble/source-audit.md",
+    "memory/candidates/max-dibble/issue-matrix.md",
+    "memory/candidates/max-dibble/v2-issues.yaml"
+  ]
+}

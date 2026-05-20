@@ -1,0 +1,108 @@
+[
+  {
+    "id": "em-renee-duxler-00001",
+    "candidateSlug": "renee-duxler",
+    "candidateName": "Renee Duxler",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/renee-duxler/raw-dump-v2.md",
+    "sourceUrl": "https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/",
+    "sourceTier": "secondary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "Kansas Reflector reported that Ethan Corson selected Renee Duxler as his lieutenant governor running mate.",
+    "exactEvidenceSummary": "Kansas Reflector reported that Ethan Corson selected Renee Duxler as his lieutenant governor running mate.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-reflector-duxler"
+    ]
+  },
+  {
+    "id": "em-renee-duxler-00002",
+    "candidateSlug": "renee-duxler",
+    "candidateName": "Renee Duxler",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/renee-duxler/raw-dump-v2.md",
+    "sourceUrl": "https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/",
+    "sourceTier": "secondary",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      6
+    ],
+    "claim": "Kansas Reflector reported Duxler has worked in economic and workforce development and currently leads the Salina Area Chamber of Commerce.",
+    "exactEvidenceSummary": "Kansas Reflector reported Duxler has worked in economic and workforce development and currently leads the Salina Area Chamber of Commerce.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-reflector-duxler",
+      "s-salina-chamber-team"
+    ]
+  },
+  {
+    "id": "em-renee-duxler-00003",
+    "candidateSlug": "renee-duxler",
+    "candidateName": "Renee Duxler",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/renee-duxler/raw-dump-v2.md",
+    "sourceUrl": "https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/",
+    "sourceTier": "secondary",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      9
+    ],
+    "claim": "Kansas Reflector reported Duxler worked at an HIV/AIDS clinic and earned social-work degrees from Kansas State University and Newman University.",
+    "exactEvidenceSummary": "Kansas Reflector reported Duxler worked at an HIV/AIDS clinic and earned social-work degrees from Kansas State University and Newman University.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-reflector-duxler"
+    ]
+  },
+  {
+    "id": "em-renee-duxler-00004",
+    "candidateSlug": "renee-duxler",
+    "candidateName": "Renee Duxler",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/renee-duxler/raw-dump-v2.md",
+    "sourceUrl": "https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/",
+    "sourceTier": "secondary",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "Kansas Reflector reported Duxler served on the Wichita/Sedgwick County Metropolitan Planning Commission.",
+    "exactEvidenceSummary": "Kansas Reflector reported Duxler served on the Wichita/Sedgwick County Metropolitan Planning Commission.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-reflector-duxler"
+    ]
+  },
+  {
+    "id": "em-renee-duxler-00005",
+    "candidateSlug": "renee-duxler",
+    "candidateName": "Renee Duxler",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/renee-duxler/raw-dump-v2.md",
+    "sourceUrl": "https://kansasreflector.com/2026/05/20/democratic-governor-candidate-ethan-corson-joins-forces-with-salina-business-director/",
+    "sourceTier": "secondary",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      12
+    ],
+    "claim": "Kansas Reflector reported Duxler was raised in Hays and McPherson, giving the ticket central/western Kansas roots.",
+    "exactEvidenceSummary": "Kansas Reflector reported Duxler was raised in Hays and McPherson, giving the ticket central/western Kansas roots.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-reflector-duxler"
+    ]
+  }
+]

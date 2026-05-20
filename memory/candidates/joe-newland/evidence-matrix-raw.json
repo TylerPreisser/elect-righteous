@@ -1,0 +1,153 @@
+[
+  {
+    "id": "em-joe-newland-00001",
+    "candidateSlug": "joe-newland",
+    "candidateName": "Joe Newland",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/joe-newland/raw-dump-v2.md",
+    "sourceUrl": "https://kansasreflector.com/2026/05/18/gop-governor-candidate-vicki-schmidts-running-mate-will-be-kansas-farm-bureau-president/",
+    "sourceTier": "secondary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "Kansas Reflector and KWCH reported that Vicki Schmidt selected Joe Newland as her lieutenant governor running mate.",
+    "exactEvidenceSummary": "Kansas Reflector and KWCH reported that Vicki Schmidt selected Joe Newland as her lieutenant governor running mate.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-reflector-newland",
+      "s-kwch-newland"
+    ]
+  },
+  {
+    "id": "em-joe-newland-00002",
+    "candidateSlug": "joe-newland",
+    "candidateName": "Joe Newland",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/joe-newland/raw-dump-v2.md",
+    "sourceUrl": "https://kansasreflector.com/2026/05/18/gop-governor-candidate-vicki-schmidts-running-mate-will-be-kansas-farm-bureau-president/",
+    "sourceTier": "secondary",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      12
+    ],
+    "claim": "Reports identify Newland as Kansas Farm Bureau president and a Wilson County farmer/rancher with wheat, corn, soybeans, hay, and a cow-calf herd.",
+    "exactEvidenceSummary": "Reports identify Newland as Kansas Farm Bureau president and a Wilson County farmer/rancher with wheat, corn, soybeans, hay, and a cow-calf herd.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-reflector-newland",
+      "s-kwch-newland"
+    ]
+  },
+  {
+    "id": "em-joe-newland-00003",
+    "candidateSlug": "joe-newland",
+    "candidateName": "Joe Newland",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/joe-newland/raw-dump-v2.md",
+    "sourceUrl": "https://vickiforgovernor.com/",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      12
+    ],
+    "claim": "Schmidt's announcement said Newland had worked to protect land, water, and rural Kansas interests.",
+    "exactEvidenceSummary": "Schmidt's announcement said Newland had worked to protect land, water, and rural Kansas interests.",
+    "confidence": "likely",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Campaign/news characterization.",
+    "sourceIds": [
+      "s-vicki-home",
+      "s-kansas-reflector-newland"
+    ]
+  },
+  {
+    "id": "em-joe-newland-00004",
+    "candidateSlug": "joe-newland",
+    "candidateName": "Joe Newland",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/joe-newland/raw-dump-v2.md",
+    "sourceUrl": "https://www.kwch.com/2026/05/18/vicki-schmidt-picks-kansas-farm-bureau-president-lieutenant-governor/",
+    "sourceTier": "secondary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      9
+    ],
+    "claim": "KWCH reported Newland backed health benefit plans aimed at rural families.",
+    "exactEvidenceSummary": "KWCH reported Newland backed health benefit plans aimed at rural families.",
+    "confidence": "likely",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Secondary summary pending primary-source policy extraction.",
+    "sourceIds": [
+      "s-kwch-newland"
+    ]
+  },
+  {
+    "id": "em-joe-newland-00005",
+    "candidateSlug": "joe-newland",
+    "candidateName": "Joe Newland",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/joe-newland/raw-dump-v2.md",
+    "sourceUrl": "https://kansasreflector.com/2026/05/18/gop-governor-candidate-vicki-schmidts-running-mate-will-be-kansas-farm-bureau-president/",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      6
+    ],
+    "claim": "Newland described wanting common-sense solutions that lower costs, streamline operations, and get government out of the way.",
+    "exactEvidenceSummary": "Newland described wanting common-sense solutions that lower costs, streamline operations, and get government out of the way.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-reflector-newland",
+      "s-kwch-newland"
+    ]
+  },
+  {
+    "id": "em-joe-newland-00006",
+    "candidateSlug": "joe-newland",
+    "candidateName": "Joe Newland",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/joe-newland/raw-dump-v2.md",
+    "sourceUrl": "https://kansasreflector.com/2026/05/18/gop-governor-candidate-vicki-schmidts-running-mate-will-be-kansas-farm-bureau-president/",
+    "sourceTier": "secondary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      13
+    ],
+    "claim": "Kansas Reflector reported Newland served in the Kansas House from 2019 to 2022 and would serve as lieutenant governor and secretary of agriculture if elected.",
+    "exactEvidenceSummary": "Kansas Reflector reported Newland served in the Kansas House from 2019 to 2022 and would serve as lieutenant governor and secretary of agriculture if elected.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-kansas-reflector-newland"
+    ]
+  },
+  {
+    "id": "em-joe-newland-00007",
+    "candidateSlug": "joe-newland",
+    "candidateName": "Joe Newland",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/joe-newland/raw-dump-v2.md",
+    "sourceUrl": "https://www.kwch.com/2026/05/18/vicki-schmidt-picks-kansas-farm-bureau-president-lieutenant-governor/",
+    "sourceTier": "secondary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      14
+    ],
+    "claim": "KWCH reported Newland led efforts to preserve the quality and quantity of Kansas water.",
+    "exactEvidenceSummary": "KWCH reported Newland led efforts to preserve the quality and quantity of Kansas water.",
+    "confidence": "likely",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Secondary summary pending primary-source policy extraction.",
+    "sourceIds": [
+      "s-kwch-newland"
+    ]
+  }
+]

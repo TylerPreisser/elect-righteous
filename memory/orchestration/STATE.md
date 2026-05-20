@@ -1,7 +1,7 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-20T20:54:41Z
-Last agent: github-pages-deploy-agent / cloudflare-deploy-agent
-Last commit: 3d5b3fb
+Last updated: 2026-05-20T22:05:44Z
+Last agent: roster-auditor / candidate-profile-assembler / build-validation-gatekeeper
+Last commit: 3d5b3fb (new roster-delta work is validated locally but not yet committed)
 
 ## Current Phase
 Phase 3: Profile Rebuild
@@ -9,21 +9,21 @@ Phase 3: Profile Rebuild
 ## Phase Status
 | Phase | Name | Status |
 |-------|------|--------|
-| 1 | Roster Audit | complete |
+| 1 | Roster Audit | complete-with-2026-05-20-delta |
 | 2 | Evidence Matrixing | complete |
 | 3 | Profile Rebuild | complete-with-caveats |
 | 4 | Editorial Review | in progress |
 | 5 | UI/UX Rebuild | in progress |
-| 6 | Validation | in progress |
-| 7 | Deploy | not started |
+| 6 | Validation | pass-local-after-roster-delta |
+| 7 | Deploy | pending-commit-and-push-after-roster-delta |
 
 ## Blockers
-- Full manual editorial/legal/symmetry review remains incomplete for 70 of 70 candidates; parallel legal/symmetry triage ran federal, state, and local/off-cycle scans, and the renderer now blocks cross-candidate issue/social/source contamination while preserving candidate-specific social and source evidence — legal-accuracy-reviewer — high — 2026-05-20
-- Ten rendered profiles remain public-source/action-thin after assembly and require explicit editorial caveats/research follow-up: adam-hamilton, brandon-adams, doug-billings, eric-lund, kevin-latz, mark-lane, michelle-cunningham, ric-koehn, sharilyn-ray, steven-jacob — candidate-profile-assembler — medium — 2026-05-20
+- Full manual editorial/legal/symmetry review remains incomplete for 81 of 81 candidates; parallel legal/symmetry triage ran federal, state, and local/off-cycle scans, and the renderer now blocks cross-candidate issue/social/source contamination while preserving candidate-specific social and source evidence — legal-accuracy-reviewer — high — 2026-05-20
+- Twenty-one rendered profiles remain public-source/action-thin or roster-delta-thin after assembly and require deeper social/source follow-up: adam-hamilton, brandon-adams, cody-ward, david-c-graham, doug-billings, eric-lund, joe-newland, kc-ohaebosim, kelly-ancar, kevin-latz, mark-lane, mark-schaukowitch, marvin-matchett, max-dibble, michael-w-smith, michelle-cunningham, renee-duxler, ric-koehn, scott-e-morgan, sharilyn-ray, steven-jacob — candidate-profile-assembler — medium — 2026-05-20
 - Rendered source-health sweep now has zero HTTP-error links after URL normalization, live replacements, dead-link drops, and candidate-specific source relevance filtering; 113 blocked/forbidden, 6 timeouts, and 9 network errors remain for manual/browser verification because the automated checker cannot prove them live — source-tier-validator — medium — 2026-05-20
 - Official Kansas post-filing roster recheck remains required after the filing deadline/final official lists — roster-auditor — medium — 2026-05-20
 - Customer feedback flagged possible missing local candidates. Recheck against the current Ellis County 2026 candidate filing PDF found only Commission District 1 / Republican Michael Berges for the county commission race during this pass; a fresh official recheck is still required after the June 1, 2026 noon filing deadline and again after the August 3, 2026 noon independent nomination deadline — local-race-auditor — high — 2026-05-20
-- Correction form routes to tyler@preissersolutions.com in code, but live FormSubmit delivery is not proven: controlled AJAX, HTML fallback, and provider-root tests returned Cloudflare/FormSubmit 522 responses from this environment. UI fallback to direct email is visible. FormSubmit activation and old-submission mailbox review are still not confirmed from repo-only access — form-verification — high — 2026-05-20
+- Correction form routes to tyler@preissersolutions.com in code, but live FormSubmit delivery is not proven: controlled AJAX, HTML fallback, and provider-root tests returned Cloudflare/FormSubmit 522 responses, and the roster-delta retry returned 521 from this environment. UI fallback to direct email is visible. FormSubmit activation and old-submission mailbox review are still not confirmed from repo-only access — form-verification — high — 2026-05-20
 - Full local record audit remains required for USD 489, Hays City Commission, and Ellis County Commission because customer feedback showed that board/commission pages must distinguish official minutes/votes from secondary reporting and social-media summaries — record-writer — high — 2026-05-20
 - Production domain `electrighteous.com` did not resolve from this environment after GitHub Pages preview deploy succeeded; Cloudflare/DNS configuration must be checked outside the repo before production can be verified — cloudflare-deploy-agent — high — 2026-05-20
 
@@ -100,19 +100,31 @@ Phase 3: Profile Rebuild
 | ty-masterson | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
 | vernon-ruder-jr | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
 | vicki-schmidt | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
+| cody-ward | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
+| david-c-graham | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
+| joe-newland | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
+| kc-ohaebosim | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
+| kelly-ancar | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
+| mark-schaukowitch | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
+| marvin-matchett | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
+| max-dibble | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
+| michael-w-smith | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
+| renee-duxler | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
+| scott-e-morgan | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ | ✗ | ✗ |
 
 ## Race Audit Status
 | Race | Level | Auditor | Status | Candidate Count | Issues Found |
 |------|-------|---------|--------|:---------------:|--------------|
-| us-senate-2026 | Federal | roster-auditor | complete-with-caveats | 13 | none in candidateCount |
+| us-senate-2026 | Federal | roster-auditor | complete-with-delta | 14 | Added David C. Graham from SOS General Libertarian filing; Chase LaPorte remains recheck caveat |
 | ks-01-house-2026 | Federal | roster-auditor | complete-with-caveats | 5 | none in candidateCount |
-| kansas-governor-2026 | State | roster-auditor | complete-with-caveats | 15 | none in candidateCount |
+| kansas-governor-2026 | State | roster-auditor | complete-with-delta | 19 | Added named lieutenant-governor running mates where public sources identified them |
 | kansas-ag-2026 | State | roster-auditor | complete-with-caveats | 2 | none in candidateCount |
-| kansas-sos-2026 | State | roster-auditor | complete-with-caveats | 4 | none in candidateCount |
-| kansas-treasurer-2026 | State | roster-auditor | complete-with-caveats | 2 | none in candidateCount |
-| kansas-insurance-2026 | State | roster-auditor | complete-with-caveats | 3 | none in candidateCount |
+| kansas-sos-2026 | State | roster-auditor | complete-with-delta | 5 | Added Scott E. Morgan from SOS General / United Kansas filing |
+| kansas-treasurer-2026 | State | roster-auditor | complete-with-delta | 2 | Eric Lund corrected from KPDC-only/account status to SOS General Libertarian filing |
+| kansas-insurance-2026 | State | roster-auditor | complete-with-delta | 3 | Ric Koehn corrected from KPDC-only/account status to SOS General Libertarian filing |
+| ks-house-110 | State | roster-auditor | complete-with-delta | 4 | Added missing Ellis County-relevant House District 110 race: Mark Schaukowitch, Max Dibble, Marvin Matchett, Cody Ward |
 | ks-house-111 | State | roster-auditor | complete-with-caveats | 1 | none in candidateCount |
-| sboe-district-5 | State | roster-auditor | complete-with-caveats | 2 | none in candidateCount |
+| sboe-district-5 | State | roster-auditor | complete-with-delta | 3 | Added Kelly Ancar from SOS Primary filing; Cunningham/Wood remain caveated source/KPDC entries |
 | hays-city-current | Local | roster-auditor | complete-with-caveats | 6 | none in candidateCount |
 | ellis-county-2026-ballot | Local | roster-auditor | complete-with-caveats | 1 | none in candidateCount |
 | ellis-county-incumbents-off-cycle | Local | roster-auditor | complete-with-caveats | 7 | none in candidateCount |
@@ -123,12 +135,12 @@ Phase 3: Profile Rebuild
 ## Validation Gate Results
 | Gate | Last Run | Pass/Fail | Notes |
 |------|----------|-----------|-------|
-| YAML parse | 2026-05-20T20:50:39Z | Pass | 70 candidate v2-issues.yaml files parse clean after customer-feedback local/off-cycle labeling and Ken Brooks corrections. |
-| Phase 2 inventory | 2026-05-20T20:50:39Z | Pass | 70 candidate-like slugs; 48 active 2026; 70 rendered v2; no missing UI entries. |
-| V2 runtime validation | 2026-05-20T20:50:39Z | Pass | validateCandidateV2 accepted 70 v2 candidates after customer-feedback local/off-cycle labeling and Ken Brooks corrections. |
-| TypeScript | 2026-05-20T20:50:39Z | Pass | npx tsc --noEmit --incremental false passed after customer-feedback local/off-cycle labeling and Ken Brooks corrections. |
-| Static build | 2026-05-20T20:50:39Z | Pass | npm run build generated 232 static pages after customer-feedback local/off-cycle labeling and Ken Brooks corrections. |
-| Candidate count parity | 2026-05-20T15:43:39Z | Pass | 15 race entries; every candidateCount matches candidateSlugs.length. |
+| YAML parse | 2026-05-20T22:04:11Z | Pass | 81 candidate v2-issues.yaml files parse clean after missing-candidate roster delta. |
+| Phase 2 inventory | 2026-05-20T22:05:00Z | Pass | 81 candidate-like slugs; 59 active 2026; 81 rendered v2; no missing UI entries. |
+| V2 runtime validation | 2026-05-20T22:05:00Z | Pass | validateCandidateV2 accepted 81 v2 candidates after roster-delta additions. |
+| TypeScript | 2026-05-20T22:05:00Z | Pass | npx tsc --noEmit --incremental false passed after roster-delta additions. |
+| Static build | 2026-05-20T22:05:44Z | Pass | npm run build generated 266 static pages after roster-delta additions. |
+| Candidate count parity | 2026-05-20T22:05:00Z | Pass | 16 race entries; every candidateCount matches candidateSlugs.length. |
 | Forbidden public labels | 2026-05-20T19:08:52Z | Pass | No tpreisser.github.io, Preisser Tech, What You Should Know, or In Their Own Words strings remain under ui/src, ui/public, or active compile scripts. |
 | Evidence matrix structure | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have raw and final evidence matrices with required fields. |
 | Social/source structure | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have social matrices and source audit JSON files with required fields. |
@@ -136,11 +148,11 @@ Phase 3: Profile Rebuild
 | Social matrix presence | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have social-evidence-matrix.json. |
 | Source audit presence | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have source-audit.md/source-audit.json. |
 | Evidence matrix presence | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have evidence-matrix-raw.json and final evidence-matrix.json. |
-| Fixed 14-issue matrix | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have fixed 14-issue matrix artifacts. |
-| Rendered 14-issue profiles | 2026-05-20T19:08:52Z | Pass | 70 of 70 rendered v2 candidate files now contain exactly 14 IssueCard entries derived from fixed_issue_matrix/source-audit artifacts. |
+| Fixed 14-issue matrix | 2026-05-20T22:05:00Z | Pass | 81 of 81 candidates have fixed 14-issue matrix artifacts. |
+| Rendered 14-issue profiles | 2026-05-20T22:05:00Z | Pass | 81 of 81 rendered v2 candidate files contain exactly 14 issues. |
 | Narrative section presence | 2026-05-20T19:17:36Z | Pass | 70 of 70 rendered profiles have non-empty Who They Are, Their Record, Donor/Funding, Where They Worship, and Social/Online notes. Thin-record fallbacks are caveated. |
 | Automated legal cleanup | 2026-05-20T19:23:52Z | Pass | Rendered issue cards no longer surface internal-only issue text as public stance evidence; cross-candidate lawsuit URL scan reports 0 suspect references; validateCandidateV2, TypeScript, and npm run build pass. |
-| Correction form routing | 2026-05-20T20:50:39Z | Partial | Code routes FormSubmit AJAX, HTML fallback, and mailto fallback to tyler@preissersolutions.com. Controlled live AJAX and HTML fallback tests returned Cloudflare/FormSubmit 522, and browser form submit showed the error/direct-email fallback instead of a thank-you state. Delivery is not proven. |
+| Correction form routing | 2026-05-20T22:04:11Z | Partial | Code routes FormSubmit AJAX, HTML fallback, and mailto fallback to tyler@preissersolutions.com. Second controlled live AJAX test returned Cloudflare/FormSubmit 521; prior controlled tests returned 522. Delivery is still not proven. |
 | Rendered source health | 2026-05-20T20:24:00Z | Partial | Public trail includes 1,708 rendered source entries / 1,502 unique URLs; 1,374 live, 113 blocked/forbidden, 6 timeouts, 9 network errors, 0 HTTP errors on a 15s timeout pass. Candidate-specific social/source records remain public; fake/dead/cross-candidate URLs are filtered or dropped. See source-health-2026-05-20.md/json and source-url-overrides.json. |
 | Public profile wording | 2026-05-20T20:01:38Z | Pass | Removed internal matrix maintenance language and stiff Documented-record labels from rendered issue summaries; validateCandidateV2, TypeScript, and npm run build pass. |
 | Candidate relevance guard | 2026-05-20T20:30:53Z | Pass | Renderer now rejects finance-only, public-absence, generic race/local context, family-network, and other-candidate-led evidence from issue/social cards unless the evidence names or directly belongs to the current candidate. |
@@ -149,16 +161,17 @@ Phase 3: Profile Rebuild
 | Production domain verification | 2026-05-20T20:54:41Z | Fail/blocked | `https://electrighteous.com/candidates/ken-brooks/` failed DNS resolution from this environment. Production deploy could not be verified. |
 
 ## Next Actions Queue
-1. Run full manual professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor passes for all 70 rendered profiles after the automated relevance guard pass — editorial review agents — P0 — blocked by none
+1. Run full manual professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor passes for all 81 rendered profiles after the automated relevance guard pass — editorial review agents — P0 — blocked by none
 2. Browser/manual verify the 128 blocked/timeout/network source-health exceptions that automated fetch could not prove live — source-tier-validator — P1 — blocked by browser/manual review time
 3. Rerun full build-validation-gatekeeper after editorial/legal/symmetry review — build-validation-gatekeeper — P1 — blocked by Phase 4 completion
 4. Resolve correction form delivery: retry FormSubmit from a normal browser/network, confirm recipient activation and old submissions, or replace FormSubmit with a provider/account under Preisser Solutions control if 522 persists — form-verification — P0 — blocked by provider/mailbox access
 5. Perform full local official-record audit, starting with Allen Park, using USD 489 minutes/BoardDocs/agenda records before relying on reporting or social posts for action claims — record-writer — P0 — blocked by source review time
-6. Recheck Ellis County candidate filings after June 1, 2026 at noon and independent nominations after August 3, 2026 at noon; add any newly filed candidates found in official sources — local-race-auditor — P0 — blocked by filing deadlines
+6. Recheck Kansas SOS and Ellis County candidate filings after June 1, 2026 at noon and independent nominations after August 3, 2026 at noon; add any newly filed candidates found in official sources — local-race-auditor — P0 — blocked by filing deadlines
 7. Check Cloudflare/DNS for `electrighteous.com`; production did not resolve during this pass even though GitHub Pages preview deployed successfully — cloudflare-deploy-agent — P0 — blocked by Cloudflare/DNS access
 8. Deploy only after validation gates, form verification, and release report pass — deploy agents — P1 — blocked by validation and release readiness
 
 ## Session Log (last 20 entries)
+- 2026-05-20T22:05:44Z roster-auditor/candidate-profile-assembler/build-validation-gatekeeper Completed missing-candidate delta audit after customer feedback: added David C. Graham, Scott E. Morgan, Kelly Ancar, House District 110 candidates Mark Schaukowitch, Max Dibble, Marvin Matchett, and Cody Ward, plus named governor-ticket running mates Michael W. Smith, Renee Duxler, KC Ohaebosim, and Joe Newland; corrected Eric Lund and Ric Koehn from KPDC-only/account status to SOS General Libertarian filing; preserved caveated social/source artifacts for every new profile; added HD110 race; verified 81 rendered v2 candidates, 16 race counts, 14 issues each, TypeScript, and static build; FormSubmit live test still blocked by Cloudflare 521.
 - 2026-05-20T20:54:41Z github-pages-deploy-agent/cloudflare-deploy-agent Pushed customer-feedback remediation through commit 3d5b3fb, verified GitHub Actions Pages build/deploy success, confirmed public preview HTML contains Ken Brooks correction and updated local/off-cycle filing labels, and documented production DNS failure for electrighteous.com.
 - 2026-05-20T20:50:39Z local-race-auditor/ux-content-designer/form-verification Responded to customer feedback: clarified local pages as current-official/administrator profiles rather than 2026 candidate lists, added filing-deadline context, corrected Ken Brooks Hays High and Facebook-page notes, verified no additional Ellis County Commission candidates in the current official 2026 filing PDF during this pass, attempted controlled correction-form submissions, documented FormSubmit 522 delivery blocker, and reran YAML/inventory/V2 validation/TypeScript/static build successfully.
 - 2026-05-20T20:30:53Z legal-accuracy-reviewer/source-tier-validator Restored broader candidate-specific public source trails, preserved social-source evidence, added candidate relevance guards against cross-candidate issue/social/source contamination, corrected Chase LaPorte rendered race metadata, reran source health with zero HTTP errors, and confirmed validation/TypeScript/static build pass.

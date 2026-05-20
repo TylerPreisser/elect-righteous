@@ -1,0 +1,152 @@
+[
+  {
+    "id": "em-kc-ohaebosim-00001",
+    "candidateSlug": "kc-ohaebosim",
+    "candidateName": "KC Ohaebosim",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/kc-ohaebosim/raw-dump-v2.md",
+    "sourceUrl": "https://www.communityvoiceks.com/2026/05/14/holscher-kc-ohaebosim-running-mate/",
+    "sourceTier": "secondary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      10
+    ],
+    "claim": "Public reports state Cindy Holscher selected KC Ohaebosim as her 2026 lieutenant governor running mate.",
+    "exactEvidenceSummary": "Public reports state Cindy Holscher selected KC Ohaebosim as her 2026 lieutenant governor running mate.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-community-voice",
+      "s-kwch-ohaebosim"
+    ]
+  },
+  {
+    "id": "em-kc-ohaebosim-00002",
+    "candidateSlug": "kc-ohaebosim",
+    "candidateName": "KC Ohaebosim",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/kc-ohaebosim/raw-dump-v2.md",
+    "sourceUrl": "https://www.communityvoiceks.com/2026/05/14/holscher-kc-ohaebosim-running-mate/",
+    "sourceTier": "secondary",
+    "evidenceType": "candidate-stated",
+    "issueMappedTo": [
+      3
+    ],
+    "claim": "Reports say Holscher and Ohaebosim plan to focus on public education, affordability, and health care access.",
+    "exactEvidenceSummary": "Reports say Holscher and Ohaebosim plan to focus on public education, affordability, and health care access.",
+    "confidence": "confirmed",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-community-voice",
+      "s-kwch-ohaebosim"
+    ]
+  },
+  {
+    "id": "em-kc-ohaebosim-00003",
+    "candidateSlug": "kc-ohaebosim",
+    "candidateName": "KC Ohaebosim",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/kc-ohaebosim/raw-dump-v2.md",
+    "sourceUrl": "https://www.communityvoiceks.com/2026/05/14/holscher-kc-ohaebosim-running-mate/",
+    "sourceTier": "secondary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      9
+    ],
+    "claim": "The Community Voice/Kansas Reflector report says Holscher and Ohaebosim compiled comparable Statehouse records on Medicaid expansion and abortion rights.",
+    "exactEvidenceSummary": "The Community Voice/Kansas Reflector report says Holscher and Ohaebosim compiled comparable Statehouse records on Medicaid expansion and abortion rights.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-community-voice"
+    ]
+  },
+  {
+    "id": "em-kc-ohaebosim-00004",
+    "candidateSlug": "kc-ohaebosim",
+    "candidateName": "KC Ohaebosim",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/kc-ohaebosim/raw-dump-v2.md",
+    "sourceUrl": "https://www.communityvoiceks.com/2026/05/14/holscher-kc-ohaebosim-running-mate/",
+    "sourceTier": "secondary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      1
+    ],
+    "claim": "The same report ties Ohaebosim's Statehouse record to abortion-rights policy; profile should treat this as a secondary summary until roll-call records are extracted.",
+    "exactEvidenceSummary": "The same report ties Ohaebosim's Statehouse record to abortion-rights policy; profile should treat this as a secondary summary until roll-call records are extracted.",
+    "confidence": "likely",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Secondary summary pending roll-call audit.",
+    "sourceIds": [
+      "s-community-voice"
+    ]
+  },
+  {
+    "id": "em-kc-ohaebosim-00005",
+    "candidateSlug": "kc-ohaebosim",
+    "candidateName": "KC Ohaebosim",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/kc-ohaebosim/raw-dump-v2.md",
+    "sourceUrl": "https://www.kwch.com/2026/05/14/kansas-gubernatorial-candidate-picks-wichita-representative-running-mate/",
+    "sourceTier": "secondary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      2
+    ],
+    "claim": "KWCH reported Ohaebosim supported strengthening civil-rights protections.",
+    "exactEvidenceSummary": "KWCH reported Ohaebosim supported strengthening civil-rights protections.",
+    "confidence": "likely",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Secondary summary pending bill-by-bill review.",
+    "sourceIds": [
+      "s-kwch-ohaebosim"
+    ]
+  },
+  {
+    "id": "em-kc-ohaebosim-00006",
+    "candidateSlug": "kc-ohaebosim",
+    "candidateName": "KC Ohaebosim",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/kc-ohaebosim/raw-dump-v2.md",
+    "sourceUrl": "https://www.kwch.com/2026/05/14/kansas-gubernatorial-candidate-picks-wichita-representative-running-mate/",
+    "sourceTier": "secondary",
+    "evidenceType": "documented-record",
+    "issueMappedTo": [
+      5
+    ],
+    "claim": "KWCH reported Ohaebosim supported rolling back former Gov. Sam Brownback's tax policies and measures aimed at lowering costs for working families.",
+    "exactEvidenceSummary": "KWCH reported Ohaebosim supported rolling back former Gov. Sam Brownback's tax policies and measures aimed at lowering costs for working families.",
+    "confidence": "likely",
+    "useDecision": "use-with-caveat",
+    "reasonForDecision": "Secondary summary pending roll-call audit.",
+    "sourceIds": [
+      "s-kwch-ohaebosim"
+    ]
+  },
+  {
+    "id": "em-kc-ohaebosim-00007",
+    "candidateSlug": "kc-ohaebosim",
+    "candidateName": "KC Ohaebosim",
+    "raceSlug": "kansas-governor-2026",
+    "sourceFile": "memory/candidates/kc-ohaebosim/raw-dump-v2.md",
+    "sourceUrl": "https://www.communityvoiceks.com/2026/05/14/holscher-kc-ohaebosim-running-mate/",
+    "sourceTier": "secondary",
+    "evidenceType": "biography",
+    "issueMappedTo": [
+      6
+    ],
+    "claim": "Reports identify Ohaebosim as a data analyst and Wichita native educated in Kansas public schools.",
+    "exactEvidenceSummary": "Reports identify Ohaebosim as a data analyst and Wichita native educated in Kansas public schools.",
+    "confidence": "likely",
+    "useDecision": "use",
+    "reasonForDecision": "Selected because it is a candidate-specific public record or sourced candidate statement found during the missing-roster audit.",
+    "sourceIds": [
+      "s-community-voice",
+      "s-kwch-ohaebosim"
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "candidateSlug": "michael-w-smith",
+  "generated": "2026-05-20T12:00:00.000Z",
+  "sources": [
+    {
+      "sourceId": "s-pawnee-candidate-list",
+      "title": "Pawnee County 2026 Candidate Filings mirror",
+      "url": "https://www.pawneecountykansas.com/DocumentCenter/View/2078/2026-PN-Co-Candidate-List",
+      "publisher": "Pawnee County",
+      "assignedTier": "primary",
+      "recommendedTier": "primary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "County filing mirror lists Stacy L. Rogers/Michael W. Smith for Governor/Lt. Governor, Republican, filed 2025-12-22."
+      ],
+      "rowIds": [
+        "em-michael-w-smith-00001"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-stacy-team",
+      "title": "Stacy Rogers campaign team page",
+      "url": "https://stacyrogersforks.com/stacys-team",
+      "publisher": "Stacy Rogers for Kansas",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Campaign identifies Michael Smith as candidate for lieutenant governor and summarizes local-government experience."
+      ],
+      "rowIds": [
+        "em-michael-w-smith-00002",
+        "em-michael-w-smith-00003",
+        "em-michael-w-smith-00004"
+      ],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-stacy-home",
+      "title": "Stacy Rogers for Kansas homepage",
+      "url": "https://stacyrogersforks.com/",
+      "publisher": "Stacy Rogers for Kansas",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "Campaign says Rogers and Smith formally signed official documents and frames Smith as an experienced partner."
+      ],
+      "rowIds": [],
+      "tierCorrect": true
+    },
+    {
+      "sourceId": "s-kwch-holscher",
+      "title": "Kansas gubernatorial candidate picks Wichita representative for running mate",
+      "url": "https://www.kwch.com/2026/05/14/kansas-gubernatorial-candidate-picks-wichita-representative-running-mate/",
+      "publisher": "KWCH",
+      "assignedTier": "secondary",
+      "recommendedTier": "secondary",
+      "status": "live or publicly indexed during audit",
+      "claimsAnchored": [
+        "KWCH noted only Stacy Rogers and Michael Smith had filed among Republican gubernatorial tickets as of May 14, 2026."
+      ],
+      "rowIds": [],
+      "tierCorrect": true
+    }
+  ],
+  "brokenSources": [],
+  "unsupportedClaims": []
+}
