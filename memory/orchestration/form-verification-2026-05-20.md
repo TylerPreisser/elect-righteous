@@ -2,7 +2,7 @@
 
 ## Status
 
-Partial pass with activation blocker.
+Partial pass with provider-delivery blocker.
 
 ## Code Path Verified
 
@@ -26,10 +26,10 @@ The rendered correction form is wired to Tyler's `@preissersolutions.com` email 
 
 - FormSubmit activation is not confirmed from the repo. FormSubmit commonly requires first-time recipient activation via an email confirmation.
 - Old submissions were not investigated in this pass because no mailbox/FormSubmit dashboard access is available in the repo context.
-- No live test submission was sent in this pass to avoid generating an unsolicited correction email without a dedicated test protocol.
+- 2026-05-20 update: a controlled live test submission was attempted after Tyler requested a test. Both the AJAX endpoint (`https://formsubmit.co/ajax/tyler@preissersolutions.com`) and HTML fallback endpoint (`https://formsubmit.co/tyler@preissersolutions.com`) returned Cloudflare/FormSubmit `522` timeout responses from this environment. The provider root also returned `522`. This pass did not prove live delivery.
 
 ## Required Follow-Up
 
 1. Confirm `tyler@preissersolutions.com` has activated FormSubmit for this form endpoint.
 2. Search the recipient mailbox for prior FormSubmit messages with subjects containing `Elect Righteous - Correction`.
-3. If no activation email exists, submit a controlled test correction and complete FormSubmit's activation flow from the recipient inbox.
+3. Retry the controlled test from a normal browser/network, or replace FormSubmit with a provider/account under Preisser Solutions control if the `522` condition persists.

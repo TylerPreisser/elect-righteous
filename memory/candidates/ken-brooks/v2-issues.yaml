@@ -5481,15 +5481,16 @@ fixed_issue_matrix:
   - socialSignalId: soc-ken-brooks-0019
     evidenceRowId: em-ken-brooks-01416
     platform: Facebook
-    actionType: absence
+    actionType: presence
     signalStrength: weak
-    observation: "| Campaign Facebook page | Public web/search check | NOT FOUND |
-      No clearly candidate-controlled campaign Facebook page surfaced. Public discussion
-      of USD 489 bathrooms on Facebook was reported by local media, but no Brooks-authored
-      public post inventory was verified. |"
+    observation: "| Campaign Facebook page | Public web/search check | FOUND, LIMITED |
+      A Facebook page titled \"Ken Brooks for Hays USD 489 School Board\" was
+      identified at numeric and vanity URL forms. The page is treated as a
+      presence signal only because logged-out capture did not expose a reliable
+      post inventory or engagement record. |"
     sourceUrl:
-    caveat: Platform absence is a documented search result, not evidence of private
-      belief or private activity.
+    caveat: Public page presence is a documented social signal, not evidence of
+      private belief, current account use, or specific post-level activity.
   - socialSignalId: soc-ken-brooks-0021
     evidenceRowId: em-ken-brooks-01420
     platform: YouTube

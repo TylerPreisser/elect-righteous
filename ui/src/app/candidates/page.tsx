@@ -84,14 +84,14 @@ export default function CandidatesPage() {
                 className="font-heading font-bold text-white leading-tight mb-4"
                 style={{ fontSize: "clamp(1.75rem, 4vw, 2.75rem)" }}
               >
-                All Candidates
+                Candidate and Official Profiles
               </h1>
               <p
                 className="text-base leading-relaxed"
                 style={{ color: "rgba(246,246,246,0.80)" }}
               >
                 {V2_CANDIDATES.length} officials and candidates researched —
-                backgrounds, voting records, church ties, campaign finance, and
+                backgrounds, public records, faith/community ties where public, campaign finance, and
                 source-backed reporting in plain English.
               </p>
             </div>

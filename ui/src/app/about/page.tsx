@@ -47,7 +47,7 @@ const AGENT_PIPELINE: AgentStep[] = [
     name: "Deep Scraper",
     icon: <Globe size={20} strokeWidth={1.5} />,
     description:
-      "The workhorse. Runs 15+ parallel search passes per candidate — campaign finance, court records, property filings, social media (including archived/deleted posts), news archives, voting records, public meeting minutes, endorsements, and donor analysis.",
+      "The workhorse. Runs 15+ parallel search passes per candidate — campaign finance, court records, property filings, social media (including archived/deleted posts), news archives, official votes where available, public meeting minutes, endorsements, and donor analysis.",
   },
   {
     phase: "Phase 4",

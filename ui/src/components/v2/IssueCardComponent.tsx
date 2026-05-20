@@ -26,6 +26,8 @@ interface IssueCardComponentProps {
   sources: Source[];
   /** Whether the card starts expanded. Default: false. */
   defaultExpanded?: boolean;
+  /** Label for the action section, e.g. "Public Record" or "Official / Reported Actions". */
+  recordLabel?: string;
 }
 
 function SourceChipInline({
@@ -70,6 +72,7 @@ export default function IssueCardComponent({
   issue,
   sources,
   defaultExpanded = false,
+  recordLabel = "Public Record",
 }: IssueCardComponentProps) {
   const [expanded, setExpanded] = useState(defaultExpanded);
   const sourceById = new Map<string, Source>(sources.map((s) => [s.id, s]));
@@ -125,7 +128,7 @@ export default function IssueCardComponent({
               className="mt-1 font-body text-sm"
               style={{ color: "var(--color-slate)" }}
             >
-              {issue.actions.length} documented action
+              {issue.actions.length} documented or reported action
               {issue.actions.length !== 1 ? "s" : ""} on file
             </p>
           )}
@@ -176,7 +179,7 @@ export default function IssueCardComponent({
           </section>
 
           <section aria-label="Their record">
-            <SectionLabel>Their record</SectionLabel>
+            <SectionLabel>{recordLabel}</SectionLabel>
             <ActionList actions={issue.actions} sources={sources} />
           </section>
 

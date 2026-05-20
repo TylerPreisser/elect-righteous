@@ -15,6 +15,7 @@ import {
 import type { CandidateFullV2, SocialSignal, Source } from "@/data/types-v2";
 import IssueCardComponent from "@/components/v2/IssueCardComponent";
 import CorrectionForm from "@/components/ui/correction-form";
+import { getProfileStatus } from "@/lib/profile-status";
 
 const PARTY_LABEL: Record<string, string> = {
   R: "Republican",
@@ -213,6 +214,7 @@ function SocialSignalRow({
 
 export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProps) {
   const partyLabel = PARTY_LABEL[candidate.party] ?? candidate.party;
+  const profileStatus = getProfileStatus(candidate);
   const sourcePageHref = `/candidates/${candidate.slug}/sources`;
   const actions = candidate.issues.flatMap((issue) => issue.actions);
   const gaps = candidate.issues.filter((issue) => issue.gap);
@@ -275,9 +277,20 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                 className="mt-3 max-w-3xl font-body text-lg leading-relaxed"
                 style={{ color: "var(--color-charcoal)" }}
               >
-                {partyLabel} - {candidate.position}
-                {candidate.incumbent ? " - incumbent" : ""}
+                {partyLabel} - {candidate.position} - {profileStatus.headlineSuffix}
               </p>
+              {profileStatus.note && (
+                <p
+                  className="mt-3 max-w-3xl rounded-md border px-4 py-3 font-body text-sm leading-relaxed"
+                  style={{
+                    borderColor: "rgba(28, 195, 175, 0.28)",
+                    backgroundColor: "rgba(28, 195, 175, 0.08)",
+                    color: "var(--color-charcoal)",
+                  }}
+                >
+                  {profileStatus.note}
+                </p>
+              )}
             </div>
 
             <div
@@ -293,7 +306,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                 <div className="grid grid-cols-[6.5rem_minmax(0,1fr)] gap-3">
                   <dt className="font-body" style={{ color: "var(--color-slate)" }}>Status</dt>
                   <dd className="font-body font-semibold" style={{ color: "var(--color-navy)" }}>
-                    {candidate.incumbent ? "Currently in office" : "Candidate / challenger"}
+                    {profileStatus.label}
                   </dd>
                 </div>
                 <div className="grid grid-cols-[6.5rem_minmax(0,1fr)] gap-3">
@@ -367,8 +380,8 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
           </DossierSection>
 
           <DossierSection
-            title="Their Record"
-            kicker="Documented actions"
+            title={profileStatus.recordLabel}
+            kicker="Statements checked against actions"
             icon={<ListChecks size={20} />}
           >
             <div className="grid gap-4 md:grid-cols-3">
@@ -377,7 +390,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                   <NarrativeBlock text={candidate.recordSummary} />
                 ) : (
                   <p className="font-body leading-relaxed" style={{ color: "var(--color-charcoal)" }}>
-                    This page currently contains {actions.length} dated actions across {candidate.issues.length} issue areas.
+                    This page currently contains {actions.length} dated action entries across {candidate.issues.length} issue areas.
                     {gaps.length > 0
                       ? ` ${gaps.length} issue area includes an evidence-anchored stated/action gap.`
                       : " No stated/action gap is asserted unless evidence is strong enough to anchor it."}
@@ -389,7 +402,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                   Source rule
                 </p>
                 <p className="mt-1 font-body text-sm leading-relaxed" style={{ color: "var(--color-charcoal)" }}>
-                  Actions require primary or secondary backing; social-only material stays observational.
+                  Official records are preferred. News-reported votes and public statements are labeled as reported or secondary-backed actions; social-only material stays observational.
                 </p>
               </div>
             </div>
@@ -401,7 +414,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                     {issue.title}
                   </span>
                   <span className="font-body text-sm" style={{ color: "var(--color-slate)" }}>
-                    {issue.actions.length} action{issue.actions.length === 1 ? "" : "s"}
+                    {issue.actions.length} {profileStatus.actionLabel}{issue.actions.length === 1 ? "" : "s"}
                     {issue.socialSignals.length > 0 ? `, ${issue.socialSignals.length} social signal${issue.socialSignals.length === 1 ? "" : "s"}` : ""}
                     {issue.gap ? ", gap noted" : ""}
                   </span>
@@ -423,6 +436,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                   issue={issue}
                   sources={sourcesForIssue(issue)}
                   defaultExpanded={idx === 0}
+                  recordLabel={profileStatus.recordLabel}
                 />
               ))}
             </div>

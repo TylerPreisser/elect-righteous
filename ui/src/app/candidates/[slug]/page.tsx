@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import { getAllCandidateSlugs, getFullCandidateBySlug } from "@/data/candidates";
 import { getAllCandidateV2Slugs, getFullCandidateV2BySlug } from "@/data/v2";
 import { getCandidateResearchSources } from "@/lib/candidate-sources";
+import { getProfileStatus } from "@/lib/profile-status";
 import CandidateV2Profile from "@/components/v2/CandidateV2Profile";
 import CandidateDetailClient from "./client";
 
@@ -35,16 +36,22 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     : candidateV1
     ? getCandidateResearchSources(candidateV1).length
     : 0;
+  const profileStatus = candidateV2
+    ? getProfileStatus(candidateV2)
+    : {
+        headlineSuffix: candidate.incumbent ? "incumbent candidate" : "candidate",
+        metadataNoun: "candidate profile",
+      };
 
   return {
     title: `${candidate.name} — ${party} ${candidate.position}`,
-    description: `Complete research profile for ${candidate.name} (${party}), candidate for ${candidate.position}. Includes voting record, issue positions, campaign finance, church affiliation, and ${sourceCount}+ public sources.`,
+    description: `Complete research profile for ${candidate.name} (${party}), ${profileStatus.headlineSuffix} for ${candidate.position}. Includes public record, issue positions, campaign finance, faith/community notes where public, and ${sourceCount}+ public sources.`,
     alternates: {
       canonical: `/elect-righteous/candidates/${candidate.slug}/`,
     },
     openGraph: {
       title: `${candidate.name} | Elect Righteous`,
-      description: `${party} candidate for ${candidate.position}. Full profile with ${sourceCount}+ sourced citations.`,
+      description: `${party} ${profileStatus.metadataNoun} for ${candidate.position}. Full profile with ${sourceCount}+ sourced citations.`,
       url: `/elect-righteous/candidates/${candidate.slug}/`,
       images: [
         {
@@ -58,7 +65,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     twitter: {
       card: "summary_large_image",
       title: `${candidate.name} | Elect Righteous`,
-      description: `${party} candidate for ${candidate.position}. Full profile with ${sourceCount}+ sourced citations.`,
+      description: `${party} ${profileStatus.metadataNoun} for ${candidate.position}. Full profile with ${sourceCount}+ sourced citations.`,
       images: ["/elect-righteous/og-image-v3.png"],
     },
   };

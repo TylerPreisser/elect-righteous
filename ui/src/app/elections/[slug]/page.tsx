@@ -5,6 +5,7 @@ import Container from "@/components/layout/container";
 import Badge from "@/components/ui/badge";
 import { ELECTIONS, getAllElectionSlugs, getElectionBySlug } from "@/data/elections";
 import { V2_CANDIDATES } from "@/data/v2";
+import { getProfileStatus } from "@/lib/profile-status";
 
 // ── Static export: pre-render all election slugs ──────────────────────────────
 export function generateStaticParams() {
@@ -36,6 +37,45 @@ function formatDateShort(dateStr: string): string {
   }
 }
 
+function getCollectionCopy(slug: string, candidateCount: number) {
+  if (slug === "hays-city-current") {
+    return {
+      heading: "Current City Officials and Administration",
+      description:
+        "These are current Hays city leaders, not 2026 ballot candidates. Elected commissioners and the appointed city manager are labeled separately.",
+    };
+  }
+
+  if (slug === "usd-489-current") {
+    return {
+      heading: "Current School Board and Administration",
+      description:
+        "These are current USD 489 school leaders, not a 2026 candidate field. Board members are elected officials; the superintendent is an appointed administrator.",
+    };
+  }
+
+  if (slug === "ellis-county-incumbents-off-cycle") {
+    return {
+      heading: "Current County Officials Not on the 2026 Ballot",
+      description:
+        "These profiles cover current Ellis County officials whose seats are not shown on the current 2026 filing list.",
+    };
+  }
+
+  if (slug === "ellis-county-2026-ballot") {
+    return {
+      heading: candidateCount === 1 ? "The 2026 Candidate" : "The 2026 Candidates",
+      description:
+        "This list follows the current official Ellis County 2026 candidate filing PDF and should be rechecked after the filing deadline.",
+    };
+  }
+
+  return {
+    heading: candidateCount === 1 ? "The Candidate" : "The Candidates",
+    description: "Click any name to read the full sourced profile.",
+  };
+}
+
 interface PageProps {
   params: Promise<{ slug: string }>;
 }
@@ -53,6 +93,7 @@ export default async function ElectionDetailPage({ params }: PageProps) {
   );
 
   const isBallotMeasure = election.level === "Ballot Measure";
+  const collectionCopy = getCollectionCopy(election.slug, candidates.length);
 
   return (
     <>
@@ -206,13 +247,13 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                       className="font-heading font-bold text-2xl mb-1"
                       style={{ color: "var(--color-navy)" }}
                     >
-                      {candidates.length > 0 ? `The Candidates (${candidates.length})` : "Candidates"}
+                      {candidates.length > 0 ? `${collectionCopy.heading} (${candidates.length})` : collectionCopy.heading}
                     </h2>
                     <p
                       className="text-sm mb-7"
                       style={{ color: "var(--color-slate)" }}
                     >
-                      Click any name to read their full profile.
+                      {collectionCopy.description}
                     </p>
 
                     {candidates.length > 0 ? (
@@ -226,6 +267,7 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                               : candidate.party === "NP"
                               ? "Nonpartisan"
                               : "Independent";
+                          const profileStatus = getProfileStatus(candidate);
 
                           return (
                             <li key={candidate.slug}>
@@ -244,14 +286,12 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                                         style={{ color: "var(--color-slate)" }}
                                       >
                                         {partyLabel}
-                                        {candidate.incumbent && (
-                                          <span
-                                            className="ml-2"
-                                            style={{ color: "var(--color-teal-dark)" }}
-                                          >
-                                            &middot; Currently in Office
-                                          </span>
-                                        )}
+                                        <span
+                                          className="ml-2"
+                                          style={{ color: "var(--color-teal-dark)" }}
+                                        >
+                                          &middot; {profileStatus.label}
+                                        </span>
                                       </p>
 
                                       {/* Name */}
@@ -403,6 +443,31 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                       </dt>
                       <dd style={{ color: "var(--color-charcoal)" }}>
                         {formatDateShort(election.date)}
+                      </dd>
+                    </div>
+
+                    <div>
+                      <dt
+                        className="font-heading font-bold text-xs uppercase tracking-widest mb-1"
+                        style={{ color: "var(--color-teal-dark)" }}
+                      >
+                        Candidate Filing
+                      </dt>
+                      <dd style={{ color: "var(--color-charcoal)" }}>
+                        June 1, 2026 at noon
+                        <span className="block text-xs mt-0.5" style={{ color: "var(--color-slate)" }}>
+                          Independent nominations: August 3, 2026 at noon. Confirm local-office details with the Ellis County Clerk.
+                        </span>
+                        <a
+                          href="https://www.sos.ks.gov/elections/candidate-information.html"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="mt-1 inline-flex items-center gap-1 transition-colors duration-200"
+                          style={{ color: "var(--color-teal)" }}
+                        >
+                          Kansas candidate filing info
+                          <ExternalLink size={11} aria-hidden="true" />
+                        </a>
                       </dd>
                     </div>
 

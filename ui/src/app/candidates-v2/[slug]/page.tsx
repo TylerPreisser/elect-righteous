@@ -5,6 +5,7 @@ import {
   getFullCandidateV2BySlug,
 } from "@/data/v2";
 import CandidateV2Profile from "@/components/v2/CandidateV2Profile";
+import { getProfileStatus } from "@/lib/profile-status";
 
 export function generateStaticParams() {
   return getAllCandidateV2Slugs().map((slug) => ({ slug }));
@@ -27,16 +28,17 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
   if (!candidate) return {};
 
   const party = PARTY_LABEL[candidate.party] ?? candidate.party;
+  const profileStatus = getProfileStatus(candidate);
 
   return {
     title: `${candidate.name} — ${party} ${candidate.position}`,
-    description: `Source-cited issue profile for ${candidate.name}, ${party} candidate for ${candidate.position}.`,
+    description: `Source-cited issue profile for ${candidate.name}, ${party} ${profileStatus.headlineSuffix} for ${candidate.position}.`,
     alternates: {
       canonical: `/elect-righteous/candidates-v2/${candidate.slug}/`,
     },
     openGraph: {
       title: `${candidate.name} | Elect Righteous`,
-      description: `${party} candidate for ${candidate.position}. Source-cited issue profile with ${candidate.sources.length}+ public sources.`,
+      description: `${party} ${profileStatus.metadataNoun} for ${candidate.position}. Source-cited issue profile with ${candidate.sources.length}+ public sources.`,
       url: `/elect-righteous/candidates-v2/${candidate.slug}/`,
       images: [
         {
@@ -50,7 +52,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     twitter: {
       card: "summary_large_image",
       title: `${candidate.name} | Elect Righteous`,
-      description: `${party} candidate for ${candidate.position}. Source-cited issue profile with ${candidate.sources.length}+ public sources.`,
+      description: `${party} ${profileStatus.metadataNoun} for ${candidate.position}. Source-cited issue profile with ${candidate.sources.length}+ public sources.`,
       images: ["/elect-righteous/og-image-v3.png"],
     },
   };

@@ -61,7 +61,7 @@ export default function ActionList({ actions, sources }: ActionListProps) {
         className="font-body text-sm italic"
         style={{ color: "var(--color-slate)" }}
       >
-        No separate issue-level vote or action has been split out for this issue yet. Check the record summary and source trail on this profile.
+        No separate issue-level official vote, reported vote, or documented action has been split out for this issue yet. Check the record summary and source trail on this profile.
       </p>
     );
   }

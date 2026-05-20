@@ -44,7 +44,7 @@ const ELECTION_CATEGORIES: ElectionCategory[] = [
     id: "local-2026",
     heading: "2026 Local Ballot",
     description:
-      "Local races confirmed for the 2026 Hays-area ballot. Current known structural gap: Michael Berges is listed for Ellis County Commission District 1 but still needs a candidate profile.",
+      "Local races confirmed for the 2026 Hays-area ballot. The current Ellis County filing PDF lists Commission District 1 with Michael Berges; other current county commissioners are tracked separately as current officials.",
     slugs: ["ellis-county-2026-ballot"],
   },
   {
@@ -114,8 +114,8 @@ export default function ElectionsPage() {
               className="text-sm leading-relaxed"
               style={{ color: "var(--color-slate)" }}
             >
-              Each card links to a plain-English overview of the race, why it
-              matters, and every candidate currently researched for that election.
+              Each card links to a plain-English overview of the race or current-officeholder group, why it
+              matters, and every candidate or public official currently researched for that page.
             </p>
           </div>
 

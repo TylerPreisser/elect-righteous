@@ -226,11 +226,11 @@ export const ELECTIONS: Election[] = [
   },
   {
     slug: "hays-city-current",
-    name: "Hays City Leadership",
+    name: "Hays City Officials and Administration",
     level: "Local",
     date: "2027-11-02",
     jurisdiction: "City of Hays, Kansas",
-    seats: 6,
+    seats: 5,
     status: "N/A",
     candidateCount: 6,
     candidateSlugs: [
@@ -242,13 +242,13 @@ export const ELECTIONS: Election[] = [
       "toby-dougherty",
     ],
     description:
-      "City races are not on the 2026 Hays ballot, but these are the officeholders currently running city government and setting local direction.",
+      "City races are not on the 2026 Hays ballot. This page profiles the elected city commissioners plus the appointed city manager who handles day-to-day administration.",
     plainEnglish:
-      "Hays city elections are not the main focus of the 2026 ballot, but the people already in office still make decisions about water, housing, growth, budgeting, and city services. This page groups the current city leadership in one place.",
+      "Hays city elections are not on the 2026 ballot, but current city leaders still make decisions about water, housing, growth, budgeting, and city services. The elected commissioners and appointed city manager are labeled separately.",
     whyItMatters:
       "Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.",
     jobDescription:
-      "The Hays city commission is the group that runs the city. Five commissioners and a mayor set water rates, approve new housing developments, hire the city manager, decide where tax money goes, and vote on everything from road repairs to whether a new business gets built. The city manager handles day-to-day operations. These are the people who decide what Hays looks like, how much city services cost, and how the city grows.",
+      "The Hays city commission is the elected body that sets water rates, approves development, hires the city manager, decides where tax money goes, and votes on city policy. The appointed city manager handles day-to-day operations. This page separates those elected and appointed roles.",
   },
   {
     slug: "ellis-county-2026-ballot",
@@ -300,11 +300,11 @@ export const ELECTIONS: Election[] = [
   },
   {
     slug: "usd-489-current",
-    name: "USD 489 School Leadership",
+    name: "USD 489 School Board and Administration",
     level: "Local",
     date: "2027-11-02",
     jurisdiction: "Hays USD 489",
-    seats: 8,
+    seats: 7,
     status: "N/A",
     candidateCount: 8,
     candidateSlugs: [
@@ -318,13 +318,13 @@ export const ELECTIONS: Election[] = [
       "ron-wilson",
     ],
     description:
-      "The next USD 489 school board election is in 2027, but the people in charge now are already making high-impact decisions about curriculum, contracts, and district direction.",
+      "The next USD 489 school board election is in 2027. This page profiles the seven elected board members plus the appointed superintendent, with those roles labeled separately.",
     plainEnglish:
-      "USD 489 is not a 2026 ballot fight, but the board and superintendent still matter right now. They control district policy, bond oversight, curriculum fights, and the tone of public-school leadership in Hays.",
+      "USD 489 is not a 2026 ballot fight, but the board and superintendent still matter right now. The elected board controls policy and oversight; the appointed superintendent manages day-to-day administration.",
     whyItMatters:
       "School leaders influence what kids are taught, how tax-backed bond projects are managed, and how parents experience the district long before the next board election arrives.",
     jobDescription:
-      "The USD 489 school board is the group of elected citizens who run the Hays public school district. They hire and fire the superintendent, approve the budget, set policies on curriculum, discipline, and facilities, and vote on bond issues that build or renovate schools. The superintendent manages day-to-day operations. If you have kids in Hays public schools, these are the people making the decisions that affect your child's education, your property taxes, and the quality of the district.",
+      "The USD 489 school board is the seven-member elected body that hires and evaluates the superintendent, approves the budget, sets district policy, and votes on facilities and bond work. The superintendent manages day-to-day operations. This page separates elected board authority from appointed administration.",
   },
   {
     slug: "supreme-court-amendment",

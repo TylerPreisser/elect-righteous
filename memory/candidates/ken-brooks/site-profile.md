@@ -1,7 +1,7 @@
 # Ken Brooks
 
 ## Who They Are
-Ken Brooks is a longtime USD 489 board member in Hays and one of the district's most visible parent figures. Public profiles identify him as a loss-control safety specialist at Insurance Planning, a Kiwanis member, and a Hays High graduate whose three daughters all went through the district. His public life is local and practical, with schools, church, and community service doing most of the biographical work.
+Ken Brooks is a longtime USD 489 board member in Hays and one of the district's most visible parent figures. Public profiles identify him as a loss-control safety specialist at Insurance Planning, a Kiwanis member, and a University of Central Oklahoma graduate whose three daughters went through Hays High. A prior version incorrectly described Brooks himself as a Hays High graduate; the corrected record is that his daughters graduated from Hays High. His public life is local and practical, with schools, church, and community service doing most of the biographical work.
 
 Brooks has been on the board through one of the biggest construction eras in district history. By the time he ran again in 2025, he was speaking less as the parent of current students than as a veteran board member with years of experience in budgets, facilities, and district oversight.
 
@@ -22,7 +22,7 @@ He has also made student costs a recurring issue. Brooks has repeatedly said the
 
 **District Stability**: His general approach is to trust administrators, maintain stable district operations, and keep large building projects on track rather than push for dramatic changes.
 
-## What You Should Know
+## Key Public Record Notes
 - Brooks was re-elected to the USD 489 board in November 2025 and remains one of the district's longest-serving members.
 - He has publicly backed the district's bond work and the larger facilities buildout that produced the new Hays High School.
 - He has repeatedly pointed to lower school fees as one of the board's practical achievements for families.
@@ -35,7 +35,7 @@ Brooks publicly identifies Celebration Community Church in Hays as his church. T
 ## Campaign Finance
 Brooks' 2021 candidate profile said he had not accepted outside funds or in-kind support from a PAC or other outside source. No itemized campaign finance data available online.
 
-## Quotes
+## Attributed Statements
 > "I have a love for our community, and I have a love for kids."
 > -- Hays Post candidate Q&A, 2025, https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220
 
