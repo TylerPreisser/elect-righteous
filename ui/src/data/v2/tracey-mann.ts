@@ -723,6 +723,8 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
+  "whoTheyAre": "Tracey Mann is profiled here for U.S. Representative, Kansas's 1st Congressional District as a Republican incumbent/current official. https://mann.house.gov/media/press-releases/rep-mann-defends-religious-freedom-small-business-owners. mann.house.gov press release URL: https://mann.house.gov/media/press-releases/mann-kaptur-colleagues-demand-us-treasury-prioritize-domestic-energy-producers (direct fetch 403; content via search snippet). The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 39 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Education / curriculum / schools: KU School of Business Faculty Page. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Mann attends First Covenant Church in Salina, Kansas, affiliated with the Evangelical Covenant Church denomination — a theologically centrist Protestant tradition with roots in Swedish pietism. Before his congressional career, Mann served as Senior Program Director for the National Student Leadership Forum on Faith and Values, a Washington-based nonprofit that runs faith-oriented leadership programs for high school and college students. His public statements frequently invoke faith as a personal anchor, though he does not typically make church policy a campaign centerpiece.",
   "campaignFinance": {
     "totalRaised": "$1,220,354.74",
@@ -732,7 +734,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-2026 cycle; reported through 2026-03-31 in the v2 scrape",
     "source": "Federal Election Commission candidate page H0KS01123 and committee page C00460659"
   },
-  "socialResearchNote": "Candidate-controlled social is handled issue-by-issue. The v2 scrape uses\nMann's own X post on 246 town halls as a social signal mapped to\nconstituent access. It does not use Reddit or oppositional commentary as\nevidence of Mann's beliefs; only verbatim candidate statements and public\nrecords are carried into issue cards.\n",
+  "socialResearchNote": "Candidate-controlled social is handled issue-by-issue. The v2 scrape uses\nMann's own X post on 246 town halls as a social signal mapped to\nconstituent access. It does not use Reddit or oppositional commentary as\nevidence of Mann's beliefs; only verbatim candidate statements and public\nrecords are carried into issue cards.",
   "sources": [
     {
       "id": "s-clerk-hr1-2025-145",

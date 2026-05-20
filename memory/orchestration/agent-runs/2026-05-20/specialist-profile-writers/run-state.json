@@ -1,0 +1,85 @@
+{
+  "agent": "specialist-profile-writers",
+  "date": "2026-05-20",
+  "startedAt": "2026-05-20T19:09:00Z",
+  "completedAt": "2026-05-20T19:17:36Z",
+  "status": "completed-with-caveats",
+  "scope": "all 70 rendered v2 candidate profiles",
+  "roles_covered": [
+    "biography-writer",
+    "record-writer",
+    "donor-funding-analyst",
+    "faith-worship-researcher"
+  ],
+  "inputs_read": [
+    "memory/candidates/*/evidence-matrix.json",
+    "memory/candidates/*/social-evidence-matrix.json",
+    "memory/candidates/*/source-audit.json",
+    "memory/candidates/*/fixed-issue-matrix.json",
+    "memory/candidates/*/v2-issues.yaml",
+    "ui/src/data/v2/*.ts",
+    "scripts/compile-v2-yaml.mjs"
+  ],
+  "files_changed": [
+    "scripts/compile-v2-yaml.mjs",
+    "ui/src/data/v2/*.ts",
+    "memory/orchestration/STATE.md",
+    "memory/orchestration/agent-runs/2026-05-20/specialist-profile-writers/run-state.json",
+    "memory/orchestration/agent-runs/2026-05-20/specialist-profile-writers/handoff.md"
+  ],
+  "outputs": {
+    "candidateCount": 70,
+    "whoTheyArePresent": 70,
+    "recordSummaryPresent": 70,
+    "campaignFinancePresent": 70,
+    "whereTheyWorshipPresent": 70,
+    "socialResearchNotePresent": 70,
+    "issueCardsPerCandidate": 14,
+    "thinPublicRecordCaveatsPreserved": [
+      "adam-hamilton",
+      "brandon-adams",
+      "doug-billings",
+      "eric-lund",
+      "kevin-latz",
+      "mark-lane",
+      "michelle-cunningham",
+      "ric-koehn",
+      "sharilyn-ray",
+      "steven-jacob"
+    ]
+  },
+  "validation": [
+    {
+      "command": "ruby -ryaml -e 'Dir[\"memory/candidates/*/v2-issues.yaml\"].each { |f| YAML.load_file(f) }; puts \"yaml ok\"'",
+      "status": "pass"
+    },
+    {
+      "command": "node scripts/phase2-inventory.mjs",
+      "status": "pass"
+    },
+    {
+      "command": "cd ui && npx tsx -e 'import { V2_CANDIDATES } from \"./src/data/v2\"; import { validateCandidateV2 } from \"./src/data/types-v2\"; ...'",
+      "status": "pass",
+      "result": "70 candidates validated; 0 missing narrative sections"
+    },
+    {
+      "command": "git diff --check",
+      "status": "pass"
+    },
+    {
+      "command": "cd ui && npx tsc --noEmit --incremental false",
+      "status": "pass"
+    },
+    {
+      "command": "cd ui && npm run build",
+      "status": "pass",
+      "result": "232 static pages generated"
+    }
+  ],
+  "caveats": [
+    "Narrative sections are conservative compiler-derived summaries from existing evidence rows, not a human line edit of every sentence.",
+    "Thin public records remain explicitly caveated rather than padded with assumptions.",
+    "Editorial, legal, and symmetry review still must run before final deployment.",
+    "Live URL/source-health checking still has not been performed."
+  ]
+}

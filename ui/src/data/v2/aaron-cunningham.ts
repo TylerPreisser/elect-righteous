@@ -710,6 +710,8 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
+  "whoTheyAre": "Aaron Cunningham is profiled here for Ellis County Attorney as a Republican incumbent/current official. Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunningham as county attorney from 2025 to present and frames th... The 2024 campaign footprint is sparse. Hays Post listed \"Aaron J Cunningham\" as the Republican candidate for Ellis County Attorney, and IKE Lab's 2024 results show him receiving 11,379 votes against 146 write-ins. (Hays Post, IKE Lab) No candidate-controlled... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 25 source-backed actions across 6 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Immigration / border: ICE Agreement Explained -- Hays Post. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Cunningham does describe himself publicly in explicitly Christian terms on his about.me page, including references to God's sovereignty and Christ's salvation, but the source material does not tie him to a current church.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
@@ -718,6 +720,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance Data"
   },
+  "socialResearchNote": "28 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-attorney-page",

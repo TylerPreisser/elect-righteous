@@ -158,8 +158,9 @@ export const STEVEN_JACOB_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Steven Robert Jacob appears in FEC candidate data as a Libertarian candidate for Kansas's 1st Congressional District.",
+  "whoTheyAre": "Steven Robert Jacob is profiled here for U.S. House candidate, Kansas 1st District as an Independent. The available public biography record is thin in the current evidence matrix, so this profile avoids filling gaps with assumptions and keeps the source trail open for follow-up.",
   "recordSummary": "The verified record captured in this pass is the federal filing and committee record. No candidate-controlled issue platform was captured.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records for this pass",
     "narrative": "No donor-by-donor public finance interpretation is made from the available records in this pass.",

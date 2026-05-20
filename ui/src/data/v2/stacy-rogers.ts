@@ -1023,6 +1023,8 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       ]
     }
   ],
+  "whoTheyAre": "Stacy Rogers is profiled here for Governor candidate as a Republican. Rogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes... The strongest recurring theme is that Kansans need a voice against insiders and special interests. In the campaign's announcement language, Rogers says she has not been afraid to \"step out, speak up, and lead,\" and that Kansas deserves leaders who stand with... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 54 source-backed actions across 11 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Education and family experience are another recurring signal. Podcast descriptions and campaign material present Rogers as a mother of three and former homeschool parent with firsthand experience around ch... Education / curriculum / schools: Public safety and vulnerable communities come through most clearly in long-form interviews. In the Billy Dees transcript, Rogers identified fentanyl and human trafficking as Kansas problems, tying traffick... Education / curriculum / schools: | s-hayspost-ellis | secondary | Hays Post Ellis campaign stop | https://hayspost.com/posts/54a43a41-5f58-4499-863d-7844b028f811 | 2026-05-19 | Public stop, education, incentives, water, budget, term limit... Education / curriculum / schools: | s-listennotes-billydees | secondary/transcript | Billy Dees Podcast transcript | https://www.listennotes.com/es/podcasts/billy-dees-podcast/stacy-rogers-candidate-for-zobY5rL_GMQ/ | 2026-05-19 | Educatio... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "Social research is presence-limited. Campaign website and Linktree are candidate-controlled; several native platforms are login/script-limited. No issue position is inferred from follows, likes, associations, platform choice, faith language, or party label.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Rogers uses Christian language in her public presentation, including describing herself as a \"Child of God,\" but the available record does not name a congregation, denomination, or church website.",
   "campaignFinance": {
@@ -1069,6 +1071,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "KPDC/SOS 2026 Statewide Campaign Finance Index"
   },
+  "socialResearchNote": "35 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info",

@@ -564,6 +564,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
+  "whoTheyAre": "Rebecca Herzog is profiled here for Ellis County Register of Deeds as a Republican incumbent/current official. The central message comes from the Ellis County Register of Deeds page, which lists Herzog as registrar and frames the office around public service, professionalism, recording real-estate documents, maintaining accurate land-ownership indexes, and keeping reg... The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents that pertain to real estate. It also identi... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
   "recordSummary": "title: Registrar / Register of Deeds; address: 718 Main St., Hays, KS 67601; phone: 785-628-9450; sourceIds: s-ellis-register-page; s-ellis-staff-directory; s-ellis-staff-entry",
   "whereTheyWorship": "Public sources do not identify a current church affiliation, denomination, or parish website for Herzog.",
   "campaignFinance": {
@@ -573,6 +574,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
+  "socialResearchNote": "15 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-register-page",

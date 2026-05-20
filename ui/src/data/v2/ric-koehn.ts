@@ -180,6 +180,7 @@ export const RIC_KOEHN_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Ric Koehn appears in KPDC's statewide campaign-finance index under Insurance Commissioner candidates. This pass did not verify a current statewide filing-row entry.",
   "recordSummary": "This profile keeps the insurance-race roster complete against KPDC account data while distinguishing account status from final ballot status.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records for this pass",
     "narrative": "No donor-by-donor public finance interpretation is made from the available records in this pass.",

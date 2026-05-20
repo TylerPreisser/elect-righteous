@@ -868,7 +868,9 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
-  "whereTheyWorship": "Public sources do not identify a current church affiliation.",
+  "whoTheyAre": "Alaina Cunningham is profiled here for Hays Vice Mayor / City Commissioner as a nonpartisan incumbent/current official. Quality of life is usually framed through practical amenities rather than broad ideology. She has discussed parks, community center needs, retiree housing, youth retention, and resident-facing services. Hays Post quoted her on The Grove/community center issue... Primary source: https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 45 source-backed actions across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces... LGBT / gender / parental rights: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and publi... Education / curriculum / schools: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION. Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. Sunflower State Journal: Kobach denounces vandalism at his church. Christian Post: Caleb Schwab attended church with family hours before death. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "No clean online donor list, campaign-finance total, committee report, or itemized contribution record for Alaina Cunningham was located in reviewed public sources.",
     "narrative": "No clean online donor list, campaign-finance total, committee report, or itemized contribution record for Alaina Cunningham was located in reviewed public sources.",
@@ -876,6 +878,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
+  "socialResearchNote": "26 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-hays-current-commission",

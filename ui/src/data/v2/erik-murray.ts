@@ -786,6 +786,8 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       ]
     }
   ],
+  "whoTheyAre": "Erik Murray is profiled here for U.S. Senate, Kansas as a Democratic. Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leav... | s-ks-sos-dates | primary | https://sos.ks.gov/elections/important-election-dates.html | accessed 2026-05-19 | 2026 Kansas primary and general election dates | election dates |. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 36 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium nego... Education / curriculum / schools: | s-campaign-bio | primary | https://www.erikforkansas.com/meet-erik | accessed 2026-05-19 | Candidate-controlled biography, family, education, Indian Springs project, Top 13 summary | biography, issue ove... Education / curriculum / schools: | s-kansas-reflector-profile | secondary | https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ | 2026-03-16; accessed 2026-05-19 | Profil... Taxes / spending / debt: | s-ks-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing rules, filing deadline, U.S. Senate office up in 2026, filing fee/petition req... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. His public background includes childhood ties to Fellowship Christian Church and schooling at St. Patrick's Catholic School, but the available record does not identify a present-day congregation.",
   "campaignFinance": {
     "totalRaised": "$179,817.62",
@@ -795,6 +797,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-11-23 to 2026-03-31",
     "source": "MURRAY, ERIK - Candidate overview"
   },
+  "socialResearchNote": "27 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",

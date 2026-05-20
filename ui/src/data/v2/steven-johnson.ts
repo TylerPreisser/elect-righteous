@@ -282,6 +282,7 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Steven Johnson is the incumbent Kansas State Treasurer and is listed in current statewide filing material as a Republican candidate for State Treasurer.",
   "recordSummary": "The record captured in this pass confirms filed status through a statewide filing mirror and a campaign-finance account through KPDC. A deeper office-record pass should connect his treasurer work to specific official actions before expanding beyond filing and finance.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "$192,668.21",
     "narrative": "KPDC 202601 reporting extracted in the audit showed $192,668.21 in receipts, $5,418.17 in expenditures, and $222,037.92 cash on hand.",

@@ -180,6 +180,7 @@ export const ERIC_LUND_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Eric Lund appears in the KPDC statewide index under State Treasurer candidates. This pass did not verify a current Secretary of State filing-row entry or a candidate-controlled platform.",
   "recordSummary": "Treat Lund as a treasurer-race public-record profile until final filing records clarify whether the KPDC account corresponds to a certified ballot candidate.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records for this pass",
     "narrative": "No donor-by-donor public finance interpretation is made from the available records in this pass.",

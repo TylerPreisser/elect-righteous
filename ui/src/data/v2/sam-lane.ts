@@ -781,9 +781,10 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       ]
     }
   ],
-  "recordSummary": "No current elected office confirmed",
+  "whoTheyAre": "Sam Lane is profiled here for Kansas Secretary of State as a Democratic. Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a... Campaign home footer independently states: \"Paid for by Samuel Lane for Kansas, Erika Ashley treasurer.\" Source: https://www.samuellane.org/. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 42 source-backed actions across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: Campaign \"My Other Views\" page says Lane does not like to dwell on personal feelings about abortion, calls abortion policy the less complicated part for him, and criticizes abortion bans for their effect on medical practic... Abortion / life: \"Campaign \\\"My Other Views\\\" page says Lane does not like to dwell on personal feelings about abortion, calls abortion policy the less complicated part for him, and criticizes abortion bans for their effect on medical prac... LGBT / gender / parental rights: Official cross-check: Kansas Legislature SB 244 page says House Substitute for SB 244 requires sex-designated multi-occupancy private spaces in public buildings, defines gender as biological sex at birth fo... LGBT / gender / parental rights: Kansas Legislature SB 244 page says the bill defines gender as biological sex at birth for statutory construction, directs driver-license and birth-certificate correction/reissuance when necessary, and had... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "summary: Public social research found one candidate-controlled Bluesky account and no candidate-owned public X/Twitter, Facebook, Instagram, TikTok, LinkedIn, Truth Social, Gab, Gettr, Substack, Reddit, or YouTube account. Social evidence is most relevant to election administration, voter access, privacy, and civil liberties; it is sparse or absent for taxes, agriculture, Medicaid, school finance, and broad economic policy.; sourceIds: s-bsky-profile-api; s-social-harvest-local",
-  "whereTheyWorship": "Public sources do not identify a current church affiliation.",
+  "whereTheyWorship": "No church affiliation was found on this page in this pass. Any current church/worship affiliation. I did not verify a public church affiliation in the sources reviewed. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "KPDC 2025 reporting shows $590.91 in total contributions and receipts, $0.00 in expenditures, and $590.91 cash on hand. The only itemized receipt was $580.27 from Samuel Lane; $10.64 was unitemized. No PAC, institutional, or large donor line item was found in that report.",
     "narrative": "KPDC 2025 reporting shows $590.91 in total contributions and receipts, $0.00 in expenditures, and $590.91 cash on hand. The only itemized receipt was $580.27 from Samuel Lane; $10.64 was unitemized. No PAC, institutional, or large donor line item was found in that report.",
@@ -796,6 +797,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Campaign Finance Receipts and Expenditures Report - Samuel Lane"
   },
+  "socialResearchNote": "22 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info",

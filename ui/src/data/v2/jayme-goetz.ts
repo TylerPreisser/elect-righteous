@@ -879,9 +879,10 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       ]
     }
   ],
-  "recordSummary": "USD 489 Board Member",
+  "whoTheyAre": "Jayme Goetz is profiled here for Hays USD 489 Board of Education as a nonpartisan incumbent/current official. Goetz's public message is local, educator-centered, and mostly candidate-attributed through Hays Post and Tiger Media Network rather than through campaign social media. She presents herself as a lifelong Hays resident, USD 489 graduate, former Hays High teach... On cell phones, Goetz called student phone use a real problem but not only a school problem. Tiger Media reported that, as a Hays High teacher, she used classroom phone holders and still saw students work around them. She also noted that cell phones can be us... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 40 source-backed actions across 12 of the 14 issue areas. Representative public-record entries include: Abortion / life: narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public... LGBT / gender / parental rights: On private bathrooms at the new Hays High, Goetz's visible position is supportive. During the October 2023 candidate forum, Hays Post reported that she favored the new bathroom design because students were... LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. LGBT / gender / parental rights: narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, lo... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "status: no_verified_candidate_controlled_campaign_social_feed; checked: Campaign website; Facebook; X/Twitter; Instagram; Threads; Bluesky; TikTok; Truth Social; Gab; Gettr; Substack; Medium; Reddit; Newsletter platforms; LinkedIn public preview; USD 489 official portal; Hays Post; Tiger Media Network; relevance: Use the absence of verified campaign-controlled channels as a footprint signal only. Do not infer private views or platform activity that was not publicly visible.; sourceIds: s-linkedin-preview; s-local-social-harvest",
-  "whereTheyWorship": "Public sources do not identify a current church affiliation.",
+  "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. Sunflower State Journal: Kobach denounces vandalism at his church. Christian Post: Caleb Schwab attended church with family hours before death. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Goetz told Hays Post in 2023 that she was self-funded. No online donor list, campaign-finance report, treasurer appointment, or affidavit of exemption was found in this pass. Kansas SOS election standards point most local school-board campaign reporting to the county election officer if reportable.",
     "narrative": "Goetz told Hays Post in 2023 that she was self-funded. No online donor list, campaign-finance report, treasurer appointment, or affidavit of exemption was found in this pass. Kansas SOS election standards point most local school-board campaign reporting to the county election officer if reportable.",
@@ -889,6 +890,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Hays USD 489 BOE candidate: Jayme Goetz"
   },
+  "socialResearchNote": "32 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-usd489-members",

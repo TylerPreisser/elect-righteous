@@ -814,6 +814,201 @@ function normalizeNarrative(value) {
   return omitEmpty(textValue(value));
 }
 
+function cleanClaimText(value) {
+  return compactWhitespace(value)
+    .replace(/^["']?claim["']?\s*:\s*/i, "")
+    .replace(/^["']?summary["']?\s*:\s*/i, "")
+    .trim();
+}
+
+function isNarrativeUsableClaim(value) {
+  const text = cleanClaimText(value);
+  if (text.length < 35) return false;
+  if (/^"[^"]+"\s*:/.test(text)) return false;
+  if (/^(url|id|slug|platform|publisher|sourceIds|sourceUrl|evidenceRowId)\b/i.test(text)) return false;
+  if (/^jurisdiction\b/i.test(text)) return false;
+  if (/^\{|\}$/.test(text)) return false;
+  if (/^candidate_metadata\b/i.test(text)) return false;
+  if (/\bin their own words\b/i.test(text)) return false;
+  if (/\b(generated|social_presence_note|candidate overview)\b/i.test(text)) return false;
+  if (/auto-normalized|hydrate-v2-social-signals/i.test(text)) return false;
+  if (/no candidate-controlled issue platform|does not infer positions|sparse profiles|final certified ballot status|does not treat that appearance|final election-office list|filing deadline/i.test(text)) return false;
+  return true;
+}
+
+function selectEvidenceClaims(rows, {
+  types = [],
+  issueNumbers = [],
+  limit = 4,
+  requirePublicUrl = false,
+  includeSocial = false,
+} = {}) {
+  const wantedTypes = new Set(types);
+  const wantedIssues = new Set(issueNumbers);
+  const seen = new Set();
+  const selected = [];
+
+  const sortedRows = [...asArray(rows)].sort((a, b) => {
+    const aPublic = a.sourceUrl ? 1 : 0;
+    const bPublic = b.sourceUrl ? 1 : 0;
+    if (aPublic !== bPublic) return bPublic - aPublic;
+    const aUse = a.useDecision === "use" ? 1 : a.useDecision === "use-with-caveat" ? 0.5 : 0;
+    const bUse = b.useDecision === "use" ? 1 : b.useDecision === "use-with-caveat" ? 0.5 : 0;
+    if (aUse !== bUse) return bUse - aUse;
+    return String(a.id ?? "").localeCompare(String(b.id ?? ""));
+  });
+
+  for (const row of sortedRows) {
+    if (wantedTypes.size > 0 && !wantedTypes.has(row.evidenceType)) continue;
+    if (requirePublicUrl && !row.sourceUrl) continue;
+    if (!includeSocial && String(row.evidenceType ?? "").startsWith("social ")) continue;
+    if (wantedIssues.size > 0) {
+      const mapped = asArray(row.issueMappedTo).map((n) => Number(n));
+      if (!mapped.some((n) => wantedIssues.has(n))) continue;
+    }
+    const claim = cleanClaimText(row.claim || row.exactEvidenceSummary);
+    if (!isNarrativeUsableClaim(claim)) continue;
+    const key = claim.toLowerCase();
+    if (seen.has(key)) continue;
+    seen.add(key);
+    selected.push(excerpt(claim, 260));
+    if (selected.length >= limit) break;
+  }
+
+  return selected;
+}
+
+function sentenceList(items) {
+  return items
+    .map((item) => item.replace(/[.]\s*$/, ""))
+    .filter(Boolean)
+    .map((item) => `${item}.`)
+    .join(" ");
+}
+
+function derivedWhoTheyAre(candidate, evidenceRows) {
+  const candidateScopedRows = asArray(evidenceRows).filter((row) => {
+    const sourceFile = String(row.sourceFile ?? "");
+    const sourceUrl = String(row.sourceUrl ?? "");
+    return (
+      sourceFile.includes(`memory/candidates/${candidate.slug}/`) ||
+      sourceUrl.includes("fec.gov") ||
+      sourceUrl.includes("kansas.gov")
+    );
+  });
+  const bioClaims = selectEvidenceClaims(candidateScopedRows, {
+    types: ["biography", "ballot status", "church/worship"],
+    limit: 3,
+  });
+  const publicBioClaims = selectEvidenceClaims(candidateScopedRows, {
+    types: ["biography", "ballot status", "church/worship"],
+    limit: 2,
+    requirePublicUrl: true,
+  });
+  const claims = publicBioClaims.length ? publicBioClaims : bioClaims;
+  const partyLabels = { R: "Republican", D: "Democratic", I: "Independent", NP: "nonpartisan" };
+  const partyLabel = partyLabels[candidate.party] ?? candidate.party;
+  const partyPhrase = partyLabel === "Independent" ? "an Independent" : `a ${partyLabel}`;
+  const intro = `${candidate.name} is profiled here for ${candidate.position || candidate.electionSlug} as ${partyPhrase}${candidate.incumbent ? " incumbent/current official" : ""}.`;
+  if (claims.length === 0) {
+    return `${intro} The available public biography record is thin in the current evidence matrix, so this profile avoids filling gaps with assumptions and keeps the source trail open for follow-up.`;
+  }
+  return `${intro} ${sentenceList(claims)} The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.`;
+}
+
+function derivedRecordSummary(candidate, issues, evidenceRows) {
+  const actionCount = issues.reduce((count, issue) => count + issue.actions.length, 0);
+  const issueCountWithActions = issues.filter((issue) => issue.actions.length > 0).length;
+  const recordClaims = selectEvidenceClaims(evidenceRows, {
+    types: ["voting record", "meeting record", "campaign statement", "legal/court", "controversy", "endorsement"],
+    limit: 4,
+    requirePublicUrl: true,
+  });
+  const renderedExamples = issues
+    .flatMap((issue) => issue.actions.map((action) => `${issue.title}: ${action.body}`))
+    .slice(0, 4)
+    .map((body) => excerpt(body, 240));
+
+  if (actionCount === 0 && recordClaims.length === 0) {
+    return `No separate source-backed vote, meeting action, filing, or public-record action has been split out for ${candidate.name} in the current rendered issue cards. The disk evidence matrix remains available for follow-up, and the profile should not infer a record where the public record is thin.`;
+  }
+
+  const examples = renderedExamples.length ? renderedExamples : recordClaims;
+  return `The rendered record now contains ${actionCount} source-backed action${actionCount === 1 ? "" : "s"} across ${issueCountWithActions} of the 14 issue areas. ${examples.length ? `Representative public-record entries include: ${sentenceList(examples)}` : ""} Social-only material is excluded from this record summary and remains labeled as observation when rendered.`;
+}
+
+function derivedWhereTheyWorship(evidenceRows) {
+  const worshipRows = asArray(evidenceRows).filter((row) => {
+    if (row.evidenceType !== "church/worship") return false;
+    const text = cleanClaimText(row.claim || row.exactEvidenceSummary);
+    if (/no candidate-controlled issue platform|does not infer|sparse profiles|where they stand/i.test(text)) return false;
+    return /\b(church|worship|faith|religion|pastor|minister|congregation|parish|temple|mosque|synagogue|chapel|denomination)\b/i.test(text);
+  });
+  const worshipClaims = selectEvidenceClaims(worshipRows, {
+    types: ["church/worship"],
+    limit: 3,
+  });
+  if (worshipClaims.length === 0) {
+    return "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.";
+  }
+  return `${sentenceList(worshipClaims)} This faith/worship note is descriptive only and is not used to infer any policy position.`;
+}
+
+function derivedCampaignFinance(candidate, evidenceRows) {
+  const financeRows = asArray(evidenceRows).filter((row) => row.evidenceType === "donor/funding");
+  if (financeRows.length === 0) {
+    return {
+      totalRaised: "No public finance total separated in this pass",
+      narrative: `No FEC/KPDC finance total was separated for ${candidate.name} in the current evidence matrix. Treat this as a research gap, not as evidence that no money was raised or spent.`,
+      donors: [],
+      undisclosed: "No donor-by-donor public ledger was safely separated into the rendered profile in this pass.",
+      reportingPeriod: "Current evidence matrix reviewed 2026-05-20",
+      source: "Candidate evidence matrix",
+    };
+  }
+
+  const claims = selectEvidenceClaims(financeRows, {
+    types: ["donor/funding"],
+    limit: 4,
+  });
+  const publicRows = financeRows.filter((row) => row.sourceUrl);
+  const moneyMatch = claims.join(" ").match(/\$[0-9][0-9,]*(?:\.[0-9]{2})?/);
+  const source = publicRows[0]?.sourceUrl
+    ? `${publisherFromUrl(publicRows[0].sourceUrl) ?? "Public finance source"} (${publicRows[0].sourceUrl})`
+    : "Candidate evidence matrix and source audit";
+
+  return {
+    totalRaised: moneyMatch?.[0] ?? "Not itemized in rendered profile",
+    narrative: claims.length
+      ? `${sentenceList(claims)} Finance figures are shown only when the reporting period/source was preserved in the evidence matrix; otherwise this remains a research caveat.`
+      : `The evidence matrix includes ${financeRows.length} campaign-finance row${financeRows.length === 1 ? "" : "s"}, but no clean public total was safely separated for ${candidate.name} in this pass.`,
+    donors: [],
+    undisclosed: "No donor-by-donor list is rendered unless the donor name, amount, and reporting source were all separated cleanly.",
+    reportingPeriod: "Current public filings/evidence matrix reviewed 2026-05-20",
+    source,
+  };
+}
+
+function derivedSocialResearchNote(issues, socialMatrix) {
+  const renderedSignals = issues.reduce((count, issue) => count + issue.socialSignals.length, 0);
+  const socialRows = asArray(socialMatrix?.signals ?? socialMatrix?.socialSignals ?? socialMatrix?.items ?? socialMatrix);
+  if (renderedSignals === 0 && socialRows.length === 0) {
+    return "No issue-relevant public social signals were separated in this pass. Do not infer private beliefs from a lack of visible social evidence.";
+  }
+  if (renderedSignals === 0) {
+    return `The social harvest contains ${socialRows.length} observed item${socialRows.length === 1 ? "" : "s"}, but none were rendered as public source-backed issue signals in this pass. Social evidence remains a signal layer only, not proof of belief.`;
+  }
+  return `${renderedSignals} public source-backed social/online signal${renderedSignals === 1 ? "" : "s"} are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.`;
+}
+
+function chooseNarrative(existing, derived, minimumLength = 120) {
+  const current = normalizeNarrative(existing);
+  const next = normalizeNarrative(derived);
+  if (!next) return current;
+  if (!current || current.length < minimumLength) return next;
+  return current;
+}
+
 function campaignWebsiteFromSources(slug, yaml, sources) {
   const explicitMeta = mergeMetadata(yaml);
   const explicit = textValue(
@@ -878,6 +1073,8 @@ function campaignFinanceFromNote(note) {
 
 function normalizeCandidate(slug, yaml, v1) {
   const meta = { ...(V2_ONLY_METADATA[slug] ?? {}), ...mergeMetadata(yaml) };
+  const evidenceRows = loadJsonIfExists(join(MEMORY_CANDIDATES, slug, "evidence-matrix.json"), []);
+  const socialMatrix = loadJsonIfExists(join(MEMORY_CANDIDATES, slug, "social-evidence-matrix.json"), []);
   const sourceAudit = loadJsonIfExists(join(MEMORY_CANDIDATES, slug, "source-audit.json"), {});
   const { sources, idMap, rowSourceIds, sourceIdsByUrl } = normalizeSources(
     slug,
@@ -907,7 +1104,7 @@ function normalizeCandidate(slug, yaml, v1) {
     (explicitCampaignWebsite && isPublicUrl(explicitCampaignWebsite) ? explicitCampaignWebsite : undefined) ??
     (sources.length === 0 ? v1.campaignWebsite : undefined);
 
-  const candidate = {
+  const candidateCore = {
     slug,
     name: meta.name ?? v1.name ?? titleCaseSlug(slug),
     party: normalizeParty(meta.party, v1.party),
@@ -915,6 +1112,10 @@ function normalizeCandidate(slug, yaml, v1) {
     electionSlug: meta.electionSlug ?? meta.election_slug ?? v1.electionSlug ?? "",
     incumbent: typeof meta.incumbent === "boolean" ? meta.incumbent : typeof v1.incumbent === "boolean" ? v1.incumbent : false,
     occupation: textValue(meta.occupation, meta.currentOffice, meta.current_role, v1.occupation) ?? "",
+  };
+
+  const candidate = {
+    ...candidateCore,
 
     born: omitEmpty(meta.born ?? v1.born),
     hometown: omitEmpty(meta.hometown ?? v1.hometown),
@@ -926,8 +1127,14 @@ function normalizeCandidate(slug, yaml, v1) {
     campaignWebsite: cleanCampaignWebsite(slug, campaignWebsite),
 
     issues,
-    whoTheyAre: normalizeNarrative(meta.whoTheyAre ?? meta.statusSummary ?? meta.status_summary ?? v1.whoTheyAre),
-    recordSummary: normalizeNarrative(meta.recordSummary ?? meta.theirRecord ?? meta.currentOffice ?? v1.theirRecord),
+    whoTheyAre: chooseNarrative(
+      meta.whoTheyAre ?? meta.statusSummary ?? meta.status_summary ?? v1.whoTheyAre,
+      derivedWhoTheyAre(candidateCore, evidenceRows),
+    ),
+    recordSummary: chooseNarrative(
+      meta.recordSummary ?? meta.theirRecord ?? meta.currentOffice ?? v1.theirRecord,
+      derivedRecordSummary(candidateCore, issues, evidenceRows),
+    ),
     ownWordsNarrative: normalizeNarrative(
       meta.ownWordsNarrative ??
         yaml.socialResearchNote ??
@@ -936,9 +1143,11 @@ function normalizeCandidate(slug, yaml, v1) {
         yaml.socialOnlineRelevance ??
         yaml.social_online,
     ),
-    whereTheyWorship,
-    campaignFinance: normalizeCampaignFinance(yaml, idMap, sources) ?? campaignFinanceFromNote(meta.campaign_finance_note),
-    socialResearchNote: omitEmpty(meta.social_presence_note),
+    whereTheyWorship: chooseNarrative(whereTheyWorship, derivedWhereTheyWorship(evidenceRows), 80),
+    campaignFinance: normalizeCampaignFinance(yaml, idMap, sources) ??
+      campaignFinanceFromNote(meta.campaign_finance_note) ??
+      derivedCampaignFinance(candidateCore, evidenceRows),
+    socialResearchNote: chooseNarrative(meta.social_presence_note, derivedSocialResearchNote(issues, socialMatrix), 80),
     sources,
   };
 

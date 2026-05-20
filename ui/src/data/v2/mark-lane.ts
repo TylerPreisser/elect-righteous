@@ -180,6 +180,7 @@ export const MARK_LANE_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Mark Lane appears in KPDC's 2026 statewide campaign-finance index under gubernatorial candidates. The appointment-of-treasurer report identifies Marcus Mark Lane with Governor as the office sought.",
   "recordSummary": "This is a public-record profile for a campaign-finance account; party, platform, and final ballot status were not confirmed in this pass.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records for this pass",
     "narrative": "No donor-by-donor public finance interpretation is made from the available records in this pass.",

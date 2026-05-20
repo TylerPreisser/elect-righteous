@@ -782,6 +782,8 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
+  "whoTheyAre": "Bobbi Dreiling is profiled here for Ellis County Clerk / Election Officer as a Republican incumbent/current official. Her recurring self-description is experience. In her 2020 Hays Post candidate profile, Dreiling said she was running because she knew the office, believed the clerk job required experience, enjoyed serving the public, and had worked underneath the prior clerk... Her election-security argument is procedural and concrete. She points to paper ballots, post-election audits, matching poll-pad data with ballots and result media, training poll workers, checking election equipment before and after elections, counting ballots... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 37 source-backed actions across 11 of the 14 issue areas. Representative public-record entries include: Abortion / life: narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directories, county commi... LGBT / gender / parental rights: narrative: \"_A summary of what Bobbi Dreiling has publicly said, published, linked, or been directly quoted saying across official Ellis County pages, public candidate/forum coverage, professional directori... Education / curriculum / schools: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. I... Education / curriculum / schools: The latest Dreiling-authored public outreach item found was the 2026 Ellis County \"I Voted\" sticker contest. In a commission packet letter to school superintendents, she wrote that a student-designed stick... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Family and obituary material in the source record points to a Catholic background, but the file does not support naming a current parish.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
@@ -790,6 +792,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
+  "socialResearchNote": "25 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-clerk-page",

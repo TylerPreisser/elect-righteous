@@ -1182,6 +1182,8 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       ]
     }
   ],
+  "whoTheyAre": "Ty Masterson is profiled here for Governor candidate as a Republican. Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax... His campaign message pairs that tax frame with a broader \"Take Back Kansas\" argument. On the campaign homepage, Masterson says Kansas promised safe communities, low cost of living, and a shot at the American Dream, but that \"liberal Democrats\" and Laura Kelly... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 50 source-backed actions across 12 of the 14 issue areas. Representative public-record entries include: Abortion / life: Kansas Reflector: DEI Law. LGBT / gender / parental rights: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low f... LGBT / gender / parental rights: Kansas Reflector: SB 244 Bathroom Bill Veto. Education / curriculum / schools: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources identify Masterson with NewSpring Church in Wichita, and the church website is https://www.newspring.org/. His campaign biography and faith language make religion a visible part of his public identity rather than a private background detail.",
   "campaignFinance": {
     "totalRaised": "$695,998.16 in total contributions and other receipts",
@@ -1191,6 +1193,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Receipts and Expenditures Report - Ty Masterson 202601"
   },
+  "socialResearchNote": "52 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ksleg-profile",

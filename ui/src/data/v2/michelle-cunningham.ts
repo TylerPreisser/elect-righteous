@@ -180,6 +180,7 @@ export const MICHELLE_CUNNINGHAM_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Michelle Cunningham appears in KPDC's State Board of Education odd-district index under District 5. Party, platform, and final ballot status were not confirmed in this pass.",
   "recordSummary": "This profile exists because the SBOE District 5 roster was missing current KPDC account entries and incorrectly treated the current officeholder profile as the only 2026 candidate view.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records for this pass",
     "narrative": "No donor-by-donor public finance interpretation is made from the available records in this pass.",

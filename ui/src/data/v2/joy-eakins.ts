@@ -1033,6 +1033,8 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       ]
     }
   ],
+  "whoTheyAre": "Joy Eakins is profiled here for Kansas Governor as a Republican. Business, entrepreneurship, and skepticism of targeted incentives are recurring signals. The campaign biography says she built Cornerstone Data into a successful Kansas data-analytics firm with nationwide reach. (source) At the debate, she said she spent 17 y... Eakins' biography and faith language are part of the public pitch but less frequent than education and taxes. Her About page says she has been married to Eric for 31 years, has a son serving in the U.S. Air Force, has a bonus son in Chicago, is a devout Chris... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 48 source-backed actions across 11 of the 14 issue areas. Representative public-record entries include: Abortion / life: The Free State News debate transcript records Eakins answering a question about abortion by saying she was \"passionate about this issue\" and connecting the issue to her own biography. This is a direct debate statement in a... Abortion / life: | s-kansas-reflector-debate | secondary | https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/ | 2026-01-30; accessed 2026-05-19 | Debate co... Education / curriculum / schools: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising a... Education / curriculum / schools: Across the accessible public set, Eakins' message is built around a \"Kansas Comeback\" frame: Kansas should be the best place to live the American dream, but career politicians have let the state decline. H... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Eakins' campaign biography says she is a faithful member of River Community Church. The church website is https://www.rivercc.org/, and that is the clearest public church tie in the available record.",
   "campaignFinance": {
     "totalRaised": "$1,142,759.55",
@@ -1041,6 +1043,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 to 2025-12-31",
     "source": "Joy Eakins Campaign Finance Receipts and Expenditures Report - January 2026"
   },
+  "socialResearchNote": "40 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info",

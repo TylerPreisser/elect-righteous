@@ -964,8 +964,9 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       ]
     }
   ],
-  "recordSummary": "USD 489 Board of Education Member",
-  "whereTheyWorship": "Public sources do not identify a current church affiliation.",
+  "whoTheyAre": "Craig Pallister is profiled here for USD 489 Board Member as a nonpartisan incumbent/current official. On COVID-era operations, Pallister supported easing some mask restrictions in April 2021 while continuing to monitor COVID numbers. He pointed to support from a HaysMed doctor and USD 489's lead nurse and called the plan a compromise. (USD 489/Hays Post). On the Hays High/Hays Middle mascot debate, Hays Post reported on February 22, 2023, that Pallister supported keeping the Hays High Indians mascot after hearing community pride, supported eliminating racist or hurtful images, and did not support expanding the... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 42 source-backed actions across 11 of the 14 issue areas. Representative public-record entries include: Abortion / life: narrative: \"_A summary of what Craig Pallister has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, a sponsored candidate announcement, local news, public... LGBT / gender / parental rights: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school... LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. LGBT / gender / parental rights: | USD 489 meeting pages/video | https://usd489.community.highbond.com/Portal/MeetingInformation.aspx?Id=358 and related portal pages | FOUND | Public meeting pages list regular meetings through April 20, 20... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. D... Sunflower State Journal: Kobach denounces vandalism at his church. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
     "narrative": "2023 Hays Post questionnaire includes Pallister's candidate-reported statement that he received no money or in-kind donations from outside the school district; this is not an official 2025 filing.; 2025 Hays Post sponsored article does not disclose sponsor, cost, donor, committee, or treasurer.",
@@ -973,6 +974,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Hays USD 489 BOE candidate: Craig Pallister"
   },
+  "socialResearchNote": "38 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-usd489-diligent-members",

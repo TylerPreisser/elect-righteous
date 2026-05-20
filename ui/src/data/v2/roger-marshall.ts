@@ -1068,6 +1068,8 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       ]
     }
   ],
+  "whoTheyAre": "Roger Marshall is profiled here for U.S. Senator, Kansas as a Republican incumbent/current official. KCUR Candidate Guide — accessed 2026-03-30. Kansas Reflector - Campaign Profile (Aug 2025). The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 55 source-backed actions across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: abortion is wrong at any stage - campaign life page, n.d., https://kansansformarshall.com/life (abortion). Abortion / life: National Pro-Life Scorecard. Abortion / life: SBA Pro-Life - Roger Marshall — accessed 2026-03-30. LGBT / gender / parental rights: Kansas Reflector: Gender Marker $1 Fine. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "Social research is included only as observed public behavior. The local\nsocial harvest covered X, Facebook, YouTube, Instagram, LinkedIn, Truth\nSocial, Gab, Gettr, Substack, Reddit, TikTok, official Senate site, and\npublic-news embeds. Direct X/Facebook/Instagram engagement totals were not\nvisible. No current candidate-controlled Truth Social, Gab, Reddit, TikTok,\nSubstack, or accessible Gettr activity was confirmed.",
   "whereTheyWorship": "Marshall's church is First Christian Church in Great Bend, a Disciples of Christ congregation. Public records tie him to the church as an elder, deacon, board chair, and Sunday school teacher, making his involvement long-running and public rather than incidental.",
   "campaignFinance": {
@@ -1106,6 +1108,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2026-03-31",
     "source": "FEC committee summary for Kansans for Marshall, C00576173"
   },
+  "socialResearchNote": "37 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-congress-member",

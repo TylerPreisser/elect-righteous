@@ -1026,7 +1026,8 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       ]
     }
   ],
-  "recordSummary": "Kansas Senate District 7; Senate Caucus Chair",
+  "whoTheyAre": "Ethan Corson is profiled here for Kansas Governor as a Democratic. Corson presents himself as a bipartisan, moderate, results-focused Democrat rather than an ideological fighter. In his launch statement, he said, \"I'm not interested in the partisan battles you see on cable news. Kansans want leaders who work together, regard... Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and special education funding (harvest). In a 2019 campaign quote... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 47 source-backed actions across 11 of the 14 issue areas. Representative public-record entries include: Abortion / life: | s-ksleg-hb2062 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2062/ | accessed 2026-05-19 | HB 2062 bill history and short title; child support orders for unborn children and unborn/stillborn tax exempt... Abortion / life: | s-ksleg-hb2729 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2729/ | accessed 2026-05-19 | HB 2729 bill page; Woman's-Right-to-Know Act forms/notices; override history | abortion |. LGBT / gender / parental rights: | s-ksleg-sb244 | primary | https://www.kslegislature.gov/b2025_26/bills/SB244/ | accessed 2026-05-19 | Biological sex / public buildings / driver's licenses / birth certificates bill; veto override | LGBTQ... Education / curriculum / schools: Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and special... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources identify Corson as Jewish, but they do not identify a current synagogue affiliation.",
   "campaignFinance": {
     "totalRaised": "$902,641.13",
@@ -1036,6 +1037,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
     "reportingPeriod": "2025 year-end, covering 2025-01-01 through 2025-12-31",
     "source": "Kansas State Wide Office - 2026 Election Cycle"
   },
+  "socialResearchNote": "39 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info-2026",

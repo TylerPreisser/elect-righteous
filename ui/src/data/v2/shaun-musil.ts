@@ -825,7 +825,18 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       ]
     }
   ],
-  "whereTheyWorship": "Public sources do not identify a current church affiliation.",
+  "whoTheyAre": "Shaun Musil is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. The strongest recurring theme is water. In his 2025 candidate Q&A, Musil said he was running again because Hays had \"unfinished business,\" mainly the water project, and said water should always be the city's No. 1 issue. At the 2025 forum, he said he believed... Musil also uses business-owner language. As co-owner of the former Paisley Pear, he described downtown as a welcoming place for students and families, saying FHSU students used the back room to study and relax and that he loved welcoming college students down... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 42 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Education / curriculum / schools: narrative: \"Shaun Musil's public messaging is not built around a fully visible campaign-social operation. Through May 11, 2026, the clearest record comes from Hays Post candidate interviews, candidate foru... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. Sunflower State Journal: Kobach denounces vandalism at his church. Christian Post: Caleb Schwab attended church with family hours before death. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "campaignFinance": {
+    "totalRaised": "Not itemized in rendered profile",
+    "narrative": "KPDC campaign finance guidance: https://kpdc.kansas.gov/campaign-finance/. FEC Filing: FEC Candidate H6KS03258. The record is dominated by water security, especially the R9 Ranch project; pro-growth economic development and retail recruitment; housing supply; careful budget language; pandemic-era public-health conflict; and airport/infrastructure concerns. No current c... Campaign Finance / Donor Information. Finance figures are shown only when the reporting period/source was preserved in the evidence matrix; otherwise this remains a research caveat.",
+    "donors": [],
+    "undisclosed": "No donor-by-donor list is rendered unless the donor name, amount, and reporting source were all separated cleanly.",
+    "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
+    "source": "Fec (https://www.fec.gov/data/candidate/H6KS03258/)"
+  },
+  "socialResearchNote": "26 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-city-commission",

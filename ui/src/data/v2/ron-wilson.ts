@@ -951,7 +951,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
   "whoTheyAre": "Ron Wilson is the superintendent of Hays USD 489. He was approved by the USD 489 Board of Education in February 2019, effective July 1, 2019, after prior service as Herington superintendent, Abilene Middle School principal, and a K-8 principal in North Ottawa County. His public record is administrative and board-facing, centered on facilities, student services, district operations, state education policy, and communications with the board/community.",
   "recordSummary": "Wilson's record is concentrated in USD 489 administration: bond/facility planning and oversight, mental-health intervention advocacy, state school-funding warnings, fee/nutrition recommendations, personnel and administrator-contract recommendations, and student safety/discipline responses. The record includes a 2022 bond-turnout email that prompted an investigation; the Ellis County Attorney later declined to pursue charges and took no action.",
   "ownWordsNarrative": "Wilson's most substantive first-person public statements in this pass were his 2021 Kansas Legislature testimony supporting school-based mental-health services, his 2025 Hays Post opinion defending USD 489 bond projects, official district live-feed communications during the 2020 COVID closure, and quoted board-meeting remarks in local coverage. These should be presented as attributed public statements, not campaign messaging.",
-  "whereTheyWorship": "No public church, parish, denomination, or worship-community affiliation was verified in this pass. Leave this descriptive field blank/unknown unless a direct public source is later found.\n",
+  "whereTheyWorship": "No public church, parish, denomination, or worship-community affiliation was verified in this pass. Leave this descriptive field blank/unknown unless a direct public source is later found.",
   "campaignFinance": {
     "totalRaised": "Not applicable - appointed superintendent, not a ballot candidate",
     "narrative": "No campaign committee, campaign finance report, candidate donor ledger, or campaign fundraising apparatus was found for Wilson in this pass. That fits the official record: he is the appointed USD 489 superintendent, not an elected candidate. Public salary/compensation material, if later used, should be treated as employment/public-pay context rather than campaign funding.",
@@ -960,7 +960,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
     "reportingPeriod": "Reviewed through 2026-05-19",
     "source": "USD 489 Staff Directory"
   },
-  "socialResearchNote": "No verified current Wilson campaign site or Wilson-controlled public campaign/personal social account was confirmed. USD 489 live-feed posts attributed to Wilson are official district communications. A LinkedIn public preview was located but access/content were limited; it should not be used to infer issue positions.\n",
+  "socialResearchNote": "No verified current Wilson campaign site or Wilson-controlled public campaign/personal social account was confirmed. USD 489 live-feed posts attributed to Wilson are official district communications. A LinkedIn public preview was located but access/content were limited; it should not be used to infer issue positions.",
   "sources": [
     {
       "id": "s-usd489-staff",

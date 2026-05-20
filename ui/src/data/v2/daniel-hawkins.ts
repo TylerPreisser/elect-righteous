@@ -832,9 +832,9 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Accessible official and government-adjacent sources support treating Hawkins as a Republican candidate for Kansas Commissioner of Insurance in 2026. Kansas SOS confirms the office is on the 2026 ballot and the June 1, 2026 filing deadline; KPDC lists Hawkins under Insurance Commissioner Candidates and his treasurer filing says office sought is Insurance Commissioner; a current Douglas County/state candidate filing PDF lists Daniel Hawkins (R) as filed on May 13, 2025 for the August 4, 2026 primary. The live SOS candidate-list endpoint was blocked in this environment.",
-  "recordSummary": "Kansas House Speaker, District 100",
+  "recordSummary": "The rendered record now contains 35 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Abortion / life: Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" and frames his sp... Abortion / life: Recurring topics are taxes, budget restraint, anti-Kelly contrast, Trump alignment, abortion, gun rights, family/gender policy, election integrity, immigration enforcement, and insurance affordability through deregulation.... Abortion / life: PRO-LIFE - Kansas Reflector coverage of his launch, 2026-04-01, https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/ - topic: ideological brand... LGBT / gender / parental rights: Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" a... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "Social research is included as observed public behavior, not as a proxy for belief. Current campaign site links X, Instagram, and Facebook; direct platform timelines were limited by scripts/login walls. The older site used in prior local harvest is now suspended, so prior embedded Facebook observations should retain their May 11, 2026 capture label.",
-  "whereTheyWorship": "Public sources do not identify a current church affiliation.",
+  "whereTheyWorship": "No verified current church affiliation found. I did not verify a public church affiliation in the sources reviewed. Faith/Values: Described making the decision after \"prayerful and tearful discussions with my wife and family.\". This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "$417,305.07",
     "narrative": "Hawkins' January 2026 KPDC report shows a substantial early statewide campaign account and includes issue-relevant funding from insurance, health care, pharmaceutical/PBM, professional, business, labor, and public-affairs entities. Because the office sought regulates insurance, the insurance/PBM/health donor pattern should be disclosed neutrally alongside his insurance-industry work history and any statement-of-substantial-interest context.",
@@ -842,6 +842,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Daniel Hawkins January 2026 Receipts and Expenditures Report"
   },
+  "socialResearchNote": "32 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info-2026",

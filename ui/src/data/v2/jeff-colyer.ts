@@ -1208,6 +1208,8 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       ]
     }
   ],
+  "whoTheyAre": "Jeff Colyer is profiled here for Kansas Governor as a Republican. Across the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a... The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas w... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 52 source-backed actions across 14 of the 14 issue areas. Representative public-record entries include: Abortion / life: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out o... Abortion / life: Abortion appears as a recurring moral and campaign issue. The 2026 campaign site says Colyer will \"defend the unborn\" (source). The older, still-live announcements archive includes a 2021 statement attacking abortion incre... Abortion / life: | s-campaign-old-announcements | primary | https://www.jeffcolyer.com/announcements.html | accessed 2026-05-19 | still-live 2021 archive on abortion, energy, KU adult stem-cell research, COVID closures | issue archive |. LGBT / gender / parental rights: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforce... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. His public background points to a Catholic upbringing in Hays, including attendance at Thomas More Prep and family ties to St. Joseph's Catholic Church, but the available record does not identify a present-day parish.",
   "campaignFinance": {
     "totalRaised": "$2,070,322.09 (2025 year-end / 202601 report)",
@@ -1216,6 +1218,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Campaign Finance Receipts and Expenditures Report - Jeff Colyer"
   },
+  "socialResearchNote": "54 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info",

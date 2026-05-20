@@ -874,7 +874,8 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
-  "recordSummary": "Former Kansas House District 48 representative",
+  "whoTheyAre": "Jennifer Day is profiled here for Kansas Secretary of State as a Democratic. Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and say... The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registration. (source) On Apr. 6, 2026, she perso... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 33 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: | s-ksleg-hb2452 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2452/ | accessed 2026-05-19 | Bill changing city, school, community college, and certain municipal elections to even-number... Education / curriculum / schools: | s-wichita-library-guide | secondary | https://www.wichitalibrary.org/Research/informedvoter/Pages/kansas.aspx | accessed in local harvest 2026-05-11 | Indexed election guide listing Day among 2026 SOS ca... Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Education / curriculum / schools: Kansas State Department of Education: District 5. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Her public message is framed in civic and administrative terms, and the accessible campaign and legislative material does not tie her to a named congregation.",
   "campaignFinance": {
     "totalRaised": "totalRaised: $84,304.87; totalSpent: $69,564.35; cashOnHand: $14,740.52; inKind: $0.00; otherTransactions: $43,019.00; reportingPeriod: 2025 year-end; January 1, 2025 through December 31, 2025; sourceIds: s-kpdc-202601",
@@ -908,6 +909,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Candidate v2 issue file"
   },
+  "socialResearchNote": "38 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidates-info",

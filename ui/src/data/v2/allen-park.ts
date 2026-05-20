@@ -913,7 +913,9 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       ]
     }
   ],
-  "whereTheyWorship": "Public sources do not identify a current church affiliation.",
+  "whoTheyAre": "Allen Park is profiled here for USD 489 Board of Education member as a nonpartisan incumbent/current official. His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and... Hays School District USD 489 Diligent Community member portal: https://usd489.community.highbond.com/portal/members.aspx?id=18. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 33 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. Education / curriculum / schools: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent bo... Education / curriculum / schools: The core phrase in Park's campaign record is \"kids and families first.\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned... Education / curriculum / schools: Park's most consistent theme is trust through communication. In 2019, he said USD 489 needed to reconnect with the Hays community by rebuilding trust, encouraging involvement, increasing communication, and... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. D... Sunflower State Journal: Kobach denounces vandalism at his church. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "No donor-by-donor report or PAC ledger was found for Park. The only located candidate-specific funding statement is from his 2023 Hays Post Q&A.",
     "narrative": "No donor-by-donor report or PAC ledger was found for Park. The only located candidate-specific funding statement is from his 2023 Hays Post Q&A.",
@@ -921,6 +923,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Hays USD 489 school board candidate: Allen Park"
   },
+  "socialResearchNote": "40 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "usd489-board-page",

@@ -180,6 +180,7 @@ export const SHARILYN_RAY_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Sharilyn Ray appears in KPDC's 2026 statewide campaign-finance index under gubernatorial candidates. Party and final ballot status were not confirmed in the reviewed filing mirror.",
   "recordSummary": "This profile preserves the campaign-finance account in the site roster while clearly limiting claims to the records found.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "$7,720.72",
     "narrative": "KPDC 202601 extraction in the audit recorded $7,720.72 receipts, $7,620.72 expenditures, and $100.00 cash on hand.",

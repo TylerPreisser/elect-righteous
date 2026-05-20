@@ -670,6 +670,8 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
+  "whoTheyAre": "Pat Proctor is profiled here for Kansas Secretary of State as a Republican. URLs: https://www.kslegislature.gov/b2025_26/bills/HB2453/history/ and https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt. URLs: https://patproctor4ks.com/ and local memory/candidates/pat-proctor/in-their-own-words.md. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 26 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Education / curriculum / schools: Kansas State Department of Education: District 5. Education / curriculum / schools: Kansas Reflector: Board races could shift power to conservative bloc. Education / curriculum / schools: \"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\". Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation for Proctor. His campaign and legislative biographies emphasize military service, elections, and business ownership rather than church membership or denomination.",
   "campaignFinance": {
     "totalRaised": "reportingPeriod: 2025-01-01 through 2025-12-31; totalContributionsAndReceipts: $312,046.74; totalExpenditures: $102,663.46; cashOnHandClose: $209,383.28; inKindContributions: $2,650.22; otherTransactions: $134,000.00; sourceIds: s-kpdc-202601",
@@ -679,6 +681,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Kansas State Wide Office - 2026 Election Cycle"
   },
+  "socialResearchNote": "24 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info-2026",

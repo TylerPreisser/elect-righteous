@@ -273,6 +273,7 @@ export const NOAH_TAYLOR_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Noah Taylor is a Democratic U.S. Senate candidate in the FEC record. His candidate page identifies Noah Taylor for Kansas as the principal campaign committee.",
   "recordSummary": "The strongest verified record in this pass is federal filing and finance data. No candidate-controlled issue platform was captured.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "$72,435.00",
     "narrative": "FEC Q1 2026 coverage lists $72,435.00 total receipts, $3,801.94 total disbursements, and $68,633.06 ending cash on hand for Noah Taylor for Kansas.",

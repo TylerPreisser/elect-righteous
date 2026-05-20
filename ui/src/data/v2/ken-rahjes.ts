@@ -864,6 +864,8 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
+  "whoTheyAre": "Ken Rahjes is profiled here for Secretary of State candidate as a Republican. Across the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust... The clearest candidate-controlled secretary-of-state statement is the July 2025 filing post on his campaign site. Rahjes framed the office through business filings and election administration, saying Kansas should streamline business filings, improve the One... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 35 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: His education and local-control language predates the secretary-of-state campaign and appears in local legislative coverage. In February 2025, Rahjes questioned the need for the U.S. Department of Education... Education / curriculum / schools: Local coverage of his campaign stops repeats the same two-part argument. At a November 2025 Hays event, Rahjes said, \"I believe I'm most effective by looking you in the eye and having a conversation,\" and... Education / curriculum / schools: His education and local-control language predates the secretary-of-state campaign and appears in local legislative coverage. In February 2025, Rahjes questioned the need for the U.S. Department of Educatio... Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public records identify Rahjes and his wife as members of the United Presbyterian Church in Phillipsburg. Public sources reviewed for this profile did not provide a verified church website.",
   "campaignFinance": {
     "totalRaised": "$24,070.30",
@@ -922,6 +924,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
     "reportingPeriod": "2025 year-end (1/1/2025 through 12/31/2025)",
     "source": "Campaign Finance Receipts and Expenditures Report - Kenneth J Rahjes"
   },
+  "socialResearchNote": "35 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ksleg-profile",

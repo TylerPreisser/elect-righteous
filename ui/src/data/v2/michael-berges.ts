@@ -585,6 +585,9 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
+  "whoTheyAre": "Michael Berges is profiled here for Ellis County Commissioner, District 1 as a Republican incumbent/current official. Michael Berges - Raw Dump V2 (Primary-Tier Deep Scrape). Office: Ellis County Commissioner, District 1 (Republican, incumbent). Agent: codex (Worker 6, deep-scraper equivalent). The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 28 source-backed actions across 12 of the 14 issue areas. Representative public-record entries include: Abortion / life: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces... LGBT / gender / parental rights: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and publi... Education / curriculum / schools: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and publ... Religious liberty / church / civic morality: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listing... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "Article identifies him then as employed by Development Services of Northwest Kansas, treasurer for ARC of Central Plains, chair of Tiger Takedown Club, Hays vice-mayor, member of St. Joseph Catholic Church, and participant at First United Methodist Church whe... Issue mapping: Who they are; stated priorities; church/community context; economic development/roads/public safety. Findings: Hays Post's 2022 announcement says Berges was a member of St. Joseph Catholic Church and participated at First United Methodist Church where his wife was a member. It also listed treasurer of ARC of Central Plains and chair of Tiger Takedown Club at... This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
     "narrative": "No itemized donor table, treasurer filing, or 2026 campaign-finance report\nfor Berges's county commission campaign was found in the reviewed public\nweb sources. This should be treated as a records gap, not as evidence that\nno contributions exist.",
@@ -592,6 +595,7 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Candidate Filings"
   },
+  "socialResearchNote": "14 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-candidate-filings-page",

@@ -586,8 +586,10 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
+  "whoTheyAre": "Christy Cauble Davis is profiled here for U.S. Senate, Kansas as a Democratic. Candidate information: https://www.sos.ks.gov/elections/candidate-information.html. Important election dates: https://sos.ks.gov/elections/important-election-dates.html. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 26 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-lev... Taxes / spending / debt: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure). Immigration / border: Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-level water pol... Health care / insurance / Medicaid: Across the captured Bluesky period the feed contains no posts focused on Social Security, Medicare, detailed Farm Bill text, the Ogallala Aquifer, foster care, adoption, capital punishment, or district-l... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "platforms_checked: Campaign website; Bluesky; Facebook; Instagram; X/Twitter; LinkedIn from local harvest; YouTube from local harvest; Truth Social/Gab/Gettr/Substack/Reddit/TikTok from local harvest; summary: The public Bluesky profile is the only platform with post text and engagement accessible during this pass. Facebook, Instagram, and X/Twitter are presence-only from logged-out capture unless a later browser-authenticated harvest captures post text. Bluesky API showed 46 posts on 2026-05-19, one more than the May 11 local harvest.; sourceIds: s-campaign-home; s-bluesky-profile; s-bluesky-fundraising-20260512",
-  "whereTheyWorship": "Public sources do not identify a current church affiliation.",
+  "whereTheyWorship": "said she attended church three times a week growing up, publicly identified with Christianity, and discussed leaving a sermon she considered hate speech. Faith-related quotes should be treated as attributable public speech only, not as policy inference or spiritual certification. The narrative compiler should not infer any of these from party label, faith language, events, or associations. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "$137,068.03",
     "narrative": "FEC aggregate data shows all receipts as individual contributions: $130,543.03 itemized and $6,525.00 unitemized; party committee, other committee, candidate contributions, transfers, and loans were $0.00.",
@@ -596,6 +598,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-07-01 to 2026-03-31",
     "source": "CHRISTY DAVIS FOR KANSAS 2026 - committee overview"
   },
+  "socialResearchNote": "16 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",

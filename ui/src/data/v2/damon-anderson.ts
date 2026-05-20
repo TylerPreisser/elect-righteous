@@ -221,6 +221,7 @@ export const DAMON_ANDERSON_V2: CandidateFullV2 = {
   "whoTheyAre": "Damon Anderson is a Democratic U.S. Senate candidate from Shawnee. His campaign frames him as a lifelong Kansan, parent, and business owner running on a democracy-and-money-in-politics theme.",
   "recordSummary": "The strongest records found in this pass are the Kansas candidate-filing entry and candidate-controlled issue pages. No elected voting record was identified in the reviewed material.",
   "ownWordsNarrative": "Anderson's own campaign repeatedly frames the race around reducing the influence of corporate money, lobbyists, and party leadership. His issue page contains explicit stated positions on health care, education, AI regulation, immigration, agriculture, labor, budget policy, prison reform, privatization, LGBTQ rights, and reproductive rights.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "The campaign says Anderson does not answer to corporate PACs and centers donor influence as a core issue. This pass did not capture a processed FEC financial summary for an Anderson committee.",
     "narrative": "The campaign says Anderson does not answer to corporate PACs and centers donor influence as a core issue. This pass did not capture a processed FEC financial summary for an Anderson committee.",

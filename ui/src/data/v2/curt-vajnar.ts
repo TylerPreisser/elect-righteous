@@ -692,7 +692,8 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       ]
     }
   ],
-  "recordSummary": "USD 489 Board President",
+  "whoTheyAre": "Curt C. Vajnar is profiled here for Hays USD 489 Board of Education as a nonpartisan incumbent/current official. Teacher recruitment and retention are long-running concerns for him. In 2021, he named teacher shortages and retention as one of the greatest problems facing public education and suggested using student-teacher placements, early postings, and incentives for t... | s-ellis-2025-filings | primary | https://www.ellisco.net/DocumentCenter/View/5736/2025-Candidate-Filings | 2026-05-19 | 2025 city/school candidate filing list includes Curt C. Vajnar under USD 489 at-large positions | election status |. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 35 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. Education / curriculum / schools: Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose inc... Education / curriculum / schools: On safety, Vajnar has a specific ask: more school resource officer coverage. In the 2025 Q&A, he said he was proud of helping push the first resource officer for the 2023-24 year and would continue pushing... Education / curriculum / schools: Teacher of the Month: Vajnar says goodbye to HHS. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "status: no_verified_candidate_controlled_social_feed; checked: Campaign website; Facebook; X/Twitter; Instagram; Threads; Bluesky; TikTok; Substack; LinkedIn; YouTube; USD 489 official portal; Hays Post; Tiger Media Network; relevance: Use official portal and local reporting as online-source evidence; do not create issue claims from unverified profiles or platform absence.; sourceIds: s-usd489-members; s-hayspost-2025-qa; s-tiger-naming",
   "whereTheyWorship": "Vajnar is publicly identified with Our Lady, Help of Christians Catholic Church in Antonino, where the source record says he has served on the parish council. Church website: https://www.ihm-church.com/.",
   "campaignFinance": {
@@ -702,6 +703,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Kansas Election Standards - Chapter IV, Candidates"
   },
+  "socialResearchNote": "19 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-usd489-members",

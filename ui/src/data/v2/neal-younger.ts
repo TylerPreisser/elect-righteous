@@ -796,7 +796,9 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
-  "whereTheyWorship": "Public sources do not identify a current church affiliation for Younger.",
+  "whoTheyAre": "Neal Younger is profiled here for Ellis County Commissioner, District 2; current officeholder not on the 2026 county filing PDF as a Republican incumbent/current official. Neal Younger's public messaging footprint is unusually small for an incumbent elected official. No verified campaign website or candidate-controlled social account was found, and the strongest first-person source remains his July 30, 2020 Hays Post candidate... Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 36 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he suppor... Education / curriculum / schools: Communication and public involvement are also recurring. Younger said in 2020 that city commissioners should attend county meetings and county commissioners should attend city meetings. He said he would ta... Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current... First Christian Church Great Bend - Kansas Disciples. narrative: \"*A summary of what Neal Younger has publicly said or been attributed as saying in candidate questionnaires, official county records, public meeting coverage, and local news. Drawn from public sources through May 11, 2026. We report patterns; we do... This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
     "narrative": "not_located",
@@ -805,6 +807,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Candidate v2 issue file"
   },
+  "socialResearchNote": "28 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-commission-page",

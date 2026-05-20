@@ -256,6 +256,7 @@ export const LORIE_WOOD_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Lorie Wood appears in KPDC's State Board of Education odd-district index under District 5. The appointment-of-treasurer report identifies State Board of Education District 5 as the office sought.",
   "recordSummary": "This profile captures the SBOE District 5 campaign-finance record and avoids treating absence of a broader platform as a position.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records for this pass",
     "narrative": "No donor-by-donor public finance interpretation is made from the available records in this pass.",

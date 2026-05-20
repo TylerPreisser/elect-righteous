@@ -838,6 +838,8 @@ export const JASON_HART_V2: CandidateFullV2 = {
       ]
     }
   ],
+  "whoTheyAre": "Jason Hart is profiled here for U.S. Senate, Kansas as a Democratic. KMUW / Kansas Reflector profile: https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness. KCUR/Kansas News Service candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 37 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Abortion / life: National Pro-Life Scorecard. Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Taxes / spending / debt: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure). Taxes / spending / debt: Brennan Center: Wisconsin Supreme Court spending record. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources identify Hart as Christian, but they do not identify a current church affiliation.",
   "campaignFinance": {
     "totalRaised": "$10,741.42",
@@ -847,6 +849,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
     "reportingPeriod": "2026-01-01 to 2026-03-31",
     "source": "HART, JASON - Candidate overview"
   },
+  "socialResearchNote": "31 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",

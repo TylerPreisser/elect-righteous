@@ -835,7 +835,9 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       ]
     }
   ],
-  "whereTheyWorship": "Public sources do not identify a current church affiliation.",
+  "whoTheyAre": "Sandy Jacobs is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city... Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she said her first goal beyond maintaining... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 31 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Abortion / life: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she sa... Education / curriculum / schools: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinishe... Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative test... Sunflower State Journal: Kobach denounces vandalism at his church. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "No clean online donor list, campaign-finance total, treasurer appointment, exemption affidavit, PAC support, independent expenditure record, or itemized contribution report for Sandy Jacobs was located in reviewed public sources.",
     "narrative": "No clean online donor list, campaign-finance total, treasurer appointment, exemption affidavit, PAC support, independent expenditure record, or itemized contribution report for Sandy Jacobs was located in reviewed public sources.",
@@ -843,6 +845,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
+  "socialResearchNote": "34 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-hays-current-commission",

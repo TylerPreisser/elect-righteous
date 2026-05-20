@@ -1055,6 +1055,8 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
+  "whoTheyAre": "Philip Sarnecki is profiled here for Kansas Governor as a Republican. Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage say... His economic message is inseparable from his outsider pitch. On the campaign site, Sarnecki presents himself as \"Kansas Dad - Husband - Businessman\" and says his plan is to stand with President Trump, create jobs, lower taxes, restore parental rights, end wok... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 55 source-backed actions across 12 of the 14 issue areas. Representative public-record entries include: Abortion / life: Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-u... LGBT / gender / parental rights: His economic message is inseparable from his outsider pitch. On the campaign site, Sarnecki presents himself as \"Kansas Dad - Husband - Businessman\" and says his plan is to stand with President Trump, creat... LGBT / gender / parental rights: Education content is less frequent than taxes and outsider messaging, but it is explicit. The campaign site says education elites are trying to replace parents and that Sarnecki would restore parental right... LGBT / gender / parental rights: | s-campaign-home | primary-candidate | https://philipsarnecki.org/ | accessed 2026-05-19 | Active campaign site and plan language: taxes, jobs, Trump, parental rights, woke policies, accountability, red ta... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public materials identify Sarnecki as Christian, but public sources do not name a current church affiliation or church website. His campaign is faith-forward, but the available record stops short of tying him to a specific congregation.",
   "campaignFinance": {
     "totalRaised": "$2,528,715.73",
@@ -1063,6 +1065,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 to 2025-12-31",
     "source": "Philip Sarnecki Campaign Finance Receipts and Expenditures Report - January 2026"
   },
+  "socialResearchNote": "37 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info",

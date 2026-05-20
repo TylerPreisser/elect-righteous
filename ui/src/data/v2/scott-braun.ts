@@ -805,7 +805,8 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       ]
     }
   ],
-  "recordSummary": "Ellis County Sheriff",
+  "whoTheyAre": "Scott J. Braun is profiled here for Ellis County Sheriff; current officeholder not on the 2026 county filing PDF as a Republican incumbent/current official. Braun's earliest profile-controlled campaign statement in the reviewed set came when he announced for sheriff in 2019. The Hays Post archive described his law-enforcement timeline from reserve deputy and Ellis police officer to deputy, drug-enforcement office... Mental health is the second recurring operational issue. As Kansas Sheriffs' Association president, Braun told Hays Post in January 2024 that sheriffs across Kansas were struggling with mental-health cases and questioned whether some people with serious menta... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 33 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separatio... Education / curriculum / schools: | s-sos-election-standards-ch4 | primary | https://www.sos.ks.gov/elections/election-standards/Kansas-Election-Standards-Chapter-IV-Candidates.pdf | 2026-05-19 | County candidates file with county election... Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "status: limited_verified_presence; checked: Campaign website; Official Ellis County sheriff page; Official sheriff Facebook; Official sheriff X/Twitter; LinkedIn; Instagram; Threads; TikTok; YouTube; Bluesky; Substack; Kansas Sheriffs' Association; Hays Post; findings: No verified campaign-controlled website found.; Official county sheriff page links office Facebook and X/Twitter accounts.; LinkedIn public profile is visible and profile-controlled; visible activity is mostly likes.; No reliable candidate-controlled Instagram, Threads, TikTok, YouTube, Bluesky, or Substack found.; sourceIds: s-ellis-sheriff-page; s-linkedin-braun; s-ksa-ellis-listing; relevance: Use official office channels and LinkedIn as online-presence signals only; do not infer policy from inaccessible posts or observed likes.",
   "whereTheyWorship": "Braun is publicly tied to St. Nicholas of Myra Catholic Church in Hays. The parish website is https://stn-church.com/, and the diocesan listing is https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/.",
   "campaignFinance": {
@@ -815,6 +816,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
+  "socialResearchNote": "31 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-sheriff-page",

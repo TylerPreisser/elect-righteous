@@ -727,6 +727,8 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
+  "whoTheyAre": "David Vilaysing is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. The most consistent city-policy themes are water, housing, and cost discipline. Vilaysing calls the R9 water project important but not enough by itself, saying Hays needs both a secure near-term source and a permanent long-term answer. On housing, he talks ab... Hays Catholic Schools Advancement Director Announcement. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 29 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: \"url\": \"https://www.haysusa.com/335/Public-Library-Board\". Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "No current church affiliation or explicit public faith statement was verified in reviewed sources.",
   "campaignFinance": {
     "totalRaised": "Same as donorFunding: no online donor/funding detail was verified.",
@@ -735,6 +737,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
+  "socialResearchNote": "26 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-hays-city-commission",

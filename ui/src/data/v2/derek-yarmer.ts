@@ -830,7 +830,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Derek Yarmer is a current USD 489 board member and emergency physician. His public\npersona is built around local board oversight: bond and capital-outlay scrutiny,\nearlier board materials, contract review, and practical facilities/safety questions.",
   "recordSummary": "Official USD 489 minutes show repeated no or table votes on bond-related change\norders, furniture/playground purchases, HVAC agreements, Felten GMP approval, and\nadministrator contract extensions, paired with yes votes on other purchases and\nsafety/facility work. This is best read as a process-and-oversight record, not as\nan across-the-board anti-spending posture.",
-  "whereTheyWorship": "Public sources do not identify a current church affiliation.",
+  "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. Sunflower State Journal: Kobach denounces vandalism at his church. Christian Post: Caleb Schwab attended church with family hours before death. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
     "narrative": "No official itemized donor ledger found online in reviewed sources.",
@@ -839,7 +839,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Hays USD 489 BOE candidate: Derek Yarmer"
   },
-  "socialResearchNote": "No verified public candidate-controlled campaign website or social account was found\nin the existing social harvest or this v2 pass. The USD 489 HighBond member page is\nan official board-member page, not a campaign website.\n",
+  "socialResearchNote": "No verified public candidate-controlled campaign website or social account was found\nin the existing social harvest or this v2 pass. The USD 489 HighBond member page is\nan official board-member page, not a campaign website.",
   "sources": [
     {
       "id": "s-usd489-highbond-members",

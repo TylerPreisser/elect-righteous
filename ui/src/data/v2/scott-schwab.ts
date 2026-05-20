@@ -957,7 +957,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "text: Scott Schwab is Kansas Secretary of State and a Republican candidate for governor in 2026. Official and campaign biographies identify him as a Great Bend native, Fort Hays State University graduate, former Kansas House member, former Speaker Pro Tempore, and statewide officer first elected in 2018 and re-elected in 2022.; sourceIds: s-sos-bio; s-campaign-site",
-  "recordSummary": "Kansas Secretary of State",
+  "recordSummary": "The rendered record now contains 42 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: \"url\": \"https://www.usd489.com/page/board-of-education\". Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "summary: Public social evidence is limited to presence and profile metadata. No current post-level likes, comments, reposts, follows, or audience responses were available in the 2026-05-19 re-check.; sourceIds: s-social-harvest-local; signals: id: social-facebook-page-metadata; platform: Facebook; observedAt: 2026-05-11; observation: Campaign Facebook page metadata listed 1,759 likes and 63 talking about this; post inventory was limited in logged-out capture.; sourceIds: s-social-harvest-local; id: social-instagram-profile-metadata; platform: Instagram; observedAt: 2026-05-11; observation: Campaign Instagram metadata listed 184 followers, 167 following, and 57 posts; post inventory was limited in logged-out capture.; sourceIds: s-social-harvest-local; id: social-x-office-campaign-presence; platform: X; observedAt: 2026-05-11; observation: The local harvest found @ScottSchwabKS and @KansasSOS profile metadata, but no dependable logged-out post-level inventory or repost count.; sourceIds: s-social-harvest-local",
   "whereTheyWorship": "Public sources tie Schwab and his family to LifeMission Church in Olathe. The church website is https://www.lifemission.church/, and the congregation became part of the public record after Caleb Schwab's funeral was held there in 2016.",
   "campaignFinance": {
@@ -996,6 +996,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Kansas State Wide Office - 2026 Election Cycle"
   },
+  "socialResearchNote": "37 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info",

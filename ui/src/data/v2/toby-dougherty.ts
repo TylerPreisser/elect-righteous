@@ -647,6 +647,8 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       ]
     }
   ],
+  "whoTheyAre": "Toby Dougherty is profiled here for Hays City Manager as a nonpartisan incumbent/current official. On budgeting, Dougherty's public style is cautious and maintenance-first. He defended exceeding the revenue-neutral rate in 2024 by saying city costs rise over time and that static tax collections are not sustainable. In 2025, he described the 2026 budget as... That same operating philosophy shows up in infrastructure comments. In Strong Towns material, Hays is presented as a city using data to prioritize sewer maintenance, street improvements, transportation changes, civic boards, and downtown reinvestment. At a 20... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 29 source-backed actions across 6 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: \"url\": \"https://www.haysusa.com/335/Public-Library-Board\". Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "status: no_verified_candidate_controlled_campaign_social_feed; checked: Official City of Hays staff profile; City Manager's Office; City Commission agendas/minutes/video/audio infrastructure; Hays Post; HPPR / KLC Journal; Kansas Reflector; KCUR / Kansas News Service; Strong Towns; Facebook public search / city statements; LinkedIn public previews; X/Twitter; Instagram; Threads; Bluesky; TikTok; Substack; YouTube; Reddit; relevance: Use visible absence of a verified personal/campaign feed as a footprint signal only. Do not infer private views, follows, likes, or platform activity.; sourceIds: s-local-social-harvest",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. The public record around Dougherty is overwhelmingly professional and administrative, with very little reporting on his personal or religious life.",
   "campaignFinance": {
@@ -657,6 +659,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Staff Directory - Toby Dougherty"
   },
+  "socialResearchNote": "19 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-hays-staff-profile",

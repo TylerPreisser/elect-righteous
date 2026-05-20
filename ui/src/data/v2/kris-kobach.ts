@@ -1201,7 +1201,17 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Accessible official and candidate-controlled sources support treating Kobach as the incumbent Republican running for Kansas attorney general re-election in 2026. The live SOS filed-candidates list was blocked in this environment; KPDC lists him under Attorney General Candidates and his campaign says he filed January 8, 2026.",
+  "recordSummary": "The rendered record now contains 60 source-backed actions across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: Kansas Reflector: Senate adopts plan to elect Supreme Court justices. Abortion / life: NPR: Kansas voters decide 'no' on abortion amendment. Abortion / life: NPR: Abortion rights supporters and opponents look for lessons. Abortion / life: Ballotpedia: Kansas No State Constitutional Right to Abortion Amendment (2022)). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public reporting ties Kobach to Morning Star Church in Lawrence. The church website is https://msclawrence.com/, and local reporting has referred to it as his church.",
+  "campaignFinance": {
+    "totalRaised": "$2",
+    "narrative": "Across the accessible public set reviewed, Kobach presents the 2026 attorney general race less as a new persuasion campaign than as a continuation of the same governing brand he has used in office: litigation, immigration enforcement, public safety, and resis... Sunflower State Journal: Fundraising for opposing campaign approaches $2 million. > -- Kansas Reflector, January 19, 2026. Kansas Reflector: Millionaire candidates (Jan 19, 2026). Finance figures are shown only when the reporting period/source was preserved in the evidence matrix; otherwise this remains a research caveat.",
+    "donors": [],
+    "undisclosed": "No donor-by-donor list is rendered unless the donor name, amount, and reporting source were all separated cleanly.",
+    "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
+    "source": "Fec (https://www.fec.gov/data/legal/matter-under-review/7636/)"
+  },
+  "socialResearchNote": "46 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info-2026",

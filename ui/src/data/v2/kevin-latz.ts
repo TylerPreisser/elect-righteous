@@ -180,6 +180,7 @@ export const KEVIN_LATZ_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Kevin Latz appears in current Kansas U.S. Senate filing material as a Democratic candidate from Mission Hills. This pass did not find a candidate-controlled platform or public elected record.",
   "recordSummary": "The verified record is limited to candidate-filing appearances. The profile is intentionally sparse until a candidate-controlled platform, FEC committee page, or reliable coverage is captured.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records for this pass",
     "narrative": "No donor-by-donor public finance interpretation is made from the available records in this pass.",

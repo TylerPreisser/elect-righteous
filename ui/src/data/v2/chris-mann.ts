@@ -785,7 +785,18 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       ]
     }
   ],
+  "whoTheyAre": "Chris Mann is profiled here for Attorney General candidate as a Democratic. Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communi... Rule of law, constitutional rights, and family safety recur across platforms, but usually as part of the law-enforcement frame rather than as a long list of policy positions. His website says he will \"defend the Constitution\" and \"protect the rule of law\" (so... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 33 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Kansas Reflector: Gender Marker $1 Fine. Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Education / curriculum / schools: Kansas State Department of Education: District 5. Education / curriculum / schools: Kansas Reflector: Board races could shift power to conservative bloc. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Mann's campaign uses faith language in places, but the source material does not name a congregation or church website.",
+  "campaignFinance": {
+    "totalRaised": "Not itemized in rendered profile",
+    "narrative": "Mann's public social footprint is present but less open than some candidates' feeds. The campaign website links Facebook, X, and Instagram directly (source). Facebook metadata showed 2,730 likes and 1,083 talking about this; Instagram metadata showed 739 foll... https://chrismannforkansas.com/mann-more-than-doubles-fundraising-from-22-attorney-generals-race/. KPDC statewide 2026 index: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm. KPDC Mann 202601 report: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02CM_202601.pdf. Finance figures are shown only when the reporting period/source was preserved in the evidence matrix; otherwise this remains a research caveat.",
+    "donors": [],
+    "undisclosed": "No donor-by-donor list is rendered unless the donor name, amount, and reporting source were all separated cleanly.",
+    "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
+    "source": "Fec (https://www.fec.gov/data/elections/house/KS/01/2026/)"
+  },
+  "socialResearchNote": "28 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-sos-candidate-info-2026",
