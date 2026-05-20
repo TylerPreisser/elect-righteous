@@ -1,0 +1,1032 @@
+{
+  "candidateSlug": "damon-anderson",
+  "generated": "2026-05-20T18:05:00Z",
+  "sourceFiles": [
+    "memory/candidates/damon-anderson/social-harvest.md",
+    "memory/candidates/damon-anderson/evidence-matrix.json"
+  ],
+  "platformPresence": [],
+  "signals": [
+    {
+      "id": "soc-damon-anderson-0001",
+      "evidenceRowId": "em-damon-anderson-00015",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:22",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2,
+        8
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights",
+        "Immigration / border"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "LGBTQ and reproductive-rights positions: Anderson's campaign states support for the LGBTQ+ community and says he is pro-choice while also saying he respects those who disagree.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:22",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l22",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l22",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l22",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l22"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0002",
+      "evidenceRowId": "em-damon-anderson-00014",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:21",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3,
+        5,
+        6,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools",
+        "Taxes / spending / debt",
+        "Economy / jobs / labor",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Where they stand on big issues: Anderson's campaign states support for affordable health care and prescription drugs, public education investments, tech-sector growth with guardrails, AI regulation, strong-border immigration reform with E-Verify and guest-worker systems, small-farmer agriculture policy, labor-union support, a balanced-budget amendment, public prison reform, and public-service accountability before privatization.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:21",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l21",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l21",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l21",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l21"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0003",
+      "evidenceRowId": "em-damon-anderson-00013",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:20",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        8,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Immigration / border",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Money in politics / ethics reform: Anderson's campaign says Washington answers too much to corporate donors, lobbyists, and party leadership; his reform list includes overturning Citizens United, limiting leadership PACs, banning congressional stock trading, limiting lobbying after office, strengthening donor disclosure, and increasing bill transparency.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:20",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l20",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l20",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l20",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l20"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0004",
+      "evidenceRowId": "em-damon-anderson-00017",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:26",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9,
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:26",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l26",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l26",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l26",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l26"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0005",
+      "evidenceRowId": "em-damon-anderson-00012",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:19",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "weak",
+      "useDecision": "use-with-caveat",
+      "confidence": "weak-signal",
+      "observation": "Ballot / filing status: Anderson is presented in the reviewed Kansas filing source as a Democratic U.S. Senate candidate for the 2026 cycle.",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:19",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l19",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l19",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l19",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l19"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0006",
+      "evidenceRowId": "em-damon-anderson-00170",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/elections.ts:51",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Immigration / border",
+        "Health care / insurance / Medicaid",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "likely",
+      "observation": "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/elections.ts:51",
+      "sourceIds": [
+        "mem-ui-src-data-elections-ts-l51"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0007",
+      "evidenceRowId": "em-damon-anderson-00324",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "ui/src/data/elections.ts:346",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        8,
+        10,
+        11
+      ],
+      "issueLabels": [
+        "Immigration / border",
+        "Election integrity / voting / courts",
+        "Public safety / law enforcement / criminal justice"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "likely",
+      "observation": "\"This is not a person you are voting for — it is a change to the Kansas Constitution itself. Right now, Kansas Supreme Court justices are picked by a nonpartisan commission and then confirmed by the governor. This amendment would change that so the governor picks them directly and the Senate confirms them, more like how federal judges work. Once a constitutional amendment passes, it cannot be undone by the legislature — only another vote of the people can reverse it.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/elections.ts:346",
+      "sourceIds": [
+        "mem-ui-src-data-elections-ts-l346"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0008",
+      "evidenceRowId": "em-damon-anderson-00032",
+      "platform": "Public web / internal harvest",
+      "actionType": "follow",
+      "target": "memory/candidates/damon-anderson/v2-issues.yaml:17",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "likely",
+      "observation": "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/v2-issues.yaml:17",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l17"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0009",
+      "evidenceRowId": "em-damon-anderson-00336",
+      "platform": "Public web / internal harvest",
+      "actionType": "follow",
+      "target": "ui/src/data/v2/damon-anderson.ts:114",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9,
+        13
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "likely",
+      "observation": "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/damon-anderson.ts:114",
+      "sourceIds": [
+        "mem-ui-src-data-v2-damon-anderson-ts-l114"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0010",
+      "evidenceRowId": "em-damon-anderson-00001",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Damon Anderson - in their own words",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:1",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0011",
+      "evidenceRowId": "em-damon-anderson-00002",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Generated: 2026-05-20",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:3",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l3",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l3",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l3",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0012",
+      "evidenceRowId": "em-damon-anderson-00004",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:6",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Scope",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:6",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l6",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l6",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l6",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l6"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0013",
+      "evidenceRowId": "em-damon-anderson-00006",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:10",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Current profile status",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:10",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l10",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l10",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l10",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l10"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0014",
+      "evidenceRowId": "em-damon-anderson-00007",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:12",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Slug: damon-anderson",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:12",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l12",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l12",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l12",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l12",
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l2",
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l6",
+        "mem-ui-src-data-v2-damon-anderson-ts-l10"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0015",
+      "evidenceRowId": "em-damon-anderson-00011",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:17",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Evidence summary",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:17",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l17",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l17",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l17",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l17"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0016",
+      "evidenceRowId": "em-damon-anderson-00020",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/social-harvest.md:1",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "weak-signal",
+      "observation": "Damon Anderson - social harvest",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/social-harvest.md:1",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l1"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0017",
+      "evidenceRowId": "em-damon-anderson-00081",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/damon-anderson/v2-issues.yaml:132",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        1,
+        2
+      ],
+      "issueLabels": [
+        "Abortion / life",
+        "LGBT / gender / parental rights"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"body\": \"The campaign issue page includes explicit LGBTQ+ rights and reproductive-rights sections rather than requiring inference from social-media behavior.\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/v2-issues.yaml:132",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l132",
+        "mem-ui-src-data-v2-damon-anderson-ts-l95"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0018",
+      "evidenceRowId": "em-damon-anderson-00255",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "ui/src/data/elections.ts:223",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        3
+      ],
+      "issueLabels": [
+        "Education / curriculum / schools"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Board members influence what schools teach, how districts are judged, and what statewide education debates look like for years to come.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/elections.ts:223",
+      "sourceIds": [
+        "mem-ui-src-data-elections-ts-l223"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0019",
+      "evidenceRowId": "em-damon-anderson-00090",
+      "platform": "Public web / internal harvest",
+      "actionType": "absence",
+      "target": "memory/candidates/damon-anderson/v2-issues.yaml:153",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        4,
+        13
+      ],
+      "issueLabels": [
+        "Religious liberty / church / civic morality",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/v2-issues.yaml:153",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l153"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-damon-anderson-0020",
+      "evidenceRowId": "em-damon-anderson-00272",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "ui/src/data/elections.ts:249",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        12,
+        13,
+        14
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics",
+        "Environment / energy / land use"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/elections.ts:249",
+      "sourceIds": [
+        "mem-ui-src-data-elections-ts-l249"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0021",
+      "evidenceRowId": "em-damon-anderson-00273",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "ui/src/data/elections.ts:251",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        5,
+        6,
+        8,
+        10,
+        12,
+        13
+      ],
+      "issueLabels": [
+        "Taxes / spending / debt",
+        "Economy / jobs / labor",
+        "Immigration / border",
+        "Election integrity / voting / courts",
+        "Agriculture / rural economy / water",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"The Hays city commission is the group that runs the city. Five commissioners and a mayor set water rates, approve new housing developments, hire the city manager, decide where tax money goes, and vote on everything from road repairs to whether a new business gets built. The city manager handles day-to-day operations. These are the people who decide what Hays looks like, how much city services cost, and how the city grows.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/elections.ts:251",
+      "sourceIds": [
+        "mem-ui-src-data-elections-ts-l251"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0022",
+      "evidenceRowId": "em-damon-anderson-00330",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "ui/src/data/elections.ts:365",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "\"This is a vote on whether to add the words \\\"only a citizen of the United States\\\" to the Kansas Constitution's voting requirements. Kansas law already requires citizenship to vote, so supporters say this just makes it explicit in the constitution. Opponents say it solves a problem that doesn't exist and could be used to justify stricter ID requirements down the road. Like all constitutional amendments, once it passes it stays until the people vote again to change it.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/elections.ts:365",
+      "sourceIds": [
+        "mem-ui-src-data-elections-ts-l365"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0023",
+      "evidenceRowId": "em-damon-anderson-00334",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "ui/src/data/v2/damon-anderson.ts:3",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "ambiguous",
+      "useDecision": "background-only",
+      "confidence": "unknown",
+      "observation": "node scripts/hydrate-v2-social-signals.mjs",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/v2/damon-anderson.ts:3",
+      "sourceIds": [
+        "mem-ui-src-data-v2-damon-anderson-ts-l3"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0024",
+      "evidenceRowId": "em-damon-anderson-00228",
+      "platform": "Public web / internal harvest",
+      "actionType": "post",
+      "target": "ui/src/data/elections.ts:164",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "likely",
+      "observation": "\"The treasurer race was missing from the site. It now includes the confirmed statewide filing row for incumbent Steven Johnson and the KPDC account record for Eric Lund, with final ballot status still subject to official post-deadline verification.\",",
+      "sourceUrl": null,
+      "sourceFile": "ui/src/data/elections.ts:164",
+      "sourceIds": [
+        "mem-ui-src-data-elections-ts-l164"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0025",
+      "evidenceRowId": "em-damon-anderson-00003",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:4",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Agent: codex candidate-completeness generator",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:4",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l4",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l4",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l4",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l4",
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l4"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0026",
+      "evidenceRowId": "em-damon-anderson-00008",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:13",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10,
+        13
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts",
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Position: U.S. Senate candidate, Kansas",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:13",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l13",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l13",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l13",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l13",
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l9",
+        "mem-ui-src-data-v2-damon-anderson-ts-l13"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0027",
+      "evidenceRowId": "em-damon-anderson-00009",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:14",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        10
+      ],
+      "issueLabels": [
+        "Election integrity / voting / courts"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Election grouping: us-senate-2026",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:14",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l14",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l14",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l14",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l14"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0028",
+      "evidenceRowId": "em-damon-anderson-00010",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:15",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        13
+      ],
+      "issueLabels": [
+        "Local governance / transparency / ethics"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Incumbent: no",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:15",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l15",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l15",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l15",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l15"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0029",
+      "evidenceRowId": "em-damon-anderson-00016",
+      "platform": "Public web / internal harvest",
+      "actionType": "social-observation",
+      "target": "memory/candidates/damon-anderson/in-their-own-words.md:24",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "weak-signal",
+      "observation": "Source handling",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:24",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-in-their-own-words-md-l24",
+        "mem-memory-candidates-damon-anderson-raw-dump-v2-md-l24",
+        "mem-memory-candidates-damon-anderson-sleuth-pass-md-l24",
+        "mem-memory-candidates-damon-anderson-social-harvest-md-l24"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0030",
+      "evidenceRowId": "em-damon-anderson-00111",
+      "platform": "Public web / internal harvest",
+      "actionType": "absence",
+      "target": "memory/elections/2026-11-03-us-senate-kansas.md:25",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [
+        9
+      ],
+      "issueLabels": [
+        "Health care / insurance / Medicaid"
+      ],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "2. **Chase LaPorte** -- Republican challenger. Limited public profile information available.",
+      "sourceUrl": null,
+      "sourceFile": "memory/elections/2026-11-03-us-senate-kansas.md:25",
+      "sourceIds": [
+        "mem-memory-elections-2026-11-03-us-senate-kansas-md-l25"
+      ],
+      "caveat": "Platform absence is a documented search result, not evidence of private belief or private activity."
+    },
+    {
+      "id": "soc-damon-anderson-0031",
+      "evidenceRowId": "em-damon-anderson-00064",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/damon-anderson/v2-issues.yaml:75",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"socialSignals\": []",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/v2-issues.yaml:75",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l75",
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l96",
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l117",
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l138",
+        "mem-ui-src-data-v2-damon-anderson-ts-l38",
+        "mem-ui-src-data-v2-damon-anderson-ts-l59",
+        "mem-ui-src-data-v2-damon-anderson-ts-l80",
+        "mem-ui-src-data-v2-damon-anderson-ts-l101"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0032",
+      "evidenceRowId": "em-damon-anderson-00069",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/damon-anderson/v2-issues.yaml:88",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"a-systemfix-platform\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/v2-issues.yaml:88",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l88",
+        "mem-ui-src-data-v2-damon-anderson-ts-l51"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0033",
+      "evidenceRowId": "em-damon-anderson-00071",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/damon-anderson/v2-issues.yaml:99",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"i-big-issues-platform\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/v2-issues.yaml:99",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l99",
+        "mem-ui-src-data-v2-damon-anderson-ts-l62"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    },
+    {
+      "id": "soc-damon-anderson-0034",
+      "evidenceRowId": "em-damon-anderson-00075",
+      "platform": "Public web / internal harvest",
+      "actionType": "online-reference",
+      "target": "memory/candidates/damon-anderson/v2-issues.yaml:109",
+      "observedAt": "2026-05-20",
+      "issueMappedTo": [],
+      "issueLabels": [],
+      "signalStrength": "not-usable",
+      "useDecision": "reject",
+      "confidence": "unknown",
+      "observation": "\"id\": \"a-issues-platform\",",
+      "sourceUrl": null,
+      "sourceFile": "memory/candidates/damon-anderson/v2-issues.yaml:109",
+      "sourceIds": [
+        "mem-memory-candidates-damon-anderson-v2-issues-yaml-l109",
+        "mem-ui-src-data-v2-damon-anderson-ts-l72"
+      ],
+      "caveat": "Observed online/social signal only; do not infer belief, endorsement, or policy position from this item alone."
+    }
+  ],
+  "issueCoverage": {
+    "1": {
+      "issue": "Abortion / life",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 1
+    },
+    "2": {
+      "issue": "LGBT / gender / parental rights",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 1
+    },
+    "3": {
+      "issue": "Education / curriculum / schools",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 1
+    },
+    "4": {
+      "issue": "Religious liberty / church / civic morality",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    },
+    "5": {
+      "issue": "Taxes / spending / debt",
+      "total": 4,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 3
+    },
+    "6": {
+      "issue": "Economy / jobs / labor",
+      "total": 2,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 1
+    },
+    "7": {
+      "issue": "Guns / Second Amendment",
+      "total": 0,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 0
+    },
+    "8": {
+      "issue": "Immigration / border",
+      "total": 6,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 3,
+      "ambiguous": 3
+    },
+    "9": {
+      "issue": "Health care / insurance / Medicaid",
+      "total": 6,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 2,
+      "ambiguous": 3
+    },
+    "10": {
+      "issue": "Election integrity / voting / courts",
+      "total": 12,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 4,
+      "ambiguous": 4
+    },
+    "11": {
+      "issue": "Public safety / law enforcement / criminal justice",
+      "total": 3,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 2
+    },
+    "12": {
+      "issue": "Agriculture / rural economy / water",
+      "total": 4,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 1,
+      "ambiguous": 3
+    },
+    "13": {
+      "issue": "Local governance / transparency / ethics",
+      "total": 14,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 4,
+      "ambiguous": 6
+    },
+    "14": {
+      "issue": "Environment / energy / land use",
+      "total": 1,
+      "strong": 0,
+      "moderate": 0,
+      "weak": 0,
+      "ambiguous": 1
+    }
+  },
+  "caveats": [
+    "Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.",
+    "Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.",
+    "Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence."
+  ]
+}

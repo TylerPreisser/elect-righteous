@@ -1,0 +1,685 @@
+{
+  "candidateSlug": "damon-anderson",
+  "generated": "2026-05-20T18:05:00Z",
+  "sourceCount": 17,
+  "sources": [
+    {
+      "sourceId": "src-damon-anderson-0001",
+      "url": "https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS",
+      "sourceFile": "memory/candidates/damon-anderson/v2-issues.yaml:29",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-damon-anderson-00042"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-damon-anderson-0002",
+      "url": "https://www.fec.gov/data/elections/senate/KS/2026/",
+      "sourceFile": "memory/elections/2026-11-03-us-senate-kansas.md:39",
+      "assignedTiers": [
+        "primary"
+      ],
+      "recommendedTier": "primary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "donor/funding"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-damon-anderson-00122"
+      ],
+      "claimsAnchored": [
+        "https://www.fec.gov/data/elections/senate/KS/2026/ -- FEC filing data -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-damon-anderson-0003",
+      "url": "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026",
+      "sourceFile": "memory/elections/2026-11-03-us-senate-kansas.md:35",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-damon-anderson-00118"
+      ],
+      "claimsAnchored": [
+        "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026 -- Full election overview -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-damon-anderson-0004",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+      "sourceFile": "memory/elections/2026-11-03-us-senate-kansas.md:36",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "ballot status"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-damon-anderson-00119"
+      ],
+      "claimsAnchored": [
+        "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates -- KCUR comprehensive candidate guide -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-damon-anderson-0005",
+      "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
+      "sourceFile": "memory/elections/2026-11-03-us-senate-kansas.md:37",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": false,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "use"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-damon-anderson-00120"
+      ],
+      "claimsAnchored": [
+        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas -- Wikipedia election page -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-damon-anderson-0006",
+      "url": null,
+      "sourceFile": "memory/candidates/damon-anderson/in-their-own-words.md:22",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "campaign statement",
+        "donor/funding",
+        "ballot status",
+        "biography",
+        "public office"
+      ],
+      "useDecisions": [
+        "use-with-caveat",
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 16,
+      "rowIds": [
+        "em-damon-anderson-00015",
+        "em-damon-anderson-00014",
+        "em-damon-anderson-00013",
+        "em-damon-anderson-00017",
+        "em-damon-anderson-00012",
+        "em-damon-anderson-00001",
+        "em-damon-anderson-00002",
+        "em-damon-anderson-00004",
+        "em-damon-anderson-00006",
+        "em-damon-anderson-00007",
+        "em-damon-anderson-00011",
+        "em-damon-anderson-00003",
+        "em-damon-anderson-00008",
+        "em-damon-anderson-00009",
+        "em-damon-anderson-00010",
+        "em-damon-anderson-00016"
+      ],
+      "claimsAnchored": [
+        "LGBTQ and reproductive-rights positions: Anderson's campaign states support for the LGBTQ+ community and says he is pro-choice while also saying he respects those who disagree.",
+        "Where they stand on big issues: Anderson's campaign states support for affordable health care and prescription drugs, public education investments, tech-sector growth with guardrails, AI regulation, strong-border immigration reform with E-Verify and guest-work",
+        "Money in politics / ethics reform: Anderson's campaign says Washington answers too much to corporate donors, lobbyists, and party leadership; his reform list includes overturning Citizens United, limiting leadership PACs, banning congressional stock trading, l",
+        "Primary sources are treated first. Candidate-controlled campaign pages are used for stated positions. Social-media or online-presence observations are not used to infer belief unless the observed item itself is issue-relevant and cited.",
+        "Ballot / filing status: Anderson is presented in the reviewed Kansas filing source as a Democratic U.S. Senate candidate for the 2026 cycle.",
+        "Damon Anderson - in their own words",
+        "Generated: 2026-05-20",
+        "Scope",
+        "Current profile status",
+        "Slug: damon-anderson",
+        "Evidence summary"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-damon-anderson-0007",
+      "url": "https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/",
+      "sourceFile": "memory/elections/2026-11-03-us-senate-kansas.md:38",
+      "assignedTiers": [
+        "secondary"
+      ],
+      "recommendedTier": "secondary",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-damon-anderson-00121"
+      ],
+      "claimsAnchored": [
+        "https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/ -- Kansas Reflector March 2026 update -- accessed 2026-03-30"
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-damon-anderson-0008",
+      "url": "https://www.andersonforkansas.com/",
+      "sourceFile": "memory/candidates/damon-anderson/v2-issues.yaml:13",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-damon-anderson-00028"
+      ],
+      "claimsAnchored": [
+        "\"campaignWebsite\": \"https://www.andersonforkansas.com/\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-damon-anderson-0009",
+      "url": "https://www.andersonforkansas.com/issues",
+      "sourceFile": "memory/candidates/damon-anderson/v2-issues.yaml:40",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-damon-anderson-00047"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.andersonforkansas.com/issues\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-damon-anderson-0010",
+      "url": "https://www.andersonforkansas.com/systemfix",
+      "sourceFile": "memory/candidates/damon-anderson/v2-issues.yaml:51",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "not-live-checked",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "source-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-damon-anderson-00051"
+      ],
+      "claimsAnchored": [
+        "\"url\": \"https://www.andersonforkansas.com/systemfix\","
+      ],
+      "notes": "Tier classified by URL/domain; live HTTP check deferred to avoid treating transient platform blocks as source failure."
+    },
+    {
+      "sourceId": "src-damon-anderson-0011",
+      "url": null,
+      "sourceFile": "ui/src/data/elections.ts:344",
+      "assignedTiers": [
+        "primary",
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "donor/funding",
+        "voting record",
+        "legal/court",
+        "ballot status",
+        "social post",
+        "biography",
+        "public office",
+        "campaign statement"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 204,
+      "rowIds": [
+        "em-damon-anderson-00323",
+        "em-damon-anderson-00170",
+        "em-damon-anderson-00214",
+        "em-damon-anderson-00321",
+        "em-damon-anderson-00322",
+        "em-damon-anderson-00324",
+        "em-damon-anderson-00215",
+        "em-damon-anderson-00283",
+        "em-damon-anderson-00315",
+        "em-damon-anderson-00316",
+        "em-damon-anderson-00329",
+        "em-damon-anderson-00247",
+        "em-damon-anderson-00206",
+        "em-damon-anderson-00207",
+        "em-damon-anderson-00229",
+        "em-damon-anderson-00246",
+        "em-damon-anderson-00248",
+        "em-damon-anderson-00249",
+        "em-damon-anderson-00250",
+        "em-damon-anderson-00255",
+        "em-damon-anderson-00256",
+        "em-damon-anderson-00298",
+        "em-damon-anderson-00299",
+        "em-damon-anderson-00300",
+        "em-damon-anderson-00311",
+        "em-damon-anderson-00312",
+        "em-damon-anderson-00313",
+        "em-damon-anderson-00314",
+        "em-damon-anderson-00168",
+        "em-damon-anderson-00183",
+        "em-damon-anderson-00230",
+        "em-damon-anderson-00271",
+        "em-damon-anderson-00272",
+        "em-damon-anderson-00273",
+        "em-damon-anderson-00280",
+        "em-damon-anderson-00281",
+        "em-damon-anderson-00296",
+        "em-damon-anderson-00182",
+        "em-damon-anderson-00223",
+        "em-damon-anderson-00238",
+        "em-damon-anderson-00222",
+        "em-damon-anderson-00270",
+        "em-damon-anderson-00205",
+        "em-damon-anderson-00231",
+        "em-damon-anderson-00232",
+        "em-damon-anderson-00237",
+        "em-damon-anderson-00131",
+        "em-damon-anderson-00136",
+        "em-damon-anderson-00137",
+        "em-damon-anderson-00148"
+      ],
+      "claimsAnchored": [
+        "\"Judicial selection changes can outlast any single election cycle and affect abortion law, school funding, constitutional rights, and the court's independence from direct political pressure.\",",
+        "\"A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If",
+        "\"This office decides which lawsuits Kansas joins, which criminal or civil fights get statewide attention, and how aggressively state law is enforced in court.\",",
+        "\"A constitutional amendment that would change how Kansans choose state Supreme Court justices.\",",
+        "\"This August 4, 2026 measure would reshape how Kansas Supreme Court justices are selected. It is one of the most important statewide ballot questions because it changes the rules, not just the people involved.\",",
+        "\"This is not a person you are voting for — it is a change to the Kansas Constitution itself. Right now, Kansas Supreme Court justices are picked by a nonpartisan commission and then confirmed by the governor. This amendment would change that so the governor pi",
+        "\"The attorney general is Kansas's top lawyer. They decide which lawsuits the state files or joins, prosecute major crimes that cross county lines, protect consumers from scams, and defend or challenge state laws in court. If a company rips off Kansans, if ther",
+        "name: \"Ellis County Officials — Not on 2026 Ballot\",",
+        "slug: \"supreme-court-amendment\",",
+        "name: \"Supreme Court Amendment\",",
+        "\"Even when a measure changes little on day one, it can shape future voting laws and court fights by changing the language written into the state constitution itself.\",",
+        "\"Your state representative is one of 125 members of the Kansas House. They vote on every state law — property taxes, school funding, criminal penalties, road projects, gun laws, abortion policy, and the state budget. District 111 covers the Hays area, so this "
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-damon-anderson-0012",
+      "url": null,
+      "sourceFile": "memory/candidates/damon-anderson/v2-issues.yaml:17",
+      "assignedTiers": [
+        "primary",
+        "internal-memory",
+        "secondary"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social follow",
+        "ballot status",
+        "campaign statement",
+        "public absence",
+        "donor/funding",
+        "biography",
+        "legal/court",
+        "public office"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 64,
+      "rowIds": [
+        "em-damon-anderson-00032",
+        "em-damon-anderson-00091",
+        "em-damon-anderson-00031",
+        "em-damon-anderson-00045",
+        "em-damon-anderson-00076",
+        "em-damon-anderson-00078",
+        "em-damon-anderson-00081",
+        "em-damon-anderson-00079",
+        "em-damon-anderson-00073",
+        "em-damon-anderson-00090",
+        "em-damon-anderson-00070",
+        "em-damon-anderson-00027",
+        "em-damon-anderson-00029",
+        "em-damon-anderson-00049",
+        "em-damon-anderson-00067",
+        "em-damon-anderson-00022",
+        "em-damon-anderson-00025",
+        "em-damon-anderson-00030",
+        "em-damon-anderson-00035",
+        "em-damon-anderson-00037",
+        "em-damon-anderson-00038",
+        "em-damon-anderson-00041",
+        "em-damon-anderson-00055",
+        "em-damon-anderson-00057",
+        "em-damon-anderson-00059",
+        "em-damon-anderson-00063",
+        "em-damon-anderson-00066",
+        "em-damon-anderson-00087",
+        "em-damon-anderson-00089",
+        "em-damon-anderson-00026",
+        "em-damon-anderson-00044",
+        "em-damon-anderson-00082",
+        "em-damon-anderson-00083",
+        "em-damon-anderson-00084",
+        "em-damon-anderson-00085",
+        "em-damon-anderson-00021",
+        "em-damon-anderson-00023",
+        "em-damon-anderson-00024",
+        "em-damon-anderson-00033",
+        "em-damon-anderson-00034",
+        "em-damon-anderson-00036",
+        "em-damon-anderson-00039",
+        "em-damon-anderson-00056",
+        "em-damon-anderson-00060",
+        "em-damon-anderson-00062",
+        "em-damon-anderson-00068",
+        "em-damon-anderson-00072",
+        "em-damon-anderson-00074",
+        "em-damon-anderson-00086",
+        "em-damon-anderson-00088"
+      ],
+      "claimsAnchored": [
+        "\"social_presence_note\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\"",
+        "\"Final certified ballot status must be rechecked after the 2026 Kansas filing deadline and official list publication.\"",
+        "\"ownWordsNarrative\": \"Anderson's own campaign repeatedly frames the race around reducing the influence of corporate money, lobbyists, and party leadership. His issue page contains explicit stated positions on health care, education, AI regulation, immigration,",
+        "\"Campaign states positions on health care, education, tech, AI, immigration, agriculture, labor, balanced budget, prison reform, privatization, LGBTQ rights, and reproductive rights\"",
+        "\"body\": \"The campaign published a detailed issue page covering health care, education, technology, AI, immigration, agriculture, labor, budget policy, prison reform, privatization, LGBTQ rights, and reproductive rights.\",",
+        "\"title\": \"LGBTQ and reproductive-rights positions\",",
+        "\"body\": \"The campaign issue page includes explicit LGBTQ+ rights and reproductive-rights sections rather than requiring inference from social-media behavior.\",",
+        "\"text\": \"Anderson's campaign states support for the LGBTQ+ community and says he is pro-choice while also saying he respects those who disagree.\",",
+        "\"text\": \"Anderson's campaign states support for affordable health care and prescription drugs, public education investments, tech-sector growth with guardrails, AI regulation, strong-border immigration reform with E-Verify and guest-worker systems, small-farme",
+        "\"Sparse profiles are intentionally labeled as sparse. The page may say no candidate-controlled issue platform was found, but it does not infer positions from party, faith, follows, likes, comments, or associations.\",",
+        "\"body\": \"The campaign published a dedicated 'Fixing the System' page tying its agenda to campaign-finance reform, lobbying limits, stock-trading limits, transparency, and budget accountability.\",",
+        "\"occupation\": \"Business owner / entrepreneur\","
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-damon-anderson-0013",
+      "url": null,
+      "sourceFile": "ui/src/data/v2/damon-anderson.ts:114",
+      "assignedTiers": [
+        "primary",
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "social follow",
+        "ballot status",
+        "donor/funding",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 14,
+      "rowIds": [
+        "em-damon-anderson-00336",
+        "em-damon-anderson-00338",
+        "em-damon-anderson-00342",
+        "em-damon-anderson-00043",
+        "em-damon-anderson-00335",
+        "em-damon-anderson-00048",
+        "em-damon-anderson-00052",
+        "em-damon-anderson-00333",
+        "em-damon-anderson-00334",
+        "em-damon-anderson-00337",
+        "em-damon-anderson-00339",
+        "em-damon-anderson-00340",
+        "em-damon-anderson-00341",
+        "em-damon-anderson-00343"
+      ],
+      "claimsAnchored": [
+        "\"socialResearchNote\": \"Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.\",",
+        "const result = validateCandidateV2(DAMON_ANDERSON_V2);",
+        "\"[damon-anderson.ts] validateCandidateV2 FAILED:\\n\" +",
+        "\"title\": \"Candidate Filing Info - United States Senate, Kansas\",",
+        "\"campaignFinance\": {",
+        "\"title\": \"Where I Stand\",",
+        "\"title\": \"Fixing the System\",",
+        "To refresh:",
+        "node scripts/hydrate-v2-social-signals.mjs",
+        "if (process.env.NODE_ENV !== \"production\") {",
+        "if (!result.ok) {",
+        "// eslint-disable-next-line no-console"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-damon-anderson-0014",
+      "url": null,
+      "sourceFile": "memory/candidates/damon-anderson/raw-dump-v2.md:8",
+      "assignedTiers": [
+        "primary",
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "donor/funding",
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 2,
+      "rowIds": [
+        "em-damon-anderson-00005",
+        "em-damon-anderson-00018"
+      ],
+      "claimsAnchored": [
+        "This artifact was created because the candidate-completeness audit found Damon Anderson in an official filing, FEC, KPDC, or current election source that was not yet represented as an individual v2 candidate page.",
+        "Damon Anderson - raw dump v2"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-damon-anderson-0015",
+      "url": null,
+      "sourceFile": "memory/elections/2026-11-03-us-senate-kansas.md:46",
+      "assignedTiers": [
+        "secondary",
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "endorsement",
+        "public office",
+        "ballot status",
+        "voting record",
+        "biography",
+        "campaign statement",
+        "legal/court",
+        "public absence"
+      ],
+      "useDecisions": [
+        "background-only",
+        "reject"
+      ],
+      "rowCount": 32,
+      "rowIds": [
+        "em-damon-anderson-00128",
+        "em-damon-anderson-00092",
+        "em-damon-anderson-00094",
+        "em-damon-anderson-00095",
+        "em-damon-anderson-00096",
+        "em-damon-anderson-00097",
+        "em-damon-anderson-00098",
+        "em-damon-anderson-00107",
+        "em-damon-anderson-00108",
+        "em-damon-anderson-00109",
+        "em-damon-anderson-00112",
+        "em-damon-anderson-00125",
+        "em-damon-anderson-00100",
+        "em-damon-anderson-00106",
+        "em-damon-anderson-00126",
+        "em-damon-anderson-00093",
+        "em-damon-anderson-00099",
+        "em-damon-anderson-00102",
+        "em-damon-anderson-00103",
+        "em-damon-anderson-00104",
+        "em-damon-anderson-00105",
+        "em-damon-anderson-00123",
+        "em-damon-anderson-00115",
+        "em-damon-anderson-00116",
+        "em-damon-anderson-00111",
+        "em-damon-anderson-00127",
+        "em-damon-anderson-00101",
+        "em-damon-anderson-00110",
+        "em-damon-anderson-00113",
+        "em-damon-anderson-00114",
+        "em-damon-anderson-00117",
+        "em-damon-anderson-00124"
+      ],
+      "claimsAnchored": [
+        "Cook Political Report rating for this seat should be checked closer to election.",
+        "U.S. Senate Election -- Kansas (Class II), 2026",
+        "Filing Deadline**: 2026-06-01 (noon)",
+        "Primary**: 2026-08-04",
+        "General Election**: 2026-11-03",
+        "Voter Registration Deadline (Primary)**: 2026-07-14",
+        "Voter Registration Deadline (General)**: 2026-10-13",
+        "Eligible Voters**: All registered Kansas voters",
+        "Declared Candidates",
+        "Republican Primary",
+        "Democratic Primary",
+        "The Democratic field is crowded (5 candidates) which may dilute fundraising and messaging."
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-damon-anderson-0016",
+      "url": null,
+      "sourceFile": "memory/candidates/damon-anderson/social-harvest.md:1",
+      "assignedTiers": [
+        "social"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": false,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-damon-anderson-00020"
+      ],
+      "claimsAnchored": [
+        "Damon Anderson - social harvest"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    },
+    {
+      "sourceId": "src-damon-anderson-0017",
+      "url": null,
+      "sourceFile": "memory/candidates/damon-anderson/sleuth-pass.md:1",
+      "assignedTiers": [
+        "internal-memory"
+      ],
+      "recommendedTier": "internal-memory",
+      "tierCorrect": true,
+      "status": "internal-file",
+      "evidenceTypes": [
+        "biography"
+      ],
+      "useDecisions": [
+        "background-only"
+      ],
+      "rowCount": 1,
+      "rowIds": [
+        "em-damon-anderson-00019"
+      ],
+      "claimsAnchored": [
+        "Damon Anderson - sleuth pass"
+      ],
+      "notes": "Internal candidate-memory source; use as context unless a public URL backs the claim."
+    }
+  ]
+}

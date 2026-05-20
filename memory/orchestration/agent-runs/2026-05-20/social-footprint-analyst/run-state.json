@@ -1,0 +1,47 @@
+{
+  "agent_id": "social-footprint-analyst",
+  "agent_role": "Social media intelligence analyst",
+  "candidate_slug": null,
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:05:00Z",
+  "completed_at": "2026-05-20T18:05:00Z",
+  "inputs_read": [
+    "memory/candidates/roger-marshall/social-harvest.md",
+    "memory/candidates/roger-marshall/evidence-matrix.json",
+    "memory/candidates/damon-anderson/social-harvest.md",
+    "memory/candidates/damon-anderson/evidence-matrix.json",
+    "memory/candidates/jason-hart/social-harvest.md",
+    "memory/candidates/jason-hart/evidence-matrix.json"
+  ],
+  "files_written": [
+    "memory/candidates/roger-marshall/social-evidence-matrix.json",
+    "memory/candidates/roger-marshall/social-analysis.md",
+    "memory/candidates/roger-marshall/agent-work/social-footprint-analyst/run-state.json",
+    "memory/candidates/roger-marshall/agent-work/social-footprint-analyst/notes.md",
+    "memory/candidates/roger-marshall/agent-work/social-footprint-analyst/handoff.md",
+    "memory/candidates/damon-anderson/social-evidence-matrix.json",
+    "memory/candidates/damon-anderson/social-analysis.md",
+    "memory/candidates/damon-anderson/agent-work/social-footprint-analyst/run-state.json",
+    "memory/candidates/damon-anderson/agent-work/social-footprint-analyst/notes.md",
+    "memory/candidates/damon-anderson/agent-work/social-footprint-analyst/handoff.md",
+    "memory/candidates/jason-hart/social-evidence-matrix.json",
+    "memory/candidates/jason-hart/social-analysis.md",
+    "memory/candidates/jason-hart/agent-work/social-footprint-analyst/run-state.json",
+    "memory/candidates/jason-hart/agent-work/social-footprint-analyst/notes.md",
+    "memory/candidates/jason-hart/agent-work/social-footprint-analyst/handoff.md",
+    "memory/orchestration/agent-runs/2026-05-20/social-footprint-analyst/run-state.json",
+    "memory/orchestration/agent-runs/2026-05-20/social-footprint-analyst/notes.md",
+    "memory/orchestration/agent-runs/2026-05-20/social-footprint-analyst/outputs.md",
+    "memory/orchestration/agent-runs/2026-05-20/social-footprint-analyst/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs roger-marshall damon-anderson jason-hart"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run source-tier-validator for the same candidates if not already complete."
+  ],
+  "handoff_summary": "Classified social evidence for roger-marshall, damon-anderson, jason-hart."
+}

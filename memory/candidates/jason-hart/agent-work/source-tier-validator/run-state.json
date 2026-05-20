@@ -1,0 +1,28 @@
+{
+  "agent_id": "source-tier-validator",
+  "agent_role": "Source quality auditor",
+  "candidate_slug": "jason-hart",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T18:05:00Z",
+  "completed_at": "2026-05-20T18:05:00Z",
+  "inputs_read": [
+    "memory/candidates/jason-hart/evidence-matrix.json"
+  ],
+  "files_written": [
+    "memory/candidates/jason-hart/source-audit.json",
+    "memory/candidates/jason-hart/source-audit.md",
+    "memory/candidates/jason-hart/agent-work/source-tier-validator/run-state.json",
+    "memory/candidates/jason-hart/agent-work/source-tier-validator/notes.md",
+    "memory/candidates/jason-hart/agent-work/source-tier-validator/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-social-and-source-passes.mjs roger-marshall damon-anderson jason-hart"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Use source-audit.md during fixed-issue-matrix-builder for jason-hart."
+  ],
+  "handoff_summary": "Audited 260 unique source records for jason-hart."
+}

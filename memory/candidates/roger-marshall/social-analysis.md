@@ -1,0 +1,73 @@
+# Social Analysis — roger-marshall — 2026-05-20
+
+## Scope
+Read social-harvest.md and 6188 evidence-matrix rows; classified 693 social/online/platform observations.
+
+## Platform Presence
+- X / Twitter: [@RogerMarshallMD](https://x.com/RogerMarshallMD) — 79K followers visible in indexed profile snippets — active; direct X timeline was walled, but individual posts were available through X oEmbed, indexed embeds, and public-news captures.
+- Facebook: [Senator Roger Marshall, M.D.](https://www.facebook.com/RogerMarshallMD/) — 59,371 likes in the March 30 local raw capture — active; direct page was blocked at capture.
+- YouTube: [official Senate YouTube link from Senate site](https://www.youtube.com/) — active enough for official-video links from the Senate site; channel-level count not visible at capture.
+- Instagram: [@senrogermarshall](https://www.instagram.com/senrogermarshall/) — about 13,000 followers and 1,570 posts in the March 30 local raw capture; direct page was walled at capture.
+- LinkedIn: No confirmed candidate-controlled profile found in the public search pass.
+- Truth Social: No confirmed candidate-controlled account found in the public search pass; Donald Trump Truth Social posts about Marshall are publicly mirrored in news coverage.
+- Gab: Not found.
+- Gettr: Public record shows a 2022 account announcement for @RogerMarshallMD; no current active public harvest was accessible.
+- Substack: No candidate-controlled Substack found. The official Senate newsletter is [A Doctor's Note](https://www.marshall.senate.gov/).
+- Reddit: Skip; no candidate-controlled account found.
+- TikTok: Skip; no candidate-controlled account found.
+- Rumble: Senate site links to Rumble, but account-level detail was not accessible in this capture.
+
+## Issue Coverage
+| Issue | Title                                              | Total | Strong | Moderate | Weak | Ambiguous |
+| ----- | -------------------------------------------------- | ----- | ------ | -------- | ---- | --------- |
+| 1     | Abortion / life                                    | 12    | 0      | 0        | 0    | 8         |
+| 2     | LGBT / gender / parental rights                    | 7     | 0      | 0        | 2    | 2         |
+| 3     | Education / curriculum / schools                   | 40    | 3      | 0        | 8    | 19        |
+| 4     | Religious liberty / church / civic morality        | 49    | 0      | 0        | 0    | 29        |
+| 5     | Taxes / spending / debt                            | 24    | 3      | 1        | 4    | 13        |
+| 6     | Economy / jobs / labor                             | 40    | 5      | 0        | 14   | 14        |
+| 7     | Guns / Second Amendment                            | 2     | 0      | 0        | 0    | 1         |
+| 8     | Immigration / border                               | 78    | 6      | 5        | 11   | 44        |
+| 9     | Health care / insurance / Medicaid                 | 135   | 7      | 6        | 25   | 75        |
+| 10    | Election integrity / voting / courts               | 82    | 4      | 1        | 12   | 48        |
+| 11    | Public safety / law enforcement / criminal justice | 16    | 0      | 1        | 2    | 9         |
+| 12    | Agriculture / rural economy / water                | 44    | 3      | 1        | 13   | 20        |
+| 13    | Local governance / transparency / ethics           | 203   | 13     | 5        | 48   | 91        |
+| 14    | Environment / energy / land use                    | 14    | 2      | 0        | 2    | 7         |
+
+## Representative Signals
+- **strong / bizpacreview.com / post** — Marshall’s public alignment network is concentrated around President Trump, Senate Republicans, Kansas agriculture groups, and selected bipartisan health or food-policy partners. In the [captured sample](social-harvest.md), @POTUS or @realDonaldTrump appears in 6 items, more than any other named account or public figure. On January 13, 2026, after Trump post (https://www.bizpacreview.com/2026/01/13/elizabeth-warren-brags-about-how-president-trump-called-her-1615749/)
+- **strong / marshall.senate.gov / post** — For Kansas-specific engagement, Marshall’s official feed and Senate site include rural healthcare, small business tax policy, agriculture, cattle, school milk, fertilizer, and in-person stops across the state. On April 28, 2026, his office quoted him saying, "Kansas farmers are getting hit by a fertilizer market that’s working against them" ([source](https:/ (https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-drops-bill-to-cut-fertilizer-costs-for-american-farmers/)
+- **strong / wibw.com / post** — Capture source: [WIBW article embedding the post](https://www.wibw.com/2026/01/14/president-trump-signs-senator-marshalls-bill-allowing-schools-serve-whole-milk/) (https://www.wibw.com/2026/01/14/president-trump-signs-senator-marshalls-bill-allowing-schools-serve-whole-milk/)
+- **strong / kshb.com / post** — On national and foreign-policy questions, Marshall’s captured posts name Trump or administration officials on Ukraine, Iran, border enforcement, federal spending, and Senate procedure. After the February 2025 Oval Office meeting with Ukrainian President Volodymyr Zelenskyy, he posted, "Thank you, @POTUS and @VP, for standing up for America" ([source](https:/ (https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting)
+- **strong / Bluesky / post** — Her Kansas-specific campaign posts use statewide household and healthcare language more than county-by-county policy detail. On Dec. 18, 2025, she posted, "Quick reality check, per AAA, the average gas price Kansans are paying is $2.526/gal. Finney County has the lowest average price at $2.174 and Lincoln County has the highest averaging almost $3.10/gal. Ka (https://bsky.app/profile/speumann.bsky.social/post/3mabdqda6fc2e)
+- **strong / hannity.com / post** — Capture source: [Hannity article embedding the post](https://hannity.com/media-room/the-trump-effect-apple-unveils-500b-investment-in-u-s-manufacturing-report/) (https://hannity.com/media-room/the-trump-effect-apple-unveils-500b-investment-in-u-s-manufacturing-report/)
+- **strong / Bluesky / post** — Across 45 Bluesky posts captured between August 17, 2025, and March 29, 2026, Davis's most frequent topic is federal accountability and opposition to named national political figures, a category that accounts for 16 posts, or 35.6 percent of the captured feed ([harvest](social-harvest.md)). On March 20, she posted, "Roger Marshall doesn't want voter ID. He w (https://bsky.app/profile/cdavis4kansas.bsky.social/post/3mhirokptnk2u)
+- **strong / Bluesky / post** — Across the [14 campaign-period original or quote Bluesky posts](./social-harvest.md#summary-counts) captured after her Oct. 16, 2025 launch, Sandy Spidel Neumann's repeated campaign subjects are Kansas costs, healthcare, farms, hospitals, families, and contrast with Sen. Roger Marshall. On launch day she posted, "Every Kansan deserves a fair shot: to afford  (https://bsky.app/profile/speumann.bsky.social/post/3m3dxmfk3z22f)
+- **strong / armstrongeconomics.com / post** — Capture source: [Armstrong Economics article embedding the post](https://www.armstrongeconomics.com/international-news/politics/anticipate-a-border-agent-exodus-under-kamala/) (https://www.armstrongeconomics.com/international-news/politics/anticipate-a-border-agent-exodus-under-kamala/)
+- **strong / redstate.com / post** — Capture source: [RedState article embedding the post](https://redstate.com/terichristoph/2024/10/15/not-good-yet-another-kamala-failure-as-memo-shows-30-of-security-cameras-on-southern-border-are-broken-n2180610) (https://redstate.com/terichristoph/2024/10/15/not-good-yet-another-kamala-failure-as-memo-shows-30-of-security-cameras-on-southern-border-are-broken-n2180610)
+- **strong / kshb.com / post** — Capture source: [KSHB article embedding the post](https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting) (https://www.kshb.com/news/local-news/kansas-missouri-political-leaders-offer-reaction-to-trump-zelenskyy-oval-office-meeting)
+- **strong / Bluesky / post** — The public alignment signal is more self-contained campaign infrastructure than cross-candidate amplification. The campaign site links voters to ActBlue, FEC, Kansas Secretary of State, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, and Threads, while the ActBlue page says, ["Michael Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate for Unit (https://secure.actblue.com/donate/michael-soetaert)
+- **strong / kcur.org / post** — Capture source: [KCUR article embedding the post](https://www.kcur.org/politics-elections-and-government/2025-06-22/kansas-city-congresspeople-react-u-s-strike-iran-we-strongly-support-president-trump) (https://www.kcur.org/politics-elections-and-government/2025-06-22/kansas-city-congresspeople-react-u-s-strike-iran-we-strongly-support-president-trump)
+- **strong / Facebook / post** — Facebook Video**: Spoke at Douglas County Democrats meeting about exploratory campaign ([facebook.com/dgcodems](https://www.facebook.com/dgcodems/videos/2299093513898616/)) (https://www.facebook.com/dgcodems/videos/2299093513898616/)
+- **strong / Facebook / post** — [Douglas County Democrats Facebook - Exploratory Campaign Video](https://www.facebook.com/dgcodems/videos/2299093513898616/) (https://www.facebook.com/dgcodems/videos/2299093513898616/)
+- **strong / Facebook / post** — Facebook (Official):** [musilcomish](https://www.facebook.com/musilcomish/) (https://www.facebook.com/musilcomish/)
+- **strong / YouTube / post** — YouTube: [official Senate YouTube link from Senate site](https://www.youtube.com/) — active enough for official-video links from the Senate site; channel-level count not visible at capture. (https://www.youtube.com/)
+- **strong / kctv5.com / post** — Capture source: [KCTV article embedding the post](https://www.kctv5.com/2025/07/01/local-politicians-react-senate-passing-big-beautiful-bill/) (https://www.kctv5.com/2025/07/01/local-politicians-react-senate-passing-big-beautiful-bill/)
+- **strong / Facebook / post** — Direct Facebook browsing returned a temporary-block page during capture. The candidate’s [public page](https://www.facebook.com/RogerMarshallMD/) exists and the local raw capture recorded 59,371 likes on 2026-03-30. (https://www.facebook.com/RogerMarshallMD/)
+- **moderate / Public web / internal harvest / share/repost** — Existing local harvest:** `social-harvest.md` captured 28 original posts, official-news items, video items, and roughly 5 repost/share signals from 2024-07-28 to 2026-05-08. The largest sampled categories were healthcare/mental health (7/28), agriculture/food/rural producers (6/28), budget/tax/economic messages naming Trump (6/28), border/DHS (4/28), foreign
+- **moderate / Public web / internal harvest / share/repost** — Action / social evidence:** Kansas News Service coverage republished by The Lawrence Times reported that after the Oakley town-hall incident Marshall shared a Trump Truth Social post about paid troublemakers and wrote "Can confirm" on X. The same article reported Marshall later said on a Kansas City talk show, "I don't have firsthand evidence."
+- **moderate / X / Twitter / share/repost** — 2025-03-03 X post "Can confirm" shared a Trump Truth Social claim about paid town-hall attendees; Kansas News Service later reported Marshall said, "I don't have firsthand evidence." Map to constituent access / public trust.
+- **moderate / Public web / internal harvest / share/repost** — 2025-03-03 town-hall post:** Shared a Trump Truth Social post and added, "Can confirm." The later radio quote in Kansas News Service coverage records Marshall saying, "I don’t have firsthand evidence" about the paid-audience account.
+- **moderate / Bluesky / share/repost** — Her public alignment signals in the harvested feed run through Democratic accounts and VoteVets events. She wrote, "I'm attending the VoteVets Economic Town Hall with Senator Elissa Slotkin and featuring Representative Sharice Davids - sign up now to join me. #sandyforkansas #votevets www.mobilize.us/votevets/eve..." ([source](https://bsky.app/profile/speuma (https://bsky.app/profile/speumann.bsky.social/post/3m4b4gysu5c27)
+- **moderate / Facebook / comment** — Direct social metrics:** X/Facebook/Instagram direct metrics were not available. Do not claim likes/comments/shares without a visible source.
+- **moderate / Facebook / comment** — Most-engaged post: exact platform totals were not visible through direct X, Facebook, or Instagram in this capture. The highest visible response signal was the Nov. 10, 2025 ACA post, where an indexed mirror displayed a long reply thread with repeated responses about insurance mechanics, and the March 3, 2025 town-hall post, where multiple public articles do
+- **moderate / Facebook / comment** — "Direct social engagement totals for X, Facebook, and Instagram were unavailable; do not infer likes, shares, replies, or comment volume."
+- **moderate / Bluesky / comment** — Audience response on Parelkar's measurable Bluesky feed is small and concentrated around party independence, health care, and campaign-media clips. Her highest-engagement Parelkar-authored Bluesky post in the captured set was a June 24, 2025 post with 6 likes, 1 repost, 1 reply, and 0 quotes as of May 11, 2026: "Pro Tip: You owe loyalty to no political party (https://bsky.app/profile/anneforkansas.bsky.social/post/3lscxyycowc2a)
+- **moderate / Facebook / share/repost** — Methodology:** Date range covered: July 28, 2024 to May 8, 2026. Platforms surveyed: X, Facebook, YouTube, Instagram, LinkedIn, Truth Social, Gab, Gettr, Substack, Reddit, TikTok, official Senate site, and public-news embeds; approximately [28 original posts, official-news items, and video items plus approximately 5 reposts or shared-post signals](social-har
+- **moderate / X / Twitter / share/repost** — Posts examined: 15 X posts, 4 video items, 7 official-site/newsletter items, 2 local-news quote items; reposts examined: approximately 5, including Trump Truth Social shares and posts tagging federal officials.
+
+## Required Caveats
+- Social evidence is signal, not fact. A follow, like, share, or platform absence is not treated as a belief or policy position.
+- Candidate-controlled posts and campaign pages may be used as stated positions only when the text itself says the position.
+- Login-walled, blocked, or inaccessible platform content is documented as a capture limitation, not as evidence of silence.
