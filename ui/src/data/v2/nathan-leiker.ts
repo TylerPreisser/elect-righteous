@@ -338,7 +338,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "em-nathan-leiker-00224",
           "date": "Undated",
-          "body": "Primary source for confirmation needed: the actual Ellis County 2022 canvass-of-general-election certificate plus 2024 official results (the document at https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results is a scanned image PDF that did not extract via pdftotext in this environment, and would need OCR — flagged below).",
+          "body": "Primary source for confirmation needed: the actual Ellis County 2022 canvass-of-general-election certificate plus 2024 official results (the document at https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results is a scanned image PDF that did not extract via text extraction during public-source review, and would need OCR — flagged below).",
           "sourceIds": [
             "src-nathan-leiker-0007"
           ]
@@ -669,7 +669,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "em-nathan-leiker-00224",
           "date": "Undated",
-          "body": "Primary source for confirmation needed: the actual Ellis County 2022 canvass-of-general-election certificate plus 2024 official results (the document at https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results is a scanned image PDF that did not extract via pdftotext in this environment, and would need OCR — flagged below).",
+          "body": "Primary source for confirmation needed: the actual Ellis County 2022 canvass-of-general-election certificate plus 2024 official results (the document at https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results is a scanned image PDF that did not extract via text extraction during public-source review, and would need OCR — flagged below).",
           "sourceIds": [
             "src-nathan-leiker-0007"
           ]
@@ -677,7 +677,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         {
           "id": "em-nathan-leiker-02080",
           "date": "Undated",
-          "body": "Ellis County Minutes — June 3, 2025 — primary (image PDF; vote record exists but not fetched as text in this environment)",
+          "body": "Ellis County Minutes — June 3, 2025 — primary (image PDF; vote record exists but not fetched as text during public-source review)",
           "sourceIds": [
             "s-minutes-06032025"
           ]
@@ -755,7 +755,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
         "Big Creek Estates RHID Resolution 2025-08 approved 3-0 to start the process",
         "Leiker said he had no problem starting the RHID process but would do additional homework",
         "Discharge of fireworks resolution passed 3-0 with Leiker seconding",
-        "Ellis County Minutes — June 3, 2025 — primary (image PDF; vote record exists but not fetched as text in this environment)",
+        "Ellis County Minutes — June 3, 2025 — primary (image PDF; vote record exists but not fetched as text during public-source review)",
         "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_06032025-676 — June 3, 2025 minutes (Big Creek RHID 2025-08 START, Appraiser reappointment, fireworks)",
         "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_06032025-676 (Big Creek RHID)"
       ]

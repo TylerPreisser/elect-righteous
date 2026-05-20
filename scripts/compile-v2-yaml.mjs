@@ -582,7 +582,7 @@ function isMetaEvidenceText(value) {
     /^source trail$/i.test(text) ||
     /^where they stand on big issues:?$/i.test(text) ||
     /\|\s*(primary|secondary|social)\s*\|\s*https?:\/\//i.test(text) ||
-    /\b(this pass|current matrix pass|current evidence matrix|disk evidence|on disk|rendered profile|rendered record|rendered issue cards|candidate-completeness audit|missing-candidate audit|this artifact|generated during|generated from|codex|agent-work|run-state|handoff|profile should|internal-only|the page therefore|no candidate-controlled issue platform)\b/i.test(text)
+    /\b(this pass|current matrix pass|current evidence matrix|disk evidence|on disk|rendered profile|rendered record|rendered issue cards|candidate-completeness audit|missing-candidate audit|this artifact|generated during|generated from|codex|agent-work|run-state|handoff|profile should|internal-only|the page therefore|no candidate-controlled issue platform|ui\/src\/data|worker scope|worker is not authorized|orchestrator|site-profile-writer|narrative-writer|later compiler|current ui object|existing ui v2 object|important correction for later compilers|sensitivity flag|implication for)\b/i.test(text)
   );
 }
 
@@ -603,6 +603,14 @@ function cleanPublicNarrative(value) {
     .replace(/\bI treated\b/g, "The review treated")
     .replace(/\bI used\b/g, "The review used")
     .replace(/\bI reviewed\b/g, "The review covered")
+    .replace(/\b(in|from|to) this environment\b/gi, "during public-source review")
+    .replace(/\bthis environment\b/gi, "public-source review")
+    .replace(/\bCLI environment\b/gi, "public-source review")
+    .replace(/\blogged-out fetcher\b/gi, "public logged-out review")
+    .replace(/\bDIRECT FETCH BLOCKED\b/g, "Direct source access was blocked")
+    .replace(/\bFETCH-BLOCKED\b/g, "source access blocked")
+    .replace(/\bfetch-blocked\b/g, "source access blocked")
+    .replace(/\bpdftotext\b/gi, "text extraction")
     .replace(/\b(for|from|during) this pass\b/gi, "in the reviewed public record")
     .replace(/\bin this pass\b/gi, "in the reviewed public record")
     .replace(/\bthis pass\b/gi, "the reviewed public record")
@@ -610,7 +618,13 @@ function cleanPublicNarrative(value) {
     .replace(/\bdo not infer\b/g, "the public record does not establish")
     .replace(/\bDo not imply hidden donors from this absence\b/g, "That absence does not establish hidden donors")
     .replace(/\bdo not imply hidden donors from this absence\b/g, "that absence does not establish hidden donors")
-    .replace(/\bverify original PDF before publication\b/gi, "verify the original PDF before relying on that specific donor example")
+    .replace(/\bDo not describe the absence of an online donor table as proof that no campaign-finance filing exists\./g, "The absence of an online donor table is not proof that no campaign-finance filing exists.")
+    .replace(/\bDo not use 2022 donors as evidence of 2026 funding unless a current Hopkins 2026 committee\/report is later found\./g, "2022 donor records are not treated as evidence of 2026 funding without a current Hopkins 2026 committee or report.")
+    .replace(/\bdo not use those names as ([^.]+)\./gi, "those names are not treated as $1.")
+    .replace(/\bdo not treat those amounts as confirmed until sourced\b/gi, "those amounts are not treated as confirmed without a source")
+    .replace(/\bdo not describe the ballot as final\b/gi, "the ballot description remains provisional until final status is confirmed")
+    .replace(/\bverify original PDF before publication\b/gi, "donor examples require original-PDF verification before publication")
+    .replace(/\bverify the original PDF before relying on that specific donor example\b/gi, "donor examples require original-PDF verification before publication")
     .replace(/\bcandidate memory\b/gi, "reviewed source notes")
     .replace(/\bNo affiliation is assigned a church\b/g, "No church affiliation is assigned")
     .replace(/\bcurrent evidence matrix\b/gi, "reviewed public records")

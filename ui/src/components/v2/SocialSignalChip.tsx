@@ -53,6 +53,14 @@ interface SocialSignalChipProps {
 
 const TRUNCATE_AT = 140;
 
+function cleanEvidenceText(text: string) {
+  return text
+    .replace(/https?:\/\/\S+/g, "")
+    .replace(/\s{2,}/g, " ")
+    .replace(/\s+([,.;:])/g, "$1")
+    .trim();
+}
+
 export default function SocialSignalChip({
   signal,
   sources,
@@ -60,11 +68,12 @@ export default function SocialSignalChip({
   const [expanded, setExpanded] = useState(false);
   const sourceById = new Map<string, Source>(sources.map((s) => [s.id, s]));
 
-  const needsTruncation = signal.observation.length > TRUNCATE_AT;
+  const cleanedObservation = cleanEvidenceText(signal.observation);
+  const needsTruncation = cleanedObservation.length > TRUNCATE_AT;
   const displayText =
     needsTruncation && !expanded
-      ? signal.observation.slice(0, TRUNCATE_AT).trimEnd() + "…"
-      : signal.observation;
+      ? cleanedObservation.slice(0, TRUNCATE_AT).trimEnd() + "…"
+      : cleanedObservation;
 
   const linkedSources = signal.sourceIds
     .map((id) => sourceById.get(id))
@@ -72,7 +81,7 @@ export default function SocialSignalChip({
 
   return (
     <div
-      className="border-l-2 py-1.5 pl-3"
+      className="rounded-md border-l-2 bg-slate-50 py-3 pl-3 pr-3"
       style={{ borderColor: "rgba(28, 195, 175, 0.55)" }}
     >
       <div className="flex items-start gap-3">
@@ -123,7 +132,7 @@ export default function SocialSignalChip({
                   href={src.url}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center gap-1 rounded px-2 py-0.5 text-xs font-body font-semibold transition-colors duration-150 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
+                  className="inline-flex min-h-9 max-w-full items-center gap-1 rounded px-2.5 py-1 text-xs font-body font-semibold transition-colors duration-150 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
                   style={{
                     backgroundColor: "rgba(16, 64, 93, 0.07)",
                     color: "var(--color-navy-light)",

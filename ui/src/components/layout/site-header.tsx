@@ -48,8 +48,8 @@ export default function SiteHeader() {
       <header
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
           isScrolled
-            ? "bg-white/95 shadow-md backdrop-blur-sm"
-            : "bg-white shadow-sm"
+            ? "bg-white/92 shadow-[0_10px_30px_rgba(16,64,93,0.10)] backdrop-blur-md"
+            : "bg-white/96 shadow-sm backdrop-blur"
         }`}
       >
         <Container>
@@ -57,7 +57,7 @@ export default function SiteHeader() {
             {/* Logo */}
             <Link
               href="/"
-              className="flex items-center gap-2 group focus:outline-none focus-visible:ring-2 focus-visible:ring-teal rounded"
+              className="group flex min-w-0 items-center gap-2 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
               aria-label="Elect Righteous — Home"
             >
               {/* Cross icon mark */}
@@ -78,7 +78,7 @@ export default function SiteHeader() {
                 </svg>
               </span>
               <span
-                className="text-lg font-heading font-bold tracking-widest uppercase transition-colors duration-200 group-hover:opacity-80"
+                className="min-w-0 truncate text-base font-heading font-bold uppercase tracking-[0.14em] transition-colors duration-200 group-hover:opacity-80 sm:text-lg"
                 style={{ color: "var(--color-navy)" }}
               >
                 Elect Righteous
@@ -168,7 +168,7 @@ export default function SiteHeader() {
 
         {/* Slide-out panel */}
         <nav
-          className={`absolute top-0 right-0 h-full w-72 bg-white shadow-2xl flex flex-col transition-transform duration-300 ease-in-out ${
+          className={`absolute top-0 right-0 flex h-full w-[min(18rem,calc(100vw-2rem))] flex-col bg-white shadow-2xl transition-transform duration-300 ease-in-out ${
             isMobileMenuOpen ? "translate-x-0" : "translate-x-full"
           }`}
           aria-label="Mobile navigation"

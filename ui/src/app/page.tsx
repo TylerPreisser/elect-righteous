@@ -8,7 +8,11 @@ import {
   Building2,
   ScrollText,
   MapPin,
+  Search,
+  Database,
 } from "lucide-react";
+import { ELECTIONS } from "@/data/elections";
+import { V2_CANDIDATES } from "@/data/v2";
 
 interface HowItWorksItem {
   icon: React.ReactNode;
@@ -65,7 +69,7 @@ const CATEGORIES = [
   },
   {
     label: "Local",
-    hash: "local",
+    hash: "local-2026",
     icon: <MapPin size={28} strokeWidth={1.5} />,
     color: "var(--color-slate)",
     description: "Hays city leadership, Ellis County officials, USD 489 school board",
@@ -77,80 +81,90 @@ const CATEGORIES = [
 // ─────────────────────────────────────────────────────────────────────────────
 
 export default function HomePage() {
+  const sourceCount = V2_CANDIDATES.reduce((sum, candidate) => sum + candidate.sources.length, 0);
+  const actionCount = V2_CANDIDATES.reduce(
+    (sum, candidate) => sum + candidate.issues.reduce((issueSum, issue) => issueSum + issue.actions.length, 0),
+    0,
+  );
+
   return (
     <>
 
       <main>
         {/* ── HERO ───────────────────────────────────────────────────── */}
-        <section
-          className="relative min-h-[105svh] md:min-h-svh flex items-center justify-center text-center pb-24"
-          aria-label="Hero"
-        >
-          <div
-            className="absolute inset-0"
-            style={{ backgroundColor: "var(--color-navy-dark)" }}
-            aria-hidden="true"
-          />
-          <div className="hero-overlay absolute inset-0" aria-hidden="true" />
+        <section className="relative overflow-hidden bg-[#0b1f2a] text-white" aria-label="Election intelligence command center">
+          <div className="absolute inset-0 opacity-30" aria-hidden="true">
+            <div className="h-full w-full bg-[linear-gradient(rgba(255,255,255,.08)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,.08)_1px,transparent_1px)] bg-[size:28px_28px]" />
+          </div>
 
-          <div className="relative z-10 container-main py-24 md:py-32">
-            <p
-              className="text-xs md:text-sm font-heading font-semibold uppercase tracking-[0.2em] mb-6"
-              style={{ color: "var(--color-teal)" }}
-            >
-              Election Intelligence for Hays, Kansas
-            </p>
+          <div className="relative container-main py-14 md:py-20">
+            <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_28rem] lg:items-center">
+              <div>
+                <p className="mb-4 text-xs font-heading font-semibold uppercase tracking-[0.22em]" style={{ color: "var(--color-teal)" }}>
+                  Election intelligence for Hays, Kansas
+                </p>
 
-            <h1 className="text-5xl md:text-7xl font-heading font-extrabold text-white leading-tight mb-6">
-              Know Your Candidates.
-              <br />
-              Vote Your Values.
-            </h1>
+                <h1 className="max-w-4xl font-heading text-4xl font-extrabold leading-[1.03] md:text-6xl">
+                  A source-backed field guide for the 2026 ballot.
+                </h1>
 
-            <p
-              className="max-w-2xl mx-auto text-lg md:text-xl mb-10 leading-relaxed"
-              style={{
-                fontFamily: "var(--font-serif)",
-                fontStyle: "italic",
-                color: "rgba(255,255,255,0.70)",
-              }}
-            >
-              &ldquo;When the righteous thrive, the people rejoice; when the
-              wicked rule, the people groan.&rdquo;
-              <span className="block mt-1 not-italic text-sm tracking-wider">
-                &mdash; Proverbs 29:2
-              </span>
-            </p>
+                <p className="mt-5 max-w-2xl text-base leading-relaxed text-white/76 md:text-lg">
+                  Every profile is organized as a voter dossier: public record, candidate statements,
+                  social/online observations, campaign finance, faith/community notes where public,
+                  and a source trail you can inspect.
+                </p>
 
-            <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Link href="/elections" className="btn-primary">
-                Explore Elections
-              </Link>
-              <Link href="/candidates" className="btn-outline">
-                View All Candidates
-              </Link>
+                <div className="mt-7 grid gap-3 sm:grid-cols-2">
+                  <Link
+                    href="/candidates"
+                    className="inline-flex min-h-12 items-center justify-center gap-2 rounded-md bg-teal px-5 font-heading text-sm font-bold uppercase tracking-wide text-white transition hover:bg-teal-dark focus:outline-none focus-visible:ring-2 focus-visible:ring-white"
+                  >
+                    <Search size={17} aria-hidden="true" />
+                    Search profiles
+                  </Link>
+                  <Link
+                    href="/elections"
+                    className="inline-flex min-h-12 items-center justify-center gap-2 rounded-md border border-white/25 px-5 font-heading text-sm font-bold uppercase tracking-wide text-white transition hover:bg-white hover:text-navy focus:outline-none focus-visible:ring-2 focus-visible:ring-white"
+                  >
+                    <Database size={17} aria-hidden="true" />
+                    Browse races
+                  </Link>
+                </div>
+              </div>
+
+              <div className="rounded-lg border border-white/12 bg-white/[0.06] p-4 shadow-[0_24px_80px_rgba(0,0,0,.35)] backdrop-blur">
+                <div className="mb-4 flex items-center justify-between border-b border-white/10 pb-3">
+                  <span className="font-heading text-sm font-bold uppercase tracking-widest text-white/82">
+                    Live archive
+                  </span>
+                  <span className="rounded bg-teal/15 px-2 py-1 text-xs font-semibold text-teal">
+                    Updated 2026 cycle
+                  </span>
+                </div>
+
+                <dl className="grid grid-cols-2 gap-3">
+                  {[
+                    ["Profiles", V2_CANDIDATES.length.toLocaleString()],
+                    ["Races", ELECTIONS.length.toLocaleString()],
+                    ["Public sources", sourceCount.toLocaleString()],
+                    ["Record items", actionCount.toLocaleString()],
+                  ].map(([label, value]) => (
+                    <div key={label} className="rounded-md border border-white/10 bg-black/18 p-3">
+                      <dt className="text-xs uppercase tracking-wide text-white/55">{label}</dt>
+                      <dd className="mt-1 font-heading text-2xl font-bold text-white">{value}</dd>
+                    </div>
+                  ))}
+                </dl>
+
+                <div className="mt-4 rounded-md bg-white/[0.04] p-3">
+                  <p className="text-xs uppercase tracking-wide text-white/50">Matrix standard</p>
+                  <p className="mt-1 font-heading text-lg font-bold">14 issue areas per candidate</p>
+                  <p className="mt-1 text-sm leading-relaxed text-white/64">
+                    Empty issues are explicitly marked; social observations stay separate from documented actions.
+                  </p>
+                </div>
+              </div>
             </div>
-
-            {/* Scroll indicator */}
-            <a
-              href="#elections"
-              className="mt-8 inline-flex h-10 w-10 items-center justify-center text-white/45 transition-colors duration-200 hover:text-white/70 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
-              aria-label="Scroll down"
-            >
-              <svg
-                width="28"
-                height="28"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                className="animate-bounce"
-              >
-                <path d="M12 5v14M5 12l7 7 7-7" />
-              </svg>
-            </a>
           </div>
         </section>
 
@@ -172,11 +186,12 @@ export default function HomePage() {
                 <Link
                   key={cat.hash}
                   href={`/elections#${cat.hash}`}
-                  className="card block p-6 group text-center"
+                  className="group block rounded-lg border bg-white p-6 text-left transition-all duration-200 hover:-translate-y-0.5 hover:border-teal/40 hover:shadow-[0_18px_45px_rgba(16,64,93,0.10)]"
+                  style={{ borderColor: "rgba(16, 64, 93, 0.12)" }}
                   aria-label={`View ${cat.label} elections`}
                 >
                   <div
-                    className="inline-flex items-center justify-center w-14 h-14 rounded-full mb-4"
+                    className="mb-5 inline-flex h-12 w-12 items-center justify-center rounded-md"
                     style={{
                       backgroundColor: `color-mix(in srgb, ${cat.color} 12%, transparent)`,
                       color: cat.color,
@@ -186,7 +201,7 @@ export default function HomePage() {
                     {cat.icon}
                   </div>
                   <h3
-                    className="text-xl font-heading font-bold mb-2 transition-colors duration-200 group-hover:text-teal"
+                    className="mb-2 text-xl font-heading font-bold transition-colors duration-200 group-hover:text-teal"
                     style={{ color: "var(--color-navy)" }}
                   >
                     {cat.label}

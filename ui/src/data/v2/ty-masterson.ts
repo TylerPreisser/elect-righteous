@@ -249,8 +249,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
         "text": "Documented public record: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-campaign-issues",
-          "s-campaign-home",
-          "src-ty-masterson-0006"
+          "s-campaign-home"
         ]
       },
       "actions": [
@@ -276,14 +275,6 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
           "body": "safe communities, a low cost of living, and a shot at achieving the American Dream - campaign homepage, 2026-04-01, mastersonforgovernor.com - topic: worldview.",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-ty-masterson-03509",
-          "date": "Undated",
-          "body": "The current UI object has campaignWebsite set to https://mann.house.gov/about, which is not Ty Masterson's campaign site. This worker is not authorized to edit UI files, so flag for orchestrator/site-profile-writer.",
-          "sourceIds": [
-            "src-ty-masterson-0006"
           ]
         }
       ],
@@ -696,7 +687,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Ty Masterson is profiled here for Governor candidate as a Republican. Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax... His campaign message pairs that tax frame with a broader \"Take Back Kansas\" argument. On the campaign homepage, Masterson says Kansas promised safe communities, low cost of living, and a shot at the American Dream, but that \"liberal Democrats\" and Laura Kelly... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 28 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low f... Education / curriculum / schools: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low... Education / curriculum / schools: Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation l... Taxes / spending / debt: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaig... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "The public record summary contains 27 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low f... Education / curriculum / schools: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low... Education / curriculum / schools: Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation l... Taxes / spending / debt: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaig... Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "Public sources identify Masterson with NewSpring Church in Wichita, and the church website is https://www.newspring.org/. His campaign biography and faith language make religion a visible part of his public identity rather than a private background detail.",
   "campaignFinance": {
     "totalRaised": "$695,998.16 in total contributions and other receipts",
@@ -937,17 +928,6 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
         "Reporting said Masterson denied campaign association with the individuals",
         "https://kansasreflector.com/2025/10/14/kansas-young-republicans-shut-down-after-politico-report-on-racist-violent-encrypted-chat/",
         "Kansas Reflector: Kansas Young Republicans shut down (Oct 14, 2025)"
-      ]
-    },
-    {
-      "id": "src-ty-masterson-0006",
-      "tier": "primary",
-      "url": "https://mann.house.gov/about",
-      "title": "Mann.House",
-      "publisher": "Mann.House",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "The current UI object has campaignWebsite set to https://mann.house.gov/about, which is not Ty Masterson's campaign site. This worker is not authorized to edit UI files, so flag for orchestrator/site-profile-writer."
       ]
     },
     {

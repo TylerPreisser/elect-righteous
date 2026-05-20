@@ -191,14 +191,14 @@ export default function CorrectionForm({ candidateName }: CorrectionFormProps) {
         <button
           type="submit"
           disabled={submitting}
-          className="self-start rounded-md px-6 py-2.5 font-heading text-sm font-semibold uppercase tracking-wider text-white transition-all duration-200 hover:shadow-lg disabled:opacity-50"
+          className="min-h-11 w-full rounded-md px-6 font-heading text-sm font-semibold uppercase tracking-wide text-white transition-all duration-200 hover:shadow-lg disabled:opacity-50 sm:w-auto sm:self-start"
           style={{ backgroundColor: "var(--color-navy)" }}
         >
           {submitting ? "Sending..." : "Submit Correction"}
         </button>
 
         {error && (
-          <p className="font-body text-sm" style={{ color: "var(--color-red-flag)" }}>
+          <p className="font-body text-sm leading-relaxed" style={{ color: "var(--color-red-flag)", overflowWrap: "anywhere" }}>
             Something went wrong. Please try again or{" "}
             <a className="font-semibold underline" href={mailtoHref}>
               email us directly at {FEEDBACK_EMAIL}

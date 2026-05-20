@@ -5,6 +5,7 @@ import { Search, X } from "lucide-react";
 import Container from "@/components/layout/container";
 import CandidateCard from "@/components/ui/candidate-card";
 import { V2_CANDIDATES } from "@/data/v2";
+import { getProfileMetrics } from "@/lib/profile-metrics";
 
 type PartyFilter = "All" | "R" | "D" | "I" | "NP";
 type StatusFilter = "All" | "Incumbent" | "Challenger";
@@ -68,11 +69,12 @@ export default function CandidatesPage() {
         {/* ── Page Header ──────────────────────────────────────────── */}
         <section
           className="section-navy"
-          style={{ paddingTop: "3rem", paddingBottom: "3rem" }}
+          style={{ paddingTop: "3rem", paddingBottom: "3.25rem" }}
           aria-labelledby="candidates-heading"
         >
           <Container>
-            <div className="max-w-2xl">
+            <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-end">
+              <div className="max-w-3xl">
               <p
                 className="text-xs font-heading font-semibold uppercase tracking-widest mb-3"
                 style={{ color: "var(--color-teal)" }}
@@ -94,6 +96,24 @@ export default function CandidatesPage() {
                 backgrounds, public records, faith/community ties where public, campaign finance, and
                 source-backed reporting in plain English.
               </p>
+              </div>
+
+              <div className="grid grid-cols-3 gap-2 rounded-lg border border-white/10 bg-white/5 p-3 text-white backdrop-blur">
+                <div>
+                  <p className="font-heading text-2xl font-bold">{V2_CANDIDATES.length}</p>
+                  <p className="text-xs uppercase tracking-wide text-white/60">profiles</p>
+                </div>
+                <div>
+                  <p className="font-heading text-2xl font-bold">
+                    {V2_CANDIDATES.reduce((sum, c) => sum + c.sources.length, 0).toLocaleString()}
+                  </p>
+                  <p className="text-xs uppercase tracking-wide text-white/60">sources</p>
+                </div>
+                <div>
+                  <p className="font-heading text-2xl font-bold">14</p>
+                  <p className="text-xs uppercase tracking-wide text-white/60">issues each</p>
+                </div>
+              </div>
             </div>
           </Container>
         </section>
@@ -106,7 +126,10 @@ export default function CandidatesPage() {
             </h2>
 
             {/* Search + Filters bar */}
-            <div className="flex flex-col sm:flex-row gap-3 mb-8">
+            <div
+              className="sticky top-16 z-20 mb-8 grid gap-3 rounded-lg border bg-white/95 p-3 shadow-sm backdrop-blur md:grid-cols-[minmax(0,1fr)_auto_auto]"
+              style={{ borderColor: "rgba(16, 64, 93, 0.12)" }}
+            >
               {/* Search input */}
               <div className="relative flex-1">
                 <label htmlFor="candidate-search" className="sr-only">
@@ -124,7 +147,7 @@ export default function CandidatesPage() {
                   value={query}
                   onChange={(e) => setQuery(e.target.value)}
                   placeholder="Search by name, position, or office…"
-                  className="w-full pl-9 pr-4 py-2.5 rounded-lg border text-sm font-body bg-white transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-offset-1"
+                  className="min-h-11 w-full pl-9 pr-11 rounded-md border text-sm font-body bg-white transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-offset-1"
                   style={{
                     borderColor: "#e2e8f0",
                     color: "var(--color-charcoal)",
@@ -133,7 +156,7 @@ export default function CandidatesPage() {
                 {query && (
                   <button
                     onClick={() => setQuery("")}
-                    className="absolute right-3 top-1/2 -translate-y-1/2 p-0.5 rounded transition-colors duration-200 hover:opacity-70 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
+                    className="absolute right-1.5 top-1/2 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded transition-colors duration-200 hover:opacity-70 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
                     style={{ color: "var(--color-slate)" }}
                     aria-label="Clear search"
                   >
@@ -143,7 +166,7 @@ export default function CandidatesPage() {
               </div>
 
               {/* Party filter */}
-              <div>
+              <div className="min-w-0">
                 <label htmlFor="party-filter" className="sr-only">
                   Filter by party
                 </label>
@@ -151,11 +174,11 @@ export default function CandidatesPage() {
                   id="party-filter"
                   value={partyFilter}
                   onChange={(e) => setPartyFilter(e.target.value as PartyFilter)}
-                  className="h-full px-3 py-2.5 rounded-lg border text-sm font-body bg-white transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-offset-1 cursor-pointer"
+                  className="min-h-11 w-full rounded-md border bg-white px-3 text-sm font-body transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-offset-1 md:w-auto cursor-pointer"
                   style={{
                     borderColor: "#e2e8f0",
                     color: "var(--color-charcoal)",
-                    minWidth: "140px",
+                    minWidth: "10.5rem",
                   }}
                 >
                   {PARTY_OPTIONS.map((opt) => (
@@ -167,7 +190,7 @@ export default function CandidatesPage() {
               </div>
 
               {/* Status filter */}
-              <div>
+              <div className="min-w-0">
                 <label htmlFor="status-filter" className="sr-only">
                   Filter by incumbent status
                 </label>
@@ -175,11 +198,11 @@ export default function CandidatesPage() {
                   id="status-filter"
                   value={statusFilter}
                   onChange={(e) => setStatusFilter(e.target.value as StatusFilter)}
-                  className="h-full px-3 py-2.5 rounded-lg border text-sm font-body bg-white transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-offset-1 cursor-pointer"
+                  className="min-h-11 w-full rounded-md border bg-white px-3 text-sm font-body transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-offset-1 md:w-auto cursor-pointer"
                   style={{
                     borderColor: "#e2e8f0",
                     color: "var(--color-charcoal)",
-                    minWidth: "140px",
+                    minWidth: "11.5rem",
                   }}
                 >
                   {STATUS_OPTIONS.map((opt) => (
@@ -192,7 +215,7 @@ export default function CandidatesPage() {
             </div>
 
             {/* Results bar */}
-            <div className="flex items-center justify-between mb-6">
+            <div className="mb-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
               <p
                 className="text-sm font-body"
                 style={{ color: "var(--color-slate)" }}
@@ -230,14 +253,23 @@ export default function CandidatesPage() {
               >
                 {filtered.map((candidate) => (
                   <li key={candidate.slug} className="h-full">
-                    <CandidateCard
-                      name={candidate.name}
-                      position={candidate.position}
-                      party={candidate.party}
-                      incumbent={candidate.incumbent}
-                      occupation={candidate.occupation}
-                      slug={candidate.slug}
-                    />
+                    {(() => {
+                      const metrics = getProfileMetrics(candidate);
+                      return (
+                        <CandidateCard
+                          name={candidate.name}
+                          position={candidate.position}
+                          party={candidate.party}
+                          incumbent={candidate.incumbent}
+                          occupation={candidate.occupation}
+                          slug={candidate.slug}
+                          sourceCount={metrics.sourceCount}
+                          issueCount={metrics.issueCount}
+                          actionCount={metrics.actionCount}
+                          socialCount={metrics.socialCount}
+                        />
+                      );
+                    })()}
                   </li>
                 ))}
               </ul>

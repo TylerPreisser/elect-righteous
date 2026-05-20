@@ -229,7 +229,7 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
     "totalRaised": "Not itemized in the reviewed public records",
     "narrative": "Campaign finance details were not fully itemized in the reviewed public records.",
     "donors": [],
-    "undisclosed": "Do not use 2022 donors as evidence of 2026 funding unless a current Hopkins 2026 committee/report is later found.",
+    "undisclosed": "2022 donor records are not treated as evidence of 2026 funding without a current Hopkins 2026 committee or report.",
     "reportingPeriod": "No Hopkins 2026 report found; historical 2022 State Board campaign reports reviewed",
     "source": "Kansas State Board of Education Odd Numbered Districts 2026 Election Cycle"
   },

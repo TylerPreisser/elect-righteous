@@ -1,0 +1,7639 @@
+{
+  "generatedAt": "2026-05-20T23:48:21.446Z",
+  "baseUrl": "http://localhost:4173/elect-righteous",
+  "routeCount": 267,
+  "taskCount": 534,
+  "failures": [],
+  "results": [
+    {
+      "route": "/404.html",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/404.html",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/404/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/404/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/about/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/about/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/aaron-cunningham/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/_not-found/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/_not-found/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/aaron-cunningham/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/adam-hamilton/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/allen-park/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/alaina-cunningham/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/alaina-cunningham/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "Alaina Cunningham is profiled here for Hays Vice Mayor / City Commissioner as a nonpartisan incumbent/current official. Quality of life is u",
+            "left": 16,
+            "right": 440,
+            "width": 424
+          },
+          {
+            "tag": "div",
+            "className": "md:col-span-2",
+            "text": "The public record summary contains 14 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Elec",
+            "left": 16,
+            "right": 440,
+            "width": 424
+          },
+          {
+            "tag": "div",
+            "className": "grid gap-4",
+            "text": "The public record summary contains 14 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Elec",
+            "left": 16,
+            "right": 440,
+            "width": 424
+          },
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "The public record summary contains 14 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Elec",
+            "left": 16,
+            "right": 440,
+            "width": 424
+          },
+          {
+            "tag": "div",
+            "className": "rounded border p-4",
+            "text": "Source ruleOfficial records are prioritized. News reports and candidate statements are labeled by source type; social/online observations ar",
+            "left": 16,
+            "right": 440,
+            "width": 424
+          },
+          {
+            "tag": "p",
+            "className": "font-body text-sm",
+            "text": "Source rule",
+            "left": 33,
+            "right": 423,
+            "width": 390
+          },
+          {
+            "tag": "p",
+            "className": "mt-1 font-body text-sm leading-relaxed",
+            "text": "Official records are prioritized. News reports and candidate statements are labeled by source type; social/online observations are shown sep",
+            "left": 33,
+            "right": 423,
+            "width": 390
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates-v2/adam-hamilton/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/allen-park/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/anne-parelkar/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/anne-parelkar/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/barb-wasinger/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/bobbi-dreiling/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/bobbi-dreiling/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/barb-wasinger/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/cathy-hopkins/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/cathy-hopkins/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/brandon-adams/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/charlotte-ohara/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/chase-laporte/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/chase-laporte/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/charlotte-ohara/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/chris-mann/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/chris-mann/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/brandon-adams/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/christy-cauble-davis/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/cindy-holscher/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/christy-cauble-davis/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/cody-ward/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/cody-ward/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/colin-mcroberts/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "div",
+            "className": "",
+            "text": "Total raisedsourceIds: s-fec-candidate; coverageStart: 2025-07-01; coverageEnd: 2026-03-31; totalReceipts: 40747.79; totalContributions: 404",
+            "left": 16,
+            "right": 455,
+            "width": 439
+          },
+          {
+            "tag": "dt",
+            "className": "font-body text-sm",
+            "text": "Total raised",
+            "left": 16,
+            "right": 455,
+            "width": 439
+          },
+          {
+            "tag": "dd",
+            "className": "font-heading font-bold",
+            "text": "sourceIds: s-fec-candidate; coverageStart: 2025-07-01; coverageEnd: 2026-03-31; totalReceipts: 40747.79; totalContributions: 40428.5; totalI",
+            "left": 16,
+            "right": 455,
+            "width": 439
+          },
+          {
+            "tag": "div",
+            "className": "sm:col-span-2",
+            "text": "Reporting periodMost recent public filing reviewed",
+            "left": 16,
+            "right": 455,
+            "width": 439
+          },
+          {
+            "tag": "dt",
+            "className": "font-body text-sm",
+            "text": "Reporting period",
+            "left": 16,
+            "right": 455,
+            "width": 439
+          },
+          {
+            "tag": "dd",
+            "className": "font-body",
+            "text": "Most recent public filing reviewed",
+            "left": 16,
+            "right": 455,
+            "width": 439
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates-v2/colin-mcroberts/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/craig-musser/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/craig-pallister/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/craig-pallister/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/cindy-holscher/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/craig-musser/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/curt-vajnar/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "Curt C. Vajnar is profiled here for Hays USD 489 Board of Education as a nonpartisan incumbent/current official. Teacher recruitment and ret",
+            "left": 16,
+            "right": 440,
+            "width": 424
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates-v2/curt-vajnar/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/damon-anderson/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/damon-anderson/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/daniel-hawkins/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/daniel-hawkins/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/david-c-graham/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/david-c-graham/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/david-vilaysing/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/derek-yarmer/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/derek-yarmer/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/david-vilaysing/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/dinah-sykes/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/doug-billings/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/doug-billings/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/eric-lund/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/eric-lund/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/erik-murray/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/dinah-sykes/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/erik-murray/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ethan-corson/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/jason-hart/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "div",
+            "className": "md:col-span-2",
+            "text": "The public record summary contains 8 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Immig",
+            "left": 16,
+            "right": 541,
+            "width": 525
+          },
+          {
+            "tag": "div",
+            "className": "grid gap-4",
+            "text": "The public record summary contains 8 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Immig",
+            "left": 16,
+            "right": 541,
+            "width": 525
+          },
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "The public record summary contains 8 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Immig",
+            "left": 16,
+            "right": 541,
+            "width": 525
+          },
+          {
+            "tag": "div",
+            "className": "rounded border p-4",
+            "text": "Source ruleOfficial records are prioritized. News reports and candidate statements are labeled by source type; social/online observations ar",
+            "left": 16,
+            "right": 541,
+            "width": 525
+          },
+          {
+            "tag": "p",
+            "className": "font-body text-sm",
+            "text": "Source rule",
+            "left": 33,
+            "right": 524,
+            "width": 491
+          },
+          {
+            "tag": "p",
+            "className": "mt-1 font-body text-sm leading-relaxed",
+            "text": "Official records are prioritized. News reports and candidate statements are labeled by source type; social/online observations are shown sep",
+            "left": 33,
+            "right": 524,
+            "width": 491
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates-v2/jason-hart/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/jayme-goetz/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/jayme-goetz/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ethan-corson/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/jeff-colyer/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/jeff-colyer/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/jennifer-day/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/jennifer-day/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/joe-newland/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/joe-newland/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/joy-eakins/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/kc-ohaebosim/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/kelly-ancar/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/kelly-ancar/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/joy-eakins/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/kc-ohaebosim/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ken-brooks/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ken-brooks/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/kevin-latz/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/kris-kobach/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/kevin-latz/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/kris-kobach/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ken-rahjes/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ken-rahjes/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/lauren-reinhold/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "div",
+            "className": "flex flex-wrap items-center gap-2",
+            "text": "BlueskyEducation / curriculum / schools",
+            "left": 16,
+            "right": 415,
+            "width": 399
+          },
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a",
+            "left": 16,
+            "right": 415,
+            "width": 399
+          },
+          {
+            "tag": "div",
+            "className": "flex flex-wrap gap-2",
+            "text": "Lauren Reinhold for Kansas campaign / Oberlin Herald republication",
+            "left": 16,
+            "right": 415,
+            "width": 399
+          },
+          {
+            "tag": "a",
+            "className": "inline-flex min-h-9 max-w-full items-center gap-1 rounded px-2.5 py-1 text-xs font-semibold hover:underline focus:outline-none focus-visible",
+            "text": "Lauren Reinhold for Kansas campaign / Oberlin Herald republication",
+            "left": 16,
+            "right": 415,
+            "width": 399
+          },
+          {
+            "tag": "svg",
+            "className": "lucide lucide-external-link shrink-0",
+            "text": "",
+            "left": 394,
+            "right": 405,
+            "width": 11
+          },
+          {
+            "tag": "path",
+            "className": "",
+            "text": "",
+            "left": 401,
+            "right": 403,
+            "width": 3
+          },
+          {
+            "tag": "path",
+            "className": "",
+            "text": "",
+            "left": 398,
+            "right": 403,
+            "width": 5
+          },
+          {
+            "tag": "path",
+            "className": "",
+            "text": "",
+            "left": 395,
+            "right": 402,
+            "width": 7
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates-v2/lauren-reinhold/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/lorie-wood/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/lorie-wood/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/mark-lane/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/mark-lane/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/mark-schaukowitch/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/marty-tuley/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/marty-tuley/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/marvin-matchett/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/mark-schaukowitch/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/marvin-matchett/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/mason-ruder/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/mason-ruder/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/michael-berges/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/max-dibble/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/michael-soetaert/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "Michael Soetaert is profiled here for U.S. Senate as a Democratic. Michael Soetaert's current public campaign record presents a small-dollar",
+            "left": 16,
+            "right": 538,
+            "width": 522
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates-v2/max-dibble/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/michael-berges/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/michael-soetaert/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/michael-w-smith/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/nathan-leiker/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/nathan-leiker/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "div",
+            "className": "md:col-span-2",
+            "text": "The public record summary contains 35 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Taxe",
+            "left": 16,
+            "right": 508,
+            "width": 492
+          },
+          {
+            "tag": "div",
+            "className": "grid gap-4",
+            "text": "The public record summary contains 35 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Taxe",
+            "left": 16,
+            "right": 508,
+            "width": 492
+          },
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "The public record summary contains 35 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Taxe",
+            "left": 16,
+            "right": 508,
+            "width": 492
+          },
+          {
+            "tag": "div",
+            "className": "rounded border p-4",
+            "text": "Source ruleOfficial records are prioritized. News reports and candidate statements are labeled by source type; social/online observations ar",
+            "left": 16,
+            "right": 508,
+            "width": 492
+          },
+          {
+            "tag": "p",
+            "className": "font-body text-sm",
+            "text": "Source rule",
+            "left": 33,
+            "right": 491,
+            "width": 458
+          },
+          {
+            "tag": "p",
+            "className": "mt-1 font-body text-sm leading-relaxed",
+            "text": "Official records are prioritized. News reports and candidate statements are labeled by source type; social/online observations are shown sep",
+            "left": 33,
+            "right": 491,
+            "width": 458
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates-v2/michelle-cunningham/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/michael-w-smith/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/michelle-cunningham/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/neal-younger/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/neal-younger/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/pat-proctor/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "Pat Proctor is profiled here for Kansas Secretary of State as a Republican. URLs: https://www.kslegislature.gov/b2025_26/bills/HB2453/histor",
+            "left": 16,
+            "right": 705,
+            "width": 689
+          },
+          {
+            "tag": "div",
+            "className": "md:col-span-2",
+            "text": "The public record summary contains 11 source-backed items across 3 of the 14 issue areas. Representative public-record entries include: Econ",
+            "left": 16,
+            "right": 705,
+            "width": 689
+          },
+          {
+            "tag": "div",
+            "className": "grid gap-4",
+            "text": "The public record summary contains 11 source-backed items across 3 of the 14 issue areas. Representative public-record entries include: Econ",
+            "left": 16,
+            "right": 705,
+            "width": 689
+          },
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "The public record summary contains 11 source-backed items across 3 of the 14 issue areas. Representative public-record entries include: Econ",
+            "left": 16,
+            "right": 705,
+            "width": 689
+          },
+          {
+            "tag": "div",
+            "className": "rounded border p-4",
+            "text": "Source ruleOfficial records are prioritized. News reports and candidate statements are labeled by source type; social/online observations ar",
+            "left": 16,
+            "right": 705,
+            "width": 689
+          },
+          {
+            "tag": "p",
+            "className": "font-body text-sm",
+            "text": "Source rule",
+            "left": 33,
+            "right": 688,
+            "width": 655
+          },
+          {
+            "tag": "p",
+            "className": "mt-1 font-body text-sm leading-relaxed",
+            "text": "Official records are prioritized. News reports and candidate statements are labeled by source type; social/online observations are shown sep",
+            "left": 33,
+            "right": 688,
+            "width": 655
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates-v2/noah-taylor/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/pat-proctor/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/noah-taylor/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/patrick-schmidt/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/patrick-schmidt/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/philip-sarnecki/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/philip-sarnecki/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/rebecca-herzog/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/renee-duxler/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/rebecca-herzog/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/renee-duxler/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ric-koehn/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/roger-marshall/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/roger-marshall/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ron-wilson/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ric-koehn/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ruth-ruder/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ruth-ruder/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/sam-lane/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ron-wilson/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/sandy-jacobs/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/sam-lane/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/sandy-spidel-neumann/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/sandy-jacobs/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/scott-braun/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/scott-braun/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/scott-e-morgan/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/sandy-spidel-neumann/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/scott-schwab/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/sharilyn-ray/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/shaun-musil/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/sharilyn-ray/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/shaun-musil/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/stacy-rogers/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/scott-e-morgan/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/stacy-rogers/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/steven-jacob/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/steven-jacob/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/scott-schwab/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/steven-johnson/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/steven-johnson/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/toby-dougherty/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/toby-dougherty/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/tracey-mann/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/tracey-mann/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ty-masterson/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/vernon-ruder-jr/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/ty-masterson/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/vernon-ruder-jr/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/vicki-schmidt/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/aaron-cunningham/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/aaron-cunningham/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates-v2/vicki-schmidt/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/aaron-cunningham/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/adam-hamilton/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/adam-hamilton/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/adam-hamilton/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/alaina-cunningham/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "Alaina Cunningham is profiled here for Hays Vice Mayor / City Commissioner as a nonpartisan incumbent/current official. Quality of life is u",
+            "left": 16,
+            "right": 440,
+            "width": 424
+          },
+          {
+            "tag": "div",
+            "className": "md:col-span-2",
+            "text": "The public record summary contains 14 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Elec",
+            "left": 16,
+            "right": 440,
+            "width": 424
+          },
+          {
+            "tag": "div",
+            "className": "grid gap-4",
+            "text": "The public record summary contains 14 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Elec",
+            "left": 16,
+            "right": 440,
+            "width": 424
+          },
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "The public record summary contains 14 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Elec",
+            "left": 16,
+            "right": 440,
+            "width": 424
+          },
+          {
+            "tag": "div",
+            "className": "rounded border p-4",
+            "text": "Source ruleOfficial records are prioritized. News reports and candidate statements are labeled by source type; social/online observations ar",
+            "left": 16,
+            "right": 440,
+            "width": 424
+          },
+          {
+            "tag": "p",
+            "className": "font-body text-sm",
+            "text": "Source rule",
+            "left": 33,
+            "right": 423,
+            "width": 390
+          },
+          {
+            "tag": "p",
+            "className": "mt-1 font-body text-sm leading-relaxed",
+            "text": "Official records are prioritized. News reports and candidate statements are labeled by source type; social/online observations are shown sep",
+            "left": 33,
+            "right": 423,
+            "width": 390
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates/adam-hamilton/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/alaina-cunningham/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/alaina-cunningham/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/alaina-cunningham/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/aaron-cunningham/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/allen-park/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/allen-park-v2/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/allen-park/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/allen-park/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/allen-park-v2/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/anne-parelkar/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/anne-parelkar/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/anne-parelkar/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/anne-parelkar/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/allen-park/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/barb-wasinger/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/barb-wasinger/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/bobbi-dreiling/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/barb-wasinger/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/bobbi-dreiling/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/bobbi-dreiling/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/barb-wasinger/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/bobbi-dreiling/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/brandon-adams/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/brandon-adams/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/brandon-adams/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/cathy-hopkins/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/brandon-adams/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/cathy-hopkins/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/cathy-hopkins/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/cathy-hopkins/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/charlotte-ohara/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/charlotte-ohara/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/charlotte-ohara/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/charlotte-ohara/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/chase-laporte/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/chase-laporte/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/chase-laporte/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/chris-mann/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/chris-mann/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/christy-cauble-davis/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/chris-mann/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/chase-laporte/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/chris-mann/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/christy-cauble-davis/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/christy-cauble-davis/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/cindy-holscher/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/cindy-holscher/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/christy-cauble-davis/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/cindy-holscher/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/cody-ward/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/cody-ward/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/cody-ward/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/cody-ward/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/colin-mcroberts/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "div",
+            "className": "",
+            "text": "Total raisedsourceIds: s-fec-candidate; coverageStart: 2025-07-01; coverageEnd: 2026-03-31; totalReceipts: 40747.79; totalContributions: 404",
+            "left": 16,
+            "right": 455,
+            "width": 439
+          },
+          {
+            "tag": "dt",
+            "className": "font-body text-sm",
+            "text": "Total raised",
+            "left": 16,
+            "right": 455,
+            "width": 439
+          },
+          {
+            "tag": "dd",
+            "className": "font-heading font-bold",
+            "text": "sourceIds: s-fec-candidate; coverageStart: 2025-07-01; coverageEnd: 2026-03-31; totalReceipts: 40747.79; totalContributions: 40428.5; totalI",
+            "left": 16,
+            "right": 455,
+            "width": 439
+          },
+          {
+            "tag": "div",
+            "className": "sm:col-span-2",
+            "text": "Reporting periodMost recent public filing reviewed",
+            "left": 16,
+            "right": 455,
+            "width": 439
+          },
+          {
+            "tag": "dt",
+            "className": "font-body text-sm",
+            "text": "Reporting period",
+            "left": 16,
+            "right": 455,
+            "width": 439
+          },
+          {
+            "tag": "dd",
+            "className": "font-body",
+            "text": "Most recent public filing reviewed",
+            "left": 16,
+            "right": 455,
+            "width": 439
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates/cindy-holscher/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/colin-mcroberts/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/colin-mcroberts/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/colin-mcroberts/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/craig-musser/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/craig-musser/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/craig-musser/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/craig-musser/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/craig-pallister/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/craig-pallister/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/craig-pallister/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/curt-vajnar/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/curt-vajnar/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/damon-anderson/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/curt-vajnar/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "Curt C. Vajnar is profiled here for Hays USD 489 Board of Education as a nonpartisan incumbent/current official. Teacher recruitment and ret",
+            "left": 16,
+            "right": 440,
+            "width": 424
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates/curt-vajnar/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/damon-anderson/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/damon-anderson/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/daniel-hawkins/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/daniel-hawkins/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/damon-anderson/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/david-c-graham/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/david-c-graham/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/daniel-hawkins/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/david-c-graham/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/david-c-graham/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/david-vilaysing/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/david-vilaysing/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/craig-pallister/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/david-vilaysing/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/derek-yarmer/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/derek-yarmer/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/derek-yarmer/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/derek-yarmer/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/david-vilaysing/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/dinah-sykes/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/dinah-sykes/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/daniel-hawkins/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/dinah-sykes/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/doug-billings/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/doug-billings/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/doug-billings/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/dinah-sykes/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/eric-lund/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/doug-billings/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/erik-murray/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/eric-lund/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/eric-lund/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/eric-lund/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/erik-murray/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/erik-murray/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/erik-murray/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ethan-corson/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ethan-corson/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ethan-corson/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ethan-corson/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jason-hart/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "div",
+            "className": "md:col-span-2",
+            "text": "The public record summary contains 8 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Immig",
+            "left": 16,
+            "right": 541,
+            "width": 525
+          },
+          {
+            "tag": "div",
+            "className": "grid gap-4",
+            "text": "The public record summary contains 8 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Immig",
+            "left": 16,
+            "right": 541,
+            "width": 525
+          },
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "The public record summary contains 8 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Immig",
+            "left": 16,
+            "right": 541,
+            "width": 525
+          },
+          {
+            "tag": "div",
+            "className": "rounded border p-4",
+            "text": "Source ruleOfficial records are prioritized. News reports and candidate statements are labeled by source type; social/online observations ar",
+            "left": 16,
+            "right": 541,
+            "width": 525
+          },
+          {
+            "tag": "p",
+            "className": "font-body text-sm",
+            "text": "Source rule",
+            "left": 33,
+            "right": 524,
+            "width": 491
+          },
+          {
+            "tag": "p",
+            "className": "mt-1 font-body text-sm leading-relaxed",
+            "text": "Official records are prioritized. News reports and candidate statements are labeled by source type; social/online observations are shown sep",
+            "left": 33,
+            "right": 524,
+            "width": 491
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates/jason-hart/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jason-hart/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jayme-goetz/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jayme-goetz/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jason-hart/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jayme-goetz/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jayme-goetz/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jeff-colyer/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jeff-colyer/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jeff-colyer/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jennifer-day/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jennifer-day/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jennifer-day/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jeff-colyer/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/joe-newland/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/jennifer-day/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/joe-newland/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/joy-eakins/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/joe-newland/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/joe-newland/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/joy-eakins/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/joy-eakins/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kc-ohaebosim/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/joy-eakins/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kc-ohaebosim/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kc-ohaebosim/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kc-ohaebosim/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kelly-ancar/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kelly-ancar/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kelly-ancar/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ken-brooks/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ken-brooks/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kelly-ancar/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ken-brooks/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ken-rahjes/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ken-brooks/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ken-rahjes/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ken-rahjes/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kevin-latz/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kevin-latz/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kevin-latz/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kevin-latz/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kris-kobach/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kris-kobach/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kris-kobach/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/kris-kobach/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/lauren-reinhold/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "div",
+            "className": "flex flex-wrap items-center gap-2",
+            "text": "BlueskyEducation / curriculum / schools",
+            "left": 16,
+            "right": 415,
+            "width": 399
+          },
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a",
+            "left": 16,
+            "right": 415,
+            "width": 399
+          },
+          {
+            "tag": "div",
+            "className": "flex flex-wrap gap-2",
+            "text": "Lauren Reinhold for Kansas campaign / Oberlin Herald republication",
+            "left": 16,
+            "right": 415,
+            "width": 399
+          },
+          {
+            "tag": "a",
+            "className": "inline-flex min-h-9 max-w-full items-center gap-1 rounded px-2.5 py-1 text-xs font-semibold hover:underline focus:outline-none focus-visible",
+            "text": "Lauren Reinhold for Kansas campaign / Oberlin Herald republication",
+            "left": 16,
+            "right": 415,
+            "width": 399
+          },
+          {
+            "tag": "svg",
+            "className": "lucide lucide-external-link shrink-0",
+            "text": "",
+            "left": 394,
+            "right": 405,
+            "width": 11
+          },
+          {
+            "tag": "path",
+            "className": "",
+            "text": "",
+            "left": 401,
+            "right": 403,
+            "width": 3
+          },
+          {
+            "tag": "path",
+            "className": "",
+            "text": "",
+            "left": 398,
+            "right": 403,
+            "width": 5
+          },
+          {
+            "tag": "path",
+            "className": "",
+            "text": "",
+            "left": 395,
+            "right": 402,
+            "width": 7
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates/lauren-reinhold/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/lauren-reinhold/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ken-rahjes/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/lorie-wood/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/lorie-wood/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/lauren-reinhold/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/lorie-wood/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/lorie-wood/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/mark-lane/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/mark-lane/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/mark-lane/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/mark-schaukowitch/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/mark-schaukowitch/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/mark-lane/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/marty-tuley/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/mark-schaukowitch/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/mark-schaukowitch/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/marty-tuley/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/marty-tuley/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/marty-tuley/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/marvin-matchett/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/marvin-matchett/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/marvin-matchett/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/marvin-matchett/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/mason-ruder/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/mason-ruder/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/mason-ruder/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/max-dibble/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/mason-ruder/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/max-dibble/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/max-dibble/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/max-dibble/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michael-berges/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michael-berges/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michael-berges/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michael-berges/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michael-soetaert/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "Michael Soetaert is profiled here for U.S. Senate as a Democratic. Michael Soetaert's current public campaign record presents a small-dollar",
+            "left": 16,
+            "right": 538,
+            "width": 522
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates/michael-soetaert/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michael-w-smith/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michael-soetaert/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michael-soetaert/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michael-w-smith/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michael-w-smith/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michael-w-smith/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michelle-cunningham/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michelle-cunningham/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/michelle-cunningham/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/nathan-leiker/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/nathan-leiker/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "div",
+            "className": "md:col-span-2",
+            "text": "The public record summary contains 35 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Taxe",
+            "left": 16,
+            "right": 508,
+            "width": 492
+          },
+          {
+            "tag": "div",
+            "className": "grid gap-4",
+            "text": "The public record summary contains 35 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Taxe",
+            "left": 16,
+            "right": 508,
+            "width": 492
+          },
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "The public record summary contains 35 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Taxe",
+            "left": 16,
+            "right": 508,
+            "width": 492
+          },
+          {
+            "tag": "div",
+            "className": "rounded border p-4",
+            "text": "Source ruleOfficial records are prioritized. News reports and candidate statements are labeled by source type; social/online observations ar",
+            "left": 16,
+            "right": 508,
+            "width": 492
+          },
+          {
+            "tag": "p",
+            "className": "font-body text-sm",
+            "text": "Source rule",
+            "left": 33,
+            "right": 491,
+            "width": 458
+          },
+          {
+            "tag": "p",
+            "className": "mt-1 font-body text-sm leading-relaxed",
+            "text": "Official records are prioritized. News reports and candidate statements are labeled by source type; social/online observations are shown sep",
+            "left": 33,
+            "right": 491,
+            "width": 458
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates/michelle-cunningham/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/nathan-leiker/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/neal-younger/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/neal-younger/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/neal-younger/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/nathan-leiker/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/noah-taylor/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/noah-taylor/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/noah-taylor/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/noah-taylor/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/neal-younger/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/pat-proctor/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": [
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "Pat Proctor is profiled here for Kansas Secretary of State as a Republican. URLs: https://www.kslegislature.gov/b2025_26/bills/HB2453/histor",
+            "left": 16,
+            "right": 705,
+            "width": 689
+          },
+          {
+            "tag": "div",
+            "className": "md:col-span-2",
+            "text": "The public record summary contains 11 source-backed items across 3 of the 14 issue areas. Representative public-record entries include: Econ",
+            "left": 16,
+            "right": 705,
+            "width": 689
+          },
+          {
+            "tag": "div",
+            "className": "grid gap-4",
+            "text": "The public record summary contains 11 source-backed items across 3 of the 14 issue areas. Representative public-record entries include: Econ",
+            "left": 16,
+            "right": 705,
+            "width": 689
+          },
+          {
+            "tag": "p",
+            "className": "font-body leading-relaxed",
+            "text": "The public record summary contains 11 source-backed items across 3 of the 14 issue areas. Representative public-record entries include: Econ",
+            "left": 16,
+            "right": 705,
+            "width": 689
+          },
+          {
+            "tag": "div",
+            "className": "rounded border p-4",
+            "text": "Source ruleOfficial records are prioritized. News reports and candidate statements are labeled by source type; social/online observations ar",
+            "left": 16,
+            "right": 705,
+            "width": 689
+          },
+          {
+            "tag": "p",
+            "className": "font-body text-sm",
+            "text": "Source rule",
+            "left": 33,
+            "right": 688,
+            "width": 655
+          },
+          {
+            "tag": "p",
+            "className": "mt-1 font-body text-sm leading-relaxed",
+            "text": "Official records are prioritized. News reports and candidate statements are labeled by source type; social/online observations are shown sep",
+            "left": 33,
+            "right": 688,
+            "width": 655
+          }
+        ]
+      }
+    },
+    {
+      "route": "/candidates/pat-proctor/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/pat-proctor/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/pat-proctor/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/patrick-schmidt/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/patrick-schmidt/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/patrick-schmidt/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/philip-sarnecki/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/philip-sarnecki/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/philip-sarnecki/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/rebecca-herzog/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/philip-sarnecki/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/rebecca-herzog/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/rebecca-herzog/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/rebecca-herzog/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/renee-duxler/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/renee-duxler/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/patrick-schmidt/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/renee-duxler/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/renee-duxler/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ric-koehn/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ric-koehn/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ric-koehn/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ric-koehn/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/roger-marshall/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/roger-marshall/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ron-wilson/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ron-wilson/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/roger-marshall/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ron-wilson/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ron-wilson/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ruth-ruder/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ruth-ruder/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/roger-marshall/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ruth-ruder/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ruth-ruder/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sam-lane/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sam-lane/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sam-lane/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sandy-jacobs/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sam-lane/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sandy-jacobs/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sandy-jacobs/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sandy-jacobs/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sandy-spidel-neumann/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sandy-spidel-neumann/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sandy-spidel-neumann/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sandy-spidel-neumann/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/scott-braun/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/scott-braun/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/scott-braun/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/scott-braun/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/scott-e-morgan/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/scott-e-morgan/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/scott-e-morgan/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/scott-schwab/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/scott-schwab/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/scott-schwab/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/scott-schwab/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sharilyn-ray/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sharilyn-ray/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sharilyn-ray/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/shaun-musil/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/scott-e-morgan/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/shaun-musil/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/shaun-musil/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/shaun-musil/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/stacy-rogers/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/stacy-rogers/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/stacy-rogers/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/stacy-rogers/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/sharilyn-ray/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/steven-jacob/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/steven-johnson/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/steven-jacob/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/steven-jacob/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/steven-johnson/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/steven-johnson/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/steven-johnson/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/toby-dougherty/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/steven-jacob/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/toby-dougherty/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/toby-dougherty/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/tracey-mann/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/tracey-mann/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/toby-dougherty/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/tracey-mann/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/tracey-mann/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ty-masterson/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ty-masterson/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/vernon-ruder-jr/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ty-masterson/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/ty-masterson/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/vernon-ruder-jr/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/vernon-ruder-jr/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/vicki-schmidt/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/vicki-schmidt/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/vicki-schmidt/sources/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/vicki-schmidt/sources/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/candidates/vernon-ruder-jr/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/citizenship-amendment/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/citizenship-amendment/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/ellis-county-2026-ballot/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/ellis-county-incumbents-off-cycle/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/ellis-county-incumbents-off-cycle/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/hays-city-current/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/hays-city-current/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/kansas-ag-2026/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/kansas-ag-2026/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/kansas-governor-2026/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/kansas-governor-2026/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/kansas-insurance-2026/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/kansas-insurance-2026/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/kansas-sos-2026/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/kansas-sos-2026/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/kansas-treasurer-2026/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/kansas-treasurer-2026/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/ks-01-house-2026/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/ks-house-110/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/ks-01-house-2026/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/ks-house-110/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/ks-house-111/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/sboe-district-5/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/ks-house-111/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/supreme-court-amendment/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/sboe-district-5/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/supreme-court-amendment/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/ellis-county-2026-ballot/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/us-senate-2026/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/usd-489-current/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/usd-489-current/",
+      "viewport": "desktop",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "overflowX": false,
+        "offenders": []
+      }
+    },
+    {
+      "route": "/elections/us-senate-2026/",
+      "viewport": "mobile",
+      "status": 200,
+      "error": null,
+      "consoleErrors": [],
+      "metrics": {
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "overflowX": false,
+        "offenders": []
+      }
+    }
+  ]
+}

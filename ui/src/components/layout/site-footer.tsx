@@ -150,10 +150,10 @@ export default function SiteFooter() {
 
       {/* Preisser Solutions CTA Banner */}
       <div
-        className="border-t border-b"
+        className="border-t"
         style={{
           borderColor: "rgba(28, 195, 175, 0.15)",
-          background: "linear-gradient(135deg, rgba(16, 64, 93, 0.6) 0%, rgba(42, 41, 41, 0.95) 50%, rgba(16, 64, 93, 0.6) 100%)",
+          backgroundColor: "rgba(16, 64, 93, 0.35)",
         }}
       >
         <Container>
@@ -161,26 +161,26 @@ export default function SiteFooter() {
             href="https://www.preissersolutions.com/"
             target="_blank"
             rel="noopener noreferrer"
-            className="group flex flex-col sm:flex-row items-center justify-between gap-5 py-8 sm:py-6"
+            className="group grid gap-4 py-6 sm:grid-cols-[minmax(0,1fr)_auto] sm:items-center"
             aria-label="Visit Preisser Solutions"
           >
             {/* Left: Logo + messaging */}
-            <div className="flex items-center gap-4">
+            <div className="flex min-w-0 items-start gap-3">
               <img
                 src={`${process.env.NODE_ENV === "production" ? "/elect-righteous" : ""}/preisser-solutions-logo.webp`}
                 alt="Preisser Solutions"
-                width={44}
-                height={44}
+                width={36}
+                height={36}
                 className="rounded-md flex-shrink-0 group-hover:scale-105 transition-transform duration-300"
               />
-              <div className="flex flex-col gap-1">
+              <div className="flex min-w-0 flex-col gap-1">
                 <span
-                  className="font-heading font-bold text-base sm:text-lg tracking-wide text-white group-hover:text-teal transition-colors duration-300"
+                  className="font-heading text-sm font-bold tracking-wide text-white transition-colors duration-300 group-hover:text-teal sm:text-base"
                 >
                   Preisser Solutions
                 </span>
                 <span
-                  className="text-sm font-body leading-snug"
+                  className="text-xs font-body leading-relaxed sm:text-sm"
                   style={{ color: "rgba(246, 246, 246, 0.65)" }}
                 >
                   Preisser Solutions builds world-class systems behind modern businesses: high-converting websites, local SEO, AI search visibility, CRM workflows, dashboards, and automations that reduce manual work and increase qualified leads.
@@ -190,7 +190,7 @@ export default function SiteFooter() {
 
             {/* Right: CTA button */}
             <span
-              className="flex items-center gap-2 px-6 py-2.5 rounded-md font-heading font-semibold text-sm uppercase tracking-wider text-white flex-shrink-0 transition-all duration-300 group-hover:scale-105 group-hover:shadow-lg"
+              className="flex min-h-11 w-full items-center justify-center gap-2 rounded-md px-5 font-heading text-sm font-semibold uppercase tracking-wide text-white transition-all duration-300 group-hover:shadow-lg sm:w-auto"
               style={{
                 backgroundColor: "var(--color-teal)",
               }}

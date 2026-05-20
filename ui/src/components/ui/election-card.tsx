@@ -38,8 +38,13 @@ export default function ElectionCard({
   className = "",
 }: ElectionCardProps) {
   return (
-    <article className={`card group ${className}`}>
-      <div className="p-6 flex flex-col h-full">
+    <Link
+      href={`/elections/${slug}`}
+      className={`group block h-full rounded-lg border bg-white transition-all duration-200 hover:-translate-y-0.5 hover:border-teal/40 hover:shadow-[0_18px_45px_rgba(16,64,93,0.12)] focus:outline-none focus-visible:ring-2 focus-visible:ring-teal ${className}`}
+      style={{ borderColor: "rgba(16, 64, 93, 0.12)" }}
+      aria-label={`Read about ${name}`}
+    >
+      <article className="p-6 flex flex-col h-full">
         {/* Header */}
         <div className="flex items-start justify-between gap-3 mb-4">
           <Badge variant="type" className="shrink-0 mt-0.5">
@@ -87,15 +92,15 @@ export default function ElectionCard({
         </dl>
 
         {/* CTA */}
-        <Link
-          href={`/elections/${slug}`}
-          className="inline-flex items-center gap-1.5 text-sm font-semibold font-heading text-teal hover:text-teal-dark transition-colors duration-200 mt-auto"
-          aria-label={`Read about ${name}`}
+        <span
+          className="mt-auto inline-flex min-h-10 items-center justify-between gap-2 rounded-md px-3 text-sm font-semibold font-heading transition-colors duration-200 group-hover:bg-navy group-hover:text-white"
+          style={{ color: "var(--color-teal-dark)", backgroundColor: "rgba(28, 195, 175, 0.08)" }}
+          aria-hidden="true"
         >
           Read More
           <ArrowRight size={15} className="transition-transform duration-200 group-hover:translate-x-1" aria-hidden="true" />
-        </Link>
-      </div>
-    </article>
+        </span>
+      </article>
+    </Link>
   );
 }

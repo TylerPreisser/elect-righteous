@@ -512,7 +512,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Family and obituary material in the source record points to a Catholic background, but the file does not support naming a current parish.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
-    "narrative": "No complete candidate donor ledger or receipts-and-expenditures report was verified online in the reviewed public record.; KPDC guidance says local candidates file Appointment of Treasurer forms with county clerks or county election commissioners.; Existing local memory mentions county Republican committee expenditures of $999 for a text broadcast and $50 for room rental, but the underlying source/PDF was not recovered; do not treat those amounts as confirmed until sourced.",
+    "narrative": "No complete candidate donor ledger or receipts-and-expenditures report was verified online in the reviewed public record.; KPDC guidance says local candidates file Appointment of Treasurer forms with county clerks or county election commissioners.; Existing local memory mentions county Republican committee expenditures of $999 for a text broadcast and $50 for room rental, but the underlying source/PDF was not recovered; those amounts are not treated as confirmed without a source.",
     "donors": [],
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"

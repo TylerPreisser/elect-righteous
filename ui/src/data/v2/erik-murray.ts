@@ -503,7 +503,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "publisher": "Kansas Secretary of State",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Page returned JavaScript/anti-bot verification gate in this environment",
+        "Page returned JavaScript/anti-bot verification gate during public-source review",
         "Direct SOS candidate-list row for Murray was not confirmed",
         "Kansas Secretary of State - Candidate Lists: sos.ks.gov/elections",
         "sos.ks.gov/elections"

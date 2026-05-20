@@ -381,7 +381,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: Candidate-list limitation: The SOS live candidate-list endpoint (https://sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / robot-verification block in this environment. The review could not directly confirm a live SOS candidate-list row for Sarnecki. Because the June 1 filing deadline has not yet passed as of May 19, 2026, do not describe the ballot as final.",
+        "text": "Documented public record: Candidate-list limitation: The SOS live candidate-list endpoint (https://sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / robot-verification block during public-source review. The review could not directly confirm a live SOS candidate-list row for Sarnecki. Because the June 1 filing deadline has not yet passed as of May 19, 2026, the ballot description remains provisional until final s...",
         "sourceIds": [
           "s-sos-candidate-list-blocked"
         ]
@@ -390,7 +390,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
         {
           "id": "em-philip-sarnecki-02380",
           "date": "Undated",
-          "body": "Candidate-list limitation: The SOS live candidate-list endpoint (https://sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / robot-verification block in this environment. The review could not directly confirm a live SOS candidate-list row for Sarnecki. Because the June 1 filing deadline has not yet passed as of May 19, 2026, do not describe the ballot as final.",
+          "body": "Candidate-list limitation: The SOS live candidate-list endpoint (https://sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / robot-verification block during public-source review. The review could not directly confirm a live SOS candidate-list row for Sarnecki. Because the June 1 filing deadline has not yet passed as of May 19, 2026, the ballot description remains provisional until final status is confirmed.",
           "sourceIds": [
             "s-sos-candidate-list-blocked"
           ]
@@ -421,7 +421,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Official candidate-list endpoint returned JavaScript / robot-verification text in logged-out capture.",
         "the reviewed public record could not confirm final filed-candidate / ballot status from the candidate-list endpoint.",
-        "Candidate-list limitation: The SOS live candidate-list endpoint (https://sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / robot-verification block in this environment. The review could not..."
+        "Candidate-list limitation: The SOS live candidate-list endpoint (https://sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / robot-verification block during public-source review. The review c..."
       ]
     },
     {

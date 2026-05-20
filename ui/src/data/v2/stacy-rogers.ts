@@ -483,7 +483,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: The SOS candidate-list page itself (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript/captcha block in this environment. A county election-office page for Johnson County lists \"Stacy L. Rogers / Michael W. Smith\" for Governor / Lieutenant Governor of Kansas, party Republican, incumbent No, office level State Offices, term four years. (Johnson County Election Office) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Documented public record: The SOS candidate-list page itself (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript/captcha block during public-source review. A county election-office page for Johnson County lists \"Stacy L. Rogers / Michael W. Smith\" for Governor / Lieutenant Governor of Kansas, party Republican, incumbent No, office level State Offices, term four years. (Johnson County Election Office) Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-sos-candidate-list-blocked",
           "s-campaign-home"
@@ -493,7 +493,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
         {
           "id": "em-stacy-rogers-02196",
           "date": "Undated",
-          "body": "The SOS candidate-list page itself (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript/captcha block in this environment. A county election-office page for Johnson County lists \"Stacy L. Rogers / Michael W. Smith\" for Governor / Lieutenant Governor of Kansas, party Republican, incumbent No, office level State Offices, term four years. (Johnson County Election Office)",
+          "body": "The SOS candidate-list page itself (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript/captcha block during public-source review. A county election-office page for Johnson County lists \"Stacy L. Rogers / Michael W. Smith\" for Governor / Lieutenant Governor of Kansas, party Republican, incumbent No, office level State Offices, term four years. (Johnson County Election Office)",
           "sourceIds": [
             "s-sos-candidate-list-blocked"
           ]
@@ -568,9 +568,9 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "publisher": "Kansas Secretary of State",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Direct candidate-list page returned a JavaScript/captcha block in this environment",
+        "Direct candidate-list page returned a JavaScript/captcha block during public-source review",
         "Kansas SOS candidate list: attempted at https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx; returned JavaScript/captcha block. Record as blocker, not as absence.",
-        "The SOS candidate-list page itself (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript/captcha block in this environment. A county election-office page for Johnson County lists \"St...",
+        "The SOS candidate-list page itself (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript/captcha block during public-source review. A county election-office page for Johnson County l...",
         "Kansas Secretary of State - 2026 Candidate List - https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx - accessed 2026-05-19 - tier: primary, blocked by JavaScript/captcha"
       ]
     },

@@ -29,8 +29,9 @@
   body {
     font-family: var(--font-body);
     color: var(--color-charcoal);
-    background: white;
+    background: #f7f8f7;
     -webkit-font-smoothing: antialiased;
+    text-rendering: geometricPrecision;
   }
   h1, h2, h3, h4, h5, h6 {
     font-family: var(--font-heading);
@@ -47,16 +48,16 @@
     color: var(--color-teal);
   }
   .hero-overlay {
-    background: linear-gradient(rgba(0, 0, 0, 0.82), rgba(16, 64, 93, 0.85));
+    background: linear-gradient(rgba(7, 26, 36, 0.82), rgba(16, 64, 93, 0.88));
   }
   .btn-primary {
-    @apply bg-teal text-white font-heading font-semibold uppercase tracking-wider px-8 py-3 rounded-md transition-all duration-200 hover:bg-teal-dark hover:shadow-lg;
+    @apply bg-teal text-white font-heading font-semibold uppercase tracking-wide px-8 py-3 rounded-md transition-all duration-200 hover:bg-teal-dark hover:shadow-lg;
   }
   .btn-secondary {
-    @apply bg-navy text-white font-heading font-semibold uppercase tracking-wider px-8 py-3 rounded-md transition-all duration-200 hover:bg-navy-light hover:shadow-lg;
+    @apply bg-navy text-white font-heading font-semibold uppercase tracking-wide px-8 py-3 rounded-md transition-all duration-200 hover:bg-navy-light hover:shadow-lg;
   }
   .btn-outline {
-    @apply border-2 border-white text-white font-heading font-semibold uppercase tracking-wider px-8 py-3 rounded-md transition-all duration-200 hover:bg-white hover:text-navy;
+    @apply border-2 border-white text-white font-heading font-semibold uppercase tracking-wide px-8 py-3 rounded-md transition-all duration-200 hover:bg-white hover:text-navy;
   }
   .section-navy {
     @apply bg-navy text-white py-16 md:py-24;
@@ -68,7 +69,9 @@
     @apply bg-white py-16 md:py-24;
   }
   .card {
-    @apply bg-white rounded-lg shadow-md overflow-hidden transition-all duration-200 hover:shadow-xl hover:-translate-y-1;
+    @apply bg-white rounded-lg border overflow-hidden transition-all duration-200 hover:-translate-y-0.5;
+    border-color: rgba(16, 64, 93, 0.12);
+    box-shadow: 0 14px 40px rgba(16, 64, 93, 0.08);
   }
   .container-main {
     @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;

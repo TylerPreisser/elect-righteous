@@ -476,7 +476,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: Candidate-list limitation: The SOS live candidate-list endpoint (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / CloudFront anti-bot block in this environment. The review could not directly confirm a live SOS candidate-list row for Eakins. Because the June 1 filing deadline has not yet passed as of May 19, 2026, do not describe the ballot as final. Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Documented public record: Candidate-list limitation: The SOS live candidate-list endpoint (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / CloudFront anti-bot block during public-source review. The review could not directly confirm a live SOS candidate-list row for Eakins. Because the June 1 filing deadline has not yet passed as of May 19, 2026, the ballot description remains provisional until fina... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "src-joy-eakins-0110"
         ]
@@ -485,7 +485,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
         {
           "id": "em-joy-eakins-02422",
           "date": "Undated",
-          "body": "Candidate-list limitation: The SOS live candidate-list endpoint (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / CloudFront anti-bot block in this environment. The review could not directly confirm a live SOS candidate-list row for Eakins. Because the June 1 filing deadline has not yet passed as of May 19, 2026, do not describe the ballot as final.",
+          "body": "Candidate-list limitation: The SOS live candidate-list endpoint (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / CloudFront anti-bot block during public-source review. The review could not directly confirm a live SOS candidate-list row for Eakins. Because the June 1 filing deadline has not yet passed as of May 19, 2026, the ballot description remains provisional until final status is confirmed.",
           "sourceIds": [
             "src-joy-eakins-0110"
           ]
@@ -858,7 +858,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "publisher": "Sos.Ks",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Candidate-list limitation: The SOS live candidate-list endpoint (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / CloudFront anti-bot block in this environment. The review coul..."
+        "Candidate-list limitation: The SOS live candidate-list endpoint (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / CloudFront anti-bot block during public-source review. The rev..."
       ]
     },
     {

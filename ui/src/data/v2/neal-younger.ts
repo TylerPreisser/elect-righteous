@@ -726,7 +726,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Official PDF visual readback page 3 shows County Commission 2nd District Neal Younger (R) with 3,653 votes",
         "Official PDF visual readback page 3 shows write-ins with 59 and total votes cast 3,712",
-        "PDF is image-only for text extraction in this environment",
+        "PDF is image-only for text extraction during public-source review",
         "2024 official results PDF lists County Commission 2nd District: Republican Neal Younger, 3,653 votes, and 59 write-in votes."
       ]
     },
@@ -739,7 +739,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Official PDF visual readback page 10 shows Republican Commission 2nd District Neal Younger with 381 votes",
-        "PDF is image-only for text extraction in this environment"
+        "PDF is image-only for text extraction during public-source review"
       ]
     },
     {

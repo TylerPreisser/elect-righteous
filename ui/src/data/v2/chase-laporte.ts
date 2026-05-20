@@ -297,7 +297,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Public evidence: Ballotpedia, blocked by JavaScript/robot verification in this environment, attempted 2026-05-19: https://ballotpedia.org/Chase_LaPorte",
+        "text": "Public evidence: Ballotpedia, blocked by JavaScript/robot verification during public-source review, attempted 2026-05-19: https://ballotpedia.org/Chase_LaPorte",
         "sourceIds": [
           "src-chase-laporte-0112"
         ]
@@ -310,8 +310,8 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
   "recordSummary": "The public record summary contains 8 source-backed items across 2 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187... Election integrity / voting / courts: Johnson County Election Office, \"Chase LaPorte,\" accessed 2026-05-19: https://www.jocoelection.org/candidates-elected-officials/chase-laporte. Election integrity / voting / courts: Johnson County Election Office, \"Candidates,\" accessed 2026-05-19: https://www.jocoelection.org/candidates-elected-officials/candidates. Election integrity / voting / courts: Kansas Reflector, \"Kansas Democrat makes reelection campaign for U.S. House seat official,\" published 2026-05-11, accessed 2026-05-19: https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reele... Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "\"OnTheIssues archived a 2022 campaign-site statement saying LaPorte\\nbelieved in \\\"the Biblical standard for marriage, the traditional\\nfamily unit, as well as the Biblical model for parenting.\\\" In a\\nseparate 2022 principles statement, the archive recorded... This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
-    "totalRaised": "No processed 2025-2026 FEC financial summary was available for LaPorte under the reviewed 2026 House IDs H6KS03258 and H6KS03274 or Senate ID S6KS00254. FEC search/API output returned has_raised_funds=false for the 2026 federal IDs before rate limiting. A Kansas party-committee PDF surfaced in search snippets with Chase LaPorte's name, but it appears to be a party committee receipt report rather than LaPorte campaign receipts; do not use those names as LaPorte donor evidence.",
-    "narrative": "No processed 2025-2026 FEC financial summary was available for LaPorte under the reviewed 2026 House IDs H6KS03258 and H6KS03274 or Senate ID S6KS00254. FEC search/API output returned has_raised_funds=false for the 2026 federal IDs before rate limiting. A Kansas party-committee PDF surfaced in search snippets with Chase LaPorte's name, but it appears to be a party committee receipt report rather than LaPorte campaign receipts; do not use those names as LaPorte donor evidence.",
+    "totalRaised": "No processed 2025-2026 FEC financial summary was available for LaPorte under the reviewed 2026 House IDs H6KS03258 and H6KS03274 or Senate ID S6KS00254. FEC search/API output returned has_raised_funds=false for the 2026 federal IDs before rate limiting. A Kansas party-committee PDF surfaced in search snippets with Chase LaPorte's name, but it appears to be a party committee receipt report rather than LaPorte campaign receipts; those names are not treated as LaPorte donor evidence.",
+    "narrative": "No processed 2025-2026 FEC financial summary was available for LaPorte under the reviewed 2026 House IDs H6KS03258 and H6KS03274 or Senate ID S6KS00254. FEC search/API output returned has_raised_funds=false for the 2026 federal IDs before rate limiting. A Kansas party-committee PDF surfaced in search snippets with Chase LaPorte's name, but it appears to be a party committee receipt report rather than LaPorte campaign receipts; those names are not treated as LaPorte donor evidence.",
     "donors": [],
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "LAPORTE, CHASE - Candidate overview H6KS03258"
@@ -686,7 +686,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "publisher": "Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Ballotpedia, blocked by JavaScript/robot verification in this environment, attempted 2026-05-19: https://ballotpedia.org/Chase_LaPorte",
+        "Ballotpedia, blocked by JavaScript/robot verification during public-source review, attempted 2026-05-19: https://ballotpedia.org/Chase_LaPorte",
         "Ballotpedia: Chase LaPorte",
         "Chase LaPorte - Ballotpedia"
       ]

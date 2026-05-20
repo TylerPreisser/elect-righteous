@@ -34,12 +34,12 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
     title: `${candidate.name} — ${party} ${candidate.position}`,
     description: `Source-cited issue profile for ${candidate.name}, ${party} ${profileStatus.headlineSuffix} for ${candidate.position}.`,
     alternates: {
-      canonical: `/elect-righteous/candidates-v2/${candidate.slug}/`,
+      canonical: `/elect-righteous/candidates/${candidate.slug}/`,
     },
     openGraph: {
       title: `${candidate.name} | Elect Righteous`,
       description: `${party} ${profileStatus.metadataNoun} for ${candidate.position}. Source-cited issue profile with ${candidate.sources.length}+ public sources.`,
-      url: `/elect-righteous/candidates-v2/${candidate.slug}/`,
+      url: `/elect-righteous/candidates/${candidate.slug}/`,
       images: [
         {
           url: "/elect-righteous/og-image-v3.png",

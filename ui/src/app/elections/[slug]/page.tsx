@@ -6,6 +6,7 @@ import Badge from "@/components/ui/badge";
 import { ELECTIONS, getAllElectionSlugs, getElectionBySlug } from "@/data/elections";
 import { V2_CANDIDATES } from "@/data/v2";
 import { getProfileStatus } from "@/lib/profile-status";
+import { getProfileMetrics } from "@/lib/profile-metrics";
 
 // ── Static export: pre-render all election slugs ──────────────────────────────
 export function generateStaticParams() {
@@ -110,7 +111,7 @@ export default async function ElectionDetailPage({ params }: PageProps) {
           <Container>
             <nav
               aria-label="Breadcrumb"
-              className="flex items-center gap-1.5 py-3 text-sm font-body"
+              className="flex flex-wrap items-center gap-1.5 py-3 text-sm font-body"
               style={{ color: "var(--color-slate)" }}
             >
               <Link
@@ -268,17 +269,18 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                               ? "Nonpartisan"
                               : "Independent";
                           const profileStatus = getProfileStatus(candidate);
+                          const metrics = getProfileMetrics(candidate);
 
                           return (
                             <li key={candidate.slug}>
                               <Link
                                 href={`/candidates/${candidate.slug}`}
-                                className="group block rounded-lg border transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
-                                style={{ borderColor: "#e2e8f0" }}
+                                className="group block rounded-lg border bg-white transition-all duration-200 hover:-translate-y-0.5 hover:border-teal/40 hover:shadow-[0_18px_45px_rgba(16,64,93,0.10)] focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
+                                style={{ borderColor: "rgba(16, 64, 93, 0.12)" }}
                                 aria-label={`Read more about ${candidate.name}`}
                               >
                                 <div className="p-6">
-                                  <div className="flex flex-col sm:flex-row sm:items-start sm:justify-between gap-3">
+                                  <div className="grid gap-4 md:grid-cols-[minmax(0,1fr)_auto] md:items-start">
                                     <div className="flex-1 min-w-0">
                                       {/* Party + status */}
                                       <p
@@ -304,26 +306,38 @@ export default async function ElectionDetailPage({ params }: PageProps) {
 
                                       {/* Occupation */}
                                       <p
-                                        className="text-sm"
+                                        className="text-sm leading-relaxed"
                                         style={{ color: "var(--color-slate)" }}
                                       >
                                         {candidate.occupation}
                                       </p>
                                     </div>
 
-                                    {/* Arrow CTA */}
-                                    <div
-                                      className="flex items-center gap-1.5 text-sm font-semibold font-heading shrink-0 transition-colors duration-200 group-hover:text-teal"
-                                      style={{ color: "var(--color-teal-dark)" }}
-                                      aria-hidden="true"
-                                    >
-                                      Read More
-                                      <ArrowRight
-                                        size={15}
-                                        className="transition-transform duration-200 group-hover:translate-x-1"
-                                      />
+                                    <div className="grid grid-cols-3 gap-2 md:min-w-[16rem]">
+                                      {[
+                                        ["Sources", metrics.sourceCount],
+                                        ["Records", metrics.actionCount],
+                                        ["Online", metrics.socialCount],
+                                      ].map(([label, value]) => (
+                                        <span key={label} className="rounded bg-slate-50 px-2 py-2 text-center">
+                                          <span className="block font-heading text-base font-bold" style={{ color: "var(--color-navy)" }}>
+                                            {value}
+                                          </span>
+                                          <span className="block text-[0.65rem] uppercase tracking-wide" style={{ color: "var(--color-slate)" }}>
+                                            {label}
+                                          </span>
+                                        </span>
+                                      ))}
                                     </div>
                                   </div>
+                                  <span
+                                    className="mt-4 inline-flex min-h-10 items-center justify-between gap-2 rounded-md px-3 text-sm font-heading font-semibold transition-colors duration-200 group-hover:bg-navy group-hover:text-white"
+                                    style={{ color: "var(--color-teal-dark)", backgroundColor: "rgba(28, 195, 175, 0.08)" }}
+                                    aria-hidden="true"
+                                  >
+                                    Open dossier
+                                    <ArrowRight size={15} className="transition-transform duration-200 group-hover:translate-x-1" />
+                                  </span>
                                 </div>
                               </Link>
                             </li>

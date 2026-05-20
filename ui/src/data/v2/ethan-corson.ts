@@ -556,7 +556,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
     "totalRaised": "$902,641.13",
     "narrative": "KPDC 2026 statewide gubernatorial report confirmed",
     "donors": [],
-    "undisclosed": "Visible Schedule A examples include Tony Atterbury, Amy Bartak, Mary Becker, Matt Birch, Louis Bornman, William Bradley, Jim Breneman, Randal Carlson, and The Next50.; Examples are not a full donor analysis; verify the original PDF before relying on that specific donor example.; KPDC reports warn against copying contributor names for commercial purposes.; Kansas City Star reported a $1,000 CoreCivic contribution to Corson's 2024 Senate campaign and a campaign response; the reviewed public record did not independently locate a clean CoreCivic text match in searched official PDFs.",
+    "undisclosed": "Visible Schedule A examples include Tony Atterbury, Amy Bartak, Mary Becker, Matt Birch, Louis Bornman, William Bradley, Jim Breneman, Randal Carlson, and The Next50.; Examples are not a full donor analysis; donor examples require original-PDF verification before publication.; KPDC reports warn against copying contributor names for commercial purposes.; Kansas City Star reported a $1,000 CoreCivic contribution to Corson's 2024 Senate campaign and a campaign response; the reviewed public record did not independently locate a clean CoreCivic text match in searched official PDFs.",
     "reportingPeriod": "2025 year-end, covering 2025-01-01 through 2025-12-31",
     "source": "Kansas State Wide Office - 2026 Election Cycle"
   },

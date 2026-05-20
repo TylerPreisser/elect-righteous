@@ -279,7 +279,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
         {
           "id": "em-shaun-musil-00009",
           "date": "Undated",
-          "body": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible in this environment, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate-controlled YouTube channel surfaced. The highest visible engagement signal found was electoral rath...",
+          "body": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible during public-source review, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate-controlled YouTube channel surfaced. The highest visible engagement signal found was electo...",
           "sourceIds": [
             "s-goodparty"
           ]
@@ -313,7 +313,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
         {
           "id": "soc-shaun-musil-0001",
           "platform": "Bluesky",
-          "observation": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible in this environment, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate...",
+          "observation": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible during public-source review, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or c...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-goodparty"
@@ -500,7 +500,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
         {
           "id": "em-shaun-musil-00009",
           "date": "Undated",
-          "body": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible in this environment, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate-controlled YouTube channel surfaced. The highest visible engagement signal found was electoral rath...",
+          "body": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible during public-source review, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate-controlled YouTube channel surfaced. The highest visible engagement signal found was electo...",
           "sourceIds": [
             "s-goodparty"
           ]
@@ -518,7 +518,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
         {
           "id": "soc-shaun-musil-0001",
           "platform": "Bluesky",
-          "observation": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible in this environment, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate...",
+          "observation": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible during public-source review, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or c...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-goodparty"
@@ -541,7 +541,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible in this environment, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Documented public record: The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible during public-source review, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or c... Social/online observations are public signals, not confirmed policy positions.",
         "sourceIds": [
           "s-goodparty"
         ]
@@ -550,7 +550,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
         {
           "id": "em-shaun-musil-00009",
           "date": "Undated",
-          "body": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible in this environment, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate-controlled YouTube channel surfaced. The highest visible engagement signal found was electoral rath...",
+          "body": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible during public-source review, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate-controlled YouTube channel surfaced. The highest visible engagement signal found was electo...",
           "sourceIds": [
             "s-goodparty"
           ]
@@ -560,7 +560,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
         {
           "id": "soc-shaun-musil-0001",
           "platform": "Bluesky",
-          "observation": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible in this environment, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or candidate...",
+          "observation": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible during public-source review, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or c...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-goodparty"
@@ -570,7 +570,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
         {
           "id": "soc-shaun-musil-0045",
           "platform": "Facebook",
-          "observation": "Facebook: no reliable visible engagement because direct access to facebook.com/musilcomish was blocked in this environment.",
+          "observation": "Facebook: no reliable visible engagement because direct access to facebook.com/musilcomish was blocked during public-source review.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-facebook"
@@ -682,11 +682,11 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "GoodParty linked this Facebook URL",
-        "Public content was blocked/inaccessible in this environment",
+        "Public content was blocked/inaccessible during public-source review",
         "Facebook (Official): Shaun Musil - Hays City Commissioner",
         "Facebook (Official): musilcomish",
         "Shaun Musil - Hays City Commissioner",
-        "Facebook: no reliable visible engagement because direct access to facebook.com/musilcomish was blocked in this environment.",
+        "Facebook: no reliable visible engagement because direct access to facebook.com/musilcomish was blocked during public-source review.",
         "Facebook: Shaun Musil Commissioner",
         "Facebook page link: https://www.facebook.com/musilcomish/",
         "Facebook - musilcomish"
@@ -701,7 +701,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "GoodParty linked this LinkedIn URL",
-        "Full profile/activity was login-gated in this environment",
+        "Full profile/activity was login-gated during public-source review",
         "LinkedIn: Shaun Musil - Nex-Tech",
         "LinkedIn: Shaun Musil",
         "Shaun Musil - Nex-Tech",

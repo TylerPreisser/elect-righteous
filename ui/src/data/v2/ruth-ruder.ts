@@ -33,42 +33,20 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Public evidence: Sensitivity flag: The original Hays High bathroom design (private vs. group / \"gender-neutral\" framing per earlier Sentinel coverage at https://sentinelksmo.org/hays-high-school-contstruction-project-restrooms-stirs-controversy/) has culture-war valence. The April 22, 2026 closure was triggered by vandalism; Ruth's statements are on the closure decision and on the priority-setting question, not on the original desig... Social/online observations are public signals, not confirmed policy positions.",
-        "sourceIds": [
-          "src-ruth-ruder-0023"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-ruth-ruder-01889",
-          "date": "Undated",
-          "body": "Sensitivity flag: The original Hays High bathroom design (private vs. group / \"gender-neutral\" framing per earlier Sentinel coverage at https://sentinelksmo.org/hays-high-school-contstruction-project-restrooms-stirs-controversy/) has culture-war valence. The April 22, 2026 closure was triggered by vandalism; Ruth's statements are on the closure decision and on the priority-setting question, not on the original design. Narrative-writer should keep that distinction clear. Do not collapse the two into one \"she oppose...",
-          "sourceIds": [
-            "src-ruth-ruder-0023"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Public evidence: Sensitivity flag: The original Hays High bathroom design (private vs. group / \"gender-neutral\" framing per earlier Sentinel coverage at https://sentinelksmo.org/hays-high-school-contstruction-project-restrooms-stirs-controversy/) has culture-war valence. The April 22, 2026 closure was triggered by vandalism; Ruth's statements are on the closure decision and on the priority-setting question, not on the original desig... Social/online observations are public signals, not confirmed policy positions.",
-        "sourceIds": [
-          "src-ruth-ruder-0023"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-ruth-ruder-01889",
-          "date": "Undated",
-          "body": "Sensitivity flag: The original Hays High bathroom design (private vs. group / \"gender-neutral\" framing per earlier Sentinel coverage at https://sentinelksmo.org/hays-high-school-contstruction-project-restrooms-stirs-controversy/) has culture-war valence. The April 22, 2026 closure was triggered by vandalism; Ruth's statements are on the closure decision and on the priority-setting question, not on the original design. Narrative-writer should keep that distinction clear. Do not collapse the two into one \"she oppose...",
-          "sourceIds": [
-            "src-ruth-ruder-0023"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -246,7 +224,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Ruth Ruder is profiled here for USD 489 Board of Education member as a nonpartisan incumbent/current official. SECONDARY (anchors date + final vote tally + Park's process motions): Hays Post, \"Hays USD 489 district administrators' contracts extended another year,\" https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf. SECONDARY (anchors flooring/asbestos 4-2 + Ruder verbatim on flooring): Hays Post, \"Hays USD 489 votes to replace tile at former middle school, abate asbestos,\" https://hayspost.com/posts/965dbfb4-fc96-4377-b6f3-7f5050176e21. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 4 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Sensitivity flag: The original Hays High bathroom design (private vs. group / \"gender-neutral\" framing per earlier Sentinel coverage at https://sentinelksmo.org/hays-high-school-contstruction-project-restro... Education / curriculum / schools: Sensitivity flag: The original Hays High bathroom design (private vs. group / \"gender-neutral\" framing per earlier Sentinel coverage at https://sentinelksmo.org/hays-high-school-contstruction-project-restr... Taxes / spending / debt: Board member Ruth Ruder expressed concern that someone might purchase the land for a tax deduction, only to leave it vacant. - Hays Post board coverage, 2025; https://hayspost.com/posts/fc95a5ee-b8b3-4d06-b876-7cba... Election integrity / voting / courts: Plus October 24, 2023 candidate Q&A statements (Hays Post, https://hayspost.com/posts/4f225559-3a1c-4499-af0d-d0c7affa85a1):. Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "The public record summary contains 2 source-backed items across 2 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: Board member Ruth Ruder expressed concern that someone might purchase the land for a tax deduction, only to leave it vacant. - Hays Post board coverage, 2025; https://hayspost.com/posts/fc95a5ee-b8b3-4d06-b876-7cba... Election integrity / voting / courts: Plus October 24, 2023 candidate Q&A statements (Hays Post, https://hayspost.com/posts/4f225559-3a1c-4499-af0d-d0c7affa85a1):. Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "The reviewed public record did not identify a reliable public source that identifies Ruth Ruder's church home or denomination. Because the public record is thin here, No church affiliation is assigned without evidence. Public sources do not identify Ruth Ruder's church home or denomination. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "$200,000",
@@ -268,7 +246,6 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Ruth Ruder is a current USD 489 board member",
         "Ruth Ruder's board term runs through approximately January 2028",
-        "Implication for narrative-writer: Do not assert \"Vice President\" as Ruth Ruder's current title without confirming against the live BoardDocs portal or the live USD 489 official board page (https://www.usd489.com/page/bo...",
         "USD 489 Board of Education page"
       ]
     },
@@ -342,18 +319,6 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
         "> -- Hays Post, 2023 candidate profile, https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a",
         "U-2: Family-network adjacency to other Hays officeholders. Ruth's husband Vernon Ruder Jr. (Ellis County Treasurer) and son Mason Ruder (Hays Mayor) hold separate elective offices. Per directive, this context belongs in...",
         "\"source\": \"Hays Post, 2023 candidate profile, https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a\""
-      ]
-    },
-    {
-      "id": "src-ruth-ruder-0023",
-      "tier": "secondary",
-      "url": "https://sentinelksmo.org/hays-high-school-contstruction-project-restrooms-stirs-controversy/",
-      "title": "Sentinelksmo",
-      "publisher": "Sentinelksmo",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Sensitivity flag: The original Hays High bathroom design (private vs. group / \"gender-neutral\" framing per earlier Sentinel coverage at https://sentinelksmo.org/hays-high-school-contstruction-project-restrooms-stirs-con...",
-        "Hays High School construction project, restrooms stirs controversy (Kansas Sentinel)"
       ]
     },
     {

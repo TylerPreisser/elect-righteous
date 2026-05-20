@@ -34,7 +34,7 @@ function SourceChip({ source }: { source: Source }) {
       href={source.url}
       target="_blank"
       rel="noopener noreferrer"
-      className="inline-flex items-center gap-1 rounded px-2 py-0.5 text-xs font-body font-semibold transition-colors duration-150 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
+      className="inline-flex min-h-9 max-w-full items-center gap-1 rounded px-2.5 py-1 text-xs font-body font-semibold transition-colors duration-150 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
       style={{
         backgroundColor: "rgba(16, 64, 93, 0.07)",
         color: "var(--color-navy-light)",
@@ -50,6 +50,14 @@ function SourceChip({ source }: { source: Source }) {
       />
     </a>
   );
+}
+
+function cleanEvidenceText(text: string) {
+  return text
+    .replace(/https?:\/\/\S+/g, "")
+    .replace(/\s{2,}/g, " ")
+    .replace(/\s+([,.;:])/g, "$1")
+    .trim();
 }
 
 export default function ActionList({ actions, sources }: ActionListProps) {
@@ -70,7 +78,7 @@ export default function ActionList({ actions, sources }: ActionListProps) {
   const sorted = [...actions].sort((a, b) => (a.date < b.date ? 1 : -1));
 
   return (
-    <ol className="grid gap-4" role="list">
+    <ol className="divide-y rounded-md border" style={{ borderColor: "rgba(16, 64, 93, 0.10)" }} role="list">
       {sorted.map((action) => {
         const resolvedSources = action.sourceIds
           .map((id) => sourceById.get(id))
@@ -79,7 +87,7 @@ export default function ActionList({ actions, sources }: ActionListProps) {
         return (
           <li
             key={action.id}
-            className="flex flex-col gap-2 rounded-md border p-4 sm:flex-row sm:gap-3"
+            className="flex flex-col gap-2 p-4 sm:flex-row sm:gap-3"
             style={{ borderColor: "rgba(16, 64, 93, 0.10)" }}
           >
             {/* Date column */}
@@ -97,7 +105,7 @@ export default function ActionList({ actions, sources }: ActionListProps) {
                 className="font-body leading-relaxed"
                 style={{ fontSize: "0.9375rem", color: "var(--color-charcoal)" }}
               >
-                {action.body}
+                {cleanEvidenceText(action.body)}
               </p>
 
               {resolvedSources.length > 0 && (

@@ -28,7 +28,9 @@ const ELECTION_CATEGORIES: ElectionCategory[] = [
       "kansas-governor-2026",
       "kansas-ag-2026",
       "kansas-sos-2026",
+      "kansas-treasurer-2026",
       "kansas-insurance-2026",
+      "ks-house-110",
       "ks-house-111",
       "sboe-district-5",
     ],
@@ -67,13 +69,14 @@ export default function ElectionsPage() {
   return (
     <main id="main-content">
       {/* ── Page Header ──────────────────────────────────────────────── */}
-      <section
-        className="section-navy"
-        style={{ paddingTop: "3rem", paddingBottom: "3rem" }}
-        aria-labelledby="elections-heading"
-      >
-        <Container>
-          <div className="max-w-3xl">
+        <section
+          className="section-navy"
+          style={{ paddingTop: "3rem", paddingBottom: "3.25rem" }}
+          aria-labelledby="elections-heading"
+        >
+          <Container>
+          <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-end">
+            <div className="max-w-3xl">
             <p
               className="text-xs font-heading font-semibold uppercase tracking-widest mb-3"
               style={{ color: "var(--color-teal)" }}
@@ -95,6 +98,24 @@ export default function ElectionsPage() {
               people think about them: federal first, then state, then ballot
               measures, then local races and current off-cycle officials.
             </p>
+            </div>
+
+            <div className="grid grid-cols-3 gap-2 rounded-lg border border-white/10 bg-white/5 p-3 text-white backdrop-blur">
+              <div>
+                <p className="font-heading text-2xl font-bold">{ELECTIONS.length}</p>
+                <p className="text-xs uppercase tracking-wide text-white/60">pages</p>
+              </div>
+              <div>
+                <p className="font-heading text-2xl font-bold">
+                  {ELECTIONS.reduce((sum, e) => sum + e.candidateCount, 0)}
+                </p>
+                <p className="text-xs uppercase tracking-wide text-white/60">profiles</p>
+              </div>
+              <div>
+                <p className="font-heading text-2xl font-bold">2026</p>
+                <p className="text-xs uppercase tracking-wide text-white/60">cycle</p>
+              </div>
+            </div>
           </div>
         </Container>
       </section>

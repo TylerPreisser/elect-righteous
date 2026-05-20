@@ -541,7 +541,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
         {
           "id": "soc-scott-braun-0041",
           "platform": "Facebook",
-          "observation": "There are also clear absences. The reviewed public record did not identify verified active campaign website, no reliable personal campaign Facebook page, and no verified Instagram, Threads, TikTok, or YouTube account for Braun. The official county page links to Facebook and X, but Facebook was login/script blocked and X produced no accessible indexed post archive in this environment. Because of that, this summary do...",
+          "observation": "There are also clear absences. The reviewed public record did not identify verified active campaign website, no reliable personal campaign Facebook page, and no verified Instagram, Threads, TikTok, or YouTube account for Braun. The official county page links to Facebook and X, but Facebook was login/script blocked and X produced no accessible indexed post archive during public-source review. Because of that, this su...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-scott-braun-0117"

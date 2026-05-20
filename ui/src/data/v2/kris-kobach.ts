@@ -553,7 +553,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       ]
     }
   ],
-  "whoTheyAre": "Accessible official and candidate-controlled sources support treating Kobach as the incumbent Republican running for Kansas attorney general re-election in 2026. The live SOS filed-candidates list was blocked in this environment; KPDC lists him under Attorney General Candidates and his campaign says he filed January 8, 2026.",
+  "whoTheyAre": "Accessible official and candidate-controlled sources support treating Kobach as the incumbent Republican running for Kansas attorney general re-election in 2026. The live SOS filed-candidates list was blocked during public-source review; KPDC lists him under Attorney General Candidates and his campaign says he filed January 8, 2026.",
   "recordSummary": "The public record summary contains 17 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Kansas Reflector: Gender Marker $1 Fine. LGBT / gender / parental rights: Kansas Reflector: Judge Rebukes Kobach with $1 Fine. Religious liberty / church / civic morality: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Titl... Religious liberty / church / civic morality: The official AG site is more active as a governing communications hub. Its homepage leads with naloxone distribution boxes and a Census lawsuit about excluding undocumented immigrants from appor... Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "Public reporting ties Kobach to Morning Star Church in Lawrence. The church website is https://msclawrence.com/, and local reporting has referred to it as his church.",
   "campaignFinance": {
@@ -1212,17 +1212,6 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-kris-kobach-0209",
-      "tier": "primary",
-      "url": "https://mann.house.gov/about",
-      "title": "Mann.House",
-      "publisher": "Mann.House",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Important correction for later compilers: the existing UI v2 object contains stale/mismatched fields, including campaignWebsite: https://mann.house.gov/about, and local site-profile.md says Kobach is a Republican candid..."
-      ]
-    },
-    {
       "id": "src-kris-kobach-0211",
       "tier": "secondary",
       "url": "https://kriskobach.com/",
@@ -1230,7 +1219,6 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "publisher": "Kriskobach",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "summary: \"Existing compiled UI context contains stale/mismatched fields: campaignWebsite points to Tracey Mann's House page, and local site-profile prose says Kobach is running for governor. Later compiler should correc...",
         "Kansas AG: Reelection Announcement",
         "Kobach for AG: https://kriskobach.com/"
       ]

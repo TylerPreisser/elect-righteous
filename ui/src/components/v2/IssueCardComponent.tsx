@@ -43,7 +43,7 @@ function SourceChipInline({
       href={source.url}
       target="_blank"
       rel="noopener noreferrer"
-      className="inline-flex items-center gap-1 rounded px-2 py-0.5 text-xs font-body font-semibold transition-colors duration-150 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
+      className="inline-flex min-h-9 max-w-full items-center gap-1 rounded px-2.5 py-1 text-xs font-body font-semibold transition-colors duration-150 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
       style={{
         backgroundColor: "rgba(16, 64, 93, 0.07)",
         color: "var(--color-navy-light)",
@@ -66,6 +66,14 @@ function SectionLabel({ children }: { children: React.ReactNode }) {
       {children}
     </h4>
   );
+}
+
+function cleanEvidenceText(text: string) {
+  return text
+    .replace(/https?:\/\/\S+/g, "")
+    .replace(/\s{2,}/g, " ")
+    .replace(/\s+([,.;:])/g, "$1")
+    .trim();
 }
 
 export default function IssueCardComponent({
@@ -96,8 +104,8 @@ export default function IssueCardComponent({
 
   return (
     <article
-      className="overflow-hidden rounded-lg border bg-white"
-      style={{ borderColor: "rgba(16, 64, 93, 0.14)" }}
+      className="overflow-hidden rounded-lg border bg-white shadow-[0_8px_30px_rgba(16,64,93,0.05)]"
+      style={{ borderColor: expanded ? "rgba(28, 195, 175, 0.35)" : "rgba(16, 64, 93, 0.14)" }}
       aria-labelledby={`issue-${issue.id}-heading`}
     >
       {/* Card header / toggle */}
@@ -105,7 +113,7 @@ export default function IssueCardComponent({
         type="button"
         className="group flex w-full items-start justify-between gap-4 p-5 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-teal sm:p-6"
         style={{
-          backgroundColor: expanded ? "white" : "#f8f9fa",
+          backgroundColor: expanded ? "#ffffff" : "#f8fafc",
           /* iOS Safari: eliminate 300ms tap delay + remove gray flash */
           WebkitTapHighlightColor: "transparent",
           touchAction: "manipulation",
@@ -124,14 +132,29 @@ export default function IssueCardComponent({
           </h3>
 
           {/* Compact preview of action count when collapsed */}
-          {!expanded && hasActions && (
-            <p
-              className="mt-1 font-body text-sm"
-              style={{ color: "var(--color-slate)" }}
-            >
-              {issue.actions.length} source-backed public record item
-              {issue.actions.length !== 1 ? "s" : ""} on file
-            </p>
+          {!expanded && (
+            <div className="mt-2 flex flex-wrap gap-2">
+              <span
+                className="rounded px-2 py-1 text-xs font-semibold"
+                style={{ backgroundColor: "rgba(16, 64, 93, 0.07)", color: "var(--color-navy)" }}
+              >
+                {statedSources.length > 0 ? "Statement sourced" : "No sourced statement"}
+              </span>
+              <span
+                className="rounded px-2 py-1 text-xs font-semibold"
+                style={{ backgroundColor: "rgba(28, 195, 175, 0.10)", color: "var(--color-teal-dark)" }}
+              >
+                {issue.actions.length} public record item{issue.actions.length === 1 ? "" : "s"}
+              </span>
+              {hasSocialSignals && (
+                <span
+                  className="rounded px-2 py-1 text-xs font-semibold"
+                  style={{ backgroundColor: "rgba(196, 146, 42, 0.12)", color: "var(--color-navy)" }}
+                >
+                  {issue.socialSignals.length} online observation{issue.socialSignals.length === 1 ? "" : "s"}
+                </span>
+              )}
+            </div>
           )}
         </div>
 
@@ -149,7 +172,7 @@ export default function IssueCardComponent({
         id={`issue-${issue.id}-body`}
         className={expanded ? "block" : "hidden"}
       >
-        <div className="p-5 sm:p-6 grid gap-7">
+        <div className="grid gap-7 p-5 sm:p-6">
 
           <section aria-label="Where they stand">
             <SectionLabel>Where they stand</SectionLabel>
@@ -159,7 +182,7 @@ export default function IssueCardComponent({
                   className="font-body leading-relaxed"
                   style={{ fontSize: "0.9375rem", color: "var(--color-charcoal)" }}
                 >
-                  {issue.stated.text}
+                  {cleanEvidenceText(issue.stated.text)}
                 </p>
                 {statedSources.length > 0 && (
                   <div className="flex flex-wrap gap-1.5" aria-label="Sources for stated position">
@@ -190,9 +213,9 @@ export default function IssueCardComponent({
             <section aria-label="Social / online observations">
               <SectionLabel>Social / Online Observations</SectionLabel>
               <div className="grid gap-3">
-                {issue.socialSignals.map((signal) => (
+                {issue.socialSignals.map((signal, index) => (
                   <SocialSignalChip
-                    key={signal.id}
+                    key={`${signal.id}-${index}`}
                     signal={signal}
                     sources={sources}
                   />
@@ -205,15 +228,15 @@ export default function IssueCardComponent({
           {hasGap && (
             <section
               aria-label="Where stated position and documented actions differ"
-              className="rounded-md border-l-4 pl-4 py-3"
-              style={{ borderColor: "var(--color-gold)", backgroundColor: "rgba(196, 146, 42, 0.05)" }}
+              className="rounded-md border p-4"
+              style={{ borderColor: "rgba(196, 146, 42, 0.45)", backgroundColor: "rgba(196, 146, 42, 0.07)" }}
             >
               <SectionLabel>Where the record differs from the stated position</SectionLabel>
               <p
                 className="font-body leading-relaxed"
                 style={{ fontSize: "0.9375rem", color: "var(--color-charcoal)" }}
               >
-                {issue.gap!.summary}
+                {cleanEvidenceText(issue.gap!.summary)}
               </p>
 
               {/* Evidence references */}

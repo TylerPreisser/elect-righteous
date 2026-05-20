@@ -338,7 +338,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
   "whereTheyWorship": "Public sources do not identify a current church affiliation, denomination, or parish website for Herzog.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
-    "narrative": "No complete donor ledger, receipts-and-expenditures report, or affidavit of exemption was verified online in the reviewed public record.; KPDC guidance says local candidates file Appointment of Treasurer forms with county clerks or county election commissioners.; The public Kansas campaign-finance portal's visible categories are House, Senate, statewide races, and Board of Education, so a county Register of Deeds filing may require a county records request.; Do not describe the absence of an online donor table as proof that no campaign-finance filing exists.",
+    "narrative": "No complete donor ledger, receipts-and-expenditures report, or affidavit of exemption was verified online in the reviewed public record.; KPDC guidance says local candidates file Appointment of Treasurer forms with county clerks or county election commissioners.; The public Kansas campaign-finance portal's visible categories are House, Senate, statewide races, and Board of Education, so a county Register of Deeds filing may require a county records request.; The absence of an online donor table is not proof that no campaign-finance filing exists.",
     "donors": [],
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"

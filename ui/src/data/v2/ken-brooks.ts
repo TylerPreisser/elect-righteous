@@ -564,7 +564,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: Primary record location: USD 489 BoardDocs portal (https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic) for April 2023 meeting — DIRECT FETCH BLOCKED (403). Underlying primary record exists per portal structure; not retrievable in this environment.",
+        "text": "Documented public record: Primary record location: USD 489 BoardDocs portal (https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic) for April 2023 meeting — Direct source access was blocked (403). Underlying primary record exists per portal structure; not retrievable during public-source review.",
         "sourceIds": [
           "s-usd489-boarddocs"
         ]
@@ -573,7 +573,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         {
           "id": "em-ken-brooks-00033",
           "date": "Undated",
-          "body": "Primary record location: USD 489 BoardDocs portal (https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic) for April 2023 meeting — DIRECT FETCH BLOCKED (403). Underlying primary record exists per portal structure; not retrievable in this environment.",
+          "body": "Primary record location: USD 489 BoardDocs portal (https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic) for April 2023 meeting — Direct source access was blocked (403). Underlying primary record exists per portal structure; not retrievable during public-source review.",
           "sourceIds": [
             "s-usd489-boarddocs"
           ]
@@ -619,7 +619,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         "2026-03-10 director contract extension through 2027–2028 (passed 7-0; Brooks mover)",
         "2026-03-10 intent to non-renew teacher Silas Hibbs (passed 5-2)",
         "description: USD 489 BoardDocs portal (every URL form: https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic, …/Board.nsf/Public, https://www.boarddocs.com/ks/usd489/Board.nsf, and a specific item deep-link …/Board.nsf/g...",
-        "Primary record location: USD 489 BoardDocs portal (https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic) for April 2023 meeting — DIRECT FETCH BLOCKED (403). Underlying primary record exists per portal structure; not re...",
+        "Primary record location: USD 489 BoardDocs portal (https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic) for April 2023 meeting — Direct source access was blocked (403). Underlying primary record exists per portal struc...",
         "Solid coverage: Brooks's on-record meeting statements 2023–2026 are densely sourced through two independent local outlets (Hays Post + Tiger Media Network) and triangulate well on three governance themes — nepotism/admi...",
         "Board Meeting Info: BoardDocs portal"
       ]

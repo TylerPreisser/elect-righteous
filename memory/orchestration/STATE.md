@@ -1,6 +1,6 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-20T22:11:15Z
-Last agent: roster-auditor / candidate-profile-assembler / build-validation-gatekeeper
+Last updated: 2026-05-20T23:48:00Z
+Last agent: ui-ux-redesign / mobile-qa-agent / build-validation-gatekeeper
 Last commit: 259f245
 
 ## Current Phase
@@ -13,8 +13,8 @@ Phase 3: Profile Rebuild
 | 2 | Evidence Matrixing | complete |
 | 3 | Profile Rebuild | complete-with-caveats |
 | 4 | Editorial Review | in progress |
-| 5 | UI/UX Rebuild | in progress |
-| 6 | Validation | pass-local-after-roster-delta |
+| 5 | UI/UX Rebuild | complete-local-qa |
+| 6 | Validation | pass-local-after-ui-ux |
 | 7 | Deploy | GitHub Pages preview deployed; production DNS blocked |
 
 ## Blockers
@@ -155,6 +155,9 @@ Phase 3: Profile Rebuild
 | Correction form routing | 2026-05-20T22:31:00Z | Partial | Code routes FormSubmit AJAX, HTML fallback, and mailto fallback to tyler@preissersolutions.com. Third controlled live AJAX test returned Cloudflare/FormSubmit 521; prior controlled tests returned 521/522. Delivery is still not proven. |
 | Rendered source health | 2026-05-20T20:24:00Z | Partial | Public trail includes 1,708 rendered source entries / 1,502 unique URLs; 1,374 live, 113 blocked/forbidden, 6 timeouts, 9 network errors, 0 HTTP errors on a 15s timeout pass. Candidate-specific social/source records remain public; fake/dead/cross-candidate URLs are filtered or dropped. See source-health-2026-05-20.md/json and source-url-overrides.json. |
 | Public profile wording | 2026-05-20T22:25:47Z | Pass | Rebuilt all 81 v2 profiles with concise no-evidence issue text, Social / Online Observations labels, no Official / Reported Actions label, no first-person/internal process phrasing in rendered candidate data, and clean built-output scan for targeted leakage phrases. validateCandidateV2, TypeScript, and npm run build pass. |
+| UI/UX screenshot sweep | 2026-05-20T23:45:00Z | Pass | Captured 267 generated routes in mobile 390x844 and desktop 1440x1100 for 534 full-page screenshots; 0 capture failures. Archive is local at memory/orchestration/ui-screenshots-2026-05-20/after and intentionally not committed because it is approximately 467 MB. |
+| Mobile/desktop overflow QA | 2026-05-20T23:43:00Z | Pass | Checked 267 routes x 2 viewports with automated overflow/console scan; final result 0 failures after fixing mobile source-trail width constraints. See mobile-overflow-qa-2026-05-20.json. |
+| Public internal-text leak scan | 2026-05-20T23:46:00Z | Pass | Built output and active v2 data scanned clean for forbidden section labels, Preisser Tech, tpreisser.github.io, and targeted tool/process phrases including this environment, worker/orchestrator/compiler notes, and do-not-edit instructions. |
 | Candidate relevance guard | 2026-05-20T20:30:53Z | Pass | Renderer now rejects finance-only, public-absence, generic race/local context, family-network, and other-candidate-led evidence from issue/social cards unless the evidence names or directly belongs to the current candidate. |
 | Customer local feedback pass | 2026-05-20T20:50:39Z | Pass-with-caveats | Added current-official/appointed-administrator profile labeling, corrected Hays City and USD 489 group copy, added filing-deadline context to election detail pages, corrected Ken Brooks Hays High/Facebook-page notes, and documented that current official roster data still needs post-deadline recheck. |
 | GitHub Pages preview deploy | 2026-05-20T22:29:25Z | Pass | Pushed main through commit 87dbae0; GitHub Actions run 26193604068 completed build and deploy successfully. Public preview fetch verified Curt Vajnar, Ken Brooks, and Allen Park pages have no targeted public wording leakage; requested no-evidence sentence and Social / Online Observations label are present where applicable. |
@@ -171,6 +174,7 @@ Phase 3: Profile Rebuild
 8. Preview deploy completed for roster-delta commit 259f245; production still blocked by DNS/FormSubmit caveats — deploy agents — P1 — blocked by Cloudflare/DNS and form provider delivery
 
 ## Session Log (last 20 entries)
+- 2026-05-20T23:48:00Z ui-ux-redesign/mobile-qa-agent Completed full public UI/UX pass: redesigned home, candidate index, election pages, candidate dossiers, source trails, cards, header/footer, and correction form; added dossier metrics/source mix; cleaned public v2 data for internal process phrases; captured 267 routes in mobile and desktop screenshots; ran 534 viewport overflow checks with 0 final failures; TypeScript, V2 validation, YAML parse, inventory, static build, and leak scan passed.
 - 2026-05-20T22:29:25Z github-pages-deploy-agent Pushed public wording cleanup commit 87dbae0, verified GitHub Actions Pages run 26193604068 succeeded, and fetched public preview pages for Curt Vajnar, Ken Brooks, and Allen Park to confirm the concise no-evidence issue sentence, Social / Online Observations label where applicable, and no targeted internal/process phrases.
 - 2026-05-20T22:31:00Z form-verification Retested the configured FormSubmit AJAX correction endpoint after the public wording cleanup; endpoint returned HTTP 521 again, so site-side recipient wiring is still correct but live email delivery remains unproven until FormSubmit activation/provider reachability is fixed.
 - 2026-05-20T22:25:47Z professional-narrative-editor/frontend-implementer Cleaned public issue-card and profile wording after customer feedback: no-evidence issue cards now use only the concise reviewed-public-record sentence, social evidence is labeled Social / Online Observations, empty action copy is concise, Official / Reported Actions is removed, internal/process/first-person research phrases are sanitized in generated v2 data, all 81 profiles regenerated, and validation/TypeScript/static build passed.

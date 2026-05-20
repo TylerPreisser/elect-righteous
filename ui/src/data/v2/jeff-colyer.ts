@@ -331,14 +331,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-current"
           ]
-        },
-        {
-          "id": "em-jeff-colyer-00125",
-          "date": "Undated",
-          "body": "ui/src/data/v2/jeff-colyer.ts currently points campaignWebsite to a 2013 House docs bio PDF, not the current campaign site. Do not edit UI in this worker scope; site-profile-writer should consider changing it later to https://www.colyerforgovernor.com/ or a candidate-controlled source selected by the orchestrator.",
-          "sourceIds": [
-            "s-campaign-current"
-          ]
         }
       ],
       "socialSignals": [
@@ -769,7 +761,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Jeff Colyer is profiled here for Kansas Governor as a Republican. Across the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a... The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas w... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 25 source-backed items across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out o... Abortion / life: Abortion appears as a recurring moral and campaign issue. The 2026 campaign site says Colyer will \"defend the unborn\" (source). The older, still-live announcements archive includes a 2021 statement attacking abortion incre... LGBT / gender / parental rights: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforce... Education / curriculum / schools: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "The public record summary contains 24 source-backed items across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out o... Abortion / life: Abortion appears as a recurring moral and campaign issue. The 2026 campaign site says Colyer will \"defend the unborn\" (source). The older, still-live announcements archive includes a 2021 statement attacking abortion incre... LGBT / gender / parental rights: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforce... Education / curriculum / schools: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical... Social-only material is listed separately as online observation, not official action.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. His public background points to a Catholic upbringing in Hays, including attendance at Thomas More Prep and family ties to St. Joseph's Catholic Church, but the available record does not identify a present-day parish.",
   "campaignFinance": {
     "totalRaised": "$2,070,322.09 (2025 year-end / 202601 report)",
@@ -870,8 +862,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
         "Colyer's medical identity remains central rather than incidental. His campaign biography says he is a craniofacial/plastic surgeon who has treated more than 20,000 patients and volunteered in more than 25 war zones, inc...",
         "colyerforgovernor.com, captured 2026-05-11. Key visible signals: Trump quote, \"Faith & Family First,\" lower costs, public safety, school choice, abortion, Second Amendment, religious liberty, rural health, and accountab...",
         "The 2026 campaign site is more polished and explicitly primary-oriented. It leads with Trump validation, \"Faith & Family First,\" Colyer's status as Kansas's 47th governor, his appointment by Trump to a rural-health advi...",
-        "colyerforgovernor.com",
-        "ui/src/data/v2/jeff-colyer.ts currently points campaignWebsite to a 2013 House docs bio PDF, not the current campaign site. Do not edit UI in this worker scope; site-profile-writer should consider changing it later to h..."
+        "colyerforgovernor.com"
       ]
     },
     {

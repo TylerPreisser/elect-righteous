@@ -1,0 +1,42 @@
+{
+  "agent": "ui-ux-redesign",
+  "date": "2026-05-20",
+  "status": "complete",
+  "inputs_read": [
+    "memory/orchestration/STATE.md",
+    "ui/src/app/page.tsx",
+    "ui/src/app/candidates/page.tsx",
+    "ui/src/app/elections/page.tsx",
+    "ui/src/app/elections/[slug]/page.tsx",
+    "ui/src/app/candidates/[slug]/sources/page.tsx",
+    "ui/src/components/v2/CandidateV2Profile.tsx",
+    "ui/src/components/v2/IssueCardComponent.tsx",
+    "ui/src/components/v2/ActionList.tsx",
+    "ui/src/components/v2/SocialSignalChip.tsx",
+    "ui/src/components/ui/candidate-card.tsx",
+    "ui/src/components/ui/election-card.tsx",
+    "ui/src/components/layout/site-header.tsx",
+    "ui/src/components/layout/site-footer.tsx",
+    "scripts/compile-v2-yaml.mjs"
+  ],
+  "outputs_written": [
+    "memory/orchestration/ui-ux-qa-2026-05-20.md",
+    "memory/orchestration/mobile-overflow-qa-2026-05-20.json",
+    "memory/orchestration/ui-screenshots-2026-05-20/after/manifest.json",
+    "memory/orchestration/agent-runs/2026-05-20/ui-ux-redesign/notes.md",
+    "memory/orchestration/agent-runs/2026-05-20/ui-ux-redesign/handoff.md"
+  ],
+  "validation": {
+    "yaml_parse": "pass",
+    "phase2_inventory": "pass",
+    "v2_runtime_validation": "pass",
+    "typescript": "pass",
+    "static_build": "pass",
+    "public_leak_scan": "pass",
+    "screenshot_routes": 267,
+    "screenshots": 534,
+    "screenshot_failures": 0,
+    "overflow_viewport_checks": 534,
+    "overflow_failures": 0
+  }
+}
