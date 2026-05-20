@@ -1,7 +1,7 @@
 # Elect Righteous — Orchestration State
 Last updated: 2026-05-20T19:08:52Z
 Last agent: candidate-profile-assembler
-Last commit: pending-uncommitted-phase3-assembler
+Last commit: 49c1568
 
 ## Current Phase
 Phase 3: Profile Rebuild
