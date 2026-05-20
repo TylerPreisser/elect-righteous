@@ -94,9 +94,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-current",
-          "src-jeff-colyer-0034",
-          "src-jeff-colyer-0036"
+          "s-campaign-current"
         ]
       },
       "actions": [
@@ -128,12 +126,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-jeff-colyer-0031",
-          "src-jeff-colyer-0039",
-          "src-jeff-colyer-0002",
-          "src-jeff-colyer-0003",
-          "src-jeff-colyer-0041",
-          "src-jeff-colyer-0005"
+          "src-jeff-colyer-0031"
         ]
       },
       "actions": [
@@ -143,46 +136,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "body": "Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political agendas\" in classrooms (source). The 2026 campaign site groups school choice, parental authority, abort...",
           "sourceIds": [
             "src-jeff-colyer-0031"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-00377",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-jeff-colyer-0039"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-01199",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-jeff-colyer-0002"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-01263",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-jeff-colyer-0003"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-02652",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas SBOE election 2026",
-          "sourceIds": [
-            "src-jeff-colyer-0041"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-02653",
-          "date": "Undated",
-          "body": "Kansas State Department of Education: District 5",
-          "sourceIds": [
-            "src-jeff-colyer-0005"
           ]
         }
       ],
@@ -236,9 +189,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-jeff-colyer-0031",
-          "s-campaign-current",
-          "src-jeff-colyer-0043",
-          "src-jeff-colyer-0044"
+          "s-campaign-current"
         ]
       },
       "actions": [
@@ -300,8 +251,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-current",
-          "src-jeff-colyer-0057"
+          "s-campaign-current"
         ]
       },
       "actions": [
@@ -319,14 +269,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "body": "Abortion appears as a recurring moral and campaign issue. The 2026 campaign site says Colyer will \"defend the unborn\" (source). The older, still-live announcements archive includes a 2021 statement attacking abortion increases in Kansas and the Biden administration's budget position on the Hyde Amendment (source). That archive is older than the active 2026 campaign period, but it remains linked from the public campaign website and is consistent with the current site's abortion framing.",
           "sourceIds": [
             "s-campaign-current"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-02612",
-          "date": "Undated",
-          "body": "Brennan Center: Wisconsin Supreme Court spending record",
-          "sourceIds": [
-            "src-jeff-colyer-0057"
           ]
         }
       ],
@@ -480,8 +422,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-current",
-          "src-jeff-colyer-0062"
+          "s-campaign-current"
         ]
       },
       "actions": [
@@ -491,14 +432,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "body": "On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport undocumented immigrants who are criminals, prevent gender-affirming care for minors, and bring tech...",
           "sourceIds": [
             "s-campaign-current"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-02620",
-          "date": "Undated",
-          "body": "CNN: 8 states vote to bar noncitizen voting",
-          "sourceIds": [
-            "src-jeff-colyer-0062"
           ]
         }
       ],
@@ -519,23 +452,15 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-jeff-colyer-0075",
           "s-campaign-current",
           "src-jeff-colyer-0064",
-          "src-jeff-colyer-0065"
+          "src-jeff-colyer-0066",
+          "src-jeff-colyer-0067"
         ]
       },
       "actions": [
-        {
-          "id": "em-jeff-colyer-03596",
-          "date": "Undated",
-          "body": "Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)",
-          "sourceIds": [
-            "src-jeff-colyer-0075"
-          ]
-        },
         {
           "id": "em-jeff-colyer-00004",
           "date": "Undated",
@@ -558,22 +483,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "body": "focus on economic prosperity, healthcare reform, and family values - campaign site, 2026-04-01, https://www.jeffcolyer.com/ - topic: campaign priorities.",
           "sourceIds": [
             "src-jeff-colyer-0064"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-00701",
-          "date": "Undated",
-          "body": "> -- Kansas Reflector, March 8, 2026",
-          "sourceIds": [
-            "src-jeff-colyer-0065"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-01050",
-          "date": "Undated",
-          "body": "Kansas Reflector: Democratic debate (March 8, 2026)",
-          "sourceIds": [
-            "src-jeff-colyer-0065"
           ]
         }
       ],
@@ -617,8 +526,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
         "text": "Documented public evidence: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-current",
-          "src-jeff-colyer-0031",
-          "src-jeff-colyer-0051"
+          "src-jeff-colyer-0031"
         ]
       },
       "actions": [
@@ -702,10 +610,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-current",
-          "src-jeff-colyer-0011",
-          "s-kpdc-statewide-index",
-          "src-jeff-colyer-0039"
+          "s-campaign-current"
         ]
       },
       "actions": [
@@ -715,46 +620,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "body": "On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport undocumented immigrants who are criminals, prevent gender-affirming care for minors, and bring tech...",
           "sourceIds": [
             "s-campaign-current"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-00152",
-          "date": "Undated",
-          "body": "Kansas Ethics filing: SW01JC_202601.pdf",
-          "sourceIds": [
-            "src-jeff-colyer-0011"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-00175",
-          "date": "Undated",
-          "body": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf",
-          "sourceIds": [
-            "src-jeff-colyer-0011"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-00190",
-          "date": "Undated",
-          "body": "Kansas Ethics filing index: SWLinks2026EC",
-          "sourceIds": [
-            "s-kpdc-statewide-index"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-00191",
-          "date": "Undated",
-          "body": "2026 filing PDF: state filing PDF referenced in SWLinks2026EC",
-          "sourceIds": [
-            "s-kpdc-statewide-index"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-00377",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-jeff-colyer-0039"
           ]
         }
       ],
@@ -777,10 +642,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Colyer's medical identity remains central rather than incidental. His campaign biography says he is a craniofacial/plastic surgeon who has treated more than 20,000 patients and volunteered in more than 25 war zones, including Rwanda during the genocide (source). The older campaign about page says he created Kansas's privatized integrated Medicaid system, KanCare, and presents it as a taxpayer-savings and care-manage... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-current",
-          "src-jeff-colyer-0065",
-          "src-jeff-colyer-0159",
-          "src-jeff-colyer-0160"
+          "s-campaign-current"
         ]
       },
       "actions": [
@@ -790,22 +652,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
           "body": "Colyer's medical identity remains central rather than incidental. His campaign biography says he is a craniofacial/plastic surgeon who has treated more than 20,000 patients and volunteered in more than 25 war zones, including Rwanda during the genocide (source). The older campaign about page says he created Kansas's privatized integrated Medicaid system, KanCare, and presents it as a taxpayer-savings and care-management achievement (source). The 2026 site extends that biography into rural health, saying he would d...",
           "sourceIds": [
             "s-campaign-current"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-00701",
-          "date": "Undated",
-          "body": "> -- Kansas Reflector, March 8, 2026",
-          "sourceIds": [
-            "src-jeff-colyer-0065"
-          ]
-        },
-        {
-          "id": "em-jeff-colyer-01050",
-          "date": "Undated",
-          "body": "Kansas Reflector: Democratic debate (March 8, 2026)",
-          "sourceIds": [
-            "src-jeff-colyer-0065"
           ]
         }
       ],
@@ -838,9 +684,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-current",
-          "src-jeff-colyer-0169",
-          "src-jeff-colyer-0171"
+          "s-campaign-current"
         ]
       },
       "actions": [
@@ -886,10 +730,8 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Reviewed evidence: NOLN: Strickland Brothers franchise owner Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-jeff-colyer-0182"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": [
@@ -927,7 +769,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Jeff Colyer is profiled here for Kansas Governor as a Republican. Across the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a... The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas w... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 42 source-backed actions across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out o... Abortion / life: Abortion appears as a recurring moral and campaign issue. The 2026 campaign site says Colyer will \"defend the unborn\" (source). The older, still-live announcements archive includes a 2021 statement attacking abortion incre... LGBT / gender / parental rights: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforce... Education / curriculum / schools: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 25 source-backed actions across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out o... Abortion / life: Abortion appears as a recurring moral and campaign issue. The 2026 campaign site says Colyer will \"defend the unborn\" (source). The older, still-live announcements archive includes a 2021 statement attacking abortion incre... LGBT / gender / parental rights: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforce... Education / curriculum / schools: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. His public background points to a Catholic upbringing in Hays, including attendance at Thomas More Prep and family ties to St. Joseph's Catholic Church, but the available record does not identify a present-day parish.",
   "campaignFinance": {
     "totalRaised": "$2,070,322.09 (2025 year-end / 202601 report)",
@@ -957,6 +799,67 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-kpdc-at",
+      "tier": "primary",
+      "url": "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01JC_AT.pdf",
+      "title": "Appointment of Treasurer or Candidate Committee Form - Jeff Colyer",
+      "publisher": "Kansas Public Disclosure Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Office sought is Governor",
+        "Treasurer is Kyle Hoffman",
+        "Form was executed May 12, 2025",
+        "| s-kpdc-at | primary | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01JC_AT.pdf | executed 2025-05-12; accessed 2026-05-19 | Appointment of treasurer; office sought Governor; treasurer Kyle Hoffman | campaign finance, status |"
+      ]
+    },
+    {
+      "id": "s-kpdc-202601",
+      "tier": "primary",
+      "url": "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf",
+      "title": "Campaign Finance Receipts and Expenditures Report - Jeff Colyer",
+      "publisher": "Kansas Public Disclosure Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Report covers Jan. 1 through Dec. 31, 2025",
+        "Total contributions and other receipts were $2,070,322.09",
+        "Total expenditures were $185,812.31",
+        "Cash on hand at close was $1,884,509.78",
+        "In-kind contributions were $17,493.28",
+        "Other transactions were $63,346.68",
+        "Schedule A includes multiple candidate loans from Jeffrey Colyer totaling at least $1,055,481.00 in visible extracted entries",
+        "| s-kpdc-202601 | primary | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf | filed 2026-01-09; accessed 2026-05-19 | 2025 receipts, expenditures, cash on hand, in-kind, other transactions, donor/loan schedules | campaign fin"
+      ]
+    },
+    {
+      "id": "s-kansapedia",
+      "tier": "primary",
+      "url": "https://www.kansashistory.gov/kansapedia/jeff-colyer/20011",
+      "title": "Jeff Colyer",
+      "publisher": "Kansas Historical Society",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Colyer was Kansas's 47th governor and was sworn in Jan. 31, 2018",
+        "Colyer served in the Kansas House, Kansas Senate, and as lieutenant governor",
+        "Biography identifies his medical education and surgeon/humanitarian record",
+        "| s-kansapedia | primary | https://www.kansashistory.gov/kansapedia/jeff-colyer/20011 | accessed 2026-05-19 | state biography: governor, House, Senate, lieutenant governor, education/profession | biography, public office |",
+        "[Jeff Colyer - Kansas Historical Society](https://www.kansashistory.gov/kansapedia/jeff-colyer/20011)",
+        "[Jeff Colyer - Kansas Historical Society (Kansapedia)](https://www.kansashistory.gov/kansapedia/jeff-colyer/20011)"
+      ]
+    },
+    {
+      "id": "s-sos-2018-primary-results",
+      "tier": "primary",
+      "url": "https://sos.ks.gov/elections/18elec/PrimaryElectionOfficialResults.pdf",
+      "title": "2018 Primary Election Official Results",
+      "publisher": "Kansas Secretary of State",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Republican governor primary: Kobach/Hartman 128,543 votes, 40.58%; Colyer/Mann 128,207 votes, 40.47%",
+        "Official margin between Kobach/Hartman and Colyer/Mann was 336 votes",
+        "| s-sos-2018-primary-results | primary | https://sos.ks.gov/elections/18elec/PrimaryElectionOfficialResults.pdf | official 2018 primary; accessed 2026-05-19 | Republican governor primary vote totals and 336-vote margin | election history |"
+      ]
+    },
+    {
       "id": "s-campaign-current",
       "tier": "primary",
       "url": "https://www.colyerforgovernor.com/",
@@ -979,6 +882,33 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
         "The 2026 campaign site is more polished and explicitly primary-oriented. It leads with Trump validation, \"Faith & Family First,\" Colyer's status as Kansas's 47th governor, his appointment by Trump to a rural-health advisory role, and his service as Trump's 202",
         "[colyerforgovernor.com](https://www.colyerforgovernor.com/)",
         "ui/src/data/v2/jeff-colyer.ts currently points campaignWebsite to a 2013 House docs bio PDF, not the current campaign site. Do not edit UI in this worker scope; site-profile-writer should consider changing it later to https://www.colyerforgovernor.com/ or a ca"
+      ]
+    },
+    {
+      "id": "s-campaign-commitment",
+      "tier": "primary",
+      "url": "https://colyerforgovernor.com/colyer-commitment",
+      "title": "The Colyer Commitment to Kansas",
+      "publisher": "Colyer for Governor",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "25-point plan includes welfare fraud, low taxes, property-tax cap, fiscal responsibility, manufacturing/tech jobs",
+        "Plan includes cybercrime, law/order/safety, and keeping criminal illegal aliens out of Kansas",
+        "Plan includes school curriculum focus, STEM, school options, and parental rights",
+        "Plan includes abortion, gun owners/hunters, farmers, foster kids, veterans, and accountable government",
+        "| s-campaign-commitment | primary | https://colyerforgovernor.com/colyer-commitment | accessed 2026-05-19 | 25-point Colyer Commitment plan | stated platform, issues |"
+      ]
+    },
+    {
+      "id": "s-campaign-endorsements",
+      "tier": "primary",
+      "url": "https://colyerforgovernor.com/endorsements.html",
+      "title": "Endorsements",
+      "publisher": "Colyer for Governor",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Campaign page lists featured endorsements by Congressman Tracey Mann, Dr. Ben Carson, and Gov. Sarah Huckabee Sanders",
+        "Campaign page claims 21+ current and former state senators and 10+ House members standing with Colyer"
       ]
     },
     {
@@ -1024,55 +954,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-jeff-colyer-0002",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
-      ]
-    },
-    {
-      "id": "src-jeff-colyer-0003",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)",
-        "\"url\": \"https://www.haysusa.com/335/Public-Library-Board\""
-      ]
-    },
-    {
-      "id": "src-jeff-colyer-0005",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
-      "title": "Ksde",
-      "publisher": "Ksde",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)"
-      ]
-    },
-    {
-      "id": "src-jeff-colyer-0011",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf",
-      "title": "Kansas",
-      "publisher": "Kansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Kansas Ethics filing: [SW01JC_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf)",
-        "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf",
-        "[Kansas Ethics Commission - 2026 Election Cycle Filing](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf)",
-        "[SW01JC_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf)",
-        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf\""
-      ]
-    },
-    {
       "id": "src-jeff-colyer-0031",
       "tier": "secondary",
       "url": "https://jeffcolyer.com/",
@@ -1088,92 +969,25 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-jeff-colyer-0034",
+      "id": "src-jeff-colyer-0054",
       "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/03/06/kansas-ag-offers-to-delay-enforcement-of-anti-trans-law-until-march-26-while-judge-weighs-challenge/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
+      "url": "https://en.wikipedia.org/wiki/Jeff_Colyer",
+      "title": "En.Wikipedia",
+      "publisher": "En.Wikipedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Transgender Law](https://kansasreflector.com/2026/03/06/kansas-ag-offers-to-delay-enforcement-of-anti-trans-law-until-march-26-while-judge-weighs-challenge/)"
+        "[Jeff Colyer - Wikipedia](https://en.wikipedia.org/wiki/Jeff_Colyer)"
       ]
     },
     {
-      "id": "src-jeff-colyer-0036",
+      "id": "src-jeff-colyer-0055",
       "tier": "secondary",
-      "url": "https://www.lgbtqnation.com/2012/08/top-romney-surrogate-compares-lgbt-people-to-drug-users-polygamists/",
-      "title": "Lgbtqnation",
-      "publisher": "Lgbtqnation",
+      "url": "https://www.jeffcolyer.com/index.html",
+      "title": "Jeffcolyer",
+      "publisher": "Jeffcolyer",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[LGBTQ Nation: Romney Surrogate Compares LGBT People to Drug Users](https://www.lgbtqnation.com/2012/08/top-romney-surrogate-compares-lgbt-people-to-drug-users-polygamists/)"
-      ]
-    },
-    {
-      "id": "src-jeff-colyer-0039",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-jeff-colyer-0041",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-jeff-colyer-0043",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-jeff-colyer-0044",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)"
-      ]
-    },
-    {
-      "id": "src-jeff-colyer-0051",
-      "tier": "secondary",
-      "url": "https://www.kansascatholic.org/current-news/election-2026",
-      "title": "Kansascatholic",
-      "publisher": "Kansascatholic",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)"
-      ]
-    },
-    {
-      "id": "src-jeff-colyer-0057",
-      "tier": "secondary",
-      "url": "https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state",
-      "title": "Brennancenter",
-      "publisher": "Brennancenter",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)"
+        "[Jeff Colyer for Governor](https://www.jeffcolyer.com/index.html)"
       ]
     },
     {
@@ -1185,17 +999,6 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[Jobs for America's Graduates - Bio](https://jag.org/dipl-team-member/jeff-colyer/)"
-      ]
-    },
-    {
-      "id": "src-jeff-colyer-0062",
-      "tier": "secondary",
-      "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
-      "title": "Cnn",
-      "publisher": "Cnn",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)"
       ]
     },
     {
@@ -1220,86 +1023,311 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-jeff-colyer-0065",
+      "id": "src-jeff-colyer-0066",
       "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
+      "url": "https://www.nkchealth.org/provider/jeffrey-w-colyer-plastic-surgery",
+      "title": "Nkchealth",
+      "publisher": "Nkchealth",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[NKC Health - Jeffrey W. Colyer, M.D.](https://www.nkchealth.org/provider/jeffrey-w-colyer-plastic-surgery)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0067",
+      "tier": "secondary",
+      "url": "https://doctor.webmd.com/doctor/jeffrey-colyer-31dcc3a2-b552-47fe-acf3-0ec6615c7ca3-overview",
+      "title": "Doctor.Webmd",
+      "publisher": "Doctor.Webmd",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[WebMD - Dr. Jeffrey Colyer](https://doctor.webmd.com/doctor/jeffrey-colyer-31dcc3a2-b552-47fe-acf3-0ec6615c7ca3-overview)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0081",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2021/08/30/jeff-colyer-diagnosed-with-prostate-cancer-ends-campaign-for-kansas-governor/",
       "title": "Kansasreflector",
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "> -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)",
-        "[Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)"
+        "| s-ksreflector-2021-cancer | secondary | https://kansasreflector.com/2021/08/30/jeff-colyer-diagnosed-with-prostate-cancer-ends-campaign-for-kansas-governor/ | published 2021-08-30; accessed 2026-05-19 | prior campaign suspension after prostate-cancer diagnos",
+        "https://kansasreflector.com/2021/08/30/jeff-colyer-diagnosed-with-prostate-cancer-ends-campaign-for-kansas-governor/",
+        "[Kansas Reflector - Colyer cancer diagnosis (Aug 2021)](https://kansasreflector.com/2021/08/30/jeff-colyer-diagnosed-with-prostate-cancer-ends-campaign-for-kansas-governor/)"
       ]
     },
     {
-      "id": "src-jeff-colyer-0075",
+      "id": "src-jeff-colyer-0108",
       "tier": "secondary",
-      "url": "https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/",
-      "title": "Www2.Ljworld",
-      "publisher": "Www2.Ljworld",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)](https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/)"
-      ]
-    },
-    {
-      "id": "src-jeff-colyer-0159",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/",
+      "url": "https://kansasreflector.com/briefs/former-gov-jeff-colyer-maneuvers-closer-to-2026-gop-campaign-for-kansas-governor/",
       "title": "Kansasreflector",
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)",
-        "[Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)"
+        "[Kansas Reflector - Colyer maneuvers closer (2025)](https://kansasreflector.com/briefs/former-gov-jeff-colyer-maneuvers-closer-to-2026-gop-campaign-for-kansas-governor/)",
+        "[Kansas Reflector item on Colyer moving toward 2026 run](https://kansasreflector.com/briefs/former-gov-jeff-colyer-maneuvers-closer-to-2026-gop-campaign-for-kansas-governor/), published 2025-05-12. Key visible signals: treasurer appointment, Trump 2024 Kansas"
       ]
     },
     {
-      "id": "src-jeff-colyer-0160",
+      "id": "src-jeff-colyer-0109",
       "tier": "secondary",
-      "url": "https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/",
-      "title": "Schooleymitchell",
-      "publisher": "Schooleymitchell",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)"
-      ]
-    },
-    {
-      "id": "src-jeff-colyer-0169",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/",
+      "url": "https://kansasreflector.com/2023/11/25/former-kansas-gov-jeff-colyer-endorses-trump-in-2024-republican-presidential-campaign/",
       "title": "Kansasreflector",
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "> -- [Kansas Reflector, January 19, 2026](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector: Millionaire candidates (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector - Millionaire candidates fundraising (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector: Millionaire candidates](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector: Millionaire candidates burnish fundraising (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)"
+        "[Kansas Reflector - Colyer endorses Trump (Nov 2023)](https://kansasreflector.com/2023/11/25/former-kansas-gov-jeff-colyer-endorses-trump-in-2024-republican-presidential-campaign/)"
       ]
     },
     {
-      "id": "src-jeff-colyer-0171",
+      "id": "src-jeff-colyer-0110",
       "tier": "secondary",
-      "url": "https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/",
-      "title": "Trendingpoliticsnews",
-      "publisher": "Trendingpoliticsnews",
+      "url": "https://kansasreflector.com/2021/07/12/colyers-narrow-miss-in-2018-fueling-resurgent-gop-campaign-for-governor/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Trending Politics: Frontrunner emerges](https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/)"
+        "[Kansas Reflector - Colyer narrow miss 2018 fueling 2022 campaign](https://kansasreflector.com/2021/07/12/colyers-narrow-miss-in-2018-fueling-resurgent-gop-campaign-for-governor/)"
       ]
     },
     {
-      "id": "src-jeff-colyer-0182",
+      "id": "src-jeff-colyer-0111",
       "tier": "secondary",
-      "url": "https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor",
-      "title": "Noln",
-      "publisher": "Noln",
+      "url": "https://www.kcur.org/news/2021-08-30/the-kansas-a-g-s-path-to-governor-gets-easier-after-his-opponent-endorses-him",
+      "title": "Kcur",
+      "publisher": "Kcur",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)"
+        "[KCUR - Colyer drops out 2022 race](https://www.kcur.org/news/2021-08-30/the-kansas-a-g-s-path-to-governor-gets-easier-after-his-opponent-endorses-him)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0112",
+      "tier": "secondary",
+      "url": "https://www.kake.com/home/jeff-colyer-launches-kansas-governor-bid-after-being-inspired-by-president-trumps-campaign/article_a6636e42-0936-41ef-8e13-56a9dc7a9300.html",
+      "title": "Kake",
+      "publisher": "Kake",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[KAKE - Colyer launches bid inspired by Trump](https://www.kake.com/home/jeff-colyer-launches-kansas-governor-bid-after-being-inspired-by-president-trumps-campaign/article_a6636e42-0936-41ef-8e13-56a9dc7a9300.html)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0113",
+      "tier": "secondary",
+      "url": "https://thehill.com/homenews/campaign/570029-colyer-ends-campaign-for-kansas-governor-following-prostate-cancer/",
+      "title": "Thehill",
+      "publisher": "Thehill",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[The Hill - Colyer ends 2022 campaign](https://thehill.com/homenews/campaign/570029-colyer-ends-campaign-for-kansas-governor-following-prostate-cancer/)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0114",
+      "tier": "secondary",
+      "url": "https://justfacts.votesmart.org/candidate/biography/34449/jeff-colyer",
+      "title": "Justfacts.Votesmart",
+      "publisher": "Justfacts.Votesmart",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Vote Smart - Jeff Colyer](https://justfacts.votesmart.org/candidate/biography/34449/jeff-colyer)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0157",
+      "tier": "secondary",
+      "url": "https://www.jeffcolyer.com/get-involved/",
+      "title": "Jeffcolyer",
+      "publisher": "Jeffcolyer",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "> -- Jeff Colyer campaign materials, 2026, https://www.jeffcolyer.com/get-involved/",
+        "\"source\": \"Jeff Colyer campaign materials, 2026, https://www.jeffcolyer.com/get-involved/\",",
+        "[jeffcolyer.com](https://www.jeffcolyer.com/get-involved/)",
+        "[jeffcolyer.com/get-involved](https://www.jeffcolyer.com/get-involved/), captured 2026-05-11. Key visible signals: volunteer/job/fundraiser/intern/event request form and linked X, Instagram, and Facebook accounts."
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0177",
+      "tier": "secondary",
+      "url": "https://www.legacy.com/obituaries/kansascity/obituary.aspx?pid=174049747",
+      "title": "Legacy",
+      "publisher": "Legacy",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[James Colyer Obituary - Kansas City Star](https://www.legacy.com/obituaries/kansascity/obituary.aspx?pid=174049747)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0203",
+      "tier": "secondary",
+      "url": "https://www.kctv5.com/2025/05/14/former-kansas-governor-jeff-colyer-announces-he-will-run-again-2026/",
+      "title": "Kctv5",
+      "publisher": "Kctv5",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "https://www.kctv5.com/2025/05/14/former-kansas-governor-jeff-colyer-announces-he-will-run-again-2026/",
+        "[kctv5.com](https://www.kctv5.com/2025/05/14/former-kansas-governor-jeff-colyer-announces-he-will-run-again-2026/)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0204",
+      "tier": "secondary",
+      "url": "https://www.nga.org/governor/jeff-colyer/",
+      "title": "Nga",
+      "publisher": "Nga",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| s-nga-profile | secondary | https://www.nga.org/governor/jeff-colyer/ | accessed 2026-05-19 | National Governors Association profile for service dates and biography | biography |",
+        "[Jeff Colyer - National Governors Association](https://www.nga.org/governor/jeff-colyer/)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0223",
+      "tier": "secondary",
+      "url": "https://ballotpedia.org/Jeff_Colyer",
+      "title": "Ballotpedia",
+      "publisher": "Ballotpedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Jeff Colyer - Ballotpedia](https://ballotpedia.org/Jeff_Colyer)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0224",
+      "tier": "secondary",
+      "url": "https://politics.georgetown.edu/profile/jeff-colyer/",
+      "title": "Politics.Georgetown",
+      "publisher": "Politics.Georgetown",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Jeff Colyer - Georgetown Institute of Politics](https://politics.georgetown.edu/profile/jeff-colyer/)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0228",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2025/11/07/can-former-kansas-gov-jeff-colyer-define-wokeism-consider-the-oxpecker-bird/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Kansas Reflector - Wokeism/Oxpecker (Nov 2025)](https://kansasreflector.com/2025/11/07/can-former-kansas-gov-jeff-colyer-define-wokeism-consider-the-oxpecker-bird/)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0230",
+      "tier": "secondary",
+      "url": "https://www.ksnt.com/capitol-bureau/dr-jeff-colyer-announces-bid-for-kansas-governor/",
+      "title": "Ksnt",
+      "publisher": "Ksnt",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[KSNT - Colyer announces bid](https://www.ksnt.com/capitol-bureau/dr-jeff-colyer-announces-bid-for-kansas-governor/)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0234",
+      "tier": "secondary",
+      "url": "https://www.nbcnews.com/politics/elections/kansas-governor-colyer-concedes-gop-primary-secretary-state-kobach-n900776",
+      "title": "Nbcnews",
+      "publisher": "Nbcnews",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[NBC News - Colyer concedes 2018 primary](https://www.nbcnews.com/politics/elections/kansas-governor-colyer-concedes-gop-primary-secretary-state-kobach-n900776)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0237",
+      "tier": "secondary",
+      "url": "https://smartpolitics.lib.umn.edu/2025/05/14/jeff-colyer-and-a-review-of-kansas-gubernatorial-comeback-bids/",
+      "title": "Smartpolitics.Lib.Umn",
+      "publisher": "Smartpolitics.Lib.Umn",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Smart Politics - Colyer and Kansas gubernatorial comeback bids](https://smartpolitics.lib.umn.edu/2025/05/14/jeff-colyer-and-a-review-of-kansas-gubernatorial-comeback-bids/)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0239",
+      "tier": "secondary",
+      "url": "https://www.kscbnews.net/jeff-colyer-m-d-sworn-in-as-47th-governor-of-the-state-of-kansas/",
+      "title": "Kscbnews",
+      "publisher": "Kscbnews",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[KSCB News - Sworn in as 47th Governor](https://www.kscbnews.net/jeff-colyer-m-d-sworn-in-as-47th-governor-of-the-state-of-kansas/)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0240",
+      "tier": "secondary",
+      "url": "https://www.nga.org/governor-spouse/ruth-gutierrez-colyer/",
+      "title": "Nga",
+      "publisher": "Nga",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Ruth Gutierrez Colyer - NGA](https://www.nga.org/governor-spouse/ruth-gutierrez-colyer/)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0241",
+      "tier": "secondary",
+      "url": "https://www.ontheissues.org/Jeff_Colyer.htm",
+      "title": "Ontheissues",
+      "publisher": "Ontheissues",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[OnTheIssues - Jeff Colyer](https://www.ontheissues.org/Jeff_Colyer.htm)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0242",
+      "tier": "secondary",
+      "url": "https://sanokc.com/provider/dr-colyer/",
+      "title": "Sanokc",
+      "publisher": "Sanokc",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Sano Specialty Care - Dr. Colyer](https://sanokc.com/provider/dr-colyer/)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0245",
+      "tier": "secondary",
+      "url": "https://www.findagrave.com/memorial/142168654/james-daniel-colyer",
+      "title": "Findagrave",
+      "publisher": "Findagrave",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[James Daniel Colyer - Find a Grave](https://www.findagrave.com/memorial/142168654/james-daniel-colyer)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0246",
+      "tier": "secondary",
+      "url": "https://sunflowerstatejournal.com/colyer-schwab-most-recognized-republicans-in-gubernatorial-field-survey-shows/",
+      "title": "Sunflowerstatejournal",
+      "publisher": "Sunflowerstatejournal",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Sunflower State Journal - Colyer, Schwab most recognized](https://sunflowerstatejournal.com/colyer-schwab-most-recognized-republicans-in-gubernatorial-field-survey-shows/)"
+      ]
+    },
+    {
+      "id": "src-jeff-colyer-0282",
+      "tier": "social",
+      "url": "https://www.facebook.com/JeffColyerMD/",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| Facebook | [Dr. Jeff Colyer (@JeffColyerMD)](https://www.facebook.com/JeffColyerMD/) -- 11,736+ likes |",
+        "[Facebook - Dr. Jeff Colyer](https://www.facebook.com/JeffColyerMD/)",
+        "[Dr. Jeff Colyer (@JeffColyerMD)](https://www.facebook.com/JeffColyerMD/)",
+        "| Facebook | https://www.facebook.com/JeffColyerMD/ | FOUND / LOGIN-WALLED | Linked from the campaign site. Logged-out capture redirected to a Facebook login/block page on 2026-05-11, so no reliable current post inventory or engagement metrics are reported. |"
       ]
     }
   ]

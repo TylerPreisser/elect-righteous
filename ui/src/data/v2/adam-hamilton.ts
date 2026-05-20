@@ -140,10 +140,8 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Reviewed evidence: \"url\": \"https://www.fec.gov/data/candidate/S6KS00312/\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-fec-candidate"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -172,6 +170,21 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
   },
   "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
   "sources": [
+    {
+      "id": "s-campaign-home",
+      "tier": "primary",
+      "url": "https://hamiltonforkansas.com/",
+      "title": "Adam Hamilton for Kansas",
+      "publisher": "Hamilton for Kansas",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Campaign identifies Hamilton as a U.S. Senate candidate",
+        "Campaign biography describes Hamilton's Kansas roots, family, and Church of the Resurrection background",
+        "Campaign states themes of listening, affordability, bridge-building, and decency",
+        "\"campaignWebsite\": \"https://hamiltonforkansas.com/\",",
+        "\"url\": \"https://hamiltonforkansas.com/\","
+      ]
+    },
     {
       "id": "s-fec-candidate",
       "tier": "primary",

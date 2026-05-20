@@ -52,11 +52,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-qa-2025",
-          "src-sandy-jacobs-0025",
-          "src-sandy-jacobs-0001",
-          "src-sandy-jacobs-0002",
-          "src-sandy-jacobs-0024"
+          "s-hayspost-qa-2025"
         ]
       },
       "actions": [
@@ -67,30 +63,6 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-hayspost-qa-2025"
           ]
-        },
-        {
-          "id": "em-sandy-jacobs-00481",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-sandy-jacobs-0025"
-          ]
-        },
-        {
-          "id": "em-sandy-jacobs-01182",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-sandy-jacobs-0001"
-          ]
-        },
-        {
-          "id": "em-sandy-jacobs-01246",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-sandy-jacobs-0002"
-          ]
         }
       ],
       "socialSignals": []
@@ -99,12 +71,9 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Sandy Jacobs - City of Hays Profile Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-sandy-jacobs-0027",
-          "src-sandy-jacobs-0028",
-          "s-hays-jacobs-profile",
-          "src-sandy-jacobs-0029"
+          "s-hays-jacobs-profile"
         ]
       },
       "actions": [],
@@ -117,11 +86,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her perspective and praised a conservative budget that remained revenue neutral. In April 2026 budget coverage, she questioned where money would come from under propo... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep-2026",
-          "s-hayspost-election-2025-issues",
-          "src-sandy-jacobs-0037",
-          "src-sandy-jacobs-0038",
-          "src-sandy-jacobs-0039",
-          "src-sandy-jacobs-0040"
+          "s-hayspost-election-2025-issues"
         ]
       },
       "actions": [
@@ -209,10 +174,8 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector: Immigration lawyer runs Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-sandy-jacobs-0042"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -221,10 +184,8 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: KSHB: Former Kansas governor volunteers on medical mission in Ukraine Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-sandy-jacobs-0044"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -237,10 +198,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-hayspost-qa-2025",
           "s-hayspost-election-2025-issues",
-          "s-heartland-foundation",
-          "src-sandy-jacobs-0025",
-          "src-sandy-jacobs-0046",
-          "src-sandy-jacobs-0047"
+          "s-heartland-foundation"
         ]
       },
       "actions": [
@@ -266,30 +224,6 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
           "body": "Heartland Community Foundation",
           "sourceIds": [
             "s-heartland-foundation"
-          ]
-        },
-        {
-          "id": "em-sandy-jacobs-00481",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-sandy-jacobs-0025"
-          ]
-        },
-        {
-          "id": "em-sandy-jacobs-00795",
-          "date": "Undated",
-          "body": "Hays Post: Mask ordinance extension",
-          "sourceIds": [
-            "src-sandy-jacobs-0046"
-          ]
-        },
-        {
-          "id": "em-sandy-jacobs-00875",
-          "date": "Undated",
-          "body": "Hays Post: Chick-fil-A incentives approved",
-          "sourceIds": [
-            "src-sandy-jacobs-0047"
           ]
         }
       ],
@@ -323,11 +257,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Heartland Community Foundation Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-heartland-foundation",
-          "src-sandy-jacobs-0025",
-          "src-sandy-jacobs-0046",
-          "src-sandy-jacobs-0047",
-          "src-sandy-jacobs-0048",
-          "src-sandy-jacobs-0049"
+          "s-hayspost-mask-oct-2020"
         ]
       },
       "actions": [
@@ -340,43 +270,11 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-sandy-jacobs-00481",
+          "id": "em-sandy-jacobs-00882",
           "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
+          "body": "Hays Post: Special mask meeting",
           "sourceIds": [
-            "src-sandy-jacobs-0025"
-          ]
-        },
-        {
-          "id": "em-sandy-jacobs-00795",
-          "date": "Undated",
-          "body": "Hays Post: Mask ordinance extension",
-          "sourceIds": [
-            "src-sandy-jacobs-0046"
-          ]
-        },
-        {
-          "id": "em-sandy-jacobs-00875",
-          "date": "Undated",
-          "body": "Hays Post: Chick-fil-A incentives approved",
-          "sourceIds": [
-            "src-sandy-jacobs-0047"
-          ]
-        },
-        {
-          "id": "em-sandy-jacobs-00876",
-          "date": "Undated",
-          "body": "Hays Post: Paisley Pear for sale",
-          "sourceIds": [
-            "src-sandy-jacobs-0048"
-          ]
-        },
-        {
-          "id": "em-sandy-jacobs-00877",
-          "date": "Undated",
-          "body": "Hays Post: Paisley Pear grand reopening",
-          "sourceIds": [
-            "src-sandy-jacobs-0049"
+            "s-hayspost-mask-oct-2020"
           ]
         }
       ],
@@ -389,11 +287,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2025",
-          "src-sandy-jacobs-0061",
-          "src-sandy-jacobs-0062",
-          "s-hayspost-election-2025-issues",
-          "src-sandy-jacobs-0082",
-          "src-sandy-jacobs-0083"
+          "s-hayspost-election-2025-issues"
         ]
       },
       "actions": [
@@ -403,22 +297,6 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
           "body": "Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how vital water is to \"our communities, our economy and our future,\" and pointed to Hays' reduced use, r...",
           "sourceIds": [
             "s-hayspost-qa-2025"
-          ]
-        },
-        {
-          "id": "em-sandy-jacobs-01040",
-          "date": "Undated",
-          "body": "Kansas Reflector: Supreme Court arguments",
-          "sourceIds": [
-            "src-sandy-jacobs-0061"
-          ]
-        },
-        {
-          "id": "em-sandy-jacobs-01047",
-          "date": "Undated",
-          "body": "Hays Post: Water bill awaits governor signature",
-          "sourceIds": [
-            "src-sandy-jacobs-0062"
           ]
         }
       ],
@@ -543,8 +421,8 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Sandy Jacobs is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city... Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she said her first goal beyond maintaining... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 30 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Abortion / life: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she sa... Education / curriculum / schools: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinishe... Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. narrative: \"Mason Ruder's public messaging is not built around a visible campaign-social apparatus. Through May 11, 2026, the clearest public record comes from Hays City Commission meetings, Hays Post reporting, a 2023 candidate forum, Kansas legislative test... Sunflower State Journal: Kobach denounces vandalism at his church. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "recordSummary": "The rendered record now contains 18 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Abortion / life: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she sa... Education / curriculum / schools: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinishe... Taxes / spending / debt: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A,... Taxes / spending / debt: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "The absences are as important as the presences. I found no verified candidate-controlled campaign website beyond the Facebook page and city-page link indexed by GoodParty, and no current candidate-controlled X/Twitter, Instagram, TikTok, YouTube, Bluesky, Thr... Relevant excerpts/paraphrases: Official profile page is titled Sandy Jacobs and provides an email link. The page is sparse and does not include a biography, term, party, campaign platform, or church affiliation. Church: No public church affiliation found. Prior broad faith investigation marked Jacobs \"NO PUBLIC RECORD\"; keep that neutral. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "No clean online donor list, campaign-finance total, treasurer appointment, exemption affidavit, PAC support, independent expenditure record, or itemized contribution report for Sandy Jacobs was located in reviewed public sources.",
     "narrative": "No clean online donor list, campaign-finance total, treasurer appointment, exemption affidavit, PAC support, independent expenditure record, or itemized contribution report for Sandy Jacobs was located in reviewed public sources.",
@@ -588,6 +466,108 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-ellis-2025-official-results",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5892/Official-Results-2025-General-Election",
+      "title": "Official Results - 2025 General Election",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Official 2025 general election results PDF is the primary source path for the Hays City Commission result",
+        "Search/OCR snippet for the official scanned PDF lists Sandy Jacobs with 1,552 votes",
+        "Local text extraction returned blank because the PDF is image-based"
+      ]
+    },
+    {
+      "id": "s-ellis-2026-filings-pdf",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings",
+      "title": "2026 Primary Candidate Filings",
+      "publisher": "Ellis County Clerk / Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The 2026 filing PDF lists Commission District 1, township clerk offices, Ellis City Council, and precinct committee positions",
+        "The 2026 filing PDF does not list Hays City Commission or Sandy Jacobs as a 2026 candidate"
+      ]
+    },
+    {
+      "id": "s-hays-minutes-01082026",
+      "tier": "primary",
+      "url": "https://www.haysusa.com/AgendaCenter/ViewFile/Minutes/_01082026-1589",
+      "title": "Hays City Commission Minutes - January 8, 2026",
+      "publisher": "City of Hays",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Roll call listed Sandy Jacobs present",
+        "Jami Breit administered the oath of office to Shaun Musil, Sandy Jacobs, and David Vilaysing",
+        "Jacobs voted aye to elect Mason Ruder mayor and Alaina Cunningham vice mayor",
+        "Jacobs moved to approve the consent agenda adopting commission rules of procedure"
+      ]
+    },
+    {
+      "id": "s-hays-agenda-09252025",
+      "tier": "primary",
+      "url": "https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_09252025-1571",
+      "title": "Hays City Commission Agenda Packet - September 25, 2025",
+      "publisher": "City of Hays",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Packet includes September 11, 2025 minutes with Jacobs present as mayor",
+        "Minutes say the city found a path to remain revenue neutral at 24.382 mills",
+        "Minutes say maintaining revenue neutral would not affect operations or capital projects",
+        "Jacobs voted aye on the 2026 city budget action",
+        "Jacobs voted aye on nuisance-abatement resolutions"
+      ]
+    },
+    {
+      "id": "s-hays-minutes-02192026",
+      "tier": "primary",
+      "url": "https://www.haysusa.com/AgendaCenter/ViewFile/Minutes/_02192026-1596",
+      "title": "Hays City Commission Work Session Minutes - February 19, 2026",
+      "publisher": "City of Hays",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Jacobs was present for the work session",
+        "Work session discussed the Exit 157 24-7 Travel Plaza TIF, CID, and IRB request",
+        "Travel-plaza investment was listed at $11.1 million",
+        "CID sales tax was proposed at 2.00 percent",
+        "Commissioners thanked the developer and were excited for the project"
+      ]
+    },
+    {
+      "id": "s-hays-minutes-03262026",
+      "tier": "primary",
+      "url": "https://www.haysusa.com/AgendaCenter/ViewFile/Minutes/_03262026-1603",
+      "title": "Hays City Commission Minutes - March 26, 2026",
+      "publisher": "City of Hays",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Jacobs was present",
+        "Jacobs voted aye on sanitary sewer cleaning and inspection not to exceed $150,000",
+        "Jacobs moved centrifuge maintenance at $48,572.28",
+        "Jacobs seconded adoption of the 2024 International Fire Code",
+        "Jacobs moved adoption of the 2024 International Property Maintenance Code",
+        "Jacobs seconded adoption of the 2023 National Electrical Code",
+        "Jacobs seconded Resolution 2026-004 for Chick-fil-A IRB intent",
+        "Chick-fil-A project requested a construction sales-tax exemption and no property-tax abatement"
+      ]
+    },
+    {
+      "id": "s-hays-agenda-04232026",
+      "tier": "primary",
+      "url": "https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_04232026-1609",
+      "title": "Hays City Commission Agenda Packet - April 23, 2026",
+      "publisher": "City of Hays",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Agenda included letters of support to waive development fees for eligible 2026 LIHTC projects",
+        "The city letter for Pioneer Run cited a housing study identifying 189 low-income units needed by 2030",
+        "The city committed to waive the lesser of $80,000 or 100 percent of combined impact, utility, and other fees if the project received LIHTC",
+        "Agenda included Resolution 2026-005 evidencing intent to issue IRBs for Pioneer Run",
+        "Included April 9 minutes list Sandy Jacobs absent from final Exit 157 24-7 TIF/CID votes"
+      ]
+    },
+    {
       "id": "s-hayspost-qa-2025",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/c0016433-275d-4af3-aabe-af7379f8c56f",
@@ -617,6 +597,33 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-election-2025-unofficial",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28",
+      "title": "Election results 2025: Final results pending canvass",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Pre-canvass Hays Post results listed Jacobs with 1,542 votes",
+        "Pre-canvass results listed voter turnout at 22.56 percent",
+        "[Hays Post: 2025 Election Results](https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28)",
+        "https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28 -- 2025 election results -- accessed 2026-03-30"
+      ]
+    },
+    {
+      "id": "s-hayspost-election-2025-story",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/1f1932b8-516a-420d-841e-df378c20a8f2",
+      "title": "2 incumbents, 1 newcomer elected to Hays City Commission",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported Jacobs and Shaun Musil would receive four-year terms",
+        "Hays Post reported David Vilaysing would receive the two-year term",
+        "[Hays Post: 2 incumbents, 1 newcomer elected](https://hayspost.com/posts/1f1932b8-516a-420d-841e-df378c20a8f2)"
+      ]
+    },
+    {
       "id": "s-hayspost-election-2025-issues",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c",
@@ -629,6 +636,20 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         "[Hays Post: Water, retail, housing top issues](https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c)",
         "| 2025-11-06 | [Hays Post: water, retail, housing top issues](https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c) | Election-night quotes | Re-election, R9, retail, workforce. |",
         "\"Retail is really high on my list, and the workforce needs some attention.\" Source: [Hays Post, Nov. 6, 2025](https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c)."
+      ]
+    },
+    {
+      "id": "s-hayspost-reorg-2026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08",
+      "title": "New year, new governing body for city of Hays",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported Jacobs was sworn in on January 8, 2026",
+        "Jacobs highlighted R9, housing, economic growth, police facility commitment, parks, and airport",
+        "Jacobs said leadership is about listening, bringing people together, and keeping the community at the center of decisions",
+        "[Hays Post: New governing body 2026](https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08)"
       ]
     },
     {
@@ -647,6 +668,33 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-travel-plaza",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/6988fcbc-170e-42d1-9dbd-cb28e017baba",
+      "title": "Plans moving forward for I-70 travel plaza north of Hays",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Jacobs called the 24/7 Travel Plaza an exciting project",
+        "Jacobs said she was ready to see what the project did to the interchange with alternate routes into town",
+        "| 2026-02-21 | [Hays Post: I-70 travel plaza](https://hayspost.com/posts/6988fcbc-170e-42d1-9dbd-cb28e017baba) | Meeting quote | Economic-development incentives, I-70 interchange growth. |",
+        "[Hays Post: Plans moving forward for I-70 travel plaza north of Hays](https://hayspost.com/posts/6988fcbc-170e-42d1-9dbd-cb28e017baba)"
+      ]
+    },
+    {
+      "id": "s-hayspost-chickfila-worksession",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/fd894259-fd52-4ccb-92c6-945bd172e875",
+      "title": "Hays City Commission talks economic development incentives for new Chick-fil-A",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Chick-fil-A project was reported at $6.2 million",
+        "Estimated construction sales-tax exemption was $66,875",
+        "Jacobs linked Vine Street roundabouts to development access for projects like Chick-fil-A"
+      ]
+    },
+    {
       "id": "s-hayspost-budget-prep-2026",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb",
@@ -659,6 +707,63 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         "| 2026-04-06 | [Hays Post: travel plaza and 2027 draft budget](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb) | Meeting quotes | Property-tax limits, budget tradeoffs, resident/business input. |",
         "[Hays Post: Planned travel plaza and 2027 draft budget](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb)",
         "\"Where would that money come from? What are people going to be willing to give up to do things like this?\" Source: [Hays Post, Apr. 6, 2026](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb)."
+      ]
+    },
+    {
+      "id": "s-tigermedia-pioneer-run",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=97002",
+      "title": "City commission gives nod for assistance to affordable housing project",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Pioneer Run was described as 48 affordable housing units and a clubhouse",
+        "IRB sales-tax exemption benefit was estimated at $147,962.50",
+        "Jacobs said low-income housing is difficult to make feasible without LIHTC assistance",
+        "The commission approved the resolution 5-0"
+      ]
+    },
+    {
+      "id": "s-hayspost-low-income-housing-05182026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/a21b48bd-451a-42a9-865f-b95cc539b31f",
+      "title": "Proposed low-income housing in Hays awaits potential state tax credits",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported commissioners unanimously agreed to two more IRB resolutions for construction sales-tax exemptions",
+        "Willow Grove was described as 48 units with a $9.3 million construction cost and about $154,000 IRB value",
+        "Wheatland Commons was described as 36 units with a $12.51 million construction cost and about $211,050 IRB value",
+        "Jacobs said, 'Let's hope they get it'",
+        "Commissioners approved a $94,400 street reconstruction design contract"
+      ]
+    },
+    {
+      "id": "s-hayspost-mask-oct-2020",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/1a241ad5-d176-4494-9e9a-aa4a286f3bf4",
+      "title": "Hays extends mask ordinance after October 2020 special meeting",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The October 2020 mask ordinance extension passed 3-1",
+        "Jacobs, Musil, and Berges voted yes; Ruder voted no; Mellick was absent",
+        "[Hays Post: Special mask meeting](https://hayspost.com/posts/1a241ad5-d176-4494-9e9a-aa4a286f3bf4)"
+      ]
+    },
+    {
+      "id": "s-hayspost-2021-profile",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/64dd8115-641e-489a-970e-22ef124e2781",
+      "title": "5 city commission candidates vying for 3 seats",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Jacobs was described as a retired banker and then-current mayor",
+        "Jacobs discussed North Vine reconstruction, roundabouts, traffic flow, safety, business development, and population growth",
+        "[Hays Post: 5 candidates vying](https://hayspost.com/posts/64dd8115-641e-489a-970e-22ef124e2781)",
+        "| 2021-10-31 | [Hays Post: 5 city commission candidates vying](https://hayspost.com/posts/64dd8115-641e-489a-970e-22ef124e2781) | Candidate profile/forum | North Vine reconstruction, traffic roundabouts, business development, population growth. |",
+        "[Hays Post: 5 city commission candidates vying for 3 seats](https://hayspost.com/posts/64dd8115-641e-489a-970e-22ef124e2781)"
       ]
     },
     {
@@ -679,6 +784,48 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-facebook-local-harvest",
+      "tier": "social",
+      "url": "https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/",
+      "title": "Sandy Jacobs - Hays City Commission",
+      "publisher": "Facebook",
+      "accessed": "2026-05-11",
+      "claimsAnchored": [
+        "Prior logged-out local harvest found page metadata and 257 visible likes",
+        "No reliable post-level feed, comments, reactions, shares, follows, or issue content were accessible",
+        "Facebook: [Sandy Jacobs - Hays City Commission](https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/)",
+        "[Sandy Jacobs - Hays City Commission](https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/)",
+        "Public metadata confirms a page called [Sandy Jacobs - Hays City Commission](https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/) with 257 likes. GoodParty links the older page URL, which redirects to the same Facebook identity."
+      ]
+    },
+    {
+      "id": "s-linkedin-local-harvest",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/sandy-jacobs-64a43613",
+      "title": "Sandy Jacobs LinkedIn profile preview",
+      "publisher": "LinkedIn",
+      "accessed": "2026-05-11",
+      "claimsAnchored": [
+        "Prior public preview showed Sandy Jacobs in Hays, Kansas with City of Hays experience",
+        "Prior preview showed 246 followers and 244 connections",
+        "Full profile and activity were not accessible",
+        "| LinkedIn | Found identity profile preview | Public search preview for https://www.linkedin.com/in/sandy-jacobs-64a43613 showed Sandy Jacobs, Hays, Kansas, 246 followers, 244 connections, City of Hays experience, and liked activity. LinkedIn blocked full fetc",
+        "The public LinkedIn preview for [Sandy Jacobs](https://www.linkedin.com/in/sandy-jacobs-64a43613) showed Hays, Kansas, 246 followers, 244 connections, City of Hays experience, and biographical language about being a retired bank executive leading a nonprofit f",
+        "[LinkedIn: Sandy Jacobs](https://www.linkedin.com/in/sandy-jacobs-64a43613)"
+      ]
+    },
+    {
+      "id": "s-heartland-board-2025",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/d32e05b4-559c-4c15-a5a4-24de465883c8",
+      "title": "Heartland Community Foundation welcomes new board members, launches Engagement Committees",
+      "publisher": "Hays Post / Heartland Community Foundation",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Heartland Community Foundation listed Sandy Jacobs of Hays as an emeritus board member in 2025"
+      ]
+    },
+    {
       "id": "s-heartland-foundation",
       "tier": "primary",
       "url": "https://heartlandcommunityfoundation.org/",
@@ -689,198 +836,6 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
         "Heartland Community Foundation describes grantmaking and community support in Ellis, Rooks, and Trego counties",
         "Foundation context does not establish Jacobs' current views or church affiliation",
         "[Heartland Community Foundation](https://heartlandcommunityfoundation.org/)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0001",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0002",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0024",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0025",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0027",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0028",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0029",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: Officer on de-escalation training](https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930)",
-        "[Hays Post: De-escalation training](https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0037",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2026 budget](https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0038",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0039",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0040",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/ab9f126e-6b0d-4482-9212-ba76a853c772",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"we're rock stars compared to other communities\" Source: Hays Post, 2025-06-22, https://hayspost.com/posts/ab9f126e-6b0d-4482-9212-ba76a853c772, topic: budget discipline.",
-        "> -- Hays Post, July 9, 2025, https://hayspost.com/posts/ab9f126e-6b0d-4482-9212-ba76a853c772",
-        "[hayspost.com](https://hayspost.com/posts/ab9f126e-6b0d-4482-9212-ba76a853c772)",
-        "\"source\": \"Hays Post, July 9, 2025, https://hayspost.com/posts/ab9f126e-6b0d-4482-9212-ba76a853c772\","
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0042",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0044",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0046",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/095697ac-eb4b-4005-867a-bb049ec8c10f",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Mask ordinance extension](https://hayspost.com/posts/095697ac-eb4b-4005-867a-bb049ec8c10f)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0047",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/433c0ff0-f645-4a6a-a4be-6f8549de14f9",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Chick-fil-A incentives approved](https://hayspost.com/posts/433c0ff0-f645-4a6a-a4be-6f8549de14f9)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0048",
-      "tier": "secondary",
-      "url": "https://hutchpost.com/posts/f240fb89-d1f0-4373-ac4b-605d5e5f9c32",
-      "title": "Hutchpost",
-      "publisher": "Hutchpost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Paisley Pear for sale](https://hutchpost.com/posts/f240fb89-d1f0-4373-ac4b-605d5e5f9c32)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0049",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/efb80be7-69e2-4461-8e69-d7f86b59e482",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Paisley Pear grand reopening](https://hayspost.com/posts/efb80be7-69e2-4461-8e69-d7f86b59e482)"
       ]
     },
     {
@@ -898,47 +853,14 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-sandy-jacobs-0061",
+      "id": "src-sandy-jacobs-0055",
       "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/12/15/kansas-supreme-court-examines-roiling-water-dispute-between-crop-irrigators-and-hays-russell/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
+      "url": "https://www.hdnews.net/reorganization-of-commission-names-jacobs-as-mayor-ruder-as-vice-mayor/",
+      "title": "Hdnews",
+      "publisher": "Hdnews",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Supreme Court arguments](https://kansasreflector.com/2025/12/15/kansas-supreme-court-examines-roiling-water-dispute-between-crop-irrigators-and-hays-russell/)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0062",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/c6a0184d-7e96-4157-ba49-d5e49a49e54c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Water bill awaits governor signature](https://hayspost.com/posts/c6a0184d-7e96-4157-ba49-d5e49a49e54c)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0082",
-      "tier": "secondary",
-      "url": "https://municipalwaterleader.com/guaranteeing-the-water-supply-of-hays-kansas-through-conservation-reuse-and-new-supplies/",
-      "title": "Municipalwaterleader",
-      "publisher": "Municipalwaterleader",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Municipal Water Leader Magazine](https://municipalwaterleader.com/guaranteeing-the-water-supply-of-hays-kansas-through-conservation-reuse-and-new-supplies/)"
-      ]
-    },
-    {
-      "id": "src-sandy-jacobs-0083",
-      "tier": "secondary",
-      "url": "https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849",
-      "title": "Issuu",
-      "publisher": "Issuu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Issuu: Municipal Water Leader interview](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)"
+        "[HDN: Jacobs elected Mayor, Ruder Vice Mayor](https://www.hdnews.net/reorganization-of-commission-names-jacobs-as-mayor-ruder-as-vice-mayor/)"
       ]
     },
     {
@@ -951,6 +873,29 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "| 2019-11-14 | [Hays Post: New city water rebates more inclusive](https://hayspost.com/posts/5e5871c7b0e3671763224d5c) | Meeting quote | Water conservation outreach, praise for public education and social-media water messaging. |",
         "[Hays Post: New city water rebates more inclusive](https://hayspost.com/posts/5e5871c7b0e3671763224d5c)"
+      ]
+    },
+    {
+      "id": "src-sandy-jacobs-0120",
+      "tier": "social",
+      "url": "https://www.facebook.com/Sandy-Jacobs-Hays-City-Commission-354164551685996/",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| Facebook | Found candidate page metadata | GoodParty lists https://www.facebook.com/Sandy-Jacobs-Hays-City-Commission-354164551685996/; Facebook redirects to https://www.facebook.com/people/Sandy-Jacobs-Hays-City-Commission/100063604999773/. Logged-out metad"
+      ]
+    },
+    {
+      "id": "src-sandy-jacobs-0125",
+      "tier": "primary",
+      "url": "https://www.haysusa.com/270/Sandy-Jacobs",
+      "title": "Haysusa",
+      "publisher": "Haysusa",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "https://www.haysusa.com/270/Sandy-Jacobs",
+        "[haysusa.com](https://www.haysusa.com/270/Sandy-Jacobs)"
       ]
     }
   ]

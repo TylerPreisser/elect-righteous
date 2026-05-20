@@ -29,44 +29,26 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public evidence: Hays USD 489 board members question parental rights in emergency policy revision Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-allen-park-0020"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-allen-park-00880",
-          "date": "Undated",
-          "body": "Hays USD 489 board members question parental rights in emergency policy revision",
-          "sourceIds": [
-            "src-allen-park-0020"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: The core phrase in Park's campaign record is \"kids and families first.\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned to it in 2023 when he said he would use it as a reference point for decisions. His related test for school decisions was whether they are best for kids. Source Source Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "hayspost-2023-profile",
           "klc-2019-survey",
           "src-allen-park-0023",
-          "hayspost-2023-qa"
+          "hayspost-2023-profile",
+          "hayspost-2023-qa",
+          "usd489-bond-article-2022"
         ]
       },
       "actions": [
-        {
-          "id": "em-allen-park-00003",
-          "date": "Undated",
-          "body": "Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition coordinator, and 25 years as Washington Elementary principal. Source",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ]
-        },
         {
           "id": "em-allen-park-00004",
           "date": "Undated",
@@ -114,13 +96,8 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-allen-park-0065",
-          "src-allen-park-0066",
-          "src-allen-park-0037",
-          "src-allen-park-0067"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -131,12 +108,7 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Park also presents fiscal responsibility as a board duty tied to student outcomes. In 2023, he said he would keep asking budget questions and connect spending decisions to academic achievement. He also said he would look for local purchasing, appropriate cuts, grant writing, community partnerships, and efficient use of district facilities. In 2019, his published goals included fiscal soundness, safe facilities, loca... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "hayspost-2023-profile",
-          "src-allen-park-0043",
-          "src-allen-park-0044",
-          "src-allen-park-0091",
-          "src-allen-park-0033",
-          "src-allen-park-0034"
+          "hayspost-2023-profile"
         ]
       },
       "actions": [
@@ -147,30 +119,6 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
           "sourceIds": [
             "hayspost-2023-profile"
           ]
-        },
-        {
-          "id": "em-allen-park-00877",
-          "date": "Undated",
-          "body": "Board member questions Hays USD 489 bond budget",
-          "sourceIds": [
-            "src-allen-park-0043"
-          ]
-        },
-        {
-          "id": "em-allen-park-00878",
-          "date": "Undated",
-          "body": "Hays USD 489 board scrutinizes bond budget",
-          "sourceIds": [
-            "src-allen-park-0044"
-          ]
-        },
-        {
-          "id": "em-allen-park-01641",
-          "date": "Undated",
-          "body": "On the March 2026 reconsideration of the proposed sale of 7.3 acres north of Felten Elementary, Ruder said, \"If we sit on the land, we get nothing,\" and \"I don't think we can just say no,\" urging the board to invite bidders to a meeting to discuss their projects further and referencing community-housing demand and potential residential-tax revenue (source). Across the captured Hays Post coverage, board-coverage articles consistently describe her vote alignment with the administration majority, alongside Ken Brooks...",
-          "sourceIds": [
-            "src-allen-park-0091"
-          ]
         }
       ],
       "socialSignals": []
@@ -179,21 +127,10 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "hayspost-2023-profile"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-allen-park-00003",
-          "date": "Undated",
-          "body": "Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition coordinator, and 25 years as Washington Elementary principal. Source",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -210,43 +147,20 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "hayspost-2023-profile"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-allen-park-00003",
-          "date": "Undated",
-          "body": "Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition coordinator, and 25 years as Washington Elementary principal. Source",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "hayspost-2023-profile",
-          "src-allen-park-0072"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-allen-park-00003",
-          "date": "Undated",
-          "body": "Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition coordinator, and 25 years as Washington Elementary principal. Source",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -256,11 +170,10 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
         "text": "Documented public evidence: His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and that additional expenses were paid personally. Source Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "hayspost-2023-qa",
-          "src-allen-park-0010",
-          "kpdc-campaign-finance",
-          "kpdc-blank-forms",
           "klc-2019-survey",
-          "hayspost-2023-profile"
+          "hayspost-2023-profile",
+          "hayspost-2023-results",
+          "usd489-bond-article-2022"
         ]
       },
       "actions": [
@@ -270,30 +183,6 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
           "body": "His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and that additional expenses were paid personally. Source",
           "sourceIds": [
             "hayspost-2023-qa"
-          ]
-        },
-        {
-          "id": "em-allen-park-00049",
-          "date": "Undated",
-          "body": "Ellis County Election Results page: https://www.ellisco.net/435/Election-Results",
-          "sourceIds": [
-            "src-allen-park-0010"
-          ]
-        },
-        {
-          "id": "em-allen-park-00067",
-          "date": "Undated",
-          "body": "Kansas Public Disclosure Commission campaign finance page: https://ethics.kansas.gov/campaign-finance/",
-          "sourceIds": [
-            "kpdc-campaign-finance"
-          ]
-        },
-        {
-          "id": "em-allen-park-00071",
-          "date": "Undated",
-          "body": "Kansas Public Disclosure Commission blank forms page: https://ethics.kansas.gov/campaign-finance/blank-forms/",
-          "sourceIds": [
-            "kpdc-blank-forms"
           ]
         },
         {
@@ -311,6 +200,14 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
           "sourceIds": [
             "hayspost-2023-profile"
           ]
+        },
+        {
+          "id": "em-allen-park-00151",
+          "date": "Undated",
+          "body": "Hays Post 2023 Ellis County election results: https://hayspost.com/posts/ab29cf1d-de84-46f8-a952-2fc825ca1f03",
+          "sourceIds": [
+            "hayspost-2023-results"
+          ]
         }
       ],
       "socialSignals": []
@@ -319,49 +216,13 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Kansas Public Disclosure Commission campaign finance page: https://ethics.kansas.gov/campaign-finance/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Hays USD 489 board votes not to add another manager for bond work Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "kpdc-campaign-finance",
-          "kpdc-blank-forms",
-          "src-allen-park-0038",
-          "src-allen-park-0039",
           "hayspost-project-manager-2025",
           "hayspost-asbestos-2025"
         ]
       },
       "actions": [
-        {
-          "id": "em-allen-park-00067",
-          "date": "Undated",
-          "body": "Kansas Public Disclosure Commission campaign finance page: https://ethics.kansas.gov/campaign-finance/",
-          "sourceIds": [
-            "kpdc-campaign-finance"
-          ]
-        },
-        {
-          "id": "em-allen-park-00071",
-          "date": "Undated",
-          "body": "Kansas Public Disclosure Commission blank forms page: https://ethics.kansas.gov/campaign-finance/blank-forms/",
-          "sourceIds": [
-            "kpdc-blank-forms"
-          ]
-        },
-        {
-          "id": "em-allen-park-00520",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-allen-park-0038"
-          ]
-        },
-        {
-          "id": "em-allen-park-00811",
-          "date": "Undated",
-          "body": "Hays school board approves HHS, Roosevelt contract; discussion heated",
-          "sourceIds": [
-            "src-allen-park-0039"
-          ]
-        },
         {
           "id": "em-allen-park-00812",
           "date": "Undated",
@@ -385,45 +246,27 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: FHSU: Board of Regents approves affiliation Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: His facilities comments often combine support for school investment with questions about process and cost. In USD 489's 2022 bond article, Park asked how much a special election would cost, raised concerns about replacing a two-section elementary school with a four-section school, asked about school choice under realignment, and asked about using local contractors. In 2025 property-sale coverage, he asked why the di... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-allen-park-0032",
           "usd489-bond-article-2022"
         ]
       },
-      "actions": [
-        {
-          "id": "em-allen-park-00284",
-          "date": "Undated",
-          "body": "FHSU: Board of Regents approves affiliation",
-          "sourceIds": [
-            "src-allen-park-0032"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: The core phrase in Park's campaign record is \"kids and families first.\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned to it in 2023 when he said he would use it as a reference point for decisions. His related test for school decisions was whether they are best for kids. Source Source Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "hayspost-2023-profile",
           "klc-2019-survey",
           "src-allen-park-0023",
+          "hayspost-2023-profile",
           "hayspost-2023-qa"
         ]
       },
       "actions": [
-        {
-          "id": "em-allen-park-00003",
-          "date": "Undated",
-          "body": "Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent board member. He said he came from a family of educators, that his wife Patti had also spent decades in education, and that his own USD 489 work included paraprofessional, teacher, coach, migrant director, transition coordinator, and 25 years as Washington Elementary principal. Source",
-          "sourceIds": [
-            "hayspost-2023-profile"
-          ]
-        },
         {
           "id": "em-allen-park-00004",
           "date": "Undated",
@@ -463,6 +306,14 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
           "sourceIds": [
             "hayspost-2023-qa"
           ]
+        },
+        {
+          "id": "em-allen-park-00012",
+          "date": "Undated",
+          "body": "His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and that additional expenses were paid personally. Source",
+          "sourceIds": [
+            "hayspost-2023-qa"
+          ]
         }
       ],
       "socialSignals": []
@@ -478,9 +329,9 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Allen Park is profiled here for USD 489 Board of Education member as a nonpartisan incumbent/current official. His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and... Hays School District USD 489 Diligent Community member portal: https://usd489.community.highbond.com/portal/members.aspx?id=18. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 33 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. Education / curriculum / schools: Allen Park's public messaging is rooted in his long history inside USD 489. In 2023, he described himself as a retired elementary principal, licensed insurance agent, part-time UPS worker, and incumbent bo... Education / curriculum / schools: The core phrase in Park's campaign record is \"kids and families first.\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned... Education / curriculum / schools: Park's most consistent theme is trust through communication. In 2019, he said USD 489 needed to reconnect with the Hays community by rebuilding trust, encouraging involvement, increasing communication, and... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. D... Sunflower State Journal: Kobach denounces vandalism at his church. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "whoTheyAre": "Allen Park is profiled here for USD 489 Board of Education member as a nonpartisan incumbent/current official. His campaign-finance answer was limited and local. In 2023, he said he had not received money from outside the school district, that the few donations he received came from family, friends, and community members who care about kids and education in Hays, and... Ellis County Election Results page: https://www.ellisco.net/435/Election-Results. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 18 source-backed actions across 5 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: The core phrase in Park's campaign record is \"kids and families first.\" He used that framing in 2019 when he told KLC Journal he wanted to be part of a school-board team with that priority, and he returned... Education / curriculum / schools: Park's most consistent theme is trust through communication. In 2019, he said USD 489 needed to reconnect with the Hays community by rebuilding trust, encouraging involvement, increasing communication, and... Education / curriculum / schools: Facilities and bond oversight are another major throughline. Before joining the board, Park said he had supported prior bond issues and wanted community, teacher, and staff input in planning. After the $14... Education / curriculum / schools: Park also presents fiscal responsibility as a board duty tied to student outcomes. In 2023, he said he would keep asking budget questions and connect spending decisions to academic achievement. He also sai... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "Christian Post: Caleb Schwab attended church with family hours before death. I did not find a reliable public source that identifies Allen Park's church home or denomination. Because the public record is thin here, I am not assigning a church without evidence. I did not find a reliable public source that identifies Park's church home or denomination. I am not assigning a church without evidence. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "No donor-by-donor report or PAC ledger was found for Park. The only located candidate-specific funding statement is from his 2023 Hays Post Q&A.",
     "narrative": "No donor-by-donor report or PAC ledger was found for Park. The only located candidate-specific funding statement is from his 2023 Hays Post Q&A.",
@@ -490,6 +341,23 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
   },
   "socialResearchNote": "The social harvest contains 122 observed items, but none were rendered as public source-backed issue signals in this pass. Social evidence remains a signal layer only, not proof of belief.",
   "sources": [
+    {
+      "id": "usd489-diligent-members",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
+      "title": "Hays School District USD 489 - Members",
+      "publisher": "Hays School District USD 489 / Diligent Community",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Allen Park listed as BOE Member / Board Member.",
+        "Current board roster includes Park.",
+        "Term field is blank.",
+        "Hays School District USD 489 Diligent Community member portal: https://usd489.community.highbond.com/portal/members.aspx?id=18",
+        "narrative: \"Curt Vajnar's public voice is local, school-specific, and governance-focused. I found no verified campaign website or campaign social feed for him. The strongest source set is Hays Post candidate Q&As and forum coverage, USD 489 public board infras",
+        "[usd489.community.highbond.com](https://usd489.community.highbond.com/portal/members.aspx?id=18)",
+        "\"campaignWebsite\": \"https://usd489.community.highbond.com/portal/members.aspx?id=18\","
+      ]
+    },
     {
       "id": "usd489-bond-article-2022",
       "tier": "primary",
@@ -506,27 +374,16 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "kpdc-campaign-finance",
+      "id": "usd489-calendar-2024",
       "tier": "primary",
-      "url": "https://ethics.kansas.gov/campaign-finance/",
-      "title": "Campaign Finance",
-      "publisher": "Kansas Public Disclosure Commission",
+      "url": "https://www.usd489.com/article/1447496",
+      "title": "Hays USD 489 approves calendars with Monday professional development days",
+      "publisher": "Hays USD 489",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "KPDC administers Campaign Finance Act for state offices and specified local offices.",
-        "Kansas Public Disclosure Commission campaign finance page: https://ethics.kansas.gov/campaign-finance/"
-      ]
-    },
-    {
-      "id": "kpdc-blank-forms",
-      "tier": "primary",
-      "url": "https://ethics.kansas.gov/campaign-finance/blank-forms/",
-      "title": "Blank Forms",
-      "publisher": "Kansas Public Disclosure Commission",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Campaign finance form categories checked; ordinary Hays USD 489 school board category not identified.",
-        "Kansas Public Disclosure Commission blank forms page: https://ethics.kansas.gov/campaign-finance/blank-forms/"
+        "Park asked about parent support on student days off.",
+        "Calendars passed 5-2 with Park and Yarmer voting no.",
+        "USD 489 official article, \"Hays USD 489 approves calendars with Monday professional development days\": https://www.usd489.com/article/1447496"
       ]
     },
     {
@@ -581,6 +438,58 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "hayspost-2023-results",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/ab29cf1d-de84-46f8-a952-2fc825ca1f03",
+      "title": "2023 Ellis County election results",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Accessible text source for Park's reported 2023 USD 489 vote total.",
+        "Hays Post 2023 Ellis County election results: https://hayspost.com/posts/ab29cf1d-de84-46f8-a952-2fc825ca1f03"
+      ]
+    },
+    {
+      "id": "greatbendpost-minutes-2023",
+      "tier": "secondary",
+      "url": "https://greatbendpost.com/posts/11e68e53-1cdc-4676-afb0-aef5b6ee450e",
+      "title": "Hays USD 489 board member alleges misconduct, board attorney says no",
+      "publisher": "Great Bend Post / Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Park challenged board-minute detail; counsel disagreed that Kansas law required it.",
+        "Great Bend Post / Hays Post meeting-minutes coverage: https://greatbendpost.com/posts/11e68e53-1cdc-4676-afb0-aef5b6ee450e",
+        "| 2023-02-21 | [Great Bend Post / Hays Post](https://greatbendpost.com/posts/11e68e53-1cdc-4676-afb0-aef5b6ee450e) | Board minutes | Alleged board minutes were not including all required information and argued that his reasons for no votes should appear in min"
+      ]
+    },
+    {
+      "id": "hayspost-nepotism-2023",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8",
+      "title": "Hays USD 489 BOE debates nepotism again at Monday meeting",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Park voted against personnel transactions involving superintendent's wife and asked for policy review.",
+        "[Hays USD 489 BOE debates nepotism again](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8)",
+        "Hays Post nepotism coverage: https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8"
+      ]
+    },
+    {
+      "id": "hayspost-admin-contracts-2024",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf",
+      "title": "Hays USD 489 district administrators' contracts extended another year",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Park voted no on administrator contract extensions and said process was too fast.",
+        "[Hays USD 489 district administrators' contracts extended another year](https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf)",
+        "\"source\": \"Hays Post candidate profile, 2021, https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf\",",
+        "Hays Post administrator-contract coverage: https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf"
+      ]
+    },
+    {
       "id": "hayspost-project-manager-2025",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126",
@@ -609,25 +518,16 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-allen-park-0010",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/435/Election-Results",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Ellis County Election Results page: https://www.ellisco.net/435/Election-Results"
-      ]
-    },
-    {
-      "id": "src-allen-park-0020",
+      "id": "tiger-property-sale-2025",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
+      "url": "https://tigermedianet.com/?p=92038",
+      "title": "Board of Education approves sale of property north of Hays Middle School",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-19",
       "claimsAnchored": [
-        "[Hays USD 489 board members question parental rights in emergency policy revision](https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471)"
+        "Park asked for appraisal and questioned water-rights value before property sale.",
+        "| 2025-11-11 | [Tiger Media Network](https://tigermedianet.com/?p=92038) | Property sale north of Hays Middle School | Asked why the board was rushing the sale, wanted an appraisal completed, and asked what water rights were worth. |",
+        "Tiger Media Network property-sale coverage: https://tigermedianet.com/?p=92038"
       ]
     },
     {
@@ -642,149 +542,24 @@ export const ALLEN_PARK_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-allen-park-0032",
+      "id": "src-allen-park-0045",
       "tier": "secondary",
-      "url": "https://www.fhsu.edu/news/kansas-board-of-regents-approves-the-affiliation-of-three-rural-higher-education-institutions",
-      "title": "Fhsu",
-      "publisher": "Fhsu",
+      "url": "https://archive.hayspost.com/2015/05/19/park-announces-retirement-after-30-years-with-usd-489/",
+      "title": "Archive.Hayspost",
+      "publisher": "Archive.Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[FHSU: Board of Regents approves affiliation](https://www.fhsu.edu/news/2023/01/kansas-board-of-regents-approves-the-affiliation-of-three-rural-higher-education-institutions)"
+        "[Park announces retirement after 30 years with USD 489 (Archive)](https://archive.hayspost.com/2015/05/19/park-announces-retirement-after-30-years-with-usd-489/)"
       ]
     },
     {
-      "id": "src-allen-park-0033",
+      "id": "src-allen-park-0142",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/04cfdd2f-367b-48f6-b13c-fa85378ae474",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "url": "https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html",
+      "title": "Christianpost",
+      "publisher": "Christianpost",
       "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: USD 489 bond budget](https://hayspost.com/posts/04cfdd2f-367b-48f6-b13c-fa85378ae474)"
-      ]
-    },
-    {
-      "id": "src-allen-park-0034",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/2eac70a2-defb-441a-b6ec-ebd4a44fd068",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: USD 489 mill levy](https://hayspost.com/posts/2eac70a2-defb-441a-b6ec-ebd4a44fd068)"
-      ]
-    },
-    {
-      "id": "src-allen-park-0037",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-allen-park-0038",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-allen-park-0039",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays school board approves HHS, Roosevelt contract; discussion heated](https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984)"
-      ]
-    },
-    {
-      "id": "src-allen-park-0043",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Board member questions Hays USD 489 bond budget](https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4)"
-      ]
-    },
-    {
-      "id": "src-allen-park-0044",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 board scrutinizes bond budget](https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f)"
-      ]
-    },
-    {
-      "id": "src-allen-park-0065",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-allen-park-0066",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)",
-        "\"url\": \"https://www.ihm-church.com/\""
-      ]
-    },
-    {
-      "id": "src-allen-park-0067",
-      "tier": "secondary",
-      "url": "https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/",
-      "title": "Au",
-      "publisher": "Au",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Americans United: National Prayer Breakfast](https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/)"
-      ]
-    },
-    {
-      "id": "src-allen-park-0072",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-allen-park-0091",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/13cbc154-8d45-445c-8557-acc25fb643e5",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "On the March 2026 reconsideration of the proposed sale of 7.3 acres north of Felten Elementary, Ruder said, \"If we sit on the land, we get nothing,\" and \"I don't think we can just say no,\" urging the board to invite bidders to a meeting to discuss their projec"
-      ]
+      "claimsAnchored": []
     }
   ]
 };

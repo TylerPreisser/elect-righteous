@@ -40,43 +40,11 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-issues"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-craig-musser-00008",
-          "date": "Undated",
-          "body": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its healthcare section says, \"Mental healthcare should be a priority: Mental healthcare should be treate...",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-craig-musser-0002",
-          "platform": "musserforuscongress.com",
-          "observation": "For KS-01 district issues, Musser's local material centers on agriculture, healthcare, education, and a manufacturing-and-safety biography. Agriculture accounts for 2 of 24 candidate-controlled website statements, or 8 percent. His issues page says, \"Stabilizing markets is paramount: Mother Nature provides farmers with plenty of variables.\" (source). In a second agriculture statement, he wrote, \"There are many issue...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-craig-musser-0003",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
@@ -92,50 +60,11 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: On national policy, Musser's public website addresses domestic federal programs rather than foreign affairs. The issues page states, \"It’s mandatory that we maintain social security to ensure everyone who has paid in gets the income and benefits their money has provided others.\" (source). On taxes, the same page says, \"The tax code and the way funds are directed need to be simplified, and at the same time, the IRS n... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-issues"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-craig-musser-00006",
-          "date": "Undated",
-          "body": "On national policy, Musser's public website addresses domestic federal programs rather than foreign affairs. The issues page states, \"It’s mandatory that we maintain social security to ensure everyone who has paid in gets the income and benefits their money has provided others.\" (source). On taxes, the same page says, \"The tax code and the way funds are directed need to be simplified, and at the same time, the IRS needs to function primarily as a service.\" (source). Across the captured period the feed contains no...",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        },
-        {
-          "id": "em-craig-musser-00008",
-          "date": "Undated",
-          "body": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its healthcare section says, \"Mental healthcare should be a priority: Mental healthcare should be treate...",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-craig-musser-0003",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-craig-musser-0004",
-          "platform": "musserforuscongress.com",
-          "observation": "On national policy, Musser's public website addresses domestic federal programs rather than foreign affairs. The issues page states, \"It’s mandatory that we maintain social security to ensure everyone who has paid in gets the income and benefits their money has provided others.\" (source). On taxes, the same page says, \"The tax code and the way funds are directed need to be simplified, and at the same time, the IRS n...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-craig-musser-0015",
           "platform": "Facebook",
@@ -172,33 +101,11 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-issues"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-craig-musser-00008",
-          "date": "Undated",
-          "body": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its healthcare section says, \"Mental healthcare should be a priority: Mental healthcare should be treate...",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-craig-musser-0003",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
@@ -206,8 +113,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with representation, biography, and campaign-theme statements accounting for 7 of 24 statements, or 29 percent, and healthcare accounting for 5 of 24 statements, or 21 percen... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
-          "s-campaign-issues"
+          "s-campaign-home"
         ]
       },
       "actions": [
@@ -218,37 +124,9 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-home"
           ]
-        },
-        {
-          "id": "em-craig-musser-00008",
-          "date": "Undated",
-          "body": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its healthcare section says, \"Mental healthcare should be a priority: Mental healthcare should be treate...",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-craig-musser-0002",
-          "platform": "musserforuscongress.com",
-          "observation": "For KS-01 district issues, Musser's local material centers on agriculture, healthcare, education, and a manufacturing-and-safety biography. Agriculture accounts for 2 of 24 candidate-controlled website statements, or 8 percent. His issues page says, \"Stabilizing markets is paramount: Mother Nature provides farmers with plenty of variables.\" (source). In a second agriculture statement, he wrote, \"There are many issue...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-craig-musser-0003",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
         {
           "id": "soc-craig-musser-0005",
           "platform": "musserforuscongress.com",
@@ -268,11 +146,9 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with representation, biography, and campaign-theme statements accounting for 7 of 24 statements, or 29 percent, and healthcare accounting for 5 of 24 statements, or 21 percen... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-campaign-issues",
-          "s-ks-sos-candidate-info",
-          "s-ks-sos-dates",
           "s-hayspost-announcement",
-          "s-greatbendpost-announcement"
+          "s-greatbendpost-announcement",
+          "s-fec-form2"
         ]
       },
       "actions": [
@@ -282,30 +158,6 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
           "body": "Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with representation, biography, and campaign-theme statements accounting for 7 of 24 statements, or 29 percent, and healthcare accounting for 5 of 24 statements, or 21 percent. The home page presents the campaign as \"Uniting Kansans For Our Common Good.\" (source) and descri...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-craig-musser-00008",
-          "date": "Undated",
-          "body": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its healthcare section says, \"Mental healthcare should be a priority: Mental healthcare should be treate...",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        },
-        {
-          "id": "em-craig-musser-00049",
-          "date": "2026-05-19",
-          "body": "Kansas Secretary of State, \"Candidate Information,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/candidate-information.html",
-          "sourceIds": [
-            "s-ks-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-craig-musser-00050",
-          "date": "2026-05-19",
-          "body": "Kansas Secretary of State, \"Important Election Dates,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/important-election-dates.html",
-          "sourceIds": [
-            "s-ks-sos-dates"
           ]
         },
         {
@@ -323,29 +175,17 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-greatbendpost-announcement"
           ]
+        },
+        {
+          "id": "em-craig-musser-00176",
+          "date": "Undated",
+          "body": "Craig Musser campaign home page: https://musserforuscongress.com/",
+          "sourceIds": [
+            "s-campaign-home"
+          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-craig-musser-0002",
-          "platform": "musserforuscongress.com",
-          "observation": "For KS-01 district issues, Musser's local material centers on agriculture, healthcare, education, and a manufacturing-and-safety biography. Agriculture accounts for 2 of 24 candidate-controlled website statements, or 8 percent. His issues page says, \"Stabilizing markets is paramount: Mother Nature provides farmers with plenty of variables.\" (source). In a second agriculture statement, he wrote, \"There are many issue...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-craig-musser-0003",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
         {
           "id": "soc-craig-musser-0005",
           "platform": "musserforuscongress.com",
@@ -362,13 +202,10 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: United Kansas Party: unitedkansas.com/candidates Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Hays Post - \"Kansas First Congressional District has a new candidate\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-announcement",
           "s-greatbendpost-announcement",
-          "src-craig-musser-0022",
-          "src-craig-musser-0023",
-          "src-craig-musser-0024",
           "src-craig-musser-0025"
         ]
       },
@@ -390,30 +227,6 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-craig-musser-00495",
-          "date": "Undated",
-          "body": "Kansas Reflector - \"Lawrence Democrats take aim...\" (Jan 5, 2026)",
-          "sourceIds": [
-            "src-craig-musser-0022"
-          ]
-        },
-        {
-          "id": "em-craig-musser-00496",
-          "date": "Undated",
-          "body": "Lawrence Journal-World - \"Lawrence Democrats take aim...\" (Jan 7, 2026)",
-          "sourceIds": [
-            "src-craig-musser-0023"
-          ]
-        },
-        {
-          "id": "em-craig-musser-00497",
-          "date": "Undated",
-          "body": "KCN Online - \"Two Lawrence Dems Seek 1st District Seat\" (Jan 5, 2026)",
-          "sourceIds": [
-            "src-craig-musser-0024"
-          ]
-        },
-        {
           "id": "em-craig-musser-00506",
           "date": "Undated",
           "body": "United Kansas - Official Website",
@@ -428,43 +241,11 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-issues"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-craig-musser-00008",
-          "date": "Undated",
-          "body": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its healthcare section says, \"Mental healthcare should be a priority: Mental healthcare should be treate...",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-craig-musser-0002",
-          "platform": "musserforuscongress.com",
-          "observation": "For KS-01 district issues, Musser's local material centers on agriculture, healthcare, education, and a manufacturing-and-safety biography. Agriculture accounts for 2 of 24 candidate-controlled website statements, or 8 percent. His issues page says, \"Stabilizing markets is paramount: Mother Nature provides farmers with plenty of variables.\" (source). In a second agriculture statement, he wrote, \"There are many issue...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-craig-musser-0003",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
@@ -473,11 +254,10 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with representation, biography, and campaign-theme statements accounting for 7 of 24 statements, or 29 percent, and healthcare accounting for 5 of 24 statements, or 21 percen... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-campaign-issues",
-          "s-ks-sos-candidate-info",
-          "s-ks-sos-dates",
           "s-hayspost-announcement",
-          "s-greatbendpost-announcement"
+          "s-greatbendpost-announcement",
+          "src-craig-musser-0025",
+          "s-fec-form2"
         ]
       },
       "actions": [
@@ -487,30 +267,6 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
           "body": "Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with representation, biography, and campaign-theme statements accounting for 7 of 24 statements, or 29 percent, and healthcare accounting for 5 of 24 statements, or 21 percent. The home page presents the campaign as \"Uniting Kansans For Our Common Good.\" (source) and descri...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-craig-musser-00008",
-          "date": "Undated",
-          "body": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its healthcare section says, \"Mental healthcare should be a priority: Mental healthcare should be treate...",
-          "sourceIds": [
-            "s-campaign-issues"
-          ]
-        },
-        {
-          "id": "em-craig-musser-00049",
-          "date": "2026-05-19",
-          "body": "Kansas Secretary of State, \"Candidate Information,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/candidate-information.html",
-          "sourceIds": [
-            "s-ks-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-craig-musser-00050",
-          "date": "2026-05-19",
-          "body": "Kansas Secretary of State, \"Important Election Dates,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/important-election-dates.html",
-          "sourceIds": [
-            "s-ks-sos-dates"
           ]
         },
         {
@@ -528,6 +284,14 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-greatbendpost-announcement"
           ]
+        },
+        {
+          "id": "em-craig-musser-00176",
+          "date": "Undated",
+          "body": "Craig Musser campaign home page: https://musserforuscongress.com/",
+          "sourceIds": [
+            "s-campaign-home"
+          ]
         }
       ],
       "socialSignals": [
@@ -542,29 +306,29 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-craig-musser-0002",
-          "platform": "musserforuscongress.com",
-          "observation": "For KS-01 district issues, Musser's local material centers on agriculture, healthcare, education, and a manufacturing-and-safety biography. Agriculture accounts for 2 of 24 candidate-controlled website statements, or 8 percent. His issues page says, \"Stabilizing markets is paramount: Mother Nature provides farmers with plenty of variables.\" (source). In a second agriculture statement, he wrote, \"There are many issue...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-craig-musser-0003",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-issues"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-craig-musser-0005",
           "platform": "musserforuscongress.com",
           "observation": "Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with representation, biography, and campaign-theme statements accounting for 7 of 24 statements, or 29 percent, and healthcare accounting for 5 of 24 statements, or 21 percen...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-home"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-craig-musser-0006",
+          "platform": "Facebook",
+          "observation": "Musser's visible alignment is with the United Kansas Party rather than with a Republican or Democratic campaign structure. His campaign home page links to the United Kansas Party and a campaign Facebook poll, and Hays Post reported on March 24, 2026, that he formally announced under the United Kansas banner (source). The FEC candidate page lists him as \"Candidate for House Kansas - 01 ID: H6KS01211 OTHER\" (source)....",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-craig-musser-0025"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-craig-musser-0007",
+          "platform": "Facebook",
+          "observation": "Active site found at https://musserforuscongress.com/ with pages for home, biography, contact, issues, donation, and a Facebook-linked poll.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-campaign-home"
@@ -577,35 +341,16 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public evidence: Kansas Secretary of State candidate list endpoint, blocked in this environment, accessed 2026-05-19: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-craig-musser-0037"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-craig-musser-00052",
-          "date": "2026-05-19",
-          "body": "Kansas Secretary of State candidate list endpoint, blocked in this environment, accessed 2026-05-19: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
-          "sourceIds": [
-            "src-craig-musser-0037"
-          ]
-        },
-        {
-          "id": "em-craig-musser-00738",
-          "date": "2026-05-19",
-          "body": "Kansas Secretary of State live candidate list endpoint, blocked in this environment, accessed 2026-05-19: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
-          "sourceIds": [
-            "src-craig-musser-0037"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Craig Musser is profiled here for U.S. House candidate, Kansas 1st Congressional District as an Independent. Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with represent... Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The c... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 27 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, co... Taxes / spending / debt: On national policy, Musser's public website addresses domestic federal programs rather than foreign affairs. The issues page states, \"It’s mandatory that we maintain social security to ensure everyone who has paid... Taxes / spending / debt: Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-leve... Immigration / border: Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level e... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "Website biography says Musser grew up in Pennsylvania, attended public school, and attended Church of the Brethren. Religious liberty / church and state in education. Biography page says Musser attended Church of the Brethren while growing up. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "whoTheyAre": "Craig Musser is profiled here for U.S. House candidate, Kansas 1st Congressional District as an Independent. Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24 candidate-controlled website statements, with represent... Kansas Secretary of State, \"Candidate Information,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/candidate-information.html. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 12 source-backed actions across 4 of the 14 issue areas. Representative public-record entries include: Health care / insurance / Medicaid: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined 24... Election integrity / voting / courts: Across the accessible candidate-controlled record, Musser does not have a conventional social feed with regular public posts; the largest body of material is the campaign website. The harvest examined... Election integrity / voting / courts: Hays Post, \"Kansas First Congressional District has a new candidate,\" published 2026-03-24, accessed 2026-05-19: https://hayspost.com/posts/2ac5a87c-4b19-4a42-8db8-1deab18eb3f7. Election integrity / voting / courts: Great Bend Post, \"Kansas First Congressional District has a new candidate,\" published 2026-03-24, accessed 2026-05-19: https://greatbendpost.com/posts/d2d97c94-1d35-4fc6-a09d-3453408c580e. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "Website biography says Musser grew up in Pennsylvania, attended public school, and attended Church of the Brethren. Biography page says Musser attended Church of the Brethren while growing up. Biography page says Musser attended Church of the Brethren while growing up. No current church affiliation was found. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in rendered profile",
     "narrative": "Musser's visible alignment is with the United Kansas Party rather than with a Republican or Democratic campaign structure. His campaign home page links to the United Kansas Party and a campaign Facebook poll, and Hays Post reported on March 24, 2026, that he... For KS-01 district issues, Musser's local material centers on agriculture, healthcare, education, and a manufacturing-and-safety biography. Agriculture accounts for 2 of 24 candidate-controlled website statements, or 8 percent. His issues page says, \"Stabiliz... Musser's platform footprint is concentrated on an official campaign website and a small Facebook page. No candidate-controlled X, Instagram, YouTube, Truth Social, Gab, Gettr, Substack, Reddit, or TikTok account was found in the public searches captured for t... Federal Election Commission, FEC Form 2 image 202602149834322966, filed 2026-02-14, accessed 2026-05-19: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf. Finance figures are shown only when the reporting period/source was preserved in the evidence matrix; otherwise this remains a research caveat.",
@@ -614,7 +359,7 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
     "reportingPeriod": "Current public filings/evidence matrix reviewed 2026-05-20",
     "source": "Fec (https://www.fec.gov/data/candidate/H6KS01211/)"
   },
-  "socialResearchNote": "18 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "7 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-fec-candidate",
@@ -637,33 +382,23 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-ks-sos-candidate-info",
+      "id": "s-fec-form2",
       "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
-      "title": "Candidate Information",
-      "publisher": "Kansas Secretary of State",
+      "url": "https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
+      "title": "FEC Form 2 - Musser, Craig A",
+      "publisher": "Federal Election Commission",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "National-office candidates file with the Kansas Secretary of State",
-        "A candidate is not considered filed until petition or declaration and fee are received",
-        "Kansas Secretary of State, \"Candidate Information,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/candidate-information.html",
-        "Kansas Secretary of State, Candidate Information: https://www.sos.ks.gov/elections/candidate-information.html"
-      ]
-    },
-    {
-      "id": "s-ks-sos-dates",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/important-election-dates.html",
-      "title": "Important Election Dates",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "2026 candidate filing deadline is June 1, 2026 at 12:00 p.m.",
-        "2026 primary election date is August 4, 2026",
-        "2026 general election date is November 3, 2026",
-        "Kansas Secretary of State, \"Important Election Dates,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/important-election-dates.html",
-        "Kansas Secretary of State, Important Election Dates: https://www.sos.ks.gov/elections/important-election-dates.html",
-        "\"url\": \"https://www.sos.ks.gov/elections/important-election-dates.html\","
+        "Musser filed a Statement of Candidacy on February 14, 2026",
+        "Office sought is House, Kansas District 01",
+        "Party affiliation is OTHER",
+        "Principal campaign committee is Craig Musser for Congress",
+        "Candidate address city/state is Ellinwood, Kansas",
+        "Federal Election Commission, FEC Form 2 image 202602149834322966, filed 2026-02-14, accessed 2026-05-19: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
+        "Federal Election Commission, Form 2 image 202602149834322966: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
+        "[FEC Form 2 Filing (PDF)](https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf)",
+        "FEC Form 2 image 202602149834322966: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
+        "\"url\": \"https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf\","
       ]
     },
     {
@@ -692,6 +427,24 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
         "Campaign website: [musserforuscongress.com](https://musserforuscongress.com/) — active, candidate-controlled website with home, biography, contact, issues, donation, and Facebook poll links.",
         "Active site found at https://musserforuscongress.com/ with pages for home, biography, contact, issues, donation, and a Facebook-linked poll.",
         "Website found at https://musserforuscongress.com/."
+      ]
+    },
+    {
+      "id": "s-campaign-bio",
+      "tier": "primary",
+      "url": "https://musserforuscongress.com/meetcraig",
+      "title": "Meet Craig",
+      "publisher": "Craig Musser for Congress",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Musser says he is not a career politician",
+        "Musser says current representatives serve personal beliefs and party agenda rather than Kansans",
+        "Musser describes education in physics, chemical engineering, business administration, and safety",
+        "Musser describes work in engineering, human resources, maintenance, and safety",
+        "Musser says he attended Church of the Brethren while growing up",
+        "Musser says he wants to hear constituent concerns through the site",
+        "Craig Musser campaign biography: https://musserforuscongress.com/meetcraig",
+        "Craig Musser for United States Congress, \"Meet Craig,\" accessed 2026-05-19: https://musserforuscongress.com/meetcraig"
       ]
     },
     {
@@ -758,6 +511,21 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-ballotpedia",
+      "tier": "secondary",
+      "url": "https://ballotpedia.org/Craig_Musser",
+      "title": "Craig Musser",
+      "publisher": "Ballotpedia",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Ballotpedia lists Craig Musser in the 2026 Kansas 1st Congressional District context",
+        "[Craig Musser - Ballotpedia](https://ballotpedia.org/Craig_Musser)",
+        "Ballotpedia, \"Craig Musser,\" accessed 2026-05-19: https://ballotpedia.org/Craig_Musser",
+        "Ballotpedia profile: https://ballotpedia.org/Craig_Musser",
+        "Ballotpedia page: https://ballotpedia.org/Craig_Musser"
+      ]
+    },
+    {
       "id": "s-facebook-page",
       "tier": "social",
       "url": "https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/",
@@ -779,43 +547,6 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-craig-musser-0022",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector - \"Lawrence Democrats take aim...\" (Jan 5, 2026)](https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/)",
-        "[Kansas Reflector - \"Lawrence Democrats take aim at Kansas Republican's congressional seat\" (Jan 5, 2026)](https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/)",
-        "[Kansas Reflector - Lawrence Democrats](https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0023",
-      "tier": "secondary",
-      "url": "https://www2.ljworld.com/news/state-government/2026/jan/07/lawrence-democrats-take-aim-at-manns-congressional-seat/",
-      "title": "Www2.Ljworld",
-      "publisher": "Www2.Ljworld",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Lawrence Journal-World - \"Lawrence Democrats take aim...\" (Jan 7, 2026)](https://www2.ljworld.com/news/state-government/2026/jan/07/lawrence-democrats-take-aim-at-manns-congressional-seat/)",
-        "[Lawrence Journal-World - \"Lawrence Democrats take aim at Mann's congressional seat\" (Jan 7, 2026)](https://www2.ljworld.com/news/state-government/2026/jan/07/lawrence-democrats-take-aim-at-manns-congressional-seat/)",
-        "[Lawrence Journal-World](https://www2.ljworld.com/news/state-government/2026/jan/07/lawrence-democrats-take-aim-at-manns-congressional-seat/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0024",
-      "tier": "secondary",
-      "url": "https://www.kcnonline.com/wp/2026/01/05/two-lawrence-dems-seek-1st-district-seat/",
-      "title": "Kcnonline",
-      "publisher": "Kcnonline",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KCN Online - \"Two Lawrence Dems Seek 1st District Seat\" (Jan 5, 2026)](https://www.kcnonline.com/wp/2026/01/05/two-lawrence-dems-seek-1st-district-seat/)"
-      ]
-    },
-    {
       "id": "src-craig-musser-0025",
       "tier": "secondary",
       "url": "https://unitedkansas.com/",
@@ -831,16 +562,14 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-craig-musser-0037",
-      "tier": "primary",
-      "url": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
-      "title": "Sos.Ks",
-      "publisher": "Sos.Ks",
+      "id": "src-craig-musser-0032",
+      "tier": "secondary",
+      "url": "https://www.zoominfo.com/p/Craig-Musser/9122088966",
+      "title": "Zoominfo",
+      "publisher": "Zoominfo",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Kansas Secretary of State candidate list endpoint, blocked in this environment, accessed 2026-05-19: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
-        "Kansas Secretary of State, candidate list endpoint blocked: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
-        "Kansas Secretary of State live candidate list endpoint, blocked in this environment, accessed 2026-05-19: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
+        "[ZoomInfo - Craig Musser](https://www.zoominfo.com/p/Craig-Musser/9122088966)"
       ]
     }
   ]

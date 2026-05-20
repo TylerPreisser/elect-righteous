@@ -41,65 +41,10 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: \"url\": \"https://www.usd489.com/page/board-of-education\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-scott-schwab-0001",
-          "src-scott-schwab-0031",
-          "src-scott-schwab-0002",
-          "src-scott-schwab-0034",
-          "src-scott-schwab-0004"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-scott-schwab-00086",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.usd489.com/page/board-of-education\"",
-          "sourceIds": [
-            "src-scott-schwab-0001"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-00530",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-scott-schwab-0031"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-01352",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-scott-schwab-0001"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-01416",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-scott-schwab-0002"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-02660",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas SBOE election 2026",
-          "sourceIds": [
-            "src-scott-schwab-0034"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-02661",
-          "date": "Undated",
-          "body": "Kansas State Department of Education: District 5",
-          "sourceIds": [
-            "src-scott-schwab-0004"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -108,10 +53,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "stated": {
         "text": "Reviewed evidence: As a Christian, my faith has guided me - Scott Schwab campaign site, 2026-04-01, https://scottschwab.com/ - topic: faith and worldview. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-site",
-          "src-scott-schwab-0037",
-          "src-scott-schwab-0038",
-          "src-scott-schwab-0030"
+          "s-campaign-site"
         ]
       },
       "actions": [],
@@ -124,7 +66,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
         "text": "Documented public evidence: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-site",
-          "src-scott-schwab-0049",
           "src-scott-schwab-0051",
           "src-scott-schwab-0052"
         ]
@@ -136,14 +77,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           "body": "His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold you back,\" (source) and \"In Kansas, those chains come from big government.\" (source)",
           "sourceIds": [
             "s-campaign-site"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-02619",
-          "date": "Undated",
-          "body": "Brennan Center: Wisconsin Supreme Court spending record",
-          "sourceIds": [
-            "src-scott-schwab-0049"
           ]
         },
         {
@@ -261,85 +194,22 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: CNN: 8 states vote to bar noncitizen voting Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-scott-schwab-0054"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-scott-schwab-02628",
-          "date": "Undated",
-          "body": "CNN: 8 states vote to bar noncitizen voting",
-          "sourceIds": [
-            "src-scott-schwab-0054"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: The reviewed set contains one personal health update rather than a health-policy item. KCTV/WIBW reported Schwab’s March 21, 2025 social-media post on surgery for cancer, quoting him: \"My doctors have confirmed it was found very early, and no further treatment will be required post-surgery. I will make a full recovery.\" (source) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-scott-schwab-0064",
-          "src-scott-schwab-0057",
-          "src-scott-schwab-0061",
-          "src-scott-schwab-0067"
+          "src-scott-schwab-0055"
         ]
       },
-      "actions": [
-        {
-          "id": "em-scott-schwab-03605",
-          "date": "Undated",
-          "body": "Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)",
-          "sourceIds": [
-            "src-scott-schwab-0064"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-04486",
-          "date": "Undated",
-          "body": "\"url\": \"https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/\"",
-          "sourceIds": [
-            "src-scott-schwab-0064"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-00854",
-          "date": "Undated",
-          "body": "> -- Kansas Reflector, March 8, 2026",
-          "sourceIds": [
-            "src-scott-schwab-0057"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-01203",
-          "date": "Undated",
-          "body": "Kansas Reflector: Democratic debate (March 8, 2026)",
-          "sourceIds": [
-            "src-scott-schwab-0057"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-03601",
-          "date": "Undated",
-          "body": "KWCH: Kansas insurance commissioner backs bill (Feb 2, 2026)",
-          "sourceIds": [
-            "src-scott-schwab-0061"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-03630",
-          "date": "Undated",
-          "body": "2022 Kansas Insurance Commissioner Election - Wikipedia",
-          "sourceIds": [
-            "src-scott-schwab-0067"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-scott-schwab-0002",
@@ -371,8 +241,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-sos-jan2026-agenda",
           "s-campaign-site",
-          "s-sos-apr2026-hb2437-release",
-          "src-scott-schwab-0008"
+          "s-sos-apr2026-hb2437-release"
         ]
       },
       "actions": [
@@ -401,14 +270,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-scott-schwab-00043",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf\"",
-          "sourceIds": [
-            "src-scott-schwab-0008"
-          ]
-        },
-        {
           "id": "em-scott-schwab-00288",
           "date": "Undated",
           "body": "Official campaign bio: scottschwab.com",
@@ -417,11 +278,11 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-scott-schwab-00301",
-          "date": "Undated",
-          "body": "Kansas Ethics filing: SW01SS_202601.pdf",
+          "id": "em-scott-schwab-00306",
+          "date": "2026-04-01",
+          "body": "Scott Schwab Conservative Results - campaign homepage, 2026-04-01, scottschwab.com - topic: campaign identity.",
           "sourceIds": [
-            "src-scott-schwab-0008"
+            "s-campaign-site"
           ]
         }
       ],
@@ -474,9 +335,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-site",
-          "src-scott-schwab-0008",
-          "s-kpdc-statewide-index"
+          "s-campaign-site"
         ]
       },
       "actions": [
@@ -486,46 +345,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           "body": "His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold you back,\" (source) and \"In Kansas, those chains come from big government.\" (source)",
           "sourceIds": [
             "s-campaign-site"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-00043",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf\"",
-          "sourceIds": [
-            "src-scott-schwab-0008"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-00301",
-          "date": "Undated",
-          "body": "Kansas Ethics filing: SW01SS_202601.pdf",
-          "sourceIds": [
-            "src-scott-schwab-0008"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-00304",
-          "date": "Undated",
-          "body": "The filing index is here: SWLinks2026EC.",
-          "sourceIds": [
-            "s-kpdc-statewide-index"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-00326",
-          "date": "Undated",
-          "body": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf",
-          "sourceIds": [
-            "src-scott-schwab-0008"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-00343",
-          "date": "Undated",
-          "body": "Kansas Ethics filing index: SWLinks2026EC",
-          "sourceIds": [
-            "s-kpdc-statewide-index"
           ]
         }
       ],
@@ -549,9 +368,9 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
         "text": "Documented public evidence: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-site",
-          "src-scott-schwab-0057",
+          "src-scott-schwab-0043",
           "src-scott-schwab-0045",
-          "src-scott-schwab-0144"
+          "src-scott-schwab-0147"
         ]
       },
       "actions": [
@@ -561,22 +380,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           "body": "His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold you back,\" (source) and \"In Kansas, those chains come from big government.\" (source)",
           "sourceIds": [
             "s-campaign-site"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-00854",
-          "date": "Undated",
-          "body": "> -- Kansas Reflector, March 8, 2026",
-          "sourceIds": [
-            "src-scott-schwab-0057"
-          ]
-        },
-        {
-          "id": "em-scott-schwab-01203",
-          "date": "Undated",
-          "body": "Kansas Reflector: Democratic debate (March 8, 2026)",
-          "sourceIds": [
-            "src-scott-schwab-0057"
           ]
         }
       ],
@@ -622,8 +425,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           "s-sos-jan2026-agenda",
           "s-campaign-site",
           "s-sos-apr2026-hb2437-release",
-          "src-scott-schwab-0001",
-          "src-scott-schwab-0008"
+          "src-scott-schwab-0020"
         ]
       },
       "actions": [
@@ -652,14 +454,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-scott-schwab-00086",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.usd489.com/page/board-of-education\"",
-          "sourceIds": [
-            "src-scott-schwab-0001"
-          ]
-        },
-        {
           "id": "em-scott-schwab-00288",
           "date": "Undated",
           "body": "Official campaign bio: scottschwab.com",
@@ -668,11 +462,11 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-scott-schwab-00301",
-          "date": "Undated",
-          "body": "Kansas Ethics filing: SW01SS_202601.pdf",
+          "id": "em-scott-schwab-00306",
+          "date": "2026-04-01",
+          "body": "Scott Schwab Conservative Results - campaign homepage, 2026-04-01, scottschwab.com - topic: campaign identity.",
           "sourceIds": [
-            "src-scott-schwab-0008"
+            "s-campaign-site"
           ]
         }
       ],
@@ -708,12 +502,12 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-scott-schwab-0014",
-          "platform": "X / Twitter",
-          "observation": "The X presence separates personal/campaign and office accounts. The @ScottSchwabKS profile metadata described him as, \"Husband. Father. Honored to serve as Kansas' 32nd @kansassos.\" (source) The @KansasSOS profile metadata described the account as, \"Official Twitter account for the Office of Kansas Secretary of State @scottschwabks\" (source) Logged-out capture did not expose a dependable post-level X feed or repost...",
+          "id": "soc-scott-schwab-0015",
+          "platform": "YouTube",
+          "observation": "YouTube: https://www.youtube.com/@kansassecretaryofstate; office channel metadata accessible.",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-scott-schwab-0174"
+            "src-scott-schwab-0175"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -723,27 +517,15 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public evidence: Kansas SOS candidate list endpoint (blocked in this environment): https://www.kssos.org/elections/elections_upcoming_candidate.aspx Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-sos-candidate-list-blocked",
-          "src-scott-schwab-0167"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-scott-schwab-03747",
-          "date": "Undated",
-          "body": "Kansas SOS candidate list endpoint (blocked in this environment): https://www.kssos.org/elections/elections_upcoming_candidate.aspx",
-          "sourceIds": [
-            "s-sos-candidate-list-blocked"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     }
   ],
   "whoTheyAre": "text: Scott Schwab is Kansas Secretary of State and a Republican candidate for governor in 2026. Official and campaign biographies identify him as a Great Bend native, Fort Hays State University graduate, former Kansas House member, former Speaker Pro Tempore, and statewide officer first elected in 2018 and re-elected in 2022.; sourceIds: s-sos-bio; s-campaign-site",
-  "recordSummary": "The rendered record now contains 41 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: \"url\": \"https://www.usd489.com/page/board-of-education\". Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 17 source-backed actions across 6 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to... Taxes / spending / debt: Kansas Reflector: Schwab certain voting secure, eager to cut property taxes. Taxes / spending / debt: Kansas Reflector: Property tax reform campaign. Economy / jobs / labor: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to f... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "summary: Public social evidence is limited to presence and profile metadata. No current post-level likes, comments, reposts, follows, or audience responses were available in the 2026-05-19 re-check.; sourceIds: s-social-harvest-local; signals: id: social-facebook-page-metadata; platform: Facebook; observedAt: 2026-05-11; observation: Campaign Facebook page metadata listed 1,759 likes and 63 talking about this; post inventory was limited in logged-out capture.; sourceIds: s-social-harvest-local; id: social-instagram-profile-metadata; platform: Instagram; observedAt: 2026-05-11; observation: Campaign Instagram metadata listed 184 followers, 167 following, and 57 posts; post inventory was limited in logged-out capture.; sourceIds: s-social-harvest-local; id: social-x-office-campaign-presence; platform: X; observedAt: 2026-05-11; observation: The local harvest found @ScottSchwabKS and @KansasSOS profile metadata, but no dependable logged-out post-level inventory or repost count.; sourceIds: s-social-harvest-local",
   "whereTheyWorship": "Public sources tie Schwab and his family to LifeMission Church in Olathe. The church website is https://www.lifemission.church/, and the congregation became part of the public record after Caleb Schwab's funeral was held there in 2016.",
   "campaignFinance": {
@@ -785,19 +567,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
   "socialResearchNote": "19 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
-      "id": "s-sos-candidate-list-blocked",
-      "tier": "primary",
-      "url": "https://www.kssos.org/elections/elections_upcoming_candidate.aspx",
-      "title": "Candidate List",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "The official candidate-list endpoint required JavaScript / bot verification in this environment",
-        "Final ballot placement could not be confirmed from the live official list during this pass",
-        "Kansas SOS candidate list endpoint (blocked in this environment): https://www.kssos.org/elections/elections_upcoming_candidate.aspx"
-      ]
-    },
-    {
       "id": "s-kpdc-statewide-index",
       "tier": "primary",
       "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
@@ -814,6 +583,23 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
         "[Kansas Ethics Commission -- 2026 Campaign Finance](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
         "[SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
         "Kansas statewide office campaign-finance index: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+      ]
+    },
+    {
+      "id": "s-kpdc-schwab-202601",
+      "tier": "primary",
+      "url": "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf",
+      "title": "Scott J. Schwab 202601 Campaign Finance Receipts and Expenditures Report",
+      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Candidate name Scott J. Schwab; office sought Governor",
+        "Reporting period was January 1, 2025 through December 31, 2025",
+        "Total contributions and other receipts were $1,418,671.56",
+        "Total expenditures were $365,533.06",
+        "Cash on hand at close of period was $1,053,138.50",
+        "Schedule D reported $1,045,000 in Scott Schwab loans",
+        "The report includes PAC/organizational receipts including Evergy PAC, Bankers Association PAC, Kansas Automobile Dealers Association PAC, Kansas Contractors Association PAC, and Bayer PAC"
       ]
     },
     {
@@ -844,6 +630,22 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
         "[Scott Schwab Campaign Website](https://scottschwab.com/)",
         "> -- Scott Schwab campaign website, accessed April 1, 2026, https://scottschwab.com/",
         "Schwab campaign site: https://scottschwab.com/"
+      ]
+    },
+    {
+      "id": "s-sos-bio",
+      "tier": "primary",
+      "url": "https://www.kssos.org/about/schwab-biography.html",
+      "title": "Schwab Biography",
+      "publisher": "Kansas Secretary of State",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Schwab is Kansas Secretary of State",
+        "Schwab grew up in Great Bend and graduated from Fort Hays State University",
+        "Schwab was first elected to the Kansas House in 2002",
+        "Schwab served as Speaker Pro Tempore and chaired or vice-chaired multiple House committees",
+        "Schwab was elected Secretary of State in 2018 and re-elected in 2022",
+        "The office biography lists election support, business filing improvements, IT security, and election integrity as priorities"
       ]
     },
     {
@@ -879,108 +681,139 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-scott-schwab-0001",
+      "id": "s-sos-apr2026-congress-testimony",
       "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
+      "url": "https://www.sos.ks.gov/media/press-releases/2026/04-16-26-secretary-scott-schwab-testifies-before-congress-regarding-voter-roll-maintenance.html",
+      "title": "Secretary Scott Schwab Testifies Before Congress Regarding Voter Roll Maintenance",
+      "publisher": "Kansas Secretary of State",
+      "accessed": "2026-05-19",
       "claimsAnchored": [
-        "\"url\": \"https://www.usd489.com/page/board-of-education\"",
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
+        "Schwab testified before the U.S. House Committee on House Administration on voter-roll maintenance",
+        "Schwab highlighted the SAVE Kansas Act and data sharing to improve voter-roll accuracy"
       ]
     },
     {
-      "id": "src-scott-schwab-0002",
+      "id": "s-hayspost-jeans",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/1eca7cdb-2b48-400f-a610-7af08aff7ee8",
+      "title": "Gubernatorial candidate Schwab: Take local property taxes to voters",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Schwab promoted his JEANS plan in Hays in March 2026",
+        "Schwab said property taxes are crushing people",
+        "Schwab said he thought the appraisal process was the problem",
+        "Schwab said a hard constitutional cap on property taxes would not work",
+        "Schwab favored all property-tax increases going to voters",
+        "Schwab discussed water regulation and voluntary conservation",
+        "Schwab discussed community-college job training, rural manufacturing, Highway 83, energy, rural schools, rural hospitals, and agriculture"
+      ]
+    },
+    {
+      "id": "s-wichitaeagle-jan2026-gop-debate",
+      "tier": "secondary",
+      "url": "https://www.kansas.com/news/politics-government/election/article314520177.html",
+      "title": "Kansas GOP candidates for governor toss haymakers in debate, find unity on key issues",
+      "publisher": "Wichita Eagle / Kansas Reflector",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Six Republican governor candidates participated in the January 2026 debate",
+        "Schwab said experience understanding the terrain was a plus",
+        "The candidates found common ground on reducing abortions, rejecting marijuana legalization, and supporting elected Supreme Court justices",
+        "Schwab made abortion and court-selection comments at the debate"
+      ]
+    },
+    {
+      "id": "s-freestate-debate-transcript",
+      "tier": "secondary",
+      "url": "https://freestatenews.net/local-issues/gop-governors-debate-transcript-part-2/",
+      "title": "GOP Governors Debate Transcript Part 2",
+      "publisher": "Free State News",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The transcript attributes education, marijuana, immigration, energy, judicial-selection, and property-tax statements to Schwab",
+        "The transcript is not an official campaign or party transcript"
+      ]
+    },
+    {
+      "id": "s-kcur-kora-2022",
+      "tier": "secondary",
+      "url": "https://www.kcur.org/news/2022-07-22/kansas-court-says-the-secretary-of-state-violated-open-records-law-and-made-it-hard-to-get-documents",
+      "title": "Kansas court says the secretary of state violated open records law and made it hard to get documents",
+      "publisher": "KCUR / Kansas News Service",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "KCUR reported the Kansas Court of Appeals ruled Schwab violated KORA",
+        "The case concerned disabling a software report feature for provisional-ballot data",
+        "KCUR quoted the court saying the action violated KORA",
+        "[KCUR: Kansas court says secretary of state violated open records law](https://www.kcur.org/news/2022-07-22/kansas-court-says-the-secretary-of-state-violated-open-records-law-and-made-it-hard-to-get-documents)"
+      ]
+    },
+    {
+      "id": "s-findlaw-hammet-v-schwab",
       "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
+      "url": "https://caselaw.findlaw.com/court/ks-court-of-appeals/2180584.html",
+      "title": "Hammet v. Schwab",
+      "publisher": "Kansas Court of Appeals opinion mirror at FindLaw",
+      "accessed": "2026-05-19",
       "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
+        "The court case provides a primary-law anchor for the KORA/provisional-ballot-record dispute"
       ]
     },
     {
-      "id": "src-scott-schwab-0004",
+      "id": "src-scott-schwab-0020",
       "tier": "primary",
-      "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
-      "title": "Ksde",
-      "publisher": "Ksde",
+      "url": "https://www.sos.ks.gov/about/schwab-biography.html",
+      "title": "Sos.Ks",
+      "publisher": "Sos.Ks",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)"
+        "Official state bio: [Kansas Secretary of State biography](https://www.sos.ks.gov/about/schwab-biography.html)",
+        "State bio: [Kansas SOS biography](https://www.sos.ks.gov/about/schwab-biography.html)",
+        "https://www.sos.ks.gov/about/schwab-biography.html",
+        "[Kansas SOS biography](https://www.sos.ks.gov/about/schwab-biography.html)"
       ]
     },
     {
-      "id": "src-scott-schwab-0008",
+      "id": "src-scott-schwab-0028",
       "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf",
-      "title": "Kansas",
-      "publisher": "Kansas",
+      "url": "https://sos.ks.gov/media/press-releases/2026/01-07-26-secretary-schwab-outlines-legislative-agenda-centered-on-efficiency-integrity-and-better-service.html",
+      "title": "Sos.Ks",
+      "publisher": "Sos.Ks",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf\"",
-        "Kansas Ethics filing: [SW01SS_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf)",
-        "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf",
-        "2026 filing PDF: [SW01SS_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf)",
-        "[SW01SS_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01SS_202601.pdf)"
+        "> -- Kansas Secretary of State press release, January 7, 2026, https://sos.ks.gov/media/press-releases/2026/01-07-26-secretary-schwab-outlines-legislative-agenda-centered-on-efficiency-integrity-and-better-service.html",
+        "[sos.ks.gov](https://sos.ks.gov/media/press-releases/2026/01-07-26-secretary-schwab-outlines-legislative-agenda-centered-on-efficiency-integrity-and-better-service.html)",
+        "\"source\": \"Kansas Secretary of State press release, January 7, 2026, https://sos.ks.gov/media/press-releases/2026/01-07-26-secretary-schwab-outlines-legislative-agenda-centered-on-efficiency-integrity-and-better-service.html\","
       ]
     },
     {
-      "id": "src-scott-schwab-0030",
+      "id": "src-scott-schwab-0042",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "url": "https://www.lifemission.church/",
+      "title": "Lifemission",
+      "publisher": "Lifemission",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
+        "Website: [lifemission.church](https://www.lifemission.church/)",
+        "[LifeMission Church](https://www.lifemission.church/)",
+        "[LifeMission Church, Olathe](https://www.lifemission.church/)",
+        "Public sources tie Schwab and his family to LifeMission Church in Olathe. The church website is https://www.lifemission.church/, and the congregation became part of the public record after Caleb Schwab's funeral was held there in 2016.",
+        "\"whereTheyWorship\": \"Public sources tie Schwab and his family to LifeMission Church in Olathe. The church website is https://www.lifemission.church/, and the congregation became part of the public record after Caleb Schwab's funeral was held there in 2016.\","
       ]
     },
     {
-      "id": "src-scott-schwab-0031",
+      "id": "src-scott-schwab-0043",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "url": "https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html",
+      "title": "Christianpost",
+      "publisher": "Christianpost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-scott-schwab-0034",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-scott-schwab-0037",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-scott-schwab-0038",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)"
+        "[Christian Post: Caleb Schwab attended church with family hours before death](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)",
+        "Caleb had attended church with his family hours before his death that Sunday morning. The family went from church to the waterpark for what was supposed to be a fun family outing. Source: [Christian Post article](https://www.christianpost.com/news/caleb-schwab",
+        "[Christian Post: Caleb attended church hours before death](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)",
+        "\"url\": \"https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html\""
       ]
     },
     {
@@ -992,17 +825,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[Heavy.com: Scott & Michele Schwab, Caleb's Parents](https://heavy.com/news/2016/08/scott-schwab-michele-caleb-rep-parents-father-dad-mother-mom-family-verruckt-water-slide-kansas-schlitterbahn-photos-death-accident/)"
-      ]
-    },
-    {
-      "id": "src-scott-schwab-0049",
-      "tier": "secondary",
-      "url": "https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state",
-      "title": "Brennancenter",
-      "publisher": "Brennancenter",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)"
       ]
     },
     {
@@ -1028,17 +850,6 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-scott-schwab-0054",
-      "tier": "secondary",
-      "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
-      "title": "Cnn",
-      "publisher": "Cnn",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)"
-      ]
-    },
-    {
       "id": "src-scott-schwab-0055",
       "tier": "secondary",
       "url": "https://www.kctv5.com/2025/03/21/ks-secretary-state-announces-cancer-diagnosis/",
@@ -1051,49 +862,38 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-scott-schwab-0057",
+      "id": "src-scott-schwab-0081",
       "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
+      "url": "https://kansasreflector.com/2026/01/09/latest-kansas-campaign-finance-reports-schwab-takes-in-1-3m-corson-receives-900k/",
       "title": "Kansasreflector",
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "> -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)",
-        "[Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)"
+        "[Kansas Reflector: Campaign finance reports (Jan 9, 2026)](https://kansasreflector.com/2026/01/09/latest-kansas-campaign-finance-reports-schwab-takes-in-1-3m-corson-receives-900k/)",
+        "[Kansas Reflector: Campaign finance reports](https://kansasreflector.com/2026/01/09/latest-kansas-campaign-finance-reports-schwab-takes-in-1-3m-corson-receives-900k/)"
       ]
     },
     {
-      "id": "src-scott-schwab-0061",
+      "id": "src-scott-schwab-0123",
       "tier": "secondary",
-      "url": "https://www.kwch.com/2026/02/02/kansas-insurance-commissioner-backs-bill-eliminate-breast-cancer-screening-costs/",
-      "title": "Kwch",
-      "publisher": "Kwch",
+      "url": "https://justfacts.votesmart.org/candidate/key-votes/34505/scott-schwab",
+      "title": "Justfacts.Votesmart",
+      "publisher": "Justfacts.Votesmart",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KWCH: Kansas insurance commissioner backs bill (Feb 2, 2026)](https://www.kwch.com/2026/02/02/kansas-insurance-commissioner-backs-bill-eliminate-breast-cancer-screening-costs/)"
+        "VoteSmart (justfacts.votesmart.org): [Key Votes page](https://justfacts.votesmart.org/candidate/key-votes/34505/scott-schwab)",
+        "[Key Votes page](https://justfacts.votesmart.org/candidate/key-votes/34505/scott-schwab)"
       ]
     },
     {
-      "id": "src-scott-schwab-0064",
+      "id": "src-scott-schwab-0124",
       "tier": "secondary",
-      "url": "https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/",
-      "title": "Www2.Ljworld",
-      "publisher": "Www2.Ljworld",
+      "url": "https://justfacts.votesmart.org/candidate/biography/34505/scott-schwab",
+      "title": "Justfacts.Votesmart",
+      "publisher": "Justfacts.Votesmart",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)](https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/)",
-        "\"url\": \"https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/\""
-      ]
-    },
-    {
-      "id": "src-scott-schwab-0067",
-      "tier": "secondary",
-      "url": "https://www.insurancejournal.com/news/midwest/2022/11/09/694560.htm",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[2022 Kansas Insurance Commissioner Election - Wikipedia](https://en.wikipedia.org/wiki/2022_Kansas_Insurance_Commissioner_election)"
+        "[Scott Schwab -- VoteSmart](https://justfacts.votesmart.org/candidate/biography/34505/scott-schwab)"
       ]
     },
     {
@@ -1109,26 +909,92 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-scott-schwab-0144",
+      "id": "src-scott-schwab-0126",
       "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/",
+      "url": "https://kansasreflector.com/2025/01/08/scott-schwab-runs-for-kansas-governor-after-two-terms-as-states-top-election-official/",
       "title": "Kansasreflector",
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)",
-        "[Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)"
+        "[Kansas Reflector: Schwab runs for governor](https://kansasreflector.com/2025/01/08/scott-schwab-runs-for-kansas-governor-after-two-terms-as-states-top-election-official/)",
+        "https://kansasreflector.com/2025/01/08/scott-schwab-runs-for-kansas-governor-after-two-terms-as-states-top-election-official/ -- Schwab leaving for governor race -- accessed 2026-03-30"
       ]
     },
     {
-      "id": "src-scott-schwab-0167",
+      "id": "src-scott-schwab-0128",
       "tier": "secondary",
-      "url": "https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor",
-      "title": "Noln",
-      "publisher": "Noln",
+      "url": "https://kansasreflector.com/2022/07/22/kansas-appeals-court-says-secretary-of-state-violated-open-records-law-by-altering-computer-system/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)"
+        "[Kansas Reflector: Appeals court says Schwab violated open records law](https://kansasreflector.com/2022/07/22/kansas-appeals-court-says-secretary-of-state-violated-open-records-law-by-altering-computer-system/)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0129",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2022/08/01/kansas-secretary-of-state-refuses-to-provide-provisional-ballot-records-despite-court-ruling/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Kansas Reflector: Schwab refuses to provide records despite court ruling](https://kansasreflector.com/2022/08/01/kansas-secretary-of-state-refuses-to-provide-provisional-ballot-records-despite-court-ruling/)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0131",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2022/07/26/schwabs-campaign-rebuffs-late-campaign-criticism-from-kansas-gop-rival-brown/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Kansas Reflector: Schwab rebuffs Brown criticism](https://kansasreflector.com/2022/07/26/schwabs-campaign-rebuffs-late-campaign-criticism-from-kansas-gop-rival-brown/)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0134",
+      "tier": "secondary",
+      "url": "https://fox4kc.com/news/scott-schwab-speaks-as-criminal-cases-loom-dad-talks-of-journey-forward-after-tragedy-on-verruckt/",
+      "title": "Fox4kc",
+      "publisher": "Fox4kc",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[FOX4: Scott Schwab speaks about journey forward](https://fox4kc.com/news/scott-schwab-speaks-as-criminal-cases-loom-dad-talks-of-journey-forward-after-tragedy-on-verruckt/)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0137",
+      "tier": "secondary",
+      "url": "https://law.justia.com/cases/kansas/supreme-court/2023/124378.html",
+      "title": "Law.Justia",
+      "publisher": "Law.Justia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Kansas Supreme Court: LWV v. Schwab (2023)](https://law.justia.com/cases/kansas/supreme-court/2023/124378.html)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0147",
+      "tier": "secondary",
+      "url": "https://time.com/4444447/caleb-schwab-verruckt-water-slide-death/",
+      "title": "Time",
+      "publisher": "Time",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[TIME: What we know about the water slide death](https://time.com/4444447/caleb-schwab-verruckt-water-slide-death/)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0165",
+      "tier": "secondary",
+      "url": "https://www.kshb.com/news/local-news/family-friends-and-community-honor-10-year-old-caleb-schwab",
+      "title": "Kshb",
+      "publisher": "Kshb",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[KSHB: Family and friends honor Caleb Schwab](https://www.kshb.com/news/local-news/family-friends-and-community-honor-10-year-old-caleb-schwab)"
       ]
     },
     {
@@ -1150,21 +1016,212 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-scott-schwab-0174",
+      "id": "src-scott-schwab-0175",
       "tier": "social",
-      "url": "https://x.com/ScottSchwabKS",
-      "title": "X",
-      "publisher": "X",
+      "url": "https://www.youtube.com/@kansassecretaryofstate",
+      "title": "Youtube",
+      "publisher": "Youtube",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "The X presence separates personal/campaign and office accounts. The @ScottSchwabKS profile metadata described him as, \"Husband. Father. Honored to serve as Kansas' 32nd @kansassos.\" ([source](https://x.com/ScottSchwabKS)) The @KansasSOS profile metadata descri",
-        "The public X profile metadata for @ScottSchwabKS described the account as, \"Husband. Father. Honored to serve as Kansas' 32nd @kansassos.\" ([source](https://x.com/ScottSchwabKS)) The public X profile metadata for @KansasSOS described that account as, \"Official",
-        "X: https://x.com/ScottSchwabKS and https://x.com/KansasSOS; profile metadata accessible, post inventory limited.",
-        "| X (Twitter) | [@ScottSchwabKS](https://x.com/ScottSchwabKS) | Personal/Campaign | Bio: \"Husband, Father, Honored to serve as Kansas' 32nd\" |",
-        "[X/Twitter: @ScottSchwabKS](https://x.com/ScottSchwabKS)",
-        "[X](https://x.com/ScottSchwabKS)",
-        "| X | https://x.com/ScottSchwabKS | FOUND | Public profile metadata accessible. Direct feed/post inventory limited in logged-out capture. |",
-        "Personal/campaign X profile metadata, captured 2026-05-11. ([source](https://x.com/ScottSchwabKS))"
+        "YouTube: https://www.youtube.com/@kansassecretaryofstate; office channel metadata accessible.",
+        "| YouTube | https://www.youtube.com/@kansassecretaryofstate | FOUND | Office channel metadata accessible. Public channel title: Kansas Secretary of State Scott Schwab. |",
+        "The public YouTube channel metadata identified the office channel as \"Kansas Secretary of State Scott Schwab\" ([source](https://www.youtube.com/@kansassecretaryofstate)) with channel ID UCtLiDyLmzO9qpEyqFwpB2UA.",
+        "Kansas Secretary of State YouTube channel metadata, captured 2026-05-11. ([source](https://www.youtube.com/@kansassecretaryofstate))"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0185",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li_2018/b2017_18/members/rep_schwab_scott_1/",
+      "title": "Kslegislature",
+      "publisher": "Kslegislature",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Kansas Legislature archives: [2017-18 session](https://www.kslegislature.gov/li_2018/b2017_18/members/rep_schwab_scott_1/)",
+        "[Kansas Legislature -- Rep. Schwab Profile](https://www.kslegislature.gov/li_2018/b2017_18/members/rep_schwab_scott_1/)",
+        "[2017-18 session](https://www.kslegislature.gov/li_2018/b2017_18/members/rep_schwab_scott_1/)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0186",
+      "tier": "primary",
+      "url": "https://sos.ks.gov/about/schwab-biography.html",
+      "title": "Sos.Ks",
+      "publisher": "Sos.Ks",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Kansas Secretary of State -- Schwab Biography](https://sos.ks.gov/about/schwab-biography.html)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0188",
+      "tier": "primary",
+      "url": "https://sos.ks.gov/media/press-releases/2024/10-10-24-schwab-satisfied-with-one-on-one-call-with-usps-postmaster-general.html",
+      "title": "Sos.Ks",
+      "publisher": "Sos.Ks",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Kansas SOS Press Release: Schwab satisfied with DeJoy call](https://sos.ks.gov/media/press-releases/2024/10-10-24-schwab-satisfied-with-one-on-one-call-with-usps-postmaster-general.html)",
+        "[Kansas Secretary of State press release, October 10, 2024](https://sos.ks.gov/media/press-releases/2024/10-10-24-schwab-satisfied-with-one-on-one-call-with-usps-postmaster-general.html)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0222",
+      "tier": "secondary",
+      "url": "https://sunflowerstatejournal.com/colyer-schwab-most-recognized-republicans-in-gubernatorial-field-survey-shows/",
+      "title": "Sunflowerstatejournal",
+      "publisher": "Sunflowerstatejournal",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Sunflower State Journal - Colyer, Schwab most recognized](https://sunflowerstatejournal.com/colyer-schwab-most-recognized-republicans-in-gubernatorial-field-survey-shows/)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0235",
+      "tier": "secondary",
+      "url": "https://en.wikipedia.org/wiki/Scott_Schwab",
+      "title": "En.Wikipedia",
+      "publisher": "En.Wikipedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Scott Schwab -- Wikipedia](https://en.wikipedia.org/wiki/Scott_Schwab)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0236",
+      "tier": "secondary",
+      "url": "https://ballotpedia.org/Scott_Schwab",
+      "title": "Ballotpedia",
+      "publisher": "Ballotpedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Scott Schwab -- Ballotpedia](https://ballotpedia.org/Scott_Schwab)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0237",
+      "tier": "secondary",
+      "url": "https://www.kshs.org/kansapedia/scott-schwab/20461",
+      "title": "Kshs",
+      "publisher": "Kshs",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Scott Schwab -- Kansapedia (Kansas Historical Society)](https://www.kshs.org/kansapedia/scott-schwab/20461)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0238",
+      "tier": "secondary",
+      "url": "https://www.ksnt.com/capitol-bureau/i-will-make-a-full-recovery-scott-schwab-announces-cancer-diagnosis/",
+      "title": "Ksnt",
+      "publisher": "Ksnt",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[KSNT: Schwab announces cancer diagnosis](https://www.ksnt.com/capitol-bureau/i-will-make-a-full-recovery-scott-schwab-announces-cancer-diagnosis/)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0240",
+      "tier": "secondary",
+      "url": "https://www.aclukansas.org/cases/loud-light-hammet-v-schwab-2020/",
+      "title": "Aclukansas",
+      "publisher": "Aclukansas",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[ACLU of Kansas: Loud Light & Hammet v. Schwab](https://www.aclukansas.org/cases/loud-light-hammet-v-schwab-2020/)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0241",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2020/11/09/as-other-republicans-lied-about-voter-fraud-kansas-secretary-of-state-was-a-voice-of-sanity/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Kansas Reflector: As other Republicans lied about voter fraud, Schwab was a voice of sanity](https://kansasreflector.com/2020/11/09/as-other-republicans-lied-about-voter-fraud-kansas-secretary-of-state-was-a-voice-of-sanity/)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0242",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2024/09/15/kansas-secretary-of-state-scott-schwab-works-to-build-trust-in-elections-in-the-face-of-skepticism/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Kansas Reflector: Schwab works to build trust in elections](https://kansasreflector.com/2024/09/15/kansas-secretary-of-state-scott-schwab-works-to-build-trust-in-elections-in-the-face-of-skepticism/)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0243",
+      "tier": "secondary",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-10-26/president-trump-kansas-secretary-of-state-scott-schwab",
+      "title": "Kcur",
+      "publisher": "Kcur",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[KCUR: Trump praises Kansas secretary of state](https://www.kcur.org/politics-elections-and-government/2025-10-26/president-trump-kansas-secretary-of-state-scott-schwab)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0244",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2025/07/31/secretary-of-state-scott-schwab-welcomes-federal-assist-with-cleansing-voter-list/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Kansas Reflector: Schwab welcomes federal assist with cleansing voter lists](https://kansasreflector.com/2025/07/31/secretary-of-state-scott-schwab-welcomes-federal-assist-with-cleansing-voter-list/)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0246",
+      "tier": "secondary",
+      "url": "https://www.penwellgabelkc.com/obituaries/caleb-thomas-schwab",
+      "title": "Penwellgabelkc",
+      "publisher": "Penwellgabelkc",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Penwell-Gabel: Caleb Thomas Schwab obituary](https://www.penwellgabelkc.com/obituaries/caleb-thomas-schwab)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0247",
+      "tier": "secondary",
+      "url": "https://www.lwv.org/legal-center/league-women-voters-kansas-v-schwab",
+      "title": "Lwv",
+      "publisher": "Lwv",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[League of Women Voters v. Schwab](https://www.lwv.org/legal-center/league-women-voters-kansas-v-schwab)"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0254",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/scott-schwab-8306713/",
+      "title": "Linkedin",
+      "publisher": "Linkedin",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "LinkedIn: https://www.linkedin.com/in/scott-schwab-8306713/; URL identified, login wall limited details.",
+        "| LinkedIn | [scott-schwab-8306713](https://www.linkedin.com/in/scott-schwab-8306713/) | Personal/Professional | Has posted about conferences and professional activities |",
+        "[scott-schwab-8306713](https://www.linkedin.com/in/scott-schwab-8306713/)",
+        "| LinkedIn | https://www.linkedin.com/in/scott-schwab-8306713/ | FOUND | Public profile URL identified; profile details limited by login wall. |"
+      ]
+    },
+    {
+      "id": "src-scott-schwab-0267",
+      "tier": "social",
+      "url": "https://www.facebook.com/SchwabforSOS/",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| Facebook | [SchwabforSOS](https://www.facebook.com/SchwabforSOS/) | Campaign (SOS) | \"Scott Schwab for Secretary of State\" page |",
+        "[Facebook: Scott Schwab for Secretary of State](https://www.facebook.com/SchwabforSOS/)",
+        "[SchwabforSOS](https://www.facebook.com/SchwabforSOS/)"
       ]
     }
   ]

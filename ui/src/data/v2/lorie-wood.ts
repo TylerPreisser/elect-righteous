@@ -43,18 +43,7 @@ export const LORIE_WOOD_V2: CandidateFullV2 = {
         "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-lorie-wood-0002",
-          "platform": "YouTube",
-          "observation": "National and foreign-policy posts appear in a smaller part of the feed. A March 8 YouTube description said, \"We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare.\" (source) The same post continued, \"Meanwhile our farmers are struggling. Farm closu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-lorie-wood-0005"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
@@ -125,68 +114,26 @@ export const LORIE_WOOD_V2: CandidateFullV2 = {
         "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-lorie-wood-0002",
-          "platform": "YouTube",
-          "observation": "National and foreign-policy posts appear in a smaller part of the feed. A March 8 YouTube description said, \"We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare.\" (source) The same post continued, \"Meanwhile our farmers are struggling. Farm closu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-lorie-wood-0005"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05LW_AT.pdf\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-kpdc-at",
-          "src-lorie-wood-0003"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-lorie-wood-00045",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05LW_AT.pdf\"",
-          "sourceIds": [
-            "s-kpdc-at"
-          ]
-        },
-        {
-          "id": "em-lorie-wood-00118",
-          "date": "Undated",
-          "body": "\"url\": \"https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/\"",
-          "sourceIds": [
-            "src-lorie-wood-0003"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05LW_AT.pdf\"",
-        "sourceIds": [
-          "s-kpdc-at"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-lorie-wood-00045",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05LW_AT.pdf\"",
-          "sourceIds": [
-            "s-kpdc-at"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -197,39 +144,16 @@ export const LORIE_WOOD_V2: CandidateFullV2 = {
         "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-lorie-wood-0002",
-          "platform": "YouTube",
-          "observation": "National and foreign-policy posts appear in a smaller part of the feed. A March 8 YouTube description said, \"We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for feeding poor children, no money for education, and no money for healthcare.\" (source) The same post continued, \"Meanwhile our farmers are struggling. Farm closu...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-lorie-wood-0005"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: \"url\": \"https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-lorie-wood-0003",
-          "src-lorie-wood-0002"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-lorie-wood-00118",
-          "date": "Undated",
-          "body": "\"url\": \"https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/\"",
-          "sourceIds": [
-            "src-lorie-wood-0003"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-lorie-wood-0004",
@@ -267,6 +191,17 @@ export const LORIE_WOOD_V2: CandidateFullV2 = {
   "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
   "sources": [
     {
+      "id": "s-kpdc-sboe-index",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/BOELinksOdd2026EC.htm",
+      "title": "State Board of Education Odd Districts - 2026 Election Cycle",
+      "publisher": "Kansas Governmental Ethics Commission / KPDC",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "KPDC index lists Lorie Wood in District 5"
+      ]
+    },
+    {
       "id": "s-kpdc-at",
       "tier": "primary",
       "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05LW_AT.pdf",
@@ -276,39 +211,6 @@ export const LORIE_WOOD_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Appointment-of-treasurer report identifies State Board of Education District 5 as the office sought",
         "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05LW_AT.pdf\","
-      ]
-    },
-    {
-      "id": "src-lorie-wood-0002",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/elections/senate/KS/2026/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.fec.gov/data/elections/senate/KS/2026/\""
-      ]
-    },
-    {
-      "id": "src-lorie-wood-0003",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://kansasreflector.com/2025/08/18/democratic-u-s-senate-candidate-eager-to-broaden-kansas-voice-in-d-c-politics/\""
-      ]
-    },
-    {
-      "id": "src-lorie-wood-0005",
-      "tier": "social",
-      "url": "https://www.youtube.com/shorts/YLa4pXvG3rY",
-      "title": "Youtube",
-      "publisher": "Youtube",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "National and foreign-policy posts appear in a smaller part of the feed. A March 8 YouTube description said, \"We have a President who promised to end foreign wars on day one, and now he’s launching another one. At the same time we’re told there’s no money for f"
       ]
     },
     {

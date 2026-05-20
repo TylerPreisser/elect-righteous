@@ -23,21 +23,12 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented public evidence: On civil rights and social issues, the visible record is sharper and more confrontational. In 2024, Sykes told The Advocate that anti-trans legislation was \"filled with hate\" and said decisions about gender-affirming care involve children, families, mental-health counseling, and physicians. At an April 2024 reproductive-rights rally, Kansas Reflector quoted her vowing to knock on doors and break the Republican super... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Her older candidate-attributed writing and indexed posts reinforce a theme of opposing what she calls extremism and overreach. In a February 2023 Capitol Update, she criticized public-health restrictions, anti-trans bills, abortion limits, school vouchers, Medicaid refusal, and flat-tax policy. In a 2022 archived X thread, she said redistricting was a once-in-a-decade constitutional responsibility and urged lawmaker... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-advocate-2024",
           "s-joc-post-2023"
         ]
       },
       "actions": [
-        {
-          "id": "em-dinah-sykes-00011",
-          "date": "Undated",
-          "body": "On civil rights and social issues, the visible record is sharper and more confrontational. In 2024, Sykes told The Advocate that anti-trans legislation was \"filled with hate\" and said decisions about gender-affirming care involve children, families, mental-health counseling, and physicians. At an April 2024 reproductive-rights rally, Kansas Reflector quoted her vowing to knock on doors and break the Republican supermajority after abortion-related veto override efforts. (Advocate, Kansas Reflector)",
-          "sourceIds": [
-            "s-advocate-2024"
-          ]
-        },
         {
           "id": "em-dinah-sykes-00012",
           "date": "Undated",
@@ -48,16 +39,6 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-dinah-sykes-0002",
-          "platform": "advocate.com",
-          "observation": "On civil rights and social issues, the visible record is sharper and more confrontational. In 2024, Sykes told The Advocate that anti-trans legislation was \"filled with hate\" and said decisions about gender-affirming care involve children, families, mental-health counseling, and physicians. At an April 2024 reproductive-rights rally, Kansas Reflector quoted her vowing to knock on doors and break the Republican super...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-advocate-2024"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
         {
           "id": "soc-dinah-sykes-0007",
           "platform": "kansasreflector.com",
@@ -94,21 +75,12 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public evidence: On civil rights and social issues, the visible record is sharper and more confrontational. In 2024, Sykes told The Advocate that anti-trans legislation was \"filled with hate\" and said decisions about gender-affirming care involve children, families, mental-health counseling, and physicians. At an April 2024 reproductive-rights rally, Kansas Reflector quoted her vowing to knock on doors and break the Republican super... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Her older candidate-attributed writing and indexed posts reinforce a theme of opposing what she calls extremism and overreach. In a February 2023 Capitol Update, she criticized public-health restrictions, anti-trans bills, abortion limits, school vouchers, Medicaid refusal, and flat-tax policy. In a 2022 archived X thread, she said redistricting was a once-in-a-decade constitutional responsibility and urged lawmaker... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-advocate-2024",
           "s-joc-post-2023"
         ]
       },
       "actions": [
-        {
-          "id": "em-dinah-sykes-00011",
-          "date": "Undated",
-          "body": "On civil rights and social issues, the visible record is sharper and more confrontational. In 2024, Sykes told The Advocate that anti-trans legislation was \"filled with hate\" and said decisions about gender-affirming care involve children, families, mental-health counseling, and physicians. At an April 2024 reproductive-rights rally, Kansas Reflector quoted her vowing to knock on doors and break the Republican supermajority after abortion-related veto override efforts. (Advocate, Kansas Reflector)",
-          "sourceIds": [
-            "s-advocate-2024"
-          ]
-        },
         {
           "id": "em-dinah-sykes-00012",
           "date": "Undated",
@@ -120,42 +92,12 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-dinah-sykes-0002",
-          "platform": "advocate.com",
-          "observation": "On civil rights and social issues, the visible record is sharper and more confrontational. In 2024, Sykes told The Advocate that anti-trans legislation was \"filled with hate\" and said decisions about gender-affirming care involve children, families, mental-health counseling, and physicians. At an April 2024 reproductive-rights rally, Kansas Reflector quoted her vowing to knock on doors and break the Republican super...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-advocate-2024"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
           "id": "soc-dinah-sykes-0008",
           "platform": "johnsoncountypost.com",
           "observation": "Johnson County Post, Feb. 13, 2023: Sykes's candidate-attributed Capitol Update criticized public-health limits, anti-trans bills, abortion restrictions, vouchers, Medicaid refusal, and flat-tax policy. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-joc-post-2023"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-dinah-sykes-0012",
-          "platform": "advocate.com",
-          "observation": "Advocate, Apr. 3, 2024: Sykes discussed anti-LGBTQ+ legislation and gender-affirming care, saying legislation targeting trans Kansans was \"filled with hate\" and warning about effects on children. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-advocate-2024"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-dinah-sykes-0013",
-          "platform": "advocate.com",
-          "observation": "LGBTQ+ interview: \"It's just filled with hate...\" about gender-affirming care restrictions. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-advocate-2024"
           ],
           "mappedToIssueId": "i-lgbt-gender-parental-rights"
         }
@@ -168,9 +110,6 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: Her legislative identity remains central to the way she presents herself. Kansas Senate Democrats call her the first woman in Kansas history to serve as Senate Democratic leader and describe her as a champion for public-school funding, early childhood education, and protections for survivors of domestic violence, sexual assault, human trafficking, and stalking. The profile says she leads with \"courage, compassion, a... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kssenatedems-profile",
-          "src-dinah-sykes-0025",
-          "src-dinah-sykes-0001",
-          "src-dinah-sykes-0026",
           "s-yahoo-opinion-2023",
           "s-joc-post-2023"
         ]
@@ -182,30 +121,6 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
           "body": "Her legislative identity remains central to the way she presents herself. Kansas Senate Democrats call her the first woman in Kansas history to serve as Senate Democratic leader and describe her as a champion for public-school funding, early childhood education, and protections for survivors of domestic violence, sexual assault, human trafficking, and stalking. The profile says she leads with \"courage, compassion, and common sense.\" (source)",
           "sourceIds": [
             "s-kssenatedems-profile"
-          ]
-        },
-        {
-          "id": "em-dinah-sykes-00843",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas SBOE election 2026",
-          "sourceIds": [
-            "src-dinah-sykes-0025"
-          ]
-        },
-        {
-          "id": "em-dinah-sykes-00844",
-          "date": "Undated",
-          "body": "Kansas State Department of Education: District 5",
-          "sourceIds": [
-            "src-dinah-sykes-0001"
-          ]
-        },
-        {
-          "id": "em-dinah-sykes-00845",
-          "date": "Undated",
-          "body": "Kansas Reflector: Board races could shift power to conservative bloc",
-          "sourceIds": [
-            "src-dinah-sykes-0026"
           ]
         },
         {
@@ -246,8 +161,7 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
       "stated": {
         "text": "Reviewed evidence: Sykes also uses personal and moral biography in public writing. In a 2023 opinion piece, she described herself as a mom, a daughter who lost her mother to breast cancer, and a Christian, linking those experiences to public schools, health care, justice, and mercy. That language does not dominate the current insurance campaign, but it explains why school funding, health access, and compassion recur in her public prof... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-yahoo-opinion-2023",
-          "src-dinah-sykes-0027"
+          "s-yahoo-opinion-2023"
         ]
       },
       "actions": [],
@@ -271,9 +185,7 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Health care and family economics overlap in her legislative messaging. The official Kansas Legislature profile shows sponsored bills on paid sick time, the Kansas minimum wage, child income tax credits, property-tax relief, Social Security and homestead eligibility, and breast-cancer screening coverage. A 2024 tax-cut event quoted her calling a child-care tax credit a \"win-win\" that would help families, employers, a... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ksleg-profile",
-          "src-dinah-sykes-0030",
-          "s-joc-post-2023",
-          "src-dinah-sykes-0029"
+          "s-joc-post-2023"
         ]
       },
       "actions": [
@@ -283,14 +195,6 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
           "body": "Health care and family economics overlap in her legislative messaging. The official Kansas Legislature profile shows sponsored bills on paid sick time, the Kansas minimum wage, child income tax credits, property-tax relief, Social Security and homestead eligibility, and breast-cancer screening coverage. A 2024 tax-cut event quoted her calling a child-care tax credit a \"win-win\" that would help families, employers, and workforce participation. (Legislature, WIBW)",
           "sourceIds": [
             "s-ksleg-profile"
-          ]
-        },
-        {
-          "id": "em-dinah-sykes-00801",
-          "date": "Undated",
-          "body": "Brennan Center: Wisconsin Supreme Court spending record",
-          "sourceIds": [
-            "src-dinah-sykes-0030"
           ]
         },
         {
@@ -427,22 +331,10 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: CNN: 8 states vote to bar noncitizen voting Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-dinah-sykes-0035",
-          "src-dinah-sykes-0034"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-dinah-sykes-00810",
-          "date": "Undated",
-          "body": "CNN: 8 states vote to bar noncitizen voting",
-          "sourceIds": [
-            "src-dinah-sykes-0035"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -454,7 +346,6 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
           "s-campaign-home",
           "s-kansas-reflector-launch",
           "s-ksleg-profile",
-          "s-advocate-2024",
           "s-yahoo-opinion-2023",
           "s-joc-post-2023"
         ]
@@ -485,14 +376,6 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-dinah-sykes-00011",
-          "date": "Undated",
-          "body": "On civil rights and social issues, the visible record is sharper and more confrontational. In 2024, Sykes told The Advocate that anti-trans legislation was \"filled with hate\" and said decisions about gender-affirming care involve children, families, mental-health counseling, and physicians. At an April 2024 reproductive-rights rally, Kansas Reflector quoted her vowing to knock on doors and break the Republican supermajority after abortion-related veto override efforts. (Advocate, Kansas Reflector)",
-          "sourceIds": [
-            "s-advocate-2024"
-          ]
-        },
-        {
           "id": "em-dinah-sykes-00012",
           "date": "Undated",
           "body": "Her older candidate-attributed writing and indexed posts reinforce a theme of opposing what she calls extremism and overreach. In a February 2023 Capitol Update, she criticized public-health restrictions, anti-trans bills, abortion limits, school vouchers, Medicaid refusal, and flat-tax policy. In a 2022 archived X thread, she said redistricting was a once-in-a-decade constitutional responsibility and urged lawmakers to draw a fair, legal map. (Johnson County Post, Thread Reader)",
@@ -509,16 +392,6 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-ksleg-profile"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-dinah-sykes-0002",
-          "platform": "advocate.com",
-          "observation": "On civil rights and social issues, the visible record is sharper and more confrontational. In 2024, Sykes told The Advocate that anti-trans legislation was \"filled with hate\" and said decisions about gender-affirming care involve children, families, mental-health counseling, and physicians. At an April 2024 reproductive-rights rally, Kansas Reflector quoted her vowing to knock on doors and break the Republican super...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-advocate-2024"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
@@ -541,6 +414,16 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
             "src-dinah-sykes-0032"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
+        },
+        {
+          "id": "soc-dinah-sykes-0017",
+          "platform": "yahoo.com",
+          "observation": "Yahoo/Kansas City Star opinion, May 21, 2023: Sykes wrote as a Christian, mother, and daughter who lost her mother to breast cancer, linking those experiences to public schools, health care, justice, and mercy. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-yahoo-opinion-2023"
+          ],
+          "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
       ]
     },
@@ -552,10 +435,7 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-campaign-home",
           "s-kansas-reflector-launch",
-          "s-ksleg-profile",
-          "s-advocate-2024",
-          "src-dinah-sykes-0014",
-          "src-dinah-sykes-0060"
+          "s-ksleg-profile"
         ]
       },
       "actions": [
@@ -582,14 +462,6 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-ksleg-profile"
           ]
-        },
-        {
-          "id": "em-dinah-sykes-00011",
-          "date": "Undated",
-          "body": "On civil rights and social issues, the visible record is sharper and more confrontational. In 2024, Sykes told The Advocate that anti-trans legislation was \"filled with hate\" and said decisions about gender-affirming care involve children, families, mental-health counseling, and physicians. At an April 2024 reproductive-rights rally, Kansas Reflector quoted her vowing to knock on doors and break the Republican supermajority after abortion-related veto override efforts. (Advocate, Kansas Reflector)",
-          "sourceIds": [
-            "s-advocate-2024"
-          ]
         }
       ],
       "socialSignals": [
@@ -602,16 +474,6 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
             "s-ksleg-profile"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-dinah-sykes-0002",
-          "platform": "advocate.com",
-          "observation": "On civil rights and social issues, the visible record is sharper and more confrontational. In 2024, Sykes told The Advocate that anti-trans legislation was \"filled with hate\" and said decisions about gender-affirming care involve children, families, mental-health counseling, and physicians. At an April 2024 reproductive-rights rally, Kansas Reflector quoted her vowing to knock on doors and break the Republican super...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-advocate-2024"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
         }
       ]
     },
@@ -622,9 +484,8 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Her launch message sharpened that frame. In January 2026 coverage, Sykes said the cost of Kansas health insurance was \"simply out of control\" and that families cannot keep up with rising premiums for health, auto, property, and other insurance. She also pledged not to \"take a single dime from the insurance industry,\" making independence from regulated companies part of her public case. (source) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kansas-reflector-launch",
-          "s-kpdc-statewide-2026",
-          "s-kpdc-sykes-treasurer",
-          "s-kssenatedems-profile"
+          "s-kssenatedems-profile",
+          "s-ksleg-profile"
         ]
       },
       "actions": [
@@ -645,35 +506,19 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-dinah-sykes-00173",
-          "date": "Undated",
-          "body": "Kansas Ethics filing index: SWLinks2026EC",
-          "sourceIds": [
-            "s-kpdc-statewide-2026"
-          ]
-        },
-        {
-          "id": "em-dinah-sykes-00174",
-          "date": "Undated",
-          "body": "2026 filing PDF: SW03DS_AT.pdf",
-          "sourceIds": [
-            "s-kpdc-sykes-treasurer"
-          ]
-        },
-        {
-          "id": "em-dinah-sykes-00180",
-          "date": "Undated",
-          "body": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW03DS_AT.pdf",
-          "sourceIds": [
-            "s-kpdc-sykes-treasurer"
-          ]
-        },
-        {
           "id": "em-dinah-sykes-00497",
           "date": "Undated",
           "body": "Kansas Senate Democrats page: kssenatedems.org/dinah-sykes",
           "sourceIds": [
             "s-kssenatedems-profile"
+          ]
+        },
+        {
+          "id": "em-dinah-sykes-00516",
+          "date": "Undated",
+          "body": "Full voting record available at kslegislature.gov",
+          "sourceIds": [
+            "s-ksleg-profile"
           ]
         }
       ],
@@ -699,8 +544,8 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
           "s-governor-minwage",
           "s-campaign-home",
           "s-ksleg-profile",
-          "s-kpdc-statewide-2026",
-          "src-dinah-sykes-0016"
+          "s-joc-post-2023",
+          "s-kansas-reflector-launch"
         ]
       },
       "actions": [
@@ -734,14 +579,6 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
           "body": "Health care and family economics overlap in her legislative messaging. The official Kansas Legislature profile shows sponsored bills on paid sick time, the Kansas minimum wage, child income tax credits, property-tax relief, Social Security and homestead eligibility, and breast-cancer screening coverage. A 2024 tax-cut event quoted her calling a child-care tax credit a \"win-win\" that would help families, employers, and workforce participation. (Legislature, WIBW)",
           "sourceIds": [
             "s-ksleg-profile"
-          ]
-        },
-        {
-          "id": "em-dinah-sykes-00173",
-          "date": "Undated",
-          "body": "Kansas Ethics filing index: SWLinks2026EC",
-          "sourceIds": [
-            "s-kpdc-statewide-2026"
           ]
         },
         {
@@ -808,8 +645,8 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Dinah Sykes is profiled here for Kansas Commissioner of Insurance as a Democratic. Sykes's current insurance-commissioner campaign is built around affordability, consumer protection, transparency, and fairness. Her verified campaign site says she is \"Fighting for Affordable Insurance and Protecting Kansas Families\" and that Kansas deserves... Sykes also uses personal and moral biography in public writing. In a 2023 opinion piece, she described herself as a mom, a daughter who lost her mother to breast cancer, and a Christian, linking those experiences to public schools, health care, justice, and m... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 38 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Abortion / life: On civil rights and social issues, the visible record is sharper and more confrontational. In 2024, Sykes told The Advocate that anti-trans legislation was \"filled with hate\" and said decisions about gender-affirming care... Abortion / life: Her older candidate-attributed writing and indexed posts reinforce a theme of opposing what she calls extremism and overreach. In a February 2023 Capitol Update, she criticized public-health restrictions, anti-trans bills,... LGBT / gender / parental rights: On civil rights and social issues, the visible record is sharper and more confrontational. In 2024, Sykes told The Advocate that anti-trans legislation was \"filled with hate\" and said decisions about gender... LGBT / gender / parental rights: Her older candidate-attributed writing and indexed posts reinforce a theme of opposing what she calls extremism and overreach. In a February 2023 Capitol Update, she criticized public-health restrictions, a... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "| s-yahoo-opinion-2023 | secondary | https://www.yahoo.com/news/kansas-republicans-religion-fuel-hate-101700931.html | published 2023-05-21; accessed 2026-05-19 | Candidate-attributed opinion with faith/personal biography self-description | faith signal |. Public record: No current church affiliation was found. A 2023 candidate-attributed opinion, syndicated at Yahoo, describes Sykes as a Christian, mother, and daughter who lost her mother to breast cancer and links that biography to public schools, health care... Public interviews and candidate-attributed opinion map to LGBTQ policy, abortion/reproductive policy, political civility/safety, and faith self-description. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "recordSummary": "The rendered record now contains 26 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Abortion / life: Her older candidate-attributed writing and indexed posts reinforce a theme of opposing what she calls extremism and overreach. In a February 2023 Capitol Update, she criticized public-health restrictions, anti-trans bills,... LGBT / gender / parental rights: Her older candidate-attributed writing and indexed posts reinforce a theme of opposing what she calls extremism and overreach. In a February 2023 Capitol Update, she criticized public-health restrictions, a... Education / curriculum / schools: Her legislative identity remains central to the way she presents herself. Kansas Senate Democrats call her the first woman in Kansas history to serve as Senate Democratic leader and describe her as a champ... Education / curriculum / schools: Her older candidate-attributed writing and indexed posts reinforce a theme of opposing what she calls extremism and overreach. In a February 2023 Capitol Update, she criticized public-health restrictions,... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "Public record: No current church affiliation was found. A 2023 candidate-attributed opinion, syndicated at Yahoo, describes Sykes as a Christian, mother, and daughter who lost her mother to breast cancer and links that biography to public schools, health care... No public church affiliation was verified for Dinah Sykes. Her campaign language is values-oriented, but the public sources reviewed here did not identify a congregation or worship site. I did not verify a church affiliation or church website URL for Dinah Sykes. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "KPDC lists Sykes as an Insurance Commissioner candidate.; Appointment of treasurer identifies Kevin Moriarty as treasurer and Main Street Credit Union as depository.; Kansas Reflector reports Sykes pledged not to take insurance-industry contributions.",
     "narrative": "Treasurer appointment confirmed; no receipts-and-expenditures report visible on KPDC statewide 2026 index at access.",
@@ -817,8 +654,22 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Kansas State Wide Office - 2026 Election Cycle"
   },
-  "socialResearchNote": "27 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "22 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
+    {
+      "id": "s-douglas-candidate-export",
+      "tier": "primary",
+      "url": "https://candidatefiling.us/Info/CFPdf?c=118926085287&e=545606222&j=2795522868&s=802933811&st=KS",
+      "title": "2026 Primary Election Candidate List",
+      "publisher": "Douglas County, Kansas election office export",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The export says statewide-office candidates listed have filed documents with the State of Kansas",
+        "Commissioner of Insurance listing includes Sykes, Dinah, Democratic, Lenexa, filed 2026-01-08",
+        "| s-douglas-candidate-export | primary | https://candidatefiling.us/Info/CFPdf?c=118926085287&e=545606222&j=2795522868&s=802933811&st=KS | printed/accessed 2026-05-19 | County election export lists statewide candidates who filed with State of Kansas; lists Syk",
+        "\"url\": \"https://candidatefiling.us/Info/CFPdf?c=118926085287&e=545606222&j=2795522868&s=802933811&st=KS\","
+      ]
+    },
     {
       "id": "s-kpdc-statewide-2026",
       "tier": "primary",
@@ -872,6 +723,18 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
         "| Kansas Legislature profile | https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/ | FOUND | Official legislative profile confirms Senate Minority Leader, Democrat, committees, contact, and sponsored bills. |",
         "| s-ksleg-profile | primary | https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/ | accessed 2026-05-19 | Current Senate District 21 member profile, Minority Leader role, party, committee assignments, sponsored-bill links | biography, action e",
         "https://www.kslegislature.gov/li/b2025_26/members/sen_sykes_dinah_1/"
+      ]
+    },
+    {
+      "id": "s-sos-2024-results",
+      "tier": "primary",
+      "url": "https://sos.ks.gov/elections/24elec/2024_General_Official_Vote_Totals.pdf",
+      "title": "2024 General Election Official Vote Totals",
+      "publisher": "Kansas Secretary of State",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Kansas Senate District 21 result: Dinah Sykes 29,925 votes, 57.14%",
+        "| s-sos-2024-results | primary | https://sos.ks.gov/elections/24elec/2024_General_Official_Vote_Totals.pdf | accessed 2026-05-19 | 2024 official result: Senate District 21, Sykes 29,925 votes, 57.14% | officeholder status |"
       ]
     },
     {
@@ -960,6 +823,58 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-ksleg-sb216",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb216/",
+      "title": "SB 216",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Bill concerning paid sick time",
+        "Sykes is listed among sponsors",
+        "| s-ksleg-sb216 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb216/ | accessed 2026-05-19 | Paid sick time bill sponsored by Sykes and others | labor, family economics |"
+      ]
+    },
+    {
+      "id": "s-ksleg-sb218",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb218/",
+      "title": "SB 218",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Bill concerning the Kansas minimum wage",
+        "Sykes is listed among sponsors",
+        "| s-ksleg-sb218 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb218/ | accessed 2026-05-19 | Kansas minimum wage bill sponsored by Sykes and others | labor, affordability |"
+      ]
+    },
+    {
+      "id": "s-ksleg-sb219",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb219/",
+      "title": "SB 219",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Bill concerning coverage for supplemental and diagnostic breast examinations",
+        "Sykes is listed among sponsors",
+        "| s-ksleg-sb219 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb219/ | accessed 2026-05-19 | Breast-cancer screening coverage bill sponsored by Sykes and others | health insurance |"
+      ]
+    },
+    {
+      "id": "s-ksleg-sb217",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb217/",
+      "title": "SB 217",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Bill concerning exclusion of Social Security payments from Kansas adjusted gross income",
+        "Sykes is listed among sponsors",
+        "| s-ksleg-sb217 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb217/ | accessed 2026-05-19 | Income-tax exclusion bill sponsored by Sykes and others | taxes, seniors |"
+      ]
+    },
+    {
       "id": "s-joc-post-2023",
       "tier": "secondary",
       "url": "https://johnsoncountypost.com/2023/02/13/capitol-update-sen-dinah-sykes-gop-harmful-193705/",
@@ -1003,6 +918,20 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-kcur-safety-2025",
+      "tier": "secondary",
+      "url": "https://www.kcur.org/podcast/up-to-date/2025-06-17/dinah-sykes-kansas-senate-democrat-hartman-assassination",
+      "title": "Kansas Senate Democrat Dinah Sykes on political safety",
+      "publisher": "KCUR",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Interview after Minnesota lawmaker assassination discussed safety concerns and policy-focused disagreement",
+        "| s-kcur-safety-2025 | secondary | https://www.kcur.org/podcast/up-to-date/2025-06-17/dinah-sykes-kansas-senate-democrat-hartman-assassination | published 2025-06-17; accessed 2026-05-19 | Interview on political safety and rhetoric after Minnesota assassinatio",
+        "KCUR, Jun. 17, 2025: interview after the assassination of Minnesota Rep. Melissa Hortman. Sykes discussed safety concerns, divisiveness, and the need to go after policy rather than people. ([source](https://www.kcur.org/podcast/up-to-date/2025-06-17/dinah-syke",
+        "KCUR interview: \"We do go after the person instead of the policy.\" ([source](https://www.kcur.org/podcast/up-to-date/2025-06-17/dinah-sykes-kansas-senate-democrat-hartman-assassination))"
+      ]
+    },
+    {
       "id": "s-yahoo-opinion-2023",
       "tier": "secondary",
       "url": "https://www.yahoo.com/news/kansas-republicans-religion-fuel-hate-101700931.html",
@@ -1017,93 +946,17 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-dinah-sykes-0001",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
-      "title": "Ksde",
-      "publisher": "Ksde",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)"
-      ]
-    },
-    {
-      "id": "src-dinah-sykes-0014",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/elections/senate/KS/2026/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FEC: 2026 Kansas Senate Election](https://www.fec.gov/data/elections/senate/KS/2026/)"
-      ]
-    },
-    {
-      "id": "src-dinah-sykes-0016",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/candidate/S6KS00262/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "FEC Page: [FEC Candidate S6KS00262](https://www.fec.gov/data/candidate/S6KS00262/)",
-        "[FEC Candidate S6KS00262](https://www.fec.gov/data/candidate/S6KS00262/)"
-      ]
-    },
-    {
-      "id": "src-dinah-sykes-0025",
+      "id": "s-threadreader-redistricting-2022",
       "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
+      "url": "https://threadreaderapp.com/thread/1489374594314211338.html",
+      "title": "Archived @dinah_sykes thread on Ad Astra 2",
+      "publisher": "Thread Reader App",
+      "accessed": "2026-05-19",
       "claimsAnchored": [
-        "[Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-dinah-sykes-0026",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)"
-      ]
-    },
-    {
-      "id": "src-dinah-sykes-0027",
-      "tier": "secondary",
-      "url": "https://www.stj-church.com/",
-      "title": "Stj-Church",
-      "publisher": "Stj-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.stj-church.com/\","
-      ]
-    },
-    {
-      "id": "src-dinah-sykes-0029",
-      "tier": "secondary",
-      "url": "https://mikeforkansas.my.canva.site/",
-      "title": "Mikeforkansas.My.Canva",
-      "publisher": "Mikeforkansas.My.Canva",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)",
-        "[mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/)"
-      ]
-    },
-    {
-      "id": "src-dinah-sykes-0030",
-      "tier": "secondary",
-      "url": "https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state",
-      "title": "Brennancenter",
-      "publisher": "Brennancenter",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)"
+        "Existing local harvest captured an archived @dinah_sykes thread on redistricting and fair-map process",
+        "| s-threadreader-redistricting-2022 | social | https://threadreaderapp.com/thread/1489374594314211338.html | published 2022-02-03; accessed 2026-05-19 via existing local harvest | Archived @dinah_sykes thread on redistricting and fair-map process | governance",
+        "Thread Reader App, Feb. 3, 2022: archived @dinah_sykes thread on redistricting said the Ad Astra 2 map fell short and urged a fair, legal map. ([source](https://threadreaderapp.com/thread/1489374594314211338.html))",
+        "Redistricting thread: \"A once-in-a-decade constitutional responsibility must be treated with great care.\" ([source](https://threadreaderapp.com/thread/1489374594314211338.html))"
       ]
     },
     {
@@ -1120,38 +973,25 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-dinah-sykes-0034",
+      "id": "src-dinah-sykes-0042",
       "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
+      "url": "https://insurancenewsnet.com/oarticle/sen-sykes-campaigning-for-insurance-commissioner",
+      "title": "Insurancenewsnet",
+      "publisher": "Insurancenewsnet",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)",
-        "[Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
+        "[InsuranceNewsNet - Sykes campaigning](https://insurancenewsnet.com/oarticle/sen-sykes-campaigning-for-insurance-commissioner)"
       ]
     },
     {
-      "id": "src-dinah-sykes-0035",
+      "id": "src-dinah-sykes-0082",
       "tier": "secondary",
-      "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
-      "title": "Cnn",
-      "publisher": "Cnn",
+      "url": "https://ballotpedia.org/Dinah_Sykes",
+      "title": "Ballotpedia",
+      "publisher": "Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)"
-      ]
-    },
-    {
-      "id": "src-dinah-sykes-0060",
-      "tier": "secondary",
-      "url": "https://myvoteinfo.voteks.org/",
-      "title": "Myvoteinfo.Voteks",
-      "publisher": "Myvoteinfo.Voteks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/",
-        "[myvoteinfo.voteks.org](https://myvoteinfo.voteks.org/)"
+        "[Ballotpedia: Dinah Sykes](https://ballotpedia.org/Dinah_Sykes)"
       ]
     },
     {
@@ -1163,6 +1003,138 @@ export const DINAH_SYKES_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Kansas Reflector, Feb. 20, 2024: Sykes criticized a flat-tax plan and called for responsible tax cuts that support working families. ([source](https://kansasreflector.com/2024/02/20/kansas-house-republicans-fail-to-override-governors-veto-on-massive-tax-reform"
+      ]
+    },
+    {
+      "id": "src-dinah-sykes-0093",
+      "tier": "secondary",
+      "url": "https://www.wibw.com/2024/01/08/gov-kelly-state-lawmakers-unveil-tax-cut-proposal-first-day-session/",
+      "title": "Wibw",
+      "publisher": "Wibw",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "WIBW, Jan. 8, 2024: Sykes backed a bipartisan tax package and described the child-care tax credit as a \"win-win\" for families, employers, and workforce participation. ([source](https://www.wibw.com/2024/01/08/gov-kelly-state-lawmakers-unveil-tax-cut-proposal-f"
+      ]
+    },
+    {
+      "id": "src-dinah-sykes-0094",
+      "tier": "social",
+      "url": "https://www.instagram.com/dinah_sykes/",
+      "title": "Instagram",
+      "publisher": "Instagram",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "The campaign footprint is compact and Meta-centered. The campaign site links Facebook and Instagram, but not X, LinkedIn, YouTube, TikTok, Bluesky, Threads, Truth Social, Gab, Gettr, Substack, or Reddit. Facebook identified the page as \"Senator Dinah Sykes\" wi",
+        "| Campaign Instagram | https://www.instagram.com/dinah_sykes/ | FOUND | Linked from campaign site. Public metadata on capture: 1,411 followers, 86 following, 222 posts. Bio says Kansas State Senator and candidate for Kansas Insurance Commissioner. |",
+        "The campaign Instagram page metadata identified [@dinah_sykes](https://www.instagram.com/dinah_sykes/) as \"Senator Dinah Sykes,\" with 1,411 followers, 86 following, and 222 posts. Its bio says: \"Kansas State Senator, Candidate for Kansas Insurance Commissioner",
+        "| s-campaign-instagram | social | https://www.instagram.com/dinah_sykes/ | accessed 2026-05-19 via existing local harvest | Candidate-linked Instagram profile metadata | social presence |",
+        "Campaign Instagram metadata, captured 2026-05-11: 1,411 followers, 86 following, 222 posts, candidate bio and campaign paid-for line. ([source](https://www.instagram.com/dinah_sykes/))",
+        "Instagram: https://www.instagram.com/dinah_sykes/ is linked from the campaign site. Existing logged-out local harvest captured 1,411 followers, 86 following, and 222 posts, with bio language identifying her as a Kansas state senator and insurance-commissioner"
+      ]
+    },
+    {
+      "id": "src-dinah-sykes-0096",
+      "tier": "social",
+      "url": "https://www.facebook.com/Sykes4KS/",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "The campaign Facebook page metadata identified the page as \"Senator Dinah Sykes,\" with 3,401 likes and 105 talking about this. Its public description says she is Senate Democratic Leader for Kansas Senate District 21 and a candidate for Kansas Insurance Commis",
+        "Campaign Facebook metadata, captured 2026-05-11: 3,401 likes, 105 talking about this, Senate Democratic Leader, candidate for Kansas Insurance Commissioner, campaign paid-for line. ([source](https://www.facebook.com/Sykes4KS/))",
+        "| s-campaign-facebook | social | https://www.facebook.com/Sykes4KS/ | accessed 2026-05-19 via existing local harvest | Candidate-linked Facebook page metadata | social presence |",
+        "Facebook: [Senator Dinah Sykes (@Sykes4KS)](https://www.facebook.com/Sykes4KS/)",
+        "[Senator Dinah Sykes (@Sykes4KS)](https://www.facebook.com/Sykes4KS/)",
+        "| Campaign Facebook | https://www.facebook.com/Sykes4KS/ | FOUND | Linked from campaign site and Kansas Senate Democrats page. Public metadata on capture: 3,401 likes and 105 talking about this. |",
+        "Facebook: https://www.facebook.com/Sykes4KS/ is linked from the campaign site and Kansas Senate Democrats profile. Existing logged-out local harvest captured page metadata: 3,401 likes and 105 talking about this."
+      ]
+    },
+    {
+      "id": "src-dinah-sykes-0097",
+      "tier": "secondary",
+      "url": "https://www.nwksradio.net/post/dinah-sykes-legislative-update-end-of-sessions-recap",
+      "title": "Nwksradio",
+      "publisher": "Nwksradio",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "NWKS Radio, May 2026: public page for a May 1, 2026 interview recapping the legislative session and discussing her campaign for Kansas Insurance Commissioner. Audio was visible, but no full transcript was available in the public page text. ([source](https://ww"
+      ]
+    },
+    {
+      "id": "src-dinah-sykes-0098",
+      "tier": "social",
+      "url": "https://x.com/dinah_sykes",
+      "title": "X",
+      "publisher": "X",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "The largest visible audience signal was X, even though the current campaign site does not link it. Public X metadata for [@dinah_sykes](https://x.com/dinah_sykes) showed 4,907 followers, 749 following, 6,322 posts, and a bio presenting her as Kansas Senate Min",
+        "| s-x-profile | social | https://x.com/dinah_sykes | accessed 2026-05-19 via existing local harvest | Public X metadata; logged-out timeline unreliable | social presence |",
+        "Public X metadata for [@dinah_sykes](https://x.com/dinah_sykes) listed 4,907 followers, 749 following, 6,322 posts, 792 media items, and a June 11, 2015 creation date. The bio reads: \"#Kansas Senator Minority Leader representing Senate District 21 and @kssenat",
+        "| X / Twitter | https://x.com/dinah_sykes | FOUND | Not linked on the current campaign site, but public X metadata and indexed previews identify it as Dinah Sykes. Capture: 4,907 followers, 749 following, 6,322 posts, joined 2015-06-11. Direct timeline did not",
+        "X metadata, captured 2026-05-11: 4,907 followers, 749 following, 6,322 posts, 792 media items, bio identifying her as Kansas Senate Minority Leader. ([source](https://x.com/dinah_sykes))",
+        "The highest visible public audience metric was X account-level followers: 4,907 followers for [@dinah_sykes](https://x.com/dinah_sykes). The highest Meta audience metric was Facebook page-level activity: 3,401 likes and 105 talking about this for [Sykes4KS](ht",
+        "X/Twitter: https://x.com/dinah_sykes is not linked from the current campaign site but is identified in public metadata and older indexed sources. Existing harvest captured 4,907 followers, 749 following, 6,322 posts, and a June 11, 2015 creation date. Logged-o"
+      ]
+    },
+    {
+      "id": "src-dinah-sykes-0099",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/dinah-sykes-715364288",
+      "title": "Linkedin",
+      "publisher": "Linkedin",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| s-linkedin-profile | social | https://www.linkedin.com/in/dinah-sykes-715364288 | accessed 2026-05-19 via existing local harvest | Public LinkedIn preview; weak activity context | social presence |",
+        "The public LinkedIn preview for Dinah Sykes listed 646 followers and 500+ connections, with Kansas Legislature as her profile affiliation. Visible activity consisted mostly of liked posts, including Johnson County government, judiciary, museum, mayoral-campaig",
+        "| LinkedIn | https://www.linkedin.com/in/dinah-sykes-715364288 | FOUND | Public preview: 646 followers, 500+ connections, Kansas Legislature, personal website. Visible activity was mostly likes, not a reliable original-post inventory. |",
+        "LinkedIn public preview, captured 2026-05-11: 646 followers, 500+ connections, Kansas Legislature affiliation, mostly liked activity visible. ([source](https://www.linkedin.com/in/dinah-sykes-715364288))",
+        "LinkedIn: https://www.linkedin.com/in/dinah-sykes-715364288 appeared in prior local harvest with 646 followers and 500+ connections. Visible activity was mostly likes, so it was treated as weak context rather than original campaign messaging."
+      ]
+    },
+    {
+      "id": "src-dinah-sykes-0102",
+      "tier": "secondary",
+      "url": "https://www.kssenatedems.org/dinah-sykes1",
+      "title": "Kssenatedems",
+      "publisher": "Kssenatedems",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| Kansas Senate Democrats profile | https://www.kssenatedems.org/dinah-sykes1 and https://www.kssenatedems.org/dinah-sykes | FOUND | Official/caucus profile links campaign website and Facebook; biography emphasizes public schools, early childhood, survivor pro",
+        "Kansas Senate Democrats candidate page, captured 2026-05-11: links campaign website, fundraising page, and Facebook page; biography emphasizes public schools, early childhood, survivor protections, and common sense. ([source](https://www.kssenatedems.org/dinah"
+      ]
+    },
+    {
+      "id": "src-dinah-sykes-0120",
+      "tier": "secondary",
+      "url": "https://en.wikipedia.org/wiki/Dinah_Sykes",
+      "title": "En.Wikipedia",
+      "publisher": "En.Wikipedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Wikipedia](https://en.wikipedia.org/wiki/Dinah_Sykes)"
+      ]
+    },
+    {
+      "id": "src-dinah-sykes-0121",
+      "tier": "secondary",
+      "url": "https://csgmidwest.org/wp-content/uploads/2025/04/leader-sykes.pdf",
+      "title": "Csgmidwest",
+      "publisher": "Csgmidwest",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[CSG Midwest - Profile](https://csgmidwest.org/wp-content/uploads/2025/04/leader-sykes.pdf)"
+      ]
+    },
+    {
+      "id": "src-dinah-sykes-0122",
+      "tier": "secondary",
+      "url": "https://lenexarotary.org/stories/new-member-spotlight-dinah-sykes",
+      "title": "Lenexarotary",
+      "publisher": "Lenexarotary",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Lenexa Rotary - New Member Spotlight](https://lenexarotary.org/stories/new-member-spotlight-dinah-sykes)"
       ]
     }
   ]

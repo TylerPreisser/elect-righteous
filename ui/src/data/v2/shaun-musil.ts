@@ -39,54 +39,18 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-shaun-musil-0029",
-          "src-shaun-musil-0001",
-          "src-shaun-musil-0002",
-          "src-shaun-musil-0028",
-          "src-shaun-musil-0030"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-shaun-musil-00347",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-shaun-musil-0029"
-          ]
-        },
-        {
-          "id": "em-shaun-musil-01046",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-shaun-musil-0001"
-          ]
-        },
-        {
-          "id": "em-shaun-musil-01110",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-shaun-musil-0002"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-shaun-musil-0031",
-          "src-shaun-musil-0032",
-          "src-shaun-musil-0033",
-          "src-shaun-musil-0034"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -100,7 +64,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "s-hayspost-i70-land-2024",
           "s-nextech",
           "src-shaun-musil-0005",
-          "src-shaun-musil-0046",
           "s-hayspost-budget-2026",
           "src-shaun-musil-0045"
         ]
@@ -128,14 +91,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "body": "2026 city minutes/agendas: April 2026 city materials show Musil present for meetings involving development incentives, housing fee waivers, and routine governance, but the minutes are mostly procedural rather than quote-rich. Source: City agenda packet, Apr. 16, 2026.",
           "sourceIds": [
             "src-shaun-musil-0005"
-          ]
-        },
-        {
-          "id": "em-shaun-musil-02524",
-          "date": "Undated",
-          "body": "Hays Post: 2026 budget",
-          "sourceIds": [
-            "src-shaun-musil-0046"
           ]
         }
       ],
@@ -272,10 +227,8 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector: Immigration lawyer runs",
-        "sourceIds": [
-          "src-shaun-musil-0050"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -286,8 +239,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: His COVID-era comments are the sharpest example of his governing style under pressure. As mayor in 2020, Musil backed mask rules and enforcement while saying his goal was to keep schools and businesses open. After his mayoral year ended, he said the commission disagreed, worked it out, and acted for the community, adding that he had been scared by some decisions but felt the commission did the right thing. The publi... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-mask-2020",
-          "src-shaun-musil-0052"
+          "s-hayspost-mask-2020"
         ]
       },
       "actions": [
@@ -311,7 +263,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "s-nextech",
           "s-goodparty",
           "s-ellis-filings-2025",
-          "s-ellis-results-page",
           "s-ellis-results-2025",
           "s-hayspost-election-2025"
         ]
@@ -339,14 +290,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "body": "Ellis County 2025 candidate filings PDF: https://ellisco.net/DocumentCenter/View/5707/2025-Candidate-Filings",
           "sourceIds": [
             "s-ellis-filings-2025"
-          ]
-        },
-        {
-          "id": "em-shaun-musil-00041",
-          "date": "Undated",
-          "body": "Ellis County election results page: https://www.ellisco.net/435/Election-Results",
-          "sourceIds": [
-            "s-ellis-results-page"
           ]
         },
         {
@@ -413,63 +356,27 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Kansas SOS campaign finance / ethics filings: https://sos.ks.gov/elections/campaign-finance-ethics-filings.html",
+        "text": "Documented public evidence: City Page: haysusa.com/273/Shaun-Musil",
         "sourceIds": [
-          "s-ks-sos-campaign-finance",
-          "src-shaun-musil-0055",
-          "src-shaun-musil-0029",
-          "src-shaun-musil-0034",
-          "src-shaun-musil-0056",
-          "src-shaun-musil-0033"
+          "s-city-musil",
+          "s-nextech"
         ]
       },
       "actions": [
         {
-          "id": "em-shaun-musil-00079",
+          "id": "em-shaun-musil-00710",
           "date": "Undated",
-          "body": "Kansas SOS campaign finance / ethics filings: https://sos.ks.gov/elections/campaign-finance-ethics-filings.html",
+          "body": "City Page: haysusa.com/273/Shaun-Musil",
           "sourceIds": [
-            "s-ks-sos-campaign-finance"
+            "s-city-musil"
           ]
         },
         {
-          "id": "em-shaun-musil-00122",
+          "id": "em-shaun-musil-00738",
           "date": "Undated",
-          "body": "Hays Post: Mask ordinance extension",
+          "body": "Hays Post: Shaun Musil Q&A",
           "sourceIds": [
-            "src-shaun-musil-0055"
-          ]
-        },
-        {
-          "id": "em-shaun-musil-00347",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-shaun-musil-0029"
-          ]
-        },
-        {
-          "id": "em-shaun-musil-00695",
-          "date": "Undated",
-          "body": "Tiger Media Network: Get to know candidates",
-          "sourceIds": [
-            "src-shaun-musil-0034"
-          ]
-        },
-        {
-          "id": "em-shaun-musil-00697",
-          "date": "Undated",
-          "body": "HaysMed Foundation: New officers",
-          "sourceIds": [
-            "src-shaun-musil-0056"
-          ]
-        },
-        {
-          "id": "em-shaun-musil-00698",
-          "date": "Undated",
-          "body": "Hays Post: Incumbents re-elected",
-          "sourceIds": [
-            "src-shaun-musil-0033"
+            "s-nextech"
           ]
         }
       ],
@@ -483,8 +390,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-hayspost-i70-land-2024",
           "s-nextech",
-          "src-shaun-musil-0064",
-          "src-shaun-musil-0065",
           "s-hayspost-election-2025"
         ]
       },
@@ -503,22 +408,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
           "body": "The strongest recurring theme is water. In his 2025 candidate Q&A, Musil said he was running again because Hays had \"unfinished business,\" mainly the water project, and said water should always be the city's No. 1 issue. At the 2025 forum, he said he believed R9 would happen, defended Hays' conservation record, and argued that the city was not taking water from Kinsley. Earlier, after a favorable 2024 ruling, he called R9 a huge win for Hays, Russell, and the region, said conservation would continue, and stressed...",
           "sourceIds": [
             "s-nextech"
-          ]
-        },
-        {
-          "id": "em-shaun-musil-00905",
-          "date": "Undated",
-          "body": "Kansas Reflector: Supreme Court arguments",
-          "sourceIds": [
-            "src-shaun-musil-0064"
-          ]
-        },
-        {
-          "id": "em-shaun-musil-00912",
-          "date": "Undated",
-          "body": "Hays Post: Water bill awaits governor signature",
-          "sourceIds": [
-            "src-shaun-musil-0065"
           ]
         },
         {
@@ -692,8 +581,8 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Shaun Musil is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. The strongest recurring theme is water. In his 2025 candidate Q&A, Musil said he was running again because Hays had \"unfinished business,\" mainly the water project, and said water should always be the city's No. 1 issue. At the 2025 forum, he said he believed... Musil also uses business-owner language. As co-owner of the former Paisley Pear, he described downtown as a welcoming place for students and families, saying FHSU students used the back room to study and relax and that he loved welcoming college students down... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 36 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Taxes / spending / debt: Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 show... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. Sunflower State Journal: Kobach denounces vandalism at his church. Christian Post: Caleb Schwab attended church with family hours before death. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "recordSummary": "The rendered record now contains 25 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 show... Taxes / spending / debt: On budgets and taxes, Musil's message is cautious. He says he does not want to raise the mill levy in the next few years, but also says costs change and \"you never want to say never.\" In 2023 budget coverage, he ac... Taxes / spending / debt: 2026 city minutes/agendas: April 2026 city materials show Musil present for meetings involving development incentives, housing fee waivers, and routine governance, but the minutes are mostly procedural rather than... Economy / jobs / labor: On budgets and taxes, Musil's message is cautious. He says he does not want to raise the mill levy in the next few years, but also says costs change and \"you never want to say never.\" In 2023 budget coverage, he ack... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "No public faith statement by Musil found in accessible campaign/city/news materials reviewed here. The Hays City Commission (excluding the mayor) has ZERO confirmed church affiliations. This is the most striking finding. Four of the five elected commissioners (Cunningham, Musil, Jacobs, Vilaysing) have no public faith identity whatsoever. This is unusual f... Church affiliations for Cunningham, Musil, Jacobs, Vilaysing, Dougherty -- Only Ruder (Catholic) is confirmed. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in rendered profile",
     "narrative": "KPDC campaign finance guidance: https://kpdc.kansas.gov/campaign-finance/. FEC Filing: FEC Candidate H6KS03258. The record is dominated by water security, especially the R9 Ranch project; pro-growth economic development and retail recruitment; housing supply; careful budget language; pandemic-era public-health conflict; and airport/infrastructure concerns. No current c... Campaign Finance / Donor Information. Finance figures are shown only when the reporting period/source was preserved in the evidence matrix; otherwise this remains a research caveat.",
@@ -723,6 +612,23 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-city-musil",
+      "tier": "primary",
+      "url": "https://haysusa.com/273/Shaun-Musil",
+      "title": "Shaun Musil",
+      "publisher": "City of Hays",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Official City of Hays individual page exists for Shaun Musil",
+        "The page displayed Vice Mayor during this pass",
+        "[Shaun Musil - City of Hays Profile](https://haysusa.com/273/Shaun-Musil)",
+        "City Page: [haysusa.com/273/Shaun-Musil](https://haysusa.com/273/Shaun-Musil)",
+        "City of Hays, Shaun Musil, accessed 2026-05-19: https://haysusa.com/273/Shaun-Musil",
+        "[City of Hays - Shaun Musil](https://haysusa.com/273/Shaun-Musil)",
+        "| Official city profile | Found | The City of Hays profile lists [Shaun Musil](https://haysusa.com/273/Shaun-Musil) and provides an email link. The broader [City Commission](https://www.haysusa.com/269/City-Commission) page lists current commission members, me"
+      ]
+    },
+    {
       "id": "s-ellis-filings-2025",
       "tier": "primary",
       "url": "https://ellisco.net/DocumentCenter/View/5707/2025-Candidate-Filings",
@@ -733,18 +639,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
         "Shaun Musil was listed for Hays City Commission in 2025 candidate filings",
         "The Hays City Commission contest had two four-year terms and one two-year term",
         "Ellis County 2025 candidate filings PDF: https://ellisco.net/DocumentCenter/View/5707/2025-Candidate-Filings"
-      ]
-    },
-    {
-      "id": "s-ellis-results-page",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/435/Election-Results",
-      "title": "Election Results",
-      "publisher": "Ellis County, Kansas",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Ellis County links 2025 General Election Official Results",
-        "Ellis County election results page: https://www.ellisco.net/435/Election-Results"
       ]
     },
     {
@@ -759,20 +653,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
         "Search extraction listed Shaun Musil with 1,788 votes for Hays City Commissioner",
         "Ellis County 2025 official results PDF: https://www.ellisco.net/DocumentCenter/View/5892/Official-Results-2025-General-Election",
         "\"url\": \"https://www.ellisco.net/DocumentCenter/View/5892/Official-Results-2025-General-Election\","
-      ]
-    },
-    {
-      "id": "s-ks-sos-campaign-finance",
-      "tier": "primary",
-      "url": "https://sos.ks.gov/elections/campaign-finance-ethics-filings.html",
-      "title": "Campaign Finance & Ethics Filings",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Kansas SOS receives and files state-level campaign finance reports",
-        "The page links campaign finance information to KPDC",
-        "Federal candidate filing reports are filed at the FEC",
-        "Kansas SOS campaign finance / ethics filings: https://sos.ks.gov/elections/campaign-finance-ethics-filings.html"
       ]
     },
     {
@@ -814,6 +694,23 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
         "[Facebook: Shaun Musil Commissioner](https://www.facebook.com/musilcomish/)",
         "Facebook page link: https://www.facebook.com/musilcomish/",
         "[Facebook - musilcomish](https://www.facebook.com/musilcomish/)"
+      ]
+    },
+    {
+      "id": "s-linkedin",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/shaun-musil-26539490/",
+      "title": "Shaun Musil - LinkedIn",
+      "publisher": "LinkedIn",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "GoodParty linked this LinkedIn URL",
+        "Full profile/activity was login-gated in this environment",
+        "LinkedIn: [Shaun Musil - Nex-Tech](https://www.linkedin.com/in/shaun-musil-26539490/)",
+        "LinkedIn: [Shaun Musil](https://www.linkedin.com/in/shaun-musil-26539490/)",
+        "[Shaun Musil - Nex-Tech](https://www.linkedin.com/in/shaun-musil-26539490/)",
+        "LinkedIn profile link: https://www.linkedin.com/in/shaun-musil-26539490/",
+        "| LinkedIn | Found, public previews only | GoodParty links [linkedin.com/in/shaun-musil-26539490](https://www.linkedin.com/in/shaun-musil-26539490/). Search previews also surfaced public LinkedIn comments by Shaun Musil on customer-experience/AI and profession"
       ]
     },
     {
@@ -890,6 +787,21 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-reorg-2026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08",
+      "title": "New year, new governing body for city of Hays",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Musil, Sandy Jacobs, and David Vilaysing were sworn in on January 8, 2026",
+        "Hays Post reported Mason Ruder elected mayor and Alaina Cunningham vice-mayor",
+        "Hays Post, \"New year, new governing body for city of Hays,\" published 2026-01-10: https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08",
+        "[Hays Post: New governing body 2026](https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08)",
+        "Hays Post 2026 reorganization: https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08"
+      ]
+    },
+    {
       "id": "s-hayspost-r9-2024",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/8d8e87f6-e3c9-4950-bcea-9cac40e269bd",
@@ -908,6 +820,21 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-r9-2025",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/1c6734f4-a3cc-4aa1-abb3-6827856793d8",
+      "title": "R9 2025 update",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Existing local harvest recorded Musil framing R9 as regional and not taking from Edwards County/Kinsley",
+        "Hays Post 2025 R9 update from existing local harvest: https://hayspost.com/posts/1c6734f4-a3cc-4aa1-abb3-6827856793d8",
+        "2025 R9 update: Musil said Hays was giving to the Edwards County/Kinsley area, not taking away from it, and called R9 a regional project. Source: [Hays Post, Feb. 15, 2025](https://hayspost.com/posts/1c6734f4-a3cc-4aa1-abb3-6827856793d8).",
+        "Hays Post 2025 R9 update: https://hayspost.com/posts/1c6734f4-a3cc-4aa1-abb3-6827856793d8",
+        "[Hays Post - R9 2025 update](https://hayspost.com/posts/1c6734f4-a3cc-4aa1-abb3-6827856793d8)"
+      ]
+    },
+    {
       "id": "s-hayspost-mask-2020",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/71b2e036-1db2-45b6-86a9-c9d86520f000",
@@ -921,6 +848,40 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
         "Musil discussed business closures caused by employee illness",
         "His COVID-era comments are the sharpest example of his governing style under pressure. As mayor in 2020, Musil backed mask rules and enforcement while saying his goal was to keep schools and businesses open. After his mayoral year ended, he said the commission",
         "2020 mask ordinance: During debate on extending the Hays mask ordinance, Musil said his goal was to keep schools and businesses open and noted businesses were closing because spread left them without employees. Source: [Hays Post, Aug. 28, 2020](https://hayspo"
+      ]
+    },
+    {
+      "id": "s-hayspost-pandemic-2021",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/d835988d-3ad1-481c-a439-657747f04a70",
+      "title": "City commission reorganized; past mayor Musil thankful for support during pandemic",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Musil thanked staff and his wife after his 2020 mayoral year",
+        "Article says Shaun and Heather Musil co-owned Paisley Pear",
+        "Article says the Musil family experienced coronavirus and quarantines",
+        "Article lists 2020 projects supported or approved by the commission",
+        "[Hays Post: Commission reorganized, Musil thankful](https://hayspost.com/posts/d835988d-3ad1-481c-a439-657747f04a70)",
+        "[Hays Post: Commission reorganized](https://hayspost.com/posts/d835988d-3ad1-481c-a439-657747f04a70)",
+        "Hays Post 2021 pandemic reflection: https://hayspost.com/posts/d835988d-3ad1-481c-a439-657747f04a70",
+        "2021 pandemic reflection: After serving as mayor in 2020, Musil said the commission disagreed, worked things out, and acted for the community. He said he was \"scared to death\" by some calls, but public thanks made it worth it. Source: [Hays Post, Jan. 15, 2021",
+        "[Hays Post - Musil pandemic reflection](https://hayspost.com/posts/d835988d-3ad1-481c-a439-657747f04a70)"
+      ]
+    },
+    {
+      "id": "s-hayspost-grow-hays-2021",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/ff990305-fdea-40c2-a1c9-1e07624baf77",
+      "title": "Mayor retracts idea for eco devo mill levy increase; still supports more funding",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Musil said Grow Hays must have stable funding",
+        "Musil called Grow Hays the best economic-development program since he had been on the commission",
+        "Musil said Hays could not go backwards",
+        "Hays Post Grow Hays funding: https://hayspost.com/posts/ff990305-fdea-40c2-a1c9-1e07624baf77",
+        "2021 Grow Hays funding: Musil called Grow Hays the best economic development program since he had been on the commission and said Hays could not go backwards. Source: [Hays Post, Jun. 11, 2021](https://hayspost.com/posts/ff990305-fdea-40c2-a1c9-1e07624baf77)."
       ]
     },
     {
@@ -962,6 +923,36 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-grow-hays-2026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/25729bbf-6cf9-4d9e-a74e-e7a60f5e43e9",
+      "title": "Grow Hays report: 2025 filled with momentum in economic development",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post described Musil as pleased with 2025 economic-development momentum",
+        "Grow Hays reported eight multi-unit housing projects and 17 single-family home permits underway or approved",
+        "Hays Post Grow Hays 2026: https://hayspost.com/posts/25729bbf-6cf9-4d9e-a74e-e7a60f5e43e9",
+        "2026 economic development: After a Grow Hays annual review, Musil was described as pleased with 2025 economic-development momentum. Source: [Hays Post, Jan. 17, 2026](https://hayspost.com/posts/25729bbf-6cf9-4d9e-a74e-e7a60f5e43e9).",
+        "[Hays Post - 2026 Grow Hays review](https://hayspost.com/posts/25729bbf-6cf9-4d9e-a74e-e7a60f5e43e9)"
+      ]
+    },
+    {
+      "id": "s-hayspost-chickfila-2026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/fd894259-fd52-4ccb-92c6-945bd172e875",
+      "title": "Hays City Commission talks economic development incentives for new Chick-fil-A",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Musil credited Grow Hays and city staff for behind-the-scenes work",
+        "Musil said Chick-fil-A now; what's next?",
+        "The developer requested IRB-related tax incentives for a $6.2 million project",
+        "2026 Chick-fil-A incentives: Musil credited Grow Hays and city staff, then asked, \"Chick-fil-A now; what's next?\" Source: [Hays Post, Mar. 21, 2026](https://hayspost.com/posts/fd894259-fd52-4ccb-92c6-945bd172e875).",
+        "Hays Post Chick-fil-A incentives: https://hayspost.com/posts/fd894259-fd52-4ccb-92c6-945bd172e875"
+      ]
+    },
+    {
       "id": "s-hayspost-budget-2026",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb",
@@ -979,28 +970,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-shaun-musil-0001",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0002",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
       "id": "src-shaun-musil-0005",
       "tier": "primary",
       "url": "https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_04162026-1606",
@@ -1010,87 +979,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "2026 city minutes/agendas: April 2026 city materials show Musil present for meetings involving development incentives, housing fee waivers, and routine governance, but the minutes are mostly procedural rather than quote-rich. Source: [City agenda packet, Apr.",
         "[City of Hays - Apr. 16, 2026 agenda packet](https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_04162026-1606)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0028",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0029",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0030",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0031",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0032",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0033",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: Hays city commission incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)",
-        "[Hays Post: Incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0034",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=75270",
-      "title": "Tigermedianet",
-      "publisher": "Tigermedianet",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Tiger Media Network: Get to know the Hays City Commission candidates](https://tigermedianet.com/?p=75270)",
-        "[Tiger Media Network: Get to know candidates](https://tigermedianet.com/?p=75270)",
-        "[Tiger Media Network: Commission candidates](https://tigermedianet.com/?p=75270)"
       ]
     },
     {
@@ -1107,84 +995,6 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-shaun-musil-0046",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2026 budget](https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0050",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0052",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0055",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/095697ac-eb4b-4005-867a-bb049ec8c10f",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Mask ordinance extension](https://hayspost.com/posts/095697ac-eb4b-4005-867a-bb049ec8c10f)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0056",
-      "tier": "secondary",
-      "url": "https://haysmedfoundation.org/foundation-elects-new-officers-and-board-members/",
-      "title": "Haysmedfoundation",
-      "publisher": "Haysmedfoundation",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysMed Foundation: New officers](https://haysmedfoundation.org/foundation-elects-new-officers-and-board-members/)",
-        "[HaysMed Foundation: Officers](https://haysmedfoundation.org/foundation-elects-new-officers-and-board-members/)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0064",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/12/15/kansas-supreme-court-examines-roiling-water-dispute-between-crop-irrigators-and-hays-russell/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Supreme Court arguments](https://kansasreflector.com/2025/12/15/kansas-supreme-court-examines-roiling-water-dispute-between-crop-irrigators-and-hays-russell/)"
-      ]
-    },
-    {
-      "id": "src-shaun-musil-0065",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/c6a0184d-7e96-4157-ba49-d5e49a49e54c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Water bill awaits governor signature](https://hayspost.com/posts/c6a0184d-7e96-4157-ba49-d5e49a49e54c)"
-      ]
-    },
-    {
       "id": "src-shaun-musil-0114",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/64dd8115-641e-489a-970e-22ef124e2781",
@@ -1195,6 +1005,18 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
         "2021 re-election profile: Musil said the community cared even when it disagreed, described face-to-face constituent access at his business, defended North Vine roundabouts as safer for future growth, and said Hays must keep growing. Source: [Hays Post, Oct. 31",
         "[Hays Post - 2021 city commission candidates](https://hayspost.com/posts/64dd8115-641e-489a-970e-22ef124e2781)",
         "[Hays Post: 5 candidates vying](https://hayspost.com/posts/64dd8115-641e-489a-970e-22ef124e2781)"
+      ]
+    },
+    {
+      "id": "src-shaun-musil-0120",
+      "tier": "primary",
+      "url": "https://www.haysusa.com/273/Shaun-Musil",
+      "title": "Haysusa",
+      "publisher": "Haysusa",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "https://www.haysusa.com/273/Shaun-Musil",
+        "[haysusa.com](https://www.haysusa.com/273/Shaun-Musil)"
       ]
     }
   ]

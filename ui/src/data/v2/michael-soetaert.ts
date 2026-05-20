@@ -113,49 +113,18 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: Hays USD 489 Board of Education Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-michael-soetaert-0001",
-          "src-michael-soetaert-0002",
-          "src-michael-soetaert-0034"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-michael-soetaert-00716",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-michael-soetaert-0001"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00781",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-michael-soetaert-0002"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-03134",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.usd489.com/page/board-of-education\"",
-          "sourceIds": [
-            "src-michael-soetaert-0001"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: \"url\": \"https://www.ihm-church.com/\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-michael-soetaert-0035"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -166,9 +135,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
-          "src-michael-soetaert-0036",
-          "src-michael-soetaert-0037"
+          "s-campaign-home"
         ]
       },
       "actions": [
@@ -215,10 +182,8 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector - Announcement (Aug 2025) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-michael-soetaert-0040"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": [
@@ -238,40 +203,12 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric (May 13, 2025) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: The public alignment signal is more self-contained campaign infrastructure than cross-candidate amplification. The campaign site links voters to ActBlue, FEC, Kansas Secretary of State, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, and Threads, while the ActBlue page says, \"Michael Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate for United States Senate representing Kansas who is declared and fil... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-michael-soetaert-0043",
-          "src-michael-soetaert-0044",
-          "s-actblue",
-          "src-michael-soetaert-0042"
+          "s-actblue"
         ]
       },
-      "actions": [
-        {
-          "id": "em-michael-soetaert-01215",
-          "date": "Undated",
-          "body": "Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric (May 13, 2025)",
-          "sourceIds": [
-            "src-michael-soetaert-0043"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-01225",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas Insurance Commissioner Election 2026",
-          "sourceIds": [
-            "src-michael-soetaert-0044"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-02577",
-          "date": "Undated",
-          "body": "Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric",
-          "sourceIds": [
-            "src-michael-soetaert-0043"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-michael-soetaert-0005",
@@ -302,9 +239,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-actblue",
-          "src-michael-soetaert-0009",
-          "src-michael-soetaert-0015"
+          "s-actblue"
         ]
       },
       "actions": [
@@ -368,9 +303,6 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
         "sourceIds": [
           "src-michael-soetaert-0060",
           "s-kcur-guide",
-          "src-michael-soetaert-0065",
-          "src-michael-soetaert-0068",
-          "src-michael-soetaert-0069",
           "s-campaign-home"
         ]
       },
@@ -392,33 +324,17 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-michael-soetaert-00591",
-          "date": "Undated",
-          "body": "Ballotpedia - Kansas Senate 2026",
-          "sourceIds": [
-            "src-michael-soetaert-0065"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00601",
-          "date": "Undated",
-          "body": "Sharice Davids Senate Speculation (Jan 29, 2026)",
-          "sourceIds": [
-            "src-michael-soetaert-0068"
-          ]
-        },
-        {
-          "id": "em-michael-soetaert-00607",
-          "date": "Undated",
-          "body": "KCUR - Sharice Davids Discussion (Feb 24, 2026)",
-          "sourceIds": [
-            "src-michael-soetaert-0069"
-          ]
-        },
-        {
           "id": "em-michael-soetaert-00619",
           "date": "Undated",
           "body": "Michael Soetaert for Senate",
+          "sourceIds": [
+            "s-campaign-home"
+          ]
+        },
+        {
+          "id": "em-michael-soetaert-01031",
+          "date": "Undated",
+          "body": "Website: mikeforkansas.my.canva.site (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)",
           "sourceIds": [
             "s-campaign-home"
           ]
@@ -430,12 +346,8 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: USDA: KS State Director announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-michael-soetaert-0017",
-          "src-michael-soetaert-0093",
-          "src-michael-soetaert-0095"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": [
@@ -546,7 +458,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Michael Soetaert is profiled here for U.S. Senate as a Democratic. Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site descr... | s-douglas-candidate-export | primary | https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS | printed/accessed 2026-05-19 | County election-office export lists Michael \"Mike\" Soetaert (D), Wellington, U.S. Senator,... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 18 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: Abortion / life: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign financ... Abortion / life: Kansans voted for bodily autonomy - campaign site, n.d., https://mikeforkansas.my.canva.site/ (abortion reversal). Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 10 source-backed actions across 5 of the 14 issue areas. Representative public-record entries include: Abortion / life: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign financ... Abortion / life: Kansans voted for bodily autonomy - campaign site, n.d., https://mikeforkansas.my.canva.site/ (abortion reversal). Taxes / spending / debt: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure). Taxes / spending / debt: Website: mikeforkansas.my.canva.site (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "summary: Broad candidate-controlled online footprint, strongest post-level evidence on YouTube; profile metadata only on Instagram, Threads, and Bluesky; limited or blocked post access on Facebook, X, and TikTok.; platforms: platform: Campaign site; status: Active; sourceIds: s-campaign-home; platform: ActBlue; status: Active fundraising page; sourceIds: s-actblue; platform: YouTube; status: 30 visible videos captured 2026-05-11; sourceIds: s-youtube-channel; s-social-harvest-local; platform: Instagram; status: Public metadata only; 52 followers, 0 following, 205 posts at capture; sourceIds: s-instagram; platform: Threads; status: Public metadata only; 3 followers, 225 Threads at capture; sourceIds: s-threads; platform: Bluesky; status: Public metadata only; 22,749 followers, 2,380 following, 235 writes/posts at capture; sourceIds: s-bluesky; platform: Facebook / X / TikTok; status: Linked by campaign, but reliable post-level logged-out harvest was not available; sourceIds: s-social-harvest-local",
   "whereTheyWorship": "Public sources do not identify a current church affiliation for Soetaert. The available record describes him as Christian and references a Roman Catholic adoptive-family background, but no congregation or denomination is named in his current public materials.",
   "campaignFinance": {
@@ -558,6 +470,113 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
   },
   "socialResearchNote": "19 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
+    {
+      "id": "s-douglas-candidate-export",
+      "tier": "primary",
+      "url": "https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS",
+      "title": "2026 Primary Election Candidate Filing Information",
+      "publisher": "Douglas County, Kansas election office export",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "U.S. Senator listing includes Michael \"Mike\" Soetaert (D), Wellington",
+        "Filing date listed as 2025-06-23",
+        "Filing method listed as fee",
+        "Filed documents listed as filed with the State of Kansas",
+        "| s-douglas-candidate-export | primary | https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS | printed/accessed 2026-05-19 | County election-office export lists Michael \"Mike\" Soetaert (D), Wellington, U.S. Senator,"
+      ]
+    },
+    {
+      "id": "s-fec-candidate",
+      "tier": "primary",
+      "url": "https://www.fec.gov/data/candidate/S2KS00097/",
+      "title": "SOETAERT, MICHAEL - Candidate overview",
+      "publisher": "Federal Election Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Candidate for Senate, Kansas",
+        "Candidate ID S2KS00097",
+        "Democratic Party",
+        "Challenger",
+        "No 2025-2026 financial summary available at access",
+        "Current statement of candidacy FEC-1916441 filed 2025-09-22",
+        "| s-fec-candidate | primary | https://www.fec.gov/data/candidate/S2KS00097/ | accessed 2026-05-19 | FEC candidate ID, office, party, challenger status, no 2025-2026 financial summary, Form 2 filed 2025-09-22 | status, campaign finance |",
+        "FEC Page: [FEC Candidate S2KS00097](https://www.fec.gov/data/candidate/S2KS00097/)",
+        "[FEC: Michael Soetaert Candidate Page](https://www.fec.gov/data/candidate/S2KS00097/)",
+        "[FEC candidate page](https://www.fec.gov/data/candidate/S2KS00097/)",
+        "https://www.fec.gov/data/candidate/S2KS00097/",
+        "[FEC Candidate S2KS00097](https://www.fec.gov/data/candidate/S2KS00097/)"
+      ]
+    },
+    {
+      "id": "s-fec-form2",
+      "tier": "primary",
+      "url": "https://docquery.fec.gov/pdf/862/202509229790380862/202509229790380862.pdf",
+      "title": "FEC Form 2 - Statement of Candidacy",
+      "publisher": "Federal Election Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Candidate name Michael Soetaert",
+        "Office sought Senate",
+        "State KS",
+        "Party Democratic Party",
+        "Principal campaign committee Michael Soetaert for Senate",
+        "| s-fec-form2 | primary | https://docquery.fec.gov/pdf/862/202509229790380862/202509229790380862.pdf | filed 2025-09-22; accessed 2026-05-19 | Statement of candidacy; principal campaign committee \"Michael Soetaert for Senate\" | status |",
+        "\"url\": \"https://docquery.fec.gov/pdf/862/202509229790380862/202509229790380862.pdf\","
+      ]
+    },
+    {
+      "id": "s-wellington-resignation",
+      "tier": "primary",
+      "url": "https://www.cityofwellington.net/newsview.aspx?nid=6940",
+      "title": "Media Release: Wellington City Council Accepts Resignation of Council Member Michael \"Mike\" Soetaert",
+      "publisher": "City of Wellington",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Soetaert was a Wellington City Council member",
+        "Soetaert requested that his resignation be placed on the agenda on 2025-12-12",
+        "Council accepted the resignation on 2025-12-16",
+        "Resolution 6412 declared the seat vacant",
+        "City release states he was pursuing higher office",
+        "| s-wellington-resignation | primary | https://www.cityofwellington.net/newsview.aspx?nid=6940 | posted 2025-12-17; accessed 2026-05-19 | City Council accepted Soetaert resignation; Resolution 6412 declared vacancy; release says he was pursuing higher office |",
+        "[City of Wellington: Resignation press release](https://www.cityofwellington.net/newsview.aspx?nid=6940)"
+      ]
+    },
+    {
+      "id": "s-sos-2020-primary",
+      "tier": "primary",
+      "url": "https://www.sos.ks.gov/elections/20elec/2020_Primary_Official_Vote_Totals.pdf",
+      "title": "2020 Primary Election Official Vote Totals",
+      "publisher": "Kansas Secretary of State",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "2020 U.S. House Kansas District 1 Republican primary: R-Michael Soetaert received 5,756 votes, 4.77%",
+        "| s-sos-2020-primary | primary | https://www.sos.ks.gov/elections/20elec/2020_Primary_Official_Vote_Totals.pdf | accessed 2026-05-19 | 2020 KS-01 Republican primary: R-Michael Soetaert 5,756 votes, 4.77% | candidacy history |"
+      ]
+    },
+    {
+      "id": "s-sos-2022-primary",
+      "tier": "primary",
+      "url": "https://www.sos.ks.gov/elections/22elec/2022-Primary-Official-Vote-Totals.pdf",
+      "title": "2022 Primary Election Official Vote Totals",
+      "publisher": "Kansas Secretary of State",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "2022 U.S. Senate Democratic primary: D-Michael Soetaert received 9,464 votes, 3.55%",
+        "| s-sos-2022-primary | primary | https://www.sos.ks.gov/elections/22elec/2022-Primary-Official-Vote-Totals.pdf | accessed 2026-05-19 | 2022 Democratic U.S. Senate primary: D-Michael Soetaert 9,464 votes, 3.55% | candidacy history |"
+      ]
+    },
+    {
+      "id": "s-sos-2024-primary",
+      "tier": "primary",
+      "url": "https://www.sos.ks.gov/elections/24elec/2024-Primary-Official-Vote-Totals.pdf",
+      "title": "2024 Primary Election Official Vote Totals",
+      "publisher": "Kansas Secretary of State",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "2024 Kansas Senate District 32 Democratic primary: Michael \"Mike\" Soetaert received 366 votes, 32.50%",
+        "| s-sos-2024-primary | primary | https://www.sos.ks.gov/elections/24elec/2024-Primary-Official-Vote-Totals.pdf | accessed 2026-05-19 | 2024 Kansas Senate District 32 Democratic primary: Michael \"Mike\" Soetaert 366 votes, 32.50% | candidacy history |"
+      ]
+    },
     {
       "id": "s-campaign-home",
       "tier": "primary",
@@ -630,6 +649,80 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-instagram",
+      "tier": "social",
+      "url": "https://www.instagram.com/michael.soetaert1/",
+      "title": "@michael.soetaert1",
+      "publisher": "Instagram",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Profile metadata listed 52 followers, 0 following, and 205 posts",
+        "Profile text included tags for progressive Democrat, Kansas, gay, LGBTQIAP2S+, reproductive freedom, women's rights, and ERA",
+        "| s-instagram | social | https://www.instagram.com/michael.soetaert1/ | captured in local harvest 2026-05-11 | Public profile metadata, follower/post counts, bio tags | social, abortion, LGBTQ |",
+        "\"observation\": \"Instagram: https://www.instagram.com/michael.soetaert1/ public metadata in local harvest showed 52 followers, 0 following, and 205 posts, with bio tags for progressive Democrat, Kansas, gay, LGBTQIAP2S+, reproductive freedom, women's rights, an",
+        "\"Instagram: https://www.instagram.com/michael.soetaert1/ public metadata in local harvest showed 52 followers, 0 following, and 205 posts, with bio tags for progressive Democrat, Ka\"",
+        "The platform pattern was broad presence with uneven visibility. YouTube was the strongest post-level source, with [30 visible videos](social-harvest.md#youtube-videos). Instagram showed [\"52 Followers, 0 Following, 205 Posts\"](https://www.instagram.com/michael",
+        "| Instagram | [@michael.soetaert1](https://www.instagram.com/michael.soetaert1/) | Public profile metadata visible: 52 followers, 0 following, 205 posts. Individual post harvest was not available from the public HTML. |",
+        "[Instagram](https://www.instagram.com/michael.soetaert1/)",
+        "Instagram profile metadata as captured on 2026-05-11 said: [\"52 Followers, 0 Following, 205 Posts - See Instagram photos and videos from Michael Soetaert (@michael.soetaert1)\"](https://www.instagram.com/michael.soetaert1/)",
+        "The same Instagram metadata included this profile text: [\"#PROGRESSIVE #DEMOCRAT for United States Senate #KANSAS #GAY #LGBTQIAP2S+ #ReproductiveFreedom #WomensRights #ERA\"](https://www.instagram.com/michael.soetaert1/)",
+        "Instagram: https://www.instagram.com/michael.soetaert1/ public metadata in local harvest showed 52 followers, 0 following, and 205 posts, with bio tags for progressive Democrat, Kansas, gay, LGBTQIAP2S+, reproductive freedom, women's rights, and ERA. Individua"
+      ]
+    },
+    {
+      "id": "s-bluesky",
+      "tier": "social",
+      "url": "https://bsky.app/profile/michaelsoetaert.bsky.social",
+      "title": "@michaelsoetaert.bsky.social",
+      "publisher": "Bluesky",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Profile metadata listed 22,749 followers, 2,380 following, and 235 writes/posts",
+        "Profile description listed tags including U.S. Senate, LGBTQIAP2S+, Equality Act, Kansas, peace, SOGI, DEIA, women's rights, ERA, reproductive freedom, and vote.gov",
+        "| s-bluesky | social | https://bsky.app/profile/michaelsoetaert.bsky.social | captured in local harvest 2026-05-11 | Public profile metadata, account creation, follower/following/write counts, description tags | social, abortion, LGBTQ, peace |",
+        "Bluesky profile metadata as captured on 2026-05-11 listed the display name \"Michael Soetaert for United States Senate 2026 KS\" and the handle [michaelsoetaert.bsky.social](https://bsky.app/profile/michaelsoetaert.bsky.social). The public JSON-LD showed 22,749",
+        "| Bluesky | [@michaelsoetaert.bsky.social](https://bsky.app/profile/michaelsoetaert.bsky.social) | Public profile metadata visible: 22,749 followers, 2,380 following, 235 writes/posts; account created 2023-11-24. |",
+        "[Bluesky](https://bsky.app/profile/michaelsoetaert.bsky.social)",
+        "Bluesky: https://bsky.app/profile/michaelsoetaert.bsky.social public metadata in local harvest showed 22,749 followers, 2,380 following, 235 writes/posts, and account creation on Nov. 24, 2023. Post-level harvest was not available."
+      ]
+    },
+    {
+      "id": "s-votesmart",
+      "tier": "secondary",
+      "url": "https://justfacts.votesmart.org/candidate/biography/192430/michael-soetaert",
+      "title": "Michael Soetaert's Biography",
+      "publisher": "Vote Smart",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Full name Michael Soetaert",
+        "Birth place Wellington, Kansas",
+        "Home city Wellington, Kansas",
+        "Religion field lists Christian",
+        "Prior candidacies listed for Kansas Senate District 32, President, U.S. Senate Kansas, and U.S. House Kansas District 1",
+        "Priority issues field lists broad issue topics",
+        "| s-votesmart | secondary | https://justfacts.votesmart.org/candidate/biography/192430/michael-soetaert | accessed 2026-05-19 | Name, gender, birth place, home city, religion field, prior candidacies, priority issues field | biography, prior races, faith signa",
+        "[Vote Smart: Soetaert biography](https://justfacts.votesmart.org/candidate/biography/192430/michael-soetaert)"
+      ]
+    },
+    {
+      "id": "s-iola-2022",
+      "tier": "secondary",
+      "url": "https://www.iolaregister.com/news/candidate-eschews-in-person-campaign",
+      "title": "Candidate eschews in-person campaign",
+      "publisher": "The Iola Register",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Soetaert ran for U.S. Senate as a Democrat in 2022",
+        "Article says he was a former Republican who switched parties because of pandemic, Jan. 6, and LGBTQ issues",
+        "Article says he was the first openly gay candidate to run for a U.S. Senate seat from Kansas",
+        "Interview quotes discuss online/pandemic campaign and Equality Act outreach",
+        "| s-iola-2022 | secondary | https://www.iolaregister.com/news/candidate-eschews-in-person-campaign | published 2022-07-28; accessed 2026-05-19 | Interview on party switch, pandemic campaign, first openly gay Kansas U.S. Senate candidate distinction, Equality A",
+        "> -- The Iola Register, July 28, 2022, https://www.iolaregister.com/news/candidate-eschews-in-person-campaign",
+        "[iolaregister.com](https://www.iolaregister.com/news/candidate-eschews-in-person-campaign)",
+        "\"source\": \"The Iola Register, July 28, 2022, https://www.iolaregister.com/news/candidate-eschews-in-person-campaign\","
+      ]
+    },
+    {
       "id": "s-kcur-guide",
       "tier": "secondary",
       "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
@@ -654,155 +747,16 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-michael-soetaert-0001",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)",
-        "\"url\": \"https://www.usd489.com/page/board-of-education\""
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0002",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0009",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/elections/senate/KS/2026/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "FEC Race Page: [2026 Election - U.S. Senate - Kansas](https://www.fec.gov/data/elections/senate/KS/2026/)",
-        "[FEC: 2026 Kansas Senate Election](https://www.fec.gov/data/elections/senate/KS/2026/)",
-        "[FEC - 2026 Kansas Senate](https://www.fec.gov/data/elections/senate/KS/2026/)",
-        "[FEC.gov](https://www.fec.gov/data/elections/senate/KS/2026/)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0015",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/candidate/H6KS03258/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "FEC Filing: [FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)",
-        "[FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0017",
-      "tier": "primary",
-      "url": "https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas",
-      "title": "Rd.Usda",
-      "publisher": "Rd.Usda",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0034",
+      "id": "s-kofo-2025",
       "tier": "secondary",
-      "url": "https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
+      "url": "https://kofo.com/2025/10/31/mico-native-to-run-for-senate-2/",
+      "title": "MICO Native to Run for Senate",
+      "publisher": "KOFO Radio",
+      "accessed": "2026-05-19",
       "claimsAnchored": [
-        "[Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0035",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.ihm-church.com/\""
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0036",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0037",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0040",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector - Announcement (Aug 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)",
-        "[Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)",
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0042",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/) (Jan 10, 2026)",
-        "[Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0043",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/) (May 13, 2025)",
-        "[Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0044",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas Insurance Commissioner Election 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)"
+        "Spring Hill native Michael Soetaert filed to run for U.S. Senate in 2026",
+        "Report says he touted himself as the first openly gay candidate to run for U.S. Senate representing Kansas",
+        "| s-kofo-2025 | secondary | https://kofo.com/2025/10/31/mico-native-to-run-for-senate-2/ | published 2025-10-31; accessed 2026-05-19 | Spring Hill native; filed for U.S. Senate; first openly gay candidate framing | biography, LGBTQ |"
       ]
     },
     {
@@ -818,65 +772,6 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-michael-soetaert-0065",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia - Kansas Senate 2026](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)",
-        "[Ballotpedia: KS US Senate 2026](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)",
-        "[Ballotpedia: 2026 Kansas Senate Election](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0068",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Sharice Davids Senate Speculation (Jan 29, 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)",
-        "[Kansas Reflector - Davids Senate Speculation (Jan 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0069",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out",
-      "title": "Kcur",
-      "publisher": "Kcur",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KCUR - Sharice Davids Discussion (Feb 24, 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)",
-        "[KCUR - Davids Not Ruling It Out (Feb 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0093",
-      "tier": "secondary",
-      "url": "https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849",
-      "title": "Issuu",
-      "publisher": "Issuu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)"
-      ]
-    },
-    {
-      "id": "src-michael-soetaert-0095",
-      "tier": "secondary",
-      "url": "https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/",
-      "title": "Eenews",
-      "publisher": "Eenews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)"
-      ]
-    },
-    {
       "id": "src-michael-soetaert-0109",
       "tier": "social",
       "url": "https://www.youtube.com/watch?v=FvgZQTEDBac",
@@ -889,6 +784,41 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "src-michael-soetaert-0115",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=-SnGefBi50Y",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [REPRODUCTIVE RIGHTS](https://www.youtube.com/watch?v=-SnGefBi50Y) | Michael Soetaert for United States Senate representing Kansas REPRODUCTIVE RIGHTS michael-soetaert | 15 | 3mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0117",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=UNBOrjk9ZHY",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Audience response is easiest to measure on YouTube, because that platform exposed post titles, view counts, and date labels. The visible channel page showed [30 videos](social-harvest.md#youtube-videos) from roughly November 2025 through February 2026. The hig",
+        "| [about the BALLOT BOX](https://www.youtube.com/watch?v=UNBOrjk9ZHY) | Michael Soetaert for United States Senate representing Kansas: about the BALLOT BOX michael-soetaert | 1.5K | 4mo ago |",
+        "[about the BALLOT BOX](https://www.youtube.com/watch?v=UNBOrjk9ZHY): 1.5K views, 4mo ago."
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0118",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=NIMLrjxivVE",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [REGISTER TO VOTE NOW](https://www.youtube.com/watch?v=NIMLrjxivVE) | Michael Soetaert for United States Senate representing Kansas REGISTER TO VOTE NOW michael-soetaert | 16 | 3mo ago |"
+      ]
+    },
+    {
       "id": "src-michael-soetaert-0119",
       "tier": "social",
       "url": "https://www.youtube.com/watch?v=iB74LF3KHAc",
@@ -898,6 +828,297 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Kansas and local-place signals were present, but lighter than the national issue and self-definition signals. Visible YouTube titles named Wellington, Johnson and Sumner, affordability and safety, World Wheat Capital, and America's Breadbasket. Examples includ",
         "| [Wellington, Kansas](https://www.youtube.com/watch?v=iB74LF3KHAc) | Michael Soetaert for United States Senate in Wellington, Kansas michael-soetaert | 10 | 3mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0183",
+      "tier": "secondary",
+      "url": "https://secure.actblue.com/donate/michael-soetaert?refcode=directory",
+      "title": "Secure.Actblue",
+      "publisher": "Secure.Actblue",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[ActBlue donation page](https://secure.actblue.com/donate/michael-soetaert?refcode=directory)"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0184",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=H8ITpbgB_mA",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [IDENTITY POLITICS](https://www.youtube.com/watch?v=H8ITpbgB_mA) | Michael Soetaert for United States Senate representing Kansas IDENTITY POLITICS michael-soetaert | 28 | 3mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0185",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=0wKwUd_QZ3c",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [LET THERE BE PEACE](https://www.youtube.com/watch?v=0wKwUd_QZ3c) | Michael Soetaert for United States Senate representing Kansas LET THERE BE PEACE! michael-soetaert | 19 | 3mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0186",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=1F1rC4yKW1w",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [GOODE AND PRETTI](https://www.youtube.com/watch?v=1F1rC4yKW1w) | Michael Soetaert for United States Senate representing Kansas GOODE AND PRETTI michael-soetaert | 49 | 3mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0187",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=c6B4ZBfsy3w",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [TIME TO GET WOKE](https://www.youtube.com/watch?v=c6B4ZBfsy3w) | Michael Soetaert for United States Senate representing Kansas TIME TO GET WOKE! michael-soetaert | 873 | 3mo ago |",
+        "[TIME TO GET WOKE](https://www.youtube.com/watch?v=c6B4ZBfsy3w): 873 views, 3mo ago."
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0188",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=O0zEb4A-6Vw",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [HEART AND SOUL](https://www.youtube.com/watch?v=O0zEb4A-6Vw) | Michael Soetaert for United States Senate representing Kansas HEART AND SOUL michael-soetaert | 25 | 3mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0189",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=VKi7dcu82YU",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [CITIZENS UNITED](https://www.youtube.com/watch?v=VKi7dcu82YU) | Michael Soetaert for United States Senate representing Kansas: CITIZENS UNITED michael-soetaert | 6 | 3mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0190",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=0ErmYxgNAh8",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [THROWING A PITY PARTY](https://www.youtube.com/watch?v=0ErmYxgNAh8) | Michael Soetaert for United States Senate representing Kansas THROWING A PITY PARTY michael-soetaert | 25 | 3mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0191",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=EkCIOQ0M_T4",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [WHAT COULD I DO](https://www.youtube.com/watch?v=EkCIOQ0M_T4) | Michael Soetaert for United States Senate representing Kansas WHAT COULD I DO? michael-soetaert | 324 | 3mo ago |",
+        "[WHAT COULD I DO?](https://www.youtube.com/watch?v=EkCIOQ0M_T4): 324 views, 3mo ago."
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0192",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=SZ2aEiRgsCY",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [IT'S NOT ABOUT MONEY](https://www.youtube.com/watch?v=SZ2aEiRgsCY) | Michael Soetaert for United States Senate representing Kansas IT'S NOT ABOUT MONEY! michael-soetaert | 5 | 3mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0193",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=Pln_4wAS11M",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [CAMPAIGN COMPILATION](https://www.youtube.com/watch?v=Pln_4wAS11M) | Michael Soetaert for United States Senate representing Kansas CAMPAIGN COMPILATION Michael-soetaert | 13 | 3mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0194",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=EEgbFbJKvd8",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [TURN THE BEAT AROUND](https://www.youtube.com/watch?v=EEgbFbJKvd8) | Michael Soetaert for United States Senate representing Kansas TURN THE BEAT AROUND michael-soetaert | 2 | 3mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0195",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=KSuhhG4m2Ec",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [BROADCAST CLIPS](https://www.youtube.com/watch?v=KSuhhG4m2Ec) | Michael Soetaert for Senate BROADCAST CLIPS FOR MEDIA, PRESS & SOCIAL MEDIA USE michael-soetaert | 35 | 3mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0196",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=6QqqyFXgOs4",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [RETRACING GROUND](https://www.youtube.com/watch?v=6QqqyFXgOs4) | Michael Soetaert for United States Senate representing Kansas RETRACING GROUND michael-soetaert | 15 | 5mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0197",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=HjMDlsObmOw",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [VISIT OUR PROSHOP](https://www.youtube.com/watch?v=HjMDlsObmOw) | Michael Soetaert for United States Senate representing Kansas VISIT OUR PROSHOP michael-soetaert | 4 | 5mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0198",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=tI9wJlfEiMo",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [MYTH & LEGEND](https://www.youtube.com/watch?v=tI9wJlfEiMo) | Michael Soetaert for United States Senate representing Kansas MYTH & LEGEND michael-soetaert | 4 | 5mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0199",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=jYmGa1liz8E",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [CAMPAIGN COMPILATION](https://www.youtube.com/watch?v=jYmGa1liz8E) | Michael Soetaert for United States Senate representing Kansas CAMPAIGN COMPILATION michael-soetaert | 233 | 5mo ago |",
+        "[CAMPAIGN COMPILATION](https://www.youtube.com/watch?v=jYmGa1liz8E): 233 views, 5mo ago."
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0200",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=QfWP2-MzWds",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [JOHNSON & SUMNER](https://www.youtube.com/watch?v=QfWP2-MzWds) | Michael Soetaert for United States Senate representing Kansas JOHNSON & SUMNER michael-soetaert | 38 | 5mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0201",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=KWhuSNqLD2M",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [AFFORDABILITY SAFETY](https://www.youtube.com/watch?v=KWhuSNqLD2M) | Michael Soetaert for United States Senate representing Kansas AFFORDABILITY SAFETY michael-soetaert | 145 | 5mo ago |",
+        "[AFFORDABILITY SAFETY](https://www.youtube.com/watch?v=KWhuSNqLD2M): 145 views, 5mo ago."
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0202",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=9U_-fZa0AhE",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [WORLD WHEAT CAPITAL](https://www.youtube.com/watch?v=9U_-fZa0AhE) | Michael Soetaert for United States Senate representing Kansas WORLD WHEAT CAPITAL michael-soetaert | 11 | 5mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0203",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=Z2xGeJ0OMv8",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [LGBTQIAP2S+ SALT](https://www.youtube.com/watch?v=Z2xGeJ0OMv8) | Michael Soetaert for United States Senate representing Kansas LGBTQIAP2S+ SALT michael-soetaert | 228 | 6mo ago |",
+        "[LGBTQIAP2S+ SALT](https://www.youtube.com/watch?v=Z2xGeJ0OMv8): 228 views, 6mo ago."
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0204",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=kQySPyFM3Ec",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [AMERICA'S BREADBASKET](https://www.youtube.com/watch?v=kQySPyFM3Ec) | Michael Soetaert for United States Senate representing Kansas AMERICA'S BREADBASKET michael-soetaert | 11 | 6mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0205",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=Xri4Q6rdsEw",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [MINI CLIP COMPILATION](https://www.youtube.com/watch?v=Xri4Q6rdsEw) | Michael Soetaert for United States Senate representing Kansas MINI CLIP COMPILATION michael-soetaert | 12 | 6mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0206",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=4tOUvRSNHjQ",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [PLATFORM COMPILATION](https://www.youtube.com/watch?v=4tOUvRSNHjQ) | Michael Soetaert for United States Senate representing Kansas PLATFORM COMPILATION michael-soetaert | 8 | 6mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0207",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=IU-SW1iiWak",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [CAMPAIGN MINI CLIPS](https://www.youtube.com/watch?v=IU-SW1iiWak) | Michael Soetaert for United States Senate representing Kansas CAMPAIGN MINI CLIPS michael-soetaert | 30 | 6mo ago |"
+      ]
+    },
+    {
+      "id": "src-michael-soetaert-0208",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=SL1uIgTYR4Y",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| [FOLLOW SUBSCRIBE NOW](https://www.youtube.com/watch?v=SL1uIgTYR4Y) | Michael Soetaert for United States Senate representing Kansas FOLLOW SUBSCRIBE NOW michael-soetaert | 0 | 6mo ago |"
       ]
     }
   ]

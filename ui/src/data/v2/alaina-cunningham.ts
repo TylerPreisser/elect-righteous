@@ -40,70 +40,18 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-ellis-2023-results",
-          "src-alaina-cunningham-0038",
-          "src-alaina-cunningham-0002",
-          "src-alaina-cunningham-0003",
-          "src-alaina-cunningham-0037"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-alaina-cunningham-00044",
-          "date": "Undated",
-          "body": "https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION",
-          "sourceIds": [
-            "s-ellis-2023-results"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-00849",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-alaina-cunningham-0038"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-01548",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-alaina-cunningham-0002"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-01611",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-alaina-cunningham-0003"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-02494",
-          "date": "Undated",
-          "body": "Ellis County 2023 official city/school results PDF: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION",
-          "sourceIds": [
-            "s-ellis-2023-results"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-alaina-cunningham-0040",
-          "src-alaina-cunningham-0041",
-          "s-hayspost-election-2023",
-          "s-tigermedia-profile-2023"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -112,57 +60,10 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Budget and tax comments show a tradeoff-oriented style. She supported the city's 2026 revenue-neutral budget and told staff, \"You brought us a constrained budget which is what we asked for.\" (Hays Post) When state property-tax-relief ideas came before local officials, she warned that eliminating funding sources can just shift the burden. (Hays Post) In April 2026 budget-prep coverage, she said residents should under... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-hayspost-budget-2026",
-          "s-hayspost-budget-prep-2026",
-          "s-hays-term-description",
-          "src-alaina-cunningham-0006",
-          "src-alaina-cunningham-0051"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-alaina-cunningham-00008",
-          "date": "Undated",
-          "body": "Budget and tax comments show a tradeoff-oriented style. She supported the city's 2026 revenue-neutral budget and told staff, \"You brought us a constrained budget which is what we asked for.\" (Hays Post) When state property-tax-relief ideas came before local officials, she warned that eliminating funding sources can just shift the burden. (Hays Post) In April 2026 budget-prep coverage, she said residents should understand early that property-tax caps could affect city services and amenities. (Hays Post)",
-          "sourceIds": [
-            "s-hayspost-budget-2026"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-00091",
-          "date": "Undated",
-          "body": "Hays Post April 2026 budget-prep coverage: Cunningham said residents should know early that property-tax caps can affect city services and amenities. Source: https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb",
-          "sourceIds": [
-            "s-hayspost-budget-prep-2026"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-02495",
-          "date": "Undated",
-          "body": "City of Hays archived budget commission-term description: https://haysusa.com/Archive/ViewFile/Item/128",
-          "sourceIds": [
-            "s-hays-term-description"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-02563",
-          "date": "Undated",
-          "body": "City of Hays September 2025 minutes packet: budget hearing/vote, Cunningham vote, and public safety reminder. (source)",
-          "sourceIds": [
-            "src-alaina-cunningham-0006"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-02891",
-          "date": "Undated",
-          "body": "Hays Post: 2026 budget",
-          "sourceIds": [
-            "s-hayspost-budget-2026"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-alaina-cunningham-0007",
@@ -171,16 +72,6 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-qa-2023"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-alaina-cunningham-0008",
-          "platform": "hayspost.com",
-          "observation": "On budget and tax tradeoffs, she is visible as a constrained-budget voice. During 2026 budget approval, she told staff, \"You brought us a constrained budget which is what we asked for.\" (Hays Post, Sep. 12, 2025) When Rep. Barb Wasinger asked local officials for property-tax-relief ideas, Cunningham warned, \"When we eliminate sources of funding, we're just shifting the burden.\" (Hays Post, Dec. 20, 2025) In April 20...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-budget-2026"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
         },
@@ -203,6 +94,16 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
             "s-hayspost-budget-2026"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-alaina-cunningham-0011",
+          "platform": "hayspost.com",
+          "observation": "Hays Post December 2025 property-tax-relief discussion: quote about shifting burden when funding sources are eliminated. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-hayspost-property-tax-2025"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -210,30 +111,10 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Her development message is not simply pro-business in the abstract; it is tied to workforce, housing, and community scale. In November 2025, she said the economic benefit from Agiliti's expansion made the incentives valuable to the community. (Hays Post) In another incentives discussion, she agreed Hays is a desirable place but said conversations with developers showed that \"without incentives, we just can't get any... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-hayspost-agiliti-2025",
-          "s-hayspost-forum-2023"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-alaina-cunningham-00007",
-          "date": "Undated",
-          "body": "Her development message is not simply pro-business in the abstract; it is tied to workforce, housing, and community scale. In November 2025, she said the economic benefit from Agiliti's expansion made the incentives valuable to the community. (Hays Post) In another incentives discussion, she agreed Hays is a desirable place but said conversations with developers showed that \"without incentives, we just can't get anyone here.\" (Hays Post)",
-          "sourceIds": [
-            "s-hayspost-agiliti-2025"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-00084",
-          "date": "Undated",
-          "body": "Hays Post candidate forum, October 18, 2023: Housing and business development dominated the forum; Cunningham identified retaining young people as a top priority. Source: https://hayspost.com/posts/686c41a0-31e3-415a-8fdf-3df810e7f5be",
-          "sourceIds": [
-            "s-hayspost-forum-2023"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-alaina-cunningham-0017",
@@ -261,23 +142,10 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: ICE Bill Support -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-alaina-cunningham-0060",
-          "src-alaina-cunningham-0059",
-          "src-alaina-cunningham-0061"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-alaina-cunningham-00364",
-          "date": "Undated",
-          "body": "ICE Bill Support -- Hays Post",
-          "sourceIds": [
-            "src-alaina-cunningham-0060"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -286,8 +154,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "stated": {
         "text": "Reviewed evidence: HaysMed Center for Health Improvement page: lists Alaina Cunningham under group fitness instructors. Source: https://www.haysmed.com/services/chi-what-we-offer/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-haysmed-chi",
-          "src-alaina-cunningham-0064"
+          "s-haysmed-chi"
         ]
       },
       "actions": [],
@@ -308,24 +175,15 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate-stated evidence: The highest visible public attention metric is electoral, not social. Hays Post reported that Cunningham received 27 percent of the vote in November 2023 and won a four-year term. After the result, she said she was honored to be chosen and wanted to keep bettering Hays and \"doing good for Hays as a whole.\" (Hays Post) No verified post-level social engagement was visible in the public capture. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Cunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the commission elected Mason Ruder mayor and Cunningham vice mayor when the governing body reorganized on January 8, 2026. (City of Hays, Hays Post) Tiger Media Network reported that she and Ruder were not on the 2025 city ballot, confirming she remaine... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-election-2023",
           "s-hays-current-commission",
           "s-ellis-2026-filings",
-          "s-ellis-2023-results",
-          "s-hayspost-qa-2023"
+          "s-hayspost-qa-2023",
+          "s-kansas-campaign-data"
         ]
       },
       "actions": [
-        {
-          "id": "em-alaina-cunningham-00011",
-          "date": "Undated",
-          "body": "The highest visible public attention metric is electoral, not social. Hays Post reported that Cunningham received 27 percent of the vote in November 2023 and won a four-year term. After the result, she said she was honored to be chosen and wanted to keep bettering Hays and \"doing good for Hays as a whole.\" (Hays Post) No verified post-level social engagement was visible in the public capture.",
-          "sourceIds": [
-            "s-hayspost-election-2023"
-          ]
-        },
         {
           "id": "em-alaina-cunningham-00003",
           "date": "Undated",
@@ -343,14 +201,6 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-alaina-cunningham-00044",
-          "date": "Undated",
-          "body": "https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION",
-          "sourceIds": [
-            "s-ellis-2023-results"
-          ]
-        },
-        {
           "id": "em-alaina-cunningham-00079",
           "date": "Undated",
           "body": "Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipeline supply. Source: https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
@@ -364,6 +214,14 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "body": "Hays Post candidate Q&A, October 25, 2023: Cunningham tied growth to housing shortage, diversified housing, developer incentives, workforce, youth retention, retiree needs, and a possible new community center. Source: https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
           "sourceIds": [
             "s-hayspost-qa-2023"
+          ]
+        },
+        {
+          "id": "em-alaina-cunningham-00111",
+          "date": "Undated",
+          "body": "Kansas campaign-finance data portal: https://www.kansas.gov/campaign-finance/",
+          "sourceIds": [
+            "s-kansas-campaign-data"
           ]
         }
       ],
@@ -389,19 +247,19 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-alaina-cunningham-0022",
+          "id": "soc-alaina-cunningham-0023",
           "platform": "hayspost.com",
-          "observation": "Hays Post reported that on January 8, 2026, the commission reorganized after new commissioners were sworn in; the full commission voted to elect Mason Ruder mayor and Cunningham vice mayor. (Hays Post, Jan. 10, 2026) Tiger Media Network separately reported that Cunningham and Ruder were not up for election in the 2025 city election and that Cunningham was nominated and elected vice mayor. (Tiger Media Network, Jan....",
+          "observation": "After the November 2023 election, Hays Post reported that Cunningham received 27 percent of the vote and won a four-year term. She said she was \"Truly honored to be chosen by the voters\" and wanted to keep \"bettering our community\" and \"doing good for Hays as a whole.\" (Hays Post, Nov. 8, 2023)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-alaina-cunningham-0139"
+            "s-hayspost-election-2023"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-alaina-cunningham-0023",
+          "id": "soc-alaina-cunningham-0024",
           "platform": "hayspost.com",
-          "observation": "After the November 2023 election, Hays Post reported that Cunningham received 27 percent of the vote and won a four-year term. She said she was \"Truly honored to be chosen by the voters\" and wanted to keep \"bettering our community\" and \"doing good for Hays as a whole.\" (Hays Post, Nov. 8, 2023)",
+          "observation": "Hays Post election-night article: Cunningham elected to a four-year term with 27 percent of the vote and post-election quote. (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hayspost-election-2023"
@@ -414,62 +272,18 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Kansas Public Disclosure Commission campaign-finance overview: https://ethics.kansas.gov/campaign-finance/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Alaina works at HaysMed and serves on the HaysMed Foundation Board and Downtown Hays Development Corporation Board Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kpdc-campaign-finance",
-          "src-alaina-cunningham-0011",
-          "src-alaina-cunningham-0067",
-          "src-alaina-cunningham-0069",
-          "src-alaina-cunningham-0070"
+          "src-alaina-cunningham-0067"
         ]
       },
       "actions": [
-        {
-          "id": "em-alaina-cunningham-00112",
-          "date": "Undated",
-          "body": "Kansas Public Disclosure Commission campaign-finance overview: https://ethics.kansas.gov/campaign-finance/",
-          "sourceIds": [
-            "s-kpdc-campaign-finance"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-00113",
-          "date": "Undated",
-          "body": "Kansas Secretary of State campaign-finance filing overview: https://sos.ks.gov/elections/campaign-finance-ethics-filings.html",
-          "sourceIds": [
-            "src-alaina-cunningham-0011"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-00145",
-          "date": "Undated",
-          "body": "https://sos.ks.gov/elections/campaign-finance-ethics-filings.html",
-          "sourceIds": [
-            "src-alaina-cunningham-0011"
-          ]
-        },
         {
           "id": "em-alaina-cunningham-00434",
           "date": "Undated",
           "body": "Alaina works at HaysMed and serves on the HaysMed Foundation Board and Downtown Hays Development Corporation Board",
           "sourceIds": [
             "src-alaina-cunningham-0067"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-00440",
-          "date": "Undated",
-          "body": "Member, Ellis County Bar Association",
-          "sourceIds": [
-            "src-alaina-cunningham-0069"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-00445",
-          "date": "Undated",
-          "body": "Resuming Pot Cases -- Hays Post",
-          "sourceIds": [
-            "src-alaina-cunningham-0070"
           ]
         }
       ],
@@ -481,11 +295,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "stated": {
         "text": "Candidate-stated evidence: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-qa-2023",
-          "src-alaina-cunningham-0082",
-          "src-alaina-cunningham-0083",
-          "src-alaina-cunningham-0107",
-          "src-alaina-cunningham-0108"
+          "s-hayspost-qa-2023"
         ]
       },
       "actions": [
@@ -503,22 +313,6 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "body": "Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipeline supply. Source: https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
           "sourceIds": [
             "s-hayspost-qa-2023"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-01406",
-          "date": "Undated",
-          "body": "Kansas Reflector: Supreme Court arguments",
-          "sourceIds": [
-            "src-alaina-cunningham-0082"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-01413",
-          "date": "Undated",
-          "body": "Hays Post: Water bill awaits governor signature",
-          "sourceIds": [
-            "src-alaina-cunningham-0083"
           ]
         }
       ],
@@ -572,10 +366,8 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2023",
-          "s-hayspost-budget-2026",
-          "s-hayspost-budget-prep-2026",
           "s-hays-current-commission",
-          "s-hayspost-fireworks-2025"
+          "s-ellis-2026-filings"
         ]
       },
       "actions": [
@@ -585,22 +377,6 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "body": "Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post)",
           "sourceIds": [
             "s-hayspost-qa-2023"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-00008",
-          "date": "Undated",
-          "body": "Budget and tax comments show a tradeoff-oriented style. She supported the city's 2026 revenue-neutral budget and told staff, \"You brought us a constrained budget which is what we asked for.\" (Hays Post) When state property-tax-relief ideas came before local officials, she warned that eliminating funding sources can just shift the burden. (Hays Post) In April 2026 budget-prep coverage, she said residents should understand early that property-tax caps could affect city services and amenities. (Hays Post)",
-          "sourceIds": [
-            "s-hayspost-budget-2026"
-          ]
-        },
-        {
-          "id": "em-alaina-cunningham-00091",
-          "date": "Undated",
-          "body": "Hays Post April 2026 budget-prep coverage: Cunningham said residents should know early that property-tax caps can affect city services and amenities. Source: https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb",
-          "sourceIds": [
-            "s-hayspost-budget-prep-2026"
           ]
         },
         {
@@ -620,11 +396,19 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-alaina-cunningham-00010",
+          "id": "em-alaina-cunningham-00039",
           "date": "Undated",
-          "body": "On contentious local ordinances, her visible posture is consultative. During the fireworks survey discussion, she called fireworks a \"hot topic\" and asked residents to provide opinions so commissioners could understand what the broader community wanted. (Hays Post) In backyard-chickens coverage, she did not make a large ideological argument; she relayed that Cottonwood Extension could prepare educational materials on proper urban chicken care if the ordinance changed. (Hays Post)",
+          "body": "Primary source: https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings",
           "sourceIds": [
-            "s-hayspost-fireworks-2025"
+            "s-ellis-2026-filings"
+          ]
+        },
+        {
+          "id": "em-alaina-cunningham-00079",
+          "date": "Undated",
+          "body": "Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipeline supply. Source: https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
+          "sourceIds": [
+            "s-hayspost-qa-2023"
           ]
         }
       ],
@@ -636,16 +420,6 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-hays-current-commission"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-alaina-cunningham-0008",
-          "platform": "hayspost.com",
-          "observation": "On budget and tax tradeoffs, she is visible as a constrained-budget voice. During 2026 budget approval, she told staff, \"You brought us a constrained budget which is what we asked for.\" (Hays Post, Sep. 12, 2025) When Rep. Barb Wasinger asked local officials for property-tax-relief ideas, Cunningham warned, \"When we eliminate sources of funding, we're just shifting the burden.\" (Hays Post, Dec. 20, 2025) In April 20...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-budget-2026"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
@@ -677,9 +451,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipeline supply. Source: https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
         "sourceIds": [
-          "s-hayspost-qa-2023",
-          "s-hayspost-r9-2023",
-          "s-hayspost-r9-2025"
+          "s-hayspost-qa-2023"
         ]
       },
       "actions": [
@@ -696,8 +468,8 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Alaina Cunningham is profiled here for Hays Vice Mayor / City Commissioner as a nonpartisan incumbent/current official. Quality of life is usually framed through practical amenities rather than broad ideology. She has discussed parks, community center needs, retiree housing, youth retention, and resident-facing services. Hays Post quoted her on The Grove/community center issue... Primary source: https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 36 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION. Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. Sunflower State Journal: Kobach denounces vandalism at his church. Christian Post: Caleb Schwab attended church with family hours before death. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "recordSummary": "The rendered record now contains 14 source-backed actions across 5 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: Cunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the commission elected Mason Ruder... Election integrity / voting / courts: Primary source: https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings. Election integrity / voting / courts: Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipelin... Election integrity / voting / courts: Hays Post candidate Q&A, October 25, 2023: Cunningham tied growth to housing shortage, diversified housing, developer incentives, workforce, youth retention, retiree needs, and a possible new community... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "No clean online donor list, campaign-finance total, committee report, or itemized contribution record for Alaina Cunningham was located in reviewed public sources.",
     "narrative": "No clean online donor list, campaign-finance total, committee report, or itemized contribution record for Alaina Cunningham was located in reviewed public sources.",
@@ -705,7 +477,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "18 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "17 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-hays-current-commission",
@@ -742,33 +514,6 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-ellis-2023-results",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION",
-      "title": "Official Results - 2023 City/School General Election",
-      "publisher": "Ellis County, Kansas",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Official 2023 city/school election results are available from Ellis County",
-        "https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION",
-        "Ellis County 2023 official city/school results PDF: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION"
-      ]
-    },
-    {
-      "id": "s-hays-term-description",
-      "tier": "primary",
-      "url": "https://haysusa.com/Archive/ViewFile/Item/128",
-      "title": "City of Hays Budget - Commission Description",
-      "publisher": "City of Hays",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "The City of Hays description says three commissioners are elected at large every two years",
-        "The top two candidates receive four-year terms and the third candidate receives a two-year term",
-        "City of Hays archived budget commission-term description: https://haysusa.com/Archive/ViewFile/Item/128",
-        "https://haysusa.com/Archive/ViewFile/Item/128"
-      ]
-    },
-    {
       "id": "s-hayspost-qa-2023",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
@@ -791,26 +536,6 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
         "On water, Cunningham's own statements put R9 and long-term water supply in survival terms. In her 2023 Q&A, she said securing a sustainable water source was one of the top issues facing Hays and praised conservation and the R9 framework. ([Hays Post, Oct. 25,",
         "\"We are all aware how valuable water is to our area.\" ([Hays Post, Oct. 25, 2023](https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055))",
         "> -- Hays Post, October 25, 2023, https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055"
-      ]
-    },
-    {
-      "id": "s-tigermedia-profile-2023",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=75270",
-      "title": "Get to know the Hays City Commission candidates",
-      "publisher": "Tiger Media Network",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Cunningham said she moved to Hays in August 2010",
-        "Cunningham described herself as a practicing registered nurse and group fitness instructor",
-        "Cunningham listed Downtown Hays, HaysMed Foundation, Hays High Academic Booster Club, and O'Loughlin PTA involvement",
-        "[Tiger Media Network: Get to know the Hays City Commission candidates](https://tigermedianet.com/?p=75270)",
-        "Tiger Media candidate profile: Cunningham said she moved to Hays in August 2010, has three children, and is a practicing registered nurse and group fitness instructor. Source: https://tigermedianet.com/?p=75270",
-        "[Tiger Media Network: Get to know candidates](https://tigermedianet.com/?p=75270)",
-        "Tiger Media candidate profile: https://tigermedianet.com/?p=75270",
-        "[Tiger Media Network: Commission candidates](https://tigermedianet.com/?p=75270)",
-        "Tiger Media Network's 2023 candidate feature repeats the service frame and adds biography: she moved to Hays in August 2010, raised three children in the city, works as a registered nurse and group fitness instructor, and has served with Downtown Hays Developm",
-        "Tiger Media candidate profile: biography, Hays residency, family, RN/group fitness role, civic involvement, and run rationale. ([source](https://tigermedianet.com/?p=75270))"
       ]
     },
     {
@@ -850,19 +575,6 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-hayspost-r9-2023",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/9c981d45-80ed-4135-b051-8be7b0481957",
-      "title": "Water sampling, wellfield design for Hays' R9 Ranch to begin in new year",
-      "publisher": "Hays Post",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Cunningham asked how many property owners would need to be worked with along the R9 pipeline",
-        "Hays Post, November 15, 2023: Cunningham asked how many property owners would need to be worked with along the 67-mile R9 pipeline. Source: https://hayspost.com/posts/9c981d45-80ed-4135-b051-8be7b0481957",
-        "Hays Post R9 wellfield story: https://hayspost.com/posts/9c981d45-80ed-4135-b051-8be7b0481957"
-      ]
-    },
-    {
       "id": "s-hayspost-r9-2025",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/72cef8d3-79bf-4085-b070-bccbdc589f9d",
@@ -897,6 +609,21 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-property-tax-2025",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9",
+      "title": "Local officials discuss property-tax-relief ideas",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Cunningham warned that eliminating funding sources can shift the burden",
+        "Hays Post property-tax-relief discussion: Cunningham warned, \"When we eliminate sources of funding, we're just shifting the burden.\" Source: https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9",
+        "Hays Post property-tax-relief discussion: https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9",
+        "Hays Post December 2025 property-tax-relief discussion: quote about shifting burden when funding sources are eliminated. ([source](https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9))",
+        "\"When we eliminate sources of funding, we're just shifting the burden.\" ([Hays Post, Dec. 20, 2025](https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9))"
+      ]
+    },
+    {
       "id": "s-hayspost-budget-prep-2026",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb",
@@ -908,40 +635,6 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
         "Hays Post April 2026 budget-prep coverage: Cunningham said residents should know early that property-tax caps can affect city services and amenities. Source: https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb",
         "Hays Post April 2026 budget-prep story: quote on property-tax caps, city impacts, amenities, and early public awareness. ([source](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb))",
         "\"While it's great to cap your property taxes, it's going to affect the city in other ways.\" ([Hays Post, Apr. 6, 2026](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb))"
-      ]
-    },
-    {
-      "id": "s-hayspost-agiliti-2025",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/4d49c8ec-b445-4b28-a49c-d154c709104f",
-      "title": "Hays commission discusses Agiliti incentives",
-      "publisher": "Hays Post",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Cunningham said the economic benefit from Agiliti's expansion made incentives valuable to the community",
-        "Her development message is not simply pro-business in the abstract; it is tied to workforce, housing, and community scale. In November 2025, she said the economic benefit from Agiliti's expansion made the incentives valuable to the community. ([Hays Post](http",
-        "Hays Post Agiliti incentives, November 2025: Cunningham said the economic benefit from Agiliti's expansion made the incentive valuable to the community. Source: https://hayspost.com/posts/4d49c8ec-b445-4b28-a49c-d154c709104f",
-        "Hays Post Agiliti incentives: https://hayspost.com/posts/4d49c8ec-b445-4b28-a49c-d154c709104f",
-        "Hays Post November 2025 development story: quote supporting Agiliti incentive value. ([source](https://hayspost.com/posts/4d49c8ec-b445-4b28-a49c-d154c709104f))"
-      ]
-    },
-    {
-      "id": "s-hayspost-fireworks-2025",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/26608269-25e1-4f29-b80f-d2edbb3bba3d",
-      "title": "Hays seeks resident feedback on fireworks",
-      "publisher": "Hays Post",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Cunningham called fireworks a hot topic and asked residents to provide feedback",
-        "On contentious local ordinances, her visible posture is consultative. During the fireworks survey discussion, she called fireworks a \"hot topic\" and asked residents to provide opinions so commissioners could understand what the broader community wanted. ([Hays",
-        "On resident consultation and local ordinance issues, her public remarks are procedural. During a 2025 fireworks survey discussion, she said fireworks are a \"hot topic\" and asked residents to give opinions so commissioners could better understand what the commu",
-        "Hays Post fireworks survey: Cunningham called fireworks a \"hot topic\" and asked residents to provide feedback. Source: https://hayspost.com/posts/26608269-25e1-4f29-b80f-d2edbb3bba3d",
-        "\"Fireworks is always a hot topic.\" Source: Hays Post, 2025-05-10, https://hayspost.com/posts/26608269-25e1-4f29-b80f-d2edbb3bba3d, topic: public opinion on fireworks.",
-        "> -- Hays Post, May 10, 2025, https://hayspost.com/posts/26608269-25e1-4f29-b80f-d2edbb3bba3d",
-        "Hays Post fireworks survey: https://hayspost.com/posts/26608269-25e1-4f29-b80f-d2edbb3bba3d",
-        "Hays Post fireworks survey story and Post Podcast listing: quote asking residents to provide feedback on fireworks. ([story](https://hayspost.com/posts/26608269-25e1-4f29-b80f-d2edbb3bba3d), [podcast listing](https://www.podbean.com/media/share/pb-h6vqq-18a460",
-        "\"Fireworks is always a hot topic.\" ([Hays Post, May 10, 2025](https://hayspost.com/posts/26608269-25e1-4f29-b80f-d2edbb3bba3d))"
       ]
     },
     {
@@ -960,162 +653,28 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-kpdc-campaign-finance",
+      "id": "s-downtown-hays-board",
+      "tier": "secondary",
+      "url": "https://www.downtownhays.com/staff-and-board",
+      "title": "Staff & Board",
+      "publisher": "Downtown Hays Development Corporation",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Downtown Hays lists Alaina Cunningham as a 2023 emeritus board member",
+        "Downtown Hays board page: lists Alaina Cunningham as a 2023 emeritus board member. Source: https://www.downtownhays.com/staff-and-board",
+        "Downtown Hays Staff & Board: https://www.downtownhays.com/staff-and-board"
+      ]
+    },
+    {
+      "id": "s-kansas-campaign-data",
       "tier": "primary",
-      "url": "https://ethics.kansas.gov/campaign-finance/",
-      "title": "Campaign Finance",
+      "url": "https://www.kansas.gov/campaign-finance/",
+      "title": "Campaign Finance Data",
       "publisher": "Kansas Public Disclosure Commission",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "KPDC guidance says local candidates file appointment-of-treasurer forms with the county clerk or county election commissioner",
-        "Kansas Public Disclosure Commission campaign-finance overview: https://ethics.kansas.gov/campaign-finance/"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0002",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0003",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0006",
-      "tier": "primary",
-      "url": "https://haysusa.com/AgendaCenter/ViewFile/Agenda/_09252025-1571",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "City of Hays September 2025 minutes packet: budget hearing/vote, Cunningham vote, and public safety reminder. ([source](https://haysusa.com/AgendaCenter/ViewFile/Agenda/_09252025-1571))"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0011",
-      "tier": "primary",
-      "url": "https://sos.ks.gov/elections/campaign-finance-ethics-filings.html",
-      "title": "Sos.Ks",
-      "publisher": "Sos.Ks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Kansas Secretary of State campaign-finance filing overview: https://sos.ks.gov/elections/campaign-finance-ethics-filings.html",
-        "https://sos.ks.gov/elections/campaign-finance-ethics-filings.html"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0037",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0038",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0040",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0041",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)",
-        "\"url\": \"https://www.ihm-church.com/\","
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0051",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/7da8e265-e8c0-45c8-9f5d-0fb799fb1d3f",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Quality of life is usually framed through practical amenities rather than broad ideology. She has discussed parks, community center needs, retiree housing, youth retention, and resident-facing services. Hays Post quoted her on The Grove/community center issue",
-        "\"You need every generation to make a community work.\" ([Hays Post](https://hayspost.com/posts/7da8e265-e8c0-45c8-9f5d-0fb799fb1d3f))"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0059",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ICE Agreement Explained -- Hays Post](https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6)"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0060",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ICE Bill Support -- Hays Post](https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07)"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0061",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0064",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
+        "Kansas campaign-finance data portal did not surface a clean online Alaina Cunningham donor record in this pass",
+        "Kansas campaign-finance data portal: https://www.kansas.gov/campaign-finance/"
       ]
     },
     {
@@ -1131,85 +690,38 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-alaina-cunningham-0069",
+      "id": "src-alaina-cunningham-0080",
       "tier": "secondary",
-      "url": "https://www.elliscountyksbar.org/members",
-      "title": "Elliscountyksbar",
-      "publisher": "Elliscountyksbar",
+      "url": "https://www.haysmed.com/the-center/alaina-cunningham/",
+      "title": "Haysmed",
+      "publisher": "Haysmed",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Member, [Ellis County Bar Association](https://www.elliscountyksbar.org/members)",
-        "[Ellis County Bar Association](https://www.elliscountyksbar.org/members)"
+        "[HaysMed: Alaina Cunningham](https://www.haysmed.com/the-center/alaina-cunningham/)"
       ]
     },
     {
-      "id": "src-alaina-cunningham-0070",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "id": "src-alaina-cunningham-0213",
+      "tier": "social",
+      "url": "https://www.facebook.com/alaina.cunningham.9/",
+      "title": "Facebook",
+      "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Resuming Pot Cases -- Hays Post](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)",
-        "[HaysPost: New Ellis County Attorney](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)"
+        "Facebook: [Alaina Cunningham](https://www.facebook.com/alaina.cunningham.9/)",
+        "| Personal Facebook | https://www.facebook.com/alaina.cunningham.9/ | FOUND, LIMITED | Existing project source list and public people-search/indexed results point to a personal Facebook profile. Logged-out direct fetch was not accessible and no public campaign"
       ]
     },
     {
-      "id": "src-alaina-cunningham-0082",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/12/15/kansas-supreme-court-examines-roiling-water-dispute-between-crop-irrigators-and-hays-russell/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
+      "id": "src-alaina-cunningham-0214",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/alaina-cunningham-4436ba1/",
+      "title": "Linkedin",
+      "publisher": "Linkedin",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Supreme Court arguments](https://kansasreflector.com/2025/12/15/kansas-supreme-court-examines-roiling-water-dispute-between-crop-irrigators-and-hays-russell/)"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0083",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/c6a0184d-7e96-4157-ba49-d5e49a49e54c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Water bill awaits governor signature](https://hayspost.com/posts/c6a0184d-7e96-4157-ba49-d5e49a49e54c)"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0107",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Water, retail, housing top issues](https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c)"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0108",
-      "tier": "secondary",
-      "url": "https://municipalwaterleader.com/guaranteeing-the-water-supply-of-hays-kansas-through-conservation-reuse-and-new-supplies/",
-      "title": "Municipalwaterleader",
-      "publisher": "Municipalwaterleader",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Municipal Water Leader Magazine](https://municipalwaterleader.com/guaranteeing-the-water-supply-of-hays-kansas-through-conservation-reuse-and-new-supplies/)"
-      ]
-    },
-    {
-      "id": "src-alaina-cunningham-0139",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Hays Post reported that on January 8, 2026, the commission reorganized after new commissioners were sworn in; the full commission voted to elect Mason Ruder mayor and Cunningham vice mayor. ([Hays Post, Jan. 10, 2026](https://hayspost.com/posts/21208822-3905-4",
-        "[Hays Post: New governing body 2026](https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08)",
-        "Hays Post January 2026 reorganization coverage: https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08",
-        "Hays Post January 2026 reorganization story: commission elected Ruder mayor and Cunningham vice mayor. ([source](https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08))"
+        "LinkedIn: [Alaina Cunningham](https://www.linkedin.com/in/alaina-cunningham-4436ba1/)",
+        "[Alaina Cunningham](https://www.linkedin.com/in/alaina-cunningham-4436ba1/)"
       ]
     }
   ]

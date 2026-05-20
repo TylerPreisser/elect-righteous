@@ -36,7 +36,6 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-tigermedia-bathrooms-2026",
-          "src-ken-brooks-0018",
           "s-hayspost-bathrooms-2026"
         ]
       },
@@ -55,14 +54,6 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           "body": "On contentious high-school bathroom and vandalism discussions, Brooks' visible remarks are less about bathroom design itself and more about process, data, and treatment of administrators. In April 2026 coverage, he challenged Allen Park's claim about Hays High having the highest percentage of single-stall bathrooms in the state, saying, \"You make up data,\" and then said administrators should not feel attacked or that it is \"us versus them.\" Hays Post separately quoted Brooks saying the board had discussed the issu...",
           "sourceIds": [
             "s-tigermedia-bathrooms-2026"
-          ]
-        },
-        {
-          "id": "em-ken-brooks-00997",
-          "date": "Undated",
-          "body": "Hays USD 489 board members question parental rights in emergency policy revision",
-          "sourceIds": [
-            "src-ken-brooks-0018"
           ]
         },
         {
@@ -114,8 +105,9 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
-          "s-hayspost-brooks-qa-2021",
-          "s-tigermedia-bathrooms-2026"
+          "s-tigermedia-bathrooms-2026",
+          "src-ken-brooks-0002",
+          "src-ken-brooks-0003"
         ]
       },
       "actions": [
@@ -136,27 +128,11 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-ken-brooks-00005",
-          "date": "Undated",
-          "body": "He also repeatedly talks about direct family costs. In 2021, he called high enrollment costs the most negative thing about USD 489 and said they put hardship on many families. In 2025, he returned to the same issue, saying it cost him $1,000 to enroll three children when his oldest was a senior and that the board had lowered fees in most years since he joined. (Hays Post 2021, Hays Post 2025)",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2021"
-          ]
-        },
-        {
           "id": "em-ken-brooks-00008",
           "date": "Undated",
           "body": "On budget, he argues the district has been responsible while acknowledging uncertain outside funding. Brooks said he believed USD 489 was adequately managing its budget and that critics had not shown the district to be irresponsible. He also said national and state conditions were uncertain, that the board needed proven leadership, and that special education had never been fully funded by the state. (Hays Post)",
           "sourceIds": [
             "s-hayspost-brooks-qa-2025"
-          ]
-        },
-        {
-          "id": "em-ken-brooks-00009",
-          "date": "Undated",
-          "body": "His older 2021 profile shows the same mix of facilities, costs, and community relations. Brooks said he opposed the 2016 bond but supported the 2017 version because he thought it better matched district needs. He said future facilities work should include classroom updates, new administrative offices, and a new auditorium, and that maintenance outside a bond would require community involvement and information. He also said board unity mattered and that good decisions require listening to other points of view. (Hay...",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2021"
           ]
         },
         {
@@ -190,22 +166,12 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-ken-brooks-0012",
-          "platform": "Facebook",
-          "observation": "https://www.facebook.com/Ken-Brooks-for-Hays-USD-489-School-Board-106283281672831/ (numeric-ID page, likely the original 2021-cycle campaign page)",
+          "id": "soc-ken-brooks-0011",
+          "platform": "LinkedIn",
+          "observation": "The accessible social footprint is thin. A LinkedIn public preview identifies Allen Ken Brooks in Hays with Insurance Planning, Inc., University of Central Oklahoma, CSP and CFPS credentials, 234 followers, and 238 connections, but the visible activity snippets are limited and do not provide a reliable school-board campaign post inventory. A GoodParty.org candidate shell exists, but it says Brooks had not filled out...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-fb-brooks-numeric"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-ken-brooks-0013",
-          "platform": "Facebook",
-          "observation": "Facebook — *Ken Brooks for Hays USD 489 School Board (numeric-ID page)* — https://www.facebook.com/Ken-Brooks-for-Hays-USD-489-School-Board-106283281672831/ — accessed 2026-05-20 — preliminary tier: social (presence only; content gated)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-fb-brooks-numeric"
+            "src-ken-brooks-0116"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         }
@@ -215,57 +181,11 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: His faith and civic-service statements are visible but not campaign-social. In the 2021 profile, Brooks listed Kiwanis, helping lead children's ministry at Celebration Community Church for almost 14 years, and coordinating the Thanksgiving Community Food Drive with ECMA and First Call For Help since 2008. The current Celebration Community Church Hays campus page confirms the Hays campus context and its public missio... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-hayspost-brooks-qa-2021",
-          "src-ken-brooks-0083",
-          "src-ken-brooks-0084",
-          "src-ken-brooks-0050"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-ken-brooks-0004",
-          "platform": "hayspost.com",
-          "observation": "His faith and civic-service statements are visible but not campaign-social. In the 2021 profile, Brooks listed Kiwanis, helping lead children's ministry at Celebration Community Church for almost 14 years, and coordinating the Thanksgiving Community Food Drive with ECMA and First Call For Help since 2008. The current Celebration Community Church Hays campus page confirms the Hays campus context and its public missio...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2021"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-ken-brooks-0005",
-          "platform": "Facebook",
-          "observation": "Ongoing (self-attested 2021; church confirmed active 2026) — Hays Post candidate profile + Celebration Community Church Hays campus page — Brooks publicly identified Celebration Community Church (Hays campus, 5790 230th Ave) as his worship community and stated he had helped lead the church's children's ministry for \"almost 14 years\" as of October 2021 (now ~19 years if continuous). The church's Hays campus page is p...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2021"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-ken-brooks-0044",
-          "platform": "hayspost.com",
-          "observation": "The 2021 Hays Post profile adds older but still relevant self-description. Brooks listed Kiwanis, nearly 14 years helping lead children's ministry at Celebration Community Church, and coordination of the Thanksgiving Community Food Drive with ECMA and First Call For Help since 2008. He supported the 2017 bond after opposing the 2016 version, wanted needed facility improvements, emphasized community information, and...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2021"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-ken-brooks-0045",
-          "platform": "hayspost.com",
-          "observation": "Hays Post 2021 candidate profile: community involvement, church/ministry, food drive, bond views, board unity, COVID mitigation, PAC/outside money answer, enrollment costs. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2021"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
@@ -274,9 +194,8 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Facilities and the bond program are central to his own account of why he ran again. Brooks said that when he first ran, he did not have an agenda \"so much,\" but he did want the bond passed. By 2025, he pointed to the new high school opening, remaining bond projects, O'Loughlin work, and the five-year capital outlay plan as evidence that the district was staying on track. He said the capital outlay plan helps the boa... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
-          "src-ken-brooks-0057",
-          "src-ken-brooks-0058",
-          "src-ken-brooks-0038"
+          "src-ken-brooks-0038",
+          "s-hayspost-bathrooms-2026"
         ]
       },
       "actions": [
@@ -305,27 +224,27 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-ken-brooks-00994",
-          "date": "Undated",
-          "body": "Board member questions Hays USD 489 bond budget",
-          "sourceIds": [
-            "src-ken-brooks-0057"
-          ]
-        },
-        {
-          "id": "em-ken-brooks-00995",
-          "date": "Undated",
-          "body": "Hays USD 489 board scrutinizes bond budget",
-          "sourceIds": [
-            "src-ken-brooks-0058"
-          ]
-        },
-        {
           "id": "em-ken-brooks-01246",
           "date": "Undated",
           "body": "There hasn't been anything where our school district has proven they're not responsible with their budget. - Hays Post candidate Q&A, 2025; https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d",
           "sourceIds": [
             "src-ken-brooks-0038"
+          ]
+        },
+        {
+          "id": "em-ken-brooks-01329",
+          "date": "2025-10-16",
+          "body": "2025-10-16 — Hays Post (candidate Q&A, first-person attributed) — Brooks said: *\"There hasn't been anything where our school district has proven they're not responsible with their budget,\"* and committed *\"I hope to keep us on track as we finish the bond project.\"* He cited the new high school, O'Loughlin Elementary, and the five-year capital outlay plan as track-record. (Hays Post Q&A; post-election repeat: Hays Post)",
+          "sourceIds": [
+            "s-hayspost-brooks-qa-2025"
+          ]
+        },
+        {
+          "id": "em-ken-brooks-01339",
+          "date": "2026-04-22",
+          "body": "2026-04-22 (April 2026 board meeting on bathrooms/vandalism at new HHS) — Hays Post and Tiger Media Network — Brooks said, on the record to fellow board member Allen Park during an exchange about Hays High bathroom design and vandalism: *\"We've had this discussion many times in the past, and you keep saying the same things, over and over and over, and they have been answered for you,\"* and *\"The administrators just felt all of them attacked. We don't micromanage. That's not our job here on the board, so they shoul...",
+          "sourceIds": [
+            "s-hayspost-bathrooms-2026"
           ]
         }
       ],
@@ -396,21 +315,30 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: KSHB: Former Kansas governor volunteers on medical mission in Ukraine Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Contact page confirms: Insurance Planning - A. Ken Brooks Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-ken-brooks-0092",
           "src-ken-brooks-0093"
         ]
       },
       "actions": [],
       "socialSignals": [
         {
-          "id": "soc-ken-brooks-0045",
-          "platform": "hayspost.com",
-          "observation": "Hays Post 2021 candidate profile: community involvement, church/ministry, food drive, bond views, board unity, COVID mitigation, PAC/outside money answer, enrollment costs. (source)",
+          "id": "soc-ken-brooks-0011",
+          "platform": "LinkedIn",
+          "observation": "The accessible social footprint is thin. A LinkedIn public preview identifies Allen Ken Brooks in Hays with Insurance Planning, Inc., University of Central Oklahoma, CSP and CFPS credentials, 234 followers, and 238 connections, but the visible activity snippets are limited and do not provide a reliable school-board campaign post inventory. A GoodParty.org candidate shell exists, but it says Brooks had not filled out...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-hayspost-brooks-qa-2021"
+            "src-ken-brooks-0116"
+          ],
+          "mappedToIssueId": "i-health-care-insurance-medicaid"
+        },
+        {
+          "id": "soc-ken-brooks-0026",
+          "platform": "LinkedIn",
+          "observation": "LinkedIn public preview confirms professional identity but exposes only limited non-campaign activity. It lists Allen Ken Brooks in Hays, Kansas, with Insurance Planning, Inc.; University of Central Oklahoma; CSP and CFPS credentials; 234 followers; 238 connections; and activity snippets that appear to be likes rather than school-board platform posts. (LinkedIn preview)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-ken-brooks-0116"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
@@ -423,11 +351,9 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Hays Post — *USD 489 candidate Q&A: Ken Brooks (2025-10-16)* — https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
-          "s-hayspost-brooks-qa-2021",
           "src-ken-brooks-0003",
-          "s-usd489-boarddocs",
-          "src-ken-brooks-0041",
-          "src-ken-brooks-0009"
+          "s-tigermedia-felten-gmp-2026",
+          "s-tigermedia-admin-contracts-2026"
         ]
       },
       "actions": [
@@ -440,43 +366,11 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-ken-brooks-00222",
-          "date": "2021-10-20",
-          "body": "Hays Post — *USD 489 candidate profile: Ken Brooks (2021-10-20)* — https://hayspost.com/posts/2613aaa8-8055-4feb-9a79-d1b5479babca",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2021"
-          ]
-        },
-        {
           "id": "em-ken-brooks-00230",
           "date": "Undated",
           "body": "Ellis County Clerk Filings page (https://www.ellisco.net/626/Candidate-Filings): exposes only a 2026 general candidate-filings document. Historic affidavits and any itemized 2021/2025 reports are not posted on the public web; would require in-person or FOIA-style request to the Ellis County Clerk's office. Recommended downstream action: operator may call the Ellis County Clerk at 785-628-9410 (https://www.ellisco.net/93/Clerk) to confirm Brooks's filing posture for both cycles. Not a halt-blocker for v2 IssueCard...",
           "sourceIds": [
             "src-ken-brooks-0003"
-          ]
-        },
-        {
-          "id": "em-ken-brooks-00302",
-          "date": "Undated",
-          "body": "description: USD 489 BoardDocs portal (every URL form: https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic, …/Board.nsf/Public, https://www.boarddocs.com/ks/usd489/Board.nsf, and a specific item deep-link …/Board.nsf/goto?open=&id=BHXSFC6C436A) returns HTTP 403 to non-browser fetches. Per IDENTITY.md commitment #1, primary-tier voting records, agenda packets, and roll-call minutes are the preferred citation tier; per the v2 schema, Source.tier === \"primary\" is the desired anchoring for ActionEvidence. The primary...",
-          "sourceIds": [
-            "s-usd489-boarddocs"
-          ]
-        },
-        {
-          "id": "em-ken-brooks-00376",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas State Board of Education election, 2026",
-          "sourceIds": [
-            "src-ken-brooks-0041"
-          ]
-        },
-        {
-          "id": "em-ken-brooks-00442",
-          "date": "Undated",
-          "body": "Ellis County Clerk (elections): 785-628-9410 | ellisco.net/425/Election",
-          "sourceIds": [
-            "src-ken-brooks-0009"
           ]
         }
       ],
@@ -527,33 +421,13 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint",
+        "text": "Documented public evidence: Board member calls out fellow member after repeated no votes",
         "sourceIds": [
-          "src-ken-brooks-0051",
-          "src-ken-brooks-0052",
           "s-hayspost-asbestos-hms-vote",
-          "src-ken-brooks-0038",
-          "src-ken-brooks-0055",
-          "src-ken-brooks-0066"
+          "src-ken-brooks-0038"
         ]
       },
       "actions": [
-        {
-          "id": "em-ken-brooks-00637",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-ken-brooks-0051"
-          ]
-        },
-        {
-          "id": "em-ken-brooks-00928",
-          "date": "Undated",
-          "body": "Hays school board approves HHS, Roosevelt contract; discussion heated",
-          "sourceIds": [
-            "src-ken-brooks-0052"
-          ]
-        },
         {
           "id": "em-ken-brooks-00955",
           "date": "Undated",
@@ -569,22 +443,6 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-ken-brooks-0038"
           ]
-        },
-        {
-          "id": "em-ken-brooks-00974",
-          "date": "Undated",
-          "body": "Hays USD 489 BOE votes to change Hays Middle School mascot to Indians",
-          "sourceIds": [
-            "src-ken-brooks-0055"
-          ]
-        },
-        {
-          "id": "em-ken-brooks-01123",
-          "date": "Undated",
-          "body": "Hays USD 489 employees receive raises; board members balk at admin pay",
-          "sourceIds": [
-            "src-ken-brooks-0066"
-          ]
         }
       ],
       "socialSignals": []
@@ -593,62 +451,11 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: FHSU: Board of Regents approves affiliation Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-ken-brooks-0045",
-          "s-hayspost-brooks-qa-2021"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-ken-brooks-00401",
-          "date": "Undated",
-          "body": "FHSU: Board of Regents approves affiliation",
-          "sourceIds": [
-            "src-ken-brooks-0045"
-          ]
-        },
-        {
-          "id": "em-ken-brooks-01351",
-          "date": "Undated",
-          "body": "Ongoing (self-attested 2021) — Hays Post candidate profile — Brooks has coordinated the Thanksgiving Community Food Drive with the Ellis County Ministerial Alliance and First Call For Help since 2008; he is also a member of Kiwanis International. (Hays Post 2021)",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2021"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-ken-brooks-0004",
-          "platform": "hayspost.com",
-          "observation": "His faith and civic-service statements are visible but not campaign-social. In the 2021 profile, Brooks listed Kiwanis, helping lead children's ministry at Celebration Community Church for almost 14 years, and coordinating the Thanksgiving Community Food Drive with ECMA and First Call For Help since 2008. The current Celebration Community Church Hays campus page confirms the Hays campus context and its public missio...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2021"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-ken-brooks-0044",
-          "platform": "hayspost.com",
-          "observation": "The 2021 Hays Post profile adds older but still relevant self-description. Brooks listed Kiwanis, nearly 14 years helping lead children's ministry at Celebration Community Church, and coordination of the Thanksgiving Community Food Drive with ECMA and First Call For Help since 2008. He supported the 2017 bond after opposing the 2016 version, wanted needed facility improvements, emphasized community information, and...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2021"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-ken-brooks-0045",
-          "platform": "hayspost.com",
-          "observation": "Hays Post 2021 candidate profile: community involvement, church/ministry, food drive, bond views, board unity, COVID mitigation, PAC/outside money answer, enrollment costs. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2021"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
@@ -657,7 +464,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
-          "s-hayspost-brooks-qa-2021"
+          "s-tigermedia-bathrooms-2026"
         ]
       },
       "actions": [
@@ -675,14 +482,6 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           "body": "Facilities and the bond program are central to his own account of why he ran again. Brooks said that when he first ran, he did not have an agenda \"so much,\" but he did want the bond passed. By 2025, he pointed to the new high school opening, remaining bond projects, O'Loughlin work, and the five-year capital outlay plan as evidence that the district was staying on track. He said the capital outlay plan helps the board budget and plan for the future. (Hays Post)",
           "sourceIds": [
             "s-hayspost-brooks-qa-2025"
-          ]
-        },
-        {
-          "id": "em-ken-brooks-00005",
-          "date": "Undated",
-          "body": "He also repeatedly talks about direct family costs. In 2021, he called high enrollment costs the most negative thing about USD 489 and said they put hardship on many families. In 2025, he returned to the same issue, saying it cost him $1,000 to enroll three children when his oldest was a senior and that the board had lowered fees in most years since he joined. (Hays Post 2021, Hays Post 2025)",
-          "sourceIds": [
-            "s-hayspost-brooks-qa-2021"
           ]
         },
         {
@@ -707,6 +506,14 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
           "body": "On budget, he argues the district has been responsible while acknowledging uncertain outside funding. Brooks said he believed USD 489 was adequately managing its budget and that critics had not shown the district to be irresponsible. He also said national and state conditions were uncertain, that the board needed proven leadership, and that special education had never been fully funded by the state. (Hays Post)",
           "sourceIds": [
             "s-hayspost-brooks-qa-2025"
+          ]
+        },
+        {
+          "id": "em-ken-brooks-00012",
+          "date": "Undated",
+          "body": "On contentious high-school bathroom and vandalism discussions, Brooks' visible remarks are less about bathroom design itself and more about process, data, and treatment of administrators. In April 2026 coverage, he challenged Allen Park's claim about Hays High having the highest percentage of single-stall bathrooms in the state, saying, \"You make up data,\" and then said administrators should not feel attacked or that it is \"us versus them.\" Hays Post separately quoted Brooks saying the board had discussed the issu...",
+          "sourceIds": [
+            "s-tigermedia-bathrooms-2026"
           ]
         }
       ],
@@ -757,20 +564,12 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public evidence: description: USD 489 BoardDocs portal (every URL form: https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic, …/Board.nsf/Public, https://www.boarddocs.com/ks/usd489/Board.nsf, and a specific item deep-link …/Board.nsf/goto?open=&id=BHXSFC6C436A) returns HTTP 403 to non-browser fetches. Per IDENTITY.md commitment #1, primary-tier voting records, agenda packets, and roll-call minutes are the preferred citation tier; p...",
+        "text": "Documented public evidence: Primary record location: USD 489 BoardDocs portal (https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic) for April 2023 meeting — DIRECT FETCH BLOCKED (403). Underlying primary record exists per portal structure; not retrievable in this environment.",
         "sourceIds": [
           "s-usd489-boarddocs"
         ]
       },
       "actions": [
-        {
-          "id": "em-ken-brooks-00302",
-          "date": "Undated",
-          "body": "description: USD 489 BoardDocs portal (every URL form: https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic, …/Board.nsf/Public, https://www.boarddocs.com/ks/usd489/Board.nsf, and a specific item deep-link …/Board.nsf/goto?open=&id=BHXSFC6C436A) returns HTTP 403 to non-browser fetches. Per IDENTITY.md commitment #1, primary-tier voting records, agenda packets, and roll-call minutes are the preferred citation tier; per the v2 schema, Source.tier === \"primary\" is the desired anchoring for ActionEvidence. The primary...",
-          "sourceIds": [
-            "s-usd489-boarddocs"
-          ]
-        },
         {
           "id": "em-ken-brooks-00033",
           "date": "Undated",
@@ -784,8 +583,8 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Ken Brooks is profiled here for USD 489 Board Member as a nonpartisan incumbent/current official. His faith and civic-service statements are visible but not campaign-social. In the 2021 profile, Brooks listed Kiwanis, helping lead children's ministry at Celebration Community Church for almost 14 years, and coordinating the Thanksgiving Community Food Driv... Hays Post — *Hays USD 489 district administrators' contracts extended another year* — https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 38 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Brooks' clearest governing philosophy is anti-micromanagement. In the 2025 Q&A, he said the board should provide oversight while administrators and teachers handle day-to-day operations, and that the superi... LGBT / gender / parental rights: On contentious high-school bathroom and vandalism discussions, Brooks' visible remarks are less about bathroom design itself and more about process, data, and treatment of administrators. In April 2026 cove... LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. LGBT / gender / parental rights: 2026-04-22 (April 2026 board meeting on bathrooms/vandalism at new HHS) — Hays Post and Tiger Media Network — Brooks said, on the record to fellow board member Allen Park during an exchange about Hays High... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "His faith and civic-service statements are visible but not campaign-social. In the 2021 profile, Brooks listed Kiwanis, helping lead children's ministry at Celebration Community Church for almost 14 years, and coordinating the Thanksgiving Community Food Driv... First Christian Church Great Bend - Kansas Disciples. Brooks publicly identified Celebration Community Church in Hays as his worship community. The church's Hays campus is at https://www.celebratejesus.org/hays-campus, and his 2021 candidate profile said he had helped lead the children's ministry there for almos... This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "recordSummary": "The rendered record now contains 24 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Brooks' clearest governing philosophy is anti-micromanagement. In the 2025 Q&A, he said the board should provide oversight while administrators and teachers handle day-to-day operations, and that the superi... LGBT / gender / parental rights: On contentious high-school bathroom and vandalism discussions, Brooks' visible remarks are less about bathroom design itself and more about process, data, and treatment of administrators. In April 2026 cove... LGBT / gender / parental rights: 2026-04-22 (April 2026 board meeting on bathrooms/vandalism at new HHS) — Hays Post and Tiger Media Network — Brooks said, on the record to fellow board member Allen Park during an exchange about Hays High... Education / curriculum / schools: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "His faith and civic-service statements are visible but not campaign-social. In the 2021 profile, Brooks listed Kiwanis, helping lead children's ministry at Celebration Community Church for almost 14 years, and coordinating the Thanksgiving Community Food Driv... Brooks publicly identified Celebration Community Church in Hays as his worship community. The church's Hays campus is at https://www.celebratejesus.org/hays-campus, and his 2021 candidate profile said he had helped lead the children's ministry there for almos... Brooks publicly identifies Celebration Community Church in Hays as his church. The Hays campus website is https://www.celebratejesus.org/hays-campus, and Brooks said he had helped lead the children's ministry there for almost 14 years. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in public web records",
     "narrative": "Kansas Public Disclosure Commission scope excludes USD 489 (only the\nWichita school board is within KPDC's school-board scope among Kansas\nlocals). USD 489 candidates file with the Ellis County Clerk. Per K.S.A.\n25-4145 et seq., candidates spending and receiving less than $1,000 file\nonly an affidavit, not an itemized contribution report. Brooks publicly\nself-attested in his 2021 Hays Post Q&A that he received no outside money\nor in-kind PAC support, consistent with the sub-$1,000 affidavit-only\nstatutory pathway. No itemized donor list exists on the public web for\neither his 2021 or 2025 cycle as of 2026-05-20.",
@@ -794,7 +593,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent local cycle reviewed",
     "source": "Candidate memory v2 issue file and local filing-system notes"
   },
-  "socialResearchNote": "26 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "19 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-usd489-boarddocs",
@@ -824,6 +623,21 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         "[USD 489 BoardDocs](https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic)",
         "Solid coverage: Brooks's on-record meeting statements 2023–2026 are densely sourced through two independent local outlets (Hays Post + Tiger Media Network) and triangulate well on three governance themes — nepotism/administration support, bond/budget stewardsh",
         "Board Meeting Info: [BoardDocs portal](https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic)"
+      ]
+    },
+    {
+      "id": "s-usd489-board-page",
+      "tier": "primary",
+      "url": "https://www.usd489.com/page/board-of-education",
+      "title": "USD 489 Board of Education — Official Members Page",
+      "publisher": "Unified School District 489 (Hays, KS)",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Ken Brooks is a current USD 489 board member",
+        "[USD 489 Board of Education page](https://www.usd489.com/page/board-of-education)",
+        "| USD 489 website | https://www.usd489.com/page/board-of-education | FOUND, LIMITED | Official district board page is publicly accessible, but the logged-out text capture did not expose member bios. It links the district navigation, BOE calendar, and district",
+        "USD 489 official board page: public district board entry point and official district contact context; text capture did not expose member bios. ([source](https://www.usd489.com/page/board-of-education))",
+        "USD 489 official site (https://www.usd489.com/page/board-of-education, …/page/boe-board-of-education) — first URL returned a truncated response, second URL 404. Member roster, term expirations, and meeting-archive index could not be retrieved this pass."
       ]
     },
     {
@@ -887,6 +701,93 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-nepotism-debate-2023",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8",
+      "title": "Hays USD 489 BOE debates nepotism again at Monday meeting",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "April 24, 2023 personnel transactions vote passed 4-2",
+        "Vajnar and Park voted no; Hertel absent",
+        "Brooks said on the record: 'This is the same discussion we had last month that got out of hand. You should have asked for something to be put on the agenda.'",
+        "Hays Post — *Hays USD 489 BOE debates nepotism again at Monday meeting* — https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8 (publication date confirmed as 2023-04-26; reports on April 24, 2023 meeting)",
+        "Best available secondary fallback: Hays Post (https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8) — provides motion totals (4-2), names two NO votes (Vajnar, Park), names the absent member (Hertel), and captures Brooks's verbatim quote, but does n",
+        "[Hays USD 489 BOE debates nepotism again](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8)",
+        "2023-04 (April 2023 board meeting) — Hays Post — Brooks (then board vice president) said on the record about the hiring of Superintendent Ron Wilson's wife as a teacher: *\"This is the same discussion we had last month that got out of hand. He should have asked",
+        "Hays Post — *Hays USD 489 BOE debates nepotism again at Monday meeting* — https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8 — accessed 2026-05-20 — preliminary tier: secondary",
+        "[HaysPost: Nepotism debate](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8)"
+      ]
+    },
+    {
+      "id": "s-tigermedia-nepotism-2023",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=72830",
+      "title": "USD 489 Board continues discussion on nepotism policy",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "April 24, 2023 board meeting continued nepotism-policy debate",
+        "Brooks took the administration's position that the question was about policy text, not personnel",
+        "Tiger Media Network — *USD 489 Board continues discussion on nepotism policy* — https://tigermedianet.com/?p=72830",
+        "Tiger Media Network — *USD 489 Board continues discussion on nepotism policy* — https://tigermedianet.com/?p=72830 — accessed 2026-05-20 — preliminary tier: secondary"
+      ]
+    },
+    {
+      "id": "s-hayspost-admin-contracts-2024",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf",
+      "title": "Hays USD 489 district administrators' contracts extended another year",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "January 22, 2024 administrator contract extensions vote passed 5-1-1",
+        "Park voted no; Yarmer abstained",
+        "Brooks said on the record: 'What we're doing here today is letting them know that we will be looking at their contracts in the future, and we're recommending that their contract be extended because we do want to keep this staff here.'",
+        "Hays Post — *Hays USD 489 district administrators' contracts extended another year* — https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf",
+        "[Hays USD 489 district administrators' contracts extended another year](https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf)",
+        "\"I have helped lead the Children's Ministry at Celebration Community Church for almost 14 years.\" - Hays Post profile, 2021; https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf",
+        "> -- Hays Post candidate profile, 2021, https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf",
+        "\"source\": \"Hays Post candidate profile, 2021, https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf\","
+      ]
+    },
+    {
+      "id": "s-tigermedia-admin-contracts-2026",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=95549",
+      "title": "USD 489 Board approves administrator and director contracts (March 2026)",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "March 10, 2026 administrator contract extension through 2027-2028 passed 5-2; Brooks was mover",
+        "March 10, 2026 director contract extension through 2027-2028 passed 7-0; Brooks was mover",
+        "March 10, 2026 intent to non-renew teacher Silas Hibbs passed 5-2",
+        "Brooks said on the record: 'They brought everything that you asked for for us to be able to vote.'",
+        "Brooks said on the record: 'We have an incredible administrative staff, there's no reason why we wouldn't approve every single one of them.'",
+        "Tiger Media Network — *USD 489 administrator/director contracts (March 2026)* — https://tigermedianet.com/?p=95549 — accessed 2026-05-20 — preliminary tier: secondary",
+        "2026-03-09 (board meeting on administrator/director contracts) — Tiger Media Network — Brooks said: *\"They brought everything that you asked for for us to be able to vote,\"* and *\"We have an incredible administrative staff, there's no reason why we wouldn't ap",
+        "On administrator/director contracts, Brooks again aligned with trusting staff and administration. Tiger Media Network quoted him saying the board had already tabled contract issues and that staff brought the requested information. He also said the district had",
+        "Tiger Media Network Mar. 2026 administrator/director contract story: Brooks supported moving forward on contracts and praised the administrative staff. ([source](https://tigermedianet.com/?p=95549))",
+        "\"We have an incredible administrative staff, there's no reason why we wouldn't approve every single one of them.\" ([Tiger Media Network, Mar. 10, 2026](https://tigermedianet.com/?p=95549))",
+        "Best available secondary fallback: Tiger Media Network (https://tigermedianet.com/?p=95549) — Brooks named as MOVER on items 2 and 3; vote totals captured (5-2, 7-0, 5-2 on three motions); two verbatim Brooks quotes",
+        "Tiger Media Network — *Administrator/director contracts (March 2026)* — https://tigermedianet.com/?p=95549"
+      ]
+    },
+    {
+      "id": "s-citizenjournal-board-takeaways",
+      "tier": "secondary",
+      "url": "https://www.citizenjournal.us/takeaways-from-hays-usd-489-education-board-meeting/",
+      "title": "Takeaways from Hays USD 489 Education Board Meeting",
+      "publisher": "Citizen Journal",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "March 2026 board meeting administrator/director contract motions were contested by Park and Yarmer",
+        "Brooks moved to approve administrator and director contracts as presented",
+        "Cross-reference: Citizen Journal also covered this meeting — https://www.citizenjournal.us/takeaways-from-hays-usd-489-education-board-meeting/",
+        "[Takeaways from Hays USD 489 Education Board Meeting](https://www.citizenjournal.us/takeaways-from-hays-usd-489-education-board-meeting/)"
+      ]
+    },
+    {
       "id": "s-hayspost-asbestos-hms-vote",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17",
@@ -898,6 +799,73 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
         "Brooks asked Park what he would have changed if he had received the change-order documentation in advance",
         "[Board member calls out fellow member after repeated no votes](https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17)",
         "Hays Post — *Board member calls out fellow member after repeated no votes, including 1 on asbestos removal* — https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17"
+      ]
+    },
+    {
+      "id": "s-tigermedia-felten-gmp-2026",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=94701",
+      "title": "Felten Elementary GMP vote (February 2026)",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "February 24, 2026 Felten Elementary bond Guaranteed Maximum Price motion passed 4-2",
+        "Brooks called for the vote",
+        "Park and Yarmer voted no",
+        "Tiger Media Network — *Felten Elementary GMP vote (Feb 2026)* — https://tigermedianet.com/?p=94701",
+        "2026-02 (Felten Elementary GMP vote) — Tiger Media Network — Brooks called for the vote on the Felten Elementary bond project Guaranteed Maximum Price; motion passed 4-2. ([Tiger Media Network](https://tigermedianet.com/?p=94701))",
+        "Tiger Media Network — *Felten Elementary GMP vote (Feb 2026)* — https://tigermedianet.com/?p=94701 — accessed 2026-05-20 — preliminary tier: secondary",
+        "Tiger Media Network Feb. 2026 Felten project story: Brooks called for the vote on Felten Elementary bond project GMP; motion passed 4-2. ([source](https://tigermedianet.com/?p=94701))"
+      ]
+    },
+    {
+      "id": "s-hayspost-bond-pm-2025",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126",
+      "title": "Hays USD 489 board votes not to add another manager for bond work",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "March 24, 2025 motion to look into hiring an outside bond project manager failed 3-4",
+        "Yarmer, Park, and Vajnar voted yes; the four-member majority included Brooks",
+        "Hays Post — *Hays USD 489 board votes not to add another manager for bond work* — https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126",
+        "[Hays USD 489 board votes not to add another manager for bond work](https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126)"
+      ]
+    },
+    {
+      "id": "s-hayspost-naming-rights-1",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c",
+      "title": "Hays USD 489 pauses Hays High football field naming rights donation discussion",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Golden Belt Bank offered $200,000 for 10-year naming rights to the new Hays High football field",
+        "August 4, 2025 motion by Brooks to add the naming-rights discussion to a regular meeting agenda failed 3-3",
+        "Brooks, Ruder, and Zampieri-Lillpopp voted yes; Yarmer was absent",
+        "Brooks said the bank did not have 'any ill intentions' and was 'trying to help our community and help our school district'",
+        "Brooks said 'school board policy says that three board members can request a special board meeting'",
+        "Hays Post — *Hays USD 489 pauses Hays High football field naming rights donation discussion* — https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c",
+        "2025-08 (August 2025 board meeting) — Hays Post — Brooks moved to add the Golden Belt Bank $200,000 stadium naming-rights donation to the agenda; motion failed 3-3 (Brooks + Ruth Ruder + Zampieri-Lillpopp in favor). Brooks said publicly that he did not think G",
+        "Hays Post — *Hays USD 489 pauses Hays High football field naming rights donation discussion* — https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c — accessed 2026-05-20 — preliminary tier: secondary",
+        "[HaysPost: Naming rights paused](https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c)",
+        "Hays Post Aug. 2025 naming-rights story: Brooks moved to add the Golden Belt Bank field naming-rights item to the agenda; his motion failed 3-3. ([source](https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c))"
+      ]
+    },
+    {
+      "id": "s-hayspost-budget-2024",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/a7ced49b-b60e-48aa-a295-c52204c7a0b6",
+      "title": "Hays USD 489 approves budget; taxpayers express concerns",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "September 9, 2024 FY25 budget approval and revenue-neutral-rate hearing",
+        "Taxpayers John Pyle and Kent Kennedy raised budget concerns at the hearing",
+        "Brooks replied: 'The board works and votes on items in the budget throughout the year.'",
+        "Hays Post — *Hays USD 489 approves budget; taxpayers express concerns* — https://hayspost.com/posts/a7ced49b-b60e-48aa-a295-c52204c7a0b6",
+        "Hays Post — *Hays USD 489 approves budget; taxpayers express concerns* — https://hayspost.com/posts/a7ced49b-b60e-48aa-a295-c52204c7a0b6 — accessed 2026-05-20 — preliminary tier: secondary",
+        "2025-08 (taxpayer budget hearing) — Hays Post — When taxpayers John Pyle and Kent Kennedy raised budget concerns at the FY26 budget hearing and Allen Park said \"Budget is our lane. We don't spend enough time with it,\" Brooks's only on-the-record reply was: *\"T"
       ]
     },
     {
@@ -972,6 +940,32 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-fb-brooks-vanity",
+      "tier": "social",
+      "url": "https://www.facebook.com/kenbrooksforusd489",
+      "title": "Ken Brooks for Hays USD 489 School Board — campaign Facebook page (vanity URL)",
+      "publisher": "Facebook (page metadata)",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "A campaign Facebook page bearing the title 'Ken Brooks for Hays USD 489 School Board' exists at this vanity URL as of 2026-05-20",
+        "Page content is gated to logged-out users; no post content is observable from this fetch",
+        "https://www.facebook.com/kenbrooksforusd489 (vanity URL)",
+        "Facebook — *kenbrooksforusd489 (vanity URL)* — https://www.facebook.com/kenbrooksforusd489 — accessed 2026-05-20 — preliminary tier: social (presence only; content gated)"
+      ]
+    },
+    {
+      "id": "src-ken-brooks-0002",
+      "tier": "primary",
+      "url": "https://kpdc.kansas.gov/campaign-finance/",
+      "title": "Kpdc.Kansas",
+      "publisher": "Kpdc.Kansas",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Kansas Public Disclosure Commission (https://kpdc.kansas.gov/campaign-finance/) — confirmed by KPDC's own scope language that it does NOT index USD 489 races. KPDC scope: \"elected state offices ... county, first class city, Wichita school board, and the Kansas",
+        "Kansas Public Disclosure Commission (KPDC): USD 489 Hays is outside KPDC jurisdiction. KPDC's published scope covers only Wichita school board among local school boards. No state-level Brooks filings exist or can exist. (Verified 2026-05-20 against https://kpd"
+      ]
+    },
+    {
       "id": "src-ken-brooks-0003",
       "tier": "primary",
       "url": "https://www.ellisco.net/626/Candidate-Filings",
@@ -981,6 +975,20 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Ellis County Clerk candidate filings (https://www.ellisco.net/626/Candidate-Filings) — page exists but exposes only a generic 2026 candidate-filings document; does not expose 2021 or 2025 USD 489 candidate filing forms or campaign-finance affidavits to a logge",
         "Ellis County Clerk Filings page (https://www.ellisco.net/626/Candidate-Filings): exposes only a 2026 general candidate-filings document. Historic affidavits and any itemized 2021/2025 reports are not posted on the public web; would require in-person or FOIA-st"
+      ]
+    },
+    {
+      "id": "src-ken-brooks-0006",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
+      "title": "Usd489.Community.Highbond",
+      "publisher": "Usd489.Community.Highbond",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| USD 489 board portal | https://usd489.community.highbond.com/portal/members.aspx?id=18 | FOUND | Diligent public portal lists Ken Brooks as a USD 489 board member and \"Vice-President\" in the visible capture. It also lists meetings and board/committee meeting",
+        "USD 489 Diligent board portal member page: Brooks listed as Ken Brooks, board member, vice president, with meeting categories. ([source](https://usd489.community.highbond.com/portal/members.aspx?id=18))",
+        "[usd489.community.highbond.com](https://usd489.community.highbond.com/portal/members.aspx?id=18)",
+        "\"campaignWebsite\": \"https://usd489.community.highbond.com/portal/members.aspx?id=18\","
       ]
     },
     {
@@ -997,26 +1005,14 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-ken-brooks-0009",
+      "id": "src-ken-brooks-0008",
       "tier": "primary",
-      "url": "https://www.ellisco.net/425/Election",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5814/Notice-of-Election-with-Names-489",
       "title": "Ellisco",
       "publisher": "Ellisco",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Ellis County Clerk (elections): 785-628-9410 | [ellisco.net/425/Election](https://www.ellisco.net/425/Election)",
-        "[ellisco.net/425/Election](https://www.ellisco.net/425/Election)"
-      ]
-    },
-    {
-      "id": "src-ken-brooks-0018",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 board members question parental rights in emergency policy revision](https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471)"
+        "Ellis County 2025 USD 489 notice of election: Brooks listed as a candidate for regular-term USD 489 board member. ([source](https://www.ellisco.net/DocumentCenter/View/5814/Notice-of-Election-with-Names-489))"
       ]
     },
     {
@@ -1040,142 +1036,32 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-ken-brooks-0041",
+      "id": "src-ken-brooks-0054",
       "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas State Board of Education election, 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-ken-brooks-0045",
-      "tier": "secondary",
-      "url": "https://www.fhsu.edu/news/kansas-board-of-regents-approves-the-affiliation-of-three-rural-higher-education-institutions",
-      "title": "Fhsu",
-      "publisher": "Fhsu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FHSU: Board of Regents approves affiliation](https://www.fhsu.edu/news/2023/01/kansas-board-of-regents-approves-the-affiliation-of-three-rural-higher-education-institutions)"
-      ]
-    },
-    {
-      "id": "src-ken-brooks-0050",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
+      "url": "https://hayspost.com/posts/665c7e1e-0989-4038-b3ed-a1ca37030c6f",
       "title": "Hayspost",
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
+        "[USD 489 Candidate Profile: Ken Brooks](https://hayspost.com/posts/665c7e1e-0989-4038-b3ed-a1ca37030c6f)",
+        "[HaysPost: USD 489 candidate profile: Ken Brooks (2021 alt)](https://hayspost.com/posts/665c7e1e-0989-4038-b3ed-a1ca37030c6f)"
       ]
     },
     {
-      "id": "src-ken-brooks-0051",
+      "id": "src-ken-brooks-0090",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "url": "https://www.celebratejesus.org/hays-campus",
+      "title": "Celebratejesus",
+      "publisher": "Celebratejesus",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-ken-brooks-0052",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays school board approves HHS, Roosevelt contract; discussion heated](https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984)",
-        "[HaysPost: HHS, Roosevelt contract heated](https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984)",
-        "\"source\": \"Hays Post, 2025, https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984\","
-      ]
-    },
-    {
-      "id": "src-ken-brooks-0055",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 BOE votes to change Hays Middle School mascot to Indians](https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c)",
-        "[HaysPost: Mascot vote](https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c)",
-        "Hays Post — *Mascot vote (April 2024)* — https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c"
-      ]
-    },
-    {
-      "id": "src-ken-brooks-0057",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Board member questions Hays USD 489 bond budget](https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4)"
-      ]
-    },
-    {
-      "id": "src-ken-brooks-0058",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 board scrutinizes bond budget](https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f)",
-        "[HaysPost: Bond budget scrutiny](https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f)"
-      ]
-    },
-    {
-      "id": "src-ken-brooks-0066",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/1cd56ea1-18ea-4126-aa69-97b826446d03",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 employees receive raises; board members balk at admin pay](https://hayspost.com/posts/1cd56ea1-18ea-4126-aa69-97b826446d03)"
-      ]
-    },
-    {
-      "id": "src-ken-brooks-0083",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-ken-brooks-0084",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)",
-        "\"url\": \"https://www.ihm-church.com/\","
-      ]
-    },
-    {
-      "id": "src-ken-brooks-0092",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
+        "Brooks publicly identified Celebration Community Church in Hays as his worship community. The church's Hays campus is at [https://www.celebratejesus.org/hays-campus](https://www.celebratejesus.org/hays-campus), and his 2021 candidate profile said he had helped",
+        "His worship connection is the clearest faith link in this cohort: Celebration Community Church, including the Hays campus at https://www.celebratejesus.org/hays-campus. The public record supports active children's-ministry involvement, but I did not find a den",
+        "Brooks publicly identifies Celebration Community Church in Hays as his church. The Hays campus website is https://www.celebratejesus.org/hays-campus, and Brooks said he had helped lead the children's ministry there for almost 14 years.",
+        "Celebration Community Church — *Hays campus* — https://www.celebratejesus.org/hays-campus — accessed 2026-05-20 — preliminary tier: primary (organizational self-publication)",
+        "\"whereTheyWorship\": \"Brooks publicly identifies Celebration Community Church in Hays as his church. The Hays campus website is https://www.celebratejesus.org/hays-campus, and Brooks said he had helped lead the children's ministry there for almost 14 years.\",",
+        "| Celebration Community Church Hays campus | https://www.celebratejesus.org/hays-campus | FOUND | Current church page confirms the Hays campus identity, service times, location, mission language, and public Facebook/Instagram links. Brooks' own church/ministry",
+        "Celebration Community Church Hays campus page: current church campus context for the church Brooks identified in 2021; mission, location, services, public links. ([source](https://www.celebratejesus.org/hays-campus))"
       ]
     },
     {
@@ -1188,6 +1074,55 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Contact page confirms: [Insurance Planning - A. Ken Brooks](https://www.insurance-planning.com/contact/a_ken_brooks)",
         "[Insurance Planning, Inc.](https://www.insurance-planning.com/contact/a_ken_brooks)"
+      ]
+    },
+    {
+      "id": "src-ken-brooks-0116",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/allen-ken-brooks-csp-cfps-a3416623",
+      "title": "Linkedin",
+      "publisher": "Linkedin",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "The accessible social footprint is thin. A LinkedIn public preview identifies Allen Ken Brooks in Hays with Insurance Planning, Inc., University of Central Oklahoma, CSP and CFPS credentials, 234 followers, and 238 connections, but the visible activity snippet",
+        "LinkedIn public preview confirms professional identity but exposes only limited non-campaign activity. It lists Allen Ken Brooks in Hays, Kansas, with Insurance Planning, Inc.; University of Central Oklahoma; CSP and CFPS credentials; 234 followers; 238 connec",
+        "| LinkedIn | https://www.linkedin.com/in/allen-ken-brooks-csp-cfps-a3416623 | FOUND, LIMITED | Public preview identifies Allen Ken Brooks, CSP, CFPS, in Hays, Kansas, with Insurance Planning, Inc., University of Central Oklahoma, 234 followers, 238 connections",
+        "LinkedIn public preview: professional identity, credentials, follower/connection counts, limited activity snippets. ([source](https://www.linkedin.com/in/allen-ken-brooks-csp-cfps-a3416623))"
+      ]
+    },
+    {
+      "id": "src-ken-brooks-0119",
+      "tier": "secondary",
+      "url": "https://goodparty.org/candidate/ken-brooks/hays-usd-489-school-board",
+      "title": "Goodparty",
+      "publisher": "Goodparty",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| GoodParty.org profile | https://goodparty.org/candidate/ken-brooks/hays-usd-489-school-board | FOUND, LIMITED | Public civic profile for Ken Brooks, Hays USD 489 School Board, party nonpartisan. It states the candidate had not filled out occupation, top issu",
+        "GoodParty.org has a public candidate shell for Ken Brooks, Hays USD 489 School Board, but the page says the candidate had not filled out occupation, top issues, or running-against sections. It was used only as a presence/absence check, not as substantive messa",
+        "GoodParty.org public candidate shell: nonpartisan school-board candidate listing with no filled-out top issues or platform. ([source](https://goodparty.org/candidate/ken-brooks/hays-usd-489-school-board))"
+      ]
+    },
+    {
+      "id": "src-ken-brooks-0120",
+      "tier": "secondary",
+      "url": "https://members.hayschamber.com/list/member/usd-489-1040",
+      "title": "Members.Hayschamber",
+      "publisher": "Members.Hayschamber",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Hays Chamber USD 489 member page: lists Brooks as Board Member, Ruder as Board Vice President, and Vajnar as Board President. ([source](https://members.hayschamber.com/list/member/usd-489-1040))"
+      ]
+    },
+    {
+      "id": "src-ken-brooks-0121",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/0c27e966-61e9-4c00-b6d7-7f37f6d3bba7",
+      "title": "Hayspost",
+      "publisher": "Hayspost",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Hays Post Feb. 2026 HVAC/contracts story: Brooks vote alignment on HVAC and administrator/director contracts; story identifies Vajnar as board president. ([source](https://hayspost.com/posts/0c27e966-61e9-4c00-b6d7-7f37f6d3bba7))"
       ]
     }
   ]

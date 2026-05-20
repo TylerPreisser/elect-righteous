@@ -52,41 +52,10 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-scott-braun-0036",
-          "src-scott-braun-0002",
-          "src-scott-braun-0003",
-          "src-scott-braun-0035",
-          "src-scott-braun-0037"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-scott-braun-00859",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-scott-braun-0036"
-          ]
-        },
-        {
-          "id": "em-scott-braun-01203",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-scott-braun-0002"
-          ]
-        },
-        {
-          "id": "em-scott-braun-01267",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-scott-braun-0003"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -96,8 +65,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
         "text": "Reviewed evidence: Braun's earliest profile-controlled campaign statement in the reviewed set came when he announced for sheriff in 2019. The Hays Post archive described his law-enforcement timeline from reserve deputy and Ellis police officer to deputy, drug-enforcement officer, K-9 handler, narcotics detective, and undersheriff. It also emphasized civic and faith ties: Hays Rotary, St. Nicholas of Myra Church Council, Knights of Col... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2019-announcement",
-          "src-scott-braun-0039",
-          "src-scott-braun-0040"
+          "src-scott-braun-0039"
         ]
       },
       "actions": [],
@@ -121,9 +89,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Braun carried that issue into the Legislature. In March 2026 coverage of his HB 2771 testimony, he framed ICE-detainer legislation as liability clarity, fiscal responsibility, county protection, and taxpayer protection. He said Ellis County signed the ICE agreement partly because of grant-funding risk, but also said community protection was the main reason for remaining in the program. The public bill tracker lists... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-hb2771-2026",
-          "s-hayspost-ksa-forfeiture",
-          "src-scott-braun-0050",
-          "src-scott-braun-0051"
+          "s-hayspost-ksa-forfeiture"
         ]
       },
       "actions": [
@@ -183,14 +149,30 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: Braun carried that issue into the Legislature. In March 2026 coverage of his HB 2771 testimony, he framed ICE-detainer legislation as liability clarity, fiscal responsibility, county protection, and taxpayer protection. He said Ellis County signed the ICE agreement partly because of grant-funding risk, but also said community protection was the main reason for remaining in the program. The public bill tracker lists... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Immigration and border enforcement became a major public signal in 2025 and 2026. After joining a Kansas law-enforcement visit to the Arizona-Mexico border, Braun said in a Sen. Roger Marshall release that border security is tied to stopping narcotics and human trafficking that affect Kansas. Later, in Hays Post coverage of Ellis County's ICE memorandum, he emphasized limits: Ellis County could honor a detainer only... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
+          "s-marshall-border-release-2025",
           "s-hayspost-hb2771-2026",
-          "s-hayspost-ice-2025",
-          "src-scott-braun-0054"
+          "s-hayspost-ice-2025"
         ]
       },
       "actions": [
+        {
+          "id": "em-scott-braun-00007",
+          "date": "Undated",
+          "body": "Immigration and border enforcement became a major public signal in 2025 and 2026. After joining a Kansas law-enforcement visit to the Arizona-Mexico border, Braun said in a Sen. Roger Marshall release that border security is tied to stopping narcotics and human trafficking that affect Kansas. Later, in Hays Post coverage of Ellis County's ICE memorandum, he emphasized limits: Ellis County could honor a detainer only within the legal 48-hour window and deputies were not stopping people in the street for immigration...",
+          "sourceIds": [
+            "s-marshall-border-release-2025"
+          ]
+        },
+        {
+          "id": "em-scott-braun-02193",
+          "date": "Undated",
+          "body": "After visiting the Arizona-Mexico border, Braun said a secure border is critical to stopping trafficking of narcotics and human beings and tied fentanyl and trafficking threats back to Kansas communities. Source: Sen. Roger Marshall release, May 31, 2025.",
+          "sourceIds": [
+            "s-marshall-border-release-2025"
+          ]
+        },
         {
           "id": "em-scott-braun-00008",
           "date": "Undated",
@@ -256,8 +238,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separation, inmate behavior, gender, offense levels, and COVID-era effects. In July 2024, he said there was no quick fix and framed a new jail as a public-safety need rather than a personal wish: \"We need a jail. I don't w... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-jail-assessment-2023",
-          "s-hayspost-ksa-forfeiture",
-          "src-scott-braun-0059"
+          "s-hayspost-ksa-forfeiture"
         ]
       },
       "actions": [
@@ -300,9 +281,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Scott Braun's public messaging is almost entirely the voice of an incumbent sheriff and law-enforcement administrator, not a conventional campaign brand. The clearest official source is the Ellis County, Kansas sheriff page, which describes patrol, jail, investigation, courthouse, and K-9 duties and links to office Facebook and X accounts. A separate apparent sheriff website, elliscountysheriff.com, is for Ellis Cou... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-scott-braun-0009",
-          "s-hayspost-hb2771-2026",
-          "src-scott-braun-0017",
-          "src-scott-braun-0073"
+          "s-hayspost-hb2771-2026"
         ]
       },
       "actions": [
@@ -343,10 +322,10 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: On drugs and forfeiture, Braun speaks as both sheriff and statewide sheriffs' association figure. In January 2024, he defended local retention of drug-forfeiture funds, saying seized money supports equipment and controlled buys and warning that losing it would shift costs to taxpayers. He also tied forfeiture to cutting off drug operations' funding. In April 2025, he sought opioid settlement money for local law-enfo... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ksa-forfeiture",
+          "s-marshall-border-release-2025",
           "s-hayspost-jail-assessment-2023",
           "src-scott-braun-0009",
-          "s-hayspost-2019-announcement",
-          "s-hayspost-app-2025"
+          "s-hayspost-2019-announcement"
         ]
       },
       "actions": [
@@ -356,6 +335,14 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
           "body": "On drugs and forfeiture, Braun speaks as both sheriff and statewide sheriffs' association figure. In January 2024, he defended local retention of drug-forfeiture funds, saying seized money supports equipment and controlled buys and warning that losing it would shift costs to taxpayers. He also tied forfeiture to cutting off drug operations' funding. In April 2025, he sought opioid settlement money for local law-enforcement training on fentanyl and opioid-overdose death investigations.",
           "sourceIds": [
             "s-hayspost-ksa-forfeiture"
+          ]
+        },
+        {
+          "id": "em-scott-braun-02193",
+          "date": "Undated",
+          "body": "After visiting the Arizona-Mexico border, Braun said a secure border is critical to stopping trafficking of narcotics and human beings and tied fentanyl and trafficking threats back to Kansas communities. Source: Sen. Roger Marshall release, May 31, 2025.",
+          "sourceIds": [
+            "s-marshall-border-release-2025"
           ]
         },
         {
@@ -422,12 +409,8 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: USDA: KS State Director announcement",
-        "sourceIds": [
-          "src-scott-braun-0023",
-          "src-scott-braun-0091",
-          "src-scott-braun-0093"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -439,10 +422,11 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: On drugs and forfeiture, Braun speaks as both sheriff and statewide sheriffs' association figure. In January 2024, he defended local retention of drug-forfeiture funds, saying seized money supports equipment and controlled buys and warning that losing it would shift costs to taxpayers. He also tied forfeiture to cutting off drug operations' funding. In April 2025, he sought opioid settlement money for local law-enfo... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ksa-forfeiture",
+          "s-marshall-border-release-2025",
           "src-scott-braun-0009",
           "s-hayspost-hb2771-2026",
-          "src-scott-braun-0033",
-          "src-scott-braun-0017"
+          "s-ksleg-hb2771-docs",
+          "s-hayspost-2019-announcement"
         ]
       },
       "actions": [
@@ -452,6 +436,14 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
           "body": "On drugs and forfeiture, Braun speaks as both sheriff and statewide sheriffs' association figure. In January 2024, he defended local retention of drug-forfeiture funds, saying seized money supports equipment and controlled buys and warning that losing it would shift costs to taxpayers. He also tied forfeiture to cutting off drug operations' funding. In April 2025, he sought opioid settlement money for local law-enforcement training on fentanyl and opioid-overdose death investigations.",
           "sourceIds": [
             "s-hayspost-ksa-forfeiture"
+          ]
+        },
+        {
+          "id": "em-scott-braun-00007",
+          "date": "Undated",
+          "body": "Immigration and border enforcement became a major public signal in 2025 and 2026. After joining a Kansas law-enforcement visit to the Arizona-Mexico border, Braun said in a Sen. Roger Marshall release that border security is tied to stopping narcotics and human trafficking that affect Kansas. Later, in Hays Post coverage of Ellis County's ICE memorandum, he emphasized limits: Ellis County could honor a detainer only within the legal 48-hour window and deputies were not stopping people in the street for immigration...",
+          "sourceIds": [
+            "s-marshall-border-release-2025"
           ]
         },
         {
@@ -545,22 +537,12 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
             "s-hayspost-app-2025"
           ],
           "mappedToIssueId": "i-environment-energy-land-use"
-        },
-        {
-          "id": "soc-scott-braun-0041",
-          "platform": "Facebook",
-          "observation": "There are also clear absences. I found no verified active campaign website, no reliable personal campaign Facebook page, and no verified Instagram, Threads, TikTok, or YouTube account for Braun. The official county page links to Facebook and X, but Facebook was login/script blocked and X produced no accessible indexed post archive in this environment. Because of that, this summary does not claim post counts, likes,...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-scott-braun-0117"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
         }
       ]
     }
   ],
   "whoTheyAre": "Scott J. Braun is profiled here for Ellis County Sheriff; current officeholder not on the 2026 county filing PDF as a Republican incumbent/current official. Braun's earliest profile-controlled campaign statement in the reviewed set came when he announced for sheriff in 2019. The Hays Post archive described his law-enforcement timeline from reserve deputy and Ellis police officer to deputy, drug-enforcement office... Mental health is the second recurring operational issue. As Kansas Sheriffs' Association president, Braun told Hays Post in January 2024 that sheriffs across Kansas were struggling with mental-health cases and questioned whether some people with serious menta... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 17 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separatio... Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 18 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separatio... Taxes / spending / debt: Braun carried that issue into the Legislature. In March 2026 coverage of his HB 2771 testimony, he framed ICE-detainer legislation as liability clarity, fiscal responsibility, county protection, and taxpayer protec... Immigration / border: Immigration and border enforcement became a major public signal in 2025 and 2026. After joining a Kansas law-enforcement visit to the Arizona-Mexico border, Braun said in a Sen. Roger Marshall release that border secu... Immigration / border: After visiting the Arizona-Mexico border, Braun said a secure border is critical to stopping trafficking of narcotics and human beings and tied fentanyl and trafficking threats back to Kansas communities. Source: Sen.... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "status: limited_verified_presence; checked: Campaign website; Official Ellis County sheriff page; Official sheriff Facebook; Official sheriff X/Twitter; LinkedIn; Instagram; Threads; TikTok; YouTube; Bluesky; Substack; Kansas Sheriffs' Association; Hays Post; findings: No verified campaign-controlled website found.; Official county sheriff page links office Facebook and X/Twitter accounts.; LinkedIn public profile is visible and profile-controlled; visible activity is mostly likes.; No reliable candidate-controlled Instagram, Threads, TikTok, YouTube, Bluesky, or Substack found.; sourceIds: s-ellis-sheriff-page; s-linkedin-braun; s-ksa-ellis-listing; relevance: Use official office channels and LinkedIn as online-presence signals only; do not infer policy from inaccessible posts or observed likes.",
   "whereTheyWorship": "Braun is publicly tied to St. Nicholas of Myra Catholic Church in Hays. The parish website is https://stn-church.com/, and the diocesan listing is https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/.",
   "campaignFinance": {
@@ -570,8 +552,110 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "20 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "19 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
+    {
+      "id": "s-ellis-2024-results",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results",
+      "title": "2024 Official Results",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "REP Scott J Braun received 11,797 votes for county sheriff.",
+        "Write-in totals for county sheriff were 117.",
+        "| s-ellis-2024-results | primary | https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results | 2026-05-19 | Official 2024 sheriff result: REP Scott J. Braun 11,797; write-ins 117 | election status |",
+        "Ellis County 2024 official results: https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results"
+      ]
+    },
+    {
+      "id": "s-ellis-jan20-2026-minutes",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01202026-724",
+      "title": "County Commission Minutes - Jan. 20, 2026",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Jeff Ridgway and Sheriff Scott Braun requested Tyler Technologies public-safety cloud migration and SaaS agreement.",
+        "Agreement includes sheriff's office jail-management-system upgrade.",
+        "Commission approved PO 7984 for $348,076 by a 2-0 voice vote.",
+        "Braun said the system replacement was inevitable while recognizing the request was large.",
+        "| s-ellis-jan20-2026-minutes | primary | https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01202026-724 | 2026-05-19 | Braun/Ridgway requested Tyler SaaS public-safety cloud migration and jail-management-system upgrade; motion passed 2-0; total/estimated",
+        "[Ellis County Jan. 20, 2026 minutes](https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01202026-724)",
+        "\"url\": \"https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01202026-724\","
+      ]
+    },
+    {
+      "id": "s-ellis-may08-2025-retreat",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_05082025-670",
+      "title": "County Commission Retreat Minutes - May 8, 2025",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Braun discussed Law Enforcement Center remodel after Hays Police Department move estimated in 2026.",
+        "Minutes say the remodel would not address possible future jail needs.",
+        "No action was taken.",
+        "| s-ellis-may08-2025-retreat | primary | https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_05082025-670 | 2026-05-19 | Braun discussed law-enforcement-center remodel timing, possible future jail needs, and floor plans at commission retreat; no action take",
+        "Ellis County May 8, 2025 retreat minutes: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_05082025-670"
+      ]
+    },
+    {
+      "id": "s-ellis-nov05-2024-minutes",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_11052024-630",
+      "title": "County Commission Minutes - Nov. 5, 2024",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Braun asked for approval to use opioid funds to purchase automated external defibrillators.",
+        "| s-ellis-nov05-2024-minutes | primary | https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_11052024-630 | 2026-05-19 | Braun asked commission to approve opioid funds for AED purchase | opioid/public safety |",
+        "Ellis County Nov. 5, 2024 minutes: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_11052024-630"
+      ]
+    },
+    {
+      "id": "s-ksleg-hb2771",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/hb2771/",
+      "title": "HB 2771",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "HB 2771 concerned county sheriff enforcement of ICE detainers, insurance coverage, state payment of certain judgments, attorney-general representation, and sheriff authority to enter interlocal agreements.",
+        "Bill page lists Scott Braun, Sheriff, Ellis County, as Feb. 25, 2026 oral proponent testimony.",
+        "Bill status is died.",
+        "| s-ksleg-hb2771 | primary | https://www.kslegislature.gov/b2025_26/bills/hb2771/ | 2026-05-19 | Bill title; status died; testimony table lists Scott Braun, Sheriff, Ellis County, Feb. 25, 2026 oral proponent | ICE detainers |",
+        "Kansas Legislature HB 2771 bill page: https://www.kslegislature.gov/b2025_26/bills/hb2771/"
+      ]
+    },
+    {
+      "id": "s-ksleg-hb2771-docs",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_fed_st_1/documents/?date_choice=2026-02-25",
+      "title": "House Federal and State Affairs Committee Documents - Feb. 25, 2026",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Committee document index lists Scott Braun testimony on HB 2771.",
+        "| s-ksleg-hb2771-docs | primary | https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_fed_st_1/documents/?date_choice=2026-02-25 | 2026-05-19 | Committee documents list Braun testimony entry and other proponents/opponents | ICE detainers |",
+        "Kansas Legislature HB 2771 committee documents, Feb. 25, 2026: https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_fed_st_1/documents/?date_choice=2026-02-25"
+      ]
+    },
+    {
+      "id": "s-ksleg-ksa-easter-testimony",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_fed_st_1/documents/testimony/20260225_02.pdf",
+      "title": "KSA Proponent Testimony on HB 2771",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "KSA testimony describes Jail Enforcement, Warrant Service Officer, and Task Force 287(g) models.",
+        "KSA testimony describes a 48-hour ICE detainer process when a person is released on local charges.",
+        "KSA testimony says Scott Braun would cover KCAMP liability coverage in separate testimony.",
+        "| s-ksleg-ksa-easter-testimony | primary | https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_fed_st_1/documents/testimony/20260225_02.pdf | 2026-05-19 | KSA proponent testimony describes 287(g) models, 48-hour detainer process, liability/representati",
+        "Kansas Legislature Jeff Easter/KSA HB 2771 testimony: https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_fed_st_1/documents/testimony/20260225_02.pdf"
+      ]
+    },
     {
       "id": "s-hayspost-2019-announcement",
       "tier": "secondary",
@@ -674,6 +758,53 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-scam-2025",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/df831461-e829-4c10-8fc1-2e905e69de88",
+      "title": "Phone scams impersonating law enforcement plaguing Ellis County residents",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Braun warned that the sheriff's office will not request money or personal information through unsolicited call, text, or email.",
+        "On scam calls, Braun said the sheriff's office will not call, text, or email people demanding money or personal information. Source: [Hays Post, Mar. 14, 2025](https://hayspost.com/posts/df831461-e829-4c10-8fc1-2e905e69de88).",
+        "| s-hayspost-scam-2025 | secondary | https://hayspost.com/posts/df831461-e829-4c10-8fc1-2e905e69de88 | 2026-05-19 | ECSO/Braun warning against scam calls demanding money/personal info | public communication |",
+        "Hays Post Mar. 2025 scam warning: https://hayspost.com/posts/df831461-e829-4c10-8fc1-2e905e69de88",
+        "[Phone scam warning, Hays Post, Mar. 14, 2025](https://hayspost.com/posts/df831461-e829-4c10-8fc1-2e905e69de88)"
+      ]
+    },
+    {
+      "id": "s-hayspost-opioid-training-2025",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/f373c9f4-8c84-4f33-8102-f67d7ce2927a",
+      "title": "Ellis County Commission to hear report on housing incentives",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Braun planned to request about $800 from opioid settlement funds for fentanyl/opioid-overdose death investigation training travel costs.",
+        "| s-hayspost-opioid-training-2025 | secondary | https://hayspost.com/posts/f373c9f4-8c84-4f33-8102-f67d7ce2927a | 2026-05-19 | Braun sought about $800 in opioid settlement funds for fentanyl/opioid-overdose death investigation training | opioid/fentanyl |",
+        "Hays Post Apr. 2025 opioid training agenda: https://hayspost.com/posts/f373c9f4-8c84-4f33-8102-f67d7ce2927a",
+        "[Opioid training agenda coverage, Hays Post, Apr. 14, 2025](https://hayspost.com/posts/f373c9f4-8c84-4f33-8102-f67d7ce2927a)"
+      ]
+    },
+    {
+      "id": "s-marshall-border-release-2025",
+      "tier": "primary",
+      "url": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-visits-southern-border-alongside-kansas-law-enforcement-officials/",
+      "title": "Senator Marshall Visits Southern Border Alongside Kansas Law Enforcement Officials",
+      "publisher": "U.S. Senator Roger Marshall",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Release lists Braun among Kansas law-enforcement officials who visited the Arizona-Mexico border.",
+        "Release identifies Braun as Ellis County Sheriff and Kansas Sheriffs' Association President.",
+        "Release includes Braun-attributed statement tying border security to narcotics and human trafficking affecting Kansas.",
+        "Immigration and border enforcement became a major public signal in 2025 and 2026. After joining a Kansas law-enforcement visit to the Arizona-Mexico border, Braun said in a [Sen. Roger Marshall release](https://www.marshall.senate.gov/newsroom/press-releases/s",
+        "| s-marshall-border-release-2025 | secondary/official | https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-visits-southern-border-alongside-kansas-law-enforcement-officials/ | 2026-05-19 | Release lists Braun on border visit and includes",
+        "| Federal official attribution | Yes | [Sen. Roger Marshall border visit release](https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-visits-southern-border-alongside-kansas-law-enforcement-officials/) | Includes a dated, attributed statem",
+        "After visiting the Arizona-Mexico border, Braun said a secure border is critical to stopping trafficking of narcotics and human beings and tied fentanyl and trafficking threats back to Kansas communities. Source: [Sen. Roger Marshall release, May 31, 2025](htt",
+        "\"url\": \"https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-visits-southern-border-alongside-kansas-law-enforcement-officials/\","
+      ]
+    },
+    {
       "id": "s-hayspost-crisis-funding-2025",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/fbac2993-56a7-4ebb-b494-5a194944d2c2",
@@ -712,6 +843,22 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-annual-2026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/eb108042-f876-49f9-b426-8047d18940ef",
+      "title": "Ellis County Sheriff reports over 15,000 calls in 2025",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Braun reported almost 16,000 calls for service in 2025.",
+        "Coverage includes traffic stops, warrants, inmate transport miles/hours/trips, patrol miles, courthouse contacts, and staffing comments.",
+        "[15,000 Calls in 2025 -- Hays Post](https://hayspost.com/posts/eb108042-f876-49f9-b426-8047d18940ef)",
+        "| s-hayspost-annual-2026 | secondary | https://hayspost.com/posts/eb108042-f876-49f9-b426-8047d18940ef | 2026-05-19 | 2025 workload: almost 16,000 calls, 3,500 traffic stops, 1,200 inmates, 260 warrants, transport miles/hours/trips, patrol miles, staffing comm",
+        "\"a busy but typical year\" - Hays Post annual report coverage, 2026-01-? - https://hayspost.com/posts/eb108042-f876-49f9-b426-8047d18940ef - topic: yearly workload",
+        "Hays Post Feb. 2026 annual report: https://hayspost.com/posts/eb108042-f876-49f9-b426-8047d18940ef"
+      ]
+    },
+    {
       "id": "s-hayspost-hb2771-2026",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07",
@@ -727,6 +874,22 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
         "In HB 2771 testimony coverage, Braun framed the bill as liability clarity, fiscal responsibility, and taxpayer protection, while also saying community safety remained the main reason for staying in the ICE program. Source: [Hays Post, Mar. 6, 2026](https://hay",
         "Hays Post Mar. 2026 HB 2771 coverage: https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07",
         "[HB 2771 hearing coverage, Hays Post, Mar. 6, 2026](https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07)"
+      ]
+    },
+    {
+      "id": "s-hayspost-2024-unofficial-election",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
+      "title": "2024 General Election Ellis County results, all precincts reporting",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Preliminary results listed Scott Braun at 11,524 votes.",
+        "Article said results were preliminary pending canvass.",
+        "[2024 Election Results -- Hays Post](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
+        "[Hays Post: 2024 Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
+        "[Hays Post: 2024 General Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
+        "| s-hayspost-2024-unofficial-election | secondary | https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496 | 2026-05-19 | Preliminary 2024 result listed Braun at 11,524; conflicts with official 11,797 | election conflict |"
       ]
     },
     {
@@ -748,25 +911,20 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-scott-braun-0002",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
+      "id": "s-ksa-ellis-listing",
+      "tier": "secondary",
+      "url": "https://www.kansassheriffs.org/county_map/county/914",
+      "title": "Ellis County Sheriff Listing",
+      "publisher": "Kansas Sheriffs' Association",
+      "accessed": "2026-05-19",
       "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
-      ]
-    },
-    {
-      "id": "src-scott-braun-0003",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
+        "KSA listing connects Scott Braun to Ellis County sheriff office.",
+        "[Kansas Sheriffs' Association](https://www.kansassheriffs.org/county_map/county/914)",
+        "| s-ksa-ellis-listing | secondary/association | https://www.kansassheriffs.org/county_map/county/914 | 2026-05-19 | KSA Ellis County sheriff listing | status/professional |",
+        "[Kansas Sheriffs' Association — Ellis County](https://www.kansassheriffs.org/county_map/county/914) — accessed 2026-03-30",
+        "[Kansas Sheriffs' Association - Ellis County](https://www.kansassheriffs.org/county_map/county/914)",
+        "Kansas Sheriffs' Association Ellis County listing: https://www.kansassheriffs.org/county_map/county/914",
+        "| Kansas Sheriffs' Association | Yes | [Ellis County listing](https://www.kansassheriffs.org/county_map/county/914), [officers listing](https://www.kansassheriffs.org/association_directory_view.php?position=officers) | KSA currently lists Braun as immediate pa"
       ]
     },
     {
@@ -785,74 +943,6 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-scott-braun-0017",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/candidate/H6KS03258/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "FEC Filing: [FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)",
-        "[FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)"
-      ]
-    },
-    {
-      "id": "src-scott-braun-0023",
-      "tier": "primary",
-      "url": "https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas",
-      "title": "Rd.Usda",
-      "publisher": "Rd.Usda",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)"
-      ]
-    },
-    {
-      "id": "src-scott-braun-0033",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/candidate/S6KS00262/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FEC: Candidate overview](https://www.fec.gov/data/candidate/S6KS00262/)"
-      ]
-    },
-    {
-      "id": "src-scott-braun-0035",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-scott-braun-0036",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-scott-braun-0037",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)"
-      ]
-    },
-    {
       "id": "src-scott-braun-0039",
       "tier": "secondary",
       "url": "https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/",
@@ -866,91 +956,18 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-scott-braun-0040",
+      "id": "src-scott-braun-0047",
       "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
+      "url": "https://stn-church.com/",
+      "title": "Stn-Church",
+      "publisher": "Stn-Church",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-scott-braun-0050",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)"
-      ]
-    },
-    {
-      "id": "src-scott-braun-0051",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)"
-      ]
-    },
-    {
-      "id": "src-scott-braun-0054",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-scott-braun-0059",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-scott-braun-0073",
-      "tier": "secondary",
-      "url": "https://www.votenokansas.org/",
-      "title": "Votenokansas",
-      "publisher": "Votenokansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Vote No Kansas 2026](https://www.votenokansas.org/)"
-      ]
-    },
-    {
-      "id": "src-scott-braun-0091",
-      "tier": "secondary",
-      "url": "https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849",
-      "title": "Issuu",
-      "publisher": "Issuu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)"
-      ]
-    },
-    {
-      "id": "src-scott-braun-0093",
-      "tier": "secondary",
-      "url": "https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/",
-      "title": "Eenews",
-      "publisher": "Eenews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)"
+        "Verified church source: [St. Nicholas of Myra Catholic Church](https://stn-church.com/)",
+        "https://stn-church.com/",
+        "Braun is publicly tied to St. Nicholas of Myra Catholic Church in Hays. The parish website is https://stn-church.com/, and the diocesan listing is https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/.",
+        "[St. Nicholas of Myra Catholic Church](https://stn-church.com/)",
+        "\"whereTheyWorship\": \"Braun is publicly tied to St. Nicholas of Myra Catholic Church in Hays. The parish website is https://stn-church.com/, and the diocesan listing is https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/.\","
       ]
     },
     {
@@ -964,6 +981,18 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
         "| Official sheriff Facebook | Yes, login/script blocked | [EllisCoSheriff.KS](https://www.facebook.com/EllisCoSheriff.KS/) | Linked from the official county page as \"Sheriff's Facebook Page.\" Direct review was blocked by Facebook/login controls, so no post tex",
         "[Official county-linked sheriff Facebook page](https://www.facebook.com/EllisCoSheriff.KS/)",
         "There are also clear absences. I found no verified active campaign website, no reliable personal campaign Facebook page, and no verified Instagram, Threads, TikTok, or YouTube account for Braun. The official county page links to [Facebook](https://www.facebook"
+      ]
+    },
+    {
+      "id": "src-scott-braun-0171",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/scott-braun-cpm-62833366/",
+      "title": "Linkedin",
+      "publisher": "Linkedin",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "LinkedIn: [linkedin.com/in/scott-braun-cpm-62833366](https://www.linkedin.com/in/scott-braun-cpm-62833366/)",
+        "[linkedin.com/in/scott-braun-cpm-62833366](https://www.linkedin.com/in/scott-braun-cpm-62833366/)"
       ]
     }
   ]

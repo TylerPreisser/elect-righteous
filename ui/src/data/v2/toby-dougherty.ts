@@ -39,59 +39,20 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: \"url\": \"https://www.haysusa.com/335/Public-Library-Board\"",
+        "text": "Reviewed evidence: \"I felt like the dumbest kid in the classroom out there.\" Source: Hays Post / Kansas News Service, 2022-05-26, https://hayspost.com/posts/6003cad5-e6bf-4ab2-87a9-fd03d8a5750c, topic: water conservation realization.",
         "sourceIds": [
-          "src-toby-dougherty-0001",
-          "src-toby-dougherty-0026",
-          "src-toby-dougherty-0002",
-          "src-toby-dougherty-0025"
+          "src-toby-dougherty-0028"
         ]
       },
-      "actions": [
-        {
-          "id": "em-toby-dougherty-00063",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.haysusa.com/335/Public-Library-Board\"",
-          "sourceIds": [
-            "src-toby-dougherty-0001"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-00401",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-toby-dougherty-0026"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-01102",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-toby-dougherty-0002"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-01166",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-toby-dougherty-0001"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: City Manager's Office - Hays Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-toby-dougherty-0029",
-          "src-toby-dougherty-0030",
-          "src-toby-dougherty-0031",
           "s-hays-manager-office"
         ]
       },
@@ -105,10 +66,6 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
         "text": "Reviewed evidence: On budgeting, Dougherty's public style is cautious and maintenance-first. He defended exceeding the revenue-neutral rate in 2024 by saying city costs rise over time and that static tax collections are not sustainable. In 2025, he described the 2026 budget as a cautious maintenance budget shaped by inflation, federal grant programs drying up, vehicle costs, tariff uncertainty, and recession risk. His line is not anti... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-rnr-2024",
-          "s-kda-hays-change",
-          "src-toby-dougherty-0042",
-          "src-toby-dougherty-0043",
-          "src-toby-dougherty-0044",
           "s-hayspost-budget-2026"
         ]
       },
@@ -193,10 +150,8 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector: Immigration lawyer runs",
-        "sourceIds": [
-          "src-toby-dougherty-0048"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -205,10 +160,8 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: KSHB: Former Kansas governor volunteers on medical mission in Ukraine Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-toby-dougherty-0050"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -220,10 +173,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
         "text": "Documented public evidence: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-toby-dougherty-0051",
-          "s-hayspost-pr-manager-2025",
-          "src-toby-dougherty-0026",
-          "src-toby-dougherty-0054",
-          "src-toby-dougherty-0055"
+          "s-hayspost-pr-manager-2025"
         ]
       },
       "actions": [
@@ -241,30 +191,6 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
           "body": "Dougherty also publicly emphasizes communication and professional administration. In 2025, he announced a new city public relations manager role as part of an effort to give residents clearer information about city initiatives, activities, and services. Other official city releases attribute staff promotions and appointments to him, reinforcing a management-centered public profile rather than a partisan or campaign-centered one. Source: Hays Post, Jan. 23, 2025.",
           "sourceIds": [
             "s-hayspost-pr-manager-2025"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-00401",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-toby-dougherty-0026"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-00714",
-          "date": "Undated",
-          "body": "Hays Post: Youth Leadership Advisory Board",
-          "sourceIds": [
-            "src-toby-dougherty-0054"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-00715",
-          "date": "Undated",
-          "body": "Hays Post: Mask ordinance extension",
-          "sourceIds": [
-            "src-toby-dougherty-0055"
           ]
         },
         {
@@ -295,11 +221,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-toby-dougherty-0051",
-          "src-toby-dougherty-0026",
-          "src-toby-dougherty-0054",
-          "src-toby-dougherty-0055",
-          "src-toby-dougherty-0056"
+          "src-toby-dougherty-0051"
         ]
       },
       "actions": [
@@ -312,43 +234,11 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-toby-dougherty-00401",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-toby-dougherty-0026"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-00714",
-          "date": "Undated",
-          "body": "Hays Post: Youth Leadership Advisory Board",
-          "sourceIds": [
-            "src-toby-dougherty-0054"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-00715",
-          "date": "Undated",
-          "body": "Hays Post: Mask ordinance extension",
-          "sourceIds": [
-            "src-toby-dougherty-0055"
-          ]
-        },
-        {
           "id": "em-toby-dougherty-00835",
           "date": "Undated",
           "body": "Hays Post: Mayor/CM discuss 2025 projects",
           "sourceIds": [
             "src-toby-dougherty-0051"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-00878",
-          "date": "Undated",
-          "body": "Hays Post: Water, retail, housing top issues",
-          "sourceIds": [
-            "src-toby-dougherty-0056"
           ]
         }
       ],
@@ -375,8 +265,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
           "src-toby-dougherty-0028",
           "s-hays-staff-profile",
           "src-toby-dougherty-0051",
-          "src-toby-dougherty-0092",
-          "src-toby-dougherty-0056"
+          "src-toby-dougherty-0092"
         ]
       },
       "actions": [
@@ -418,14 +307,6 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
           "body": "The visible attention around Dougherty is issue-driven, not social. No reliable social engagement metrics were found for a Dougherty-controlled account. The strongest public-attention signal is the repeated coverage of R9 Ranch and Hays' water future across local and regional outlets, including Hays Post, KWCH, Kansas Reflector/Kansas News Service, HPPR/KLC Journal, Strong Towns, and public meeting/video infrastructure. Source examples: KWCH, Apr. 3, 2025, HPPR/KLC Journal, May 4, 2026.",
           "sourceIds": [
             "src-toby-dougherty-0092"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-00878",
-          "date": "Undated",
-          "body": "Hays Post: Water, retail, housing top issues",
-          "sourceIds": [
-            "src-toby-dougherty-0056"
           ]
         }
       ],
@@ -483,7 +364,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
           "src-toby-dougherty-0051",
           "s-hayspost-pr-manager-2025",
           "src-toby-dougherty-0092",
-          "src-toby-dougherty-0001"
+          "s-hays-manager-office"
         ]
       },
       "actions": [
@@ -525,14 +406,6 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
           "body": "The visible attention around Dougherty is issue-driven, not social. No reliable social engagement metrics were found for a Dougherty-controlled account. The strongest public-attention signal is the repeated coverage of R9 Ranch and Hays' water future across local and regional outlets, including Hays Post, KWCH, Kansas Reflector/Kansas News Service, HPPR/KLC Journal, Strong Towns, and public meeting/video infrastructure. Source examples: KWCH, Apr. 3, 2025, HPPR/KLC Journal, May 4, 2026.",
           "sourceIds": [
             "src-toby-dougherty-0092"
-          ]
-        },
-        {
-          "id": "em-toby-dougherty-00063",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.haysusa.com/335/Public-Library-Board\"",
-          "sourceIds": [
-            "src-toby-dougherty-0001"
           ]
         }
       ],
@@ -613,7 +486,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Toby Dougherty is profiled here for Hays City Manager as a nonpartisan incumbent/current official. On budgeting, Dougherty's public style is cautious and maintenance-first. He defended exceeding the revenue-neutral rate in 2024 by saying city costs rise over time and that static tax collections are not sustainable. In 2025, he described the 2026 budget as... That same operating philosophy shows up in infrastructure comments. In Strong Towns material, Hays is presented as a city using data to prioritize sewer maintenance, street improvements, transportation changes, civic boards, and downtown reinvestment. At a 20... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 29 source-backed actions across 6 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: \"url\": \"https://www.haysusa.com/335/Public-Library-Board\". Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 16 source-backed actions across 5 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs des... Election integrity / voting / courts: Dougherty also publicly emphasizes communication and professional administration. In 2025, he announced a new city public relations manager role as part of an effort to give residents clearer informati... Election integrity / voting / courts: Hays Post: Mayor/CM discuss 2025 projects. Public safety / law enforcement / criminal justice: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sa... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "status: no_verified_candidate_controlled_campaign_social_feed; checked: Official City of Hays staff profile; City Manager's Office; City Commission agendas/minutes/video/audio infrastructure; Hays Post; HPPR / KLC Journal; Kansas Reflector; KCUR / Kansas News Service; Strong Towns; Facebook public search / city statements; LinkedIn public previews; X/Twitter; Instagram; Threads; Bluesky; TikTok; Substack; YouTube; Reddit; relevance: Use visible absence of a verified personal/campaign feed as a footprint signal only. Do not infer private views, follows, likes, or platform activity.; sourceIds: s-local-social-harvest",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. The public record around Dougherty is overwhelmingly professional and administrative, with very little reporting on his personal or religious life.",
   "campaignFinance": {
@@ -666,23 +539,6 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-kda-hays-change",
-      "tier": "primary",
-      "url": "https://www.agriculture.ks.gov/divisions-programs/division-of-water-resources/water-appropriation/change-applications/hays-change",
-      "title": "City of Hays / Russell Change Applications",
-      "publisher": "Kansas Department of Agriculture, Division of Water Resources",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Hays purchased the approximately 7,000-acre R9 Ranch and 30 water rights in 1995 for future Hays/Russell public water supply",
-        "On 2019-03-27 the Chief Engineer contingently approved change applications to convert irrigation rights to municipal use",
-        "WaterPACK filed judicial-review litigation in 2019",
-        "In 2022 the district court modified one aspect of the order and otherwise denied WaterPACK challenges",
-        "The Kansas Supreme Court accepted transfer of WaterPACK's appeal in 2022",
-        "\"url\": \"https://www.agriculture.ks.gov/divisions-programs/division-of-water-resources/water-appropriation/change-applications/hays-change\",",
-        "Kansas Department of Agriculture Hays/Russell change applications: https://www.agriculture.ks.gov/divisions-programs/division-of-water-resources/water-appropriation/change-applications/hays-change"
-      ]
-    },
-    {
       "id": "s-hayspost-r9-design-2026",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/453a68e6-0628-44ef-bb99-a9d4831ab6fa",
@@ -697,6 +553,40 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
         "Mayor Mason Ruder reported federal funding support for Hays and Russell",
         "2026 R9 design: Dougherty said Supreme Court arguments went well and expressed hope that a favorable ruling would end that challenge. Source: [Hays Post, Jan. 24, 2026](https://hayspost.com/posts/453a68e6-0628-44ef-bb99-a9d4831ab6fa).",
         "[Hays Post - R9 pipeline and wellfield designs complete](https://hayspost.com/posts/453a68e6-0628-44ef-bb99-a9d4831ab6fa)"
+      ]
+    },
+    {
+      "id": "s-hppr-klc-r9-2026",
+      "tier": "secondary",
+      "url": "https://www.hppr.org/hppr-news/2026-05-04/long-battle-over-west-kansas-water-nears-end-the-stakes-survival",
+      "title": "Long battle over west Kansas water nears end. The stakes? Survival",
+      "publisher": "HPPR / KLC Journal",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "R9 is described as a $140 million project still delayed by legal challenges",
+        "Hays had spent $11 million over 11 years, including $8 million in legal fees",
+        "Dougherty described R9 as hugely important and existential to Hays and Russell",
+        "The article includes WaterPACK and Edwards County concerns about sustainability and local impact",
+        "HB 2433 was signed on 2026-03-28",
+        "A Kansas Supreme Court decision was expected in summer 2026",
+        "2026 R9 survival framing: HPPR/KLC Journal quoted Dougherty saying the project is hugely important, that Hays and Russell are frustrated by opposition, that the project is existential to the cities' survival, and that they are following rules and going beyond",
+        "[HPPR/KLC Journal - Long battle over west Kansas water nears end](https://www.hppr.org/hppr-news/2026-05-04/long-battle-over-west-kansas-water-nears-end-the-stakes-survival)"
+      ]
+    },
+    {
+      "id": "s-hayspost-r9-wildfire-2026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/7629c5a0-96c2-4130-998b-315447ac2651",
+      "title": "Kansas wildfire scorched 1,500 acres after city's burn; official cause undetermined",
+      "publisher": "Hays Post / Kansas Reflector",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "A 1,500-acre Edwards County fire followed an April 15 controlled burn on city-owned R9 Ranch land",
+        "The Kansas State Fire Marshal deemed the cause undetermined and did not draw a connection between the two fires",
+        "The controlled burn began around 8:20 a.m. and finished by 1:30 p.m. on April 15",
+        "A new fire was reported around 4 p.m. the next day",
+        "Dougherty said the city had not yet seen a final state fire marshal report and the city-retained investigator had not completed a report",
+        "Dougherty said no comment would be made until both reports were received and reviewed"
       ]
     },
     {
@@ -764,6 +654,45 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-kcur-water-conservation-2022",
+      "tier": "secondary",
+      "url": "https://www.kcur.org/news/2022-10-11/this-city-in-kansas-really-conserves-its-water-but-that-still-might-not-be-enough-to-survive",
+      "title": "This city in Kansas really conserves its water, but that still might not be enough to survive",
+      "publisher": "KCUR / Kansas News Service",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Dougherty said Hays had looked to Las Vegas, Tucson, Phoenix, and Utah for water-conservation ideas",
+        "The article describes cash-for-grass, drought-tolerant demonstration gardens, landscaping rules, wastewater reuse, and customer conservation tools"
+      ]
+    },
+    {
+      "id": "s-strongtowns-dougherty-2016",
+      "tier": "secondary",
+      "url": "https://www.strongtowns.org/journal/2016/5/26/toby-dougherty",
+      "title": "Toby Dougherty",
+      "publisher": "Strong Towns",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Strong Towns described Dougherty as Hays city manager",
+        "The page quoted him on difficult public conversations and challenging paradigms",
+        "The page chrome showed 0 Likes",
+        "2016 Strong Towns interview: Strong Towns quoted Dougherty saying Hays could \"challenge the paradigms\" and have difficult public conversations with community buy-in. Source: [Strong Towns, May 26, 2016](https://www.strongtowns.org/journal/2016/5/26/toby-doughe"
+      ]
+    },
+    {
+      "id": "s-hayspost-cvb-2026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/a98fc165-98a3-4c58-b42d-6cc9d9d867ed",
+      "title": "City of Hays names new director of Convention and Visitors Bureau",
+      "publisher": "Hays Post / City of Hays",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The City of Hays named Michelle Nikki Brown as CVB director beginning June 15",
+        "Dougherty said Brown's background and community connections positioned her to promote Hays",
+        "Dougherty said the CVB supports tourism, local business activity, and the broader community"
+      ]
+    },
+    {
       "id": "s-hayspost-pr-manager-2025",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/f848b341-7c85-4e1f-ad84-3819123827c7",
@@ -777,49 +706,17 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-toby-dougherty-0001",
+      "id": "src-toby-dougherty-0006",
       "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
+      "url": "https://www.haysusa.com/directory.aspx?eid=6",
       "title": "Haysusa",
       "publisher": "Haysusa",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "\"url\": \"https://www.haysusa.com/335/Public-Library-Board\"",
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
-      "id": "src-toby-dougherty-0002",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
-      ]
-    },
-    {
-      "id": "src-toby-dougherty-0025",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-toby-dougherty-0026",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
+        "City Page: [haysusa.com/directory.aspx?eid=6](https://www.haysusa.com/directory.aspx?eid=6)",
+        "[City of Hays: Toby Dougherty](https://www.haysusa.com/directory.aspx?eid=6)",
+        "[City of Hays: Dougherty](https://www.haysusa.com/directory.aspx?eid=6)",
+        "[haysusa.com/directory.aspx?eid=6](https://www.haysusa.com/directory.aspx?eid=6)"
       ]
     },
     {
@@ -840,93 +737,14 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-toby-dougherty-0029",
+      "id": "src-toby-dougherty-0032",
       "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-toby-dougherty-0030",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)",
-        "\"url\": \"https://www.ihm-church.com/\","
-      ]
-    },
-    {
-      "id": "src-toby-dougherty-0031",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930",
+      "url": "https://hayspost.com/posts/cc4157ce-3ec5-4765-b6c7-84923c7cee55",
       "title": "Hayspost",
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: Officer on de-escalation training](https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930)",
-        "[Hays Post: De-escalation training](https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930)"
-      ]
-    },
-    {
-      "id": "src-toby-dougherty-0042",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2026 budget](https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69)"
-      ]
-    },
-    {
-      "id": "src-toby-dougherty-0043",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)"
-      ]
-    },
-    {
-      "id": "src-toby-dougherty-0044",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)"
-      ]
-    },
-    {
-      "id": "src-toby-dougherty-0048",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-toby-dougherty-0050",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
+        "[HaysPost: Forward Ever - Toby Dougherty](https://hayspost.com/posts/cc4157ce-3ec5-4765-b6c7-84923c7cee55)"
       ]
     },
     {
@@ -945,36 +763,15 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-toby-dougherty-0054",
+      "id": "src-toby-dougherty-0060",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/e141bbcd-d4c5-4a9d-83bc-996979742cb2",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "url": "https://www.strongtowns.org/journal/2015/10/7/toby-dougherty-city-manager-of-haysks",
+      "title": "Strongtowns",
+      "publisher": "Strongtowns",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays Post: Youth Leadership Advisory Board](https://hayspost.com/posts/e141bbcd-d4c5-4a9d-83bc-996979742cb2)"
-      ]
-    },
-    {
-      "id": "src-toby-dougherty-0055",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/095697ac-eb4b-4005-867a-bb049ec8c10f",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Mask ordinance extension](https://hayspost.com/posts/095697ac-eb4b-4005-867a-bb049ec8c10f)"
-      ]
-    },
-    {
-      "id": "src-toby-dougherty-0056",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Water, retail, housing top issues](https://hayspost.com/posts/b7a4b7ea-3e19-4919-a7fa-1de6db7bed8c)"
+        "[Strong Towns: Toby Dougherty 2015](https://www.strongtowns.org/journal/2015/10/7/toby-dougherty-city-manager-of-haysks)",
+        "[Strong Towns: Toby Dougherty](https://www.strongtowns.org/journal/2015/10/7/toby-dougherty-city-manager-of-haysks)"
       ]
     },
     {
@@ -1007,6 +804,17 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "src-toby-dougherty-0093",
+      "tier": "secondary",
+      "url": "https://www.zoominfo.com/p/Toby-Dougherty/381299961",
+      "title": "Zoominfo",
+      "publisher": "Zoominfo",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[ZoomInfo: Toby Dougherty](https://www.zoominfo.com/p/Toby-Dougherty/381299961)"
+      ]
+    },
+    {
       "id": "src-toby-dougherty-0094",
       "tier": "secondary",
       "url": "https://archive.strongtowns.org/journal/2016/3/11/sandusky-hays",
@@ -1028,6 +836,28 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "2025 revised budget: Dougherty explained the transient guest tax estimate adjustment and noted staff confidence based on recent disbursements. Source: [Hays Post, Aug. 9, 2025](https://hayspost.com/posts/e6a3f3e1-515d-4a1b-92be-1abea788d5bb)."
+      ]
+    },
+    {
+      "id": "src-toby-dougherty-0156",
+      "tier": "secondary",
+      "url": "https://podcast.strongtowns.org/e/toby-dougherty-1535377231/",
+      "title": "Podcast.Strongtowns",
+      "publisher": "Podcast.Strongtowns",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Strong Towns Podcast](https://podcast.strongtowns.org/e/toby-dougherty-1535377231/)"
+      ]
+    },
+    {
+      "id": "src-toby-dougherty-0180",
+      "tier": "secondary",
+      "url": "https://postpodcast.podbean.com/category/forward-ever/",
+      "title": "Postpodcast.Podbean",
+      "publisher": "Postpodcast.Podbean",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[The Post Podcast - Forward Ever category, Toby Dougherty episode listing](https://postpodcast.podbean.com/category/forward-ever/)"
       ]
     }
   ]

@@ -62,23 +62,10 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-sandy-spidel-neumann-0021",
-          "src-sandy-spidel-neumann-0022",
-          "src-sandy-spidel-neumann-0023"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-sandy-spidel-neumann-00530",
-          "date": "Undated",
-          "body": "Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure)",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0021"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -126,10 +113,8 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector - Announcement (Aug 2025) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-sandy-spidel-neumann-0027"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": [
@@ -149,47 +134,10 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker (Jan 10, 2026) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-sandy-spidel-neumann-0029",
-          "src-sandy-spidel-neumann-0030",
-          "src-sandy-spidel-neumann-0031"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-sandy-spidel-neumann-01069",
-          "date": "Undated",
-          "body": "Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker (Jan 10, 2026)",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0029"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-01071",
-          "date": "Undated",
-          "body": "Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric (May 13, 2025)",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0030"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-01081",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas Insurance Commissioner Election 2026",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0031"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-02433",
-          "date": "Undated",
-          "body": "Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0030"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-sandy-spidel-neumann-0008",
@@ -227,11 +175,8 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Reviewed evidence: FEC Race Page: 2026 Election - U.S. Senate - Kansas Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-sandy-spidel-neumann-0004",
-          "src-sandy-spidel-neumann-0007"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": [
@@ -251,25 +196,13 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: WIBW - State Senator Files for U.S. Senate (Feb 2026) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Sandy Spidel Neumann - Ballotpedia Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-sandy-spidel-neumann-0041",
           "src-sandy-spidel-neumann-0042",
-          "s-kcur-guide",
-          "src-sandy-spidel-neumann-0054",
-          "src-sandy-spidel-neumann-0057",
-          "src-sandy-spidel-neumann-0058"
+          "s-kcur-guide"
         ]
       },
       "actions": [
-        {
-          "id": "em-sandy-spidel-neumann-00369",
-          "date": "Undated",
-          "body": "WIBW - State Senator Files for U.S. Senate (Feb 2026)",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0041"
-          ]
-        },
         {
           "id": "em-sandy-spidel-neumann-00408",
           "date": "Undated",
@@ -285,30 +218,6 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-kcur-guide"
           ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00669",
-          "date": "Undated",
-          "body": "Ballotpedia - Kansas Senate 2026",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0054"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00679",
-          "date": "Undated",
-          "body": "Sharice Davids Senate Speculation (Jan 29, 2026)",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0057"
-          ]
-        },
-        {
-          "id": "em-sandy-spidel-neumann-00685",
-          "date": "Undated",
-          "body": "KCUR - Sharice Davids Discussion (Feb 24, 2026)",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0058"
-          ]
         }
       ],
       "socialSignals": []
@@ -317,12 +226,8 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: USDA: KS State Director announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-sandy-spidel-neumann-0008",
-          "src-sandy-spidel-neumann-0074",
-          "src-sandy-spidel-neumann-0076"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -331,26 +236,12 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: Campaign Website: christydavisforkansas.com Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Johnson County Post photo Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-sandy-spidel-neumann-0035",
-          "src-sandy-spidel-neumann-0003",
-          "src-sandy-spidel-neumann-0077",
-          "src-sandy-spidel-neumann-0078",
-          "src-sandy-spidel-neumann-0015",
-          "src-sandy-spidel-neumann-0076"
+          "src-sandy-spidel-neumann-0077"
         ]
       },
-      "actions": [
-        {
-          "id": "em-sandy-spidel-neumann-00303",
-          "date": "Undated",
-          "body": "Campaign Website: christydavisforkansas.com",
-          "sourceIds": [
-            "src-sandy-spidel-neumann-0035"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-sandy-spidel-neumann-0003",
@@ -397,8 +288,8 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Sandy Spidel Neumann is profiled here for U.S. Senate candidate as a Democratic. | s-joco-candidates | primary | https://www.jocoelection.org/candidates-elected-officials/candidates | accessed 2026-05-19 | Official county election-office candidate list, U.S. Senate row for Sandy Spidel Neumann | ballot-status lead |. | s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 12 source-backed actions across 4 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure). Health care / insurance / Medicaid: Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker (Jan 10, 2026). Health care / insurance / Medicaid: Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric (May 13, 2025). Health care / insurance / Medicaid: Ballotpedia: Kansas Insurance Commissioner Election 2026. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "Faith affiliation: no current church affiliation or worship location found. Faith/Values: Described making the decision after \"prayerful and tearful discussions with my wife and family.\". Education: B.A. in Business Administration, Trevecca Nazarene University (1999) -- *note: Trevecca is a Church of the Nazarene university in Nashville, TN, suggesting a faith background*. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "recordSummary": "The rendered record now contains 2 source-backed actions across 1 of the 14 issue areas. Representative public-record entries include: Public safety / law enforcement / criminal justice: Sandy Spidel Neumann - Ballotpedia. Public safety / law enforcement / criminal justice: KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "Not itemized in rendered profile",
     "narrative": "| s-fec-candidate | primary | https://www.fec.gov/data/candidate/S6KS00262/?cycle=2026&election_full=false | accessed 2026-05-19 | Candidate ID, office, party, challenger status, statement filed 2025-10-15, Q1 2026 totals | status, campaign finance |. | s-fec-committee | primary | https://www.fec.gov/data/committee/C00923474/?cycle=2026 | accessed 2026-05-19 | Active principal committee, committee ID, registration date, treasurer, authorizing candidate, committee address, financial totals | status, campaig... | s-fec-form2 | primary | https://docquery.fec.gov/pdf/730/202510159791595730/202510159791595730.pdf | filed 2025-10-15; accessed 2026-05-19 | FEC Form 2 Statement of Candidacy, candidate name, office, party, principal campaign committee | status |. | s-fec-form1 | primary | https://docquery.fec.gov/pdf/895/202510159791594895/202510159791594895.pdf | filed 2025-10-15; accessed 2026-05-19 | FEC Form 1 Statement of Organization for Sandy for Kansas | committee structure |. Finance figures are shown only when the reporting period/source was preserved in the evidence matrix; otherwise this remains a research caveat.",
@@ -409,6 +300,65 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
   },
   "socialResearchNote": "10 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
+    {
+      "id": "s-fec-candidate",
+      "tier": "primary",
+      "url": "https://www.fec.gov/data/candidate/S6KS00262/?cycle=2026&election_full=false",
+      "title": "SPIDEL NEUMANN, SANDY - Candidate overview",
+      "publisher": "Federal Election Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Spidel Neumann is listed as a Democratic candidate for U.S. Senate in Kansas, candidate ID S6KS00262",
+        "FEC lists the candidate as a challenger",
+        "Current Statement of Candidacy version FEC-1921666 was filed Oct. 15, 2025",
+        "Coverage through March 31, 2026 shows $187,436.34 receipts, $149,326.67 disbursements, and $38,109.67 ending cash on hand",
+        "| s-fec-candidate | primary | https://www.fec.gov/data/candidate/S6KS00262/?cycle=2026&election_full=false | accessed 2026-05-19 | Candidate ID, office, party, challenger status, statement filed 2025-10-15, Q1 2026 totals | status, campaign finance |",
+        "\"url\": \"https://www.fec.gov/data/candidate/S6KS00262/?cycle=2026&election_full=false\","
+      ]
+    },
+    {
+      "id": "s-fec-committee",
+      "tier": "primary",
+      "url": "https://www.fec.gov/data/committee/C00923474/?cycle=2026",
+      "title": "SANDY FOR KANSAS - committee overview",
+      "publisher": "Federal Election Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Sandy for Kansas is an active quarterly Senate principal campaign committee",
+        "Committee ID is C00923474",
+        "Registration date is Oct. 15, 2025",
+        "Treasurer is Lauren Decot Lee",
+        "Authorizing candidate is Spidel Neumann, Sandy",
+        "| s-fec-committee | primary | https://www.fec.gov/data/committee/C00923474/?cycle=2026 | accessed 2026-05-19 | Active principal committee, committee ID, registration date, treasurer, authorizing candidate, committee address, financial totals | status, campaign"
+      ]
+    },
+    {
+      "id": "s-fec-form2",
+      "tier": "primary",
+      "url": "https://docquery.fec.gov/pdf/730/202510159791595730/202510159791595730.pdf",
+      "title": "FEC Form 2 - Spidel Neumann, Sandy",
+      "publisher": "Federal Election Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Statement of Candidacy was filed Oct. 15, 2025",
+        "Candidate is listed for 2026 U.S. Senate in Kansas as Democratic Party",
+        "Sandy for Kansas is designated as principal campaign committee",
+        "| s-fec-form2 | primary | https://docquery.fec.gov/pdf/730/202510159791595730/202510159791595730.pdf | filed 2025-10-15; accessed 2026-05-19 | FEC Form 2 Statement of Candidacy, candidate name, office, party, principal campaign committee | status |"
+      ]
+    },
+    {
+      "id": "s-joco-candidates",
+      "tier": "primary",
+      "url": "https://www.jocoelection.org/candidates-elected-officials/candidates",
+      "title": "Candidates",
+      "publisher": "Johnson County Election Office",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Candidate page lists Sandy Spidel Neumann under U.S. Senate",
+        "Row lists incumbent No, city Overland Park, website sandyforkansas.com, Democratic",
+        "| s-joco-candidates | primary | https://www.jocoelection.org/candidates-elected-officials/candidates | accessed 2026-05-19 | Official county election-office candidate list, U.S. Senate row for Sandy Spidel Neumann | ballot-status lead |"
+      ]
+    },
     {
       "id": "s-campaign-home",
       "tier": "primary",
@@ -435,6 +385,35 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
         "[Campaign Website](https://sandyforkansas.com/)",
         "\"source\": \"Sandy for Kansas campaign website, accessed April 1, 2026, https://sandyforkansas.com/\",",
         "Campaign website: https://sandyforkansas.com/ is active and links Facebook, X/Twitter, Instagram, and a video/social icon. It includes biography, donation, contact, privacy, accessibility, and press-inquiry links."
+      ]
+    },
+    {
+      "id": "s-bsky-profile",
+      "tier": "social",
+      "url": "https://bsky.app/profile/speumann.bsky.social",
+      "title": "Sandy Spidel Neumann Bluesky profile",
+      "publisher": "Bluesky",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "API readback showed 1,260 followers, 2,810 follows, 228 posts, and account creation date Nov. 10, 2024",
+        "Profile bio identifies her as running for U.S. Senate to deliver for Kansas families",
+        "| s-bsky-profile | social | https://bsky.app/profile/speumann.bsky.social | API accessed 2026-05-19 | Public profile metadata: followers, follows, posts, created date, description | social presence |",
+        "| Bluesky | Yes | https://bsky.app/profile/speumann.bsky.social | Public API accessible; profile bio: \"Daughter of Kansas. Businesswoman. Problem solver. Fighter for fairness. Running for U.S. Senate to deliver for Kansas families. 🌻\" |"
+      ]
+    },
+    {
+      "id": "s-bsky-launch",
+      "tier": "social",
+      "url": "https://bsky.app/profile/speumann.bsky.social/post/3m3cpfacsi22a",
+      "title": "Launch post",
+      "publisher": "Bluesky",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Oct. 16, 2025 post says she is running for U.S. Senate to fight for Kansas families",
+        "API readback engagement was 5 likes, 3 reposts, 4 replies, and 1 quote",
+        "Audience response on Bluesky was in single digits on the campaign-period posts captured. The highest-engagement visible campaign-period original post was her Oct. 16, 2025 launch post, with [5 likes, 3 reposts, 4 replies, and 1 quote as of May 11, 2026](./soci",
+        "| s-bsky-launch | social | https://bsky.app/profile/speumann.bsky.social/post/3m3cpfacsi22a | posted 2025-10-16; API accessed 2026-05-19 | Campaign launch post; engagement 5 likes, 3 reposts, 4 replies, 1 quote | campaign message |",
+        "| 2025-10-16 | Post | Campaign launch | 5 likes, 3 reposts, 4 replies, 1 quote | \"I’m Sandy Spidel Neumann. I was born and raised in Kansas by working-class parents who taught me grit, fairness, and hard work. When Senator Marshall walked out on Kansans, I kne"
       ]
     },
     {
@@ -523,164 +502,6 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-sandy-spidel-neumann-0004",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/elections/senate/KS/2026/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "FEC Race Page: [2026 Election - U.S. Senate - Kansas](https://www.fec.gov/data/elections/senate/KS/2026/)",
-        "[FEC: 2026 Kansas Senate Election](https://www.fec.gov/data/elections/senate/KS/2026/)",
-        "https://www.fec.gov/data/elections/senate/KS/2026/ -- FEC filing data -- accessed 2026-03-30",
-        "[FEC - 2026 Kansas Senate](https://www.fec.gov/data/elections/senate/KS/2026/)",
-        "[FEC.gov](https://www.fec.gov/data/elections/senate/KS/2026/)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0007",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/candidate/H6KS03258/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "FEC Filing: [FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)",
-        "[FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0008",
-      "tier": "primary",
-      "url": "https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas",
-      "title": "Rd.Usda",
-      "publisher": "Rd.Usda",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0015",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/directory.aspx?eid=6",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "City Page: [haysusa.com/directory.aspx?eid=6](https://www.haysusa.com/directory.aspx?eid=6)",
-        "[haysusa.com/directory.aspx?eid=6](https://www.haysusa.com/directory.aspx?eid=6)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0021",
-      "tier": "secondary",
-      "url": "https://mikeforkansas.my.canva.site/",
-      "title": "Mikeforkansas.My.Canva",
-      "publisher": "Mikeforkansas.My.Canva",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (hosted on Canva -- indicates minimal campaign budget/infrastructure)",
-        "Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)",
-        "[mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0022",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0023",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0027",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector - Announcement (Aug 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)",
-        "[Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)",
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0029",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/) (Jan 10, 2026)",
-        "[Kansas Reflector: Kansas Senate minority leader challenges GOP House speaker](https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0030",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/) (May 13, 2025)",
-        "[Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0031",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas Insurance Commissioner Election 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0035",
-      "tier": "secondary",
-      "url": "https://www.christydavisforkansas.com/",
-      "title": "Christydavisforkansas",
-      "publisher": "Christydavisforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Website: [christydavisforkansas.com](https://www.christydavisforkansas.com/)",
-        "[Campaign Website](https://www.christydavisforkansas.com/)",
-        "Website: [christydavisforkansas.com](https://www.christydavisforkansas.com/)",
-        "[christydavisforkansas.com](https://www.christydavisforkansas.com/)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0041",
-      "tier": "secondary",
-      "url": "https://www.wibw.com/2026/02/05/kansas-state-senator-files-us-senate/",
-      "title": "Wibw",
-      "publisher": "Wibw",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[WIBW - State Senator Files for U.S. Senate (Feb 2026)](https://www.wibw.com/2026/02/05/kansas-state-senator-files-us-senate/)"
-      ]
-    },
-    {
       "id": "src-sandy-spidel-neumann-0042",
       "tier": "secondary",
       "url": "https://ballotpedia.org/Sandy_Spidel_Neumann",
@@ -691,65 +512,6 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
         "[Sandy Spidel Neumann - Ballotpedia](https://ballotpedia.org/Sandy_Spidel_Neumann)",
         "[Ballotpedia: Sandy Spidel Neumann](https://ballotpedia.org/Sandy_Spidel_Neumann)",
         "Ballotpedia profile: https://ballotpedia.org/Sandy_Spidel_Neumann"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0054",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia - Kansas Senate 2026](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)",
-        "[Ballotpedia: 2026 Kansas Senate Election](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)",
-        "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026 -- Full election overview -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0057",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Sharice Davids Senate Speculation (Jan 29, 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)",
-        "[Kansas Reflector - Davids Senate Speculation (Jan 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0058",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out",
-      "title": "Kcur",
-      "publisher": "Kcur",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KCUR - Sharice Davids Discussion (Feb 24, 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)",
-        "[KCUR - Davids Not Ruling It Out (Feb 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0074",
-      "tier": "secondary",
-      "url": "https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849",
-      "title": "Issuu",
-      "publisher": "Issuu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)"
-      ]
-    },
-    {
-      "id": "src-sandy-spidel-neumann-0076",
-      "tier": "secondary",
-      "url": "https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/",
-      "title": "Eenews",
-      "publisher": "Eenews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)"
       ]
     },
     {
@@ -764,14 +526,16 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-sandy-spidel-neumann-0078",
-      "tier": "secondary",
-      "url": "https://www.cityofwellington.net/newsview.aspx?nid=6940",
-      "title": "Cityofwellington",
-      "publisher": "Cityofwellington",
+      "id": "src-sandy-spidel-neumann-0089",
+      "tier": "social",
+      "url": "https://www.instagram.com/speumann/",
+      "title": "Instagram",
+      "publisher": "Instagram",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[City of Wellington: Resignation press release](https://www.cityofwellington.net/newsview.aspx?nid=6940)"
+        "| Instagram | Yes | https://www.instagram.com/speumann/ | Logged-out metadata: \"949 Followers, 3,751 Following, 233 Posts - See Instagram photos and videos from Sandy Spidel Neumann (@speumann)\"; profile text includes \"Daughter of Kansas. Student of economics.",
+        "Instagram: [@speumann](https://www.instagram.com/speumann/)",
+        "[@speumann](https://www.instagram.com/speumann/)"
       ]
     },
     {

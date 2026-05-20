@@ -41,11 +41,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Candidate-stated evidence: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-candidate-2020",
-          "src-neal-younger-0035",
-          "src-neal-younger-0001",
-          "src-neal-younger-0002",
-          "src-neal-younger-0034"
+          "s-hayspost-candidate-2020"
         ]
       },
       "actions": [
@@ -63,30 +59,6 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
           "body": "Communication and public involvement are also recurring. Younger said in 2020 that city commissioners should attend county meetings and county commissioners should attend city meetings. He said he would talk with taxpayers and attend surrounding city, town, and fire meetings. At a 2024 Hays Middle School voter-education event, Hays Post reported that he told students listening to constituents and fellow leaders is important for staying connected, and he rooted that lesson in listening at home. (source, source)",
           "sourceIds": [
             "s-hayspost-candidate-2020"
-          ]
-        },
-        {
-          "id": "em-neal-younger-01076",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-neal-younger-0035"
-          ]
-        },
-        {
-          "id": "em-neal-younger-01421",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-neal-younger-0001"
-          ]
-        },
-        {
-          "id": "em-neal-younger-01485",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-neal-younger-0002"
           ]
         }
       ],
@@ -129,10 +101,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Reviewed evidence: Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current campaign website, no long-form post-2020 platform page, no public church-affiliation statement by Younger, and no reliable campaign finance table. The official... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-ellis-election-results-page",
-          "src-neal-younger-0037",
-          "src-neal-younger-0038",
-          "src-neal-younger-0039"
+          "s-ellis-election-results-page"
         ]
       },
       "actions": [],
@@ -282,23 +251,10 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: ICE Bill Support -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-neal-younger-0051",
-          "src-neal-younger-0050",
-          "src-neal-younger-0052"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-neal-younger-00592",
-          "date": "Undated",
-          "body": "ICE Bill Support -- Hays Post",
-          "sourceIds": [
-            "src-neal-younger-0051"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -310,8 +266,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
           "s-hayspost-candidate-2020",
           "s-hayspost-budget-tentative-2025",
           "s-minutes-03172026",
-          "src-neal-younger-0046",
-          "src-neal-younger-0054"
+          "src-neal-younger-0046"
         ]
       },
       "actions": [
@@ -391,7 +346,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-hayspost-candidate-2020",
           "s-ellis-commission-page",
-          "s-ellis-election-results-page"
+          "src-neal-younger-0046"
         ]
       },
       "actions": [
@@ -409,14 +364,6 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
           "body": "Ellis County Commission Official Page",
           "sourceIds": [
             "s-ellis-commission-page"
-          ]
-        },
-        {
-          "id": "em-neal-younger-00053",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.ellisco.net/435/Election-Results\"",
-          "sourceIds": [
-            "s-ellis-election-results-page"
           ]
         },
         {
@@ -441,6 +388,14 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
           "body": "Candidate Profile -- Hays Post",
           "sourceIds": [
             "s-hayspost-candidate-2020"
+          ]
+        },
+        {
+          "id": "em-neal-younger-00434",
+          "date": "Undated",
+          "body": "2026 Salary Adjustments -- Hays Post",
+          "sourceIds": [
+            "src-neal-younger-0046"
           ]
         }
       ],
@@ -476,9 +431,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
           "s-hayspost-budget-tentative-2025",
           "s-ellis-commission-page",
           "src-neal-younger-0046",
-          "src-neal-younger-0055",
-          "src-neal-younger-0056",
-          "src-neal-younger-0035"
+          "s-minutes-04082026"
         ]
       },
       "actions": [
@@ -507,27 +460,11 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-neal-younger-00675",
+          "id": "em-neal-younger-02471",
           "date": "Undated",
-          "body": "Criminal Threat Sentencing -- Hays Post",
+          "body": "April 8, 2026 county retreat minutes: Chair Younger called the retreat to order; discussion covered department needs, county financial future, capital planning, solar-farm implications, transient guest tax, fairgrounds/historical society funding, and sheriff staffing.",
           "sourceIds": [
-            "src-neal-younger-0055"
-          ]
-        },
-        {
-          "id": "em-neal-younger-00676",
-          "date": "Undated",
-          "body": "Drug Death Case -- Salina Post",
-          "sourceIds": [
-            "src-neal-younger-0056"
-          ]
-        },
-        {
-          "id": "em-neal-younger-01076",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-neal-younger-0035"
+            "s-minutes-04082026"
           ]
         }
       ],
@@ -551,11 +488,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-candidate-2020",
-          "s-minutes-04082026",
-          "src-neal-younger-0015",
-          "src-neal-younger-0081",
-          "src-neal-younger-0083",
-          "src-neal-younger-0082"
+          "s-minutes-04082026"
         ]
       },
       "actions": [
@@ -735,8 +668,8 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Neal Younger is profiled here for Ellis County Commissioner, District 2; current officeholder not on the 2026 county filing PDF as a Republican incumbent/current official. Neal Younger's public messaging footprint is unusually small for an incumbent elected official. No verified campaign website or candidate-controlled social account was found, and the strongest first-person source remains his July 30, 2020 Hays Post candidate... Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 36 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he suppor... Education / curriculum / schools: Communication and public involvement are also recurring. Younger said in 2020 that city commissioners should attend county meetings and county commissioners should attend city meetings. He said he would ta... Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current... First Christian Church Great Bend - Kansas Disciples. narrative: \"*A summary of what Neal Younger has publicly said or been attributed as saying in candidate questionnaires, official county records, public meeting coverage, and local news. Drawn from public sources through May 11, 2026. We report patterns; we do... This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "recordSummary": "The rendered record now contains 30 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he suppor... Education / curriculum / schools: Communication and public involvement are also recurring. Younger said in 2020 that city commissioners should attend county meetings and county commissioners should attend city meetings. He said he would ta... Taxes / spending / debt: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and sa... Taxes / spending / debt: His clearest later budget message came in the mental-health funding debate. Hays Post reported in July 2025 that Younger supported the requested High Plains Mental Health increase because it was less expensive than... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current... No public church or denomination record was located for Neal Younger in the source set reviewed for this pass. I am not claiming one here. I did not verify a public church affiliation for Neal Younger in this pass. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
     "narrative": "not_located",
@@ -785,6 +718,123 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-ellis-2024-general-results",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results",
+      "title": "2024 General Election Official Results",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Official PDF visual readback page 3 shows County Commission 2nd District Neal Younger (R) with 3,653 votes",
+        "Official PDF visual readback page 3 shows write-ins with 59 and total votes cast 3,712",
+        "PDF is image-only for text extraction in this environment",
+        "[2024 official results PDF](https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results) lists County Commission 2nd District: Republican Neal Younger, 3,653 votes, and 59 write-in votes."
+      ]
+    },
+    {
+      "id": "s-ellis-2024-primary-results",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5544/Official-2024-Primary-Results",
+      "title": "Official 2024 Primary Results",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Official PDF visual readback page 10 shows Republican Commission 2nd District Neal Younger with 381 votes",
+        "PDF is image-only for text extraction in this environment"
+      ]
+    },
+    {
+      "id": "s-minutes-01132026",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01132026-721",
+      "title": "Ellis County Board of County Commissioners Minutes - January 13, 2026",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Commission appointed Neal Younger chair for the next year by 3-0 voice vote",
+        "Resolution 2026-03 waiving GAAP standards was adopted and signed by Younger as chair",
+        "Resolution 2026-04 set 2026 elected-official salaries, listing District 2 commissioner at $21,584",
+        "Younger was appointed to Northwest Kansas Juvenile Board and Community Corrections in 2026",
+        "\"url\": \"https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01132026-721\",",
+        "[January 13, 2026 official minutes](https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01132026-721): commission appointed Neal Younger chair of the Board of County Commissioners for the next year and appointed him to the Northwest Kansas Juvenile Board an"
+      ]
+    },
+    {
+      "id": "s-pbc-minutes-01132026",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01132026-722",
+      "title": "Ellis County Kansas Public Building Commission Minutes - January 13, 2026",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Public Building Commission appointed Neal Younger president by 3-0 voice vote",
+        "Nathan Leiker was appointed vice-president"
+      ]
+    },
+    {
+      "id": "s-minutes-06102025",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_06102025-678",
+      "title": "Ellis County Board of County Commissioners Minutes - June 10, 2025",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "High Plains Mental Health requested $378,602.97 including annual support and Crisis Intervention Center funding",
+        "Younger asked whether individuals from Larned could enter the facility",
+        "Younger discussed future budgeting for Victoria road approaches and voted against unbudgeted assistance",
+        "Younger moved the secured-load landfill policy; it passed 3-0",
+        "Younger seconded the 2.5% COLA motion; it passed 2-1"
+      ]
+    },
+    {
+      "id": "s-minutes-09092025",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_09092025-696",
+      "title": "Ellis County Board of County Commissioners Minutes - September 9, 2025",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Vice-Chair Younger called the meeting to order while Berges attended by telephone",
+        "Public hearing was held for exceeding revenue-neutral rates and 2026 Ellis County budgets",
+        "Minutes summarize Younger saying county spending is high because many services carry large costs",
+        "Budget approval passed 3-0; named roll call listed Younger yes",
+        "Resolution 2025-14 authorized levying above the revenue-neutral rate",
+        "Younger moved approval of the Patagonia Health electronic health record purchase"
+      ]
+    },
+    {
+      "id": "s-minutes-01062026",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_01062026-720",
+      "title": "Ellis County Board of County Commissioners Minutes - January 6, 2026",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Younger asked for a mid-year update if RePath bond-supervision technology was treated as a trial run",
+        "Younger moved a $9,600 opioid-fund transfer for RePath; it passed 3-0",
+        "Bridge-weight-limit Resolution 2026-01 passed 3-0",
+        "Younger asked whether Big Creek Estates had sought City of Hays water or rural water options",
+        "Younger seconded the motion sending the Big Creek preliminary plat back to zoning board; it passed 3-0",
+        "Tallgrass solar discussion included road-use, pipeline, decommissioning, fire, noxious-weed, and infrastructure conditions"
+      ]
+    },
+    {
+      "id": "s-minutes-02102026",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_02102026-729",
+      "title": "Ellis County Board of County Commissioners Minutes - February 10, 2026",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Chair Younger called the February 10 meeting to order",
+        "Younger asked what would happen if a Big Creek Estates well had to be moved because no water was found",
+        "Big Creek Estates preliminary plat approval passed 3-0 with sewer-system written approval condition",
+        "CID parameters discussed two-thirds participation, 75% build-out, and road-improvement options",
+        "Berges and Younger affirmed adding road miles to the asphalt plan; Younger said it would take a grader off the road",
+        "Scholarship discussion shifted toward employee-family recruitment and retention"
+      ]
+    },
+    {
       "id": "s-minutes-03172026",
       "tier": "primary",
       "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_03172026-738",
@@ -800,6 +850,20 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-minutes-03312026",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_03312026-739",
+      "title": "Ellis County Board of County Commissioners Special Road Tour Minutes - March 31, 2026",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Chair Younger called the special road-tour session to order",
+        "Road tour covered right-of-way, solar-project road-use agreement issues, engineer inspections, escrow for road damage, culverts, bridges, minimal-maintenance roads, subdivision roads, and transfer-station expansion",
+        "No formal action was taken",
+        "[March 31, 2026 official road-tour minutes](https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_03312026-739): Chair Younger called a special road-tour session to order; the tour covered right-of-way, road improvements, solar project road-use issues, culver"
+      ]
+    },
+    {
       "id": "s-minutes-04082026",
       "tier": "primary",
       "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_04082026-743",
@@ -810,6 +874,20 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Chair Younger called the county retreat to order",
         "Retreat covered department needs, county financial future, capital plan, solar-farm implications, transient guest tax, fairgrounds/Historical Society funding, and sheriff staffing",
         "[April 8, 2026 county retreat minutes](https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_04082026-743): Chair Younger called the retreat to order; discussion covered department needs, county financial future, capital planning, solar-farm implications, tra"
+      ]
+    },
+    {
+      "id": "s-minutes-04142026",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_04142026-744",
+      "title": "Ellis County Board of County Commissioners Minutes - April 14, 2026",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Chair Younger called the meeting to order",
+        "Younger seconded Stonewood North Addition CID Petition public-hearing notice Resolution 2026-08",
+        "Resolution 2026-08 passed 2-0 and set a public hearing for Stonewood Estates road-improvement assessment financing",
+        "[April 14, 2026 minutes](https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_04142026-744): Chair Younger called the meeting to order and seconded the consent agenda motion."
       ]
     },
     {
@@ -835,6 +913,35 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "[Candidate Profile -- Hays Post](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd)",
         "[HaysPost Candidate Profile: Neal Younger](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd)",
         "[Hays Post: Candidate Profile](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd)"
+      ]
+    },
+    {
+      "id": "s-hayspost-primary-2020",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/bf9791c4-21bd-4e94-b7c3-8d0c0029b5cb",
+      "title": "UPDATE: Preliminary Ellis County primary election results",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported Younger defeated incumbent Dustin Roths and Kerry McCue in the 2020 Republican primary",
+        "Reported vote totals were Younger 639, Roths 547, McCue 405",
+        "Reported percentages were Younger 40.16%, Roths 34.38%, McCue 25.46%"
+      ]
+    },
+    {
+      "id": "s-hayspost-2024-prelim",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
+      "title": "2024 General Election Ellis County results, all precincts reporting",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post election-night article listed results as preliminary, pending canvass",
+        "Article listed Neal Younger with 3,556 votes",
+        "This conflicts with official canvassed PDF and should not be used as final vote total",
+        "[2024 Election Results -- Hays Post](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
+        "[Hays Post: 2024 Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
+        "[Hays Post: 2024 General Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)"
       ]
     },
     {
@@ -865,6 +972,34 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "Hays Post reported Younger tied county spending to services including ambulance, road and bridge, noxious weeds, and mental health",
         "[Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)",
         "[Hays Post, Sept. 9, 2025](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec): during 2026 budget approval coverage, Younger defended high county spending as tied to services including ambulance, roads, noxious weeds, and mental health."
+      ]
+    },
+    {
+      "id": "s-hayspost-cola-2025",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/f411c2a9-c20a-4cf3-963d-d834ddb0f613",
+      "title": "Ellis County Commission approves cost of living adjustment",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported the commission approved a 2.5% COLA for employees, elected officials, and contract positions",
+        "Hays Post quoted Younger saying the county did not want to be a training center",
+        "Hays Post reported the Victoria road assistance request failed 2-1 with Berges and Younger dissenting",
+        "[Hays Post, June 11, 2025](https://hayspost.com/posts/f411c2a9-c20a-4cf3-963d-d834ddb0f613): in cost-of-living adjustment coverage, Younger said, \"We don't want to be a training center.\" He also said a Victoria approach-road request should be considered in fut"
+      ]
+    },
+    {
+      "id": "s-hayspost-budget-readjust-2025",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/214198c7-e910-476d-b7b7-6c39644d6eb9",
+      "title": "Ellis County Commission readjusts 2026 funding; discuss 1 mill tax hike",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported Younger supported reducing scholarship funding until the next budget",
+        "Hays Post reported Younger proposed reducing Grow Hays by $5,000 and reallocating that amount to Ellis County Historical Society",
+        "Hays Post reported the budget draft, outside-agency funding, mill levy increase proposal, and capital-project bonding discussion",
+        "[Hays Post, Aug. 7, 2025](https://hayspost.com/posts/214198c7-e910-476d-b7b7-6c39644d6eb9): reported Younger supported reducing scholarship funding for reassessment and proposed shifting $5,000 from Grow Hays to the Ellis County Historical Society."
       ]
     },
     {
@@ -910,36 +1045,30 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-neal-younger-0001",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
+      "id": "s-ike-lab-2024-general",
+      "tier": "secondary",
+      "url": "https://www.ike-lab.com/complete_elex_2024_gen_cotwp_Ellis.html",
+      "title": "2024 General - County and Township Elections - Ellis County",
+      "publisher": "IKE Lab",
+      "accessed": "2026-05-19",
       "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
+        "Text mirror lists County Commission District 2: Neal Younger (R) 3,653 and other/write-in 59",
+        "Used only as accessible text corroboration for official image-only PDF",
+        "[2024 general results mirror](https://www.ike-lab.com/complete_elex_2024_gen_cotwp_Ellis.html) lists County Commission District 2: Neal Younger (R), 3,653 votes, and 59 write-ins."
       ]
     },
     {
-      "id": "src-neal-younger-0002",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
+      "id": "s-lkm-profile",
+      "tier": "secondary",
+      "url": "https://www.lkm.org/members/?id=41501857",
+      "title": "Neal Younger, Commissioner, Ellis County",
+      "publisher": "League of Kansas Municipalities",
+      "accessed": "2026-05-19",
       "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
-      "id": "src-neal-younger-0015",
-      "tier": "primary",
-      "url": "https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas",
-      "title": "Rd.Usda",
-      "publisher": "Rd.Usda",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)"
+        "League profile/search result lists Neal Younger as Commissioner, Ellis County",
+        "Search result showed last updated January 5, 2026",
+        "League profile: [League of Kansas Municipalities member profile](https://www.lkm.org/members/?id=41501857) lists Neal Younger as commissioner for Ellis County, last updated January 5, 2026.",
+        "[lkm.org](https://www.lkm.org/members/?id=41501857)"
       ]
     },
     {
@@ -951,63 +1080,6 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "County meeting video: [Board Meeting Live Stream](https://www.ellisco.net/745/Board-Meeting-Live-Stream) says commission meetings are broadcast live on YouTube and links to the county YouTube channel."
-      ]
-    },
-    {
-      "id": "src-neal-younger-0034",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-neal-younger-0035",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-neal-younger-0037",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-neal-younger-0038",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)",
-        "\"url\": \"https://www.ihm-church.com/\","
-      ]
-    },
-    {
-      "id": "src-neal-younger-0039",
-      "tier": "secondary",
-      "url": "https://fhsuguides.fhsu.edu/kansasheritage/elliscounty",
-      "title": "Fhsuguides.Fhsu",
-      "publisher": "Fhsuguides.Fhsu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FHSU: Germans from Russia in Ellis County](https://fhsuguides.fhsu.edu/kansasheritage/elliscounty)"
       ]
     },
     {
@@ -1024,106 +1096,6 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
         "> -- Hays Post, 2026, https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6",
         "\"source\": \"Hays Post, 2026, https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6\",",
         "[Hays Post, Jan. 13, 2026](https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6): reported Younger was appointed commission chairman for 2026, had the highest commissioner salary because he was longest-serving commissioner, and was appointed to the"
-      ]
-    },
-    {
-      "id": "src-neal-younger-0050",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ICE Agreement Explained -- Hays Post](https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6)"
-      ]
-    },
-    {
-      "id": "src-neal-younger-0051",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ICE Bill Support -- Hays Post](https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07)"
-      ]
-    },
-    {
-      "id": "src-neal-younger-0052",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-neal-younger-0054",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-neal-younger-0055",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Criminal Threat Sentencing -- Hays Post](https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58)"
-      ]
-    },
-    {
-      "id": "src-neal-younger-0056",
-      "tier": "secondary",
-      "url": "https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3",
-      "title": "Salinapost",
-      "publisher": "Salinapost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Drug Death Case -- Salina Post](https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3)"
-      ]
-    },
-    {
-      "id": "src-neal-younger-0081",
-      "tier": "secondary",
-      "url": "https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849",
-      "title": "Issuu",
-      "publisher": "Issuu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)"
-      ]
-    },
-    {
-      "id": "src-neal-younger-0082",
-      "tier": "secondary",
-      "url": "https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/",
-      "title": "Kwch",
-      "publisher": "Kwch",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KWCH: $15M grant](https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/)",
-        "\"source\": \"KWCH / Hays water coverage, 2025-04-03, https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/\","
-      ]
-    },
-    {
-      "id": "src-neal-younger-0083",
-      "tier": "secondary",
-      "url": "https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/",
-      "title": "Eenews",
-      "publisher": "Eenews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)"
       ]
     },
     {
@@ -1149,6 +1121,17 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "src-neal-younger-0109",
+      "tier": "secondary",
+      "url": "https://greatbendpost.com/posts/abf8f598-5bf6-4fe2-b37b-60984c3b87c9",
+      "title": "Greatbendpost",
+      "publisher": "Greatbendpost",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Hays Post, Apr. 3, 2025](https://greatbendpost.com/posts/abf8f598-5bf6-4fe2-b37b-60984c3b87c9): after former County Attorney Robert Anderson apologized for a budget overrun, Younger said it took a real person to apologize."
+      ]
+    },
+    {
       "id": "src-neal-younger-0110",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/350cf193-dff2-47d7-a993-b3ceec507caa",
@@ -1168,6 +1151,17 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[Hays Post, Oct. 13, 2025](https://hayspost.com/posts/769b9cc3-43f2-4772-9389-e5a962d9a36a): reported Younger asked for clarification on how long AMP Rentals would have access to a county-owned water well while awaiting a rural water meter."
+      ]
+    },
+    {
+      "id": "src-neal-younger-0119",
+      "tier": "secondary",
+      "url": "https://www.ike-lab.com/complete_elex_2024_pri_cotwp_Ellis.html",
+      "title": "Ike-Lab",
+      "publisher": "Ike-Lab",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[2024 primary results mirror](https://www.ike-lab.com/complete_elex_2024_pri_cotwp_Ellis.html) lists County Commission District 2 Republican primary: Neal Younger, 381 votes."
       ]
     }
   ]

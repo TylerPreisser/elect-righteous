@@ -22,9 +22,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "stated": {
         "text": "Candidate-stated evidence: Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-unity-careerism-star-bonds-in-first-big-pitch-for-states-highest-office/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kansas-informer-debate",
-          "s-campaign-about",
-          "s-freestate-debate-pt2"
+          "s-kansas-informer-debate"
         ]
       },
       "actions": [
@@ -43,168 +41,38 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public evidence: His economic message is inseparable from his outsider pitch. On the campaign site, Sarnecki presents himself as \"Kansas Dad - Husband - Businessman\" and says his plan is to stand with President Trump, create jobs, lower taxes, restore parental rights, end woke policies, bring business-style accountability, and cut red tape. (source) The campaign launch release says, \"Like President Trump, I've never run for office b... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-home",
-          "s-freestate-debate-pt2"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-philip-sarnecki-00004",
-          "date": "Undated",
-          "body": "His economic message is inseparable from his outsider pitch. On the campaign site, Sarnecki presents himself as \"Kansas Dad - Husband - Businessman\" and says his plan is to stand with President Trump, create jobs, lower taxes, restore parental rights, end woke policies, bring business-style accountability, and cut red tape. (source) The campaign launch release says, \"Like President Trump, I've never run for office before,\" and argues that Kansas needs a business approach rather than the \"career politician mindset....",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-00008",
-          "date": "Undated",
-          "body": "Education content is less frequent than taxes and outsider messaging, but it is explicit. The campaign site says education elites are trying to replace parents and that Sarnecki would restore parental rights and end woke policies. (source) In the X sample, he wrote that classrooms are pushing agendas instead of reading, writing, and math, and that as governor he would restore focus to children's futures. (source) The Charlie Kirk / Trump role-model post gives that education frame its most viral visible expression...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-02400",
-          "date": "Undated",
-          "body": "The campaign homepage lists \"restore parental rights\" and \"end woke policies\" under its plan and says \"education elites\" are trying to replace parents. Source: https://philipsarnecki.org/",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-philip-sarnecki-0005",
-          "platform": "philipsarnecki.org",
-          "observation": "The campaign's plan page language is compact and repetitive: stand with President Trump, create jobs, lower taxes, restore parental rights, end woke policies, keep kids and grandkids in Kansas, bring business-style accountability to government, and cut red tape for small business. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-philip-sarnecki-0006",
-          "platform": "philipsarnecki.org",
-          "observation": "Campaign homepage plan list, captured 2026-05-11. The plan says Sarnecki would stand with Trump, create jobs, lower taxes, restore parental rights, end woke policies, create opportunity for young Kansans, bring business accountability, and cut red tape. (source)",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: Education content is less frequent than taxes and outsider messaging, but it is explicit. The campaign site says education elites are trying to replace parents and that Sarnecki would restore parental rights and end woke policies. (source) In the X sample, he wrote that classrooms are pushing agendas instead of reading, writing, and math, and that as governor he would restore focus to children's futures. (source) Th... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-home",
-          "src-philip-sarnecki-0001",
-          "src-philip-sarnecki-0023",
-          "s-freestate-debate-pt2"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-philip-sarnecki-00008",
-          "date": "Undated",
-          "body": "Education content is less frequent than taxes and outsider messaging, but it is explicit. The campaign site says education elites are trying to replace parents and that Sarnecki would restore parental rights and end woke policies. (source) In the X sample, he wrote that classrooms are pushing agendas instead of reading, writing, and math, and that as governor he would restore focus to children's futures. (source) The Charlie Kirk / Trump role-model post gives that education frame its most viral visible expression...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-02400",
-          "date": "Undated",
-          "body": "The campaign homepage lists \"restore parental rights\" and \"end woke policies\" under its plan and says \"education elites\" are trying to replace parents. Source: https://philipsarnecki.org/",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-02846",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.haysusa.com/335/Public-Library-Board\"",
-          "sourceIds": [
-            "src-philip-sarnecki-0001"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-02918",
-          "date": "Undated",
-          "body": "\"source\": \"Kansas Comeback campaign website, accessed April 1, 2026, https://www.kansascomeback.com/education\"",
-          "sourceIds": [
-            "src-philip-sarnecki-0023"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-philip-sarnecki-0008",
-          "platform": "philipsarnecki.org",
-          "observation": "The official campaign site is Sarnecki's central candidate-controlled channel. It frames him as a \"Kansas Dad,\" husband, businessman, job creator, Christian, and political outsider. The site says Kansas is suffering from high taxes, out-of-control property taxes, \"radical hiring policies instead of merit,\" education elites replacing parents, young Kansans leaving for opportunity, and Republican losses under a Democr...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-philip-sarnecki-0010",
-          "platform": "philipsarnecki.org",
-          "observation": "Campaign homepage issue list, captured 2026-05-11. The site lists highest regional taxes, second-highest corporate tax rate among border states, property taxes, DEI-style hiring, parental displacement in education, and young Kansans leaving for opportunity. (source)",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Faith and family are part of Sarnecki's public identity. The campaign biography says he is guided by faith in God and committed to conservative values including faith, family, hard work, and accountability. (source) Real Media KC's interview page says he is guided by Christian faith and conservative values and presents his business story alongside family, 513 Films, Athletes in Action, and blue-collar roots. (source... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-about"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": [
         {
-          "id": "soc-philip-sarnecki-0008",
-          "platform": "philipsarnecki.org",
-          "observation": "The official campaign site is Sarnecki's central candidate-controlled channel. It frames him as a \"Kansas Dad,\" husband, businessman, job creator, Christian, and political outsider. The site says Kansas is suffering from high taxes, out-of-control property taxes, \"radical hiring policies instead of merit,\" education elites replacing parents, young Kansans leaving for opportunity, and Republican losses under a Democr...",
+          "id": "soc-philip-sarnecki-0015",
+          "platform": "kspress.com",
+          "observation": "Credible public coverage and interviews reinforce the same candidate-controlled message. Kansas Reflector/Kansas Press Association described Sarnecki as weary of Republicans losing governor races and joining a field dominated by career politicians. (source) WIBW/KWCH reported the campaign priorities from his announcement release. (source) Real Media KC published a long candidate interview and transcript centered on...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-philip-sarnecki-0014",
-          "platform": "philipsarnecki.org",
-          "observation": "The biography page emphasizes the son-of-a-janitor-and-secretary story, RPS Financial Group, Strickland Brothers quick-lube franchises, 513 Films, Athletes in Action, Finseca, youth baseball coaching, faith in God, conservative values, Heidi Sarnecki, three children, and the Franklin County farm. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-philip-sarnecki-0016",
-          "platform": "philipsarnecki.org",
-          "observation": "Campaign biography page, captured 2026-05-11. The page presents Sarnecki as a businessman, job creator, husband, father, Christian conservative, former Athletes in Action board chair, former Finseca board member, youth baseball coach, and Bucyrus resident. (source)",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-campaign-about"
+            "s-kspress-launch"
           ],
           "mappedToIssueId": "i-religious-liberty-church-civic-morality"
         },
@@ -215,6 +83,16 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
           "observedAt": "2025-09-19",
           "sourceIds": [
             "s-realmedia-interview"
+          ],
+          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
+        },
+        {
+          "id": "soc-philip-sarnecki-0018",
+          "platform": "cultureshield.com",
+          "observation": "Culture Shield Action endorsement capture. Culture Shield Action announced an endorsement, quoting Sarnecki as proud and honored and describing him through conservative Christian, life, and family-values language. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-philip-sarnecki-0019"
           ],
           "mappedToIssueId": "i-religious-liberty-church-civic-morality"
         }
@@ -224,54 +102,13 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: The same contrast dominates his X presence. In the public mirror sample, Sarnecki repeatedly blames \"career politicians\" for high taxes, state budget growth, population stagnation, weak job creation, red tape, regulation, and Republican losses. He wrote that the state budget had risen more than 60 percent in seven years while population had not grown, and said Kansans should keep more money while government keeps le... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: HPPR/Kansas Reflector May 12, 2026 coverage reported Sarnecki joined other GOP candidates calling for Gov. Laura Kelly to bring lawmakers back for a property-tax special session after the Legislature failed to pass a constitutional amendment. Source: https://www.hppr.org/hppr-news/2026-05-12/kansas-contemplates-special-legislative-session-to-rekindle-debate-on-property-taxes Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
-          "s-sos-candidate-info",
-          "s-hppr-property-special-session"
+          "s-hppr-property-special-session",
+          "s-freestate-debate-pt1"
         ]
       },
       "actions": [
-        {
-          "id": "em-philip-sarnecki-00003",
-          "date": "Undated",
-          "body": "Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out of homes and leaving for opportunity. (source) In one indexed X post, Sarnecki said property taxes...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-00004",
-          "date": "Undated",
-          "body": "His economic message is inseparable from his outsider pitch. On the campaign site, Sarnecki presents himself as \"Kansas Dad - Husband - Businessman\" and says his plan is to stand with President Trump, create jobs, lower taxes, restore parental rights, end woke policies, bring business-style accountability, and cut red tape. (source) The campaign launch release says, \"Like President Trump, I've never run for office before,\" and argues that Kansas needs a business approach rather than the \"career politician mindset....",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-00008",
-          "date": "Undated",
-          "body": "Education content is less frequent than taxes and outsider messaging, but it is explicit. The campaign site says education elites are trying to replace parents and that Sarnecki would restore parental rights and end woke policies. (source) In the X sample, he wrote that classrooms are pushing agendas instead of reading, writing, and math, and that as governor he would restore focus to children's futures. (source) The Charlie Kirk / Trump role-model post gives that education frame its most viral visible expression...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-02378",
-          "date": "Undated",
-          "body": "Office / election cycle: Kansas Secretary of State candidate information lists Governor/Lt. Governor among offices to be elected or retained in 2026. The page says candidates for state office file with the Secretary of State and are not considered filed until the petition or declaration and fee are received. Source: https://www.sos.ks.gov/elections/candidate-information.html",
-          "sourceIds": [
-            "s-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-02395",
-          "date": "Undated",
-          "body": "The campaign homepage says Kansas has the highest taxes in the region, the second-highest corporate tax rate among border states, and out-of-control property taxes. It says young Kansans are leaving because opportunity is elsewhere and lists lower taxes, jobs, accountability, and red-tape reduction in \"Philip's Plan.\" Source: https://philipsarnecki.org/",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
         {
           "id": "em-philip-sarnecki-02397",
           "date": "2026-05-12",
@@ -281,85 +118,20 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-philip-sarnecki-0001",
-          "platform": "X / Twitter",
-          "observation": "Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-philip-sarnecki-0005",
-          "platform": "philipsarnecki.org",
-          "observation": "The campaign's plan page language is compact and repetitive: stand with President Trump, create jobs, lower taxes, restore parental rights, end woke policies, keep kids and grandkids in Kansas, bring business-style accountability to government, and cut red tape for small business. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-philip-sarnecki-0006",
-          "platform": "philipsarnecki.org",
-          "observation": "Campaign homepage plan list, captured 2026-05-11. The plan says Sarnecki would stand with Trump, create jobs, lower taxes, restore parental rights, end woke policies, create opportunity for young Kansans, bring business accountability, and cut red tape. (source)",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-philip-sarnecki-0008",
-          "platform": "philipsarnecki.org",
-          "observation": "The official campaign site is Sarnecki's central candidate-controlled channel. It frames him as a \"Kansas Dad,\" husband, businessman, job creator, Christian, and political outsider. The site says Kansas is suffering from high taxes, out-of-control property taxes, \"radical hiring policies instead of merit,\" education elites replacing parents, young Kansans leaving for opportunity, and Republican losses under a Democr...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public evidence: Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: The campaign website's launch release compares Sarnecki to President Trump as a first-time candidate and frames the race as a challenge to career politicians. Source: https://philipsarnecki.org/business-executive-philip-sarnecki-announces-run-for-kansas-governor/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
           "s-campaign-launch",
-          "s-campaign-about"
+          "s-realmedia-interview",
+          "s-freestate-debate-pt1"
         ]
       },
       "actions": [
-        {
-          "id": "em-philip-sarnecki-00003",
-          "date": "Undated",
-          "body": "Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out of homes and leaving for opportunity. (source) In one indexed X post, Sarnecki said property taxes...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-00004",
-          "date": "Undated",
-          "body": "His economic message is inseparable from his outsider pitch. On the campaign site, Sarnecki presents himself as \"Kansas Dad - Husband - Businessman\" and says his plan is to stand with President Trump, create jobs, lower taxes, restore parental rights, end woke policies, bring business-style accountability, and cut red tape. (source) The campaign launch release says, \"Like President Trump, I've never run for office before,\" and argues that Kansas needs a business approach rather than the \"career politician mindset....",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-02395",
-          "date": "Undated",
-          "body": "The campaign homepage says Kansas has the highest taxes in the region, the second-highest corporate tax rate among border states, and out-of-control property taxes. It says young Kansans are leaving because opportunity is elsewhere and lists lower taxes, jobs, accountability, and red-tape reduction in \"Philip's Plan.\" Source: https://philipsarnecki.org/",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
         {
           "id": "em-philip-sarnecki-02427",
           "date": "Undated",
@@ -367,44 +139,16 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-campaign-launch"
           ]
-        },
-        {
-          "id": "em-philip-sarnecki-00006",
-          "date": "Undated",
-          "body": "Trump alignment is a central visible signal, not a side note. The campaign homepage says Sarnecki would \"Stand with President Trump to fight for Kansas.\" (source) His launch language says Trump won Kansas three times but Republicans keep losing governor races, then promises, \"we're going to win big.\" (source) On X, Sarnecki accused Kansas GOP leaders of standing down on congressional redistricting, said Kansas could send another Trump-aligned Republican to Congress, and tied SNAP data disputes to the Trump adminis...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
         }
       ],
       "socialSignals": [
         {
-          "id": "soc-philip-sarnecki-0001",
-          "platform": "X / Twitter",
-          "observation": "Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out...",
+          "id": "soc-philip-sarnecki-0015",
+          "platform": "kspress.com",
+          "observation": "Credible public coverage and interviews reinforce the same candidate-controlled message. Kansas Reflector/Kansas Press Association described Sarnecki as weary of Republicans losing governor races and joining a field dominated by career politicians. (source) WIBW/KWCH reported the campaign priorities from his announcement release. (source) Real Media KC published a long candidate interview and transcript centered on...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-philip-sarnecki-0005",
-          "platform": "philipsarnecki.org",
-          "observation": "The campaign's plan page language is compact and repetitive: stand with President Trump, create jobs, lower taxes, restore parental rights, end woke policies, keep kids and grandkids in Kansas, bring business-style accountability to government, and cut red tape for small business. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
-        {
-          "id": "soc-philip-sarnecki-0006",
-          "platform": "philipsarnecki.org",
-          "observation": "Campaign homepage plan list, captured 2026-05-11. The plan says Sarnecki would stand with Trump, create jobs, lower taxes, restore parental rights, end woke policies, create opportunity for young Kansans, bring business accountability, and cut red tape. (source)",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-campaign-home"
+            "s-kspress-launch"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         },
@@ -415,6 +159,16 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
           "observedAt": "2025-09-19",
           "sourceIds": [
             "s-realmedia-interview"
+          ],
+          "mappedToIssueId": "i-economy-jobs-labor"
+        },
+        {
+          "id": "soc-philip-sarnecki-0024",
+          "platform": "X / Twitter",
+          "observation": "Indexed X sample: working families crushed by taxes, 2026-03-12. WLT Report embedded Sarnecki's post saying the governor's job is to lower taxes, help create jobs, and keep kids and grandkids in Kansas. (source)",
+          "observedAt": "2026-03-12",
+          "sourceIds": [
+            "src-philip-sarnecki-0108"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         }
@@ -434,48 +188,37 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigration and criminals from crime victims. (source) In the X mirror sample, Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas need... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
-          "s-freestate-debate-pt2"
+          "s-kspress-launch"
         ]
       },
       "actions": [
         {
-          "id": "em-philip-sarnecki-00003",
+          "id": "em-philip-sarnecki-00010",
           "date": "Undated",
-          "body": "Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out of homes and leaving for opportunity. (source) In one indexed X post, Sarnecki said property taxes...",
+          "body": "His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigration and criminals from crime victims. (source) In the X mirror sample, Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas needed a governor who would work with the administration to deport violent illegal immigrants. (source)",
           "sourceIds": [
-            "s-campaign-home"
+            "s-kspress-launch"
           ]
         },
         {
-          "id": "em-philip-sarnecki-02395",
+          "id": "em-philip-sarnecki-02407",
           "date": "Undated",
-          "body": "The campaign homepage says Kansas has the highest taxes in the region, the second-highest corporate tax rate among border states, and out-of-control property taxes. It says young Kansans are leaving because opportunity is elsewhere and lists lower taxes, jobs, accountability, and red-tape reduction in \"Philip's Plan.\" Source: https://philipsarnecki.org/",
+          "body": "Kansas Press Association/Kansas Reflector launch coverage reported Sarnecki criticized Democratic leaders for failing to distinguish illegal immigration from legal immigration and criminals from crime victims. Source: https://kspress.com/news/2025/09/02/johnson-county-businessman-launches-campaign-to-win-gop-nomination-for-governor",
           "sourceIds": [
-            "s-campaign-home"
+            "s-kspress-launch"
           ]
         }
       ],
       "socialSignals": [
         {
-          "id": "soc-philip-sarnecki-0001",
-          "platform": "X / Twitter",
-          "observation": "Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out...",
-          "observedAt": "2026-05-20",
+          "id": "soc-philip-sarnecki-0035",
+          "platform": "kspress.com",
+          "observation": "Launch coverage, 2025-09-02. Kansas Reflector/Kansas Press Association reported Sarnecki said he was tired of Republicans losing, criticized career politicians, said he could not be bought, and attacked Democrats on immigration and crime language. (source)",
+          "observedAt": "2025-09-02",
           "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
-        {
-          "id": "soc-philip-sarnecki-0010",
-          "platform": "philipsarnecki.org",
-          "observation": "Campaign homepage issue list, captured 2026-05-11. The site lists highest regional taxes, second-highest corporate tax rate among border states, property taxes, DEI-style hiring, parental displacement in education, and young Kansans leaving for opportunity. (source)",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-campaign-home"
+            "s-kspress-launch"
           ],
           "mappedToIssueId": "i-immigration-border"
         }
@@ -485,108 +228,33 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-philip-sarnecki-0050",
-          "src-philip-sarnecki-0043",
-          "src-philip-sarnecki-0047",
-          "src-philip-sarnecki-0053",
-          "src-philip-sarnecki-0044"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-philip-sarnecki-02226",
-          "date": "Undated",
-          "body": "Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)",
-          "sourceIds": [
-            "src-philip-sarnecki-0050"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-00235",
-          "date": "Undated",
-          "body": "> -- Kansas Reflector, March 8, 2026",
-          "sourceIds": [
-            "src-philip-sarnecki-0043"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-00584",
-          "date": "Undated",
-          "body": "Kansas Reflector: Democratic debate (March 8, 2026)",
-          "sourceIds": [
-            "src-philip-sarnecki-0043"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-02222",
-          "date": "Undated",
-          "body": "KWCH: Kansas insurance commissioner backs bill (Feb 2, 2026)",
-          "sourceIds": [
-            "src-philip-sarnecki-0047"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-02251",
-          "date": "Undated",
-          "body": "2022 Kansas Insurance Commissioner Election - Wikipedia",
-          "sourceIds": [
-            "src-philip-sarnecki-0053"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigration and criminals from crime victims. (source) In the X mirror sample, Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas need... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
-          "s-campaign-volunteer",
-          "s-kpdc-statewide-2026",
-          "s-kpdc-treasurer"
+          "s-kspress-launch",
+          "s-campaign-volunteer"
         ]
       },
       "actions": [
         {
-          "id": "em-philip-sarnecki-00003",
+          "id": "em-philip-sarnecki-00010",
           "date": "Undated",
-          "body": "Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out of homes and leaving for opportunity. (source) In one indexed X post, Sarnecki said property taxes...",
+          "body": "His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigration and criminals from crime victims. (source) In the X mirror sample, Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas needed a governor who would work with the administration to deport violent illegal immigrants. (source)",
           "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-00004",
-          "date": "Undated",
-          "body": "His economic message is inseparable from his outsider pitch. On the campaign site, Sarnecki presents himself as \"Kansas Dad - Husband - Businessman\" and says his plan is to stand with President Trump, create jobs, lower taxes, restore parental rights, end woke policies, bring business-style accountability, and cut red tape. (source) The campaign launch release says, \"Like President Trump, I've never run for office before,\" and argues that Kansas needs a business approach rather than the \"career politician mindset....",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-00008",
-          "date": "Undated",
-          "body": "Education content is less frequent than taxes and outsider messaging, but it is explicit. The campaign site says education elites are trying to replace parents and that Sarnecki would restore parental rights and end woke policies. (source) In the X sample, he wrote that classrooms are pushing agendas instead of reading, writing, and math, and that as governor he would restore focus to children's futures. (source) The Charlie Kirk / Trump role-model post gives that education frame its most viral visible expression...",
-          "sourceIds": [
-            "s-campaign-home"
+            "s-kspress-launch"
           ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-philip-sarnecki-0001",
-          "platform": "X / Twitter",
-          "observation": "Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
         {
           "id": "soc-philip-sarnecki-0040",
           "platform": "philipsarnecki.org",
@@ -603,107 +271,51 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Kansas Ethics filing index: SWLinks2026EC Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigration and criminals from crime victims. (source) In the X mirror sample, Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas need... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kpdc-statewide-2026",
-          "s-kpdc-jan2026-report",
-          "src-philip-sarnecki-0010"
+          "s-kspress-launch"
         ]
       },
       "actions": [
         {
-          "id": "em-philip-sarnecki-00164",
+          "id": "em-philip-sarnecki-00010",
           "date": "Undated",
-          "body": "Kansas Ethics filing index: SWLinks2026EC",
+          "body": "His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigration and criminals from crime victims. (source) In the X mirror sample, Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas needed a governor who would work with the administration to deport violent illegal immigrants. (source)",
           "sourceIds": [
-            "s-kpdc-statewide-2026"
+            "s-kspress-launch"
           ]
         },
         {
-          "id": "em-philip-sarnecki-00165",
+          "id": "em-philip-sarnecki-02407",
           "date": "Undated",
-          "body": "2026 filing PDF: SW01PS_202601.pdf",
+          "body": "Kansas Press Association/Kansas Reflector launch coverage reported Sarnecki criticized Democratic leaders for failing to distinguish illegal immigration from legal immigration and criminals from crime victims. Source: https://kspress.com/news/2025/09/02/johnson-county-businessman-launches-campaign-to-win-gop-nomination-for-governor",
           "sourceIds": [
-            "s-kpdc-jan2026-report"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-00172",
-          "date": "Undated",
-          "body": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01PS_202601.pdf",
-          "sourceIds": [
-            "s-kpdc-jan2026-report"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-01267",
-          "date": "Undated",
-          "body": "Kansas Ethics Commission - 2026 Election Cycle Filing",
-          "sourceIds": [
-            "src-philip-sarnecki-0010"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-01513",
-          "date": "Undated",
-          "body": "Filing URL: kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
-          "sourceIds": [
-            "s-kpdc-statewide-2026"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-01763",
-          "date": "Undated",
-          "body": "Kansas Ethics Commission -- 2026 Campaign Finance",
-          "sourceIds": [
-            "s-kpdc-statewide-2026"
-          ]
-        }
-      ],
-      "socialSignals": []
-    },
-    {
-      "id": "i-agriculture-rural-economy-water",
-      "title": "Agriculture / rural economy / water",
-      "stated": {
-        "text": "Documented public evidence: > -- Kansas Reflector, March 8, 2026 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-philip-sarnecki-0043",
-          "s-campaign-about",
-          "src-philip-sarnecki-0094",
-          "src-philip-sarnecki-0095"
-        ]
-      },
-      "actions": [
-        {
-          "id": "em-philip-sarnecki-00235",
-          "date": "Undated",
-          "body": "> -- Kansas Reflector, March 8, 2026",
-          "sourceIds": [
-            "src-philip-sarnecki-0043"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-00584",
-          "date": "Undated",
-          "body": "Kansas Reflector: Democratic debate (March 8, 2026)",
-          "sourceIds": [
-            "src-philip-sarnecki-0043"
+            "s-kspress-launch"
           ]
         }
       ],
       "socialSignals": [
         {
-          "id": "soc-philip-sarnecki-0014",
-          "platform": "philipsarnecki.org",
-          "observation": "The biography page emphasizes the son-of-a-janitor-and-secretary story, RPS Financial Group, Strickland Brothers quick-lube franchises, 513 Films, Athletes in Action, Finseca, youth baseball coaching, faith in God, conservative values, Heidi Sarnecki, three children, and the Franklin County farm. (source)",
-          "observedAt": "2026-05-20",
+          "id": "soc-philip-sarnecki-0035",
+          "platform": "kspress.com",
+          "observation": "Launch coverage, 2025-09-02. Kansas Reflector/Kansas Press Association reported Sarnecki said he was tired of Republicans losing, criticized career politicians, said he could not be bought, and attacked Democrats on immigration and crime language. (source)",
+          "observedAt": "2025-09-02",
           "sourceIds": [
-            "s-campaign-about"
+            "s-kspress-launch"
           ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
+          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
         }
       ]
+    },
+    {
+      "id": "i-agriculture-rural-economy-water",
+      "title": "Agriculture / rural economy / water",
+      "stated": {
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
@@ -712,9 +324,8 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-unity-careerism-star-bonds-in-first-big-pitch-for-states-highest-office/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kansas-informer-debate",
-          "s-campaign-home",
-          "s-campaign-volunteer",
-          "src-philip-sarnecki-0098"
+          "s-kspress-launch",
+          "s-campaign-volunteer"
         ]
       },
       "actions": [
@@ -727,68 +338,40 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-philip-sarnecki-00003",
+          "id": "em-philip-sarnecki-00010",
           "date": "Undated",
-          "body": "Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out of homes and leaving for opportunity. (source) In one indexed X post, Sarnecki said property taxes...",
+          "body": "His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigration and criminals from crime victims. (source) In the X mirror sample, Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas needed a governor who would work with the administration to deport violent illegal immigrants. (source)",
           "sourceIds": [
-            "s-campaign-home"
+            "s-kspress-launch"
           ]
         },
         {
-          "id": "em-philip-sarnecki-00004",
+          "id": "em-philip-sarnecki-02407",
           "date": "Undated",
-          "body": "His economic message is inseparable from his outsider pitch. On the campaign site, Sarnecki presents himself as \"Kansas Dad - Husband - Businessman\" and says his plan is to stand with President Trump, create jobs, lower taxes, restore parental rights, end woke policies, bring business-style accountability, and cut red tape. (source) The campaign launch release says, \"Like President Trump, I've never run for office before,\" and argues that Kansas needs a business approach rather than the \"career politician mindset....",
+          "body": "Kansas Press Association/Kansas Reflector launch coverage reported Sarnecki criticized Democratic leaders for failing to distinguish illegal immigration from legal immigration and criminals from crime victims. Source: https://kspress.com/news/2025/09/02/johnson-county-businessman-launches-campaign-to-win-gop-nomination-for-governor",
           "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-philip-sarnecki-00008",
-          "date": "Undated",
-          "body": "Education content is less frequent than taxes and outsider messaging, but it is explicit. The campaign site says education elites are trying to replace parents and that Sarnecki would restore parental rights and end woke policies. (source) In the X sample, he wrote that classrooms are pushing agendas instead of reading, writing, and math, and that as governor he would restore focus to children's futures. (source) The Charlie Kirk / Trump role-model post gives that education frame its most viral visible expression...",
-          "sourceIds": [
-            "s-campaign-home"
+            "s-kspress-launch"
           ]
         }
       ],
       "socialSignals": [
         {
-          "id": "soc-philip-sarnecki-0001",
-          "platform": "X / Twitter",
-          "observation": "Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out...",
+          "id": "soc-philip-sarnecki-0015",
+          "platform": "kspress.com",
+          "observation": "Credible public coverage and interviews reinforce the same candidate-controlled message. Kansas Reflector/Kansas Press Association described Sarnecki as weary of Republicans losing governor races and joining a field dominated by career politicians. (source) WIBW/KWCH reported the campaign priorities from his announcement release. (source) Real Media KC published a long candidate interview and transcript centered on...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-home"
+            "s-kspress-launch"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-philip-sarnecki-0005",
-          "platform": "philipsarnecki.org",
-          "observation": "The campaign's plan page language is compact and repetitive: stand with President Trump, create jobs, lower taxes, restore parental rights, end woke policies, keep kids and grandkids in Kansas, bring business-style accountability to government, and cut red tape for small business. (source)",
-          "observedAt": "2026-05-20",
+          "id": "soc-philip-sarnecki-0035",
+          "platform": "kspress.com",
+          "observation": "Launch coverage, 2025-09-02. Kansas Reflector/Kansas Press Association reported Sarnecki said he was tired of Republicans losing, criticized career politicians, said he could not be bought, and attacked Democrats on immigration and crime language. (source)",
+          "observedAt": "2025-09-02",
           "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-philip-sarnecki-0006",
-          "platform": "philipsarnecki.org",
-          "observation": "Campaign homepage plan list, captured 2026-05-11. The plan says Sarnecki would stand with Trump, create jobs, lower taxes, restore parental rights, end woke policies, create opportunity for young Kansans, bring business accountability, and cut red tape. (source)",
-          "observedAt": "2026-05-11",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-philip-sarnecki-0008",
-          "platform": "philipsarnecki.org",
-          "observation": "The official campaign site is Sarnecki's central candidate-controlled channel. It frames him as a \"Kansas Dad,\" husband, businessman, job creator, Christian, and political outsider. The site says Kansas is suffering from high taxes, out-of-control property taxes, \"radical hiring policies instead of merit,\" education elites replacing parents, young Kansans leaving for opportunity, and Republican losses under a Democr...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
+            "s-kspress-launch"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -800,8 +383,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Candidate-list limitation: The SOS live candidate-list endpoint (https://sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / robot-verification block in this environment. I could not directly confirm a live SOS candidate-list row for Sarnecki. Because the June 1 filing deadline has not yet passed as of May 19, 2026, do not describe the ballot as final.",
         "sourceIds": [
-          "s-sos-candidate-list-blocked",
-          "src-philip-sarnecki-0104"
+          "s-sos-candidate-list-blocked"
         ]
       },
       "actions": [
@@ -818,7 +400,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Philip Sarnecki is profiled here for Kansas Governor as a Republican. Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage say... His economic message is inseparable from his outsider pitch. On the campaign site, Sarnecki presents himself as \"Kansas Dad - Husband - Businessman\" and says his plan is to stand with President Trump, create jobs, lower taxes, restore parental rights, end wok... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 42 source-backed actions across 12 of the 14 issue areas. Representative public-record entries include: Abortion / life: Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-u... LGBT / gender / parental rights: His economic message is inseparable from his outsider pitch. On the campaign site, Sarnecki presents himself as \"Kansas Dad - Husband - Businessman\" and says his plan is to stand with President Trump, creat... LGBT / gender / parental rights: Education content is less frequent than taxes and outsider messaging, but it is explicit. The campaign site says education elites are trying to replace parents and that Sarnecki would restore parental right... LGBT / gender / parental rights: The campaign homepage lists \"restore parental rights\" and \"end woke policies\" under its plan and says \"education elites\" are trying to replace parents. Source: https://philipsarnecki.org/. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 12 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Abortion / life: Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-u... Taxes / spending / debt: HPPR/Kansas Reflector May 12, 2026 coverage reported Sarnecki joined other GOP candidates calling for Gov. Laura Kelly to bring lawmakers back for a property-tax special session after the Legislature failed to pass... Economy / jobs / labor: The campaign website's launch release compares Sarnecki to President Trump as a first-time candidate and frames the race as a challenge to career politicians. Source: https://philipsarnecki.org/business-executive-ph... Immigration / border: His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distin... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public materials identify Sarnecki as Christian, but public sources do not name a current church affiliation or church website. His campaign is faith-forward, but the available record stops short of tying him to a specific congregation.",
   "campaignFinance": {
     "totalRaised": "$2,528,715.73",
@@ -827,25 +409,8 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 to 2025-12-31",
     "source": "Philip Sarnecki Campaign Finance Receipts and Expenditures Report - January 2026"
   },
-  "socialResearchNote": "25 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "11 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
-    {
-      "id": "s-sos-candidate-info",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
-      "title": "Candidate Information",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidates for state office file with the Secretary of State.",
-        "A candidate is not considered filed until the petition or declaration and fee is received.",
-        "Primary election candidate filing deadline is 12:00 p.m. Monday, June 1, 2026.",
-        "Governor/Lt. Governor is listed among offices to be elected or retained in 2026.",
-        "Office / election cycle: Kansas Secretary of State candidate information lists Governor/Lt. Governor among offices to be elected or retained in 2026. The page says candidates for state office file with the Secretary of State and are not considered filed until",
-        "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Statewide filing rules, Governor/Lt. Governor on 2026 office list, noon June 1 filing deadline | official status |",
-        "\"url\": \"https://www.sos.ks.gov/elections/candidate-information.html\","
-      ]
-    },
     {
       "id": "s-sos-candidate-list-blocked",
       "tier": "primary",
@@ -996,6 +561,20 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-freestate-debate-pt1",
+      "tier": "secondary",
+      "url": "https://freestatenews.net/local-issues/transcript-of-the-gop-governors-debate-january-30-2026-part-1/",
+      "title": "Transcript of the GOP Governor's Debate January 30, 2026. Part 1",
+      "publisher": "Free State News",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Unofficial cleaned transcript records Sarnecki on Kansas losing people, jobs, prosperity, business recruitment, taxes, regulation, property taxes, and state/federal cooperation.",
+        "The Free State News debate transcript records Sarnecki saying states should work with the federal government and provide records when asked in the context of benefits and people in the country illegally. Source: https://freestatenews.net/local-issues/transcrip",
+        "Free State News' unofficial January 30, 2026 debate transcript records Sarnecki arguing Kansas needed \"prosperity\" and stronger job creation, saying Kansas was losing residents, and tying his answer to business recruitment, taxes, and regulation. Source: https",
+        "| s-freestate-debate-pt1 | secondary | https://freestatenews.net/local-issues/transcript-of-the-gop-governors-debate-january-30-2026-part-1/ | 2026-02-17; accessed 2026-05-19 | Unofficial cleaned debate transcript: taxes, economy, jobs, property taxes, state/f"
+      ]
+    },
+    {
       "id": "s-freestate-debate-pt2",
       "tier": "secondary",
       "url": "https://freestatenews.net/local-issues/gop-governors-debate-transcript-part-2/",
@@ -1041,6 +620,24 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-kspress-launch",
+      "tier": "secondary",
+      "url": "https://kspress.com/news/2025/09/02/johnson-county-businessman-launches-campaign-to-win-gop-nomination-for-governor",
+      "title": "Johnson County businessman launches campaign to win GOP nomination for governor",
+      "publisher": "Kansas Press Association / Kansas Reflector",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Coverage describes Sarnecki as a Johnson County businessman from Bucyrus.",
+        "Coverage reports Sarnecki joined a field dominated by career politicians.",
+        "Coverage reports Sarnecki's immigration and crime language from launch.",
+        "His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigr",
+        "| s-kspress-launch | secondary | https://kspress.com/news/2025/09/02/johnson-county-businessman-launches-campaign-to-win-gop-nomination-for-governor | 2025-09-02; accessed 2026-05-19 | Launch coverage: Bucyrus/Johnson County businessman, career-politician fiel",
+        "Credible public coverage and interviews reinforce the same candidate-controlled message. Kansas Reflector/Kansas Press Association described Sarnecki as weary of Republicans losing governor races and joining a field dominated by career politicians. ([source](h",
+        "Launch coverage, 2025-09-02. Kansas Reflector/Kansas Press Association reported Sarnecki said he was tired of Republicans losing, criticized career politicians, said he could not be bought, and attacked Democrats on immigration and crime language. ([source](ht",
+        "Kansas Press Association/Kansas Reflector launch coverage reported Sarnecki criticized Democratic leaders for failing to distinguish illegal immigration from legal immigration and criminals from crime victims. Source: https://kspress.com/news/2025/09/02/johnso"
+      ]
+    },
+    {
       "id": "s-realmedia-interview",
       "tier": "secondary",
       "url": "https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/",
@@ -1063,143 +660,140 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-philip-sarnecki-0001",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.haysusa.com/335/Public-Library-Board\""
-      ]
-    },
-    {
-      "id": "src-philip-sarnecki-0010",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf",
-      "title": "Kansas",
-      "publisher": "Kansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Ethics Commission - 2026 Election Cycle Filing](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf)"
-      ]
-    },
-    {
-      "id": "src-philip-sarnecki-0023",
+      "id": "src-philip-sarnecki-0019",
       "tier": "secondary",
-      "url": "https://www.kansascomeback.com/education",
-      "title": "Kansascomeback",
-      "publisher": "Kansascomeback",
+      "url": "https://www.cultureshield.com/culture-shield-action-endorses-philip-sarnecki-for-governor/",
+      "title": "Cultureshield",
+      "publisher": "Cultureshield",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "\"source\": \"Kansas Comeback campaign website, accessed April 1, 2026, https://www.kansascomeback.com/education\","
+        "| s-culture-shield-endorsement | secondary | https://www.cultureshield.com/culture-shield-action-endorses-philip-sarnecki-for-governor/ | accessed 2026-05-19 | Endorsement page with conservative Christian/family/pro-life language; not used to infer positions w",
+        "Culture Shield Action endorsement capture. Culture Shield Action announced an endorsement, quoting Sarnecki as proud and honored and describing him through conservative Christian, life, and family-values language. ([source](https://www.cultureshield.com/cultur",
+        "Culture Shield Action published an endorsement page using conservative Christian, life, family, and parental-rights language. This pass did not use the endorsement to infer Sarnecki's positions where direct candidate statements were available. Source: https://"
       ]
     },
     {
-      "id": "src-philip-sarnecki-0043",
+      "id": "src-philip-sarnecki-0075",
       "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
+      "url": "https://kansasreflector.com/briefs/johnson-county-businessman-launches-campaign-to-win-gop-nomination-for-governor/",
       "title": "Kansasreflector",
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "> -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)",
-        "[Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)"
+        "[Kansas Reflector: Sarnecki launches campaign (Sept 2025)](https://kansasreflector.com/briefs/johnson-county-businessman-launches-campaign-to-win-gop-nomination-for-governor/)"
       ]
     },
     {
-      "id": "src-philip-sarnecki-0044",
+      "id": "src-philip-sarnecki-0076",
       "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
+      "url": "https://www.wibw.com/2025/09/02/kansas-businessman-announces-campaign-governor/",
+      "title": "Wibw",
+      "publisher": "Wibw",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KSHB - Ukraine medical mission](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
+        "[WIBW: Sarnecki announces (Sept 2, 2025)](https://www.wibw.com/2025/09/02/kansas-businessman-announces-campaign-governor/)"
       ]
     },
     {
-      "id": "src-philip-sarnecki-0047",
+      "id": "src-philip-sarnecki-0077",
       "tier": "secondary",
-      "url": "https://www.kwch.com/2026/02/02/kansas-insurance-commissioner-backs-bill-eliminate-breast-cancer-screening-costs/",
-      "title": "Kwch",
-      "publisher": "Kwch",
+      "url": "https://bottradionetwork.com/ministry/encounter-special-edition/2025-10-03-philip-sarnecki-on-leadership-and-the-kansas-governors-race/",
+      "title": "Bottradionetwork",
+      "publisher": "Bottradionetwork",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KWCH: Kansas insurance commissioner backs bill (Feb 2, 2026)](https://www.kwch.com/2026/02/02/kansas-insurance-commissioner-backs-bill-eliminate-breast-cancer-screening-costs/)"
+        "[Bott Radio Network: Sarnecki interview (Oct 3, 2025)](https://bottradionetwork.com/ministry/encounter-special-edition/2025-10-03-philip-sarnecki-on-leadership-and-the-kansas-governors-race/)"
       ]
     },
     {
-      "id": "src-philip-sarnecki-0050",
+      "id": "src-philip-sarnecki-0108",
       "tier": "secondary",
-      "url": "https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/",
-      "title": "Www2.Ljworld",
-      "publisher": "Www2.Ljworld",
+      "url": "https://wltreport.com/2026/03/18/meet-republican-businessman-outsider-running-kansas-governor-gaining/",
+      "title": "Wltreport",
+      "publisher": "Wltreport",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)](https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/)"
+        "Indexed X sample: property taxes, 2026-03-11. WLT Report / 100PercentFedUp embedded Sarnecki's X post saying property taxes are out of control in Kansas, seniors are being forced out of homes, and working families are squeezed. ([source](https://wltreport.com/",
+        "Indexed X sample: working families crushed by taxes, 2026-03-12. WLT Report embedded Sarnecki's post saying the governor's job is to lower taxes, help create jobs, and keep kids and grandkids in Kansas. ([source](https://wltreport.com/2026/03/18/meet-republica",
+        "[WLT Report: Meet the Republican businessman outsider (March 18, 2026)](https://wltreport.com/2026/03/18/meet-republican-businessman-outsider-running-kansas-governor-gaining/)",
+        "Indexed X sample: Virginia redistricting / Kansas opportunity, 2026-03-13. WLT Report embedded Sarnecki's post saying Barack Obama jumped into Virginia redistricting and Kansas Republicans had an opportunity to send another Trump-aligned Republican to Congress"
       ]
     },
     {
-      "id": "src-philip-sarnecki-0053",
-      "tier": "secondary",
-      "url": "https://www.insurancejournal.com/news/midwest/2022/11/09/694560.htm",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
+      "id": "src-philip-sarnecki-0109",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/philipsarnecki/",
+      "title": "Linkedin",
+      "publisher": "Linkedin",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[2022 Kansas Insurance Commissioner Election - Wikipedia](https://en.wikipedia.org/wiki/2022_Kansas_Insurance_Commissioner_election)"
+        "| LinkedIn | https://www.linkedin.com/in/philipsarnecki/ | FOUND / BACKGROUND | Public candidate/business identity profile surfaced in prior candidate data and public search. It was not treated as an active campaign posting channel in this harvest. |",
+        "LinkedIn: [R. Philip Sarnecki - 513 Films, LLC](https://www.linkedin.com/in/philipsarnecki/)",
+        "[R. Philip Sarnecki - 513 Films, LLC](https://www.linkedin.com/in/philipsarnecki/)"
       ]
     },
     {
-      "id": "src-philip-sarnecki-0094",
+      "id": "src-philip-sarnecki-0126",
       "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
+      "url": "https://www.imdb.com/name/nm3671154/",
+      "title": "Imdb",
+      "publisher": "Imdb",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)",
-        "[Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)"
+        "IMDB: [Philip Sarnecki | Producer](https://www.imdb.com/name/nm3671154/)",
+        "[IMDB: Philip Sarnecki](https://www.imdb.com/name/nm3671154/)",
+        "[Philip Sarnecki | Producer](https://www.imdb.com/name/nm3671154/)",
+        "| IMDb | https://www.imdb.com/name/nm3671154/ | FOUND / BACKGROUND | Public film-producer identity page surfaced in prior candidate data; not a social campaign channel. |"
       ]
     },
     {
-      "id": "src-philip-sarnecki-0095",
-      "tier": "secondary",
-      "url": "https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/",
-      "title": "Schooleymitchell",
-      "publisher": "Schooleymitchell",
+      "id": "src-philip-sarnecki-0161",
+      "tier": "social",
+      "url": "https://www.facebook.com/p/Philip-Sarnecki-For-Governor-61579950041528/",
+      "title": "Facebook",
+      "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)"
+        "Facebook: [Philip Sarnecki For Governor](https://www.facebook.com/p/Philip-Sarnecki-For-Governor-61579950041528/)",
+        "[Philip Sarnecki For Governor](https://www.facebook.com/p/Philip-Sarnecki-For-Governor-61579950041528/)",
+        "\"url\": \"https://www.facebook.com/p/Philip-Sarnecki-For-Governor-61579950041528/\""
       ]
     },
     {
-      "id": "src-philip-sarnecki-0098",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
+      "id": "src-philip-sarnecki-0166",
+      "tier": "social",
+      "url": "https://www.instagram.com/philip_sarnecki/",
+      "title": "Instagram",
+      "publisher": "Instagram",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "> -- [Kansas Reflector, January 19, 2026](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector: Millionaire candidates (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector - Millionaire candidates fundraising (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector: Millionaire candidates](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector: Millionaire candidates burnish fundraising (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "\"source\": \"Kansas Reflector, January 19, 2026, https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/\",",
-        "\"url\": \"https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/\","
+        "https://www.instagram.com/philip_sarnecki/",
+        "[instagram.com](https://www.instagram.com/philip_sarnecki/)",
+        "| Instagram | https://www.instagram.com/philip_sarnecki/ | FOUND | Campaign site source links this handle. Logged-out capture did not expose reliable post inventory or engagement counts. |"
       ]
     },
     {
-      "id": "src-philip-sarnecki-0104",
-      "tier": "secondary",
-      "url": "https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor",
-      "title": "Noln",
-      "publisher": "Noln",
+      "id": "src-philip-sarnecki-0168",
+      "tier": "social",
+      "url": "https://x.com/Philip_Sarnecki",
+      "title": "X",
+      "publisher": "X",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)"
+        "[Twitter/X](https://x.com/Philip_Sarnecki)",
+        "| X / Twitter | https://x.com/Philip_Sarnecki | FOUND | Campaign site source links this account. Direct X timeline was not accessible logged out; a public mirror identified the account as joined June 2025 with about 85 tweets, 3K followers, 211 following, and"
+      ]
+    },
+    {
+      "id": "src-philip-sarnecki-0169",
+      "tier": "social",
+      "url": "https://www.facebook.com/profile.php?id=61579950041528",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| Facebook | https://www.facebook.com/profile.php?id=61579950041528 and https://www.facebook.com/p/Philip-Sarnecki-For-Governor-61579950041528/ | FOUND | Campaign site source links the profile ID; candidates.ts also lists the /p/Philip-Sarnecki-For-Governor-61",
+        "The campaign site source links four social accounts: Facebook at [profile ID 61579950041528](https://www.facebook.com/profile.php?id=61579950041528), Instagram at [philip_sarnecki](https://www.instagram.com/philip_sarnecki/), YouTube at [@PhilipSarneckiforGove"
       ]
     }
   ]

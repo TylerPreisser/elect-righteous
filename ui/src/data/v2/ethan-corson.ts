@@ -44,10 +44,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
         "sourceIds": [
           "src-ethan-corson-0043",
           "s-ks-reflector-debate",
-          "src-ethan-corson-0046",
-          "src-ethan-corson-0014",
-          "src-ethan-corson-0015",
-          "src-ethan-corson-0048"
+          "src-ethan-corson-0042"
         ]
       },
       "actions": [
@@ -65,38 +62,6 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
           "body": "On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, \"Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor\" (source). The campaign site also surfaced mental-health language, including snippets about school mental-health services and mental health as a concern for \"parents to first responders and farmers\" (source). In the captur...",
           "sourceIds": [
             "s-ks-reflector-debate"
-          ]
-        },
-        {
-          "id": "em-ethan-corson-00426",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-ethan-corson-0046"
-          ]
-        },
-        {
-          "id": "em-ethan-corson-01245",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-ethan-corson-0014"
-          ]
-        },
-        {
-          "id": "em-ethan-corson-01309",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-ethan-corson-0015"
-          ]
-        },
-        {
-          "id": "em-ethan-corson-01627",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas SBOE election 2026",
-          "sourceIds": [
-            "src-ethan-corson-0048"
           ]
         }
       ],
@@ -147,13 +112,8 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-ethan-corson-0050",
-          "src-ethan-corson-0051",
-          "src-ethan-corson-0045",
-          "src-ethan-corson-0052"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -162,23 +122,13 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: Brennan Center: Wisconsin Supreme Court spending record Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Across the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" (harvest). The same si... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-ethan-corson-0062",
           "src-ethan-corson-0042",
           "src-ethan-corson-0061"
         ]
       },
-      "actions": [
-        {
-          "id": "em-ethan-corson-01586",
-          "date": "Undated",
-          "body": "Brennan Center: Wisconsin Supreme Court spending record",
-          "sourceIds": [
-            "src-ethan-corson-0062"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-ethan-corson-0003",
@@ -259,21 +209,10 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: CNN: 8 states vote to bar noncitizen voting Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-ethan-corson-0065"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-ethan-corson-01595",
-          "date": "Undated",
-          "body": "CNN: 8 states vote to bar noncitizen voting",
-          "sourceIds": [
-            "src-ethan-corson-0065"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -283,8 +222,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and special education funding (harvest). In a 2019 campaign quote that remains part of his public record, Corson said, \"Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission p... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ethan-corson-0043",
-          "s-ks-reflector-debate",
-          "src-ethan-corson-0057"
+          "s-ks-reflector-debate"
         ]
       },
       "actions": [
@@ -380,10 +318,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
         "sourceIds": [
           "src-ethan-corson-0067",
           "src-ethan-corson-0043",
-          "s-ks-reflector-debate",
-          "src-ethan-corson-0058",
-          "src-ethan-corson-0095",
-          "src-ethan-corson-0096"
+          "s-ks-reflector-debate"
         ]
       },
       "actions": [
@@ -439,55 +374,10 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Kansas Ethics filing: SW01EC_202601.pdf Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-ethan-corson-0026",
-          "s-kpdc-statewide-2026",
-          "src-ethan-corson-0046"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-ethan-corson-00204",
-          "date": "Undated",
-          "body": "Kansas Ethics filing: SW01EC_202601.pdf",
-          "sourceIds": [
-            "src-ethan-corson-0026"
-          ]
-        },
-        {
-          "id": "em-ethan-corson-00226",
-          "date": "Undated",
-          "body": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf",
-          "sourceIds": [
-            "src-ethan-corson-0026"
-          ]
-        },
-        {
-          "id": "em-ethan-corson-00239",
-          "date": "Undated",
-          "body": "Kansas Ethics filing index: SWLinks2026EC",
-          "sourceIds": [
-            "s-kpdc-statewide-2026"
-          ]
-        },
-        {
-          "id": "em-ethan-corson-00240",
-          "date": "Undated",
-          "body": "2026 filing PDF: SW01EC_202601.pdf",
-          "sourceIds": [
-            "src-ethan-corson-0026"
-          ]
-        },
-        {
-          "id": "em-ethan-corson-00426",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-ethan-corson-0046"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -576,9 +466,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
           "src-ethan-corson-0067",
           "src-ethan-corson-0043",
           "s-ks-reflector-debate",
-          "src-ethan-corson-0042",
-          "src-ethan-corson-0045",
-          "src-ethan-corson-0057"
+          "src-ethan-corson-0042"
         ]
       },
       "actions": [
@@ -654,17 +542,15 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Reviewed evidence: NOLN: Strickland Brothers franchise owner Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-ethan-corson-0135"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
   "whoTheyAre": "Ethan Corson is profiled here for Kansas Governor as a Democratic. Corson presents himself as a bipartisan, moderate, results-focused Democrat rather than an ideological fighter. In his launch statement, he said, \"I'm not interested in the partisan battles you see on cable news. Kansans want leaders who work together, regard... Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and special education funding (harvest). In a 2019 campaign quote... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 29 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and special... Education / curriculum / schools: On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, \"Kansans should be able to ge... Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 18 source-backed actions across 6 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and special... Education / curriculum / schools: On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, \"Kansans should be able to ge... Economy / jobs / labor: lowering cost of living - Senate campaign / legislative profile, 2026-04-01, https://ethanforkansas.com/ - topic: governing priorities. Health care / insurance / Medicaid: Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and speci... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources identify Corson as Jewish, but they do not identify a current synagogue affiliation.",
   "campaignFinance": {
     "totalRaised": "$902,641.13",
@@ -690,6 +576,111 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
         "Kansas Ethics filing index: [SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
         "[SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
         "| s-kpdc-statewide-2026 | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm | accessed 2026-05-19 | KPDC statewide index lists Corson under gubernatorial candidates; page last updated Jan. 22, 2026; links AT and 202601 f"
+      ]
+    },
+    {
+      "id": "s-kpdc-202601",
+      "tier": "primary",
+      "url": "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf",
+      "title": "Campaign Finance Receipts and Expenditures Report - Ethan Corson",
+      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Report covers January 1, 2025 through December 31, 2025",
+        "Candidate Name: Ethan Corson",
+        "Office Sought: Governor",
+        "Total contributions and other receipts were $902,641.13",
+        "Total expenditures and other disbursements were $375,665.32",
+        "Cash on hand at close of period was $526,975.81",
+        "In-kind contributions were $6,797.37",
+        "Other transactions were $0.00",
+        "Electronically filed January 9, 2026; signature of candidate or treasurer Tom Hawk",
+        "| s-kpdc-202601 | primary | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf | filed 2026-01-09; accessed 2026-05-19 | Candidate name, Office Sought Governor, 2025 receipts/expenditures/cash/in-kind/other transactions, itemize"
+      ]
+    },
+    {
+      "id": "s-ksleg-member",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/b2025_26/legislators/sen_corson_ethan_1/",
+      "title": "Ethan Corson - Kansas Legislature",
+      "publisher": "Kansas State Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Corson represents Senate District 7, Johnson County",
+        "He is a Democrat and Senate Caucus Chair",
+        "Occupation listed as attorney",
+        "Senate service is listed as 2021-present",
+        "Committee roles include ranking minority member on Assessment and Taxation, Judiciary, and Transportation",
+        "| s-ksleg-member | primary | https://www.kslegislature.gov/b2025_26/legislators/sen_corson_ethan_1/ | accessed 2026-05-19 | Senate District 7, Johnson County; Democrat; Senate Caucus Chair; attorney; Senate service 2021-present; committees | officeholder statu"
+      ]
+    },
+    {
+      "id": "s-ksleg-hb2479-final",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt",
+      "title": "Roll Call #138 - HB 2479",
+      "publisher": "Kansas State Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "HB 2479 concerned electronic monitoring with victim notification for certain domestic violence, domestic battery, stalking, and protective-order defendants",
+        "March 10, 2026 Senate final action amended was 40 yea, 0 nay; Corson voted yea",
+        "| s-ksleg-hb2479-final | primary | https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt | accessed 2026-05-19 | Senate final action amended on HB 2479, March 10, 20",
+        "\"url\": \"https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt\","
+      ]
+    },
+    {
+      "id": "s-ksleg-sb477",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb477/",
+      "title": "SB 477",
+      "publisher": "Kansas State Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Original and current sponsor is Sen. Ethan Corson",
+        "Bill would establish the Kansas first responder scholarship program",
+        "Bill died",
+        "| s-ksleg-sb477 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb477/ | accessed 2026-05-19 | Corson-sponsored first responder scholarship program bill; died | public safety / education |"
+      ]
+    },
+    {
+      "id": "s-ksleg-sb215",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb215/",
+      "title": "SB 215",
+      "publisher": "Kansas State Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Corson was an original and current sponsor",
+        "Bill concerned taxation and homestead property-tax refund changes",
+        "| s-ksleg-sb215 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb215/ | accessed 2026-05-19 | Corson co-sponsored property-tax/homestead refund bill | taxes / cost of living |"
+      ]
+    },
+    {
+      "id": "s-ksleg-sb216",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/sb216/",
+      "title": "SB 216",
+      "publisher": "Kansas State Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Corson was an original and current sponsor",
+        "Bill would establish the Kansas paid sick time act",
+        "Bill died",
+        "| s-ksleg-sb216 | primary | https://www.kslegislature.gov/b2025_26/bills/sb216/ | accessed 2026-05-19 | Corson co-sponsored Kansas paid sick time act; died | labor / affordability |"
+      ]
+    },
+    {
+      "id": "s-ksleg-sb313",
+      "tier": "primary",
+      "url": "https://kslegislature.gov/b2025_26/bills/sb313/",
+      "title": "SB 313",
+      "publisher": "Kansas State Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Original and current sponsor is Sen. Ethan Corson",
+        "Bill would prohibit legislators from stock/securities transactions during legislative sessions",
+        "Bill died",
+        "| s-ksleg-sb313 | primary | https://kslegislature.gov/b2025_26/bills/sb313/ | accessed 2026-05-19 | Corson-sponsored bill prohibiting legislators from trading stocks/securities during legislative sessions; died | ethics |"
       ]
     },
     {
@@ -734,40 +725,28 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-ethan-corson-0014",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
+      "id": "s-kc-star-corecivic",
+      "tier": "secondary",
+      "url": "https://www.kansascity.com/news/politics-government/article315103864.html",
+      "title": "KS governor candidate distances himself from private prison that gave him money",
+      "publisher": "Kansas City Star",
+      "accessed": "2026-05-19",
       "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
+        "Reported scrutiny over a $1,000 CoreCivic contribution to Corson's 2024 Senate re-election campaign",
+        "Reported campaign statement that the amount was donated to a Johnson County food bank",
+        "Reported Corson's statement that he would not accept CoreCivic contributions in the gubernatorial race",
+        "| s-kc-star-corecivic | secondary | https://www.kansascity.com/news/politics-government/article315103864.html | published 2026-03-19; accessed via search snippet 2026-05-19 | Reported CoreCivic contribution issue and campaign response | finance / immigration /"
       ]
     },
     {
-      "id": "src-ethan-corson-0015",
+      "id": "src-ethan-corson-0024",
       "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/SB206/",
+      "title": "Kslegislature",
+      "publisher": "Kslegislature",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
-      "id": "src-ethan-corson-0026",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf",
-      "title": "Kansas",
-      "publisher": "Kansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Kansas Ethics filing: [SW01EC_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf)",
-        "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf",
-        "2026 filing PDF: [SW01EC_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf)",
-        "[SW01EC_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf)",
-        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01EC_202601.pdf\""
+        "| s-ksleg-sb206 | primary | https://www.kslegislature.gov/b2025_26/bills/SB206/ | accessed 2026-05-19 | Bill requested by Sen. Ethan Corson concerning offender registration for certain controlled-substance distribution convictions causing great bodily harm or"
       ]
     },
     {
@@ -802,95 +781,6 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-ethan-corson-0045",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-ethan-corson-0046",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-ethan-corson-0048",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-ethan-corson-0050",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-ethan-corson-0051",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)"
-      ]
-    },
-    {
-      "id": "src-ethan-corson-0052",
-      "tier": "secondary",
-      "url": "https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/",
-      "title": "Au",
-      "publisher": "Au",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Americans United: National Prayer Breakfast](https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/)"
-      ]
-    },
-    {
-      "id": "src-ethan-corson-0057",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-ethan-corson-0058",
-      "tier": "secondary",
-      "url": "https://www.kansascatholic.org/current-news/election-2026",
-      "title": "Kansascatholic",
-      "publisher": "Kansascatholic",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)"
-      ]
-    },
-    {
       "id": "src-ethan-corson-0061",
       "tier": "secondary",
       "url": "https://ethanforkansas.com/about/",
@@ -902,28 +792,6 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
         "Campaign bio: [About Ethan](https://ethanforkansas.com/about/)",
         "\"work hard, give back whenever you can and always keep your word\" - campaign biography, 2026-04-01, [ethanforkansas.com/about](https://ethanforkansas.com/about/) - topic: values.",
         "[About Ethan](https://ethanforkansas.com/about/)"
-      ]
-    },
-    {
-      "id": "src-ethan-corson-0062",
-      "tier": "secondary",
-      "url": "https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state",
-      "title": "Brennancenter",
-      "publisher": "Brennancenter",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)"
-      ]
-    },
-    {
-      "id": "src-ethan-corson-0065",
-      "tier": "secondary",
-      "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
-      "title": "Cnn",
-      "publisher": "Cnn",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)"
       ]
     },
     {
@@ -943,27 +811,37 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-ethan-corson-0095",
+      "id": "src-ethan-corson-0069",
       "tier": "secondary",
-      "url": "https://www.votenokansas.org/",
-      "title": "Votenokansas",
-      "publisher": "Votenokansas",
+      "url": "https://kansasreflector.com/2026/01/09/latest-kansas-campaign-finance-reports-schwab-takes-in-1-3m-corson-receives-900k/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Vote No Kansas 2026](https://www.votenokansas.org/)",
-        "[VoteNoKansas.org](https://www.votenokansas.org/)"
+        "| s-ks-reflector-finance | secondary | https://kansasreflector.com/2026/01/09/latest-kansas-campaign-finance-reports-schwab-takes-in-1-3m-corson-receives-900k/ | published 2026-01-09; accessed 2026-05-19 | Secondary finance roundup; small-dollar description |",
+        "[Kansas Reflector: Campaign finance reports (Jan 9, 2026)](https://kansasreflector.com/2026/01/09/latest-kansas-campaign-finance-reports-schwab-takes-in-1-3m-corson-receives-900k/)"
       ]
     },
     {
-      "id": "src-ethan-corson-0096",
+      "id": "src-ethan-corson-0083",
       "tier": "secondary",
-      "url": "https://myvoteinfo.voteks.org/",
-      "title": "Myvoteinfo.Voteks",
-      "publisher": "Myvoteinfo.Voteks",
+      "url": "https://kansasreflector.com/briefs/former-kansas-gov-kathleen-sebelius-endorses-sen-ethan-corson-in-democratic-race-for-governor/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/",
-        "[myvoteinfo.voteks.org](https://myvoteinfo.voteks.org/)"
+        "[Kansas Reflector: Sebelius endorses Corson (Jan 2026)](https://kansasreflector.com/briefs/former-kansas-gov-kathleen-sebelius-endorses-sen-ethan-corson-in-democratic-race-for-governor/)"
+      ]
+    },
+    {
+      "id": "src-ethan-corson-0084",
+      "tier": "secondary",
+      "url": "https://johnsoncountypost.com/2025/07/22/ethan-corson-governor-264717/",
+      "title": "Johnsoncountypost",
+      "publisher": "Johnsoncountypost",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Johnson County Post: Corson enters race (July 22, 2025)](https://johnsoncountypost.com/2025/07/22/ethan-corson-governor-264717/)"
       ]
     },
     {
@@ -980,14 +858,14 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-ethan-corson-0135",
+      "id": "src-ethan-corson-0125",
       "tier": "secondary",
-      "url": "https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor",
-      "title": "Noln",
-      "publisher": "Noln",
+      "url": "https://www.kcjc.com/index.php/current-news/latest-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7",
+      "title": "Kcjc",
+      "publisher": "Kcjc",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)"
+        "[KC Jewish Chronicle: Corson Senate candidacy](https://www.kcjc.com/index.php/current-news/latest-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7)"
       ]
     },
     {
@@ -999,6 +877,114 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "The captured X feed embedded on Corson's campaign site shows a candidate physically campaigning across Democratic organizations, counties, and local events in late April and early May 2026. On May 9, 2026, the embedded feed showed posts thanking the Harvey Cou"
+      ]
+    },
+    {
+      "id": "src-ethan-corson-0140",
+      "tier": "social",
+      "url": "https://www.facebook.com/ethanforkansas",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| s-campaign-facebook | social | https://www.facebook.com/ethanforkansas | local harvest 2026-05-11 | Public campaign page metadata; 2,027 likes and 220 talking about this at local capture | social |",
+        "Facebook: [Ethan for Kansas](https://www.facebook.com/ethanforkansas) -- active public page. Logged-out metadata on 2026-05-11 showed 2,027 likes and 220 talking about this; page description: \"Ethan Corson is running for Governor of Kansas. He is currently the",
+        "The strongest visible audience signals are platform-level, not post-level. As of the May 11, 2026 logged-out capture, Facebook metadata showed [Ethan for Kansas](https://www.facebook.com/ethanforkansas) with 2,027 likes and 220 talking about this; Instagram me",
+        "Facebook: [Ethan Corson for Kansas](https://www.facebook.com/ethanforkansas) (~1,876 likes reported)",
+        "[Ethan Corson for Kansas](https://www.facebook.com/ethanforkansas)",
+        "Facebook: https://www.facebook.com/ethanforkansas is linked from the campaign site and was identified in local harvest as an active public page. Local May 11 harvest recorded 2,027 likes and 220 talking about this from logged-out metadata."
+      ]
+    },
+    {
+      "id": "src-ethan-corson-0144",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/ethancorson/",
+      "title": "Linkedin",
+      "publisher": "Linkedin",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "LinkedIn: [Ethan Corson](https://www.linkedin.com/in/ethancorson/) -- active public profile preview. Search-indexed preview showed Kansas City Metropolitan Area, State of Kansas, 2K followers, 500+ connections, and recent activity about Pittsburg city/chamber",
+        "LinkedIn: [linkedin.com/in/ethancorson](https://www.linkedin.com/in/ethancorson/)",
+        "[linkedin.com/in/ethancorson](https://www.linkedin.com/in/ethancorson/)"
+      ]
+    },
+    {
+      "id": "src-ethan-corson-0145",
+      "tier": "secondary",
+      "url": "https://www.kssenatedems.org/ethan-corson-1",
+      "title": "Kssenatedems",
+      "publisher": "Kssenatedems",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Kansas Senate Democrats profile: [Senator Ethan Corson](https://www.kssenatedems.org/ethan-corson-1) -- official legislative/caucus profile. It links the campaign website, ActBlue fundraising page, and Facebook page.",
+        "The [Kansas Senate Democrats profile](https://www.kssenatedems.org/ethan-corson-1) links [ethanforkansas.com](https://www.ethanforkansas.com/) and [facebook.com/ethanforkansas](https://www.facebook.com/ethanforkansas)."
+      ]
+    },
+    {
+      "id": "src-ethan-corson-0147",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_corson_ethan_1/",
+      "title": "Kslegislature",
+      "publisher": "Kslegislature",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[KS Legislature: Sen. Corson](https://www.kslegislature.gov/li/b2025_26/members/sen_corson_ethan_1/)"
+      ]
+    },
+    {
+      "id": "src-ethan-corson-0159",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2025/11/17/gov-laura-kelly-offers-formal-endorsement-of-democratic-sen-ethan-corson-for-governor/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Kansas Reflector: Kelly endorses Corson (Nov 17, 2025)](https://kansasreflector.com/2025/11/17/gov-laura-kelly-offers-formal-endorsement-of-democratic-sen-ethan-corson-for-governor/)",
+        "\"url\": \"https://kansasreflector.com/2025/11/17/gov-laura-kelly-offers-formal-endorsement-of-democratic-sen-ethan-corson-for-governor/\""
+      ]
+    },
+    {
+      "id": "src-ethan-corson-0160",
+      "tier": "secondary",
+      "url": "https://en.wikipedia.org/wiki/Ethan_Corson",
+      "title": "En.Wikipedia",
+      "publisher": "En.Wikipedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Wikipedia: Ethan Corson](https://en.wikipedia.org/wiki/Ethan_Corson)"
+      ]
+    },
+    {
+      "id": "src-ethan-corson-0161",
+      "tier": "secondary",
+      "url": "https://ballotpedia.org/Ethan_Corson",
+      "title": "Ballotpedia",
+      "publisher": "Ballotpedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Ballotpedia: Ethan Corson](https://ballotpedia.org/Ethan_Corson)"
+      ]
+    },
+    {
+      "id": "src-ethan-corson-0162",
+      "tier": "secondary",
+      "url": "https://www.kssenatedems.org/ethan-corson",
+      "title": "Kssenatedems",
+      "publisher": "Kssenatedems",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Kansas Senate Democrats: Corson bio](https://www.kssenatedems.org/ethan-corson)"
+      ]
+    },
+    {
+      "id": "src-ethan-corson-0163",
+      "tier": "secondary",
+      "url": "https://doleinstitute.org/about/fellows/ethan-corson/",
+      "title": "Doleinstitute",
+      "publisher": "Doleinstitute",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Dole Institute: Corson fellow](https://doleinstitute.org/about/fellows/ethan-corson/)"
       ]
     }
   ]

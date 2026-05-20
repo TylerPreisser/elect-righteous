@@ -77,77 +77,13 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: KU News: Vicki Schmidt earns pharmacy school's top honor (April 2019) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-vicki-schmidt-0036",
-          "src-vicki-schmidt-0001",
-          "src-vicki-schmidt-0002",
-          "src-vicki-schmidt-0038",
-          "src-vicki-schmidt-0004",
-          "src-vicki-schmidt-0039"
+          "src-vicki-schmidt-0040"
         ]
       },
-      "actions": [
-        {
-          "id": "em-vicki-schmidt-00376",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-vicki-schmidt-0036"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00721",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-vicki-schmidt-0001"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00785",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-vicki-schmidt-0002"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-02144",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas SBOE election 2026",
-          "sourceIds": [
-            "src-vicki-schmidt-0038"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-02145",
-          "date": "Undated",
-          "body": "Kansas State Department of Education: District 5",
-          "sourceIds": [
-            "src-vicki-schmidt-0004"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-02146",
-          "date": "Undated",
-          "body": "Kansas Reflector: Board races could shift power to conservative bloc",
-          "sourceIds": [
-            "src-vicki-schmidt-0039"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-vicki-schmidt-0004",
-          "platform": "Bluesky",
-          "observation": "\"ownWordsNarrative\": \"candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; nativ...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
         {
           "id": "soc-vicki-schmidt-0014",
           "platform": "LinkedIn",
@@ -176,10 +112,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "stated": {
         "text": "Reviewed evidence: hard work, honesty and faith - Vicki Schmidt campaign bio, 2026-04-01, https://vickischmidt.org/meet-vicki/ - topic: personal values. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-vicki-schmidt-0042",
-          "src-vicki-schmidt-0043",
-          "src-vicki-schmidt-0044",
-          "src-vicki-schmidt-0035"
+          "src-vicki-schmidt-0042"
         ]
       },
       "actions": [],
@@ -189,45 +122,18 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under h... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kdoi-fee-2026",
-          "src-vicki-schmidt-0033",
-          "src-vicki-schmidt-0056",
-          "src-vicki-schmidt-0055"
+          "src-vicki-schmidt-0033"
         ]
       },
       "actions": [
-        {
-          "id": "em-vicki-schmidt-00005",
-          "date": "Undated",
-          "body": "Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under her leadership. (source)",
-          "sourceIds": [
-            "s-kdoi-fee-2026"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-03334",
-          "date": "Undated",
-          "body": "Department Nov. 20, 2025 release: Schmidt announced a 2026 fee schedule reducing fees by an estimated $1.1 million and said Kansans know she is a \"fiscal hawk.\" (source)",
-          "sourceIds": [
-            "s-kdoi-fee-2026"
-          ]
-        },
         {
           "id": "em-vicki-schmidt-00007",
           "date": "Undated",
           "body": "Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is important for a governor to tell the truth, and that sometimes leaders have to deliver hard news. (sour...",
           "sourceIds": [
             "src-vicki-schmidt-0033"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-02103",
-          "date": "Undated",
-          "body": "Brennan Center: Wisconsin Supreme Court spending record",
-          "sourceIds": [
-            "src-vicki-schmidt-0056"
           ]
         }
       ],
@@ -258,21 +164,12 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under h... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs.... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kdoi-fee-2026",
           "s-campaign-home"
         ]
       },
       "actions": [
-        {
-          "id": "em-vicki-schmidt-00005",
-          "date": "Undated",
-          "body": "Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under her leadership. (source)",
-          "sourceIds": [
-            "s-kdoi-fee-2026"
-          ]
-        },
         {
           "id": "em-vicki-schmidt-00003",
           "date": "Undated",
@@ -309,85 +206,55 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: CNN: 8 states vote to bar noncitizen voting Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-vicki-schmidt-0061",
-          "src-vicki-schmidt-0060"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-vicki-schmidt-02112",
-          "date": "Undated",
-          "body": "CNN: 8 states vote to bar noncitizen voting",
-          "sourceIds": [
-            "src-vicki-schmidt-0061"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, \"The work we do consistently puts more money back in the pockets of Kansans,\" and added that when Kansans call the department, \"we're not just going t... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: KFL PAC Statement on Schmidt (Oct 27, 2025) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kdoi-2025-recoveries",
-          "s-kdoi-fee-2026",
-          "src-vicki-schmidt-0062",
-          "src-vicki-schmidt-0063",
-          "src-vicki-schmidt-0075",
-          "src-vicki-schmidt-0076"
+          "src-vicki-schmidt-0076",
+          "s-campaign-home",
+          "src-vicki-schmidt-0065",
+          "s-kdoi-about"
         ]
       },
       "actions": [
-        {
-          "id": "em-vicki-schmidt-00004",
-          "date": "Undated",
-          "body": "The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, \"The work we do consistently puts more money back in the pockets of Kansans,\" and added that when Kansans call the department, \"we're not just going to answer the phone; we're going to help.\" (source)",
-          "sourceIds": [
-            "s-kdoi-2025-recoveries"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00005",
-          "date": "Undated",
-          "body": "Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under her leadership. (source)",
-          "sourceIds": [
-            "s-kdoi-fee-2026"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00011",
-          "date": "Undated",
-          "body": "Cancer and mammography are recurring personal and policy-adjacent themes. Kansas Reflector reported Schmidt's June 2023 social-media statement announcing her breast-cancer diagnosis. She asked Kansans to schedule yearly mammograms or encourage women in their lives to do so, saying she was proof the procedure can save lives. She also said cancer patients' stories, determination, and strength were the foundation on which she faced the fight, and added, \"I'm not a very good patient.\" (source)",
-          "sourceIds": [
-            "src-vicki-schmidt-0062"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00012",
-          "date": "Undated",
-          "body": "In an Oct. 17, 2023 WIBW interview after treatment, Schmidt said, \"I'm very thankful to be on this side of the journey and I'm really doing well.\" She said going public was difficult but the right decision because she knew people who got mammograms afterward and were diagnosed. She also connected the experience to insurance administration, saying medical billing and coverage processes can be hard for consumers to understand and that patients should not be overly burdened while trying to recover. (source)",
-          "sourceIds": [
-            "src-vicki-schmidt-0063"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-03095",
-          "date": "Undated",
-          "body": "Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)",
-          "sourceIds": [
-            "src-vicki-schmidt-0075"
-          ]
-        },
         {
           "id": "em-vicki-schmidt-03097",
           "date": "Undated",
           "body": "KFL PAC Statement on Schmidt (Oct 27, 2025)",
           "sourceIds": [
             "src-vicki-schmidt-0076"
+          ]
+        },
+        {
+          "id": "em-vicki-schmidt-00003",
+          "date": "Undated",
+          "body": "Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says that as insurance commissioner she has returned more than $206 million to Kansas f...",
+          "sourceIds": [
+            "s-campaign-home"
+          ]
+        },
+        {
+          "id": "em-vicki-schmidt-00518",
+          "date": "Undated",
+          "body": "Kansas Reflector: Vicki Schmidt initiates campaign for governor",
+          "sourceIds": [
+            "src-vicki-schmidt-0065"
+          ]
+        },
+        {
+          "id": "em-vicki-schmidt-03086",
+          "date": "Undated",
+          "body": "Schmidt initiates Republican campaign for governor (July 9, 2025)",
+          "sourceIds": [
+            "src-vicki-schmidt-0065"
           ]
         }
       ],
@@ -413,22 +280,22 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
         {
-          "id": "soc-vicki-schmidt-0004",
-          "platform": "Bluesky",
-          "observation": "\"ownWordsNarrative\": \"candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; nativ...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
           "id": "soc-vicki-schmidt-0005",
           "platform": "kansasreflector.com",
           "observation": "Cancer and mammography are recurring personal and policy-adjacent themes. Kansas Reflector reported Schmidt's June 2023 social-media statement announcing her breast-cancer diagnosis. She asked Kansans to schedule yearly mammograms or encourage women in their lives to do so, saying she was proof the procedure can save lives. She also said cancer patients' stories, determination, and strength were the foundation on wh...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-vicki-schmidt-0062"
+          ],
+          "mappedToIssueId": "i-health-care-insurance-medicaid"
+        },
+        {
+          "id": "soc-vicki-schmidt-0014",
+          "platform": "LinkedIn",
+          "observation": "The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, \"This week, the Kansas Legislature chose to put patients over politics an...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-vicki-schmidt-0164"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         }
@@ -441,10 +308,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs.... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "src-vicki-schmidt-0033",
-          "src-vicki-schmidt-0020",
-          "src-vicki-schmidt-0092",
-          "src-vicki-schmidt-0110"
+          "src-vicki-schmidt-0033"
         ]
       },
       "actions": [
@@ -452,14 +316,6 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           "id": "em-vicki-schmidt-00003",
           "date": "Undated",
           "body": "Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says that as insurance commissioner she has returned more than $206 million to Kansas f...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00006",
-          "date": "Undated",
-          "body": "Her campaign biography uses the same governing frame. It says she found errors in the Kansas Medical Assistance Program that were costing the state millions and implemented a plan that produced more than $391 million in recouped dollars for the state. It also says she fought in the Senate for insurance coverage for children diagnosed with autism and helped bring cancer care to Kansas. (source)",
           "sourceIds": [
             "s-campaign-home"
           ]
@@ -474,16 +330,6 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-vicki-schmidt-0004",
-          "platform": "Bluesky",
-          "observation": "\"ownWordsNarrative\": \"candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; nativ...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
         {
           "id": "soc-vicki-schmidt-0009",
           "platform": "vickiforgovernor.com",
@@ -502,10 +348,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-vicki-schmidt-0033",
-          "s-kpdc-202601-gov",
-          "s-kpdc-statewide-index",
-          "src-vicki-schmidt-0036"
+          "src-vicki-schmidt-0033"
         ]
       },
       "actions": [
@@ -516,46 +359,6 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-vicki-schmidt-0033"
           ]
-        },
-        {
-          "id": "em-vicki-schmidt-00151",
-          "date": "Undated",
-          "body": "Kansas Ethics filing: SW01VS_202601.pdf",
-          "sourceIds": [
-            "s-kpdc-202601-gov"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00174",
-          "date": "Undated",
-          "body": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf",
-          "sourceIds": [
-            "s-kpdc-202601-gov"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00188",
-          "date": "Undated",
-          "body": "Kansas Ethics filing index: SWLinks2026EC",
-          "sourceIds": [
-            "s-kpdc-statewide-index"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00189",
-          "date": "Undated",
-          "body": "2026 filing PDF: SW01VS_202601.pdf",
-          "sourceIds": [
-            "s-kpdc-202601-gov"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00376",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-vicki-schmidt-0036"
-          ]
         }
       ],
       "socialSignals": []
@@ -564,10 +367,8 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: ABC News: Family of boy killed on water slide speaks out Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-vicki-schmidt-0143"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": [
@@ -597,42 +398,17 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, \"The work we do consistently puts more money back in the pockets of Kansans,\" and added that when Kansans call the department, \"we're not just going t... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs.... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kdoi-2025-recoveries",
           "s-campaign-home",
-          "src-vicki-schmidt-0157"
+          "s-kdoi-about"
         ]
       },
       "actions": [
         {
-          "id": "em-vicki-schmidt-00004",
-          "date": "Undated",
-          "body": "The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, \"The work we do consistently puts more money back in the pockets of Kansans,\" and added that when Kansans call the department, \"we're not just going to answer the phone; we're going to help.\" (source)",
-          "sourceIds": [
-            "s-kdoi-2025-recoveries"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-03333",
-          "date": "Undated",
-          "body": "Department Jan. 15, 2026 release: Schmidt announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since 2019; she said the office does not just answer the phone, \"we're going to help.\" (source)",
-          "sourceIds": [
-            "s-kdoi-2025-recoveries"
-          ]
-        },
-        {
           "id": "em-vicki-schmidt-00003",
           "date": "Undated",
           "body": "Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs. The campaign says that as insurance commissioner she has returned more than $206 million to Kansas f...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-vicki-schmidt-00006",
-          "date": "Undated",
-          "body": "Her campaign biography uses the same governing frame. It says she found errors in the Kansas Medical Assistance Program that were costing the state millions and implemented a plan that produced more than $391 million in recouped dollars for the state. It also says she fought in the Senate for insurance coverage for children diagnosed with autism and helped bring cancer care to Kansas. (source)",
           "sourceIds": [
             "s-campaign-home"
           ]
@@ -668,16 +444,6 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-vicki-schmidt-0004",
-          "platform": "Bluesky",
-          "observation": "\"ownWordsNarrative\": \"candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; nativ...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-vicki-schmidt-0014",
           "platform": "LinkedIn",
           "observation": "The Department LinkedIn page gives the clearest view of ongoing social-content priorities. Visible posts centered hiring, real-life scam education, PBM reform, National Agriculture Day, NAIC participation, financial education, storm-damage claim assistance, and National Consumer Protection Week. A visible PBM reform post quoted Schmidt saying, \"This week, the Kansas Legislature chose to put patients over politics an...",
@@ -693,32 +459,11 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public evidence: \"ownWordsNarrative\": \"candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; nativ... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-campaign-home"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-vicki-schmidt-04181",
-          "date": "Undated",
-          "body": "\"ownWordsNarrative\": \"candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; native post inventory was login/script-limited.; platform: X/Twitter; status: identified, post-level cont...",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-vicki-schmidt-0004",
-          "platform": "Bluesky",
-          "observation": "\"ownWordsNarrative\": \"candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; nativ...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        },
         {
           "id": "soc-vicki-schmidt-0014",
           "platform": "LinkedIn",
@@ -743,7 +488,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Vicki Schmidt is profiled here for Governor candidate as a Republican. Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as... Her campaign biography uses the same governing frame. It says she found errors in the Kansas Medical Assistance Program that were costing the state millions and implemented a plan that produced more than $391 million in recouped dollars for the state. It also... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 35 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Abortion / life: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme... Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 12 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: Abortion / life: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme... Taxes / spending / debt: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S.... Economy / jobs / labor: Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It'... Health care / insurance / Medicaid: KFL PAC Statement on Schmidt (Oct 27, 2025). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; native post inventory was login/script-limited.; platform: X/Twitter; status: identified, post-level content limited; url: https://x.com/VickiSchmidtKS; notes: Campaign site links account; direct timeline was not reliably captured logged out.; officialOffice: platform: Kansas.gov social directory / Department website; status: official office channels identified; url: https://portal.kansas.gov/social-media/; notes: Office Facebook, X, Instagram, and LinkedIn identified through official government sources/local harvest.; platform: LinkedIn; status: visible office updates; url: https://www.linkedin.com/company/kansas-department-of-insurance; notes: Most accessible office feed; local harvest found consumer protection, PBM reform, NAIC, financial education, storm claims, and hiring topics.; notFoundOrNotLinked: No clear candidate-controlled YouTube, TikTok, Bluesky, Truth Social, Gab, Gettr, Substack, or Reddit account found in local harvest.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Her campaign uses faith language, but the available record does not name a parish, congregation, or church website.",
   "campaignFinance": {
@@ -779,7 +524,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
     "reportingPeriod": "2025 year-end report, Jan. 1-Dec. 31, 2025",
     "source": "Campaign Finance Receipts and Expenditures Report - Vicki L Schmidt"
   },
-  "socialResearchNote": "23 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "19 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-kpdc-statewide-index",
@@ -795,6 +540,19 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
         "[Kansas Ethics Commission -- 2026 Campaign Finance](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
         "[SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
         "| s-kpdc-statewide-index | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm | accessed 2026-05-19 | Schmidt listed under gubernatorial candidates with AT link | campaign finance, status |"
+      ]
+    },
+    {
+      "id": "s-kpdc-at-gov",
+      "tier": "primary",
+      "url": "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01VS_AT.pdf",
+      "title": "Appointment of Treasurer or Candidate Committee Form - Vicki L Schmidt",
+      "publisher": "Kansas Public Disclosure Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Office sought is Governor",
+        "Treasurer is Brad Koehn",
+        "Statement executed July 9, 2025"
       ]
     },
     {
@@ -816,6 +574,26 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
         "2026 filing PDF: [SW01VS_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf)",
         "[SW01VS_202601.pdf](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf)",
         "| s-kpdc-202601-gov | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01VS_202601.pdf | filed 2026-01-09; accessed 2026-05-19 | 2025 governor-campaign receipts, expenditures, cash, in-kind, candidate loans | campaign finance |"
+      ]
+    },
+    {
+      "id": "s-kdoi-about",
+      "tier": "primary",
+      "url": "https://insurance.kansas.gov/about-us/",
+      "title": "About Us",
+      "publisher": "Kansas Insurance Department",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Vicki Schmidt is the 27th Kansas Insurance Commissioner",
+        "She was first elected in 2018 and reelected in 2022",
+        "She served 14 years in the Kansas Senate",
+        "She is the first pharmacist to hold statewide elected office in Kansas",
+        "https://insurance.kansas.gov/about-us/",
+        "| s-kdoi-about | primary | https://insurance.kansas.gov/about-us/ | accessed 2026-05-19 | official biography, current office, public-service record, pharmacist identity | biography, office |",
+        "Kansas Insurance Department bio: [insurance.kansas.gov/about-us](https://insurance.kansas.gov/about-us/)",
+        "Public office bio: [Kansas Insurance Department](https://insurance.kansas.gov/about-us/)",
+        "[Kansas Department of Insurance - About Us](https://insurance.kansas.gov/about-us/)",
+        "[insurance.kansas.gov/about-us](https://insurance.kansas.gov/about-us/)"
       ]
     },
     {
@@ -844,33 +622,56 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-kdoi-2025-recoveries",
+      "id": "s-campaign-newland",
       "tier": "primary",
-      "url": "https://www.insurance.kansas.gov/Home/Components/News/News/226/16",
-      "title": "The Kansas Department of Insurance recovers $56.7 million for Kansans in 2025",
-      "publisher": "Kansas Insurance Department",
+      "url": "https://vickiforgovernor.com/2026/05/18/vicki-schmidt-selects-kansas-farm-bureau-president-joe-newland-as-her-lieutenant-governor/",
+      "title": "Vicki Schmidt Selects Kansas Farm Bureau President Joe Newland as Her Lieutenant Governor",
+      "publisher": "Vicki Schmidt campaign",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Department recovered $56.7 million for Kansans in 2025",
-        "Department recovered more than $202.7 million since Schmidt took office in 2019",
-        "The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmi",
-        "| s-kdoi-2025-recoveries | primary | https://www.insurance.kansas.gov/Home/Components/News/News/226/16 | published 2026-01-15; accessed 2026-05-19 | $56.7M recovered in 2025; $202.7M since 2019; consumer-help quote | insurance consumer protection |",
-        "Department Jan. 15, 2026 release: Schmidt announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since 2019; she said the office does not just answer the phone, \"we're going to help.\" ([source](https://www.insurance.kansas.gov/Home/"
+        "Campaign announced Joe Newland as lieutenant-governor selection on May 18, 2026",
+        "Campaign says Schmidt and Newland will officially file together on June 1",
+        "Campaign frames Newland as Kansas Farm Bureau president and rural/agriculture leader",
+        "| s-campaign-newland | primary | https://vickiforgovernor.com/2026/05/18/vicki-schmidt-selects-kansas-farm-bureau-president-joe-newland-as-her-lieutenant-governor/ | published 2026-05-18; accessed 2026-05-19 | Joe Newland running-mate selection, June 1 filing"
       ]
     },
     {
-      "id": "s-kdoi-fee-2026",
+      "id": "s-campaign-meet-joe",
       "tier": "primary",
-      "url": "https://www.insurance.kansas.gov/Home/Components/News/News/70/16",
-      "title": "Commissioner Schmidt lowers fees by an estimated $1.1 million in 2026 Fee Schedule",
+      "url": "https://vickiforgovernor.com/meet-joe/",
+      "title": "Meet Joe",
+      "publisher": "Vicki Schmidt campaign",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Joe Newland is described as a farmer, rancher, Kansas Farm Bureau president, and former state representative",
+        "Page references water, energy, property taxes, and rural services",
+        "| s-campaign-meet-joe | primary | https://vickiforgovernor.com/meet-joe/ | accessed 2026-05-19 | running-mate biography, Kansas Farm Bureau, farming/ranching, water and energy language | rural/agriculture |"
+      ]
+    },
+    {
+      "id": "s-kdoi-pbm",
+      "tier": "primary",
+      "url": "https://www.insurance.kansas.gov/Home/Components/News/News/233/16?widgetId=41",
+      "title": "Kansas Insurance Commissioner Vicki Schmidt advocates for pharmacy benefit manager reform",
       "publisher": "Kansas Insurance Department",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Schmidt announced a 2026 fee schedule lowering fees by an estimated $1.1 million",
-        "Release says it is the seventh year of lowering costs at the Department",
-        "Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessi",
-        "| s-kdoi-fee-2026 | primary | https://www.insurance.kansas.gov/Home/Components/News/News/70/16 | published 2025-11-20; accessed 2026-05-19 | 2026 fee schedule; $1.1M estimated fee reduction; fiscal-hawk quote | fees, government efficiency |",
-        "Department Nov. 20, 2025 release: Schmidt announced a 2026 fee schedule reducing fees by an estimated $1.1 million and said Kansans know she is a \"fiscal hawk.\" ([source](https://www.insurance.kansas.gov/Home/Components/News/News/70/16))"
+        "Department says Schmidt testified in support of SB 360",
+        "Release describes SB 360 as PBM reform",
+        "| s-kdoi-pbm | primary | https://www.insurance.kansas.gov/Home/Components/News/News/233/16?widgetId=41 | published 2026-02-12; accessed 2026-05-19 | Schmidt testimony supporting SB 360 PBM reform | prescription drug costs |"
+      ]
+    },
+    {
+      "id": "s-kvoe-interview",
+      "tier": "secondary",
+      "url": "https://kvoe.com/2026/04/23/kansas-insurance-commissioner-vicki-schmidt-details-run-for-governor-during-kvoe-news-interview/",
+      "title": "Kansas Insurance Commissioner Vicki Schmidt details run for Governor during KVOE News interview",
+      "publisher": "KVOE",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Interview coverage says Schmidt identified property taxes as a top issue",
+        "Interview coverage reports business development, housing, and Medicaid-expansion review comments",
+        "| s-kvoe-interview | secondary | https://kvoe.com/2026/04/23/kansas-insurance-commissioner-vicki-schmidt-details-run-for-governor-during-kvoe-news-interview/ | published 2026-04-23; accessed 2026-05-19 | property tax, Medicaid expansion, business recruitment i"
       ]
     },
     {
@@ -888,40 +689,6 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-vicki-schmidt-0001",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)",
-        "\"url\": \"https://www.usd489.com/page/board-of-education\""
-      ]
-    },
-    {
-      "id": "src-vicki-schmidt-0002",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
-      "id": "src-vicki-schmidt-0004",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
-      "title": "Ksde",
-      "publisher": "Ksde",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)"
-      ]
-    },
-    {
       "id": "src-vicki-schmidt-0010",
       "tier": "primary",
       "url": "https://portal.kansas.gov/social-media/",
@@ -932,17 +699,6 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
         "| Official Kansas.gov social directory | https://portal.kansas.gov/social-media/ | FOUND | Lists Insurance Commissioner Vicki Schmidt with official Facebook and Twitter/X links. |",
         "Kansas.gov's social-media directory lists Insurance Commissioner Vicki Schmidt with official Facebook and Twitter/X links. The Department's website footer also links official Instagram, Facebook, X, and LinkedIn accounts. ([Kansas.gov source](https://portal.ka",
         "Kansas.gov social directory, captured 2026-05-11: official Insurance Commissioner Facebook and X links. ([source](https://portal.kansas.gov/social-media/))"
-      ]
-    },
-    {
-      "id": "src-vicki-schmidt-0020",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/elections/senate/KS/2026/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FEC: 2026 Kansas Senate Election](https://www.fec.gov/data/elections/senate/KS/2026/)"
       ]
     },
     {
@@ -959,48 +715,14 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-vicki-schmidt-0035",
+      "id": "src-vicki-schmidt-0040",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "url": "https://news.ku.edu/news/article/vicki-schmidt-earns-schools-top-honor",
+      "title": "News.Ku",
+      "publisher": "News.Ku",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-vicki-schmidt-0036",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-vicki-schmidt-0038",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-vicki-schmidt-0039",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)"
+        "[KU News: Vicki Schmidt earns pharmacy school's top honor (April 2019)](https://news.ku.edu/news/article/vicki-schmidt-earns-schools-top-honor)"
       ]
     },
     {
@@ -1022,74 +744,6 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-vicki-schmidt-0043",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-vicki-schmidt-0044",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)"
-      ]
-    },
-    {
-      "id": "src-vicki-schmidt-0055",
-      "tier": "secondary",
-      "url": "https://mikeforkansas.my.canva.site/",
-      "title": "Mikeforkansas.My.Canva",
-      "publisher": "Mikeforkansas.My.Canva",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)",
-        "[mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/)"
-      ]
-    },
-    {
-      "id": "src-vicki-schmidt-0056",
-      "tier": "secondary",
-      "url": "https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state",
-      "title": "Brennancenter",
-      "publisher": "Brennancenter",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)"
-      ]
-    },
-    {
-      "id": "src-vicki-schmidt-0060",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)",
-        "[Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-vicki-schmidt-0061",
-      "tier": "secondary",
-      "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
-      "title": "Cnn",
-      "publisher": "Cnn",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)"
-      ]
-    },
-    {
       "id": "src-vicki-schmidt-0062",
       "tier": "secondary",
       "url": "https://kansasreflector.com/briefs/kansas-insurance-commissioner-has-breast-cancer-expects-full-recovery/",
@@ -1103,27 +757,15 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-vicki-schmidt-0063",
+      "id": "src-vicki-schmidt-0065",
       "tier": "secondary",
-      "url": "https://www.wibw.com/2023/10/17/its-humbling-ks-insurance-commissioner-discusses-breast-cancer-journey/",
-      "title": "Wibw",
-      "publisher": "Wibw",
+      "url": "https://kansasreflector.com/2025/07/09/kansas-insurance-commissioner-vicki-schmidt-initiates-republican-campaign-for-governor/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "In an Oct. 17, 2023 WIBW interview after treatment, Schmidt said, \"I'm very thankful to be on this side of the journey and I'm really doing well.\" She said going public was difficult but the right decision because she knew people who got mammograms afterward a",
-        "WIBW Oct. 17, 2023 interview after treatment. Schmidt said she was thankful to be on the other side, discussed the insurance-process burden for patients, and encouraged mammograms. ([source](https://www.wibw.com/2023/10/17/its-humbling-ks-insurance-commissione"
-      ]
-    },
-    {
-      "id": "src-vicki-schmidt-0075",
-      "tier": "secondary",
-      "url": "https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/",
-      "title": "Www2.Ljworld",
-      "publisher": "Www2.Ljworld",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)](https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/)",
-        "\"url\": \"https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/\""
+        "[Kansas Reflector: Vicki Schmidt initiates campaign for governor](https://kansasreflector.com/2025/07/09/kansas-insurance-commissioner-vicki-schmidt-initiates-republican-campaign-for-governor/)",
+        "[Schmidt initiates Republican campaign for governor (July 9, 2025)](https://kansasreflector.com/2025/07/09/kansas-insurance-commissioner-vicki-schmidt-initiates-republican-campaign-for-governor/)"
       ]
     },
     {
@@ -1138,51 +780,37 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-vicki-schmidt-0092",
+      "id": "src-vicki-schmidt-0079",
       "tier": "secondary",
-      "url": "https://www.votenokansas.org/",
-      "title": "Votenokansas",
-      "publisher": "Votenokansas",
+      "url": "https://tkmagazine.com/blog/2024/11/14/at-the-core-spotlight-on-vicki-schmidt",
+      "title": "Tkmagazine",
+      "publisher": "Tkmagazine",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Vote No Kansas 2026](https://www.votenokansas.org/)",
-        "[VoteNoKansas.org](https://www.votenokansas.org/)"
+        "[At The Core: Spotlight on Insurance Commissioner Vicki Schmidt (Nov 14, 2024)](https://tkmagazine.com/blog/2024/11/14/at-the-core-spotlight-on-vicki-schmidt)"
       ]
     },
     {
-      "id": "src-vicki-schmidt-0110",
+      "id": "src-vicki-schmidt-0085",
       "tier": "secondary",
-      "url": "https://myvoteinfo.voteks.org/",
-      "title": "Myvoteinfo.Voteks",
-      "publisher": "Myvoteinfo.Voteks",
+      "url": "https://www.kctv5.com/2025/07/09/another-woman-throws-her-hat-into-kansas-gubernatorial-race-vicki-schmidt/",
+      "title": "Kctv5",
+      "publisher": "Kctv5",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/",
-        "[myvoteinfo.voteks.org](https://myvoteinfo.voteks.org/)"
+        "https://www.kctv5.com/2025/07/09/another-woman-throws-her-hat-into-kansas-gubernatorial-race-vicki-schmidt/",
+        "[kctv5.com](https://www.kctv5.com/2025/07/09/another-woman-throws-her-hat-into-kansas-gubernatorial-race-vicki-schmidt/)"
       ]
     },
     {
-      "id": "src-vicki-schmidt-0143",
+      "id": "src-vicki-schmidt-0138",
       "tier": "secondary",
-      "url": "https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546",
-      "title": "Abcnews.Go",
-      "publisher": "Abcnews.Go",
+      "url": "https://justfacts.votesmart.org/candidate/biography/34584/vicki-schmidt",
+      "title": "Justfacts.Votesmart",
+      "publisher": "Justfacts.Votesmart",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ABC News: Family of boy killed on water slide speaks out](https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546)"
-      ]
-    },
-    {
-      "id": "src-vicki-schmidt-0157",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector - Millionaire candidates fundraising (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector: Millionaire candidates](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector: Millionaire candidates burnish fundraising (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)"
+        "[Vicki Schmidt - Vote Smart](https://justfacts.votesmart.org/candidate/biography/34584/vicki-schmidt)"
       ]
     },
     {
@@ -1197,6 +825,64 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
         "The office LinkedIn page was the richest accessible social feed. It listed 623 followers and a government-administration profile for the Kansas Department of Insurance. Visible updates emphasized hiring, fraud and scam prevention, PBM reform, National Agricult",
         "| Office LinkedIn | https://www.linkedin.com/company/kansas-department-of-insurance | FOUND | Public page and recent updates accessible logged out: 623 followers; visible post-level likes on some updates. |",
         "Office LinkedIn page, captured 2026-05-11: 623 followers and visible updates. The highest visible post-level engagement in the accessible module was 45 likes and 1 comment on a post about Schmidt attending the 2026 NAIC Spring National Meeting. ([source](https"
+      ]
+    },
+    {
+      "id": "src-vicki-schmidt-0166",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/vicki-schmidt-50b11810/",
+      "title": "Linkedin",
+      "publisher": "Linkedin",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| LinkedIn | [vicki-schmidt-50b11810](https://www.linkedin.com/in/vicki-schmidt-50b11810/) | Listed as \"Insurance Commissioner - State of Kansas\" |",
+        "[LinkedIn: vicki-schmidt-50b11810](https://www.linkedin.com/in/vicki-schmidt-50b11810/)",
+        "[vicki-schmidt-50b11810](https://www.linkedin.com/in/vicki-schmidt-50b11810/)",
+        "| Personal LinkedIn | https://www.linkedin.com/in/vicki-schmidt-50b11810/ | FOUND | URL appears in candidate data; logged-out profile details not reliable enough for post inventory. |"
+      ]
+    },
+    {
+      "id": "src-vicki-schmidt-0226",
+      "tier": "secondary",
+      "url": "https://en.wikipedia.org/wiki/Vicki_Schmidt",
+      "title": "En.Wikipedia",
+      "publisher": "En.Wikipedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Vicki Schmidt - Wikipedia](https://en.wikipedia.org/wiki/Vicki_Schmidt)"
+      ]
+    },
+    {
+      "id": "src-vicki-schmidt-0227",
+      "tier": "secondary",
+      "url": "https://ballotpedia.org/Vicki_Schmidt",
+      "title": "Ballotpedia",
+      "publisher": "Ballotpedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Vicki Schmidt - Ballotpedia](https://ballotpedia.org/Vicki_Schmidt)"
+      ]
+    },
+    {
+      "id": "src-vicki-schmidt-0229",
+      "tier": "secondary",
+      "url": "https://mittelpolitan.substack.com/p/insight-kansas-column-for-july-vicki",
+      "title": "Mittelpolitan.Substack",
+      "publisher": "Mittelpolitan.Substack",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Mittelpolitan: Schmidt, Schodorf, and the Fate of the Moderate Republican Kansas Woman](https://mittelpolitan.substack.com/p/insight-kansas-column-for-july-vicki)"
+      ]
+    },
+    {
+      "id": "src-vicki-schmidt-0246",
+      "tier": "secondary",
+      "url": "https://vickiforgovernor.com/2025/07/21/vicki-schmidt-on-seeking-the-gop-nomination-for-kansas-governor/",
+      "title": "Vickiforgovernor",
+      "publisher": "Vickiforgovernor",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Campaign-site July 21, 2025 repost of Kansas Reflector interview summary: Schmidt says she is seeking the GOP nomination to \"fully represent the interests of Kansans.\" ([source](https://vickiforgovernor.com/2025/07/21/vicki-schmidt-on-seeking-the-gop-nominatio"
       ]
     }
   ]

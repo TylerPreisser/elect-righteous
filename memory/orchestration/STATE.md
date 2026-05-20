@@ -1,7 +1,7 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-20T20:01:38Z
-Last agent: professional-narrative-editor
-Last commit: d5bdb6c
+Last updated: 2026-05-20T20:30:53Z
+Last agent: legal-accuracy-reviewer / source-tier-validator
+Last commit: pending
 
 ## Current Phase
 Phase 3: Profile Rebuild
@@ -18,9 +18,9 @@ Phase 3: Profile Rebuild
 | 7 | Deploy | not started |
 
 ## Blockers
-- Full editorial/legal/symmetry review remains incomplete for 70 of 70 candidates; automated legal cleanup has removed internal-only issue leakage and cross-candidate lawsuit source contamination from rendered issue cards — legal-accuracy-reviewer — high — 2026-05-20
+- Full manual editorial/legal/symmetry review remains incomplete for 70 of 70 candidates; parallel legal/symmetry triage ran federal, state, and local/off-cycle scans, and the renderer now blocks cross-candidate issue/social/source contamination while preserving candidate-specific social and source evidence — legal-accuracy-reviewer — high — 2026-05-20
 - Ten rendered profiles remain public-source/action-thin after assembly and require explicit editorial caveats/research follow-up: adam-hamilton, brandon-adams, doug-billings, eric-lund, kevin-latz, mark-lane, michelle-cunningham, ric-koehn, sharilyn-ray, steven-jacob — candidate-profile-assembler — medium — 2026-05-20
-- Rendered source-health sweep now has zero HTTP-error links after public source-trail trimming, URL normalization, live replacements, and dead-link drops; 25 blocked/forbidden, 5 timeouts, and 1 network error remain for manual/browser verification because the automated checker cannot prove them live — source-tier-validator — medium — 2026-05-20
+- Rendered source-health sweep now has zero HTTP-error links after URL normalization, live replacements, dead-link drops, and candidate-specific source relevance filtering; 113 blocked/forbidden, 6 timeouts, and 9 network errors remain for manual/browser verification because the automated checker cannot prove them live — source-tier-validator — medium — 2026-05-20
 - Official Kansas post-filing roster recheck remains required after the filing deadline/final official lists — roster-auditor — medium — 2026-05-20
 - Correction form routes to tyler@preissersolutions.com in code, but FormSubmit activation and old-submission mailbox review are not confirmed from repo-only access — form-verification — medium — 2026-05-20
 
@@ -122,9 +122,9 @@ Phase 3: Profile Rebuild
 |------|----------|-----------|-------|
 | YAML parse | 2026-05-20T19:17:36Z | Pass | 70 candidate v2-issues.yaml files parse clean after fixed_issue_matrix insertion for all candidates. |
 | Phase 2 inventory | 2026-05-20T19:17:36Z | Pass | 70 candidate-like slugs; 48 active 2026; 70 rendered v2; no missing UI entries. |
-| V2 runtime validation | 2026-05-20T19:55:43Z | Pass | validateCandidateV2 accepted 70 v2 candidates after source-trail trimming and URL override cleanup. |
-| TypeScript | 2026-05-20T19:55:43Z | Pass | npx tsc --noEmit --incremental false passed after source cleanup. |
-| Static build | 2026-05-20T19:55:43Z | Pass | npm run build generated 232 static pages after source cleanup. |
+| V2 runtime validation | 2026-05-20T20:24:00Z | Pass | validateCandidateV2 accepted 70 v2 candidates after candidate-relevance guards and restored candidate-specific public/social source trails. |
+| TypeScript | 2026-05-20T20:24:00Z | Pass | npx tsc --noEmit --incremental false passed after source relevance cleanup. |
+| Static build | 2026-05-20T20:30:53Z | Pass | npm run build generated 232 static pages after candidate relevance/source guard cleanup. |
 | Candidate count parity | 2026-05-20T15:43:39Z | Pass | 15 race entries; every candidateCount matches candidateSlugs.length. |
 | Forbidden public labels | 2026-05-20T19:08:52Z | Pass | No tpreisser.github.io, Preisser Tech, What You Should Know, or In Their Own Words strings remain under ui/src, ui/public, or active compile scripts. |
 | Evidence matrix structure | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have raw and final evidence matrices with required fields. |
@@ -138,17 +138,19 @@ Phase 3: Profile Rebuild
 | Narrative section presence | 2026-05-20T19:17:36Z | Pass | 70 of 70 rendered profiles have non-empty Who They Are, Their Record, Donor/Funding, Where They Worship, and Social/Online notes. Thin-record fallbacks are caveated. |
 | Automated legal cleanup | 2026-05-20T19:23:52Z | Pass | Rendered issue cards no longer surface internal-only issue text as public stance evidence; cross-candidate lawsuit URL scan reports 0 suspect references; validateCandidateV2, TypeScript, and npm run build pass. |
 | Correction form routing | 2026-05-20T19:28:00Z | Partial | Code routes FormSubmit AJAX, HTML fallback, and mailto fallback to tyler@preissersolutions.com. FormSubmit activation and old submissions require mailbox/dashboard confirmation. |
-| Rendered source health | 2026-05-20T19:55:43Z | Partial | Public trail reduced to 1,621 rendered source entries / 725 unique URLs; 694 live, 25 blocked/forbidden, 5 timeouts, 1 network error, 0 HTTP errors on a 15s timeout pass. See source-health-2026-05-20.md/json and source-url-overrides.json. |
+| Rendered source health | 2026-05-20T20:24:00Z | Partial | Public trail includes 1,708 rendered source entries / 1,502 unique URLs; 1,374 live, 113 blocked/forbidden, 6 timeouts, 9 network errors, 0 HTTP errors on a 15s timeout pass. Candidate-specific social/source records remain public; fake/dead/cross-candidate URLs are filtered or dropped. See source-health-2026-05-20.md/json and source-url-overrides.json. |
 | Public profile wording | 2026-05-20T20:01:38Z | Pass | Removed internal matrix maintenance language and stiff Documented-record labels from rendered issue summaries; validateCandidateV2, TypeScript, and npm run build pass. |
+| Candidate relevance guard | 2026-05-20T20:30:53Z | Pass | Renderer now rejects finance-only, public-absence, generic race/local context, family-network, and other-candidate-led evidence from issue/social cards unless the evidence names or directly belongs to the current candidate. |
 
 ## Next Actions Queue
-1. Run professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor for all 70 rendered profiles — editorial review agents — P0 — blocked by none
-2. Browser/manual verify the 31 blocked/timeout/network source-health exceptions that automated fetch could not prove live — source-tier-validator — P1 — blocked by browser/manual review time
+1. Run full manual professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor passes for all 70 rendered profiles after the automated relevance guard pass — editorial review agents — P0 — blocked by none
+2. Browser/manual verify the 128 blocked/timeout/network source-health exceptions that automated fetch could not prove live — source-tier-validator — P1 — blocked by browser/manual review time
 3. Rerun full build-validation-gatekeeper after editorial/legal/symmetry review — build-validation-gatekeeper — P1 — blocked by Phase 4 completion
 4. Confirm FormSubmit activation and old correction submissions from tyler@preissersolutions.com mailbox/dashboard — form-verification — P1 — blocked by mailbox/FormSubmit access
 5. Deploy only after validation gates, form verification, and release report pass — deploy agents — P1 — blocked by validation and release readiness
 
 ## Session Log (last 20 entries)
+- 2026-05-20T20:30:53Z legal-accuracy-reviewer/source-tier-validator Restored broader candidate-specific public source trails, preserved social-source evidence, added candidate relevance guards against cross-candidate issue/social/source contamination, corrected Chase LaPorte rendered race metadata, reran source health with zero HTTP errors, and confirmed validation/TypeScript/static build pass.
 - 2026-05-20T20:01:38Z professional-narrative-editor Removed internal disk-matrix wording from public issue summaries, replaced Documented-record label with Documented public evidence, regenerated all 70 v2 profiles, and confirmed build pass.
 - 2026-05-20T19:55:43Z source-tier-validator Trimmed public source trails to rendered citations only, added URL normalization/override cleanup, dropped dead public URLs from render, reran source health with zero HTTP-error links, and confirmed validation/TypeScript/build pass.
 - 2026-05-20T19:30:06Z source-tier-validator Added rendered source-health checker and checked 2,643 unique public rendered source URLs: 2,250 live, 97 blocked/forbidden, 243 HTTP errors, 32 timeouts, 21 network errors.

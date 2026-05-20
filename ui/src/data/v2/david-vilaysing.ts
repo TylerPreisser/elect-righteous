@@ -41,60 +41,11 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: \"url\": \"https://www.haysusa.com/335/Public-Library-Board\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-hays-library-board",
-          "src-david-vilaysing-0019",
-          "src-david-vilaysing-0002",
-          "s-guidon-library-facebook",
-          "src-david-vilaysing-0018"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-david-vilaysing-00017",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.haysusa.com/335/Public-Library-Board\"",
-          "sourceIds": [
-            "s-hays-library-board"
-          ]
-        },
-        {
-          "id": "em-david-vilaysing-00386",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-david-vilaysing-0019"
-          ]
-        },
-        {
-          "id": "em-david-vilaysing-01087",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-david-vilaysing-0002"
-          ]
-        },
-        {
-          "id": "em-david-vilaysing-01151",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "s-hays-library-board"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-david-vilaysing-0001",
-          "platform": "Facebook",
-          "observation": "One public social-media controversy stands out. The November 2025 issue of The Guidon quoted a public Oct. 12 Facebook post in which Vilaysing said parents had raised concerns about books in the young adult section of the Hays Public Library, that he inspected the area, and that he found graphic material he believed encouraged inappropriate behavior in children. The article also reported that his accompanying video...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-guidon-library-facebook"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
         {
           "id": "soc-david-vilaysing-0005",
           "platform": "tigermedianet.com",
@@ -104,16 +55,6 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
             "s-tigermedia-forum"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-david-vilaysing-0006",
-          "platform": "Facebook",
-          "observation": "Public Facebook post quoted by The Guidon, Oct. 12, 2025: He wrote that parents had raised concerns over young-adult books, that he inspected the area, and that he found books with graphic material he believed promoted inappropriate behavior in children. The article says his accompanying video encouraged citizens to attend the Oct. 15 library board meeting. Source: The Guidon PDF.",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-guidon-library-facebook"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
         }
       ]
     },
@@ -121,12 +62,9 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: HaysPost: Officer on de-escalation training Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-david-vilaysing-0021",
-          "src-david-vilaysing-0022",
-          "s-hayspost-deescalation",
-          "src-david-vilaysing-0004"
+          "s-hayspost-deescalation"
         ]
       },
       "actions": [],
@@ -139,10 +77,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         "text": "Documented public evidence: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep",
-          "s-tigermedia-budget-2025",
-          "src-david-vilaysing-0032",
-          "src-david-vilaysing-0033",
-          "src-david-vilaysing-0034"
+          "s-tigermedia-budget-2025"
         ]
       },
       "actions": [
@@ -264,10 +199,8 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector: Immigration lawyer runs",
-        "sourceIds": [
-          "src-david-vilaysing-0037"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -278,8 +211,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they have no business sitting in those seats. He proposed workforce collaboration among the city, local businesses, Hays High, and Fort Hays State University, and his early swearing-in comments praised department leaders... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-tigermedia-forum",
-          "src-david-vilaysing-0039"
+          "s-tigermedia-forum"
         ]
       },
       "actions": [
@@ -298,25 +230,13 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Heartland Community Foundation Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: HaysPost Candidate Q&A: David Vilaysing Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-david-vilaysing-0040",
           "s-hayspost-qa",
-          "src-david-vilaysing-0019",
-          "src-david-vilaysing-0042",
-          "src-david-vilaysing-0043",
-          "src-david-vilaysing-0044"
+          "s-ileeta-dxi"
         ]
       },
       "actions": [
-        {
-          "id": "em-david-vilaysing-00266",
-          "date": "Undated",
-          "body": "Heartland Community Foundation",
-          "sourceIds": [
-            "src-david-vilaysing-0040"
-          ]
-        },
         {
           "id": "em-david-vilaysing-00273",
           "date": "Undated",
@@ -326,35 +246,11 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-david-vilaysing-00386",
+          "id": "em-david-vilaysing-00833",
           "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
+          "body": "ILEETA Member: DXI Training Solutions LLC",
           "sourceIds": [
-            "src-david-vilaysing-0019"
-          ]
-        },
-        {
-          "id": "em-david-vilaysing-00820",
-          "date": "Undated",
-          "body": "Hays Post: Mayor/CM discuss 2025 projects",
-          "sourceIds": [
-            "src-david-vilaysing-0042"
-          ]
-        },
-        {
-          "id": "em-david-vilaysing-00821",
-          "date": "Undated",
-          "body": "Hays Post: South Vine reconstruction",
-          "sourceIds": [
-            "src-david-vilaysing-0043"
-          ]
-        },
-        {
-          "id": "em-david-vilaysing-00822",
-          "date": "Undated",
-          "body": "Hays Post: North Vine over estimate",
-          "sourceIds": [
-            "src-david-vilaysing-0044"
+            "s-ileeta-dxi"
           ]
         }
       ],
@@ -389,10 +285,8 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-dxi-home",
           "s-hayspost-budget-prep",
-          "src-david-vilaysing-0040",
-          "src-david-vilaysing-0019",
-          "src-david-vilaysing-0042",
-          "src-david-vilaysing-0043"
+          "s-ileeta-dxi",
+          "s-hayspost-service-awards"
         ]
       },
       "actions": [
@@ -413,35 +307,11 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-david-vilaysing-00266",
+          "id": "em-david-vilaysing-00833",
           "date": "Undated",
-          "body": "Heartland Community Foundation",
+          "body": "ILEETA Member: DXI Training Solutions LLC",
           "sourceIds": [
-            "src-david-vilaysing-0040"
-          ]
-        },
-        {
-          "id": "em-david-vilaysing-00386",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-david-vilaysing-0019"
-          ]
-        },
-        {
-          "id": "em-david-vilaysing-00820",
-          "date": "Undated",
-          "body": "Hays Post: Mayor/CM discuss 2025 projects",
-          "sourceIds": [
-            "src-david-vilaysing-0042"
-          ]
-        },
-        {
-          "id": "em-david-vilaysing-00821",
-          "date": "Undated",
-          "body": "Hays Post: South Vine reconstruction",
-          "sourceIds": [
-            "src-david-vilaysing-0043"
+            "s-ileeta-dxi"
           ]
         }
       ],
@@ -475,11 +345,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Hays Post: Water, retail, housing top issues Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-election-night",
-          "src-david-vilaysing-0052",
-          "src-david-vilaysing-0053",
-          "s-tigermedia-budget-2025",
-          "src-david-vilaysing-0073",
-          "src-david-vilaysing-0074"
+          "s-tigermedia-budget-2025"
         ]
       },
       "actions": [
@@ -489,22 +355,6 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
           "body": "Hays Post: Water, retail, housing top issues",
           "sourceIds": [
             "s-hayspost-election-night"
-          ]
-        },
-        {
-          "id": "em-david-vilaysing-00945",
-          "date": "Undated",
-          "body": "Kansas Reflector: Supreme Court arguments",
-          "sourceIds": [
-            "src-david-vilaysing-0052"
-          ]
-        },
-        {
-          "id": "em-david-vilaysing-00952",
-          "date": "Undated",
-          "body": "Hays Post: Water bill awaits governor signature",
-          "sourceIds": [
-            "src-david-vilaysing-0053"
           ]
         }
       ],
@@ -539,10 +389,8 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-hayspost-budget-prep",
           "s-hays-city-commission",
-          "s-hays-library-board",
-          "src-david-vilaysing-0079",
-          "src-david-vilaysing-0080",
-          "s-hayspost-qa"
+          "s-hayspost-qa",
+          "s-tigermedia-budget-2025"
         ]
       },
       "actions": [
@@ -563,30 +411,6 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-david-vilaysing-00017",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.haysusa.com/335/Public-Library-Board\"",
-          "sourceIds": [
-            "s-hays-library-board"
-          ]
-        },
-        {
-          "id": "em-david-vilaysing-00249",
-          "date": "Undated",
-          "body": "HaysPost: Hays city commission incumbents re-elected",
-          "sourceIds": [
-            "src-david-vilaysing-0079"
-          ]
-        },
-        {
-          "id": "em-david-vilaysing-00250",
-          "date": "Undated",
-          "body": "Tiger Media Network: Get to know the Hays City Commission candidates",
-          "sourceIds": [
-            "src-david-vilaysing-0080"
-          ]
-        },
-        {
           "id": "em-david-vilaysing-00273",
           "date": "Undated",
           "body": "HaysPost Candidate Q&A: David Vilaysing",
@@ -597,32 +421,12 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       ],
       "socialSignals": [
         {
-          "id": "soc-david-vilaysing-0001",
-          "platform": "Facebook",
-          "observation": "One public social-media controversy stands out. The November 2025 issue of The Guidon quoted a public Oct. 12 Facebook post in which Vilaysing said parents had raised concerns about books in the young adult section of the Hays Public Library, that he inspected the area, and that he found graphic material he believed encouraged inappropriate behavior in children. The article also reported that his accompanying video...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-guidon-library-facebook"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-david-vilaysing-0005",
           "platform": "tigermedianet.com",
           "observation": "Candidate forum, Oct. 8, 2025: He proposed a Hays workforce development council connecting the city commission, local businesses, high school administrators, and FHSU administrators. Source: Tiger Media Network.",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-tigermedia-forum"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-david-vilaysing-0006",
-          "platform": "Facebook",
-          "observation": "Public Facebook post quoted by The Guidon, Oct. 12, 2025: He wrote that parents had raised concerns over young-adult books, that he inspected the area, and that he found books with graphic material he believed promoted inappropriate behavior in children. The article says his accompanying video encouraged citizens to attend the Oct. 15 library board meeting. Source: The Guidon PDF.",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-guidon-library-facebook"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -640,7 +444,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "David Vilaysing is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. The most consistent city-policy themes are water, housing, and cost discipline. Vilaysing calls the R9 water project important but not enough by itself, saying Hays needs both a secure near-term source and a permanent long-term answer. On housing, he talks ab... Hays Catholic Schools Advancement Director Announcement. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 29 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: \"url\": \"https://www.haysusa.com/335/Public-Library-Board\". Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 13 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking offi... Economy / jobs / labor: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking offic... Economy / jobs / labor: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they have no bus... Health care / insurance / Medicaid: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "No current church affiliation or explicit public faith statement was verified in reviewed sources.",
   "campaignFinance": {
     "totalRaised": "Same as donorFunding: no online donor/funding detail was verified.",
@@ -649,7 +453,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "18 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "14 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-hays-city-commission",
@@ -670,17 +474,115 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-hays-library-board",
+      "id": "s-hays-minutes-01082026",
       "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Public Library Board",
+      "url": "https://www.haysusa.com/AgendaCenter/ViewFile/Minutes/_01082026-1589",
+      "title": "Hays City Commission Minutes - January 8, 2026",
       "publisher": "City of Hays",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "The Hays Public Library Board is appointed and the mayor is ex officio",
-        "The page says library policy includes the ALA Freedom to Read Policy, Library Bill of Rights, and confidentiality of borrower records",
-        "\"url\": \"https://www.haysusa.com/335/Public-Library-Board\",",
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
+        "David Vilaysing was sworn in as a city commissioner",
+        "Vilaysing seconded the motion electing Alaina Cunningham vice mayor",
+        "Vilaysing voted aye on the 2026 City Commission Rules of Procedure",
+        "Vilaysing said he was humbled to be chosen and encouraged residents to reach out"
+      ]
+    },
+    {
+      "id": "s-ellis-2025-filings",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5736/2025-Candidate-Filings",
+      "title": "2025 City/School Candidate Filings",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "David Vilaysing filed for Hays City Commission in the 2025 city/school election"
+      ]
+    },
+    {
+      "id": "s-ellis-2025-official-results",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5892/Official-Results-2025-General-Election",
+      "title": "Official Results - 2025 General Election",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Ellis County official 2025 results list David Vilaysing at 1,349 votes for Hays City Commissioner",
+        "The official county result supersedes election-night 1,340 vote reporting"
+      ]
+    },
+    {
+      "id": "s-ellis-2026-filings",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings",
+      "title": "2026 Primary Candidate Filings",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The 2026 Ellis County filing list does not show a Hays City Commission race",
+        "Vilaysing is not listed as a 2026 primary candidate"
+      ]
+    },
+    {
+      "id": "s-hays-minutes-02262026",
+      "tier": "primary",
+      "url": "https://www.haysusa.com/AgendaCenter/ViewFile/Minutes/_02262026-1597",
+      "title": "Hays City Commission Minutes - February 26, 2026",
+      "publisher": "City of Hays",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Vilaysing moved or seconded light-industrial rezoning items",
+        "Vilaysing voted aye on Exit 157 24-7 TIF and CID hearing resolutions"
+      ]
+    },
+    {
+      "id": "s-hays-agenda-02262026",
+      "tier": "primary",
+      "url": "https://haysusa.com/AgendaCenter/ViewFile/Agenda/_02262026-1597",
+      "title": "Hays City Commission Agenda Packet - February 26, 2026",
+      "publisher": "City of Hays",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The packet includes February 12 minutes noting Vilaysing's request to discuss the Pet Tag Ordinance"
+      ]
+    },
+    {
+      "id": "s-hays-agenda-04232026",
+      "tier": "primary",
+      "url": "https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_04232026-1609",
+      "title": "Hays City Commission Agenda Packet - April 23, 2026",
+      "publisher": "City of Hays",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The packet includes April 9 minutes showing Vilaysing seconded acceptance of the 2025 audit",
+        "Vilaysing asked whether the Exit 157 TIF had a matrix like other incentives",
+        "Vilaysing asked for transparency to customers about special tax districts",
+        "Vilaysing requested review of the city economic development policy",
+        "[City of Hays Apr. 23, 2026 agenda packet](https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_04232026-1609)"
+      ]
+    },
+    {
+      "id": "s-hays-agenda-05142026",
+      "tier": "primary",
+      "url": "https://www.haysusa.com/AgendaCenter/ViewFile/Agenda/_05142026-1611",
+      "title": "Hays City Commission Agenda Packet - May 14, 2026",
+      "publisher": "City of Hays",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The packet includes April 23 minutes showing Vilaysing voted aye on LIHTC fee-waiver support letters",
+        "The packet includes April 23 minutes showing Vilaysing voted aye on Pioneer Run IRB intent",
+        "The packet includes April 23 minutes stating Vilaysing joined a Washington, DC briefing trip with city officials",
+        "The May 14 agenda placed Willow Grove and Wheatland Commons IRB intent resolutions before the commission"
+      ]
+    },
+    {
+      "id": "s-kansas-campaign-data",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/campaign-finance/",
+      "title": "Campaign Finance Data",
+      "publisher": "Kansas Public Disclosure Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Kansas campaign-finance data portal did not surface a clean city-commission donor record for Vilaysing in this pass"
       ]
     },
     {
@@ -707,6 +609,23 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         "https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de",
         "\"I knew at my core I missed giving back to my community.\" Source: Hays Post, 2025-10-25, https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de, topic: motivation for running.",
         "> -- Hays Post, October 25, 2025, https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de"
+      ]
+    },
+    {
+      "id": "s-hayspost-forum",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/1afb725b-f6c4-4d09-93de-94b9008ba5ae",
+      "title": "City commission candidates talk housing, budget, R9 water project",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Vilaysing said he would meet R9 parties and push a game plan forward",
+        "Vilaysing wanted more out of existing city resources",
+        "Vilaysing suggested RHID stipulations for low- and medium-income housing",
+        "Vilaysing said commissioners should do the job without payment",
+        "Candidate forum, Oct. 8, 2025: The lone audience applause reportedly came when he said city commissioners should do the job without payment. Source: [Hays Post](https://hayspost.com/posts/1afb725b-f6c4-4d09-93de-94b9008ba5ae).",
+        "[Hays Post city commission forum, Oct. 8, 2025](https://hayspost.com/posts/1afb725b-f6c4-4d09-93de-94b9008ba5ae)",
+        "Candidate forum, Oct. 8, 2025: On R9, he said he would meet all involved parties and develop a plan to push forward within four years, not just ten. Source: [Hays Post](https://hayspost.com/posts/1afb725b-f6c4-4d09-93de-94b9008ba5ae)."
       ]
     },
     {
@@ -755,6 +674,21 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-swearing",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08",
+      "title": "New year, new governing body for city of Hays",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post reported Vilaysing was sworn in and would serve a two-year term",
+        "Vilaysing said department tours showed resourcefulness, resource preservation, and innovation",
+        "[Hays Post: New governing body 2026](https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08)",
+        "Swearing-in coverage, Jan. 10, 2026: He said city department leaders were finding ways to be resourceful, preserve resources, and embrace innovation. Source: [Hays Post](https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08).",
+        "[Hays Post swearing-in/reorganization, Jan. 10, 2026](https://hayspost.com/posts/21208822-3905-4a26-a33d-5003cf6f8f08)"
+      ]
+    },
+    {
       "id": "s-hayspost-pet-tags",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/603fb2e8-f14d-4075-a541-c9522b43ef76",
@@ -780,6 +714,17 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         "His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budg",
         "2027 budget work session, Apr. 6, 2026: He challenged department heads to ask frontline staff for budget input because they can identify what the city does not need to do. Source: [Hays Post](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb).",
         "[Hays Post 2027 budget work session, Apr. 6, 2026](https://hayspost.com/posts/87cea43b-4017-4065-a707-e19a1389beeb)"
+      ]
+    },
+    {
+      "id": "s-hayspost-chickfila-worksession",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/fd894259-fd52-4ccb-92c6-945bd172e875",
+      "title": "Hays City Commission talks economic development incentives for new Chick-fil-A",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Vilaysing challenged department heads to maintain existing assets and make them last longer for financial responsibility"
       ]
     },
     {
@@ -814,6 +759,43 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-bicycle-safety",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/b0e6ef58-d106-4a7d-b110-9d8fb7ab3af2",
+      "title": "Hays PD: Bicyclists must follow rules of road",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "As a Hays Police Department sergeant and bicycle officer, Vilaysing gave public bicycle-safety guidance",
+        "[Hays Post bicycle safety quote, June 15, 2023](https://hayspost.com/posts/b0e6ef58-d106-4a7d-b110-9d8fb7ab3af2)"
+      ]
+    },
+    {
+      "id": "s-hayspost-library-meeting",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/40bf9fa4-1286-48e0-9681-271ec72cc112",
+      "title": "Hays residents support, denounce Banned Book Week display during library meeting",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The library board meeting followed social-media criticism of a banned-books display",
+        "The article provides context for the public controversy but does not quote Vilaysing"
+      ]
+    },
+    {
+      "id": "s-hayspost-no-kings-barrick",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/39c5ed3b-dd7b-4248-a71f-a7ca06694a9e",
+      "title": "Hays city commissioner explains participation in No Kings protest",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "This article is about Reese Barrick, not David Vilaysing",
+        "The article says Vilaysing captured the third open Hays City Commission seat",
+        "[Hays Post: No Kings protest (Barrick, not Vilaysing)](https://hayspost.com/posts/39c5ed3b-dd7b-4248-a71f-a7ca06694a9e)"
+      ]
+    },
+    {
       "id": "s-dxi-home",
       "tier": "secondary",
       "url": "https://dxitrainingsolutions.com/",
@@ -827,6 +809,49 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
         "Vilaysing's law-enforcement and training background is a major part of how he presents himself. His [DXI Training Solutions](https://dxitrainingsolutions.com/) site describes responsible conflict management for first responders, businesses, and individuals. In",
         "| DXI Training Solutions website | Found | https://dxitrainingsolutions.com/ | Candidate-controlled business site. Links mission, services, contact info, and social icons. |",
         "[DXI Training Solutions](https://dxitrainingsolutions.com/)"
+      ]
+    },
+    {
+      "id": "s-dxi-about",
+      "tier": "social",
+      "url": "https://dxitrainingsolutions.com/about-us/",
+      "title": "About DXI Training Solutions",
+      "publisher": "DXI Training Solutions",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "DXI states the vision to leave the world better than we found it",
+        "DXI states the mission to provide responsible conflict management skills",
+        "DXI describes Sgt. David Vilaysing's USAR military police and law-enforcement background"
+      ]
+    },
+    {
+      "id": "s-ileeta-dxi",
+      "tier": "secondary",
+      "url": "https://www.ileeta.org/dxi-training-solutions-llc/",
+      "title": "DXI Training Solutions LLC",
+      "publisher": "ILEETA",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "ILEETA says DXI was founded by Sgt. David Vilaysing",
+        "ILEETA describes DXI training in de-escalation, tactical communication, and emotional control",
+        "ILEETA Member: [DXI Training Solutions LLC](https://www.ileeta.org/dxi-training-solutions-llc/)",
+        "[ILEETA: DXI Training Solutions](https://www.ileeta.org/dxi-training-solutions-llc/)",
+        "| ILEETA vendor page | Found | https://www.ileeta.org/dxi-training-solutions-llc/ | Public business profile says DXI was founded by Sgt. David Vilaysing and describes training themes. |",
+        "[DXI Training Solutions LLC](https://www.ileeta.org/dxi-training-solutions-llc/)",
+        "ILEETA Member: [DXI Training Solutions](https://www.ileeta.org/dxi-training-solutions-llc/)",
+        "[ILEETA DXI Training Solutions profile](https://www.ileeta.org/dxi-training-solutions-llc/)"
+      ]
+    },
+    {
+      "id": "s-goodparty-unclaimed",
+      "tier": "secondary",
+      "url": "https://goodparty.org/candidate/david-vilaysing/hays-city-commission",
+      "title": "David Vilaysing for Hays City Commission",
+      "publisher": "GoodParty.org",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "GoodParty lists David Vilaysing as a nonpartisan Hays City Commission candidate",
+        "The profile is explicitly marked unclaimed"
       ]
     },
     {
@@ -846,242 +871,15 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-david-vilaysing-0002",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0004",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/149/City-Managers-Office",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[City Manager's Office - Hays](https://www.haysusa.com/149/City-Managers-Office)",
-        "\"url\": \"https://www.haysusa.com/149/City-Managers-Office\"",
-        "[City of Hays: City Manager's Office](https://www.haysusa.com/149/City-Managers-Office)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0018",
+      "id": "src-david-vilaysing-0109",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "url": "https://goodparty.org/candidate/david-vilaysing/hays-city-commission//",
+      "title": "Goodparty",
+      "publisher": "Goodparty",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0019",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0021",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0022",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)",
-        "\"url\": \"https://www.ihm-church.com/\""
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0032",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2026 budget](https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0033",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0034",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0037",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0039",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0040",
-      "tier": "secondary",
-      "url": "https://heartlandcommunityfoundation.org/",
-      "title": "Heartlandcommunityfoundation",
-      "publisher": "Heartlandcommunityfoundation",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Heartland Community Foundation](https://heartlandcommunityfoundation.org/)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0042",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/0de13ea6-3e03-4110-a99e-58f98b4d361c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Mayor/CM discuss 2025 projects](https://hayspost.com/posts/0de13ea6-3e03-4110-a99e-58f98b4d361c)",
-        "[Hays Post: Mayor/CM 2025 projects](https://hayspost.com/posts/0de13ea6-3e03-4110-a99e-58f98b4d361c)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0043",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/9a118e53-0b32-4cc1-b6c5-44a476f7f7b9",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: South Vine reconstruction](https://hayspost.com/posts/9a118e53-0b32-4cc1-b6c5-44a476f7f7b9)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0044",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/5e98f695eb7f17053602be3c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: North Vine over estimate](https://hayspost.com/posts/5e98f695eb7f17053602be3c)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0052",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/12/15/kansas-supreme-court-examines-roiling-water-dispute-between-crop-irrigators-and-hays-russell/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Supreme Court arguments](https://kansasreflector.com/2025/12/15/kansas-supreme-court-examines-roiling-water-dispute-between-crop-irrigators-and-hays-russell/)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0053",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/c6a0184d-7e96-4157-ba49-d5e49a49e54c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Water bill awaits governor signature](https://hayspost.com/posts/c6a0184d-7e96-4157-ba49-d5e49a49e54c)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0073",
-      "tier": "secondary",
-      "url": "https://municipalwaterleader.com/guaranteeing-the-water-supply-of-hays-kansas-through-conservation-reuse-and-new-supplies/",
-      "title": "Municipalwaterleader",
-      "publisher": "Municipalwaterleader",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Municipal Water Leader Magazine](https://municipalwaterleader.com/guaranteeing-the-water-supply-of-hays-kansas-through-conservation-reuse-and-new-supplies/)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0074",
-      "tier": "secondary",
-      "url": "https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849",
-      "title": "Issuu",
-      "publisher": "Issuu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Issuu: Municipal Water Leader interview](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0079",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: Hays city commission incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)",
-        "[Hays Post: Incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)"
-      ]
-    },
-    {
-      "id": "src-david-vilaysing-0080",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=75270",
-      "title": "Tigermedianet",
-      "publisher": "Tigermedianet",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Tiger Media Network: Get to know the Hays City Commission candidates](https://tigermedianet.com/?p=75270)",
-        "[Tiger Media Network: Commission candidates](https://tigermedianet.com/?p=75270)",
-        "[Tiger Media Network: Get to know candidates](https://tigermedianet.com/?p=75270)"
+        "| GoodParty | Found but unclaimed | https://goodparty.org/candidate/david-vilaysing/hays-city-commission// | Profile says \"This profile is unclaimed,\" so treated as directory metadata, not candidate-controlled copy. |",
+        "[GoodParty David Vilaysing profile, unclaimed](https://goodparty.org/candidate/david-vilaysing/hays-city-commission//)"
       ]
     }
   ]

@@ -47,89 +47,18 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-tracey-mann-0035",
-          "src-tracey-mann-0001",
-          "src-tracey-mann-0002",
-          "src-tracey-mann-0038",
-          "src-tracey-mann-0004",
-          "src-tracey-mann-0039"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-tracey-mann-00594",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-tracey-mann-0035"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-00939",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-tracey-mann-0001"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-01002",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-tracey-mann-0002"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-02042",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas SBOE election 2026",
-          "sourceIds": [
-            "src-tracey-mann-0038"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-02043",
-          "date": "Undated",
-          "body": "Kansas State Department of Education: District 5",
-          "sourceIds": [
-            "src-tracey-mann-0004"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-02044",
-          "date": "Undated",
-          "body": "Kansas Reflector: Board races could shift power to conservative bloc",
-          "sourceIds": [
-            "src-tracey-mann-0039"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-tracey-mann-0001",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-tracey-mann-0040"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: > -- National Prayer Breakfast coverage, 2024, https://mann.house.gov/about Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-tracey-mann-0041",
-          "src-tracey-mann-0042",
-          "src-tracey-mann-0034",
-          "src-tracey-mann-0035",
           "src-tracey-mann-0005"
         ]
       },
@@ -140,51 +69,11 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: Website: mikeforkansas.my.canva.site (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-tracey-mann-0050",
-          "src-tracey-mann-0051",
-          "src-tracey-mann-0040",
-          "s-hayspost-townhall-2024"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-tracey-mann-01262",
-          "date": "Undated",
-          "body": "Website: mikeforkansas.my.canva.site (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)",
-          "sourceIds": [
-            "src-tracey-mann-0050"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-02001",
-          "date": "Undated",
-          "body": "Brennan Center: Wisconsin Supreme Court spending record",
-          "sourceIds": [
-            "src-tracey-mann-0051"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-03101",
-          "date": "Undated",
-          "body": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its healthcare section says, \"Mental healthcare should be a priority: Mental healthcare should be treate...",
-          "sourceIds": [
-            "src-tracey-mann-0040"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-tracey-mann-0001",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-tracey-mann-0040"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-tracey-mann-0003",
           "platform": "X / Twitter",
@@ -201,10 +90,8 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Reviewed evidence: https://mann.house.gov/media/press-releases/rep-mann-defends-religious-freedom-small-business-owners Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-tracey-mann-0006"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": [
@@ -234,43 +121,11 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: CNN: 8 states vote to bar noncitizen voting Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-tracey-mann-0056",
-          "src-tracey-mann-0040",
-          "src-tracey-mann-0055",
-          "s-hayspost-townhall-2024"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-tracey-mann-02010",
-          "date": "Undated",
-          "body": "CNN: 8 states vote to bar noncitizen voting",
-          "sourceIds": [
-            "src-tracey-mann-0056"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-03101",
-          "date": "Undated",
-          "body": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its healthcare section says, \"Mental healthcare should be a priority: Mental healthcare should be treate...",
-          "sourceIds": [
-            "src-tracey-mann-0040"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-tracey-mann-0001",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-tracey-mann-0040"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        },
         {
           "id": "soc-tracey-mann-0004",
           "platform": "Facebook",
@@ -287,145 +142,21 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: \"url\": \"https://www.kwch.com/2025/05/15/its-false-narrative-rep-mann-says-proposed-medicaid-changes-arent-cuts/\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-kwch-medicaid-2025",
-          "src-tracey-mann-0059",
-          "src-tracey-mann-0060",
-          "src-tracey-mann-0040",
-          "src-tracey-mann-0057"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-tracey-mann-02400",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.kwch.com/2025/05/15/its-false-narrative-rep-mann-says-proposed-medicaid-changes-arent-cuts/\"",
-          "sourceIds": [
-            "s-kwch-medicaid-2025"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-01453",
-          "date": "Undated",
-          "body": "Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric (May 13, 2025)",
-          "sourceIds": [
-            "src-tracey-mann-0059"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-01463",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas Insurance Commissioner Election 2026",
-          "sourceIds": [
-            "src-tracey-mann-0060"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-02180",
-          "date": "Undated",
-          "body": "Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric",
-          "sourceIds": [
-            "src-tracey-mann-0059"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-03101",
-          "date": "Undated",
-          "body": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its healthcare section says, \"Mental healthcare should be a priority: Mental healthcare should be treate...",
-          "sourceIds": [
-            "src-tracey-mann-0040"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-tracey-mann-0001",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-tracey-mann-0040"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Congress.gov bill page: https://www.congress.gov/bill/119th-congress/senate-bill/2503 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-congress-rotor-2026",
-          "src-tracey-mann-0035",
-          "src-tracey-mann-0062",
-          "src-tracey-mann-0063",
-          "src-tracey-mann-0008",
-          "src-tracey-mann-0009"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-tracey-mann-00103",
-          "date": "Undated",
-          "body": "Congress.gov bill page: https://www.congress.gov/bill/119th-congress/senate-bill/2503",
-          "sourceIds": [
-            "s-congress-rotor-2026"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-00594",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-tracey-mann-0035"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-00884",
-          "date": "Undated",
-          "body": "Hays Post: 2025 Election Results",
-          "sourceIds": [
-            "src-tracey-mann-0062"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-00903",
-          "date": "Undated",
-          "body": "Hays Post: 2024 Election Results",
-          "sourceIds": [
-            "src-tracey-mann-0063"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-00926",
-          "date": "Undated",
-          "body": "Ellis County Election Page",
-          "sourceIds": [
-            "src-tracey-mann-0008"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-00927",
-          "date": "Undated",
-          "body": "Ellis County Candidate Filings",
-          "sourceIds": [
-            "src-tracey-mann-0009"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-tracey-mann-0001",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-tracey-mann-0040"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
         {
           "id": "soc-tracey-mann-0003",
           "platform": "X / Twitter",
@@ -442,63 +173,18 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: OpenSecrets Profile: opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-tracey-mann-0035",
-          "src-tracey-mann-0069",
-          "src-tracey-mann-0071",
-          "src-tracey-mann-0050",
-          "src-tracey-mann-0082",
-          "src-tracey-mann-0085"
+          "src-tracey-mann-0090"
         ]
       },
       "actions": [
         {
-          "id": "em-tracey-mann-00594",
+          "id": "em-tracey-mann-01732",
           "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
+          "body": "OpenSecrets Profile: opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743",
           "sourceIds": [
-            "src-tracey-mann-0035"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-00999",
-          "date": "Undated",
-          "body": "Ballotpedia: Supreme Court Justices Amendment)",
-          "sourceIds": [
-            "src-tracey-mann-0069"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-01149",
-          "date": "Undated",
-          "body": "Website: christydavisforkansas.com",
-          "sourceIds": [
-            "src-tracey-mann-0071"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-01262",
-          "date": "Undated",
-          "body": "Website: mikeforkansas.my.canva.site (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)",
-          "sourceIds": [
-            "src-tracey-mann-0050"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-01472",
-          "date": "Undated",
-          "body": "NRSC: Calls for investigation of four Kansas Democrats (Mar 11, 2026)",
-          "sourceIds": [
-            "src-tracey-mann-0082"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-01569",
-          "date": "Undated",
-          "body": "Rate My Professors: ratemyprofessors.com/professor/2506562",
-          "sourceIds": [
-            "src-tracey-mann-0085"
+            "src-tracey-mann-0090"
           ]
         }
       ],
@@ -508,41 +194,11 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: Kansas Wheat Growers Applaud Reps. Mann and Davids for Farm Bill Amendments (davids.house.gov) — accessed 2026-05-20 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-tracey-mann-0018",
-          "src-tracey-mann-0040"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-tracey-mann-02265",
-          "date": "2026-05-20",
-          "body": "Kansas Wheat Growers Applaud Reps. Mann and Davids for Farm Bill Amendments (davids.house.gov) — accessed 2026-05-20",
-          "sourceIds": [
-            "src-tracey-mann-0018"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-03101",
-          "date": "Undated",
-          "body": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its healthcare section says, \"Mental healthcare should be a priority: Mental healthcare should be treate...",
-          "sourceIds": [
-            "src-tracey-mann-0040"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-tracey-mann-0001",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-tracey-mann-0040"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
         {
           "id": "soc-tracey-mann-0003",
           "platform": "X / Twitter",
@@ -572,6 +228,16 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
             "src-tracey-mann-0147"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
+        },
+        {
+          "id": "soc-tracey-mann-0006",
+          "platform": "X / Twitter",
+          "observation": "For the KS-01 district itself, Mann's local content centers on agriculture and on in-person constituent contact. In August 2024 he posted a tally citing 246 town halls and a 60-county Mann Listening Tour. His March 2026 Farm Bill 2.0 listening-session post described district stops by county. His June 11, 2025 YouTube video shows him questioning Agriculture Secretary Rollins on ag trade promotion and global food aid,...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-x-mann-townhalls-2024"
+          ],
+          "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
       ]
     },
@@ -579,77 +245,11 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: HaysPost: Hays city commission incumbents re-elected Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-tracey-mann-0130",
-          "src-tracey-mann-0131",
-          "src-tracey-mann-0023",
-          "src-tracey-mann-0136",
-          "src-tracey-mann-0062",
-          "src-tracey-mann-0024"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-tracey-mann-00457",
-          "date": "Undated",
-          "body": "HaysPost: Hays city commission incumbents re-elected",
-          "sourceIds": [
-            "src-tracey-mann-0130"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-00458",
-          "date": "Undated",
-          "body": "Tiger Media Network: Get to know the Hays City Commission candidates",
-          "sourceIds": [
-            "src-tracey-mann-0131"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-00882",
-          "date": "Undated",
-          "body": "Hays City Commission Official Page",
-          "sourceIds": [
-            "src-tracey-mann-0023"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-00883",
-          "date": "Undated",
-          "body": "Hays Post: Commission Sworn In",
-          "sourceIds": [
-            "src-tracey-mann-0136"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-00884",
-          "date": "Undated",
-          "body": "Hays Post: 2025 Election Results",
-          "sourceIds": [
-            "src-tracey-mann-0062"
-          ]
-        },
-        {
-          "id": "em-tracey-mann-00901",
-          "date": "Undated",
-          "body": "Ellis County Commission Page",
-          "sourceIds": [
-            "src-tracey-mann-0024"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-tracey-mann-0001",
-          "platform": "musserforuscongress.com",
-          "observation": "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The campaign website does include broad issue statements on healthcare, education, agriculture, Social Security, budget and taxes, privacy, women, and children. Its...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-tracey-mann-0040"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
         {
           "id": "soc-tracey-mann-0002",
           "platform": "Facebook",
@@ -679,6 +279,16 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
             "s-x-mann-townhalls-2024"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-tracey-mann-0007",
+          "platform": "Facebook",
+          "observation": "Facebook Video: Spoke at Douglas County Democrats meeting about exploratory campaign (facebook.com/dgcodems)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-tracey-mann-0149"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -686,17 +296,15 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Reviewed evidence: mann.house.gov press release URL: https://mann.house.gov/media/press-releases/mann-kaptur-colleagues-demand-us-treasury-prioritize-domestic-energy-producers (direct fetch 403; content via search snippet) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-tracey-mann-0033"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
   "whoTheyAre": "Tracey Mann is profiled here for U.S. Representative, Kansas's 1st Congressional District as a Republican incumbent/current official. https://mann.house.gov/media/press-releases/rep-mann-defends-religious-freedom-small-business-owners. mann.house.gov press release URL: https://mann.house.gov/media/press-releases/mann-kaptur-colleagues-demand-us-treasury-prioritize-domestic-energy-producers (direct fetch 403; content via search snippet). The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 36 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 1 source-backed action across 1 of the 14 issue areas. Representative public-record entries include: Public safety / law enforcement / criminal justice: OpenSecrets Profile: opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Mann attends First Covenant Church in Salina, Kansas, affiliated with the Evangelical Covenant Church denomination — a theologically centrist Protestant tradition with roots in Swedish pietism. Before his congressional career, Mann served as Senior Program Director for the National Student Leadership Forum on Faith and Values, a Washington-based nonprofit that runs faith-oriented leadership programs for high school and college students. His public statements frequently invoke faith as a personal anchor, though he does not typically make church policy a campaign centerpiece.",
   "campaignFinance": {
     "totalRaised": "$1,220,354.74",
@@ -709,42 +317,79 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
   "socialResearchNote": "Candidate-controlled social is handled issue-by-issue. The v2 scrape uses\nMann's own X post on 246 town halls as a social signal mapped to\nconstituent access. It does not use Reddit or oppositional commentary as\nevidence of Mann's beliefs; only verbatim candidate statements and public\nrecords are carried into issue cards.",
   "sources": [
     {
-      "id": "s-kwch-medicaid-2025",
-      "tier": "secondary",
-      "url": "https://www.kwch.com/2025/05/15/its-false-narrative-rep-mann-says-proposed-medicaid-changes-arent-cuts/",
-      "title": "It's a false narrative: Rep. Mann says proposed Medicaid changes aren't cuts",
-      "publisher": "KWCH",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Mann said it was a false narrative to say Republicans were going to cut Medicaid",
-        "Mann said Medicaid would be preserved for the people it was intended for",
-        "Mann repeated waste, fraud, and abuse framing",
-        "\"url\": \"https://www.kwch.com/2025/05/15/its-false-narrative-rep-mann-says-proposed-medicaid-changes-arent-cuts/\","
-      ]
-    },
-    {
-      "id": "s-congress-rotor-2026",
+      "id": "s-mann-obbba-2025",
       "tier": "primary",
-      "url": "https://www.congress.gov/bill/119th-congress/senate-bill/2503",
-      "title": "S. 2503 - ROTOR Act",
-      "publisher": "Congress.gov",
+      "url": "https://mann.house.gov/media/press-releases/rep-mann-applauds-one-big-beautiful-bill-acts-wins-america",
+      "title": "Rep. Mann Applauds the One Big Beautiful Bill Act's Wins for America",
+      "publisher": "Office of Rep. Tracey Mann",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "S. 2503 was the Rotorcraft Operations Transparency and Oversight Reform Act",
-        "Congress.gov bill page: https://www.congress.gov/bill/119th-congress/senate-bill/2503"
+        "Mann publicly supported H.R. 1 after the May 22, 2025 House vote",
+        "Mann described Medicaid and SNAP as exploited and expanded beyond their initial intent",
+        "Mann framed work requirements as stewardship of taxpayer generosity"
       ]
     },
     {
-      "id": "s-hayspost-townhall-2024",
+      "id": "s-kansas-reflector-rotor-2026",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/1e4f8e0c-4dcd-446f-a66b-a191d2a56966",
-      "title": "U.S. Rep. Mann addresses immigration, national debt in Hays",
-      "publisher": "Hays Post",
+      "url": "https://kansasreflector.com/2026/02/25/u-s-rep-tracey-mann-lone-kansas-vote-against-federal-aviation-safety-bill-tied-to-d-c-crash/",
+      "title": "Tracey Mann lone Kansas vote against federal aviation safety bill tied to D.C. crash",
+      "publisher": "Kansas Reflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Mann held a Hays town hall at Hays Public Library on July 2, 2024",
-        "Mann gave direct quotes on stepped-up basis, national debt, immigration, and border security",
-        "[U.S. Rep. Mann's addresses immigration, national debt in Hays (Hays Post)](https://hayspost.com/posts/1e4f8e0c-4dcd-446f-a66b-a191d2a56966) — accessed 2026-05-20"
+        "Mann was the lone Kansas delegation no vote on the ROTOR Act",
+        "The bill responded to the 2025 Washington, D.C. midair collision involving a flight from Wichita",
+        "[U.S. Rep. Tracey Mann lone Kansas vote against federal aviation safety bill tied to D.C. crash (Kansas Reflector)](https://kansasreflector.com/2026/02/25/u-s-rep-tracey-mann-lone-kansas-vote-against-federal-aviation-safety-bill-tied-to-d-c-crash/) — accessed"
+      ]
+    },
+    {
+      "id": "s-mann-committees-caucuses",
+      "tier": "primary",
+      "url": "https://mann.house.gov/about/committees-and-caucuses",
+      "title": "Committees and Caucuses",
+      "publisher": "Office of Rep. Tracey Mann",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Mann's official office page identifies committee and caucus roles",
+        "Search-accessible text identifies Mann as co-founder and co-chair of the House Congressional FFA Caucus",
+        "[Committees and Caucuses (mann.house.gov)](https://mann.house.gov/about/committees-and-caucuses) — accessed via search snippet 2026-05-20 (direct fetch 403)"
+      ]
+    },
+    {
+      "id": "s-mann-kaptur-farmer-first",
+      "tier": "primary",
+      "url": "https://mann.house.gov/media/press-releases/reps-mann-kaptur-and-sens-marshall-brown-introduce-bicameral-legislation-put",
+      "title": "Mann, Kaptur, Marshall, Brown introduce Farmer First Fuel Incentives Act",
+      "publisher": "Office of Rep. Tracey Mann",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Mann and Kaptur co-led a bipartisan, bicameral biofuels effort with Senators Marshall and Brown",
+        "The effort concerned Clean Fuel Production Credit eligibility for domestically produced feedstocks",
+        "\"url\": \"https://mann.house.gov/media/press-releases/reps-mann-kaptur-and-sens-marshall-brown-introduce-bicameral-legislation-put\","
+      ]
+    },
+    {
+      "id": "s-ffa-caucus-members",
+      "tier": "primary",
+      "url": "https://ffacaucus-mann.house.gov/about/members",
+      "title": "FFA Caucus Members",
+      "publisher": "House Congressional FFA Caucus",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Tracey Mann and Jimmy Panetta are listed as chairs of the FFA Caucus"
+      ]
+    },
+    {
+      "id": "s-indivisible-colby-townhall-2026",
+      "tier": "secondary",
+      "url": "https://indivisiblemhk.substack.com/p/transcript-of-rep-tracey-manns-town",
+      "title": "Transcript of Rep. Tracey Mann's Town Hall in Colby",
+      "publisher": "Indivisible MHK",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "The transcript carries Mann quotes on Medicare, Social Security, DOGE, immigration, water, and Food for Peace",
+        "The source is oppositional; verbatim quotes are usable but editorial framing is not",
+        "[Transcript of Rep. Tracey Mann's Town Hall in Colby, KS 2.19.25 (Indivisible MHK Substack)](https://indivisiblemhk.substack.com/p/transcript-of-rep-tracey-manns-town) — accessed 2026-05-20"
       ]
     },
     {
@@ -761,37 +406,19 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-tracey-mann-0001",
+      "id": "s-fec-candidate",
       "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
+      "url": "https://www.fec.gov/data/candidate/H0KS01123/",
+      "title": "Tracey Robert Mann Candidate Page",
+      "publisher": "Federal Election Commission",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)",
-        "\"url\": \"https://www.usd489.com/page/board-of-education\""
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0002",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0004",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
-      "title": "Ksde",
-      "publisher": "Ksde",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)"
+        "FEC candidate ID H0KS01123 belongs to Tracey Robert Mann",
+        "2025-2026 cycle totals were directly fetched from FEC",
+        "[FEC - Tracey Mann Candidate Page](https://www.fec.gov/data/candidate/H0KS01123/)",
+        "FEC candidate page: https://www.fec.gov/data/candidate/H0KS01123/",
+        "FEC committee page: https://www.fec.gov/data/candidate/H0KS01123/",
+        "https://www.fec.gov/data/candidate/H0KS01123/"
       ]
     },
     {
@@ -809,350 +436,76 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-tracey-mann-0006",
+      "id": "src-tracey-mann-0032",
       "tier": "primary",
-      "url": "https://mann.house.gov/media/press-releases/rep-mann-defends-religious-freedom-small-business-owners",
+      "url": "https://mann.house.gov/",
       "title": "Mann.House",
       "publisher": "Mann.House",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "https://mann.house.gov/media/press-releases/rep-mann-defends-religious-freedom-small-business-owners",
-        "[mann.house.gov](https://mann.house.gov/media/press-releases/rep-mann-defends-religious-freedom-small-business-owners)"
+        "[Tracey Mann official site](https://mann.house.gov/)"
       ]
     },
     {
-      "id": "src-tracey-mann-0008",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/425/Election",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ellis County Election Page](https://www.ellisco.net/425/Election)",
-        "| Ellis County Clerk (Election Office) | 785-628-9410 | [ellisco.net/425/Election](https://www.ellisco.net/425/Election) |"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0009",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/626/Candidate-Filings",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ellis County Candidate Filings](https://www.ellisco.net/626/Candidate-Filings)",
-        "Recommended action: Call the Ellis County Clerk at 785-628-9410 or check [ellisco.net/626/Candidate-Filings](https://www.ellisco.net/626/Candidate-Filings) after June 1, 2026 for the definitive candidate list.",
-        "[ellisco.net/626](https://www.ellisco.net/626/Candidate-Filings)",
-        "\"url\": \"https://www.ellisco.net/626/Candidate-Filings\"",
-        "IMPORTANT CAVEAT: Contact the Ellis County Clerk (785-628-9410) to confirm exactly which offices appear on the 2026 ballot. The Candidate Filings page at [ellisco.net/626](https://www.ellisco.net/626/Candidate-Filings) will show declared candidates once filing"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0018",
-      "tier": "primary",
-      "url": "https://davids.house.gov/media/in-the-news/kansas-wheat-growers-applaud-reps-mann-and-davids-farm-bill-amendments",
-      "title": "Davids.House",
-      "publisher": "Davids.House",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Wheat Growers Applaud Reps. Mann and Davids for Farm Bill Amendments (davids.house.gov)](https://davids.house.gov/media/in-the-news/kansas-wheat-growers-applaud-reps-mann-and-davids-farm-bill-amendments) — accessed 2026-05-20"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0023",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/269/City-Commission",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays City Commission Official Page](https://www.haysusa.com/269/City-Commission)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0024",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/120/County-Commission",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ellis County Commission Page](https://www.ellisco.net/120/County-Commission)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0033",
-      "tier": "primary",
-      "url": "https://mann.house.gov/media/press-releases/mann-kaptur-colleagues-demand-us-treasury-prioritize-domestic-energy-producers",
-      "title": "Mann.House",
-      "publisher": "Mann.House",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "mann.house.gov press release URL: https://mann.house.gov/media/press-releases/mann-kaptur-colleagues-demand-us-treasury-prioritize-domestic-energy-producers (direct fetch 403; content via search snippet)",
-        "[Mann–Kaptur Treasury letter press release (mann.house.gov)](https://mann.house.gov/media/press-releases/mann-kaptur-colleagues-demand-us-treasury-prioritize-domestic-energy-producers) — accessed via search snippet (direct fetch 403)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0034",
+      "id": "src-tracey-mann-0049",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "url": "https://en.wikipedia.org/wiki/Tracey_Mann",
+      "title": "En.Wikipedia",
+      "publisher": "En.Wikipedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
+        "[Tracey Mann - Wikipedia](https://en.wikipedia.org/wiki/Tracey_Mann)"
       ]
     },
     {
-      "id": "src-tracey-mann-0035",
+      "id": "src-tracey-mann-0090",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "url": "https://www.opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743",
+      "title": "Opensecrets",
+      "publisher": "Opensecrets",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
+        "OpenSecrets Profile: [opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743](https://www.opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743)",
+        "[OpenSecrets - Tracey Mann](https://www.opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743)",
+        "[opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743](https://www.opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743)"
       ]
     },
     {
-      "id": "src-tracey-mann-0038",
+      "id": "src-tracey-mann-0120",
       "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
+      "url": "https://www.traceymann.com/",
+      "title": "Traceymann",
+      "publisher": "Traceymann",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
+        "\"The Conservative You Can Trust.\" - campaign site, n.d., https://www.traceymann.com/ (campaign slogan)",
+        "\"Tracey Mann served as the 50th Lt. Governor of the great state of Kansas.\" - campaign/about page, n.d., https://www.traceymann.com/ or https://mann.house.gov/about (biographical line)",
+        "\"Tracey Mann served as the 50th Lt. Governor of the great state of Kansas.\" - campaign bio, n.d., https://www.traceymann.com/ or https://mann.house.gov/about (biographical line)",
+        "> -- campaign bio, https://www.traceymann.com/ or https://mann.house.gov/about",
+        "> -- campaign messaging, 2016, https://www.traceymann.com/",
+        "[traceymann.com](https://www.traceymann.com/)"
       ]
     },
     {
-      "id": "src-tracey-mann-0039",
+      "id": "src-tracey-mann-0126",
       "tier": "secondary",
-      "url": "https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
+      "url": "https://www.hppr.org/hppr-news/2026-02-25/u-s-rep-tracey-mann-lone-kansas-vote-against-federal-aviation-safety-bill-tied-to-d-c-crash",
+      "title": "Hppr",
+      "publisher": "Hppr",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)"
+        "[U.S. Rep. Tracey Mann lone Kansas vote against federal aviation safety bill tied to D.C. crash (HPPR)](https://www.hppr.org/hppr-news/2026-02-25/u-s-rep-tracey-mann-lone-kansas-vote-against-federal-aviation-safety-bill-tied-to-d-c-crash) — accessed 2026-05-20"
       ]
     },
     {
-      "id": "src-tracey-mann-0040",
+      "id": "src-tracey-mann-0129",
       "tier": "secondary",
-      "url": "https://musserforuscongress.com/untitled",
-      "title": "Musserforuscongress",
-      "publisher": "Musserforuscongress",
+      "url": "https://justfacts.votesmart.org/candidate/political-courage-test/125007/tracey-mann",
+      "title": "Justfacts.Votesmart",
+      "publisher": "Justfacts.Votesmart",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Across the captured period the feed contains no posts about wheat prices, water rights, the Ogallala Aquifer, rural hospital closures by name, Fort Riley, Fort Hays State University, veterans' services, county-level economic development, or immigration. The ca"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0041",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0042",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0050",
-      "tier": "secondary",
-      "url": "https://mikeforkansas.my.canva.site/",
-      "title": "Mikeforkansas.My.Canva",
-      "publisher": "Mikeforkansas.My.Canva",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)",
-        "[mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0051",
-      "tier": "secondary",
-      "url": "https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state",
-      "title": "Brennancenter",
-      "publisher": "Brennancenter",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0055",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)",
-        "[Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0056",
-      "tier": "secondary",
-      "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
-      "title": "Cnn",
-      "publisher": "Cnn",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0057",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0059",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/) (May 13, 2025)",
-        "[Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0060",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas Insurance Commissioner Election 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)",
-        "[Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0062",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2025 Election Results](https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0063",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2024 Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
-        "[Hays Post: 2024 General Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0069",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))",
-        "[Ballotpedia: Kansas Elections for Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0071",
-      "tier": "secondary",
-      "url": "https://www.christydavisforkansas.com/",
-      "title": "Christydavisforkansas",
-      "publisher": "Christydavisforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Website: [christydavisforkansas.com](https://www.christydavisforkansas.com/)",
-        "[christydavisforkansas.com](https://www.christydavisforkansas.com/)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0082",
-      "tier": "secondary",
-      "url": "https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/",
-      "title": "Nrsc",
-      "publisher": "Nrsc",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[NRSC: Calls for investigation of four Kansas Democrats](https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/) (Mar 11, 2026)",
-        "[NRSC: Calls for investigation of four Kansas Democrats](https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0085",
-      "tier": "secondary",
-      "url": "https://www.ratemyprofessors.com/professor/2506562",
-      "title": "Ratemyprofessors",
-      "publisher": "Ratemyprofessors",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Rate My Professors: [ratemyprofessors.com/professor/2506562](https://www.ratemyprofessors.com/professor/2506562)",
-        "[ratemyprofessors.com/professor/2506562](https://www.ratemyprofessors.com/professor/2506562)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0130",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: Hays city commission incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0131",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=75270",
-      "title": "Tigermedianet",
-      "publisher": "Tigermedianet",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Tiger Media Network: Get to know the Hays City Commission candidates](https://tigermedianet.com/?p=75270)"
-      ]
-    },
-    {
-      "id": "src-tracey-mann-0136",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/eb1182bd-00f4-4751-912d-03481e2570d8",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Commission Sworn In](https://hayspost.com/posts/eb1182bd-00f4-4751-912d-03481e2570d8)"
+        "[Tracey Mann (Vote Smart)](https://justfacts.votesmart.org/candidate/political-courage-test/125007/tracey-mann) — accessed 2026-05-20"
       ]
     },
     {
@@ -1200,6 +553,54 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Across the public record on X, Facebook, and YouTube, Mann's most frequent topic is agriculture policy. He posts about the Farm Bill, commodity producers, ag trade promotion, and the operational mechanics of U.S. food aid. On January 7, 2026, he posted: [\"Prod"
+      ]
+    },
+    {
+      "id": "src-tracey-mann-0149",
+      "tier": "social",
+      "url": "https://www.facebook.com/dgcodems/videos/2299093513898616/",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Facebook Video: Spoke at Douglas County Democrats meeting about exploratory campaign ([facebook.com/dgcodems](https://www.facebook.com/dgcodems/videos/2299093513898616/))",
+        "[Douglas County Democrats Facebook - Exploratory Campaign Video](https://www.facebook.com/dgcodems/videos/2299093513898616/)",
+        "[facebook.com/dgcodems](https://www.facebook.com/dgcodems/videos/2299093513898616/)",
+        "\"url\": \"https://www.facebook.com/dgcodems/videos/2299093513898616/\""
+      ]
+    },
+    {
+      "id": "src-tracey-mann-0165",
+      "tier": "secondary",
+      "url": "https://ballotpedia.org/Tracey_Mann",
+      "title": "Ballotpedia",
+      "publisher": "Ballotpedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Ballotpedia](https://ballotpedia.org/Tracey_Mann) — accessed 2026-03-30",
+        "[Ballotpedia](https://ballotpedia.org/Tracey_Mann)"
+      ]
+    },
+    {
+      "id": "src-tracey-mann-0195",
+      "tier": "primary",
+      "url": "https://www.govtrack.us/congress/members/tracey_mann/456823",
+      "title": "Govtrack",
+      "publisher": "Govtrack",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Rep. Tracey Mann profile (GovTrack)](https://www.govtrack.us/congress/members/tracey_mann/456823) — accessed 2026-05-20"
+      ]
+    },
+    {
+      "id": "src-tracey-mann-0196",
+      "tier": "secondary",
+      "url": "https://www.legistorm.com/townhall/27963/hays-town-hall-rep-tracey-mann-07-2024.html",
+      "title": "Legistorm",
+      "publisher": "Legistorm",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Hays Town Hall Rep. Tracey Mann 07-2024 (LegiStorm)](https://www.legistorm.com/townhall/27963/hays-town-hall-rep-tracey-mann-07-2024.html) — accessed via search snippet 2026-05-20"
       ]
     }
   ]

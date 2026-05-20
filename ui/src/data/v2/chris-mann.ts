@@ -21,10 +21,8 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector 2022 debate coverage: https://kansasreflector.com/2022/09/23/kansas-attorney-general-candidates-split-on-voter-fraud-abortion-rights-immigration/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-ksreflector-2022-debate"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -33,11 +31,8 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector: Transgender Law Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-chris-mann-0016",
-          "src-chris-mann-0018"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -46,59 +41,20 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: Ballotpedia: Kansas SBOE election 2026 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Mann's biography is not incidental to the campaign; it is the campaign's core credential. The \"Meet Chris\" page says he became a police officer at 21, was struck by a drunk driver during a 2002 traffic stop, later went to law school, became a Wyandotte County prosecutor, served on MADD's national board, worked at the Kansas Securities Commission, and opened Mann Law Firm in 2016 (source). The same page says he prose... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-chris-mann-0020",
-          "src-chris-mann-0001",
-          "src-chris-mann-0021",
           "s-campaign-bio"
         ]
       },
-      "actions": [
-        {
-          "id": "em-chris-mann-01509",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas SBOE election 2026",
-          "sourceIds": [
-            "src-chris-mann-0020"
-          ]
-        },
-        {
-          "id": "em-chris-mann-01510",
-          "date": "Undated",
-          "body": "Kansas State Department of Education: District 5",
-          "sourceIds": [
-            "src-chris-mann-0001"
-          ]
-        },
-        {
-          "id": "em-chris-mann-01511",
-          "date": "Undated",
-          "body": "Kansas Reflector: Board races could shift power to conservative bloc",
-          "sourceIds": [
-            "src-chris-mann-0021"
-          ]
-        },
-        {
-          "id": "em-chris-mann-02565",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\"",
-          "sourceIds": [
-            "src-chris-mann-0001"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Kansas Catholic Conference: Election 2026 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-chris-mann-0022",
-          "src-chris-mann-0023"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -107,21 +63,10 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: Brennan Center: Wisconsin Supreme Court spending record Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-chris-mann-0024"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-chris-mann-01468",
-          "date": "Undated",
-          "body": "Brennan Center: Wisconsin Supreme Court spending record",
-          "sourceIds": [
-            "src-chris-mann-0024"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -148,60 +93,20 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: CNN: 8 states vote to bar noncitizen voting Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-chris-mann-0026",
-          "s-ksreflector-2022-debate"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-chris-mann-01476",
-          "date": "Undated",
-          "body": "CNN: 8 states vote to bar noncitizen voting",
-          "sourceIds": [
-            "src-chris-mann-0026"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: > -- Kansas Reflector, March 8, 2026 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-chris-mann-0027",
-          "src-chris-mann-0029"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-chris-mann-00393",
-          "date": "Undated",
-          "body": "> -- Kansas Reflector, March 8, 2026",
-          "sourceIds": [
-            "src-chris-mann-0027"
-          ]
-        },
-        {
-          "id": "em-chris-mann-00744",
-          "date": "Undated",
-          "body": "Kansas Reflector: Democratic debate (March 8, 2026)",
-          "sourceIds": [
-            "src-chris-mann-0027"
-          ]
-        },
-        {
-          "id": "em-chris-mann-02500",
-          "date": "Undated",
-          "body": "\"source\": \"Kansas Reflector, March 8, 2026, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/\"",
-          "sourceIds": [
-            "src-chris-mann-0027"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -211,9 +116,8 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-sos-candidate-info-2026",
-          "s-kpdc-mann-treasurer",
-          "s-kwch-launch-2025"
+          "s-kwch-launch-2025",
+          "s-campaign-bio"
         ]
       },
       "actions": [
@@ -234,22 +138,6 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-chris-mann-00042",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.sos.ks.gov/elections/candidate-information.html\"",
-          "sourceIds": [
-            "s-sos-candidate-info-2026"
-          ]
-        },
-        {
-          "id": "em-chris-mann-00058",
-          "date": "Undated",
-          "body": "\"url\": \"https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW02CM_amendAT.pdf\"",
-          "sourceIds": [
-            "s-kpdc-mann-treasurer"
-          ]
-        },
-        {
           "id": "em-chris-mann-00197",
           "date": "Undated",
           "body": "https://kansasreflector.com/2026/03/23/former-prosecutor-enters-kansas-senate-race/",
@@ -258,11 +146,19 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-chris-mann-00309",
+          "id": "em-chris-mann-00314",
           "date": "Undated",
-          "body": "Kansas SOS candidate information: https://www.sos.ks.gov/elections/candidate-information.html",
+          "body": "Campaign homepage: https://chrismannforkansas.com/",
           "sourceIds": [
-            "s-sos-candidate-info-2026"
+            "s-campaign-home"
+          ]
+        },
+        {
+          "id": "em-chris-mann-00315",
+          "date": "Undated",
+          "body": "Campaign biography: https://chrismannforkansas.com/meet-chris/",
+          "sourceIds": [
+            "s-campaign-bio"
           ]
         }
       ],
@@ -316,7 +212,6 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-kpdc-mann-treasurer",
           "s-kwch-launch-2025",
           "s-campaign-bio"
         ]
@@ -336,14 +231,6 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
           "body": "Rule of law, constitutional rights, and family safety recur across platforms, but usually as part of the law-enforcement frame rather than as a long list of policy positions. His website says he will \"defend the Constitution\" and \"protect the rule of law\" (source). His indexed X campaign announcement said, \"It's time for a law enforcement leader who puts people before politics. I'll protect your rights, keep families safe, and hold the powerful accountable\" (harvest). KCUR summarized his 2022 race as focused on st...",
           "sourceIds": [
             "s-campaign-home"
-          ]
-        },
-        {
-          "id": "em-chris-mann-00058",
-          "date": "Undated",
-          "body": "\"url\": \"https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW02CM_amendAT.pdf\"",
-          "sourceIds": [
-            "s-kpdc-mann-treasurer"
           ]
         },
         {
@@ -402,39 +289,10 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: > -- Kansas Reflector, March 8, 2026 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-chris-mann-0027",
-          "src-chris-mann-0100",
-          "src-chris-mann-0101"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-chris-mann-00393",
-          "date": "Undated",
-          "body": "> -- Kansas Reflector, March 8, 2026",
-          "sourceIds": [
-            "src-chris-mann-0027"
-          ]
-        },
-        {
-          "id": "em-chris-mann-00744",
-          "date": "Undated",
-          "body": "Kansas Reflector: Democratic debate (March 8, 2026)",
-          "sourceIds": [
-            "src-chris-mann-0027"
-          ]
-        },
-        {
-          "id": "em-chris-mann-02500",
-          "date": "Undated",
-          "body": "\"source\": \"Kansas Reflector, March 8, 2026, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/\"",
-          "sourceIds": [
-            "src-chris-mann-0027"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -444,8 +302,9 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-sos-candidate-info-2026",
-          "s-kwch-launch-2025"
+          "s-kwch-launch-2025",
+          "s-campaign-bio",
+          "src-chris-mann-0031"
         ]
       },
       "actions": [
@@ -466,14 +325,6 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-chris-mann-00042",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.sos.ks.gov/elections/candidate-information.html\"",
-          "sourceIds": [
-            "s-sos-candidate-info-2026"
-          ]
-        },
-        {
           "id": "em-chris-mann-00197",
           "date": "Undated",
           "body": "https://kansasreflector.com/2026/03/23/former-prosecutor-enters-kansas-senate-race/",
@@ -482,19 +333,27 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-chris-mann-00309",
-          "date": "Undated",
-          "body": "Kansas SOS candidate information: https://www.sos.ks.gov/elections/candidate-information.html",
-          "sourceIds": [
-            "s-sos-candidate-info-2026"
-          ]
-        },
-        {
           "id": "em-chris-mann-00314",
           "date": "Undated",
           "body": "Campaign homepage: https://chrismannforkansas.com/",
           "sourceIds": [
             "s-campaign-home"
+          ]
+        },
+        {
+          "id": "em-chris-mann-00315",
+          "date": "Undated",
+          "body": "Campaign biography: https://chrismannforkansas.com/meet-chris/",
+          "sourceIds": [
+            "s-campaign-bio"
+          ]
+        },
+        {
+          "id": "em-chris-mann-00316",
+          "date": "Undated",
+          "body": "Campaign news: https://chrismannforkansas.com/news/",
+          "sourceIds": [
+            "src-chris-mann-0031"
           ]
         }
       ],
@@ -545,17 +404,15 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Reviewed evidence: NOLN: Strickland Brothers franchise owner Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-chris-mann-0111"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
   "whoTheyAre": "Chris Mann is profiled here for Attorney General candidate as a Democratic. Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communi... Rule of law, constitutional rights, and family safety recur across platforms, but usually as part of the law-enforcement frame rather than as a long list of policy positions. His website says he will \"defend the Constitution\" and \"protect the rule of law\" (so... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 28 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Education / curriculum / schools: Kansas State Department of Education: District 5. Education / curriculum / schools: Kansas Reflector: Board races could shift power to conservative bloc. Education / curriculum / schools: \"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\". Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 14 source-backed actions across 3 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"d... Election integrity / voting / courts: Rule of law, constitutional rights, and family safety recur across platforms, but usually as part of the law-enforcement frame rather than as a long list of policy positions. His website says he will \"... Election integrity / voting / courts: https://kansasreflector.com/2026/03/23/former-prosecutor-enters-kansas-senate-race/. Election integrity / voting / courts: Campaign homepage: https://chrismannforkansas.com/. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Mann's campaign uses faith language in places, but the source material does not name a congregation or church website.",
   "campaignFinance": {
     "totalRaised": "Not itemized in rendered profile",
@@ -568,18 +425,38 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
   "socialResearchNote": "12 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
-      "id": "s-sos-candidate-info-2026",
+      "id": "s-kpdc-statewide-2026",
       "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
-      "title": "Kansas Secretary of State - Candidate Information",
-      "publisher": "Kansas Secretary of State",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+      "title": "Kansas State Wide Office - 2026 Election Cycle",
+      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Attorney General is listed among offices to be elected or retained in 2026",
-        "Primary filing deadline is 12:00 p.m. Monday, June 1, 2026",
-        "Statewide candidates file with the Secretary of State",
-        "\"url\": \"https://www.sos.ks.gov/elections/candidate-information.html\",",
-        "Kansas SOS candidate information: https://www.sos.ks.gov/elections/candidate-information.html"
+        "Mann, Chris is listed under Attorney General Candidates",
+        "KPDC links Mann's amended appointment of treasurer and 2026 report",
+        "The page includes a statutory warning against copying contributor names for commercial use",
+        "KPDC statewide 2026 index: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
+        "KPDC statewide 2026 filings page: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
+      ]
+    },
+    {
+      "id": "s-kpdc-mann-202601",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02CM_202601.pdf",
+      "title": "Chris D. Mann Campaign Finance Receipts and Expenditures Report - January 2026",
+      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Report covers 2025-01-01 through 2025-12-31",
+        "Total contributions and other receipts were $536,639.57",
+        "Total expenditures and other disbursements were $280,041.49",
+        "Cash on hand at close of period was $257,257.08",
+        "In-kind contributions were $7,655.77",
+        "Other transactions were $0.00",
+        "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02CM_202601.pdf",
+        "[State of Kansas](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02CM_202601.pdf)",
+        "KPDC Mann 202601 report: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02CM_202601.pdf",
+        "KPDC Mann January 2026 report: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW02CM_202601.pdf"
       ]
     },
     {
@@ -597,6 +474,19 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
         "\"url\": \"https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW02CM_amendAT.pdf\",",
         "KPDC Mann amended AT: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW02CM_amendAT.pdf",
         "KPDC amended appointment of treasurer: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW02CM_amendAT.pdf"
+      ]
+    },
+    {
+      "id": "s-miami-county-candidate-list",
+      "tier": "primary",
+      "url": "https://www.copsfortots.com/DocumentCenter/View/14387/26PR-Unofficial-Candidate-List-4-24?bidId=",
+      "title": "Miami County, Kansas Unofficial Candidate List for Primary 2026",
+      "publisher": "Miami County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "County unofficial list shows Kansas Attorney General: Chris Mann, Democratic, Lawrence KS",
+        "List is explicitly unofficial and supplemental",
+        "Miami County unofficial candidate list: https://www.copsfortots.com/DocumentCenter/View/14387/26PR-Unofficial-Candidate-List-4-24?bidId="
       ]
     },
     {
@@ -648,6 +538,20 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-campaign-rss",
+      "tier": "primary",
+      "url": "https://chrismannforkansas.com/feed/",
+      "title": "Chris Mann for Kansas RSS Feed",
+      "publisher": "Chris Mann for Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "RSS contains July 30, 2025 launch excerpt",
+        "RSS contains August 26, 2025 Liberal First excerpt with rule of law, rural law enforcement, and family safety language",
+        "RSS contains January 9, 2026 fundraising excerpt",
+        "Campaign RSS: https://chrismannforkansas.com/feed/"
+      ]
+    },
+    {
       "id": "s-wibw-launch-2025",
       "tier": "secondary",
       "url": "https://www.wibw.com/2025/07/30/democrat-chris-mann-announces-second-bid-kansas-ag/",
@@ -683,176 +587,100 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-ksreflector-2022-debate",
+      "id": "s-daga-endorsement-2026",
       "tier": "secondary",
-      "url": "https://kansasreflector.com/2022/09/23/kansas-attorney-general-candidates-split-on-voter-fraud-abortion-rights-immigration/",
-      "title": "Kansas attorney general candidates split on voter fraud, abortion rights, immigration",
-      "publisher": "Kansas Reflector",
+      "url": "https://dems.ag/daga-endorses-chris-mann-for-kansas-attorney-general/",
+      "title": "DAGA Endorses Chris Mann for Kansas Attorney General",
+      "publisher": "Democratic Attorneys General Association",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "2022 debate coverage reports Mann statements on immigration and criminal-justice trust",
-        "2022 debate coverage reports Mann statement on defending laws but not using office resources to attack women's constitutional rights",
-        "Coverage describes AG office functions",
-        "Kansas Reflector 2022 debate coverage: https://kansasreflector.com/2022/09/23/kansas-attorney-general-candidates-split-on-voter-fraud-abortion-rights-immigration/",
-        "[Kansas Reflector: \"Kansas attorney general candidates split on voter fraud, abortion rights, immigration\" (Sep 23, 2022)](https://kansasreflector.com/2022/09/23/kansas-attorney-general-candidates-split-on-voter-fraud-abortion-rights-immigration/)"
+        "DAGA endorsed Chris Mann for Kansas Attorney General",
+        "DAGA summarizes Mann's law enforcement, prosecutor, Kansas Securities Commission, and drunk-driving victim advocacy record",
+        "Candidate statement names public safety, constitutional rights, consumer fraud, accountability, and resources for law enforcement and prosecutors",
+        "DAGA endorsement: https://dems.ag/daga-endorses-chris-mann-for-kansas-attorney-general/"
       ]
     },
     {
-      "id": "src-chris-mann-0001",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
-      "title": "Ksde",
-      "publisher": "Ksde",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)",
-        "\"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\""
-      ]
-    },
-    {
-      "id": "src-chris-mann-0016",
+      "id": "s-frst-midwest",
       "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/03/06/kansas-ag-offers-to-delay-enforcement-of-anti-trans-law-until-march-26-while-judge-weighs-challenge/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
+      "url": "https://frstmidwest.org/board-advisory-committee",
+      "title": "Board Advisory Committee",
+      "publisher": "FRST Midwest",
+      "accessed": "2026-05-19",
       "claimsAnchored": [
-        "[Kansas Reflector: Transgender Law](https://kansasreflector.com/2026/03/06/kansas-ag-offers-to-delay-enforcement-of-anti-trans-law-until-march-26-while-judge-weighs-challenge/)"
+        "FRST Midwest lists Chris Mann in a legal advisory role",
+        "Biography repeats police injury, private practice, ignition-interlock advocacy, and MADD board-chair service",
+        "FRST Midwest advisory committee: https://frstmidwest.org/board-advisory-committee"
       ]
     },
     {
-      "id": "src-chris-mann-0018",
+      "id": "src-chris-mann-0031",
       "tier": "secondary",
-      "url": "https://www.lgbtqnation.com/2012/08/top-romney-surrogate-compares-lgbt-people-to-drug-users-polygamists/",
-      "title": "Lgbtqnation",
-      "publisher": "Lgbtqnation",
+      "url": "https://chrismannforkansas.com/news/",
+      "title": "Chrismannforkansas",
+      "publisher": "Chrismannforkansas",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[LGBTQ Nation: Romney Surrogate Compares LGBT People to Drug Users](https://www.lgbtqnation.com/2012/08/top-romney-surrogate-compares-lgbt-people-to-drug-users-polygamists/)"
+        "Campaign news: https://chrismannforkansas.com/news/",
+        "[Chris Mann for Kansas -- News](https://chrismannforkansas.com/news/)",
+        "Website news/RSS: [News](https://chrismannforkansas.com/news/) and [feed](https://chrismannforkansas.com/feed/) -- active, with three visible posts from July 30, 2025 through January 9, 2026."
       ]
     },
     {
-      "id": "src-chris-mann-0020",
+      "id": "src-chris-mann-0063",
       "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
+      "url": "https://emporianews.com/2026-kansas-attorney-general-race-could-mirror-2022-as-chris-mann-announces-candidacy-against-kris-kobach/",
+      "title": "Emporianews",
+      "publisher": "Emporianews",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
+        "[Emporia News: 2026 Race](https://emporianews.com/2026-kansas-attorney-general-race-could-mirror-2022-as-chris-mann-announces-candidacy-against-kris-kobach/)",
+        "[Emporia News: \"2026 Kansas Attorney General Race Could Mirror 2022\"](https://emporianews.com/2026-kansas-attorney-general-race-could-mirror-2022-as-chris-mann-announces-candidacy-against-kris-kobach/)"
       ]
     },
     {
-      "id": "src-chris-mann-0021",
+      "id": "src-chris-mann-0091",
       "tier": "secondary",
-      "url": "https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
+      "url": "https://www.kcur.org/podcast/up-to-date/2022-10-21/kansas-attorney-general-candidate-chris-mann",
+      "title": "Kcur",
+      "publisher": "Kcur",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)"
+        "[KCUR \"Up to Date\": Kansas Attorney General candidate Chris Mann interview (Oct 21, 2022)](https://www.kcur.org/podcast/up-to-date/2022-10-21/kansas-attorney-general-candidate-chris-mann)",
+        "[KCUR interview, October 21, 2022](https://www.kcur.org/podcast/up-to-date/2022-10-21/kansas-attorney-general-candidate-chris-mann): KCUR summarized Mann as keeping the race focused on state issues and his former police/prosecutor background, and quoted the fr"
       ]
     },
     {
-      "id": "src-chris-mann-0022",
+      "id": "src-chris-mann-0092",
       "tier": "secondary",
-      "url": "https://www.kansascatholic.org/current-news/election-2026",
-      "title": "Kansascatholic",
-      "publisher": "Kansascatholic",
+      "url": "https://www.wibw.com/2022/10/28/election-2022-chris-mann-d-attorney-general-candidate/",
+      "title": "Wibw",
+      "publisher": "Wibw",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)"
+        "[WIBW: \"Election 2022: Chris Mann, (D) Attorney General candidate\" (Oct 28, 2022)](https://www.wibw.com/2022/10/28/election-2022-chris-mann-d-attorney-general-candidate/)"
       ]
     },
     {
-      "id": "src-chris-mann-0023",
+      "id": "src-chris-mann-0093",
       "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
+      "url": "https://www.kansan.com/news/democratic-state-ag-candidate-ku-alum-chris-mann-visits-campus/article_8c161e46-4beb-11ed-a587-772fe6f67cb9.html",
+      "title": "Kansan",
+      "publisher": "Kansan",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "\"url\": \"https://www.ihm-church.com/\","
+        "[University Daily Kansan: \"Democratic state AG candidate, KU Alum Chris Mann visits campus\"](https://www.kansan.com/news/democratic-state-ag-candidate-ku-alum-chris-mann-visits-campus/article_8c161e46-4beb-11ed-a587-772fe6f67cb9.html)"
       ]
     },
     {
-      "id": "src-chris-mann-0024",
+      "id": "src-chris-mann-0096",
       "tier": "secondary",
-      "url": "https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state",
-      "title": "Brennancenter",
-      "publisher": "Brennancenter",
+      "url": "https://ivoterguide.com/candidate/74629/race/18118/election/987",
+      "title": "Ivoterguide",
+      "publisher": "Ivoterguide",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)"
-      ]
-    },
-    {
-      "id": "src-chris-mann-0026",
-      "tier": "secondary",
-      "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
-      "title": "Cnn",
-      "publisher": "Cnn",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)"
-      ]
-    },
-    {
-      "id": "src-chris-mann-0027",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "> -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)",
-        "[Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)",
-        "\"source\": \"Kansas Reflector, March 8, 2026, https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/\","
-      ]
-    },
-    {
-      "id": "src-chris-mann-0029",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-chris-mann-0100",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)",
-        "[Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)"
-      ]
-    },
-    {
-      "id": "src-chris-mann-0101",
-      "tier": "secondary",
-      "url": "https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/",
-      "title": "Schooleymitchell",
-      "publisher": "Schooleymitchell",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)"
-      ]
-    },
-    {
-      "id": "src-chris-mann-0111",
-      "tier": "secondary",
-      "url": "https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor",
-      "title": "Noln",
-      "publisher": "Noln",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)"
+        "[iVoterGuide: Chris Mann Profile](https://ivoterguide.com/candidate/74629/race/18118/election/987)"
       ]
     },
     {
@@ -868,6 +696,119 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
         "Facebook page -- [Chris Mann](https://www.facebook.com/ChrisMannKS/)",
         "| Facebook | https://www.facebook.com/ChrisMannKS/ | ~2,476 likes |",
         "[Facebook: Chris Mann for Kansas](https://www.facebook.com/ChrisMannKS/)"
+      ]
+    },
+    {
+      "id": "src-chris-mann-0119",
+      "tier": "social",
+      "url": "https://x.com/ChrisMannKS",
+      "title": "X",
+      "publisher": "X",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "X / Twitter: [@ChrisMannKS](https://x.com/ChrisMannKS) -- campaign-linked and active. Public profile previews identify 2K followers and 126-129 following, with the bio: \"A former police officer and prosecutor, Chris Mann is running for Attorney General to serv",
+        "Campaign site links X: https://x.com/ChrisMannKS",
+        "Direct X timeline capture was blocked by the logged-out interface, but search previews and credible embedded news captured these public posts from [@ChrisMannKS](https://x.com/ChrisMannKS). Engagement shown where indexed by TwStalker previews.",
+        "| X (Twitter) | https://x.com/ChrisMannKS (@ChrisMannKS) | Not specified |",
+        "[X/Twitter: @ChrisMannKS](https://x.com/ChrisMannKS)"
+      ]
+    },
+    {
+      "id": "src-chris-mann-0120",
+      "tier": "social",
+      "url": "https://www.instagram.com/chrismannks/",
+      "title": "Instagram",
+      "publisher": "Instagram",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Instagram: [@chrismannks](https://www.instagram.com/chrismannks/) -- campaign-linked and active. Logged-out metadata captured 739 followers, 21 following, 99 posts. Bio: \"A former police officer and prosecutor, Chris Mann is running for Attorney General to ser",
+        "Campaign site links Instagram: https://www.instagram.com/chrismannks/",
+        "Instagram page -- [@chrismannks](https://www.instagram.com/chrismannks/)",
+        "| Instagram | https://www.instagram.com/chrismannks/ (@chrismannks) | ~666 followers, 57 posts, 20 following |",
+        "[Instagram: @chrismannks](https://www.instagram.com/chrismannks/)"
+      ]
+    },
+    {
+      "id": "src-chris-mann-0122",
+      "tier": "secondary",
+      "url": "https://dems.ag/daga-endorses-chris-mann-in-kansas-attorney-general-race/",
+      "title": "Dems",
+      "publisher": "Dems",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[DAGA endorsement, June 2, 2022](https://dems.ag/daga-endorses-chris-mann-in-kansas-attorney-general-race/): Mann said he had \"served as a police officer and prosecuted crimes from traffic tickets to murder\" and would make the AG office focused on public safet",
+        "[DAGA: Endorsement of Chris Mann](https://dems.ag/daga-endorses-chris-mann-in-kansas-attorney-general-race/)"
+      ]
+    },
+    {
+      "id": "src-chris-mann-0123",
+      "tier": "social",
+      "url": "https://www.facebook.com/dgcodems/videos/chris-mann-is-running-for-the-attorney-general-for-kansas-in-2026-currently-mann/824337733833850/",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Douglas County Democrats Facebook video: [Chris Mann 2026 AG video](https://www.facebook.com/dgcodems/videos/chris-mann-is-running-for-the-attorney-general-for-kansas-in-2026-currently-mann/824337733833850/) -- not candidate-controlled, but candidate appearanc",
+        "Douglas County Democrats video -- [Facebook video](https://www.facebook.com/dgcodems/videos/chris-mann-is-running-for-the-attorney-general-for-kansas-in-2026-currently-mann/824337733833850/)",
+        "[Douglas County Democrats -- Chris Mann video](https://www.facebook.com/dgcodems/videos/chris-mann-is-running-for-the-attorney-general-for-kansas-in-2026-currently-mann/824337733833850/)",
+        "\"url\": \"https://www.facebook.com/dgcodems/videos/chris-mann-is-running-for-the-attorney-general-for-kansas-in-2026-currently-mann/824337733833850/\","
+      ]
+    },
+    {
+      "id": "src-chris-mann-0165",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2022/10/17/chris-mann-promises-to-fight-dark-money-if-elected-kansas-attorney-general/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Kansas Reflector: \"Chris Mann promises to fight dark money\" (Oct 17, 2022)](https://kansasreflector.com/2022/10/17/chris-mann-promises-to-fight-dark-money-if-elected-kansas-attorney-general/)"
+      ]
+    },
+    {
+      "id": "src-chris-mann-0168",
+      "tier": "secondary",
+      "url": "https://ballotpedia.org/Chris_Mann_(Kansas",
+      "title": "Ballotpedia",
+      "publisher": "Ballotpedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Ballotpedia: Chris Mann (Kansas)](https://ballotpedia.org/Chris_Mann_(Kansas))"
+      ]
+    },
+    {
+      "id": "src-chris-mann-0178",
+      "tier": "social",
+      "url": "https://www.youtube.com/@ChrisMann-Kansas",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "YouTube: [Chris Mann for AG / @ChrisMann-Kansas](https://www.youtube.com/@ChrisMann-Kansas) -- active but sparse. The campaign homepage embeds [\"Chris Mann - For Kansas\"](https://www.youtube.com/watch?v=7291se4b1Sw); YouTube metadata shows 3 subscribers.",
+        "Channel: [Chris Mann for AG / @ChrisMann-Kansas](https://www.youtube.com/@ChrisMann-Kansas)"
+      ]
+    },
+    {
+      "id": "src-chris-mann-0180",
+      "tier": "social",
+      "url": "https://www.youtube.com/watch?v=7291se4b1Sw",
+      "title": "Youtube",
+      "publisher": "Youtube",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Notes: Homepage includes donation and join forms, social links to Facebook, X, and Instagram, and embeds the YouTube announcement-style video [\"Chris Mann - For Kansas\"](https://www.youtube.com/watch?v=7291se4b1Sw).",
+        "Campaign embedded video -- [\"Chris Mann - For Kansas\"](https://www.youtube.com/watch?v=7291se4b1Sw)"
+      ]
+    },
+    {
+      "id": "src-chris-mann-0181",
+      "tier": "secondary",
+      "url": "https://chrismannforkansas.com/chris-mann-announces-candidacy-for-kansas-attorney-general/",
+      "title": "Chrismannforkansas",
+      "publisher": "Chrismannforkansas",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "News post, August 26, 2025 -- [Chris Mann announces candidacy for Kansas Attorney General](https://chrismannforkansas.com/chris-mann-announces-candidacy-for-kansas-attorney-general/)"
       ]
     }
   ]

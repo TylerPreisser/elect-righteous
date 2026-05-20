@@ -10,8 +10,8 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
   "slug": "chase-laporte",
   "name": "Chase LaPorte",
   "party": "R",
-  "position": "U.S. Representative candidate, Kansas 3rd District (current official/local listing); conflicting FEC Senate filing also exists",
-  "electionSlug": "us-house-ks-03-2026",
+  "position": "U.S. Senate filing-conflict profile; local and FEC House records also point to KS-03 and require final SOS recheck",
+  "electionSlug": "us-senate-2026",
   "incumbent": false,
   "occupation": "Business administrator / Army veteran (per existing local profile material; current official bio not found)",
   "born": "Carthage, Missouri",
@@ -42,43 +42,21 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: Hays USD 489 Board of Education Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: For Kansas and district-level content, LaPorte's current public record contains overlapping federal filings. The September 12, 2025 FEC filing listed a 2026 U.S. Senate candidacy in Kansas (source), while the Johnson County Election Office listed him on May 11, 2026 under \"U.S. Representative 3rd District\" with city \"Mission\" and party \"Republican\" (source). The Green Papers recorded January 23, 2025 and October 7,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-chase-laporte-0002",
-          "src-chase-laporte-0003",
           "s-fec-senate-f2",
-          "s-oti-education",
-          "src-chase-laporte-0036"
+          "s-oti-education"
         ]
       },
-      "actions": [
-        {
-          "id": "em-chase-laporte-00756",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-chase-laporte-0002"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-00821",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-chase-laporte-0003"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: \"url\": \"https://stn-church.com/\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-chase-laporte-0037"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -87,32 +65,10 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: On national-policy subjects, the public record contains short issue lines rather than a current campaign feed. The term-limits pledge is the dated federal-policy item in the 2025-2026 record. OnTheIssues' archived 2022 campaign-site excerpts also record LaPorte writing, \"I believe in maintaining a strong National Guard presence.\" (source) The same archive records his health-care line as \"Freedom of choice for person... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-oti-summary",
-          "src-chase-laporte-0039",
-          "src-chase-laporte-0040",
-          "src-chase-laporte-0041"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-chase-laporte-00006",
-          "date": "Undated",
-          "body": "On national-policy subjects, the public record contains short issue lines rather than a current campaign feed. The term-limits pledge is the dated federal-policy item in the 2025-2026 record. OnTheIssues' archived 2022 campaign-site excerpts also record LaPorte writing, \"I believe in maintaining a strong National Guard presence.\" (source) The same archive records his health-care line as \"Freedom of choice for personal healthcare choices.\" (source) Across the captured period the feed contains no posts about Ukraine...",
-          "sourceIds": [
-            "s-oti-summary"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-00493",
-          "date": "Undated",
-          "body": "Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure)",
-          "sourceIds": [
-            "src-chase-laporte-0039"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -139,10 +95,8 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector - Announcement (Aug 2025) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-chase-laporte-0044"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -151,48 +105,10 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: On national-policy subjects, the public record contains short issue lines rather than a current campaign feed. The term-limits pledge is the dated federal-policy item in the 2025-2026 record. OnTheIssues' archived 2022 campaign-site excerpts also record LaPorte writing, \"I believe in maintaining a strong National Guard presence.\" (source) The same archive records his health-care line as \"Freedom of choice for person... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-oti-summary",
-          "src-chase-laporte-0047",
-          "src-chase-laporte-0048",
-          "s-oti-health"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-chase-laporte-00006",
-          "date": "Undated",
-          "body": "On national-policy subjects, the public record contains short issue lines rather than a current campaign feed. The term-limits pledge is the dated federal-policy item in the 2025-2026 record. OnTheIssues' archived 2022 campaign-site excerpts also record LaPorte writing, \"I believe in maintaining a strong National Guard presence.\" (source) The same archive records his health-care line as \"Freedom of choice for personal healthcare choices.\" (source) Across the captured period the feed contains no posts about Ukraine...",
-          "sourceIds": [
-            "s-oti-summary"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-01255",
-          "date": "Undated",
-          "body": "Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric (May 13, 2025)",
-          "sourceIds": [
-            "src-chase-laporte-0047"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-01265",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas Insurance Commissioner Election 2026",
-          "sourceIds": [
-            "src-chase-laporte-0048"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-02589",
-          "date": "Undated",
-          "body": "Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric",
-          "sourceIds": [
-            "src-chase-laporte-0047"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -202,11 +118,11 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no engagement numbers for the visible liked items. Facebook did not expose a public candidate post feed to logged-out browsing, even though The Green Papers linked... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-chase-laporte-0050",
-          "s-oti-summary",
-          "s-ks-sos-candidate-info",
-          "s-ks-sos-dates",
           "s-joco-laporte",
-          "s-joco-candidates"
+          "s-joco-candidates",
+          "s-kansas-reflector-davids-2026",
+          "s-term-limits",
+          "s-fec-senate-f2"
         ]
       },
       "actions": [
@@ -216,30 +132,6 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
           "body": "Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no engagement numbers for the visible liked items. Facebook did not expose a public candidate post feed to logged-out browsing, even though The Green Papers linked LaPorte's candidate name to Facebook in its KS-03 listing (source). No most-engaged post can be iden...",
           "sourceIds": [
             "src-chase-laporte-0050"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-00006",
-          "date": "Undated",
-          "body": "On national-policy subjects, the public record contains short issue lines rather than a current campaign feed. The term-limits pledge is the dated federal-policy item in the 2025-2026 record. OnTheIssues' archived 2022 campaign-site excerpts also record LaPorte writing, \"I believe in maintaining a strong National Guard presence.\" (source) The same archive records his health-care line as \"Freedom of choice for personal healthcare choices.\" (source) Across the captured period the feed contains no posts about Ukraine...",
-          "sourceIds": [
-            "s-oti-summary"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-00029",
-          "date": "2026-05-19",
-          "body": "Kansas Secretary of State, \"Candidate Information,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/candidate-information.html",
-          "sourceIds": [
-            "s-ks-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-00030",
-          "date": "2026-05-19",
-          "body": "Kansas Secretary of State, \"Important Election Dates,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/important-election-dates.html",
-          "sourceIds": [
-            "s-ks-sos-dates"
           ]
         },
         {
@@ -256,6 +148,14 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
           "body": "Johnson County Election Office, \"Candidates,\" accessed 2026-05-19: https://www.jocoelection.org/candidates-elected-officials/candidates",
           "sourceIds": [
             "s-joco-candidates"
+          ]
+        },
+        {
+          "id": "em-chase-laporte-00048",
+          "date": "2026-05-11",
+          "body": "Kansas Reflector, \"Kansas Democrat makes reelection campaign for U.S. House seat official,\" published 2026-05-11, accessed 2026-05-19: https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reelection-campaign-for-u-s-house-seat-official/",
+          "sourceIds": [
+            "s-kansas-reflector-davids-2026"
           ]
         }
       ],
@@ -296,91 +196,21 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-chase-laporte-0059",
-          "src-chase-laporte-0075",
-          "src-chase-laporte-0083",
-          "src-chase-laporte-0068",
-          "src-chase-laporte-0087"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-chase-laporte-00631",
-          "date": "Undated",
-          "body": "KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025)",
-          "sourceIds": [
-            "src-chase-laporte-0059"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-00632",
-          "date": "Undated",
-          "body": "Ballotpedia - Kansas Senate 2026",
-          "sourceIds": [
-            "src-chase-laporte-0075"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-00818",
-          "date": "Undated",
-          "body": "Ballotpedia: Supreme Court Justices Amendment)",
-          "sourceIds": [
-            "src-chase-laporte-0083"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-00927",
-          "date": "Undated",
-          "body": "Website: hartforsenate.com",
-          "sourceIds": [
-            "src-chase-laporte-0068"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-01272",
-          "date": "Undated",
-          "body": "NRSC: Calls for investigation of four Kansas Democrats (Mar 11, 2026)",
-          "sourceIds": [
-            "src-chase-laporte-0087"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-02592",
-          "date": "Undated",
-          "body": "NRSC: Calls for investigation of four Kansas Democrats",
-          "sourceIds": [
-            "src-chase-laporte-0087"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: USDA: KS State Director announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-chase-laporte-0021",
-          "src-chase-laporte-0096",
-          "src-chase-laporte-0098"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-chase-laporte-0012",
-          "platform": "LinkedIn",
-          "observation": "LaPorte's visible alignment signals come from LinkedIn preview data and public organization pages rather than from campaign posts. The only identifiable social profile signal is a LinkedIn preview, which showed CSC - Contemporary Services Corporation, Wichita State University, VFW, American Legion, Abdallah Shriners, and a \"Republican candidate for KS-03\" campaign entry under Chase LaPorte 2026 as of May 11, 2026 (s...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-chase-laporte-0115"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
@@ -389,11 +219,11 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no engagement numbers for the visible liked items. Facebook did not expose a public candidate post feed to logged-out browsing, even though The Green Papers linked... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-chase-laporte-0050",
-          "s-oti-summary",
-          "s-ks-sos-candidate-info",
-          "s-ks-sos-dates",
           "s-joco-laporte",
-          "s-joco-candidates"
+          "s-joco-candidates",
+          "s-kansas-reflector-davids-2026",
+          "s-term-limits",
+          "s-fec-senate-f2"
         ]
       },
       "actions": [
@@ -403,30 +233,6 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
           "body": "Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no engagement numbers for the visible liked items. Facebook did not expose a public candidate post feed to logged-out browsing, even though The Green Papers linked LaPorte's candidate name to Facebook in its KS-03 listing (source). No most-engaged post can be iden...",
           "sourceIds": [
             "src-chase-laporte-0050"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-00006",
-          "date": "Undated",
-          "body": "On national-policy subjects, the public record contains short issue lines rather than a current campaign feed. The term-limits pledge is the dated federal-policy item in the 2025-2026 record. OnTheIssues' archived 2022 campaign-site excerpts also record LaPorte writing, \"I believe in maintaining a strong National Guard presence.\" (source) The same archive records his health-care line as \"Freedom of choice for personal healthcare choices.\" (source) Across the captured period the feed contains no posts about Ukraine...",
-          "sourceIds": [
-            "s-oti-summary"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-00029",
-          "date": "2026-05-19",
-          "body": "Kansas Secretary of State, \"Candidate Information,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/candidate-information.html",
-          "sourceIds": [
-            "s-ks-sos-candidate-info"
-          ]
-        },
-        {
-          "id": "em-chase-laporte-00030",
-          "date": "2026-05-19",
-          "body": "Kansas Secretary of State, \"Important Election Dates,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/important-election-dates.html",
-          "sourceIds": [
-            "s-ks-sos-dates"
           ]
         },
         {
@@ -443,6 +249,14 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
           "body": "Johnson County Election Office, \"Candidates,\" accessed 2026-05-19: https://www.jocoelection.org/candidates-elected-officials/candidates",
           "sourceIds": [
             "s-joco-candidates"
+          ]
+        },
+        {
+          "id": "em-chase-laporte-00048",
+          "date": "2026-05-11",
+          "body": "Kansas Reflector, \"Kansas Democrat makes reelection campaign for U.S. House seat official,\" published 2026-05-11, accessed 2026-05-19: https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reelection-campaign-for-u-s-house-seat-official/",
+          "sourceIds": [
+            "s-kansas-reflector-davids-2026"
           ]
         }
       ],
@@ -476,16 +290,6 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
             "s-joco-candidates"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-chase-laporte-0012",
-          "platform": "LinkedIn",
-          "observation": "LaPorte's visible alignment signals come from LinkedIn preview data and public organization pages rather than from campaign posts. The only identifiable social profile signal is a LinkedIn preview, which showed CSC - Contemporary Services Corporation, Wichita State University, VFW, American Legion, Abdallah Shriners, and a \"Republican candidate for KS-03\" campaign entry under Chase LaPorte 2026 as of May 11, 2026 (s...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-chase-laporte-0115"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
       ]
     },
@@ -502,9 +306,9 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Chase LaPorte is profiled here for U.S. Representative candidate, Kansas 3rd District (current official/local listing); conflicting FEC Senate filing also exists as a Republican. Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no e... On national-policy subjects, the public record contains short issue lines rather than a current campaign feed. The term-limits pledge is the dated federal-policy item in the 2025-2026 record. OnTheIssues' archived 2022 campaign-site excerpts also record LaPor... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 26 source-backed actions across 6 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Hays USD 489 Board of Education. Education / curriculum / schools: Hays Public Library Board. Taxes / spending / debt: On national-policy subjects, the public record contains short issue lines rather than a current campaign feed. The term-limits pledge is the dated federal-policy item in the 2025-2026 record. OnTheIssues' archived... Taxes / spending / debt: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
-  "whereTheyWorship": "Religious liberty / public faith and values. OnTheIssues archived this 2022 statement: \"As a Christian Conservative I believe the Holy Bible is God's written word to us and I have built my core values upon that foundation. Additionally, I believe in the essential nature of regularly meeting together for... No current church affiliation was confirmed. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "whoTheyAre": "Chase LaPorte is profiled here for U.S. Senate filing-conflict profile; local and FEC House records also point to KS-03 and require final SOS recheck as a Republican. Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no e... Kansas Secretary of State, \"Candidate Information,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/candidate-information.html. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
+  "recordSummary": "The rendered record now contains 8 source-backed actions across 2 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187... Election integrity / voting / courts: Johnson County Election Office, \"Chase LaPorte,\" accessed 2026-05-19: https://www.jocoelection.org/candidates-elected-officials/chase-laporte. Election integrity / voting / courts: Johnson County Election Office, \"Candidates,\" accessed 2026-05-19: https://www.jocoelection.org/candidates-elected-officials/candidates. Election integrity / voting / courts: Kansas Reflector, \"Kansas Democrat makes reelection campaign for U.S. House seat official,\" published 2026-05-11, accessed 2026-05-19: https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reele... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "whereTheyWorship": "\"OnTheIssues archived a 2022 campaign-site statement saying LaPorte\\nbelieved in \\\"the Biblical standard for marriage, the traditional\\nfamily unit, as well as the Biblical model for parenting.\\\" In a\\nseparate 2022 principles statement, the archive recorded... This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "No processed 2025-2026 FEC financial summary was available for LaPorte\nunder the reviewed 2026 House IDs H6KS03258 and H6KS03274 or Senate ID\nS6KS00254. FEC search/API output returned has_raised_funds=false for the\n2026 federal IDs before rate limiting. A Kansas party-committee PDF\nsurfaced in search snippets with Chase LaPorte's name, but it appears to\nbe a party committee receipt report rather than LaPorte campaign receipts;\ndo not use those names as LaPorte donor evidence.",
     "narrative": "No processed 2025-2026 FEC financial summary was available for LaPorte\nunder the reviewed 2026 House IDs H6KS03258 and H6KS03274 or Senate ID\nS6KS00254. FEC search/API output returned has_raised_funds=false for the\n2026 federal IDs before rate limiting. A Kansas party-committee PDF\nsurfaced in search snippets with Chase LaPorte's name, but it appears to\nbe a party committee receipt report rather than LaPorte campaign receipts;\ndo not use those names as LaPorte donor evidence.",
@@ -512,39 +316,8 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "LAPORTE, CHASE - Candidate overview H6KS03258"
   },
-  "socialResearchNote": "8 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "6 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
-    {
-      "id": "s-ks-sos-candidate-info",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
-      "title": "Candidate Information",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "National-office candidates file candidacy with the Kansas Secretary of State",
-        "A candidate is not considered filed until petition or declaration and fee are received",
-        "2026 primary filing deadline is 12:00 p.m. Monday, June 1, 2026",
-        "2026 offices include one U.S. Senator and all four U.S. Representatives",
-        "Kansas Secretary of State, \"Candidate Information,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/candidate-information.html",
-        "Kansas Secretary of State, \"Candidate Information\" - primary - https://www.sos.ks.gov/elections/candidate-information.html"
-      ]
-    },
-    {
-      "id": "s-ks-sos-dates",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/important-election-dates.html",
-      "title": "Important Election Dates",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "2026 primary election date is August 4, 2026",
-        "2026 general election date is November 3, 2026",
-        "2026 candidate filing deadline is June 1, 2026 at 12:00 p.m.",
-        "Kansas Secretary of State, \"Important Election Dates,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/important-election-dates.html",
-        "Kansas Secretary of State, \"Important Election Dates\" - primary - https://www.sos.ks.gov/elections/important-election-dates.html"
-      ]
-    },
     {
       "id": "s-joco-laporte",
       "tier": "primary",
@@ -577,6 +350,59 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-fec-house-jan",
+      "tier": "primary",
+      "url": "https://www.fec.gov/data/candidate/H6KS03258/",
+      "title": "LAPORTE, CHASE - Candidate overview H6KS03258",
+      "publisher": "Federal Election Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Candidate for House Kansas - 03",
+        "Challenger, Republican Party",
+        "Filed 2025-01-23",
+        "FEC does not have a 2025-2026 financial summary for LaPorte under this ID",
+        "Federal Election Commission, Candidate H6KS03258, accessed 2026-05-19: https://www.fec.gov/data/candidate/H6KS03258/",
+        "FEC Filing: [FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)",
+        "[FEC: LaPorte filing](https://www.fec.gov/data/candidate/H6KS03258/)",
+        "[FEC Candidate H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/)",
+        "FEC Candidate H6KS03258 - primary - https://www.fec.gov/data/candidate/H6KS03258/",
+        "FEC candidate page: https://www.fec.gov/data/candidate/H6KS03258/",
+        "The FEC [House candidate page H6KS03258](https://www.fec.gov/data/candidate/H6KS03258/) listed \"Kansas House District 3,\" \"Challenger,\" \"Republican Party,\" and \"Filed 01/23/2025.\" The page displayed no financial summary for 2025-2026 as of capture."
+      ]
+    },
+    {
+      "id": "s-fec-house-jan-f2",
+      "tier": "primary",
+      "url": "https://docquery.fec.gov/pdf/195/202501239747740195/202501239747740195.pdf",
+      "title": "FEC Form 2 - H6KS03258",
+      "publisher": "Federal Election Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "LaPorte filed for House, KS District 03",
+        "Principal campaign committee listed as LaPorte for a Brighter America",
+        "FEC Form 2 image 202501239747740195, filed 2025-01-23: https://docquery.fec.gov/pdf/195/202501239747740195/202501239747740195.pdf",
+        "FEC Form 2 image 202501239747740195 - primary - https://docquery.fec.gov/pdf/195/202501239747740195/202501239747740195.pdf",
+        "\"url\": \"https://docquery.fec.gov/pdf/195/202501239747740195/202501239747740195.pdf\","
+      ]
+    },
+    {
+      "id": "s-fec-senate",
+      "tier": "primary",
+      "url": "https://www.fec.gov/data/candidate/S6KS00254/",
+      "title": "LAPORTE, CHASE - Candidate overview S6KS00254",
+      "publisher": "Federal Election Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Candidate for Senate Kansas",
+        "Challenger, Republican Party",
+        "Filed 2025-09-12",
+        "FEC does not have a 2025-2026 financial summary for LaPorte under this ID",
+        "Federal Election Commission, Candidate S6KS00254, accessed 2026-05-19: https://www.fec.gov/data/candidate/S6KS00254/",
+        "FEC Candidate S6KS00254: https://www.fec.gov/data/candidate/S6KS00254/",
+        "FEC Candidate S6KS00254 - primary - https://www.fec.gov/data/candidate/S6KS00254/"
+      ]
+    },
+    {
       "id": "s-fec-senate-f2",
       "tier": "primary",
       "url": "https://docquery.fec.gov/pdf/703/202509129790051703/202509129790051703.pdf",
@@ -595,6 +421,83 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
         "https://docquery.fec.gov/pdf/703/202509129790051703/202509129790051703.pdf",
         "[docquery.fec.gov](https://docquery.fec.gov/pdf/703/202509129790051703/202509129790051703.pdf)",
         "The project assignment identifies LaPorte as a U.S. Senate Republican candidate. The [September 12, 2025 FEC Form 2](https://docquery.fec.gov/pdf/703/202509129790051703/202509129790051703.pdf) identifies candidate ID S6KS00254, office sought \"Senate,\" state \"K"
+      ]
+    },
+    {
+      "id": "s-fec-house-oct",
+      "tier": "primary",
+      "url": "https://www.fec.gov/data/candidate/H6KS03274/",
+      "title": "LAPORTE, CHASE - Candidate overview H6KS03274",
+      "publisher": "Federal Election Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Candidate for House Kansas - 03",
+        "Challenger, Republican Party",
+        "Filed 2025-10-07",
+        "FEC does not have a 2025-2026 financial summary for LaPorte under this ID",
+        "Federal Election Commission, Candidate H6KS03274, accessed 2026-05-19: https://www.fec.gov/data/candidate/H6KS03274/",
+        "FEC Candidate H6KS03274: https://www.fec.gov/data/candidate/H6KS03274/",
+        "FEC Candidate H6KS03274 - primary - https://www.fec.gov/data/candidate/H6KS03274/"
+      ]
+    },
+    {
+      "id": "s-fec-house-oct-f2",
+      "tier": "primary",
+      "url": "https://docquery.fec.gov/pdf/549/202510079790706549/202510079790706549.pdf",
+      "title": "FEC Form 2 - H6KS03274",
+      "publisher": "Federal Election Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "LaPorte filed for House, KS District 03",
+        "Principal campaign committee listed as LaPorte for a Brighter America",
+        "FEC Form 2 image 202510079790706549, filed 2025-10-07: https://docquery.fec.gov/pdf/549/202510079790706549/202510079790706549.pdf",
+        "FEC Form 2 image 202510079790706549 - primary - https://docquery.fec.gov/pdf/549/202510079790706549/202510079790706549.pdf"
+      ]
+    },
+    {
+      "id": "s-fec-president",
+      "tier": "primary",
+      "url": "https://www.fec.gov/data/candidate/P40013633/",
+      "title": "LAPORTE, CHASE - Candidate overview P40013633",
+      "publisher": "Federal Election Commission",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "LaPorte has a 2024 presidential candidate ID",
+        "Authorized campaign committee listed as LaPorte for a Brighter America",
+        "FEC does not have LaPorte for 2023-2024 under that candidate page",
+        "Federal Election Commission, Candidate P40013633, accessed 2026-05-19: https://www.fec.gov/data/candidate/P40013633/",
+        "FEC Candidate P40013633: https://www.fec.gov/data/candidate/P40013633/",
+        "FEC Candidate P40013633 - primary - https://www.fec.gov/data/candidate/P40013633/"
+      ]
+    },
+    {
+      "id": "s-kansas-reflector-davids-2026",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reelection-campaign-for-u-s-house-seat-official/",
+      "title": "Kansas Democrat makes reelection campaign for U.S. House seat official",
+      "publisher": "Kansas Reflector",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Kansas Reflector reported Republican Chase LaPorte of Mission filed for the 3rd District seat in Congress",
+        "Kansas Reflector, \"Kansas Democrat makes reelection campaign for U.S. House seat official,\" published 2026-05-11, accessed 2026-05-19: https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reelection-campaign-for-u-s-house-seat-official/",
+        "Kansas Reflector, 2026-05-11: https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reelection-campaign-for-u-s-house-seat-official/",
+        "Kansas Reflector, 2026-05-11 - secondary - https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reelection-campaign-for-u-s-house-seat-official/",
+        "Kansas Reflector, \"Kansas Democrat makes reelection campaign for U.S. House seat official,\" 2026-05-11, accessed 2026-05-19: https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reelection-campaign-for-u-s-house-seat-official/"
+      ]
+    },
+    {
+      "id": "s-wibw-davids-2026",
+      "tier": "secondary",
+      "url": "https://www.wibw.com/2026/05/11/rep-sharice-davids-files-re-election-states-third-congressional-district/",
+      "title": "Rep. Sharice Davids files for re-election for state's third congressional district",
+      "publisher": "WIBW",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "WIBW reported Democrat Sarah Preu and Republican Chase Laporte have also filed for the third district seat",
+        "WIBW, \"Rep. Sharice Davids files for re-election for state's third congressional district,\" published 2026-05-11, accessed 2026-05-19: https://www.wibw.com/2026/05/11/rep-sharice-davids-files-re-election-states-third-congressional-district/",
+        "WIBW, 2026-05-11: https://www.wibw.com/2026/05/11/rep-sharice-davids-files-re-election-states-third-congressional-district/",
+        "WIBW, 2026-05-11 - secondary - https://www.wibw.com/2026/05/11/rep-sharice-davids-files-re-election-states-third-congressional-district/",
+        "WIBW, \"Rep. Sharice Davids files for re-election for state's third congressional district,\" 2026-05-11, accessed 2026-05-19: https://www.wibw.com/2026/05/11/rep-sharice-davids-files-re-election-states-third-congressional-district/"
       ]
     },
     {
@@ -646,6 +549,33 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-oti-civil-rights",
+      "tier": "secondary",
+      "url": "https://www.ontheissues.org/Governor/Chase_LaPorte_Civil_Rights.htm",
+      "title": "Chase LaPorte on Civil Rights",
+      "publisher": "OnTheIssues",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Archived 2022 campaign-site statement says LaPorte believes in the Biblical standard for marriage, traditional family unit, and Biblical model for parenting",
+        "OnTheIssues, \"Chase LaPorte on Civil Rights,\" accessed 2026-05-19: https://www.ontheissues.org/Governor/Chase_LaPorte_Civil_Rights.htm",
+        "OnTheIssues, Civil Rights page - secondary issue archive - https://www.ontheissues.org/Governor/Chase_LaPorte_Civil_Rights.htm"
+      ]
+    },
+    {
+      "id": "s-oti-principles",
+      "tier": "secondary",
+      "url": "https://www.ontheissues.org/Governor/Chase_LaPorte_Principles_%2B_Values.htm",
+      "title": "Chase LaPorte on Principles & Values",
+      "publisher": "OnTheIssues",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Archived 2022 campaign-site statement says LaPorte described himself as a Christian Conservative and said he built core values on the Holy Bible",
+        "Archived 2022 campaign-site statement says the American dream was built on hard work and freedom of commerce",
+        "OnTheIssues, \"Chase LaPorte on Principles & Values,\" accessed 2026-05-19: https://www.ontheissues.org/Governor/Chase_LaPorte_Principles_%2B_Values.htm",
+        "OnTheIssues, Principles & Values page - secondary issue archive - https://www.ontheissues.org/Governor/Chase_LaPorte_Principles_%2B_Values.htm"
+      ]
+    },
+    {
       "id": "s-oti-health",
       "tier": "secondary",
       "url": "https://www.ontheissues.org/Governor/Chase_LaPorte_Health_Care.htm",
@@ -673,129 +603,56 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-chase-laporte-0002",
+      "id": "s-opencampaign-house",
+      "tier": "secondary",
+      "url": "https://www.opencampaign.com/politicians-in-united-states/196381/chase-laporte",
+      "title": "Chase Laporte 3 - Running for U.S. House",
+      "publisher": "OpenCampaign",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "OpenCampaign lists LaPorte as running for U.S. House District 3 in Kansas in 2026",
+        "OpenCampaign, \"Chase Laporte,\" accessed 2026-05-19: https://www.opencampaign.com/politicians-in-united-states/196381/chase-laporte",
+        "OpenCampaign profile - secondary aggregator - https://www.opencampaign.com/politicians-in-united-states/196381/chase-laporte"
+      ]
+    },
+    {
+      "id": "s-abdallah-divan",
+      "tier": "secondary",
+      "url": "https://abdallahshriners.com/2026-divan",
+      "title": "2026 Divan",
+      "publisher": "Abdallah Shriners",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Abdallah Shriners lists Chase LaPorte as Marshal on the 2026 Divan page",
+        "Abdallah Shriners, \"2026 Divan,\" accessed 2026-05-19: https://abdallahshriners.com/2026-divan",
+        "Abdallah Shriners, \"2026 Divan\" - civic organization source - https://abdallahshriners.com/2026-divan",
+        "Search results for [Abdallah Shriners 2026 Divan](https://abdallahshriners.com/2026-divan) listed Chase LaPorte as Marshal."
+      ]
+    },
+    {
+      "id": "s-abdallah-units",
+      "tier": "secondary",
+      "url": "https://abdallahshriners.com/units",
+      "title": "Units",
+      "publisher": "Abdallah Shriners",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Abdallah Shriners lists Chase LaPorte as Divan Rep for Blue Racers",
+        "Abdallah Shriners lists Chase LaPorte as Divan Rep for Escorts",
+        "Abdallah Shriners, \"Units,\" accessed 2026-05-19: https://abdallahshriners.com/units",
+        "Abdallah Shriners, \"Units\" - civic organization source - https://abdallahshriners.com/units",
+        "[Abdallah Shriners Units](https://abdallahshriners.com/units) listed Chase LaPorte as \"Divan Rep\" for Antique & Classic Cars and Escorts as captured on 2026-05-11."
+      ]
+    },
+    {
+      "id": "src-chase-laporte-0024",
       "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/PartyComm/2026ElecCycle/202601/PAR5R_202601.pdf",
+      "title": "Kansas",
+      "publisher": "Kansas",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0003",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0021",
-      "tier": "primary",
-      "url": "https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas",
-      "title": "Rd.Usda",
-      "publisher": "Rd.Usda",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0036",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0037",
-      "tier": "secondary",
-      "url": "https://stn-church.com/",
-      "title": "Stn-Church",
-      "publisher": "Stn-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://stn-church.com/\""
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0039",
-      "tier": "secondary",
-      "url": "https://mikeforkansas.my.canva.site/",
-      "title": "Mikeforkansas.My.Canva",
-      "publisher": "Mikeforkansas.My.Canva",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (hosted on Canva -- indicates minimal campaign budget/infrastructure)",
-        "Website: [mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/) (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation)",
-        "[mikeforkansas.my.canva.site](https://mikeforkansas.my.canva.site/)"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0040",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0041",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0044",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector - Announcement (Aug 2025)](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)",
-        "[Kansas Reflector: Democratic immigration lawyer wants to fix broken system](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/) (Aug 25, 2025)",
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0047",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/) (May 13, 2025)",
-        "[Kansas Reflector: Kansas House speaker launches campaign with pro-Trump rhetoric](https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/)"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0048",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas Insurance Commissioner Election 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)"
+        "Kansas Governmental Ethics / Kansas.gov party-committee report snippet only; not used as LaPorte campaign-finance evidence: https://www.kansas.gov/ethics/CFAScanned/PartyComm/2026ElecCycle/202601/PAR5R_202601.pdf"
       ]
     },
     {
@@ -813,93 +670,18 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-chase-laporte-0059",
+      "id": "src-chase-laporte-0111",
       "tier": "secondary",
-      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
-      "title": "Kcur",
-      "publisher": "Kcur",
+      "url": "https://www.opencampaign.com/politicians-in-united-states/197957/chase-laporte/issue-positions",
+      "title": "Opencampaign",
+      "publisher": "Opencampaign",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KCUR Candidate Guide (Dec 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
-        "[KCUR Candidate Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
-        "[KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
-        "[KCUR: Senate Candidates Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
-        "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates -- KCUR comprehensive candidate guide -- accessed 2026-03-30",
-        "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
-        "[KCUR - 2026 Kansas Senate Candidates Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
-        "[KCUR: Guide to candidates](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0068",
-      "tier": "secondary",
-      "url": "https://hartforsenate.com/",
-      "title": "Hartforsenate",
-      "publisher": "Hartforsenate",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Website: [hartforsenate.com](https://hartforsenate.com/)",
-        "Website: [hartforsenate.com](https://hartforsenate.com/)",
-        "[hartforsenate.com](https://hartforsenate.com/)"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0075",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia - Kansas Senate 2026](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)",
-        "[Ballotpedia: KS US Senate 2026](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)",
-        "[Ballotpedia: 2026 Kansas Senate Election](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)",
-        "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026 -- Full election overview -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0083",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0087",
-      "tier": "secondary",
-      "url": "https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/",
-      "title": "Nrsc",
-      "publisher": "Nrsc",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[NRSC: Calls for investigation of four Kansas Democrats](https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/) (Mar 11, 2026)",
-        "[NRSC: Calls for investigation of four Kansas Democrats](https://www.nrsc.org/press-releases/nrsc-calls-for-investigation-into-four-kansas-democrat-senate-candidates-for-violating-the-law-2026-03-11/)"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0096",
-      "tier": "secondary",
-      "url": "https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849",
-      "title": "Issuu",
-      "publisher": "Issuu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)"
-      ]
-    },
-    {
-      "id": "src-chase-laporte-0098",
-      "tier": "secondary",
-      "url": "https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/",
-      "title": "Eenews",
-      "publisher": "Eenews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)"
+        "\"Transparency in government keep officials accountable.\" - public positions page, n.d., https://www.opencampaign.com/politicians-in-united-states/197957/chase-laporte/issue-positions (governance)",
+        "[OpenCampaign: LaPorte positions](https://www.opencampaign.com/politicians-in-united-states/197957/chase-laporte/issue-positions)",
+        "\"I believe in maintaining a strong National Guard presence.\" - public positions page, n.d., https://www.opencampaign.com/politicians-in-united-states/197957/chase-laporte/issue-positions (National Guard)",
+        "> -- OpenCampaign issue positions page, accessed April 1, 2026, https://www.opencampaign.com/politicians-in-united-states/197957/chase-laporte/issue-positions",
+        "\"source\": \"OpenCampaign issue positions page, accessed April 1, 2026, https://www.opencampaign.com/politicians-in-united-states/197957/chase-laporte/issue-positions\","
       ]
     },
     {

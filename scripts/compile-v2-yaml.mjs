@@ -12,7 +12,6 @@ const CANDIDATE_SLUGS = existsSync(MEMORY_CANDIDATES)
     .filter((entry) => entry.isDirectory())
     .map((entry) => entry.name)
   : [];
-
 function slugToConst(slug) {
   return `${slug.replace(/[^a-zA-Z0-9]+/g, "_").replace(/^_|_$/g, "").toUpperCase()}_V2`;
 }
@@ -24,6 +23,29 @@ function titleCaseSlug(slug) {
     .join(" ");
 }
 
+function normalizedForMatch(value) {
+  return String(value ?? "")
+    .toLowerCase()
+    .replace(/&/g, " and ")
+    .replace(/[^a-z0-9]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function significantSlugParts(slug) {
+  return String(slug)
+    .split("-")
+    .map((part) => normalizedForMatch(part))
+    .filter((part) => part.length >= 4 && !["jr"].includes(part));
+}
+
+const SLUG_PART_COUNTS = CANDIDATE_SLUGS
+  .flatMap((slug) => slug.split("-"))
+  .map((part) => normalizedForMatch(part))
+  .filter((part) => part.length >= 4)
+  .reduce((counts, part) => counts.set(part, (counts.get(part) ?? 0) + 1), new Map());
+const SHARED_SLUG_PARTS = new Set([...SLUG_PART_COUNTS].filter(([, count]) => count > 1).map(([part]) => part));
+
 const V2_ONLY_METADATA = {
   "cathy-hopkins": {
     name: "Cathy Hopkins",
@@ -32,6 +54,13 @@ const V2_ONLY_METADATA = {
     electionSlug: "sboe-district-5",
     incumbent: true,
     occupation: "Kansas State Board of Education District 5 member/chair",
+  },
+};
+
+const RENDER_METADATA_OVERRIDES = {
+  "chase-laporte": {
+    electionSlug: "us-senate-2026",
+    position: "U.S. Senate filing-conflict profile; local and FEC House records also point to KS-03 and require final SOS recheck",
   },
 };
 
@@ -543,12 +572,134 @@ function isMetaEvidenceText(value) {
   return (
     text.length < 18 ||
     /^\|/.test(text) ||
+    /^["']?(url|id|slug|platform|publisher|sourceIds|sourceUrl|evidenceRowId|recordSummary|ownWordsNarrative|social_presence_note|incumbent)["']?\s*:/i.test(text) ||
+    /^campaign website to\b/i.test(text) ||
     /^narrative:/i.test(text) ||
     /^issue mapping:/i.test(text) ||
     /^source trail$/i.test(text) ||
     /^where they stand on big issues:?$/i.test(text) ||
     /\|\s*(primary|secondary|social)\s*\|\s*https?:\/\//i.test(text)
   );
+}
+
+function candidateAliases(context) {
+  const slug = context.slug ?? "";
+  const name = context.name ?? titleCaseSlug(slug);
+  const aliases = new Set([
+    normalizedForMatch(name),
+    normalizedForMatch(slug.replace(/-/g, " ")),
+  ]);
+  const nameParts = normalizedForMatch(name).split(" ").filter((part) => part.length >= 3);
+  if (nameParts.length >= 2) aliases.add(`${nameParts[0]} ${nameParts[nameParts.length - 1]}`);
+  for (const part of significantSlugParts(slug)) aliases.add(part);
+  return [...aliases].filter(Boolean);
+}
+
+function textMentionsCandidate(context, value, { allowSinglePart = false } = {}) {
+  const text = normalizedForMatch(value);
+  if (!text) return false;
+  const aliases = candidateAliases(context);
+  return aliases.some((alias) => {
+    if (!alias.includes(" ")) {
+      if (!allowSinglePart || SHARED_SLUG_PARTS.has(alias)) return false;
+    }
+    return new RegExp(`(^|\\s)${alias.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(\\s|$)`).test(text);
+  });
+}
+
+function urlMentionsCandidate(context, url) {
+  const text = normalizedForMatch(url);
+  if (!text) return false;
+  return significantSlugParts(context.slug)
+    .filter((part) => !SHARED_SLUG_PARTS.has(part))
+    .some((part) => new RegExp(`(^|\\s)${part}(\\s|$)`).test(text));
+}
+
+function otherCandidateMentioned(context, value) {
+  const text = normalizedForMatch(value);
+  if (!text) return false;
+  for (const slug of CANDIDATE_SLUGS) {
+    if (slug === context.slug) continue;
+    const full = normalizedForMatch(titleCaseSlug(slug));
+    if (full && full.includes(" ") && new RegExp(`(^|\\s)${full.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}(\\s|$)`).test(text)) {
+      return true;
+    }
+    const parts = significantSlugParts(slug);
+    if (parts.length >= 2 && parts.every((part) => new RegExp(`(^|\\s)${part}(\\s|$)`).test(text))) return true;
+  }
+  return false;
+}
+
+function otherCandidateLeadsText(context, value) {
+  const text = normalizedForMatch(value);
+  const currentIndexes = candidateAliases(context)
+    .map((alias) => text.indexOf(alias))
+    .filter((index) => index >= 0);
+  const firstCurrent = currentIndexes.length ? Math.min(...currentIndexes) : Number.POSITIVE_INFINITY;
+  for (const slug of CANDIDATE_SLUGS) {
+    if (slug === context.slug) continue;
+    const full = normalizedForMatch(titleCaseSlug(slug));
+    if (!full || !full.includes(" ")) continue;
+    const index = text.indexOf(full);
+    if (index >= 0 && index < firstCurrent) return true;
+  }
+  return false;
+}
+
+function issueEvidenceBundle(item, sourceIds = [], sourceById = new Map()) {
+  const sourceText = sourceIds
+    .map((id) => sourceById.get(id))
+    .filter(Boolean)
+    .map((source) => `${source.title} ${source.publisher ?? ""} ${source.url} ${asArray(source.claimsAnchored).join(" ")}`)
+    .join(" ");
+  return `${item.text ?? ""} ${item.sourceUrl ?? ""} ${sourceText}`;
+}
+
+function isFinanceOrFilingOnlyUrl(url) {
+  const value = String(url ?? "").toLowerCase();
+  return (
+    value.includes("fec.gov/data/candidate/") ||
+    value.includes("fec.gov/data/committee/") ||
+    value.includes("kansas.gov/ethics/cfascanned/") ||
+    value.includes("kssos.org/elections/cfr_viewer/")
+  );
+}
+
+function isGenericRaceOrLocalContextUrl(url) {
+  const value = String(url ?? "").toLowerCase();
+  return (
+    value.includes("wisconsin-supreme-court") ||
+    value.includes("hays_unified_school_district_489") ||
+    value.includes("usd489.com") ||
+    value.includes("boarddocs.com/ks/usd489") ||
+    value.includes("haysusa.com/335/public-library-board") ||
+    value.includes("kansas_state_board_of_education_election")
+  );
+}
+
+function isCandidateRelevantEvidenceItem(item, context, sourceIds = [], sourceById = new Map(), { social = false } = {}) {
+  if (isMetaEvidenceText(item.text)) return false;
+  const url = resolvePublicUrl(item.sourceUrl);
+  if (isDroppedPublicUrl(url)) return false;
+  const bundle = issueEvidenceBundle(item, sourceIds, sourceById);
+  const mentionsCurrent = textMentionsCandidate(context, bundle, { allowSinglePart: true }) || urlMentionsCandidate(context, url);
+  const mentionsOther = otherCandidateMentioned(context, bundle);
+  if (mentionsOther && (!mentionsCurrent || otherCandidateLeadsText(context, bundle))) return false;
+  if (/public absence|no (candidate controlled|twitter|x account|facebook|bluesky|social|posts?|feed)|absence of/i.test(bundle)) {
+    return false;
+  }
+  if (/\b(family network|married to|husband|wife|children|spouse)\b/i.test(bundle)) {
+    return false;
+  }
+  if (/\b(usd 489|boarddocs|dress code|satanism ban|hays public library board)\b/i.test(bundle) && !mentionsCurrent) return false;
+  if (social) {
+    if (mentionsOther && !mentionsCurrent) return false;
+    return true;
+  }
+  if (isFinanceOrFilingOnlyUrl(url)) return false;
+  if (isGenericRaceOrLocalContextUrl(url) && !mentionsCurrent) return false;
+  if (!mentionsCurrent && !urlMentionsCandidate(context, url)) return false;
+  return true;
 }
 
 function sourceIdsForFixedItem(item, rowSourceIds, sourceIdsByUrl) {
@@ -587,11 +738,15 @@ function isCandidateRelevantUrl(url, candidateSlug) {
   return true;
 }
 
-function fixedIssueStatedText(issue, evidenceItems, socialSignals, candidateSlug) {
+function fixedIssueStatedText(issue, evidenceItems, socialSignals, candidateContext, rowSourceIds, sourceIdsByUrl, sourceById) {
   const title = textValue(issue.title, "this issue");
   const publicItems = evidenceItems
     .filter((item) => item.sourceUrl && !isMetaEvidenceText(item.text))
-    .filter((item) => isCandidateRelevantUrl(item.sourceUrl, candidateSlug))
+    .filter((item) => {
+      const sourceIds = sourceIdsForFixedItem(item, rowSourceIds, sourceIdsByUrl)
+        .filter((id) => sourceById.has(id));
+      return isCandidateRelevantEvidenceItem(item, candidateContext, sourceIds, sourceById);
+    })
     .filter((item) => item.classification !== "social-online-signal");
   const stated = publicItems.find((item) => item.classification === "candidate-stated");
   const documented = publicItems.find((item) => item.classification === "documented-record");
@@ -623,7 +778,7 @@ function fixedIssueStatedText(issue, evidenceItems, socialSignals, candidateSlug
   return parts.join(" ");
 }
 
-function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, candidateSlug) {
+function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, candidateContext) {
   const fixedMatrix = yaml.fixed_issue_matrix;
   const fixedIssues = Array.isArray(fixedMatrix)
     ? fixedMatrix
@@ -647,22 +802,24 @@ function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, ca
       const statedSourceIds = [...new Set(
         evidenceItems
           .filter((item) => item.sourceUrl && !isMetaEvidenceText(item.text))
-          .filter((item) => isCandidateRelevantUrl(item.sourceUrl, candidateSlug))
           .filter((item) => item.classification !== "social-online-signal")
-          .flatMap((item) => sourceIdsForFixedItem(item, rowSourceIds, sourceIdsByUrl))
-          .filter((id) => sourceById.has(id))
+          .flatMap((item) => {
+            const sourceIds = sourceIdsForFixedItem(item, rowSourceIds, sourceIdsByUrl)
+              .filter((id) => sourceById.has(id));
+            return isCandidateRelevantEvidenceItem(item, candidateContext, sourceIds, sourceById) ? sourceIds : [];
+          })
           .slice(0, 6),
       )];
 
       const actionCandidates = evidenceItems
         .filter((item) => !isMetaEvidenceText(item.text))
-        .filter((item) => isCandidateRelevantUrl(item.sourceUrl, candidateSlug))
         .filter((item) => ACTION_ELIGIBLE_FIXED_CLASSES.has(item.classification))
         .map((item) => ({
           item,
           sourceIds: sourceIdsForFixedItem(item, rowSourceIds, sourceIdsByUrl)
             .filter((id) => sourceById.has(id)),
         }))
+        .filter(({ item, sourceIds }) => isCandidateRelevantEvidenceItem(item, candidateContext, sourceIds, sourceById))
         .filter(({ sourceIds }) => sourceIds.length > 0 && hasNonSocialSource(sourceIds, sourceById));
 
       const seenActionBodies = new Set();
@@ -685,11 +842,7 @@ function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, ca
       const seenSocial = new Set();
       for (const signal of rawSocialSignals) {
         if (isMetaEvidenceText(signal.observation)) continue;
-        if (!isCandidateRelevantUrl(signal.sourceUrl, candidateSlug)) continue;
         const observation = excerpt(signal.observation, 420);
-        const key = `${textValue(signal.platform)}:${observation}`.toLowerCase();
-        if (seenSocial.has(key)) continue;
-        seenSocial.add(key);
         const sourceIds = [
           ...asArray(rowSourceIds.get(textValue(signal.evidenceRowId))),
           ...asArray(sourceIdsByUrl.get(resolvePublicUrl(signal.sourceUrl))),
@@ -697,6 +850,11 @@ function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, ca
           .map((sourceId) => textValue(sourceId))
           .filter((sourceId) => sourceId && sourceById.has(sourceId));
         if (sourceIds.length === 0) continue;
+        const signalItem = { ...signal, text: signal.observation };
+        if (!isCandidateRelevantEvidenceItem(signalItem, candidateContext, sourceIds, sourceById, { social: true })) continue;
+        const key = `${textValue(signal.platform)}:${observation}`.toLowerCase();
+        if (seenSocial.has(key)) continue;
+        seenSocial.add(key);
         socialSignals.push({
           id: slugifyId(textValue(signal.socialSignalId, signal.evidenceRowId), `ss-${id}-${socialSignals.length + 1}`),
           platform: textValue(signal.platform, "Public web"),
@@ -712,7 +870,7 @@ function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, ca
         id,
         title,
         stated: {
-          text: fixedIssueStatedText(issue, evidenceItems, rawSocialSignals, candidateSlug),
+          text: fixedIssueStatedText(issue, evidenceItems, rawSocialSignals, candidateContext, rowSourceIds, sourceIdsByUrl, sourceById),
           sourceIds: statedSourceIds,
         },
         actions,
@@ -722,8 +880,8 @@ function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, ca
     .filter((issue) => issue.title);
 }
 
-function normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById, rowSourceIds = new Map(), sourceIdsByUrl = new Map(), candidateSlug = "") {
-  const fixedIssues = normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, candidateSlug);
+function normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById, rowSourceIds = new Map(), sourceIdsByUrl = new Map(), candidateContext = {}) {
+  const fixedIssues = normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, candidateContext);
   if (fixedIssues) return fixedIssues;
 
   return topLevelIssues(yaml)
@@ -891,9 +1049,22 @@ function isNarrativeUsableClaim(value) {
   if (/^candidate_metadata\b/i.test(text)) return false;
   if (/\bin their own words\b/i.test(text)) return false;
   if (/\b(generated|social_presence_note|candidate overview)\b/i.test(text)) return false;
+  if (/^narrative:/i.test(text)) return false;
   if (/auto-normalized|hydrate-v2-social-signals/i.test(text)) return false;
   if (/no candidate-controlled issue platform|does not infer positions|sparse profiles|final certified ballot status|does not treat that appearance|final election-office list|filing deadline/i.test(text)) return false;
   return true;
+}
+
+function isCandidateRelevantEvidenceRow(row, context, { allowGenericOfficial = false, social = false } = {}) {
+  const bundle = `${row.claim ?? ""} ${row.exactEvidenceSummary ?? ""} ${row.sourceUrl ?? ""}`;
+  const mentionsCurrent = textMentionsCandidate(context, bundle, { allowSinglePart: true }) || urlMentionsCandidate(context, row.sourceUrl);
+  const mentionsOther = otherCandidateMentioned(context, bundle);
+  if (mentionsOther && (!mentionsCurrent || otherCandidateLeadsText(context, bundle))) return false;
+  if (/public absence|no (candidate controlled|twitter|x account|facebook|bluesky|social|posts?|feed)|absence of/i.test(bundle)) return false;
+  if (isFinanceOrFilingOnlyUrl(row.sourceUrl) && !allowGenericOfficial) return false;
+  if (isGenericRaceOrLocalContextUrl(row.sourceUrl) && !mentionsCurrent) return false;
+  if (social) return true;
+  return mentionsCurrent || allowGenericOfficial;
 }
 
 function selectEvidenceClaims(rows, {
@@ -902,6 +1073,8 @@ function selectEvidenceClaims(rows, {
   limit = 4,
   requirePublicUrl = false,
   includeSocial = false,
+  candidateContext = undefined,
+  allowGenericOfficial = false,
 } = {}) {
   const wantedTypes = new Set(types);
   const wantedIssues = new Set(issueNumbers);
@@ -922,6 +1095,7 @@ function selectEvidenceClaims(rows, {
     if (wantedTypes.size > 0 && !wantedTypes.has(row.evidenceType)) continue;
     if (requirePublicUrl && !row.sourceUrl) continue;
     if (!includeSocial && String(row.evidenceType ?? "").startsWith("social ")) continue;
+    if (candidateContext && !isCandidateRelevantEvidenceRow(row, candidateContext, { allowGenericOfficial })) continue;
     if (wantedIssues.size > 0) {
       const mapped = asArray(row.issueMappedTo).map((n) => Number(n));
       if (!mapped.some((n) => wantedIssues.has(n))) continue;
@@ -951,7 +1125,8 @@ function derivedWhoTheyAre(candidate, evidenceRows) {
     const sourceFile = String(row.sourceFile ?? "");
     const sourceUrl = String(row.sourceUrl ?? "");
     return (
-      sourceFile.includes(`memory/candidates/${candidate.slug}/`) ||
+      (sourceFile.includes(`memory/candidates/${candidate.slug}/`) &&
+        isCandidateRelevantEvidenceRow(row, candidate, { allowGenericOfficial: true })) ||
       sourceUrl.includes("fec.gov") ||
       sourceUrl.includes("kansas.gov")
     );
@@ -959,11 +1134,15 @@ function derivedWhoTheyAre(candidate, evidenceRows) {
   const bioClaims = selectEvidenceClaims(candidateScopedRows, {
     types: ["biography", "ballot status", "church/worship"],
     limit: 3,
+    candidateContext: candidate,
+    allowGenericOfficial: true,
   });
   const publicBioClaims = selectEvidenceClaims(candidateScopedRows, {
     types: ["biography", "ballot status", "church/worship"],
     limit: 2,
     requirePublicUrl: true,
+    candidateContext: candidate,
+    allowGenericOfficial: true,
   });
   const claims = publicBioClaims.length ? publicBioClaims : bioClaims;
   const partyLabels = { R: "Republican", D: "Democratic", I: "Independent", NP: "nonpartisan" };
@@ -983,6 +1162,7 @@ function derivedRecordSummary(candidate, issues, evidenceRows) {
     types: ["voting record", "meeting record", "campaign statement", "legal/court", "controversy", "endorsement"],
     limit: 4,
     requirePublicUrl: true,
+    candidateContext: candidate,
   });
   const renderedExamples = issues
     .flatMap((issue) => issue.actions.map((action) => `${issue.title}: ${action.body}`))
@@ -997,9 +1177,11 @@ function derivedRecordSummary(candidate, issues, evidenceRows) {
   return `The rendered record now contains ${actionCount} source-backed action${actionCount === 1 ? "" : "s"} across ${issueCountWithActions} of the 14 issue areas. ${examples.length ? `Representative public-record entries include: ${sentenceList(examples)}` : ""} Social-only material is excluded from this record summary and remains labeled as observation when rendered.`;
 }
 
-function derivedWhereTheyWorship(evidenceRows) {
+function derivedWhereTheyWorship(candidate, evidenceRows) {
   const worshipRows = asArray(evidenceRows).filter((row) => {
     if (row.evidenceType !== "church/worship") return false;
+    if (!isCandidateRelevantEvidenceRow(row, candidate)) return false;
+    if (otherCandidateMentioned(candidate, `${row.claim ?? ""} ${row.exactEvidenceSummary ?? ""}`)) return false;
     const text = cleanClaimText(row.claim || row.exactEvidenceSummary);
     if (/no candidate-controlled issue platform|does not infer|sparse profiles|where they stand/i.test(text)) return false;
     return /\b(church|worship|faith|religion|pastor|minister|congregation|parish|temple|mosque|synagogue|chapel|denomination)\b/i.test(text);
@@ -1007,6 +1189,7 @@ function derivedWhereTheyWorship(evidenceRows) {
   const worshipClaims = selectEvidenceClaims(worshipRows, {
     types: ["church/worship"],
     limit: 3,
+    candidateContext: candidate,
   });
   if (worshipClaims.length === 0) {
     return "No public worship affiliation was confirmed in the reviewed evidence matrix. This section is descriptive only; no policy position is inferred from the absence or presence of faith-related public records.";
@@ -1015,7 +1198,9 @@ function derivedWhereTheyWorship(evidenceRows) {
 }
 
 function derivedCampaignFinance(candidate, evidenceRows) {
-  const financeRows = asArray(evidenceRows).filter((row) => row.evidenceType === "donor/funding");
+  const financeRows = asArray(evidenceRows)
+    .filter((row) => row.evidenceType === "donor/funding")
+    .filter((row) => isCandidateRelevantEvidenceRow(row, candidate, { allowGenericOfficial: true }));
   if (financeRows.length === 0) {
     return {
       totalRaised: "No public finance total separated in this pass",
@@ -1030,6 +1215,8 @@ function derivedCampaignFinance(candidate, evidenceRows) {
   const claims = selectEvidenceClaims(financeRows, {
     types: ["donor/funding"],
     limit: 4,
+    candidateContext: candidate,
+    allowGenericOfficial: true,
   });
   const publicRows = financeRows.filter((row) => row.sourceUrl);
   const moneyMatch = claims.join(" ").match(/\$[0-9][0-9,]*(?:\.[0-9]{2})?/);
@@ -1075,12 +1262,30 @@ function renderedSourceIds(candidate) {
   return ids;
 }
 
+function isCandidateRelevantSource(source, candidate) {
+  if (!source?.url || isDroppedPublicUrl(source.url)) return false;
+  const bundle = `${source.title} ${source.publisher ?? ""} ${source.url} ${asArray(source.claimsAnchored).join(" ")}`;
+  const mentionsCurrent = textMentionsCandidate(candidate, bundle, { allowSinglePart: true }) || urlMentionsCandidate(candidate, source.url);
+  if (otherCandidateMentioned(candidate, bundle) && (!mentionsCurrent || otherCandidateLeadsText(candidate, bundle))) return false;
+  if (isGenericRaceOrLocalContextUrl(source.url) && !mentionsCurrent) return false;
+  if (source.tier === "social") return mentionsCurrent || urlMentionsCandidate(candidate, source.url);
+  return mentionsCurrent;
+}
+
 function filterRenderedSources(candidate) {
   const ids = renderedSourceIds(candidate);
-  if (ids.size === 0) {
-    return candidate.sources.filter((source) => source.tier !== "social").slice(0, 4);
+  const rendered = [];
+  const seen = new Set();
+  for (const source of candidate.sources) {
+    if (!ids.has(source.id) && !isCandidateRelevantSource(source, candidate)) continue;
+    if (seen.has(source.id)) continue;
+    seen.add(source.id);
+    rendered.push(source);
   }
-  return candidate.sources.filter((source) => ids.has(source.id));
+  if (ids.size === 0) {
+    return rendered.filter((source) => source.tier !== "social").slice(0, 8);
+  }
+  return rendered;
 }
 
 function chooseNarrative(existing, derived, minimumLength = 120) {
@@ -1154,7 +1359,7 @@ function campaignFinanceFromNote(note) {
 }
 
 function normalizeCandidate(slug, yaml, v1) {
-  const meta = { ...(V2_ONLY_METADATA[slug] ?? {}), ...mergeMetadata(yaml) };
+  const meta = { ...(V2_ONLY_METADATA[slug] ?? {}), ...mergeMetadata(yaml), ...(RENDER_METADATA_OVERRIDES[slug] ?? {}) };
   const evidenceRows = loadJsonIfExists(join(MEMORY_CANDIDATES, slug, "evidence-matrix.json"), []);
   const socialMatrix = loadJsonIfExists(join(MEMORY_CANDIDATES, slug, "social-evidence-matrix.json"), []);
   const sourceAudit = loadJsonIfExists(join(MEMORY_CANDIDATES, slug, "source-audit.json"), {});
@@ -1168,7 +1373,6 @@ function normalizeCandidate(slug, yaml, v1) {
     .filter((source) => source.tier !== "social")
     .slice(0, 4)
     .map((source) => source.id);
-  const issues = normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById, rowSourceIds, sourceIdsByUrl, slug);
   const whereTheyWorship =
     omitEmpty(meta.whereTheyWorship) ??
     omitEmpty(meta.whereTheyWorship_note) ??
@@ -1195,6 +1399,10 @@ function normalizeCandidate(slug, yaml, v1) {
     incumbent: typeof meta.incumbent === "boolean" ? meta.incumbent : typeof v1.incumbent === "boolean" ? v1.incumbent : false,
     occupation: textValue(meta.occupation, meta.currentOffice, meta.current_role, v1.occupation) ?? "",
   };
+  const issues = normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById, rowSourceIds, sourceIdsByUrl, candidateCore);
+  const safeWhereTheyWorship = whereTheyWorship && !otherCandidateMentioned(candidateCore, whereTheyWorship)
+    ? whereTheyWorship
+    : undefined;
 
   const candidate = {
     ...candidateCore,
@@ -1225,7 +1433,7 @@ function normalizeCandidate(slug, yaml, v1) {
         yaml.socialOnlineRelevance ??
         yaml.social_online,
     ),
-    whereTheyWorship: chooseNarrative(whereTheyWorship, derivedWhereTheyWorship(evidenceRows), 80),
+    whereTheyWorship: chooseNarrative(safeWhereTheyWorship, derivedWhereTheyWorship(candidateCore, evidenceRows), 80),
     campaignFinance: normalizeCampaignFinance(yaml, idMap, sources) ??
       campaignFinanceFromNote(meta.campaign_finance_note) ??
       derivedCampaignFinance(candidateCore, evidenceRows),

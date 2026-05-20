@@ -109,25 +109,14 @@ export const NOAH_TAYLOR_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: KCUR Candidate Guide Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Campaign Website: noahforkansas.com Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-noah-taylor-0003",
           "src-noah-taylor-0005",
           "src-noah-taylor-0006",
-          "src-noah-taylor-0007",
-          "src-noah-taylor-0008",
-          "src-noah-taylor-0009"
+          "src-noah-taylor-0007"
         ]
       },
       "actions": [
-        {
-          "id": "em-noah-taylor-00129",
-          "date": "Undated",
-          "body": "KCUR Candidate Guide",
-          "sourceIds": [
-            "src-noah-taylor-0003"
-          ]
-        },
         {
           "id": "em-noah-taylor-00144",
           "date": "Undated",
@@ -150,22 +139,6 @@ export const NOAH_TAYLOR_V2: CandidateFullV2 = {
           "body": "Kansas Reflector - Hart Profile (mentions Taylor)",
           "sourceIds": [
             "src-noah-taylor-0007"
-          ]
-        },
-        {
-          "id": "em-noah-taylor-00180",
-          "date": "Undated",
-          "body": "Kansas Reflector - Davids Senate Speculation (Jan 2026)",
-          "sourceIds": [
-            "src-noah-taylor-0008"
-          ]
-        },
-        {
-          "id": "em-noah-taylor-00181",
-          "date": "Undated",
-          "body": "KCUR - Davids Not Ruling It Out (Feb 2026)",
-          "sourceIds": [
-            "src-noah-taylor-0009"
           ]
         }
       ],
@@ -175,25 +148,14 @@ export const NOAH_TAYLOR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: KCUR Candidate Guide Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Campaign Website: noahforkansas.com Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-noah-taylor-0003",
           "src-noah-taylor-0005",
           "src-noah-taylor-0006",
-          "src-noah-taylor-0007",
-          "src-noah-taylor-0008",
-          "src-noah-taylor-0009"
+          "src-noah-taylor-0007"
         ]
       },
       "actions": [
-        {
-          "id": "em-noah-taylor-00129",
-          "date": "Undated",
-          "body": "KCUR Candidate Guide",
-          "sourceIds": [
-            "src-noah-taylor-0003"
-          ]
-        },
         {
           "id": "em-noah-taylor-00144",
           "date": "Undated",
@@ -216,22 +178,6 @@ export const NOAH_TAYLOR_V2: CandidateFullV2 = {
           "body": "Kansas Reflector - Hart Profile (mentions Taylor)",
           "sourceIds": [
             "src-noah-taylor-0007"
-          ]
-        },
-        {
-          "id": "em-noah-taylor-00180",
-          "date": "Undated",
-          "body": "Kansas Reflector - Davids Senate Speculation (Jan 2026)",
-          "sourceIds": [
-            "src-noah-taylor-0008"
-          ]
-        },
-        {
-          "id": "em-noah-taylor-00181",
-          "date": "Undated",
-          "body": "KCUR - Davids Not Ruling It Out (Feb 2026)",
-          "sourceIds": [
-            "src-noah-taylor-0009"
           ]
         }
       ],
@@ -251,11 +197,8 @@ export const NOAH_TAYLOR_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Reviewed evidence: \"url\": \"https://www.fec.gov/data/candidate/S6KS00296/\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-fec-candidate",
-          "src-noah-taylor-0002"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -315,29 +258,6 @@ export const NOAH_TAYLOR_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-noah-taylor-0002",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/elections/senate/KS/2026/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FEC - 2026 Kansas Senate](https://www.fec.gov/data/elections/senate/KS/2026/)"
-      ]
-    },
-    {
-      "id": "src-noah-taylor-0003",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
-      "title": "Kcur",
-      "publisher": "Kcur",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KCUR Candidate Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)",
-        "[KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025)](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
-      ]
-    },
-    {
       "id": "src-noah-taylor-0005",
       "tier": "secondary",
       "url": "https://www.noahforkansas.com/",
@@ -370,30 +290,6 @@ export const NOAH_TAYLOR_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[Kansas Reflector - Hart Profile (mentions Taylor)](https://kansasreflector.com/2026/03/23/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness/)"
-      ]
-    },
-    {
-      "id": "src-noah-taylor-0008",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector - Davids Senate Speculation (Jan 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)",
-        "[Sharice Davids Senate Speculation (Jan 29, 2026)](https://kansasreflector.com/2026/01/29/will-sharice-davids-run-for-u-s-senate-from-kansas-shes-not-saying-no-and-signs-point-to-yes/)"
-      ]
-    },
-    {
-      "id": "src-noah-taylor-0009",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out",
-      "title": "Kcur",
-      "publisher": "Kcur",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KCUR - Davids Not Ruling It Out (Feb 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)",
-        "[KCUR - Sharice Davids Discussion (Feb 24, 2026)](https://www.kcur.org/podcast/up-to-date/2026-02-24/will-sharice-davids-run-to-represent-kansas-in-the-u-s-senate-shes-not-ruling-it-out)"
       ]
     }
   ]

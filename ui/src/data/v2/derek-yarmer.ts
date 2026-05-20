@@ -60,33 +60,16 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: Derek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in USD 489, and a non-incumbent candidate whose campaign was \"100 percent personally financed.\" He said he thought there were \"a lot of great things going on within the district,\" including new facilitie... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-yarmer-qa-2023",
-          "s-hayspost-yarmer-vacancy-2021",
           "s-tigermedia-furniture-playground-2025",
           "s-ellis-2023-official-results",
-          "src-derek-yarmer-0003",
-          "src-derek-yarmer-0029"
+          "s-hayspost-yarmer-bond-statement-2025",
+          "s-hayspost-sped-sel-2025",
+          "s-usd489-highbond-members"
         ]
       },
       "actions": [
-        {
-          "id": "em-derek-yarmer-00003",
-          "date": "Undated",
-          "body": "Derek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in USD 489, and a non-incumbent candidate whose campaign was \"100 percent personally financed.\" He said he thought there were \"a lot of great things going on within the district,\" including new facilities, but framed his main goal as making sure Hays residents got \"the new schools they were promised at...",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ]
-        },
-        {
-          "id": "em-derek-yarmer-00004",
-          "date": "Undated",
-          "body": "His earliest accessible school-board statement, a 2021 application letter for a vacant USD 489 seat, presented education as a parental responsibility and community duty. He wrote that educating children is \"one of the most important responsibilities we have as parents,\" said he wanted to be active in his daughters' education and the education of other district students, and argued that his emergency-medicine background could help the district take a pragmatic approach to pandemic decisions while keeping interrupti...",
-          "sourceIds": [
-            "s-hayspost-yarmer-vacancy-2021"
-          ]
-        },
         {
           "id": "em-derek-yarmer-00006",
           "date": "Undated",
@@ -104,19 +87,19 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-derek-yarmer-00188",
+          "id": "em-derek-yarmer-00005",
           "date": "Undated",
-          "body": "USD 489 Board of Education page",
+          "body": "The clearest throughline in Yarmer's board messaging is fiscal scrutiny. In his 2023 questionnaire, he said the board has \"the absolute responsibility\" to keep the $143.5 million bond project on budget and deliver the school structures promised to the community. In a 2025 written statement published by Hays Post, he argued that the district was using capital outlay funds for items that should be covered by the bond, criticized spending on a concession stand, scoreboards, tennis courts, and a marquee sign while oth...",
           "sourceIds": [
-            "src-derek-yarmer-0003"
+            "s-hayspost-yarmer-bond-statement-2025"
           ]
         },
         {
-          "id": "em-derek-yarmer-00189",
+          "id": "em-derek-yarmer-00008",
           "date": "Undated",
-          "body": "Hays Post: 3 veterans elected to USD 489 school board",
+          "body": "On education policy, Yarmer's public comments emphasize core academics, leaner operations, and skepticism of expansive school roles. During a 2025 discussion of special education funding and district spending, he said the district could \"work a little leaner,\" questioned whether requested items were needs, and said, \"I don't think money is the problem of the education system. I think we need to be better at doing what we do.\" In the same meeting coverage, he criticized social-emotional and mental-health programmin...",
           "sourceIds": [
-            "src-derek-yarmer-0029"
+            "s-hayspost-sped-sel-2025"
           ]
         }
       ],
@@ -137,12 +120,8 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-derek-yarmer-0068",
-          "src-derek-yarmer-0069",
-          "src-derek-yarmer-0041"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -154,9 +133,6 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
         "text": "Documented public evidence: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-tigermedia-furniture-playground-2025",
-          "src-derek-yarmer-0047",
-          "src-derek-yarmer-0048",
-          "src-derek-yarmer-0092",
           "s-hayspost-yarmer-bond-statement-2025",
           "s-hayspost-sped-sel-2025"
         ]
@@ -168,30 +144,6 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
           "body": "His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an example of giving us the numbers and voting on it the same night, which I'm against,\" and in 2026 sa...",
           "sourceIds": [
             "s-tigermedia-furniture-playground-2025"
-          ]
-        },
-        {
-          "id": "em-derek-yarmer-00829",
-          "date": "Undated",
-          "body": "Board member questions Hays USD 489 bond budget",
-          "sourceIds": [
-            "src-derek-yarmer-0047"
-          ]
-        },
-        {
-          "id": "em-derek-yarmer-00830",
-          "date": "Undated",
-          "body": "Hays USD 489 board scrutinizes bond budget",
-          "sourceIds": [
-            "src-derek-yarmer-0048"
-          ]
-        },
-        {
-          "id": "em-derek-yarmer-01751",
-          "date": "Undated",
-          "body": "On the March 2026 reconsideration of the proposed sale of 7.3 acres north of Felten Elementary, Ruder said, \"If we sit on the land, we get nothing,\" and \"I don't think we can just say no,\" urging the board to invite bidders to a meeting to discuss their projects further and referencing community-housing demand and potential residential-tax revenue (source). Across the captured Hays Post coverage, board-coverage articles consistently describe her vote alignment with the administration majority, alongside Ken Brooks...",
-          "sourceIds": [
-            "src-derek-yarmer-0092"
           ]
         },
         {
@@ -258,23 +210,13 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: Derek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in USD 489, and a non-incumbent candidate whose campaign was \"100 percent personally financed.\" He said he thought there were \"a lot of great things going on within the district,\" including new facilitie... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: On education policy, Yarmer's public comments emphasize core academics, leaner operations, and skepticism of expansive school roles. During a 2025 discussion of special education funding and district spending, he said the district could \"work a little leaner,\" questioned whether requested items were needs, and said, \"I don't think money is the problem of the education system. I think we need to be better at doing wh... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-yarmer-qa-2023",
           "s-hayspost-sped-sel-2025",
-          "s-pawnee-yarmer-ed-director",
-          "src-derek-yarmer-0076"
+          "s-pawnee-yarmer-ed-director"
         ]
       },
       "actions": [
-        {
-          "id": "em-derek-yarmer-00003",
-          "date": "Undated",
-          "body": "Derek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in USD 489, and a non-incumbent candidate whose campaign was \"100 percent personally financed.\" He said he thought there were \"a lot of great things going on within the district,\" including new facilities, but framed his main goal as making sure Hays residents got \"the new schools they were promised at...",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ]
-        },
         {
           "id": "em-derek-yarmer-00008",
           "date": "Undated",
@@ -305,10 +247,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-tigermedia-furniture-playground-2025",
           "s-hayspost-admin-contracts-2024",
-          "s-ellis-2023-official-results",
-          "s-hayspost-yarmer-qa-2023",
-          "src-derek-yarmer-0032",
-          "src-derek-yarmer-0007"
+          "s-ellis-2023-official-results"
         ]
       },
       "actions": [
@@ -334,30 +273,6 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
           "body": "Ellis County official 2023 city/school election results: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION",
           "sourceIds": [
             "s-ellis-2023-official-results"
-          ]
-        },
-        {
-          "id": "em-derek-yarmer-00034",
-          "date": "Undated",
-          "body": "2023 candidate questionnaire: https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ]
-        },
-        {
-          "id": "em-derek-yarmer-00211",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas State Board of Education election, 2026",
-          "sourceIds": [
-            "src-derek-yarmer-0032"
-          ]
-        },
-        {
-          "id": "em-derek-yarmer-00277",
-          "date": "Undated",
-          "body": "Ellis County Clerk (elections): 785-628-9410 | ellisco.net/425/Election",
-          "sourceIds": [
-            "src-derek-yarmer-0007"
           ]
         }
       ],
@@ -370,11 +285,8 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
         "text": "Documented public evidence: His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-felten-2026",
-          "src-derek-yarmer-0042",
-          "src-derek-yarmer-0043",
-          "src-derek-yarmer-0029",
-          "src-derek-yarmer-0045",
-          "src-derek-yarmer-0046"
+          "src-derek-yarmer-0046",
+          "s-hayspost-yarmer-bond-statement-2025"
         ]
       },
       "actions": [
@@ -387,43 +299,19 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-derek-yarmer-00472",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-derek-yarmer-0042"
-          ]
-        },
-        {
-          "id": "em-derek-yarmer-00763",
-          "date": "Undated",
-          "body": "Hays school board approves HHS, Roosevelt contract; discussion heated",
-          "sourceIds": [
-            "src-derek-yarmer-0043"
-          ]
-        },
-        {
-          "id": "em-derek-yarmer-00808",
-          "date": "Undated",
-          "body": "3 veterans elected to Hays USD 489 school board",
-          "sourceIds": [
-            "src-derek-yarmer-0029"
-          ]
-        },
-        {
-          "id": "em-derek-yarmer-00809",
-          "date": "Undated",
-          "body": "Hays USD 489 BOE votes to change Hays Middle School mascot to Indians",
-          "sourceIds": [
-            "src-derek-yarmer-0045"
-          ]
-        },
-        {
           "id": "em-derek-yarmer-00826",
           "date": "Undated",
           "body": "Hays USD 489 School Board Candidate: Derek Yarmer",
           "sourceIds": [
             "src-derek-yarmer-0046"
+          ]
+        },
+        {
+          "id": "em-derek-yarmer-00828",
+          "date": "Undated",
+          "body": "Opinion: Hays USD 489 board member critical of use of bond, capital funds",
+          "sourceIds": [
+            "s-hayspost-yarmer-bond-statement-2025"
           ]
         }
       ],
@@ -433,54 +321,27 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: FHSU: Board of Regents approves affiliation Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-derek-yarmer-0036"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-derek-yarmer-00236",
-          "date": "Undated",
-          "body": "FHSU: Board of Regents approves affiliation",
-          "sourceIds": [
-            "src-derek-yarmer-0036"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: Derek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in USD 489, and a non-incumbent candidate whose campaign was \"100 percent personally financed.\" He said he thought there were \"a lot of great things going on within the district,\" including new facilitie... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-yarmer-qa-2023",
-          "s-hayspost-yarmer-vacancy-2021",
           "s-tigermedia-furniture-playground-2025",
           "s-hayspost-admin-contracts-2024",
           "s-hayspost-felten-2026",
-          "s-ellis-2023-official-results"
+          "s-ellis-2023-official-results",
+          "s-usd489-jan22-2024-agenda",
+          "s-hayspost-yarmer-bond-statement-2025"
         ]
       },
       "actions": [
-        {
-          "id": "em-derek-yarmer-00003",
-          "date": "Undated",
-          "body": "Derek Yarmer's public record is built around local school-board oversight rather than a broad campaign-media operation. In his 2023 Hays Post questionnaire, he described himself as an ER doctor, a parent of children in USD 489, and a non-incumbent candidate whose campaign was \"100 percent personally financed.\" He said he thought there were \"a lot of great things going on within the district,\" including new facilities, but framed his main goal as making sure Hays residents got \"the new schools they were promised at...",
-          "sourceIds": [
-            "s-hayspost-yarmer-qa-2023"
-          ]
-        },
-        {
-          "id": "em-derek-yarmer-00004",
-          "date": "Undated",
-          "body": "His earliest accessible school-board statement, a 2021 application letter for a vacant USD 489 seat, presented education as a parental responsibility and community duty. He wrote that educating children is \"one of the most important responsibilities we have as parents,\" said he wanted to be active in his daughters' education and the education of other district students, and argued that his emergency-medicine background could help the district take a pragmatic approach to pandemic decisions while keeping interrupti...",
-          "sourceIds": [
-            "s-hayspost-yarmer-vacancy-2021"
-          ]
-        },
         {
           "id": "em-derek-yarmer-00006",
           "date": "Undated",
@@ -511,6 +372,22 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
           "body": "Ellis County official 2023 city/school election results: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION",
           "sourceIds": [
             "s-ellis-2023-official-results"
+          ]
+        },
+        {
+          "id": "em-derek-yarmer-00037",
+          "date": "Undated",
+          "body": "Jan. 22, 2024 agenda/minutes page: https://usd489.community.highbond.com/document/4617/File.html?handle=7A80C62703E94B0E80A35ACBCCEDEF73",
+          "sourceIds": [
+            "s-usd489-jan22-2024-agenda"
+          ]
+        },
+        {
+          "id": "em-derek-yarmer-00005",
+          "date": "Undated",
+          "body": "The clearest throughline in Yarmer's board messaging is fiscal scrutiny. In his 2023 questionnaire, he said the board has \"the absolute responsibility\" to keep the $143.5 million bond project on budget and deliver the school structures promised to the community. In a 2025 written statement published by Hays Post, he argued that the district was using capital outlay funds for items that should be covered by the bond, criticized spending on a concession stand, scoreboards, tennis courts, and a marquee sign while oth...",
+          "sourceIds": [
+            "s-hayspost-yarmer-bond-statement-2025"
           ]
         }
       ],
@@ -540,7 +417,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Derek Yarmer is a current USD 489 board member and emergency physician. His public\npersona is built around local board oversight: bond and capital-outlay scrutiny,\nearlier board materials, contract review, and practical facilities/safety questions.",
   "recordSummary": "Official USD 489 minutes show repeated no or table votes on bond-related change\norders, furniture/playground purchases, HVAC agreements, Felten GMP approval, and\nadministrator contract extensions, paired with yes votes on other purchases and\nsafety/facility work. This is best read as a process-and-oversight record, not as\nan across-the-board anti-spending posture.",
-  "whereTheyWorship": "First Christian Church Great Bend - Kansas Disciples. Sunflower State Journal: Kobach denounces vandalism at his church. Christian Post: Caleb Schwab attended church with family hours before death. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "whereTheyWorship": "No reliable public source identified a church home, denomination, or faith community for Derek Yarmer. I did not find a reliable public source that identifies Derek Yarmer's church home or denomination. Because the public record is thin here, I am not assigning a church without evidence. I did not find a reliable public source that identifies Yarmer's church home or denomination. I am not assigning a church without evidence. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
     "narrative": "No official itemized donor ledger found online in reviewed sources.",
@@ -551,6 +428,21 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
   },
   "socialResearchNote": "No verified public candidate-controlled campaign website or social account was found\nin the existing social harvest or this v2 pass. The USD 489 HighBond member page is\nan official board-member page, not a campaign website.",
   "sources": [
+    {
+      "id": "s-usd489-highbond-members",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
+      "title": "USD 489 HighBond/Diligent member page",
+      "publisher": "Unified School District 489",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Derek Yarmer is listed as Dr. and Board Member.",
+        "Yarmer is associated with regular, special, retreat, and work-session board meetings.",
+        "USD 489 HighBond member page: https://usd489.community.highbond.com/portal/members.aspx?id=18",
+        "[usd489.community.highbond.com](https://usd489.community.highbond.com/portal/members.aspx?id=18)",
+        "\"campaignWebsite\": \"https://usd489.community.highbond.com/portal/members.aspx?id=18\","
+      ]
+    },
     {
       "id": "s-ellis-2023-official-results",
       "tier": "primary",
@@ -631,6 +523,122 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-usd489-jan22-2024-agenda",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/document/4617/File.html?handle=7A80C62703E94B0E80A35ACBCCEDEF73",
+      "title": "Regular Meeting - Jan. 22, 2024 - Agenda/Minutes",
+      "publisher": "Unified School District 489",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "District-level administrator contract extension passed 5-1-1.",
+        "Derek Yarmer abstained on the administrator contract extension vote.",
+        "Jan. 22, 2024 agenda/minutes page: https://usd489.community.highbond.com/document/4617/File.html?handle=7A80C62703E94B0E80A35ACBCCEDEF73",
+        "\"url\": \"https://usd489.community.highbond.com/document/4617/File.html?handle=7A80C62703E94B0E80A35ACBCCEDEF73\","
+      ]
+    },
+    {
+      "id": "s-usd489-mar24-2025-minutes",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/document/58b62a8d-8fc5-4292-9392-8a873dcee103",
+      "title": "Regular Meeting - Mar. 24, 2025 - Minutes",
+      "publisher": "Unified School District 489",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Yarmer moved to look into hiring a project manager for the remainder of the bond; motion failed 3-4.",
+        "Yarmer voted no on Hays High softball bleachers/press box and Hays Middle School athletic field bleachers.",
+        "Yarmer voted yes on Hays High student devices from Dell.",
+        "Yarmer voted no on Hays High weights/equipment.",
+        "Mar. 24, 2025 minutes: https://usd489.community.highbond.com/document/58b62a8d-8fc5-4292-9392-8a873dcee103"
+      ]
+    },
+    {
+      "id": "s-usd489-sep22-2025-minutes",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/document/a2b7b53a-f656-418f-b119-8b12a9bb09db",
+      "title": "Regular Meeting - Sep. 22, 2025 - Minutes",
+      "publisher": "Unified School District 489",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Yarmer voted no on Hays High PCCO 007 change orders for $88,347.",
+        "Yarmer voted yes on HMS floor tile removal and asbestos-containing mastic abatement for $69,480.",
+        "Yarmer voted yes on the HHS marketing partnership contract.",
+        "Sep. 22, 2025 minutes: https://usd489.community.highbond.com/document/a2b7b53a-f656-418f-b119-8b12a9bb09db"
+      ]
+    },
+    {
+      "id": "s-usd489-oct13-2025-minutes",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/document/a9206cea-3bbe-4ae5-bc24-538e5caef631",
+      "title": "Regular Meeting - Oct. 13, 2025 - Minutes",
+      "publisher": "Unified School District 489",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Yarmer voted no on HMS furniture purchase from Circadia for $181,236.17.",
+        "Yarmer voted no on Lincoln Elementary playground equipment removal for $32,832.",
+        "Yarmer voted yes on district staff desktop replacements.",
+        "Oct. 13, 2025 minutes: https://usd489.community.highbond.com/document/a9206cea-3bbe-4ae5-bc24-538e5caef631"
+      ]
+    },
+    {
+      "id": "s-usd489-feb09-2026-minutes",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/document/995368df-1067-4426-ad7a-a460a55355b4",
+      "title": "Regular Meeting - Feb. 9, 2026 - Minutes",
+      "publisher": "Unified School District 489",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Yarmer voted no on the Glassman HVAC preventive maintenance update.",
+        "Yarmer moved to table the HVAC decision until more information could be provided.",
+        "Yarmer voted yes to table administrative personnel contract extensions until the next meeting.",
+        "Yarmer moved the activity bus purchase motion and voted yes on the Felten asbestos change order.",
+        "Feb. 9, 2026 minutes: https://usd489.community.highbond.com/document/995368df-1067-4426-ad7a-a460a55355b4"
+      ]
+    },
+    {
+      "id": "s-usd489-feb23-2026-minutes",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/document/8172c018-ca24-4283-9234-7a8805e449b4",
+      "title": "Regular Meeting - Feb. 23, 2026 - Minutes",
+      "publisher": "Unified School District 489",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Yarmer voted no on the annual Glassman HVAC update but seconded a limited 2026 update with RFP direction.",
+        "Yarmer voted no on the Felten Elementary GMP of $5,734,887.",
+        "Yarmer seconded administrator contract postponement motions.",
+        "Yarmer moved to table district director contract extensions.",
+        "Feb. 23, 2026 minutes: https://usd489.community.highbond.com/document/8172c018-ca24-4283-9234-7a8805e449b4"
+      ]
+    },
+    {
+      "id": "s-usd489-mar09-2026-minutes",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/document/8316fb03-2128-4a97-b733-dfea83edcb53",
+      "title": "Regular Meeting - Mar. 9, 2026 - Minutes",
+      "publisher": "Unified School District 489",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Yarmer seconded tabling administrator/director contract language updates for work-session discussion.",
+        "Yarmer voted no on administrator contract extensions through 2027-28.",
+        "Yarmer voted yes on district director contract extensions through 2027-28.",
+        "Yarmer voted no on intent to non-renew a teacher.",
+        "Mar. 9, 2026 minutes: https://usd489.community.highbond.com/document/8316fb03-2128-4a97-b733-dfea83edcb53"
+      ]
+    },
+    {
+      "id": "s-usd489-apr20-2026-minutes",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/document/02c978bc-f804-4cbe-b927-88b6d4cbd04d",
+      "title": "Regular Meeting - Apr. 20, 2026 - Minutes",
+      "publisher": "Unified School District 489",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Yarmer seconded adding HHS Bathroom Discussion to the agenda.",
+        "Bathroom discussion included vandalism, tracking reports, processes, and bathroom closures.",
+        "Yarmer voted no on the first personnel-transactions motion and seconded the revised motion.",
+        "Apr. 20, 2026 minutes: https://usd489.community.highbond.com/document/02c978bc-f804-4cbe-b927-88b6d4cbd04d"
+      ]
+    },
+    {
       "id": "s-hayspost-admin-contracts-2024",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf",
@@ -674,6 +682,32 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-tigermedia-asbestos-2025",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=93176",
+      "title": "USD 489 Board of Education approves asbestos abatement at Hays Middle School",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Tiger Media attributed to Yarmer the emergency-process quote during asbestos-abatement discussion.",
+        "Asbestos abatement, Dec. 2025: https://tigermedianet.com/?p=93176",
+        "| 2025-12-16 | [Tiger Media Network](https://tigermedianet.com/?p=93176) | Asbestos abatement | Seconded a tabling motion and said, \"If everything is an emergency, nothing is an emergency.\" |"
+      ]
+    },
+    {
+      "id": "s-tigermedia-felten-gmp-2026",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=94701",
+      "title": "Board of Education approves Felten Elementary School bond projects",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Tiger Media attributed to Yarmer a process objection about purchases over $100,000 being discussed before a vote.",
+        "| 2026-02-24 | [Tiger Media Network](https://tigermedianet.com/?p=94701) | Felten Elementary project | Said purchases over $100,000 should be discussed at the prior board meeting before a vote, and distinguished estimates from final proposals. |",
+        "Felten GMP, Feb. 2026: https://tigermedianet.com/?p=94701"
+      ]
+    },
+    {
       "id": "s-hayspost-felten-2026",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed",
@@ -685,6 +719,32 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
         "His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bath",
         "Felten scope questions, Feb. 2026: https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed",
         "| 2026-02-25 | [Hays Post](https://hayspost.com/posts/f5e69fbd-0165-4db1-b896-07613f7a31ed) | Felten Elementary construction contract | Asked whether plumbing had been scoped before bidding and said it is good to know project conditions before proceeding. Vote"
+      ]
+    },
+    {
+      "id": "s-tigermedia-admin-contracts-2026",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=95549",
+      "title": "Board of Education extends administrator, director contracts",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Tiger Media attributed to Yarmer concerns about superintendent contract language and a motion to vote on administrator contracts individually.",
+        "| 2026-03-10 | [Tiger Media Network](https://tigermedianet.com/?p=95549) | Administrator/director contracts | Flagged contract language that appeared to place the superintendent under his own supervision; moved to vote on contracts individually. |",
+        "Admin/director contracts, Mar. 2026: https://tigermedianet.com/?p=95549"
+      ]
+    },
+    {
+      "id": "s-hayspost-bathrooms-2026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede",
+      "title": "USD 489 board members express concerns about bathrooms, vandalism",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Coverage attributed to Yarmer a concern that cameras outside bathrooms were not adequate for safety/security.",
+        "Bathrooms/vandalism, Apr. 2026: https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede",
+        "| 2026-04-22 | [Hays Post](https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede) | Hays High bathrooms and vandalism | Said cameras outside bathrooms were not adequate for safety or security purposes. |"
       ]
     },
     {
@@ -703,109 +763,6 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-derek-yarmer-0003",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[USD 489 Board of Education page](https://www.usd489.com/page/board-of-education)",
-        "| USD 489 official site | [Board of Education page](https://www.usd489.com/page/board-of-education), [USD 489 article on admin contracts](https://www.usd489.com/article/1425433) | Official/school source confirms board context and republishes a board-meeting ar"
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0007",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/425/Election",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Ellis County Clerk (elections): 785-628-9410 | [ellisco.net/425/Election](https://www.ellisco.net/425/Election)",
-        "[ellisco.net/425/Election](https://www.ellisco.net/425/Election)"
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0029",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 3 veterans elected to USD 489 school board](https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d)",
-        "[3 veterans elected to Hays USD 489 school board](https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d)"
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0032",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas State Board of Education election, 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0036",
-      "tier": "secondary",
-      "url": "https://www.fhsu.edu/news/kansas-board-of-regents-approves-the-affiliation-of-three-rural-higher-education-institutions",
-      "title": "Fhsu",
-      "publisher": "Fhsu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FHSU: Board of Regents approves affiliation](https://www.fhsu.edu/news/2023/01/kansas-board-of-regents-approves-the-affiliation-of-three-rural-higher-education-institutions)"
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0041",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0042",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0043",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays school board approves HHS, Roosevelt contract; discussion heated](https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984)"
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0045",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 BOE votes to change Hays Middle School mascot to Indians](https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c)"
-      ]
-    },
-    {
       "id": "src-derek-yarmer-0046",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/ae86883e-49b6-4bb5-af6c-acddd174da30",
@@ -817,72 +774,6 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
         "\"I am originally from Albert, Kan.\" - Hays Post candidate profile, 2023; https://hayspost.com/posts/ae86883e-49b6-4bb5-af6c-acddd174da30",
         "> -- Hays Post, 2023, https://hayspost.com/posts/ae86883e-49b6-4bb5-af6c-acddd174da30",
         "\"source\": \"Hays Post, 2023, https://hayspost.com/posts/ae86883e-49b6-4bb5-af6c-acddd174da30\","
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0047",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Board member questions Hays USD 489 bond budget](https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4)"
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0048",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 board scrutinizes bond budget](https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f)"
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0068",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0069",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)"
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0076",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-derek-yarmer-0092",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/13cbc154-8d45-445c-8557-acc25fb643e5",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "On the March 2026 reconsideration of the proposed sale of 7.3 acres north of Felten Elementary, Ruder said, \"If we sit on the land, we get nothing,\" and \"I don't think we can just say no,\" urging the board to invite bidders to a meeting to discuss their projec"
       ]
     }
   ]

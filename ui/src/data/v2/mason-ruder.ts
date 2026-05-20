@@ -23,129 +23,31 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-mason-ruder-0049"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-mason-ruder-0001",
-          "platform": "hayspost.com",
-          "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0049"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public evidence: Hays USD 489 board members question parental rights in emergency policy revision Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-mason-ruder-0050",
-          "src-mason-ruder-0051"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-mason-ruder-02526",
-          "date": "Undated",
-          "body": "Hays USD 489 board members question parental rights in emergency policy revision",
-          "sourceIds": [
-            "src-mason-ruder-0050"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-03865",
-          "date": "Undated",
-          "body": "In office, Ruder's quoted positions on operational questions cluster around two themes: a non-micromanagement posture toward administration and a priority-setting frame that flags time spent on non-academic issues. On school discipline she said, \"The board hires the superintendent, and it is up to the superintendent to manage his staff and the principals to manage their schools, not the board. I do not want to be involved in every disciplinary action that any kid has at Hays High School…That is [Henderson's] job t...",
-          "sourceIds": [
-            "src-mason-ruder-0051"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION — Ellis County official 2023 city/school general election results PDF (primary; image-scan, URL provenance is official) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-ellis-2023-results",
-          "src-mason-ruder-0054",
-          "src-mason-ruder-0055",
-          "src-mason-ruder-0002",
-          "src-mason-ruder-0003"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-mason-ruder-00187",
-          "date": "Undated",
-          "body": "https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION — Ellis County official 2023 city/school general election results PDF (primary; image-scan, URL provenance is official)",
-          "sourceIds": [
-            "s-ellis-2023-results"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-00247",
-          "date": "Undated",
-          "body": "https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION — 2023 official certified results PDF",
-          "sourceIds": [
-            "s-ellis-2023-results"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-00997",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-mason-ruder-0054"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-01006",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 BOE candidate Ruth Ruder",
-          "sourceIds": [
-            "src-mason-ruder-0055"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-01695",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-mason-ruder-0002"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-01759",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-mason-ruder-0003"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-mason-ruder-0001",
-          "platform": "hayspost.com",
-          "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0049"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
         {
           "id": "soc-mason-ruder-0007",
           "platform": "tmp-m.org",
@@ -182,26 +84,11 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Ruder also presents himself through faith, family, and Hays institutional life. TMP-Marian's profile announcing him as Hays Catholic Schools advancement director quotes him saying the role would help his \"community, my school, my family\" and that his local Catholic relationships would be an asset. Later coverage of TMP-Marian's Auction for Christian Education has him emphasizing alumni and community generosity, cont... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-mason-ruder-0052",
-          "src-mason-ruder-0007",
-          "src-mason-ruder-0083",
-          "src-mason-ruder-0084"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-mason-ruder-0001",
-          "platform": "hayspost.com",
-          "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0049"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
         {
           "id": "soc-mason-ruder-0010",
           "platform": "hayspost.com",
@@ -218,58 +105,10 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: UM-6 — Vacant-land valuation / marijuana-tax remark (Dec 20, 2025). Ruder said Kansas' vacant-land valuation structure makes it cheaper to hold land than build and suggested marijuana tax revenue could offset property taxes. Source: Hays Post (https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9). State-level policy musing, not a city vote. Narrative-writer may pair with M-1/M-2 budget IssueCard at their... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-mason-ruder-0100",
-          "src-mason-ruder-0062",
-          "src-mason-ruder-0063",
-          "src-mason-ruder-0049",
-          "src-mason-ruder-0205",
-          "s-hayspost-travel-plaza"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-mason-ruder-03006",
-          "date": "Undated",
-          "body": "UM-6 — Vacant-land valuation / marijuana-tax remark (Dec 20, 2025). Ruder said Kansas' vacant-land valuation structure makes it cheaper to hold land than build and suggested marijuana tax revenue could offset property taxes. Source: Hays Post (https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9). State-level policy musing, not a city vote. Narrative-writer may pair with M-1/M-2 budget IssueCard at their discretion.",
-          "sourceIds": [
-            "src-mason-ruder-0100"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-02523",
-          "date": "Undated",
-          "body": "Board member questions Hays USD 489 bond budget",
-          "sourceIds": [
-            "src-mason-ruder-0062"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-02524",
-          "date": "Undated",
-          "body": "Hays USD 489 board scrutinizes bond budget",
-          "sourceIds": [
-            "src-mason-ruder-0063"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-03864",
-          "date": "Undated",
-          "body": "In her 2023 candidate questionnaire (source), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providing them through the staff, the resources necessary to allow them to obtain quality educational opportunities.\" She framed her fiscal posture as taxpayer-facing: \"I will do my best at representing the taxpayer in being fiscally responsible in the district but also identifying smart growth.\" She characterized her view of the b...",
-          "sourceIds": [
-            "src-mason-ruder-0049"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-03866",
-          "date": "Undated",
-          "body": "On the March 2026 reconsideration of the proposed sale of 7.3 acres north of Felten Elementary, Ruder said, \"If we sit on the land, we get nothing,\" and \"I don't think we can just say no,\" urging the board to invite bidders to a meeting to discuss their projects further and referencing community-housing demand and potential residential-tax revenue (source). Across the captured Hays Post coverage, board-coverage articles consistently describe her vote alignment with the administration majority, alongside Ken Brooks...",
-          "sourceIds": [
-            "src-mason-ruder-0205"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-mason-ruder-0013",
@@ -309,9 +148,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candidate forum, he pointed to partnerships with business leaders, Grow Hays, and community institutions to grow the workforce and develop housing, while also making R... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-2023-results",
-          "src-mason-ruder-0103",
-          "src-mason-ruder-0104"
+          "s-hayspost-2023-results"
         ]
       },
       "actions": [
@@ -351,111 +188,33 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: ICE Bill Support -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-mason-ruder-0106",
-          "src-mason-ruder-0049",
-          "src-mason-ruder-0105",
-          "src-mason-ruder-0107"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-mason-ruder-00514",
-          "date": "Undated",
-          "body": "ICE Bill Support -- Hays Post",
-          "sourceIds": [
-            "src-mason-ruder-0106"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-mason-ruder-0001",
-          "platform": "hayspost.com",
-          "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0049"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public evidence: UM-1 — Youth Leadership Advisory Board creation. Ruder conceived the YLAB as his FHSU capstone project; the city formalized it. Board has 7 student members from Hays High and TMP-Marian, has presented to the commission, hosted mock elections, and run mental-health and fire-explorer projects. Sources: Hays Post (https://hayspost.com/posts/e141bbcd-d4c5-4a9d-83bc-996979742cb2), City of Hays YLAB page (https://www.hays... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-mason-ruder-0082",
-          "src-mason-ruder-0049",
-          "s-hayspost-mask-oct",
-          "src-mason-ruder-0110"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-mason-ruder-03001",
-          "date": "Undated",
-          "body": "UM-1 — Youth Leadership Advisory Board creation. Ruder conceived the YLAB as his FHSU capstone project; the city formalized it. Board has 7 student members from Hays High and TMP-Marian, has presented to the commission, hosted mock elections, and run mental-health and fire-explorer projects. Sources: Hays Post (https://hayspost.com/posts/e141bbcd-d4c5-4a9d-83bc-996979742cb2), City of Hays YLAB page (https://www.haysusa.com/871/Youth-Leadership-Advisory-Board). This is a civic-creation observation, not a policy-pos...",
-          "sourceIds": [
-            "src-mason-ruder-0082"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-03971",
-          "date": "Undated",
-          "body": "UM-1 — Youth Leadership Advisory Board creation. Ruder conceived the YLAB as his FHSU capstone project; the city formalized it. Board has 7 student members from Hays High and TMP-Marian, has presented to the commission, hosted mock elections, and run mental-health and fire-explorer projects. Sources: Hays Post (https://hayspost.com/posts/e141bbcd-d4c5-4a9d-83bc-996979742cb2), City of Hays YLAB page...",
-          "sourceIds": [
-            "src-mason-ruder-0082"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-mason-ruder-0001",
-          "platform": "hayspost.com",
-          "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0049"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate-stated evidence: UM-5 — AI / FHSU Hackathon framing (Mar 31, 2026). Ruder framed AI as a community-shaping choice and said communities \"that come out ahead will invest in people who care enough to build worthwhile things.\" Source: Hays Post / FHSU (https://hayspost.com/posts/559f8a20-030b-4d18-a708-67bffc879730). Forward-looking framing; not yet attached to a vote. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candidate forum, he pointed to partnerships with business leaders, Grow Hays, and community institutions to grow the workforce and develop housing, while also making R... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-mason-ruder-0162",
-          "src-mason-ruder-0100",
           "s-hayspost-2023-results",
-          "s-ksleg-hb2433",
-          "s-tigermedia-mayor-2026",
-          "s-ellis-election-results"
+          "s-tigermedia-mayor-2026"
         ]
       },
       "actions": [
-        {
-          "id": "em-mason-ruder-03005",
-          "date": "Undated",
-          "body": "UM-5 — AI / FHSU Hackathon framing (Mar 31, 2026). Ruder framed AI as a community-shaping choice and said communities \"that come out ahead will invest in people who care enough to build worthwhile things.\" Source: Hays Post / FHSU (https://hayspost.com/posts/559f8a20-030b-4d18-a708-67bffc879730). Forward-looking framing; not yet attached to a vote.",
-          "sourceIds": [
-            "src-mason-ruder-0162"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-03006",
-          "date": "Undated",
-          "body": "UM-6 — Vacant-land valuation / marijuana-tax remark (Dec 20, 2025). Ruder said Kansas' vacant-land valuation structure makes it cheaper to hold land than build and suggested marijuana tax revenue could offset property taxes. Source: Hays Post (https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9). State-level policy musing, not a city vote. Narrative-writer may pair with M-1/M-2 budget IssueCard at their discretion.",
-          "sourceIds": [
-            "src-mason-ruder-0100"
-          ]
-        },
         {
           "id": "em-mason-ruder-00003",
           "date": "Undated",
@@ -465,27 +224,11 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-mason-ruder-00091",
-          "date": "Undated",
-          "body": "https://www.kslegislature.gov/li/b2025_26/measures/HB2433/ — HB 2433 bill record (primary; official Kansas Legislature record)",
-          "sourceIds": [
-            "s-ksleg-hb2433"
-          ]
-        },
-        {
           "id": "em-mason-ruder-00136",
           "date": "Undated",
           "body": "https://tigermedianet.com/?p=93385 — Tiger Media Network (entire commission voted; second mayoral term)",
           "sourceIds": [
             "s-tigermedia-mayor-2026"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-00186",
-          "date": "Undated",
-          "body": "https://www.ellisco.net/435/Election-Results — Ellis County official election-results landing page (primary; references official-results PDF)",
-          "sourceIds": [
-            "s-ellis-election-results"
           ]
         }
       ],
@@ -536,39 +279,19 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Criminal Threat Sentencing -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Mason Ruder Elected Mayor -- Hays Daily News Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-mason-ruder-0117",
-          "src-mason-ruder-0118",
-          "src-mason-ruder-0122",
-          "s-kpa-911",
-          "src-mason-ruder-0011",
-          "src-mason-ruder-0054"
+          "src-mason-ruder-0123",
+          "s-kpa-911"
         ]
       },
       "actions": [
         {
-          "id": "em-mason-ruder-00597",
+          "id": "em-mason-ruder-00760",
           "date": "Undated",
-          "body": "Criminal Threat Sentencing -- Hays Post",
+          "body": "Mason Ruder Elected Mayor -- Hays Daily News",
           "sourceIds": [
-            "src-mason-ruder-0117"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-00598",
-          "date": "Undated",
-          "body": "Drug Death Case -- Salina Post",
-          "sourceIds": [
-            "src-mason-ruder-0118"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-00759",
-          "date": "Undated",
-          "body": "Motor Vehicle Fees -- Hays Post",
-          "sourceIds": [
-            "src-mason-ruder-0122"
+            "src-mason-ruder-0123"
           ]
         },
         {
@@ -577,22 +300,6 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           "body": "Mason Ruder 9/11 Speech -- Kansas Press Association",
           "sourceIds": [
             "s-kpa-911"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-00762",
-          "date": "Undated",
-          "body": "Ellis County Treasury Official Page",
-          "sourceIds": [
-            "src-mason-ruder-0011"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-00997",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-mason-ruder-0054"
           ]
         }
       ],
@@ -604,12 +311,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candidate forum, he pointed to partnerships with business leaders, Grow Hays, and community institutions to grow the workforce and develop housing, while also making R... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-2023-results",
-          "src-mason-ruder-0132",
-          "src-mason-ruder-0133",
-          "src-mason-ruder-0134",
-          "src-mason-ruder-0136",
-          "src-mason-ruder-0140"
+          "s-hayspost-2023-results"
         ]
       },
       "actions": [
@@ -619,46 +321,6 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           "body": "The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candidate forum, he pointed to partnerships with business leaders, Grow Hays, and community institutions to grow the workforce and develop housing, while also making R9 water completion a priority. Sources: Hays Post, Nov. 8, 2023, Hays Post, Oct. 18, 2023.",
           "sourceIds": [
             "s-hayspost-2023-results"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-01549",
-          "date": "Undated",
-          "body": "Municipal Water Leader Magazine",
-          "sourceIds": [
-            "src-mason-ruder-0132"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-01550",
-          "date": "Undated",
-          "body": "Issuu: Municipal Water Leader interview",
-          "sourceIds": [
-            "src-mason-ruder-0133"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-01551",
-          "date": "Undated",
-          "body": "E&E News/POLITICO: Farm vs. City water fight",
-          "sourceIds": [
-            "src-mason-ruder-0134"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-01553",
-          "date": "Undated",
-          "body": "Kansas Reflector: Supreme Court arguments",
-          "sourceIds": [
-            "src-mason-ruder-0136"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-01558",
-          "date": "Undated",
-          "body": "Hays Post: \"California of Kansas\" water conservation",
-          "sourceIds": [
-            "src-mason-ruder-0140"
           ]
         }
       ],
@@ -689,33 +351,16 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: In 2026, that growth message extended into affordable housing and workforce innovation. During consideration of IRB assistance for the 48-unit Pioneer Run project, Ruder said the developer's properties \"look great,\" are well run, and provide an affordable place to live. Ahead of an FHSU AI Hackathon, he framed AI as a local choice: communities can shape it or let it happen to them, and the places that come out ahead... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candidate forum, he pointed to partnerships with business leaders, Grow Hays, and community institutions to grow the workforce and develop housing, while also making R... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-tigermedia-pioneer-run",
-          "src-mason-ruder-0100",
           "s-hayspost-2023-results",
           "src-mason-ruder-0021",
-          "s-ksleg-hb2433",
-          "s-haysusa-agenda-04232026"
+          "s-ksleg-hb2433-testimony",
+          "s-ksleg-house-ruder-testimony",
+          "src-mason-ruder-0123"
         ]
       },
       "actions": [
-        {
-          "id": "em-mason-ruder-00006",
-          "date": "Undated",
-          "body": "In 2026, that growth message extended into affordable housing and workforce innovation. During consideration of IRB assistance for the 48-unit Pioneer Run project, Ruder said the developer's properties \"look great,\" are well run, and provide an affordable place to live. Ahead of an FHSU AI Hackathon, he framed AI as a local choice: communities can shape it or let it happen to them, and the places that come out ahead will invest in people who want to build something worthwhile. Sources: Tiger Media Network, Apr. 24...",
-          "sourceIds": [
-            "s-tigermedia-pioneer-run"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-03006",
-          "date": "Undated",
-          "body": "UM-6 — Vacant-land valuation / marijuana-tax remark (Dec 20, 2025). Ruder said Kansas' vacant-land valuation structure makes it cheaper to hold land than build and suggested marijuana tax revenue could offset property taxes. Source: Hays Post (https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9). State-level policy musing, not a city vote. Narrative-writer may pair with M-1/M-2 budget IssueCard at their discretion.",
-          "sourceIds": [
-            "src-mason-ruder-0100"
-          ]
-        },
         {
           "id": "em-mason-ruder-00003",
           "date": "Undated",
@@ -731,35 +376,9 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-mason-ruder-0021"
           ]
-        },
-        {
-          "id": "em-mason-ruder-00091",
-          "date": "Undated",
-          "body": "https://www.kslegislature.gov/li/b2025_26/measures/HB2433/ — HB 2433 bill record (primary; official Kansas Legislature record)",
-          "sourceIds": [
-            "s-ksleg-hb2433"
-          ]
-        },
-        {
-          "id": "em-mason-ruder-00110",
-          "date": "Undated",
-          "body": "https://haysusa.com/AgendaCenter/ViewFile/Agenda/_04232026-1609 — official agenda packet for the April 23, 2026 meeting (primary; official city meeting record)",
-          "sourceIds": [
-            "s-haysusa-agenda-04232026"
-          ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-mason-ruder-0001",
-          "platform": "hayspost.com",
-          "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-mason-ruder-0049"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
         {
           "id": "soc-mason-ruder-0010",
           "platform": "hayspost.com",
@@ -795,7 +414,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Mason Ruder is profiled here for Hays Mayor; Hays City Commissioner as a nonpartisan incumbent/current official. The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candida... Water security is his most consistent policy lane. Ruder has described the R9 Ranch project as an everyday governing priority and later as a \"multi-generational battle.\" In 2026, during the HB 2433 fight over county versus state water-transfer authority, he a... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 41 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. LGBT / gender / parental rights: In office, Ruder's quoted positions on operational questions cluster around two themes: a non-micromanagement posture toward administration and a priority-setting frame that flags time spent on non-academic... Education / curriculum / schools: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION — Ellis County official 2023 city/school general election results PDF (primary; image-scan, URL provenanc... Education / curriculum / schools: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION — 2023 official certified results PDF. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 8 source-backed actions across 5 of the 14 issue areas. Representative public-record entries include: Economy / jobs / labor: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We ha... Election integrity / voting / courts: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growi... Election integrity / voting / courts: https://tigermedianet.com/?p=93385 — Tiger Media Network (entire commission voted; second mayoral term). Public safety / law enforcement / criminal justice: Mason Ruder Elected Mayor -- Hays Daily News. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Ruder's Catholic affiliation is publicly documented in the existing record.\nHays Catholic Schools identified him with Immaculate Heart of Mary Parish,\nand his biography is tied to TMP-Marian and Hays Catholic Schools. This is\ndescriptive background only, not a grading category.",
   "campaignFinance": {
     "totalRaised": "Not itemized in public web records",
@@ -808,17 +427,61 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
   "socialResearchNote": "The public-facing social record is limited. Prior harvests found a LinkedIn\npublic preview and local institutional coverage, but no reliable\ncandidate-controlled campaign website, campaign Facebook page, public X,\nInstagram, TikTok, YouTube, Substack, or comparable campaign account.\nLogin-gated or ambiguous social material was not used as issue evidence.",
   "sources": [
     {
-      "id": "s-ksleg-hb2433",
+      "id": "s-ksleg-hb2433-testimony",
       "tier": "primary",
-      "url": "https://www.kslegislature.gov/li/b2025_26/measures/HB2433/",
-      "title": "HB 2433 Bill Record",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/HB2433/testimony",
+      "title": "HB 2433 Testimony Register",
       "publisher": "Kansas Legislature",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "HB 2433 was the Kansas bill carrying the water-transfer authority dispute involving Hays and Russell",
-        "The bill record is the official legislative anchor for Ruder's 2026 testimony",
-        "https://www.kslegislature.gov/li/b2025_26/measures/HB2433/ — HB 2433 bill record (primary; official Kansas Legislature record)",
-        "https://www.kslegislature.gov/li/b2025_26/measures/HB2433/ — HB 2433 bill record"
+        "Mason Ruder appeared on the HB 2433 testimony register as a proponent on January 28, 2026",
+        "Mason Ruder appeared on the HB 2433 testimony register as a proponent on February 26, 2026",
+        "| Legislative testimony | Found | Kansas Legislature materials list Mason Ruder, City of Hays mayor, as a proponent witness on HB 2433, with Hays Post/Kansas Reflector quoting his testimony on R9 water authority. Sources: [HB 2433 testimony listing](https://ks",
+        "Kansas Legislature HB 2433 testimony listing (https://kslegislature.gov/li/b2025_26/measures/HB2433/testimony) — PRIMARY",
+        "[Kansas Legislature - HB 2433 testimony listing](https://kslegislature.gov/li/b2025_26/measures/HB2433/testimony)",
+        "https://kslegislature.gov/li/b2025_26/measures/HB2433/testimony — HB 2433 testimony listing showing Ruder as proponent on 2026-01-28 (primary; official testimony register)",
+        "https://kslegislature.gov/li/b2025_26/measures/HB2433/testimony — testimony listing (primary)",
+        "https://kslegislature.gov/li/b2025_26/measures/HB2433/testimony — HB 2433 testimony register (Ruder listed 2026-01-28 and 2026-02-26)"
+      ]
+    },
+    {
+      "id": "s-ksleg-house-ruder-testimony",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_loc_govt_1/documents/testimony/20260128_05.pdf",
+      "title": "Mason Ruder HB 2433 House Committee Testimony",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Ruder submitted written testimony to the House Local Government Committee on January 28, 2026",
+        "The testimony argued that Edwards County zoning restrictions created a second regulatory process for the R9 Ranch transfer",
+        "https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_loc_govt_1/documents/testimony/20260128_05.pdf — Ruder's submitted testimony PDF (primary; image-scan but URL provenance is official)",
+        "https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_loc_govt_1/documents/testimony/20260128_05.pdf — Ruder House testimony PDF"
+      ]
+    },
+    {
+      "id": "s-ksleg-senate-ruder-testimony-1",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/committees/ctte_s_local_government_transparency_and_ethics_1/documents/testimony/20260226_16.pdf",
+      "title": "Mason Ruder HB 2433 Senate Committee Testimony 1",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Ruder submitted Senate committee testimony on HB 2433 on February 26, 2026",
+        "https://www.kslegislature.gov/li/b2025_26/committees/ctte_s_local_government_transparency_and_ethics_1/documents/testimony/20260226_16.pdf — Senate testimony PDF #1 (primary)",
+        "https://www.kslegislature.gov/li/b2025_26/committees/ctte_s_local_government_transparency_and_ethics_1/documents/testimony/20260226_16.pdf — Ruder Senate testimony PDF #1"
+      ]
+    },
+    {
+      "id": "s-ksleg-senate-ruder-testimony-2",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/committees/ctte_s_local_government_transparency_and_ethics_1/documents/testimony/20260226_24.pdf",
+      "title": "Mason Ruder HB 2433 Senate Committee Testimony 2",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "A second Ruder Senate testimony file is registered for the February 26, 2026 HB 2433 hearing",
+        "https://www.kslegislature.gov/li/b2025_26/committees/ctte_s_local_government_transparency_and_ethics_1/documents/testimony/20260226_24.pdf — Senate testimony PDF #2 (primary)",
+        "https://www.kslegislature.gov/li/b2025_26/committees/ctte_s_local_government_transparency_and_ethics_1/documents/testimony/20260226_24.pdf — Ruder Senate testimony PDF #2"
       ]
     },
     {
@@ -859,52 +522,15 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-haysusa-agenda-04232026",
+      "id": "s-haysusa-minutes-01082026",
       "tier": "primary",
-      "url": "https://haysusa.com/AgendaCenter/ViewFile/Agenda/_04232026-1609",
-      "title": "Hays City Commission Agenda Packet - April 23, 2026",
+      "url": "https://www.haysusa.com/AgendaCenter/ViewFile/Minutes/_01082026-1589",
+      "title": "Hays City Commission Reorganization Minutes - January 8, 2026",
       "publisher": "City of Hays",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "The April 23, 2026 agenda packet included the Pioneer Run affordable-housing IRB item",
-        "https://haysusa.com/AgendaCenter/ViewFile/Agenda/_04232026-1609 — official agenda packet for the April 23, 2026 meeting (primary; official city meeting record)",
-        "https://haysusa.com/AgendaCenter/ViewFile/Agenda/_04232026-1609 (Pioneer Run IRB)"
-      ]
-    },
-    {
-      "id": "s-tigermedia-pioneer-run",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=97002",
-      "title": "Hays commission approves Pioneer Run affordable-housing IRB",
-      "publisher": "Tiger Media Network",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "The Pioneer Run IRB passed 5-0",
-        "The IRB's construction sales-tax exemption was reported at $147,962.50",
-        "Ruder said the properties look great, are run well, and provide an affordable place to live",
-        "https://tigermedianet.com/?p=97002 — Tiger Media Network reporting (5-0 vote, $147,962.50 IRB value, verbatim Ruder quote)",
-        "In 2026, that growth message extended into affordable housing and workforce innovation. During consideration of IRB assistance for the 48-unit Pioneer Run project, Ruder said the developer's properties \"look great,\" are well run, and provide an affordable plac",
-        "https://tigermedianet.com/?p=97002 — Pioneer Run affordable housing",
-        "2026 affordable housing: Ruder said a longtime developer's properties look good, are well run, and provide an affordable place to live while the commission considered IRB assistance for a 48-unit Pioneer Run project. Source: [Tiger Media Network, Apr. 24, 2026",
-        "[Tiger Media Network - Pioneer Run affordable housing](https://tigermedianet.com/?p=97002)"
-      ]
-    },
-    {
-      "id": "s-hayspost-travel-plaza",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/6988fcbc-170e-42d1-9dbd-cb28e017baba",
-      "title": "Hays commission discusses I-70 24/7 Travel Plaza incentives",
-      "publisher": "Hays Post",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Ruder said the rate of return for Hays was almost 2,200 percent",
-        "Ruder framed the TIF and CID package as a good investment",
-        "The travel-plaza package involved a pay-as-you-go TIF and a CID sales-tax overlay",
-        "On development and taxes, Ruder's remarks are pro-growth but framed through fiscal mechanics. He backed incentives for an I-70 travel plaza after citing an estimated city return of almost 2,200%, and he argued that Kansas' vacant-land valuation structure makes",
-        "2026 travel plaza: Ruder called proposed incentives for the I-70 travel plaza a good investment and cited an estimated city rate of return of almost 2,200%. Source: [Hays Post, Feb. 21, 2026](https://hayspost.com/posts/6988fcbc-170e-42d1-9dbd-cb28e017baba).",
-        "https://hayspost.com/posts/6988fcbc-170e-42d1-9dbd-cb28e017baba — I-70 travel plaza incentives",
-        "[Hays Post - I-70 travel plaza incentives](https://hayspost.com/posts/6988fcbc-170e-42d1-9dbd-cb28e017baba)",
-        "https://hayspost.com/posts/6988fcbc-170e-42d1-9dbd-cb28e017baba — Hays Post 2026-02-21 (verbatim \"2,200%\" quote, \"good investment\" framing)"
+        "The commission selected Mason Ruder as mayor and Alaina Cunningham as vice-mayor",
+        "https://www.haysusa.com/AgendaCenter/ViewFile/Minutes/_01082026-1589 — Jan 8, 2026 reorganization minutes (primary)"
       ]
     },
     {
@@ -943,21 +569,6 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-hayspost-mask-oct",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/1a241ad5-d176-4494-9e9a-aa4a286f3bf4",
-      "title": "Hays extends mask ordinance after October 2020 special meeting",
-      "publisher": "Hays Post",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "The October 2, 2020 special-meeting extension passed 3-1",
-        "Ruder was the sole no vote; Mellick was absent",
-        "https://hayspost.com/posts/1a241ad5-d176-4494-9e9a-aa4a286f3bf4 — Hays Post update (3-1 vote, Ruder sole no, Mellick absent, COVID metrics expiration)",
-        "Hays Post: \"Special mask meeting\" (https://hayspost.com/posts/1a241ad5-d176-4494-9e9a-aa4a286f3bf4)",
-        "https://hayspost.com/posts/1a241ad5-d176-4494-9e9a-aa4a286f3bf4 — Special mask meeting"
-      ]
-    },
-    {
       "id": "s-hayspost-eas",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/2730c5cd-1026-4098-9e5f-ebf15c8fd949",
@@ -970,33 +581,6 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         "2025 airport funding: Ruder said replacing a federal Essential Air Service subsidy cut would require a mill levy increase from 25 to 44 mills. Source: [Hays Post, May 24, 2025](https://hayspost.com/posts/2730c5cd-1026-4098-9e5f-ebf15c8fd949).",
         "[Hays Post - Essential Air Service funding](https://hayspost.com/posts/2730c5cd-1026-4098-9e5f-ebf15c8fd949)",
         "Secondary: https://hayspost.com/posts/2730c5cd-1026-4098-9e5f-ebf15c8fd949"
-      ]
-    },
-    {
-      "id": "s-ellis-election-results",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/435/Election-Results",
-      "title": "Ellis County Election Results",
-      "publisher": "Ellis County, Kansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Ellis County publishes official city and school election results",
-        "https://www.ellisco.net/435/Election-Results — Ellis County official election-results landing page (primary; references official-results PDF)",
-        "https://www.ellisco.net/435/Election-Results — Election Results landing page"
-      ]
-    },
-    {
-      "id": "s-ellis-2023-results",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION",
-      "title": "Official Results - 2023 City/School General Election",
-      "publisher": "Ellis County, Kansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Ruder was re-elected to the Hays City Commission in the 2023 city/school general election",
-        "https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION — Ellis County official 2023 city/school general election results PDF (primary; image-scan, URL provenance is official)",
-        "https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION — 2023 official certified results PDF",
-        "\"url\": \"https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION\","
       ]
     },
     {
@@ -1025,53 +609,6 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-mason-ruder-0002",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0003",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0007",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/100/Register-of-Deeds",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)",
-        "[Ellis County Register of Deeds Official Page](https://www.ellisco.net/100/Register-of-Deeds)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0011",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/566/Treasury",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ellis County Treasury Official Page](https://www.ellisco.net/566/Treasury)",
-        "\"source\": \"Ellis County Treasury official page, accessed 2026-04-02, https://www.ellisco.net/566/Treasury\",",
-        "\"campaignWebsite\": \"https://www.ellisco.net/566/Treasury\","
-      ]
-    },
-    {
       "id": "src-mason-ruder-0021",
       "tier": "primary",
       "url": "https://www.haysusa.com/269/City-Commission",
@@ -1088,44 +625,6 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
         "\"campaignWebsite\": \"https://www.haysusa.com/269/City-Commission\",",
         "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from Dece",
         "https://www.haysusa.com/269/City-Commission — roster"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0049",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Trea",
-        "[Hays USD 489 School Board Candidate: Ruth Ruder](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)",
-        "[HaysPost: Ruth Ruder school board candidate](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)",
-        "In her 2023 candidate questionnaire ([source](https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a)), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providi",
-        "\"source\": \"Hays Post, 2023 candidate profile, https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a\","
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0050",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 board members question parental rights in emergency policy revision](https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0051",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/bc933c79-2f23-4279-8171-bc6dcf391cf0",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "In office, Ruder's quoted positions on operational questions cluster around two themes: a non-micromanagement posture toward administration and a priority-setting frame that flags time spent on non-academic issues. On school discipline she said, \"The board hir",
-        "[Hays USD 489 board squabbles over discipline policy](https://hayspost.com/posts/bc933c79-2f23-4279-8171-bc6dcf391cf0)"
       ]
     },
     {
@@ -1157,94 +656,6 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-mason-ruder-0054",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0055",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/4f225559-3a1c-4499-af0d-d0c7affa85a1",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 BOE candidate Ruth Ruder](https://hayspost.com/posts/4f225559-3a1c-4499-af0d-d0c7affa85a1)",
-        "[Hays USD 489 BOE Candidate: Ruth Ruder](https://hayspost.com/posts/4f225559-3a1c-4499-af0d-d0c7affa85a1)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0062",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Board member questions Hays USD 489 bond budget](https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0063",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 board scrutinizes bond budget](https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0082",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e141bbcd-d4c5-4a9d-83bc-996979742cb2",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "UM-1 — Youth Leadership Advisory Board creation. Ruder conceived the YLAB as his FHSU capstone project; the city formalized it. Board has 7 student members from Hays High and TMP-Marian, has presented to the commission, hosted mock elections, and run mental-he",
-        "\"observation\": \"UM-1 — Youth Leadership Advisory Board creation. Ruder conceived the YLAB as his FHSU capstone project; the city formalized it. Board has 7 student members from Hays High and TMP-Marian, has presented to the commission, hosted mock elections, a",
-        "[Hays Post: Youth Leadership Advisory Board](https://hayspost.com/posts/e141bbcd-d4c5-4a9d-83bc-996979742cb2)",
-        "https://hayspost.com/posts/e141bbcd-d4c5-4a9d-83bc-996979742cb2 — Youth Leadership Advisory Board",
-        "[HaysPost: Youth Leadership Advisory Board](https://hayspost.com/posts/e141bbcd-d4c5-4a9d-83bc-996979742cb2)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0083",
-      "tier": "secondary",
-      "url": "https://ksrods.com/contact-information/ellis-county-el-nc-district/",
-      "title": "Ksrods",
-      "publisher": "Ksrods",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Register of Deeds Association](https://ksrods.com/contact-information/ellis-county-el-nc-district/)",
-        "Listed on [Kansas Register of Deeds Association](https://ksrods.com/contact-information/ellis-county-el-nc-district/)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0084",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)",
-        "\"Faith and family have always provided a solid foundation.\" Source: Hays Catholic Schools, 2022-11-30, https://www.hfehays.org/o/hfe/article/923439, topic: faith and biography.",
-        "> -- Hays Catholic Schools, November 30, 2022, https://www.hfehays.org/o/hfe/article/923439",
-        "\"source\": \"Hays Catholic Schools, November 30, 2022, https://www.hfehays.org/o/hfe/article/923439\",",
-        "[Holy Family Elementary: Advancement Director announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
       "id": "src-mason-ruder-0100",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9",
@@ -1259,175 +670,55 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-mason-ruder-0103",
+      "id": "src-mason-ruder-0123",
       "tier": "secondary",
-      "url": "https://nwkeici.org/about/innovation-center-staff/",
-      "title": "Nwkeici",
-      "publisher": "Nwkeici",
+      "url": "https://www.hdnews.net/city-commissioners-sworn-in-ruder-elected-mayor-cunningham-vice-mayor/",
+      "title": "Hdnews",
+      "publisher": "Hdnews",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "UM-3 — Co-employment at NWKEICI (Business Services Specialist). Listed at https://nwkeici.org/about/innovation-center-staff/ as serving 26 rural counties on business/grant-writing assistance. Career fact, not a vote.",
-        "https://nwkeici.org/about/innovation-center-staff/ — NWKEICI staff page",
-        "[NWKEICI Staff Directory](https://nwkeici.org/about/innovation-center-staff/)"
+        "[Mason Ruder Elected Mayor -- Hays Daily News](https://www.hdnews.net/city-commissioners-sworn-in-ruder-elected-mayor-cunningham-vice-mayor/)",
+        "[HDN: Commissioners sworn in](https://www.hdnews.net/city-commissioners-sworn-in-ruder-elected-mayor-cunningham-vice-mayor/)",
+        "[Hays Daily News — swearing-in](https://www.hdnews.net/city-commissioners-sworn-in-ruder-elected-mayor-cunningham-vice-mayor/) — accessed 2026-03-30",
+        "https://www.hdnews.net/city-commissioners-sworn-in-ruder-elected-mayor-cunningham-vice-mayor/ — HDN mayor swearing-in",
+        "[HDN: City Commissioners sworn in](https://www.hdnews.net/city-commissioners-sworn-in-ruder-elected-mayor-cunningham-vice-mayor/)",
+        "https://www.hdnews.net/city-commissioners-sworn-in-ruder-elected-mayor-cunningham-vice-mayor/ — HDN"
       ]
     },
     {
-      "id": "src-mason-ruder-0104",
+      "id": "src-mason-ruder-0126",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/dc0fb523-b96d-42bb-b65a-55221db96969",
+      "url": "https://hayspost.com/posts/0187e996-15de-4377-95c2-cc428ed058e5",
       "title": "Hayspost",
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: Housing/business developments](https://hayspost.com/posts/dc0fb523-b96d-42bb-b65a-55221db96969)"
+        "[Hays Post: City Commission Candidate Mason Ruder](https://hayspost.com/posts/0187e996-15de-4377-95c2-cc428ed058e5)",
+        "[Hays City Commission Candidate: Mason Ruder](https://hayspost.com/posts/0187e996-15de-4377-95c2-cc428ed058e5)",
+        "[HaysPost: Hays City Commission candidate: Mason Ruder](https://hayspost.com/posts/0187e996-15de-4377-95c2-cc428ed058e5)"
       ]
     },
     {
-      "id": "src-mason-ruder-0105",
+      "id": "src-mason-ruder-0127",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "url": "http://tigermedianet.com/?p=93385",
+      "title": "Tigermedianet",
+      "publisher": "Tigermedianet",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ICE Agreement Explained -- Hays Post](https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6)"
+        "[Tiger Media Network: Ruder elected Mayor](http://tigermedianet.com/?p=93385)",
+        "[Tiger Media Net — Mason Ruder elected mayor](http://tigermedianet.com/?p=93385) — accessed 2026-03-31"
       ]
     },
     {
-      "id": "src-mason-ruder-0106",
+      "id": "src-mason-ruder-0129",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "url": "https://clustrmaps.com/person/Ruder-cofgeu",
+      "title": "Clustrmaps",
+      "publisher": "Clustrmaps",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ICE Bill Support -- Hays Post](https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0107",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0110",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0117",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Criminal Threat Sentencing -- Hays Post](https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0118",
-      "tier": "secondary",
-      "url": "https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3",
-      "title": "Salinapost",
-      "publisher": "Salinapost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Drug Death Case -- Salina Post](https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0122",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Motor Vehicle Fees -- Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494)",
-        "\"source\": \"Hays Post, 2023-11-20, https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494\","
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0132",
-      "tier": "secondary",
-      "url": "https://municipalwaterleader.com/guaranteeing-the-water-supply-of-hays-kansas-through-conservation-reuse-and-new-supplies/",
-      "title": "Municipalwaterleader",
-      "publisher": "Municipalwaterleader",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Municipal Water Leader Magazine](https://municipalwaterleader.com/guaranteeing-the-water-supply-of-hays-kansas-through-conservation-reuse-and-new-supplies/)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0133",
-      "tier": "secondary",
-      "url": "https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849",
-      "title": "Issuu",
-      "publisher": "Issuu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Issuu: Municipal Water Leader interview](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0134",
-      "tier": "secondary",
-      "url": "https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/",
-      "title": "Eenews",
-      "publisher": "Eenews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[E&E News/POLITICO: Farm vs. City water fight](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)",
-        "[E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0136",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/12/15/kansas-supreme-court-examines-roiling-water-dispute-between-crop-irrigators-and-hays-russell/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Supreme Court arguments](https://kansasreflector.com/2025/12/15/kansas-supreme-court-examines-roiling-water-dispute-between-crop-irrigators-and-hays-russell/)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0140",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/6003cad5-e6bf-4ab2-87a9-fd03d8a5750c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: \"California of Kansas\" water conservation](https://hayspost.com/posts/6003cad5-e6bf-4ab2-87a9-fd03d8a5750c)"
-      ]
-    },
-    {
-      "id": "src-mason-ruder-0162",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/559f8a20-030b-4d18-a708-67bffc879730",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "UM-5 — AI / FHSU Hackathon framing (Mar 31, 2026). Ruder framed AI as a community-shaping choice and said communities \"that come out ahead will invest in people who care enough to build worthwhile things.\" Source: Hays Post / FHSU (https://hayspost.com/posts/5",
-        "https://hayspost.com/posts/559f8a20-030b-4d18-a708-67bffc879730 — AI / FHSU Hackathon",
-        "2026 AI/workforce: Ruder said every community will face a choice about shaping AI or letting it happen to them, and that towns that come out ahead will invest in people who care enough to build worthwhile things. Source: [Hays Post/FHSU, Mar. 31, 2026](https:/",
-        "[Hays Post/FHSU - AI Hackathon](https://hayspost.com/posts/559f8a20-030b-4d18-a708-67bffc879730)"
+        "[ClustrMaps: Mason Ruder public records](https://clustrmaps.com/person/Ruder-cofgeu)"
       ]
     },
     {
@@ -1458,14 +749,18 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-mason-ruder-0205",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/13cbc154-8d45-445c-8557-acc25fb643e5",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "id": "src-mason-ruder-0208",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/mason-ruder-cpm-1aa36455",
+      "title": "Linkedin",
+      "publisher": "Linkedin",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "On the March 2026 reconsideration of the proposed sale of 7.3 acres north of Felten Elementary, Ruder said, \"If we sit on the land, we get nothing,\" and \"I don't think we can just say no,\" urging the board to invite bidders to a meeting to discuss their projec"
+        "| LinkedIn | Found, public preview only | Public search preview identifies [Mason Ruder, CPM](https://www.linkedin.com/in/mason-ruder-cpm-1aa36455), Hays, Kansas, with 151 followers and 131 connections. Previewed activity is dominated by likes/amplification, i",
+        "LinkedIn: [Mason Ruder, CPM](https://www.linkedin.com/in/mason-ruder-cpm-1aa36455)",
+        "[Mason Ruder, CPM](https://www.linkedin.com/in/mason-ruder-cpm-1aa36455)",
+        "https://www.linkedin.com/in/mason-ruder-cpm-1aa36455 — LinkedIn preview",
+        "[LinkedIn public profile preview - Mason Ruder, CPM](https://www.linkedin.com/in/mason-ruder-cpm-1aa36455)"
       ]
     }
   ]

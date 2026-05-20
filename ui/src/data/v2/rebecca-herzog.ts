@@ -39,54 +39,18 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-rebecca-herzog-0038",
-          "src-rebecca-herzog-0002",
-          "src-rebecca-herzog-0003",
-          "src-rebecca-herzog-0037",
-          "src-rebecca-herzog-0039"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-rebecca-herzog-00858",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-rebecca-herzog-0038"
-          ]
-        },
-        {
-          "id": "em-rebecca-herzog-01203",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-rebecca-herzog-0002"
-          ]
-        },
-        {
-          "id": "em-rebecca-herzog-01267",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-rebecca-herzog-0003"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-rebecca-herzog-0040",
-          "src-rebecca-herzog-0041",
-          "src-rebecca-herzog-0037",
-          "src-rebecca-herzog-0042"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -99,10 +63,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-ellis-register-page",
           "src-rebecca-herzog-0008",
-          "s-ks-leg-19-1202",
-          "s-ellis-fee-schedule",
-          "s-ellis-2025-budget-book",
-          "src-rebecca-herzog-0047"
+          "s-ellis-2025-budget-book"
         ]
       },
       "actions": [
@@ -149,33 +110,18 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: ICE Bill Support -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-rebecca-herzog-0051",
-          "src-rebecca-herzog-0050",
-          "src-rebecca-herzog-0052"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-rebecca-herzog-00374",
-          "date": "Undated",
-          "body": "ICE Bill Support -- Hays Post",
-          "sourceIds": [
-            "src-rebecca-herzog-0051"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: KSHB: Former Kansas governor volunteers on medical mission in Ukraine Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-rebecca-herzog-0054"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -188,9 +134,9 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-ellis-register-page",
           "s-tiger-2020-voter-guide",
-          "s-ks-leg-19-1201",
           "s-ellis-2024-official-results",
-          "s-ellis-2026-filings-pdf"
+          "s-kansas-campaign-finance-portal",
+          "s-hayspost-2024-election-night"
         ]
       },
       "actions": [
@@ -219,14 +165,6 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-rebecca-herzog-00028",
-          "date": "Undated",
-          "body": "K.S.A. 19-1201, Register of deeds election/term/bond - https://www.kslegislature.gov/li/b2025_26/statute/019_000_0000_chapter/019_012_0000_article/019_012_0001_section/019_012_0001_k/",
-          "sourceIds": [
-            "s-ks-leg-19-1201"
-          ]
-        },
-        {
           "id": "em-rebecca-herzog-00052",
           "date": "Undated",
           "body": "Ellis County official 2024 general election results PDF - https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results",
@@ -235,11 +173,19 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-rebecca-herzog-00054",
+          "id": "em-rebecca-herzog-00060",
           "date": "Undated",
-          "body": "Ellis County 2026 Primary Candidate Filings PDF - https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings",
+          "body": "Kansas campaign-finance data portal - https://www.kansas.gov/campaign-finance/",
           "sourceIds": [
-            "s-ellis-2026-filings-pdf"
+            "s-kansas-campaign-finance-portal"
+          ]
+        },
+        {
+          "id": "em-rebecca-herzog-00074",
+          "date": "Undated",
+          "body": "Hays Post 2024 election-night results - https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
+          "sourceIds": [
+            "s-hayspost-2024-election-night"
           ]
         }
       ],
@@ -263,10 +209,6 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Ellis County Register of Deeds Official Page Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ellis-register-page",
-          "src-rebecca-herzog-0058",
-          "src-rebecca-herzog-0059",
-          "src-rebecca-herzog-0060",
-          "src-rebecca-herzog-0013",
           "src-rebecca-herzog-0062"
         ]
       },
@@ -280,41 +222,25 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-rebecca-herzog-00457",
-          "date": "Undated",
-          "body": "Criminal Threat Sentencing -- Hays Post",
-          "sourceIds": [
-            "src-rebecca-herzog-0058"
-          ]
-        },
-        {
-          "id": "em-rebecca-herzog-00458",
-          "date": "Undated",
-          "body": "Drug Death Case -- Salina Post",
-          "sourceIds": [
-            "src-rebecca-herzog-0059"
-          ]
-        },
-        {
-          "id": "em-rebecca-herzog-00539",
-          "date": "Undated",
-          "body": "Campus Polling Disagreement -- Hays Post",
-          "sourceIds": [
-            "src-rebecca-herzog-0060"
-          ]
-        },
-        {
-          "id": "em-rebecca-herzog-00543",
-          "date": "Undated",
-          "body": "Ellis County Clerk Official Page",
-          "sourceIds": [
-            "src-rebecca-herzog-0013"
-          ]
-        },
-        {
           "id": "em-rebecca-herzog-00561",
           "date": "Undated",
           "body": "Listed on Kansas Register of Deeds Association",
+          "sourceIds": [
+            "src-rebecca-herzog-0062"
+          ]
+        },
+        {
+          "id": "em-rebecca-herzog-00563",
+          "date": "Undated",
+          "body": "Ellis County Register of Deeds",
+          "sourceIds": [
+            "s-ellis-register-page"
+          ]
+        },
+        {
+          "id": "em-rebecca-herzog-00564",
+          "date": "Undated",
+          "body": "Kansas Register of Deeds Association",
           "sourceIds": [
             "src-rebecca-herzog-0062"
           ]
@@ -326,12 +252,8 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: USDA: KS State Director announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-rebecca-herzog-0019",
-          "src-rebecca-herzog-0085",
-          "src-rebecca-herzog-0087"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -460,44 +382,33 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-ks-leg-19-1201",
+      "id": "s-ellis-staff-directory",
       "tier": "primary",
-      "url": "https://www.kslegislature.gov/li/b2025_26/statute/019_000_0000_chapter/019_012_0000_article/019_012_0001_section/019_012_0001_k/",
-      "title": "K.S.A. 19-1201 - Register of deeds; election, term, bond",
-      "publisher": "Kansas Legislature",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "County registers of deeds are elected for four-year terms",
-        "Register of deeds must execute an official bond before taking office",
-        "K.S.A. 19-1201, Register of deeds election/term/bond - https://www.kslegislature.gov/li/b2025_26/statute/019_000_0000_chapter/019_012_0000_article/019_012_0001_section/019_012_0001_k/"
-      ]
-    },
-    {
-      "id": "s-ks-leg-19-1202",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li/b2025_26/statute/019_000_0000_chapter/019_012_0000_article/019_012_0002_section/019_012_0002_k/",
-      "title": "K.S.A. 19-1202 - Deputy registers of deeds; duties; meetings and seminars; budget; limitation of personnel action",
-      "publisher": "Kansas Legislature",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "The register may appoint deputies and assistants and supervises their duties",
-        "The register submits the office budget to county commissioners for approval",
-        "Personnel actions are subject to county personnel policies, pay plans, agreements, civil service systems, and budget limits",
-        "K.S.A. 19-1202, Deputy registers of deeds; budget/personnel - https://www.kslegislature.gov/li/b2025_26/statute/019_000_0000_chapter/019_012_0000_article/019_012_0002_section/019_012_0002_k/"
-      ]
-    },
-    {
-      "id": "s-ellis-fee-schedule",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/153/Fee-Schedule",
-      "title": "Fee Schedule",
+      "url": "https://www.ellisco.net/Directory.aspx?did=7",
+      "title": "Staff Directory - Register of Deeds",
       "publisher": "Ellis County, Kansas",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "Register of Deeds services are fee-based",
-        "Fees are set by state statute",
-        "Income is deposited into the county general fund and administered by county commissioners",
-        "Ellis County Fee Schedule page - https://www.ellisco.net/153/Fee-Schedule"
+        "Staff directory lists Herzog, Rebecca as Registrar",
+        "Register of Deeds department phone is 785-628-9450",
+        "Ellis County staff directory, Register of Deeds department - https://www.ellisco.net/Directory.aspx?did=7",
+        "Ellis County staff directory: primary source listing Herzog as Registrar. URL: https://www.ellisco.net/Directory.aspx?did=7 and https://www.ellisco.net/directory.aspx?eid=21",
+        "| Official county staff directory | Yes | [Register of Deeds staff directory](https://www.ellisco.net/Directory.aspx?did=7) | County staff page lists \"Herzog, Rebecca\" as registrar with the office phone number. |",
+        "| Professional/directory metadata | 3 | [County staff directory](https://www.ellisco.net/Directory.aspx?did=7), [KRDA listing](https://ksrods.com/contact-information/ellis-county-el-nc-district/), [LKM profile](https://www.lkm.org/members/?id=41503078) |",
+        "[Ellis County Register of Deeds staff directory](https://www.ellisco.net/Directory.aspx?did=7)"
+      ]
+    },
+    {
+      "id": "s-ellis-staff-entry",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/directory.aspx?eid=21",
+      "title": "Staff Directory - Rebecca Herzog",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Rebecca Herzog is listed under Register of Deeds with title Registrar",
+        "Entry lists 718 Main St., Hays, KS 67601 and phone/fax information",
+        "Ellis County staff directory, Rebecca Herzog entry - https://www.ellisco.net/directory.aspx?eid=21"
       ]
     },
     {
@@ -518,6 +429,51 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-ellis-minutes-2025-07-21",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07212025-686",
+      "title": "Ellis County Commission Minutes - July 21, 2025",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Herzog presented a $299,142 proposed Register of Deeds budget",
+        "Minutes say the only increased item was salaries",
+        "Minutes say revenue was expected to stay stable",
+        "Minutes say Herzog may hire someone mid-year",
+        "Minutes say she reviewed the tech fund and had helped other offices",
+        "Ellis County Commission minutes, July 21, 2025 - https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07212025-686",
+        "\"url\": \"https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07212025-686\","
+      ]
+    },
+    {
+      "id": "s-ellis-minutes-2022-07-28",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07282022-487",
+      "title": "Ellis County Commission Minutes - July 28, 2022",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Herzog presented the Register of Deeds proposed budget",
+        "Minutes say the office collected $2 per recorded document for a technology fund",
+        "Minutes say Herzog believed the total fund was about $158,000",
+        "Minutes say funds above the required office reserve could help other offices with technology or storage",
+        "Minutes say Herzog planned a storage-room renovation and said multi-factor authentication fit the tech-fund guidelines",
+        "Ellis County Commission minutes, July 28, 2022 - https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07282022-487"
+      ]
+    },
+    {
+      "id": "s-ellis-minutes-2017-06-29",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_06292017-75",
+      "title": "Ellis County Commission Minutes - June 29, 2017",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Herzog presented a 2018 Register of Deeds budget request",
+        "Minutes show Herzog in the office record well before the 2024 election"
+      ]
+    },
+    {
       "id": "s-ellis-2024-official-results",
       "tier": "primary",
       "url": "https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results",
@@ -533,17 +489,44 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-ellis-2026-filings-pdf",
+      "id": "s-kansas-campaign-finance-portal",
       "tier": "primary",
-      "url": "https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings",
-      "title": "2026 Primary Candidate Filings",
-      "publisher": "Ellis County Clerk / Ellis County, Kansas",
+      "url": "https://www.kansas.gov/campaign-finance/",
+      "title": "Campaign Finance Data",
+      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
       "accessed": "2026-05-19",
       "claimsAnchored": [
-        "2026 filing PDF lists Commission District 1, township clerk offices, Ellis City Council, and precinct committee offices",
-        "Register of Deeds is not listed as a 2026 candidate office",
-        "Ellis County 2026 Primary Candidate Filings PDF - https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings",
-        "\"url\": \"https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings\","
+        "Visible public search categories are House, Senate, statewide races, and Board of Education",
+        "No online donor ledger for Herzog's county Register of Deeds race was verified in this pass",
+        "Kansas campaign-finance data portal - https://www.kansas.gov/campaign-finance/"
+      ]
+    },
+    {
+      "id": "s-krda-ellis",
+      "tier": "secondary",
+      "url": "https://ksrods.com/contact-information/ellis-county-elnc-district/",
+      "title": "Ellis County (EL) NC District",
+      "publisher": "Kansas Register of Deeds Association",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "KRDA lists Rebecca Herzog for Ellis County",
+        "KRDA lists bdeed@ellisco.net and 785-628-9450",
+        "KRDA listing appears to use Hays ZIP 67901, which conflicts with official county pages using 67601",
+        "Kansas Register of Deeds Association, Ellis County listing - https://ksrods.com/contact-information/ellis-county-elnc-district/"
+      ]
+    },
+    {
+      "id": "s-lkm-herzog",
+      "tier": "secondary",
+      "url": "https://www.lkm.org/members/?id=41503078",
+      "title": "Rebecca Herzog, Register of Deeds, Ellis County",
+      "publisher": "League of Kansas Municipalities",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "LKM profile preview identifies Rebecca Herzog as Register of Deeds, Ellis County",
+        "Preview lists last updated May 28, 2024",
+        "| League of Kansas Municipalities profile | Yes, limited | [Rebecca Herzog, Register of Deeds, Ellis County](https://www.lkm.org/members/?id=41503078) | Public preview identifies her as Ellis County register of deeds and was last updated May 28, 2024. Direct p",
+        "League of Kansas Municipalities profile preview - https://www.lkm.org/members/?id=41503078"
       ]
     },
     {
@@ -561,6 +544,20 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
         "Tiger Media Network 2020 Ellis County Voter Guide - https://tigermedianet.com/?p=56543",
         "| Incumbency/election status | 3 | [2020 voter guide](https://tigermedianet.com/?p=56543), [2021 swearing-in story](https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44), [2024 results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
         "| 2020 voter guide | Yes | [Tiger Media Network 2020 Ellis County Voter Guide](https://tigermedianet.com/?p=56543) | Identified Herzog as the incumbent Republican candidate for register of deeds running unopposed. Its description of register duties appears imp"
+      ]
+    },
+    {
+      "id": "s-hayspost-2021-swearing-in",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44",
+      "title": "Ellis County elected officials sworn in Monday",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Hays Post captioned Herzog as Register of Deeds sworn in for another term in January 2021",
+        "Hays Post, Ellis County elected officials sworn in Monday - https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44",
+        "| Hays Post swearing-in coverage | Yes | [Ellis County elected officials sworn in Monday](https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44) | January 12, 2021 story/captions say Register of Deeds Rebecca Herzog was sworn in for another term, con",
+        "[Hays Post 2021 swearing-in coverage](https://hayspost.com/posts/3278d618-1e26-4ad5-8ceb-e19b22b25a44)"
       ]
     },
     {
@@ -583,28 +580,6 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-rebecca-herzog-0002",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0003",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
       "id": "src-rebecca-herzog-0008",
       "tier": "primary",
       "url": "https://www.ellisco.net/DocumentCenter/View/5647/2025-Budget-Book_Departmental-Budgets",
@@ -618,181 +593,15 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-rebecca-herzog-0013",
+      "id": "src-rebecca-herzog-0036",
       "tier": "primary",
-      "url": "https://www.ellisco.net/93/Clerk",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
+      "url": "https://www.moran.senate.gov/public/index.cfm/newsletter?ID=F96989E1-3720-4D57-8473-4A49DB061BDE",
+      "title": "Moran.Senate",
+      "publisher": "Moran.Senate",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Ellis County Clerk Official Page](https://www.ellisco.net/93/Clerk)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0019",
-      "tier": "primary",
-      "url": "https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas",
-      "title": "Rd.Usda",
-      "publisher": "Rd.Usda",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0037",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0038",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0039",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Hays USD 489 Elections](https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0040",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0041",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0042",
-      "tier": "secondary",
-      "url": "https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/",
-      "title": "Au",
-      "publisher": "Au",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Americans United: National Prayer Breakfast](https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0047",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0050",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ICE Agreement Explained -- Hays Post](https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0051",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ICE Bill Support -- Hays Post](https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0052",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0054",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0058",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Criminal Threat Sentencing -- Hays Post](https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0059",
-      "tier": "secondary",
-      "url": "https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3",
-      "title": "Salinapost",
-      "publisher": "Salinapost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Drug Death Case -- Salina Post](https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0060",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/1ff3108c-562d-421d-9200-395f040c2103",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Campus Polling Disagreement -- Hays Post](https://hayspost.com/posts/1ff3108c-562d-421d-9200-395f040c2103)",
-        "[Hays Post: Candidates disagree on campus polling](https://hayspost.com/posts/1ff3108c-562d-421d-9200-395f040c2103)"
+        "| Federal official/public visit mention | Yes, limited | [Sen. Jerry Moran newsletter, Jan. 2016](https://www.moran.senate.gov/public/index.cfm/newsletter?ID=F96989E1-3720-4D57-8473-4A49DB061BDE) | Mentions Ellis County Register of Deeds Registrar Rebecca Herz",
+        "[Sen. Jerry Moran newsletter mentioning Ellis County officials](https://www.moran.senate.gov/public/index.cfm/newsletter?ID=F96989E1-3720-4D57-8473-4A49DB061BDE)"
       ]
     },
     {
@@ -808,28 +617,6 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
         "Professional-directory material reinforces the same narrow office identity. The [Kansas Register of Deeds Association listing](https://ksrods.com/contact-information/ellis-county-el-nc-district/) names Rebecca Herzog for Ellis County and points users back to t",
         "| Kansas Register of Deeds Association | Yes | [Ellis County KRDA listing](https://ksrods.com/contact-information/ellis-county-el-nc-district/) | Professional association listing names Rebecca Herzog for Ellis County and gives office contact information and th",
         "[Kansas Register of Deeds Association, Ellis County](https://ksrods.com/contact-information/ellis-county-el-nc-district/)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0085",
-      "tier": "secondary",
-      "url": "https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849",
-      "title": "Issuu",
-      "publisher": "Issuu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)"
-      ]
-    },
-    {
-      "id": "src-rebecca-herzog-0087",
-      "tier": "secondary",
-      "url": "https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/",
-      "title": "Eenews",
-      "publisher": "Eenews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)"
       ]
     }
   ]

@@ -65,10 +65,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-priorities",
-          "s-campaign-about",
-          "src-cindy-holscher-0031",
-          "src-cindy-holscher-0030"
+          "s-campaign-priorities"
         ]
       },
       "actions": [
@@ -78,30 +75,6 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
           "body": "Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent (harvest). Her campaign priorities page say...",
           "sourceIds": [
             "s-campaign-priorities"
-          ]
-        },
-        {
-          "id": "em-cindy-holscher-00005",
-          "date": "Undated",
-          "body": "Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus (source). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam and a transfer of wealth from working-class taxpayers to richer families (source). A December 16, 202...",
-          "sourceIds": [
-            "s-campaign-about"
-          ]
-        },
-        {
-          "id": "em-cindy-holscher-00230",
-          "date": "2026-04-01",
-          "body": "I walked with a group of education advocates from Shawnee to Topeka twice - campaign about page, 2026-04-01, cindyforkansas.com/about - topic: school-funding activism.",
-          "sourceIds": [
-            "s-campaign-about"
-          ]
-        },
-        {
-          "id": "em-cindy-holscher-00445",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-cindy-holscher-0031"
           ]
         }
       ],
@@ -113,26 +86,6 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-campaign-priorities"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-cindy-holscher-0003",
-          "platform": "Bluesky",
-          "observation": "Holscher's public biography is anchored in public schools, a working-class family story, and the Brownback-era fight over Kansas finances. Her campaign about page describes her as the daughter of a union construction worker and an elementary school custodian, raised on a farm, a first-generation college graduate, and the mother of three Kansas public-school graduates (source). On Bluesky, she wrote on November 19, 2...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-cindy-holscher-0004",
-          "platform": "Bluesky",
-          "observation": "Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus (source). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam a...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         },
@@ -154,10 +107,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Reviewed evidence: The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics (harvest). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to rep... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kmuw-corecivic-forum",
-          "src-cindy-holscher-0035",
-          "src-cindy-holscher-0036",
-          "src-cindy-holscher-0030"
+          "s-kmuw-corecivic-forum"
         ]
       },
       "actions": [],
@@ -181,8 +131,6 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-priorities",
-          "s-campaign-about",
-          "src-cindy-holscher-0045",
           "s-kmuw-corecivic-forum"
         ]
       },
@@ -193,22 +141,6 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
           "body": "Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent (harvest). Her campaign priorities page say...",
           "sourceIds": [
             "s-campaign-priorities"
-          ]
-        },
-        {
-          "id": "em-cindy-holscher-00005",
-          "date": "Undated",
-          "body": "Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus (source). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam and a transfer of wealth from working-class taxpayers to richer families (source). A December 16, 202...",
-          "sourceIds": [
-            "s-campaign-about"
-          ]
-        },
-        {
-          "id": "em-cindy-holscher-01606",
-          "date": "Undated",
-          "body": "Brennan Center: Wisconsin Supreme Court spending record",
-          "sourceIds": [
-            "src-cindy-holscher-0045"
           ]
         }
       ],
@@ -234,22 +166,22 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-taxes-spending-debt"
         },
         {
-          "id": "soc-cindy-holscher-0004",
-          "platform": "Bluesky",
-          "observation": "Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus (source). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam a...",
+          "id": "soc-cindy-holscher-0026",
+          "platform": "cindyforkansas.com",
+          "observation": "The priorities page lists a \"Common Sense & Lower Costs\" agenda: lowering healthcare, childcare, grocery, and gas costs; minimum wage; paid sick time; property-tax relief; Medicaid expansion; free school lunches; tax exemptions for essential products; special-education funding; housing security; medical marijuana; independent redistricting; term limits; and limits on corporate PAC money.",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-about"
+            "s-campaign-priorities"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
         },
         {
-          "id": "soc-cindy-holscher-0025",
-          "platform": "cindyforkansas.com",
-          "observation": "The about page emphasizes a working-class biography: daughter of a union construction worker and an elementary school custodian, raised on a farm, first-generation college graduate, wife and mother of three Kansas public-school graduates, and former House member who helped reverse the Brownback tax experiment.",
+          "id": "soc-cindy-holscher-0031",
+          "platform": "Bluesky",
+          "observation": "Holscher also uses her social feed to argue that federal decisions are raising Kansas costs. Healthcare posts include ACA subsidies, Medicaid expansion, rural hospitals, disability services, mental health, vaccine policy, and health-agency decisions. On September 25, 2025, she posted that if Congress did not restore affordable-care tax credits, more than 100,000 Kansans would lose healthcare (source). On January 8,...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-about"
+            "src-cindy-holscher-0129"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
         }
@@ -262,9 +194,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-priorities",
-          "s-kmuw-corecivic-forum",
-          "src-cindy-holscher-0048",
-          "s-campaign-about"
+          "s-kmuw-corecivic-forum"
         ]
       },
       "actions": [
@@ -283,14 +213,6 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-kmuw-corecivic-forum"
           ]
-        },
-        {
-          "id": "em-cindy-holscher-00255",
-          "date": "2026-04-01",
-          "body": "cost of living is too high - campaign/legislative framing, 2026-04-01, https://cindyforkansas.com/ - topic: affordability.",
-          "sourceIds": [
-            "src-cindy-holscher-0048"
-          ]
         }
       ],
       "socialSignals": [
@@ -315,19 +237,19 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-cindy-holscher-0003",
-          "platform": "Bluesky",
-          "observation": "Holscher's public biography is anchored in public schools, a working-class family story, and the Brownback-era fight over Kansas finances. Her campaign about page describes her as the daughter of a union construction worker and an elementary school custodian, raised on a farm, a first-generation college graduate, and the mother of three Kansas public-school graduates (source). On Bluesky, she wrote on November 19, 2...",
+          "id": "soc-cindy-holscher-0006",
+          "platform": "kmuw.org",
+          "observation": "Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record of winning Republican-held legislative districts (source). In that same coverage, she responded to Ethan Corson's endorsements by saying she was running on her...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-about"
+            "s-kmuw-corecivic-forum"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         },
         {
-          "id": "soc-cindy-holscher-0006",
+          "id": "soc-cindy-holscher-0012",
           "platform": "kmuw.org",
-          "observation": "Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record of winning Republican-held legislative districts (source). In that same coverage, she responded to Ethan Corson's endorsements by saying she was running on her...",
+          "observation": "KMUW / Kansas Reflector coverage of an April 26, 2026 forum reported that Holscher cast herself as the anti-establishment Democrat, criticized Republican \"culture war\" bills, attacked CoreCivic-linked donations to her opponent, said she had never taken CoreCivic money and never would, supported making voting easier and reproductive health care access, and described a coalition of nurses, teachers, neighbors, farmers...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-kmuw-corecivic-forum"
@@ -363,22 +285,12 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: CNN: 8 states vote to bar noncitizen voting Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics (harvest). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to rep... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-cindy-holscher-0049",
           "s-kmuw-corecivic-forum"
         ]
       },
-      "actions": [
-        {
-          "id": "em-cindy-holscher-01615",
-          "date": "Undated",
-          "body": "CNN: 8 states vote to bar noncitizen voting",
-          "sourceIds": [
-            "src-cindy-holscher-0049"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
         {
           "id": "soc-cindy-holscher-0001",
@@ -420,8 +332,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-campaign-priorities",
           "s-kansas-reflector-debate",
-          "s-kmuw-corecivic-forum",
-          "src-cindy-holscher-0051"
+          "s-kmuw-corecivic-forum"
         ]
       },
       "actions": [
@@ -505,25 +416,13 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus (source). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam a... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record of winning Republican-held legislative districts (source). In that same coverage, she responded to Ethan Corson's endorsements by saying she was running on her... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-about",
           "s-kmuw-corecivic-forum",
-          "src-cindy-holscher-0042",
-          "s-ksleg-hb2479-rollcall",
-          "src-cindy-holscher-0080",
-          "src-cindy-holscher-0081"
+          "s-ksleg-hb2479-rollcall"
         ]
       },
       "actions": [
-        {
-          "id": "em-cindy-holscher-00005",
-          "date": "Undated",
-          "body": "Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus (source). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam and a transfer of wealth from working-class taxpayers to richer families (source). A December 16, 202...",
-          "sourceIds": [
-            "s-campaign-about"
-          ]
-        },
         {
           "id": "em-cindy-holscher-00008",
           "date": "Undated",
@@ -534,16 +433,6 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-cindy-holscher-0004",
-          "platform": "Bluesky",
-          "observation": "Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus (source). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam a...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
         {
           "id": "soc-cindy-holscher-0006",
           "platform": "kmuw.org",
@@ -573,6 +462,16 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
             "s-kmuw-corecivic-forum"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
+        },
+        {
+          "id": "soc-cindy-holscher-0041",
+          "platform": "cindyforkansas.com",
+          "observation": "Campaign news page: cindyforkansas.com/news -- active; visible releases through April 29, 2026, including voting-rights, CoreCivic, legislative-session, cell-phone-ban, ICE detention, Chiefs stadium, lower-costs agenda, polling, health-care, and redistricting items.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-news"
+          ],
+          "mappedToIssueId": "i-election-integrity-voting-courts"
         }
       ]
     },
@@ -580,65 +479,10 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01CH_AT.pdf Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-kpdc-treasurer",
-          "s-kpdc-202601",
-          "s-kpdc-statewide-2026",
-          "src-cindy-holscher-0031",
-          "src-cindy-holscher-0079"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-cindy-holscher-00204",
-          "date": "Undated",
-          "body": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01CH_AT.pdf",
-          "sourceIds": [
-            "s-kpdc-treasurer"
-          ]
-        },
-        {
-          "id": "em-cindy-holscher-00225",
-          "date": "Undated",
-          "body": "Kansas Ethics filing: SW01CH_202601.pdf",
-          "sourceIds": [
-            "s-kpdc-202601"
-          ]
-        },
-        {
-          "id": "em-cindy-holscher-00258",
-          "date": "Undated",
-          "body": "Kansas Ethics filing index: SWLinks2026EC",
-          "sourceIds": [
-            "s-kpdc-statewide-2026"
-          ]
-        },
-        {
-          "id": "em-cindy-holscher-00259",
-          "date": "Undated",
-          "body": "2026 filing PDF: SW01CH_202601.pdf",
-          "sourceIds": [
-            "s-kpdc-202601"
-          ]
-        },
-        {
-          "id": "em-cindy-holscher-00445",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-cindy-holscher-0031"
-          ]
-        },
-        {
-          "id": "em-cindy-holscher-01326",
-          "date": "Undated",
-          "body": "Ballotpedia: Supreme Court Justices Amendment)",
-          "sourceIds": [
-            "src-cindy-holscher-0079"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -649,8 +493,8 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-campaign-priorities",
           "s-kansas-reflector-debate",
-          "s-campaign-about",
-          "s-kmuw-corecivic-forum"
+          "s-kmuw-corecivic-forum",
+          "src-cindy-holscher-0103"
         ]
       },
       "actions": [
@@ -709,22 +553,22 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
         {
-          "id": "soc-cindy-holscher-0003",
+          "id": "soc-cindy-holscher-0031",
           "platform": "Bluesky",
-          "observation": "Holscher's public biography is anchored in public schools, a working-class family story, and the Brownback-era fight over Kansas finances. Her campaign about page describes her as the daughter of a union construction worker and an elementary school custodian, raised on a farm, a first-generation college graduate, and the mother of three Kansas public-school graduates (source). On Bluesky, she wrote on November 19, 2...",
+          "observation": "Holscher also uses her social feed to argue that federal decisions are raising Kansas costs. Healthcare posts include ACA subsidies, Medicaid expansion, rural hospitals, disability services, mental health, vaccine policy, and health-agency decisions. On September 25, 2025, she posted that if Congress did not restore affordable-care tax credits, more than 100,000 Kansans would lose healthcare (source). On January 8,...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-about"
+            "src-cindy-holscher-0129"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
         {
-          "id": "soc-cindy-holscher-0025",
-          "platform": "cindyforkansas.com",
-          "observation": "The about page emphasizes a working-class biography: daughter of a union construction worker and an elementary school custodian, raised on a farm, first-generation college graduate, wife and mother of three Kansas public-school graduates, and former House member who helped reverse the Brownback tax experiment.",
+          "id": "soc-cindy-holscher-0033",
+          "platform": "kansasreflector.com",
+          "observation": "Kansas Reflector coverage of a March 8, 2026 Democratic debate described the field emphasizing affordability, health care, and rural Kansas; the existing candidate file quotes Holscher warning about cuts to Medicaid, Social Security, and ACA tax credits (source).",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-about"
+            "s-kansas-reflector-debate"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         }
@@ -737,9 +581,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
         "text": "Documented public evidence: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-priorities",
-          "s-campaign-about",
-          "s-kmuw-corecivic-forum",
-          "src-cindy-holscher-0112"
+          "s-kmuw-corecivic-forum"
         ]
       },
       "actions": [
@@ -749,14 +591,6 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
           "body": "Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public education accounted for another 77 posts, also 18 percent (harvest). Her campaign priorities page say...",
           "sourceIds": [
             "s-campaign-priorities"
-          ]
-        },
-        {
-          "id": "em-cindy-holscher-00005",
-          "date": "Undated",
-          "body": "Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus (source). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam and a transfer of wealth from working-class taxpayers to richer families (source). A December 16, 202...",
-          "sourceIds": [
-            "s-campaign-about"
           ]
         },
         {
@@ -780,32 +614,22 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-cindy-holscher-0003",
-          "platform": "Bluesky",
-          "observation": "Holscher's public biography is anchored in public schools, a working-class family story, and the Brownback-era fight over Kansas finances. Her campaign about page describes her as the daughter of a union construction worker and an elementary school custodian, raised on a farm, a first-generation college graduate, and the mother of three Kansas public-school graduates (source). On Bluesky, she wrote on November 19, 2...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-cindy-holscher-0004",
-          "platform": "Bluesky",
-          "observation": "Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse school budget cuts, and founded the Women's Bipartisan Caucus (source). On April 6, 2025, before her formal governor launch, she posted that vouchers are a scam a...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-cindy-holscher-0006",
           "platform": "kmuw.org",
           "observation": "Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record of winning Republican-held legislative districts (source). In that same coverage, she responded to Ethan Corson's endorsements by saying she was running on her...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-kmuw-corecivic-forum"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-cindy-holscher-0008",
+          "platform": "Facebook",
+          "observation": "Campaign website: https://cindyforkansas.com/ is active. The footer and pages link Facebook, X, and Instagram; the campaign news page is current through May 14, 2026.",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-cindy-holscher-0048"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -817,8 +641,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-priorities",
-          "src-cindy-holscher-0121"
+          "s-campaign-priorities"
         ]
       },
       "actions": [
@@ -856,9 +679,9 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Cindy Holscher is profiled here for Kansas Governor as a Democratic. Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse sc... Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 31 source-backed actions across 10 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assis... Education / curriculum / schools: Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention... Education / curriculum / schools: I walked with a group of education advocates from Shawnee to Topeka twice - campaign about page, 2026-04-01, cindyforkansas.com/about - topic: school-funding activism. Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 16 source-backed actions across 8 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assis... Taxes / spending / debt: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, an... Economy / jobs / labor: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and... Economy / jobs / labor: Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "summary: Public social evidence is strongest on Bluesky. Local harvest and fresh API read show an active but modest-engagement campaign feed centered on education, affordability, healthcare, redistricting/democracy, agriculture/tariffs, and campaign outreach.; platformsChecked: Campaign website; Campaign news page; Linktree; Bluesky; Facebook; Instagram; TikTok; X / Twitter; Threads; YouTube; LinkedIn; Truth Social; Gab; Gettr; Substack; Reddit; measuredCorpus: sourceIds: s-bsky-profile; notes: Local harvest captured 596 Bluesky feed items, including 431 original posts and 165 replies, from February 24, 2025 through March 20, 2026.; Fresh May 19, 2026 API read added May 14 running-mate post and May 19 southwest Kansas wildfire post.; Facebook, Instagram, TikTok, X, and Threads were linked/confirmed but did not expose reliable logged-out post-level datasets.",
-  "whereTheyWorship": "The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget m... First Christian Church Great Bend - Kansas Disciples. Sunflower State Journal: Kobach denounces vandalism at his church. This faith/worship note is descriptive only and is not used to infer any policy position.",
+  "whereTheyWorship": "Holscher has the most compelling personal narrative in the Democratic field -- granddaughter of tenant farmers, daughter of a construction worker and school custodian, first-generation college graduate, single mom who worked her way up through Sprint. Her leg... | Cindy Holscher | NOT IDENTIFIED | No faith references found anywhere |. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "sourceIds: s-kpdc-statewide-2026; s-kpdc-treasurer; s-kpdc-202601; reportingPeriod: 2025-01-01 through 2025-12-31; filed: 2026-01-13; totalRaised: $397,952.07; totalSpent: $218,060.34; cashOnHand: $179,891.73; inKind: $2,949.82; otherTransactions: $0.00; treasurer: Lynn Rogers",
     "narrative": "sourceIds: s-kpdc-statewide-2026; s-kpdc-treasurer; s-kpdc-202601; reportingPeriod: 2025-01-01 through 2025-12-31; filed: 2026-01-13; totalRaised: $397,952.07; totalSpent: $218,060.34; cashOnHand: $179,891.73; inKind: $2,949.82; otherTransactions: $0.00; treasurer: Lynn Rogers",
@@ -867,7 +690,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Candidate v2 issue file"
   },
-  "socialResearchNote": "37 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "34 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-kpdc-statewide-2026",
@@ -922,6 +745,34 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-ksleg-member",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/b2025_26/legislators/sen_holscher_cindy_1/",
+      "title": "Cindy Holscher - Kansas Legislature",
+      "publisher": "Kansas State Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Holscher represents Senate District 8, Johnson County",
+        "She is a Democrat and Senate Minority Whip",
+        "House service is listed as 2017-2020 and Senate service as 2021-Present",
+        "Committee roles include ranking minority member on Government Efficiency and Public Health and Welfare",
+        "| s-ksleg-member | primary | https://www.kslegislature.gov/b2025_26/legislators/sen_holscher_cindy_1/ | accessed 2026-05-19 | Senate District 8, Johnson County; Democrat; Senate Minority Whip; House 2017-2020; Senate 2021-present; committees | officeholder sta"
+      ]
+    },
+    {
+      "id": "s-ksleg-vote-2025",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/b2025_26/vote-record/sen_holscher_cindy_1/2025/",
+      "title": "Senate Voting - Holscher 2025",
+      "publisher": "Kansas State Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Holscher's official 2025 Senate vote record",
+        "Includes votes on election administration, public health, education, LGBTQ policy, reproductive-care-adjacent legislation, public assistance, taxes, and public safety",
+        "| s-ksleg-vote-2025 | primary | https://www.kslegislature.gov/b2025_26/vote-record/sen_holscher_cindy_1/2025/ | accessed 2026-05-19 | Holscher's 2025 Senate vote history | action evidence |"
+      ]
+    },
+    {
       "id": "s-ksleg-hb2479-rollcall",
       "tier": "primary",
       "url": "https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt",
@@ -934,6 +785,45 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
         "https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt",
         "| s-ksleg-hb2479-rollcall | primary | https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt | accessed 2026-05-19 | March 10, 2026 Senate roll call showing Holscher",
         "\"url\": \"https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26%2Fyear2%2Fsenate%2Flegislative_days%2Fday039_20260310%2Fvote_records%2Fvote_138_HB2479.odt\","
+      ]
+    },
+    {
+      "id": "s-ksleg-sb136",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/bills/SB136/",
+      "title": "SB 136",
+      "publisher": "Kansas State Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Original and current sponsor is Sen. Cindy Holscher",
+        "Bill would limit independent-expenditure political committee contributions and require accounting, reporting, and auditing",
+        "| s-ksleg-sb136 | primary | https://www.kslegislature.gov/bills/SB136/ | accessed 2026-05-19 | Holscher-sponsored bill limiting independent-expenditure political committee contributions and adding reporting/audit requirements | democracy, campaign finance |"
+      ]
+    },
+    {
+      "id": "s-ksleg-sb142",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb142/",
+      "title": "SB 142",
+      "publisher": "Kansas State Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Original and current sponsor is Sen. Cindy Holscher",
+        "Bill would authorize each school district to include a nonvoting teacher representative on the board of education",
+        "| s-ksleg-sb142 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb142/ | accessed 2026-05-19 | Holscher-sponsored bill allowing teacher representatives on school boards | education |"
+      ]
+    },
+    {
+      "id": "s-ksleg-sb143",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/sb143/",
+      "title": "SB 143",
+      "publisher": "Kansas State Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Current and original sponsor is Senator Holscher",
+        "Bill would impose legislative term limits with additional terms conditioned on a primary-election vote",
+        "| s-ksleg-sb143 | primary | https://www.kslegislature.gov/li/b2025_26/measures/sb143/ | accessed 2026-05-19 | Holscher-sponsored legislative term-limits bill | governance |"
       ]
     },
     {
@@ -989,6 +879,150 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-campaign-running-mate",
+      "tier": "primary",
+      "url": "https://cindyforkansas.com/holscher-announces-running-mate-kc-ohaebosim/",
+      "title": "Sen. Cindy Holscher Announces State Rep. KC Ohaebosim as Running Mate for Lieutenant Governor",
+      "publisher": "Cindy Holscher for Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Campaign announced KC Ohaebosim as running mate for lieutenant governor",
+        "Release frames ticket around affordability, public schools, healthcare, good jobs, worker protections, and government responsiveness",
+        "| s-campaign-running-mate | primary | https://cindyforkansas.com/holscher-announces-running-mate-kc-ohaebosim/ | published 2026-05-14; accessed 2026-05-19 | Running mate KC Ohaebosim; campaign emphasis on affordability, schools, healthcare, jobs | official cam"
+      ]
+    },
+    {
+      "id": "s-campaign-lower-costs",
+      "tier": "primary",
+      "url": "https://cindyforkansas.com/sen-cindy-holscher-unveils-2026-common-sense-and-lower-costs-agenda-focused-on-working-families/",
+      "title": "Sen. Cindy Holscher Unveils 2026 Common Sense and Lower Costs Agenda",
+      "publisher": "Cindy Holscher for Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Campaign agenda includes minimum wage, paid sick time, repeal right-to-work, property-tax relief, Medicaid expansion, free school lunches, essential-products tax relief, special education, housing security, medical marijuana, redistricting, term limits, and corporate PAC limits",
+        "| s-campaign-lower-costs | primary | https://cindyforkansas.com/sen-cindy-holscher-unveils-2026-common-sense-and-lower-costs-agenda-focused-on-working-families/ | published 2026-02-03; accessed 2026-05-19 | Lower-costs agenda and issue specifics | platform |",
+        "https://cindyforkansas.com/sen-cindy-holscher-unveils-2026-common-sense-and-lower-costs-agenda-focused-on-working-families/"
+      ]
+    },
+    {
+      "id": "s-bsky-profile",
+      "tier": "social",
+      "url": "https://bsky.app/profile/cindyforkansas.bsky.social",
+      "title": "Cindy Holscher Bluesky profile",
+      "publisher": "Bluesky",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Public API resolved the campaign profile to DID did:plc:ei6fueazsxvhhjvbr53hr63f",
+        "Local harvest captured 596 feed items, including 431 original posts and 165 replies, from February 24, 2025 through March 20, 2026",
+        "| s-bsky-profile | social | https://bsky.app/profile/cindyforkansas.bsky.social | API read 2026-05-19 | Public campaign profile, DID, latest posts and engagement | social evidence |",
+        "Bluesky: [@cindyforkansas.bsky.social](https://bsky.app/profile/cindyforkansas.bsky.social) -- 204 followers, 9 follows, 596 posts as of public API capture on 2026-05-11. Bio: \"Candidate for Kansas Governor.\" Created 2025-02-24.",
+        "Handle: [@cindyforkansas.bsky.social](https://bsky.app/profile/cindyforkansas.bsky.social)"
+      ]
+    },
+    {
+      "id": "s-bsky-running-mate",
+      "tier": "social",
+      "url": "https://bsky.app/profile/cindyforkansas.bsky.social/post/3mltsfpocu22x",
+      "title": "Running-mate announcement post",
+      "publisher": "Bluesky",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Holscher posted that KC Ohaebosim was her pick for Lieutenant Governor",
+        "Engagement at readback was 11 likes, 1 repost, 0 replies, 0 quotes",
+        "| s-bsky-running-mate | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mltsfpocu22x | posted 2026-05-14; API read 2026-05-19 | Running-mate post; 11 likes, 1 repost, 0 replies, 0 quotes at readback | campaign status, education, healthcare |"
+      ]
+    },
+    {
+      "id": "s-bsky-wildfires",
+      "tier": "social",
+      "url": "https://bsky.app/profile/cindyforkansas.bsky.social/post/3mm6dk33nu22o",
+      "title": "Southwest Kansas wildfire post",
+      "publisher": "Bluesky",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Holscher posted about southwest Kansas wildfires and emergency teams",
+        "Engagement at readback was 1 like, 0 reposts, 0 replies, 0 quotes",
+        "| s-bsky-wildfires | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mm6dk33nu22o | posted 2026-05-19; API read 2026-05-19 | Southwest Kansas wildfire post; 1 like, 0 reposts, 0 replies, 0 quotes at readback | public safety, rural/community"
+      ]
+    },
+    {
+      "id": "s-bsky-corecivic",
+      "tier": "social",
+      "url": "https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g",
+      "title": "CoreCivic money post",
+      "publisher": "Bluesky",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Holscher posted that she would not take CoreCivic money",
+        "Engagement at readback was 4 likes, 1 repost, 1 reply, 0 quotes",
+        "| s-bsky-corecivic | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mhhbtc2uqs2g | posted 2026-03-20; API read 2026-05-19 | CoreCivic money pledge/call; 4 likes, 1 repost, 1 reply, 0 quotes at readback | immigration, campaign finance |"
+      ]
+    },
+    {
+      "id": "s-bsky-aca-2026",
+      "tier": "social",
+      "url": "https://bsky.app/profile/cindyforkansas.bsky.social/post/3mbx4kgkl6227",
+      "title": "ACA subsidies post",
+      "publisher": "Bluesky",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Holscher posted about healthcare costs and extending ACA subsidies",
+        "| s-bsky-aca-2026 | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3mbx4kgkl6227 | posted 2026-01-08; API read 2026-05-19 | ACA subsidies and healthcare costs | healthcare |"
+      ]
+    },
+    {
+      "id": "s-bsky-education-2025",
+      "tier": "social",
+      "url": "https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m",
+      "title": "Public education post",
+      "publisher": "Bluesky",
+      "accessed": "2026-05-11",
+      "claimsAnchored": [
+        "Local harvest captured Holscher posting about public education, school funding, vouchers, and children",
+        "| s-bsky-education-2025 | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3m4e2gws2hc2m | posted 2025-10-29; local harvest | Public education and vouchers | education |"
+      ]
+    },
+    {
+      "id": "s-bsky-tariffs-2025",
+      "tier": "social",
+      "url": "https://bsky.app/profile/cindyforkansas.bsky.social/post/3lyig37yee22v",
+      "title": "Tariffs and Kansas farmers post",
+      "publisher": "Bluesky",
+      "accessed": "2026-05-11",
+      "claimsAnchored": [
+        "Local harvest captured Holscher posting about tariffs and Kansas crop economics",
+        "On agriculture and rural economics, Holscher's feed links her farm background to tariffs, crop markets, sorghum, soybeans, beef imports, rural hospitals, and rural cost pressure. On September 10, 2025, she posted that tariff wars were devastating Kansas farmer",
+        "| s-bsky-tariffs-2025 | social | https://bsky.app/profile/cindyforkansas.bsky.social/post/3lyig37yee22v | posted 2025-09-10; local harvest | Tariffs and Kansas farmers | agriculture |"
+      ]
+    },
+    {
+      "id": "s-linktree",
+      "tier": "primary",
+      "url": "https://linktr.ee/cindyforkansas",
+      "title": "Cindy for Kansas Linktree",
+      "publisher": "Cindy Holscher campaign / Linktree",
+      "accessed": "2026-05-11",
+      "claimsAnchored": [
+        "Local harvest confirms links to Instagram, TikTok, Facebook, X, Threads, website, donation, volunteer, launch video, and Bluesky",
+        "| s-linktree | primary | https://linktr.ee/cindyforkansas | accessed in local harvest 2026-05-11 | Campaign social/presence links | online presence |",
+        "Linktree / presence detector: [linktr.ee/cindyforkansas](https://linktr.ee/cindyforkansas) -- confirms Instagram, TikTok, Facebook, X, Threads, website, donate, volunteer, launch video, and Bluesky links; Threads preview listed 1.7K followers and 0 threads at"
+      ]
+    },
+    {
+      "id": "s-kansas-reflector-launch",
+      "tier": "secondary",
+      "url": "https://kansasreflector.com/2025/06/12/democrat-steps-forward-in-race-for-kansas-governor-focuses-on-schools-and-kitchen-table-issues/",
+      "title": "Democrat steps forward in race for Kansas governor",
+      "publisher": "Kansas Reflector",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Launch coverage described Holscher's focus on schools and kitchen-table issues",
+        "| s-kansas-reflector-launch | secondary | https://kansasreflector.com/2025/06/12/democrat-steps-forward-in-race-for-kansas-governor-focuses-on-schools-and-kitchen-table-issues/ | published 2025-06-12; accessed 2026-05-19 | Launch coverage; schools and kitchen-",
+        "[Kansas Reflector: Holscher enters race (June 12, 2025)](https://kansasreflector.com/2025/06/12/democrat-steps-forward-in-race-for-kansas-governor-focuses-on-schools-and-kitchen-table-issues/)",
+        "Kansas Reflector reported Holscher's launch on June 12, 2025, describing her focus on schools and \"kitchen table\" issues and quoting her concern that housing and food were expensive ([source](https://kansasreflector.com/2025/06/12/democrat-steps-forward-in-rac"
+      ]
+    },
+    {
       "id": "s-kansas-reflector-debate",
       "tier": "secondary",
       "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
@@ -1020,71 +1054,44 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-cindy-holscher-0030",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "id": "src-cindy-holscher-0024",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/documents/view/?apn=b2025_26%2Fyear1%2Fready_for_publication%2Fcalendar%2Fdaily_calendar_senate_20250203181126.odt",
+      "title": "Kslegislature",
+      "publisher": "Kslegislature",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
+        "| s-ksleg-calendar-sb144 | primary | https://www.kslegislature.gov/documents/view/?apn=b2025_26%2Fyear1%2Fready_for_publication%2Fcalendar%2Fdaily_calendar_senate_20250203181126.odt | accessed 2026-05-19 | Calendar lists SB 144 by Senator Holscher on rooftop s"
       ]
     },
     {
-      "id": "src-cindy-holscher-0031",
+      "id": "src-cindy-holscher-0029",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "url": "https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/",
+      "title": "Johnsoncountypost",
+      "publisher": "Johnsoncountypost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
+        "| s-joco-vouchers | secondary | https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/ | published 2023-03-13; local harvest | Voucher/school-choice column | education |",
+        "[Johnson County Post: Holscher school voucher critique (March 13, 2023)](https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/)",
+        "https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/",
+        "> -- [Johnson County Post, March 13, 2023](https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/)",
+        "> -- [Johnson County Post, 2023](https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/)",
+        "\"url\": \"https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/\",",
+        "\"source\": \"Johnson County Post, March 13, 2023, https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/\",",
+        "Johnson County Post coverage from March 13, 2023 remains a useful pre-campaign benchmark for her voucher message; she called school-choice rhetoric a transfer of taxpayer money to wealthier families ([source](https://johnsoncountypost.com/2023/03/13/capitol-up"
       ]
     },
     {
-      "id": "src-cindy-holscher-0035",
+      "id": "src-cindy-holscher-0044",
       "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
+      "url": "https://en.wikipedia.org/wiki/Cindy_Holscher",
+      "title": "En.Wikipedia",
+      "publisher": "En.Wikipedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-cindy-holscher-0036",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)",
-        "\"url\": \"https://www.ihm-church.com/\","
-      ]
-    },
-    {
-      "id": "src-cindy-holscher-0042",
-      "tier": "secondary",
-      "url": "https://www.kansascatholic.org/current-news/election-2026",
-      "title": "Kansascatholic",
-      "publisher": "Kansascatholic",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)"
-      ]
-    },
-    {
-      "id": "src-cindy-holscher-0045",
-      "tier": "secondary",
-      "url": "https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state",
-      "title": "Brennancenter",
-      "publisher": "Brennancenter",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)"
+        "[Cindy Holscher - Wikipedia](https://en.wikipedia.org/wiki/Cindy_Holscher)",
+        "[Wikipedia: Cindy Holscher](https://en.wikipedia.org/wiki/Cindy_Holscher)"
       ]
     },
     {
@@ -1106,85 +1113,29 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-cindy-holscher-0049",
+      "id": "src-cindy-holscher-0059",
       "tier": "secondary",
-      "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
-      "title": "Cnn",
-      "publisher": "Cnn",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)"
-      ]
-    },
-    {
-      "id": "src-cindy-holscher-0051",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-cindy-holscher-0079",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))",
-        "[Ballotpedia: Kansas Elections for Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))"
-      ]
-    },
-    {
-      "id": "src-cindy-holscher-0080",
-      "tier": "secondary",
-      "url": "https://www.votenokansas.org/",
-      "title": "Votenokansas",
-      "publisher": "Votenokansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Vote No Kansas 2026](https://www.votenokansas.org/)",
-        "[VoteNoKansas.org](https://www.votenokansas.org/)"
-      ]
-    },
-    {
-      "id": "src-cindy-holscher-0081",
-      "tier": "secondary",
-      "url": "https://myvoteinfo.voteks.org/",
-      "title": "Myvoteinfo.Voteks",
-      "publisher": "Myvoteinfo.Voteks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/",
-        "[myvoteinfo.voteks.org](https://myvoteinfo.voteks.org/)"
-      ]
-    },
-    {
-      "id": "src-cindy-holscher-0112",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/",
+      "url": "https://kansasreflector.com/2025/08/01/kansas-governor-candidate-cindy-holscher-objects-to-alleged-pressure-campaign-by-kellys-staff/",
       "title": "Kansasreflector",
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "> -- [Kansas Reflector, January 19, 2026](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "[Kansas Reflector: Millionaire candidates (Jan 19, 2026)](https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/)",
-        "\"url\": \"https://kansasreflector.com/2026/01/19/millionaire-candidates-for-kansas-governor-burnish-fundraising-with-personal-loans/\""
+        "> -- [Kansas Reflector, August 1, 2025](https://kansasreflector.com/2025/08/01/kansas-governor-candidate-cindy-holscher-objects-to-alleged-pressure-campaign-by-kellys-staff/)",
+        "[Kansas Reflector: Kelly staff pressure (Aug 1, 2025)](https://kansasreflector.com/2025/08/01/kansas-governor-candidate-cindy-holscher-objects-to-alleged-pressure-campaign-by-kellys-staff/)",
+        "\"source\": \"Kansas Reflector, August 1, 2025, https://kansasreflector.com/2025/08/01/kansas-governor-candidate-cindy-holscher-objects-to-alleged-pressure-campaign-by-kellys-staff/\","
       ]
     },
     {
-      "id": "src-cindy-holscher-0121",
+      "id": "src-cindy-holscher-0103",
       "tier": "secondary",
-      "url": "https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor",
-      "title": "Noln",
-      "publisher": "Noln",
+      "url": "https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)"
+        "[Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)",
+        "[Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)",
+        "Kansas Reflector coverage from November 25, 2025 described Holscher and Ethan Corson shaping Democratic campaigns to appeal to rural voters ([source](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-ent"
       ]
     },
     {
@@ -1197,6 +1148,53 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Audience response on measurable social media was modest and concentrated on labor, education, and anti-redistricting posts. Her highest-like original Bluesky post in the capture was a December 2, 2025 post about union workers, fair wages, and safe working cond",
         "Highest-like original Bluesky post in the capture: December 2, 2025 union/fair-wages post with 16 likes, 4 reposts, 0 replies, 0 quotes ([source](https://bsky.app/profile/cindyforkansas.bsky.social/post/3m6z6c6yjhk23))."
+      ]
+    },
+    {
+      "id": "src-cindy-holscher-0129",
+      "tier": "social",
+      "url": "https://bsky.app/profile/cindyforkansas.bsky.social/post/3lzoibislgg2v",
+      "title": "Bsky",
+      "publisher": "Bsky",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Holscher also uses her social feed to argue that federal decisions are raising Kansas costs. Healthcare posts include ACA subsidies, Medicaid expansion, rural hospitals, disability services, mental health, vaccine policy, and health-agency decisions. On Septem"
+      ]
+    },
+    {
+      "id": "src-cindy-holscher-0144",
+      "tier": "secondary",
+      "url": "https://ballotpedia.org/Cindy_Holscher",
+      "title": "Ballotpedia",
+      "publisher": "Ballotpedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Ballotpedia: Cindy Holscher](https://ballotpedia.org/Cindy_Holscher)"
+      ]
+    },
+    {
+      "id": "src-cindy-holscher-0160",
+      "tier": "social",
+      "url": "https://www.facebook.com/p/Cindy-Holscher-for-Kansas-100057624806871/",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "https://www.facebook.com/p/Cindy-Holscher-for-Kansas-100057624806871/",
+        "Her campaign and social pages are public on [Facebook](https://www.facebook.com/p/Cindy-Holscher-for-Kansas-100057624806871/), [Instagram](https://www.instagram.com/cindyforkansas/), and [X](https://x.com/cindy4kansas).",
+        "[Facebook](https://www.facebook.com/p/Cindy-Holscher-for-Kansas-100057624806871/)"
+      ]
+    },
+    {
+      "id": "src-cindy-holscher-0163",
+      "tier": "social",
+      "url": "https://www.facebook.com/cindyforkansas/",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Facebook: [Cindy Holscher for Kansas](https://www.facebook.com/cindyforkansas/)",
+        "[Cindy Holscher for Kansas](https://www.facebook.com/cindyforkansas/)"
       ]
     }
   ]

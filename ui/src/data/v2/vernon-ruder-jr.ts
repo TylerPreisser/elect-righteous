@@ -21,121 +21,31 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-vernon-ruder-jr-0030"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-vernon-ruder-jr-0001",
-          "platform": "hayspost.com",
-          "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0030"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public evidence: Hays USD 489 board members question parental rights in emergency policy revision",
-        "sourceIds": [
-          "src-vernon-ruder-jr-0031"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-vernon-ruder-jr-02147",
-          "date": "Undated",
-          "body": "Hays USD 489 board members question parental rights in emergency policy revision",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0031"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: \"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-vernon-ruder-jr-0001",
-          "src-vernon-ruder-jr-0033",
-          "src-vernon-ruder-jr-0002",
-          "src-vernon-ruder-jr-0003",
-          "src-vernon-ruder-jr-0035",
-          "src-vernon-ruder-jr-0036"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-vernon-ruder-jr-00064",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\"",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0001"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00936",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0033"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-01281",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0002"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-01345",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0003"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-02078",
-          "date": "Undated",
-          "body": "Hays school board approves HHS, Roosevelt contract; discussion heated",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0035"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-02079",
-          "date": "Undated",
-          "body": "Hays USD 489 board votes not to add another manager for bond work",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0036"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-vernon-ruder-jr-0001",
-          "platform": "hayspost.com",
-          "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0030"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
         {
           "id": "soc-vernon-ruder-jr-0005",
           "platform": "hayspost.com",
@@ -152,27 +62,11 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-vernon-ruder-jr-0062",
-          "src-vernon-ruder-jr-0063",
-          "src-vernon-ruder-jr-0064",
-          "src-vernon-ruder-jr-0032"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-vernon-ruder-jr-0001",
-          "platform": "hayspost.com",
-          "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0030"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
@@ -181,11 +75,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
         "text": "Documented public evidence: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-profile-2020",
-          "src-vernon-ruder-jr-0040",
-          "src-vernon-ruder-jr-0041",
-          "s-ellis-treasury",
-          "s-hayspost-mv-fee-2023",
-          "src-vernon-ruder-jr-0072"
+          "s-ellis-treasury"
         ]
       },
       "actions": [
@@ -195,22 +85,6 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
           "body": "He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury.",
           "sourceIds": [
             "s-hayspost-profile-2020"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-02144",
-          "date": "Undated",
-          "body": "Board member questions Hays USD 489 bond budget",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0040"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-02145",
-          "date": "Undated",
-          "body": "Hays USD 489 board scrutinizes bond budget",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0041"
           ]
         }
       ],
@@ -231,10 +105,8 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Reviewed evidence: HaysPost: Housing/business developments Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-vernon-ruder-jr-0075"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -253,60 +125,21 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: ICE Bill Support -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-vernon-ruder-jr-0077",
-          "src-vernon-ruder-jr-0030",
-          "src-vernon-ruder-jr-0076",
-          "src-vernon-ruder-jr-0078"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-vernon-ruder-jr-00451",
-          "date": "Undated",
-          "body": "ICE Bill Support -- Hays Post",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0077"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-vernon-ruder-jr-0001",
-          "platform": "hayspost.com",
-          "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0030"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-vernon-ruder-jr-0030",
-          "src-vernon-ruder-jr-0080"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-vernon-ruder-jr-0001",
-          "platform": "hayspost.com",
-          "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0030"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-election-integrity-voting-courts",
@@ -314,12 +147,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-profile-2020",
-          "src-vernon-ruder-jr-0007",
-          "src-vernon-ruder-jr-0081",
-          "src-vernon-ruder-jr-0077",
-          "src-vernon-ruder-jr-0082",
-          "src-vernon-ruder-jr-0083"
+          "s-hayspost-profile-2020"
         ]
       },
       "actions": [
@@ -329,46 +157,6 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
           "body": "He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury.",
           "sourceIds": [
             "s-hayspost-profile-2020"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00052",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.sos.ks.gov/elections/candidate-information.html\"",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0007"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00290",
-          "date": "Undated",
-          "body": "Candidate Profile -- Hays Post",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0081"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00451",
-          "date": "Undated",
-          "body": "ICE Bill Support -- Hays Post",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0077"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00534",
-          "date": "Undated",
-          "body": "Criminal Threat Sentencing -- Hays Post",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0082"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00535",
-          "date": "Undated",
-          "body": "Drug Death Case -- Salina Post",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0083"
           ]
         }
       ],
@@ -382,16 +170,6 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
             "s-hayspost-2024-results"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
-          "id": "soc-vernon-ruder-jr-0019",
-          "platform": "hayspost.com",
-          "observation": "Hays Post - Re-election oath coverage, Oct. 13, 2025",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-hayspost-oath-2025"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
         }
       ]
     },
@@ -399,49 +177,13 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Criminal Threat Sentencing -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: ZoomInfo profile -- limited info Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-vernon-ruder-jr-0082",
-          "src-vernon-ruder-jr-0083",
-          "src-vernon-ruder-jr-0008",
-          "src-vernon-ruder-jr-0085",
           "src-vernon-ruder-jr-0087",
-          "s-hayspost-mv-fee-2023"
+          "s-ellis-treasury"
         ]
       },
       "actions": [
-        {
-          "id": "em-vernon-ruder-jr-00534",
-          "date": "Undated",
-          "body": "Criminal Threat Sentencing -- Hays Post",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0082"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00535",
-          "date": "Undated",
-          "body": "Drug Death Case -- Salina Post",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0083"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00641",
-          "date": "Undated",
-          "body": "Ellis County Register of Deeds",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0008"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00642",
-          "date": "Undated",
-          "body": "Kansas Register of Deeds Association",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0085"
-          ]
-        },
         {
           "id": "em-vernon-ruder-jr-00694",
           "date": "Undated",
@@ -451,11 +193,11 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-vernon-ruder-jr-00697",
+          "id": "em-vernon-ruder-jr-00700",
           "date": "Undated",
-          "body": "Motor Vehicle Fees -- Hays Post",
+          "body": "Ellis County Treasury Official Page",
           "sourceIds": [
-            "s-hayspost-mv-fee-2023"
+            "s-ellis-treasury"
           ]
         }
       ],
@@ -465,14 +207,8 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: USDA: KS State Director announcement",
-        "sourceIds": [
-          "src-vernon-ruder-jr-0015",
-          "src-vernon-ruder-jr-0112",
-          "src-vernon-ruder-jr-0114",
-          "src-vernon-ruder-jr-0115",
-          "src-vernon-ruder-jr-0116"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -484,11 +220,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
         "text": "Documented public evidence: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by text message, app, home kiosk link, and office kiosk for joining the treasurer office queue. Sources: Hays Post, July 31, 2020, Ellis County Treasury. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-profile-2020",
-          "src-vernon-ruder-jr-0007",
-          "src-vernon-ruder-jr-0001",
-          "src-vernon-ruder-jr-0081",
-          "src-vernon-ruder-jr-0016",
-          "src-vernon-ruder-jr-0084"
+          "s-ellis-treasury"
         ]
       },
       "actions": [
@@ -499,60 +231,9 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-hayspost-profile-2020"
           ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00052",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.sos.ks.gov/elections/candidate-information.html\"",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0007"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00064",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\"",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0001"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00290",
-          "date": "Undated",
-          "body": "Candidate Profile -- Hays Post",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0081"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00293",
-          "date": "Undated",
-          "body": "Ellis County Commission Official Page",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0016"
-          ]
-        },
-        {
-          "id": "em-vernon-ruder-jr-00618",
-          "date": "Undated",
-          "body": "Allen Campaign Profile -- Hays Post",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0084"
-          ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-vernon-ruder-jr-0001",
-          "platform": "hayspost.com",
-          "observation": "Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-vernon-ruder-jr-0030"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-environment-energy-land-use",
@@ -566,7 +247,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Vernon Ruder Jr. is profiled here for Ellis County Treasurer as a Republican incumbent/current official. He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County Treasury page now describes QLess options by t... The Ellis County Treasurer's Office ... is responsible for the tax billing, collection, and distribution - Ellis County Treasury official page - https://www.ellisco.net/566/Treasury - topic: office mission. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 29 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Hays USD 489 board members question parental rights in emergency policy revision. Education / curriculum / schools: \"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\". Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 5 source-backed actions across 4 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current Ellis County T... Election integrity / voting / courts: He also talks about customer flow and office access in concrete terms. During the 2020 race he proposed kiosks for tag and tax payments outside normal hours and an app showing wait times. The current E... Public safety / law enforcement / criminal justice: ZoomInfo profile -- limited info. Public safety / law enforcement / criminal justice: Ellis County Treasury Official Page. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "ownWordsNarrative": "candidateControlled: found: Ellis County Treasury official profile/contact page; Ellis County staff directory; Kansas County Treasurers Association directory; 2020 candidate-authored Hays Post letter; presenceClues: Ruder's 2020 Hays Post letter referenced a Facebook page and campaign Gmail address, but no usable public Facebook post corpus was verified.; notConfirmed: Current campaign website; Current campaign Facebook page with public posts; Personal Facebook civic/political post archive; LinkedIn profile/activity; X/Twitter account; Instagram account; Threads, Bluesky, TikTok, YouTube, Substack, Reddit, or podcast feed; Public follows, likes, comments, shares, reposts, or follower counts; observedSignals: id: online-low-campaign-footprint; platform: Searchable public web; type: absence_signal; mappedToIssueId: treasurer-office-duties; summary: The accessible public record is office-directory and local-news heavy, with no verified active campaign-social operation.; sourceIds: s-ellis-treasury; s-kcta-ellis; s-hayspost-profile-2020; caveat: Social absence is not evidence of support, belief, or private activity. No social follows/likes/comments were verified or interpreted.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation for Vernon Ruder Jr. The public record does point to a Catholic family and school background in Hays, but no current parish participation is clearly documented under his own name.",
   "campaignFinance": {
@@ -577,7 +258,7 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
     "reportingPeriod": "2020 and 2024 county treasurer cycles searched at high level; no online donor ledger captured",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "10 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "3 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
     {
       "id": "s-ellis-treasury",
@@ -600,6 +281,51 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
         "[Ellis County Treasury](https://www.ellisco.net/566/Treasury)",
         "\"source\": \"Ellis County Treasury official page, accessed 2026-04-02, https://www.ellisco.net/566/Treasury\",",
         "\"campaignWebsite\": \"https://www.ellisco.net/566/Treasury\","
+      ]
+    },
+    {
+      "id": "s-ellis-staff-directory",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/directory.aspx?EID=129",
+      "title": "Staff Directory - Vernon Ruder, Jr.",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Vernon Ruder Jr. is listed with title Treasurer",
+        "Office contact details and hours are listed",
+        "Ellis County staff directory - https://www.ellisco.net/directory.aspx?EID=129",
+        "[Ellis County staff directory - Vernon Ruder, Jr.](https://www.ellisco.net/directory.aspx?EID=129)",
+        "https://www.ellisco.net/directory.aspx?EID=129",
+        "[ellisco.net](https://www.ellisco.net/directory.aspx?EID=129)"
+      ]
+    },
+    {
+      "id": "s-kcta-ellis",
+      "tier": "primary",
+      "url": "https://kansastreasurers.org/index.php/directory/ellis-county/",
+      "title": "Ellis County",
+      "publisher": "Kansas County Treasurers Association",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "KCTA lists Vernon Ruder Jr. for Ellis County",
+        "KCTA lists took office as 2021",
+        "KCTA lists services including online tax payments, escrow/partial payments, ACH/wire payments, notary services, and a 24-hour drop box",
+        "Kansas County Treasurers Association, Ellis County - https://kansastreasurers.org/index.php/directory/ellis-county/",
+        "| Kansas County Treasurers Association profile | Found | The [KCTA Ellis County page](https://kansastreasurers.org/index.php/directory/ellis-county/) lists Vernon Ruder Jr., says he took office in 2021, and lists services including online tax payments, escrow"
+      ]
+    },
+    {
+      "id": "s-ellis-2025-budget-book",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5645/2025-Budget-Book",
+      "title": "Ellis County 2025 Budget Book",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "The 2025 budget was adopted September 10, 2024",
+        "Dept. 24 - Treasurer lists responsible party Vernon Ruder Jr., County Treasurer",
+        "2025 proposed treasurer department lines include interest on investments and salary lines",
+        "[Ellis County 2025 Budget Book](https://www.ellisco.net/DocumentCenter/View/5645/2025-Budget-Book)"
       ]
     },
     {
@@ -650,6 +376,18 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-2020-results",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/fd0105da-9c9e-469c-a595-d2221ee9b2fb",
+      "title": "Ellis County 2020 preliminary election results",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Preliminary 2020 treasurer results listed Vernon Ruder Jr. with 8,517, Julie Mercer with 2,871, and write-ins with 1,528",
+        "Hays Post 2020 preliminary election results - https://hayspost.com/posts/fd0105da-9c9e-469c-a595-d2221ee9b2fb"
+      ]
+    },
+    {
       "id": "s-hayspost-2024-results",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
@@ -664,20 +402,6 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
         "[Hays Post: 2024 General Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
         "[Hays Post - 2024 general election results, Nov. 6, 2024](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
         "Hays Post 2024 all-precinct results - https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496"
-      ]
-    },
-    {
-      "id": "s-hayspost-oath-2025",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/769b9cc3-43f2-4772-9389-e5a962d9a36a",
-      "title": "Ellis County Commission approves bridge replacement agreement",
-      "publisher": "Hays Post",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Ellis County Clerk Bobbi Dreiling administered the oath of office to re-elected County Treasurer Vern Ruder",
-        "Hays Post said Ruder was re-elected in November 2024",
-        "Hays Post 2025 oath / commission coverage - https://hayspost.com/posts/769b9cc3-43f2-4772-9389-e5a962d9a36a",
-        "[Hays Post - Re-election oath coverage, Oct. 13, 2025](https://hayspost.com/posts/769b9cc3-43f2-4772-9389-e5a962d9a36a)"
       ]
     },
     {
@@ -696,86 +420,6 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-vernon-ruder-jr-0001",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
-      "title": "Ksde",
-      "publisher": "Ksde",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\""
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0002",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0003",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0007",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
-      "title": "Sos.Ks",
-      "publisher": "Sos.Ks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.sos.ks.gov/elections/candidate-information.html\""
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0008",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/100/Register-of-Deeds",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)",
-        "[Ellis County Register of Deeds Official Page](https://www.ellisco.net/100/Register-of-Deeds)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0015",
-      "tier": "primary",
-      "url": "https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas",
-      "title": "Rd.Usda",
-      "publisher": "Rd.Usda",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0016",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/120/County-Commission",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ellis County Commission Official Page](https://www.ellisco.net/120/County-Commission)",
-        "[Ellis County Commission Page](https://www.ellisco.net/120/County-Commission)",
-        "[Ellis County Commission](https://www.ellisco.net/120/County-Commission)"
-      ]
-    },
-    {
       "id": "src-vernon-ruder-jr-0030",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a",
@@ -788,244 +432,6 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-vernon-ruder-jr-0031",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 board members question parental rights in emergency policy revision](https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0032",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0033",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0035",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays school board approves HHS, Roosevelt contract; discussion heated](https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0036",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 board votes not to add another manager for bond work](https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0040",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Board member questions Hays USD 489 bond budget](https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0041",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 board scrutinizes bond budget](https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0062",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)",
-        "[Holy Family Elementary: Advancement Director announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0063",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)",
-        "Exact personal attendance was not independently verified in this pass, but the parish URL is public: [Immaculate Heart of Mary Catholic Church](https://www.ihm-church.com/)",
-        "https://www.ihm-church.com/",
-        "\"url\": \"https://www.ihm-church.com/\","
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0064",
-      "tier": "secondary",
-      "url": "https://fhsuguides.fhsu.edu/kansasheritage/elliscounty",
-      "title": "Fhsuguides.Fhsu",
-      "publisher": "Fhsuguides.Fhsu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FHSU: Germans from Russia in Ellis County](https://fhsuguides.fhsu.edu/kansasheritage/elliscounty)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0072",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0075",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/dc0fb523-b96d-42bb-b65a-55221db96969",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: Housing/business developments](https://hayspost.com/posts/dc0fb523-b96d-42bb-b65a-55221db96969)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0076",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ICE Agreement Explained -- Hays Post](https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0077",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ICE Bill Support -- Hays Post](https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0078",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0080",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0081",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Candidate Profile -- Hays Post](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd)",
-        "[Hays Post: Candidate Profile](https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0082",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Criminal Threat Sentencing -- Hays Post](https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0083",
-      "tier": "secondary",
-      "url": "https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3",
-      "title": "Salinapost",
-      "publisher": "Salinapost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Drug Death Case -- Salina Post](https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0084",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/90ec3907-2122-4b32-9bc1-b4199532ec34",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Allen Campaign Profile -- Hays Post](https://hayspost.com/posts/90ec3907-2122-4b32-9bc1-b4199532ec34)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0085",
-      "tier": "secondary",
-      "url": "https://ksrods.com/contact-information/ellis-county-el-nc-district/",
-      "title": "Ksrods",
-      "publisher": "Ksrods",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Register of Deeds Association](https://ksrods.com/contact-information/ellis-county-el-nc-district/)",
-        "Listed on [Kansas Register of Deeds Association](https://ksrods.com/contact-information/ellis-county-el-nc-district/)"
-      ]
-    },
-    {
       "id": "src-vernon-ruder-jr-0087",
       "tier": "secondary",
       "url": "https://www.zoominfo.com/p/Vernon-Ruder/2569532965",
@@ -1035,50 +441,6 @@ export const VERNON_RUDER_JR_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "[ZoomInfo profile](https://www.zoominfo.com/p/Vernon-Ruder/2569532965) -- limited info",
         "[ZoomInfo profile](https://www.zoominfo.com/p/Vernon-Ruder/2569532965)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0112",
-      "tier": "secondary",
-      "url": "https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849",
-      "title": "Issuu",
-      "publisher": "Issuu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0114",
-      "tier": "secondary",
-      "url": "https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/",
-      "title": "Eenews",
-      "publisher": "Eenews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0115",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/0b77976f-deca-4758-819a-f01bbc3f4745",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: R9 Water dispute](https://hayspost.com/posts/0b77976f-deca-4758-819a-f01bbc3f4745)"
-      ]
-    },
-    {
-      "id": "src-vernon-ruder-jr-0116",
-      "tier": "secondary",
-      "url": "https://kspress.com/news/2026/02/04/kansas-lawmakers-weigh-where-authority-lies-in-11-year-water-dispute",
-      "title": "Kspress",
-      "publisher": "Kspress",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Press Association: R9 Water dispute](https://kspress.com/news/2026/02/04/kansas-lawmakers-weigh-where-authority-lies-in-11-year-water-dispute)"
       ]
     }
   ]

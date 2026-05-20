@@ -32,8 +32,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "stated": {
         "text": "Candidate-stated evidence: On bathrooms, vandalism, and social-media claims, Wilson's public stance is managerial and skeptical of online escalation. Hays Post reported that he said all schools deal with bathroom vandalism, that students lose privileges when they misuse spaces, and that the high school would clean bathrooms twice daily. Tiger Media Network reported that he said monitoring bathrooms for eight hours a day was nearly impossible... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-bathroom-vandalism-2026",
-          "src-ron-wilson-0017"
+          "s-hayspost-bathroom-vandalism-2026"
         ]
       },
       "actions": [
@@ -43,14 +42,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "body": "On bathrooms, vandalism, and social-media claims, Wilson's public stance is managerial and skeptical of online escalation. Hays Post reported that he said all schools deal with bathroom vandalism, that students lose privileges when they misuse spaces, and that the high school would clean bathrooms twice daily. Tiger Media Network reported that he said monitoring bathrooms for eight hours a day was nearly impossible and warned that Facebook claims exaggerated the scope. (Hays Post, Tiger Media Network)",
           "sourceIds": [
             "s-hayspost-bathroom-vandalism-2026"
-          ]
-        },
-        {
-          "id": "em-ron-wilson-00697",
-          "date": "Undated",
-          "body": "Hays USD 489 board members question parental rights in emergency policy revision",
-          "sourceIds": [
-            "src-ron-wilson-0017"
           ]
         }
       ],
@@ -104,11 +95,11 @@ export const RON_WILSON_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: His earliest located Hays superintendent profile, from February 2019, framed his approach around students and consensus. Wilson said he centered his work on what was best for kids, described himself as a consensus builder on a possible bond, supported long-range facilities planning, emphasized teacher relationships and teacher pay, and said he wanted a positive culture where staff, students, and parents brought thei... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2019-profile",
-          "s-usd489-bond-survey-2021",
           "s-hayspost-opinion-2025",
           "s-hayspost-ribbon-2025",
           "src-ron-wilson-0022",
-          "s-hayspost-fees-2025"
+          "s-hayspost-fees-2025",
+          "s-hayspost-bathroom-vandalism-2026"
         ]
       },
       "actions": [
@@ -118,14 +109,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "body": "His earliest located Hays superintendent profile, from February 2019, framed his approach around students and consensus. Wilson said he centered his work on what was best for kids, described himself as a consensus builder on a possible bond, supported long-range facilities planning, emphasized teacher relationships and teacher pay, and said he wanted a positive culture where staff, students, and parents brought their best every day. (Hays Post archive)",
           "sourceIds": [
             "s-hayspost-2019-profile"
-          ]
-        },
-        {
-          "id": "em-ron-wilson-00006",
-          "date": "Undated",
-          "body": "Facilities are the dominant thread in his public record. In April 2021, Wilson said a facilities survey could show whether residents were ready to look at another bond attempt. He argued that facilities affect first impressions of the community and that investing in buildings helps students feel valued. He also said the community needed to think about building for the future and the next generation. (USD 489 / Hays Post)",
-          "sourceIds": [
-            "s-usd489-bond-survey-2021"
           ]
         },
         {
@@ -158,6 +141,14 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "body": "On fees and classroom materials, Wilson opposed another school-fee reduction in April 2025. Hays Post reported that he said earlier fee reductions had lowered the money available for textbooks and classroom materials, with a new English curriculum adoption planned and a much smaller carryover expected. (Hays Post)",
           "sourceIds": [
             "s-hayspost-fees-2025"
+          ]
+        },
+        {
+          "id": "em-ron-wilson-00015",
+          "date": "Undated",
+          "body": "On bathrooms, vandalism, and social-media claims, Wilson's public stance is managerial and skeptical of online escalation. Hays Post reported that he said all schools deal with bathroom vandalism, that students lose privileges when they misuse spaces, and that the high school would clean bathrooms twice daily. Tiger Media Network reported that he said monitoring bathrooms for eight hours a day was nearly impossible and warned that Facebook claims exaggerated the scope. (Hays Post, Tiger Media Network)",
+          "sourceIds": [
+            "s-hayspost-bathroom-vandalism-2026"
           ]
         }
       ],
@@ -198,13 +189,8 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-ron-wilson-0051",
-          "src-ron-wilson-0052",
-          "src-ron-wilson-0025",
-          "src-ron-wilson-0026"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -217,9 +203,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
         "sourceIds": [
           "src-ron-wilson-0022",
           "s-hayspost-fees-2025",
-          "s-citizenjournal-march-2026",
-          "src-ron-wilson-0032",
-          "src-ron-wilson-0033"
+          "s-citizenjournal-march-2026"
         ]
       },
       "actions": [
@@ -245,22 +229,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "body": "On state policy, the accessible March 2026 local summary shows Wilson defending public-school funding channels. Citizen Journal reported that he warned the Kansas Senate budget removed funding from the mental-health intervention program, said inadequate special-education funding forces districts to pull from general funds, and flagged HB 2468 private-school tax credits as a concern because they could divert public tax dollars away from public schools. (Citizen Journal)",
           "sourceIds": [
             "s-citizenjournal-march-2026"
-          ]
-        },
-        {
-          "id": "em-ron-wilson-00694",
-          "date": "Undated",
-          "body": "Board member questions Hays USD 489 bond budget",
-          "sourceIds": [
-            "src-ron-wilson-0032"
-          ]
-        },
-        {
-          "id": "em-ron-wilson-00695",
-          "date": "Undated",
-          "body": "Hays USD 489 board scrutinizes bond budget",
-          "sourceIds": [
-            "src-ron-wilson-0033"
           ]
         }
       ],
@@ -321,25 +289,15 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: USD 489 / Hays Post article on Westside and mental-health/behavior supports, April 28, 2021. Source: https://www.usd489.com/article/448824 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: USD 489 official live feed, April 2020 meal suspension post attributed to Ron Wilson. Source: https://www.usd489.com/live-feed?page_no=31 6. USD 489 / Hays Post article on facilities survey and possible bond discussion, April 12, 2021. Source: https://www.usd489.com/article/437110 7. USD 489 / Hays Post article on Westside and mental-health/behavior supports, April 28, 2021. Source:... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-ron-wilson-0011",
           "src-ron-wilson-0010",
           "s-usd489-staff",
           "s-citizenjournal-march-2026",
-          "s-usd489-live-feed-2020",
-          "src-ron-wilson-0060"
+          "s-usd489-live-feed-2020"
         ]
       },
       "actions": [
-        {
-          "id": "em-ron-wilson-01119",
-          "date": "Undated",
-          "body": "USD 489 / Hays Post article on Westside and mental-health/behavior supports, April 28, 2021. Source: https://www.usd489.com/article/448824",
-          "sourceIds": [
-            "src-ron-wilson-0011"
-          ]
-        },
         {
           "id": "em-ron-wilson-01982",
           "date": "Undated",
@@ -392,33 +350,13 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: His public mental-health message is strongest in official testimony to the Kansas Legislature. Wilson described how Herington and then Hays participated in the Mental Health Intervention Team program, said 155 Hays High and Hays Middle School students used the program in the 2020-21 school year, and listed goals around academic performance, attendance, internalizing symptoms, and externalizing symptoms. He urged bet... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Hays USD 489 board votes not to add another manager for bond work Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-ron-wilson-0026",
-          "src-ron-wilson-0028",
           "s-hayspost-project-manager-2025",
-          "src-ron-wilson-0029",
-          "s-guidon-hiring-2019",
-          "src-ron-wilson-0038"
+          "s-guidon-hiring-2019"
         ]
       },
       "actions": [
-        {
-          "id": "em-ron-wilson-00337",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-ron-wilson-0026"
-          ]
-        },
-        {
-          "id": "em-ron-wilson-00628",
-          "date": "Undated",
-          "body": "Hays school board approves HHS, Roosevelt contract; discussion heated",
-          "sourceIds": [
-            "src-ron-wilson-0028"
-          ]
-        },
         {
           "id": "em-ron-wilson-00629",
           "date": "Undated",
@@ -428,27 +366,11 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-ron-wilson-00673",
-          "date": "Undated",
-          "body": "3 veterans elected to Hays USD 489 school board",
-          "sourceIds": [
-            "src-ron-wilson-0029"
-          ]
-        },
-        {
           "id": "em-ron-wilson-00819",
           "date": "Undated",
           "body": "School board votes, approves Ron Wilson as new superintendent (Guidon Online)",
           "sourceIds": [
             "s-guidon-hiring-2019"
-          ]
-        },
-        {
-          "id": "em-ron-wilson-00820",
-          "date": "Undated",
-          "body": "Hays School District hires new superintendent (KWCH)",
-          "sourceIds": [
-            "src-ron-wilson-0038"
           ]
         }
       ],
@@ -469,33 +391,13 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: His public mental-health message is strongest in official testimony to the Kansas Legislature. Wilson described how Herington and then Hays participated in the Mental Health Intervention Team program, said 155 Hays High and Hays Middle School students used the program in the 2020-21 school year, and listed goals around academic performance, attendance, internalizing symptoms, and externalizing symptoms. He urged bet... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Hays USD 489 board votes not to add another manager for bond work Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-ron-wilson-0026",
-          "src-ron-wilson-0028",
           "s-hayspost-project-manager-2025",
-          "src-ron-wilson-0029",
-          "s-guidon-hiring-2019",
-          "src-ron-wilson-0038"
+          "s-guidon-hiring-2019"
         ]
       },
       "actions": [
-        {
-          "id": "em-ron-wilson-00337",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-ron-wilson-0026"
-          ]
-        },
-        {
-          "id": "em-ron-wilson-00628",
-          "date": "Undated",
-          "body": "Hays school board approves HHS, Roosevelt contract; discussion heated",
-          "sourceIds": [
-            "src-ron-wilson-0028"
-          ]
-        },
         {
           "id": "em-ron-wilson-00629",
           "date": "Undated",
@@ -505,27 +407,11 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-ron-wilson-00673",
-          "date": "Undated",
-          "body": "3 veterans elected to Hays USD 489 school board",
-          "sourceIds": [
-            "src-ron-wilson-0029"
-          ]
-        },
-        {
           "id": "em-ron-wilson-00819",
           "date": "Undated",
           "body": "School board votes, approves Ron Wilson as new superintendent (Guidon Online)",
           "sourceIds": [
             "s-guidon-hiring-2019"
-          ]
-        },
-        {
-          "id": "em-ron-wilson-00820",
-          "date": "Undated",
-          "body": "Hays School District hires new superintendent (KWCH)",
-          "sourceIds": [
-            "src-ron-wilson-0038"
           ]
         }
       ],
@@ -673,6 +559,22 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-usd489-highbond-members",
+      "tier": "primary",
+      "url": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
+      "title": "Hays USD 489 HighBond/Diligent Public Meeting Roster",
+      "publisher": "Hays USD 489",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Ron Wilson is listed as Superintendent in the public meeting roster",
+        "The roster distinguishes Wilson from elected board members",
+        "\"Hays USD 489 Superintendent Ron Wilson\" - USD 489 board portal; https://usd489.community.highbond.com/portal/members.aspx?id=18",
+        "| USD 489 Diligent / HighBond public portal | FOUND | Public board portal lists Ron Wilson under \"About: Superintendent\" and includes him in board/committee meeting categories. Source: https://usd489.community.highbond.com/portal/members.aspx?id=18 |",
+        "USD 489 Diligent public portal listing Ron Wilson as Superintendent. Source: https://usd489.community.highbond.com/portal/members.aspx?id=18",
+        "[usd489.community.highbond.com](https://usd489.community.highbond.com/portal/members.aspx?id=18)"
+      ]
+    },
+    {
       "id": "s-usd489-live-feed-2020",
       "tier": "primary",
       "url": "https://www.usd489.com/live-feed?page_no=32",
@@ -771,6 +673,45 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-email-no-action-2022",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/d0e804e2-319a-4fb7-ae57-a22990fcee2d",
+      "title": "Ellis Co. Attorney: No action taken on Wilson email to USD 489 staff",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Ellis County Attorney Robert Anderson declined to pursue election-bribery charges",
+        "Anderson said he would take no action at that time",
+        "Hays Post article on county attorney declining action on Wilson email, May 25, 2022. Source: https://hayspost.com/posts/d0e804e2-319a-4fb7-ae57-a22990fcee2d"
+      ]
+    },
+    {
+      "id": "s-hayspost-public-education-legislation-2023",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/6b50b3cc-d002-47b0-a86b-5ab4d7f64904",
+      "title": "Hays USD 489 Super: Legislators mounting attacks on public schools",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Wilson criticized proposed state legislation affecting school days, private-school funding, curriculum posting, and school-board pay",
+        "Wilson discussed special-education underfunding and public-school funding concerns"
+      ]
+    },
+    {
+      "id": "s-hayspost-nepotism-2023",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8",
+      "title": "Hays USD 489 BOE debates nepotism again at Monday meeting",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Board debated hiring Superintendent Wilson's wife as a teacher",
+        "Hays Post reported the policy required disclosure but did not specifically prohibit administrators' relatives from working in the district",
+        "Personnel transactions were approved with Vajnar and Park opposed",
+        "[Hays USD 489 BOE debates nepotism again](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8)"
+      ]
+    },
+    {
       "id": "s-hayspost-project-manager-2025",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/e4ec7011-734d-4c18-ab28-c5b38d236126",
@@ -841,6 +782,20 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-tiger-admin-contracts-2026",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=95549",
+      "title": "Board of Education extends administrator, director contracts",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Wilson opposed voting on each administrator contract individually",
+        "Board approved administrator contract extensions through 2027-2028 in a 5-2 vote",
+        "Board approved director contract extensions 7-0",
+        "Tiger Media Network article on administrator/director contracts, March 10, 2026. Source: https://tigermedianet.com/?p=95549"
+      ]
+    },
+    {
       "id": "s-citizenjournal-march-2026",
       "tier": "secondary",
       "url": "https://www.citizenjournal.us/takeaways-from-hays-usd-489-education-board-meeting/",
@@ -858,6 +813,20 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-summer-projects-2026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/4da256ef-e1b7-4f2a-8ce3-7c24614c2c05",
+      "title": "Hays USD 489 board hears report on summer construction projects",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Wilson outlined 2026 summer construction/capital projects",
+        "Projects included Felten, O'Loughlin, ADA access, parking, HVAC, playground equipment, and technology rotation",
+        "2026: Wilson said the district's 2026 summer project season would be very busy, with Felten, O'Loughlin, playground, HVAC, ADA, parking, signs, classrooms, bathrooms, track, and parking-lot work. Source: https://hayspost.com/posts/4da256ef-e1b7-4f2a-8ce3-7c246",
+        "Hays Post article on summer construction projects, March 25, 2026. Source: https://hayspost.com/posts/4da256ef-e1b7-4f2a-8ce3-7c24614c2c05"
+      ]
+    },
+    {
       "id": "s-hayspost-bathroom-vandalism-2026",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede",
@@ -872,6 +841,33 @@ export const RON_WILSON_V2: CandidateFullV2 = {
         "On bathrooms and vandalism, Wilson's public posture is administrative enforcement plus skepticism toward social-media claims. Hays Post and Tiger Media Network quoted him saying schools struggle with vandalism, that students lose privileges if they misuse spac",
         "2026: Wilson pushed back on Facebook-driven bathroom claims and said vandalism is a districtwide operational issue. Sources: https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede and https://tigermedianet.com/?p=96863",
         "Hays Post article on bathrooms/vandalism, April 22, 2026. Source: https://hayspost.com/posts/7b63aeb8-e2d2-40a4-af96-5e92884d3ede"
+      ]
+    },
+    {
+      "id": "s-tiger-bathroom-vandalism-2026",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=96863",
+      "title": "Bathroom talk swirls at BOE meeting",
+      "publisher": "Tiger Media Network",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Wilson said all-day bathroom monitoring is nearly impossible",
+        "Wilson said the district takes vandalism and cleanliness seriously",
+        "Coverage describes Facebook posts as part of the public discussion",
+        "Tiger Media Network article on bathrooms/vandalism, April 23, 2026. Source: https://tigermedianet.com/?p=96863"
+      ]
+    },
+    {
+      "id": "s-hayspost-fees-2026",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/a546e68d-ac57-4107-9bd9-2bbeb0a4362c",
+      "title": "Hays USD 489 school board approves fees for 2026-27 school year",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Breakfast remained free for all students",
+        "Lunch prices increased by five cents",
+        "Wilson cited food cost increases and said a larger increase would have been preferable"
       ]
     },
     {
@@ -903,28 +899,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-ron-wilson-0011",
-      "tier": "primary",
-      "url": "https://www.usd489.com/article/448824",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "USD 489 / Hays Post article on Westside and mental-health/behavior supports, April 28, 2021. Source: https://www.usd489.com/article/448824"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0017",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 board members question parental rights in emergency policy revision](https://hayspost.com/posts/d89d076f-4f16-4002-a12d-d27ea8cd6471)"
-      ]
-    },
-    {
       "id": "src-ron-wilson-0022",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/4c6383bb-a3d5-40fe-9d6e-f35e54674e93",
@@ -935,118 +909,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
         "On capital spending, Wilson tends to argue from schedule, readiness, and operational need. In February 2025, he said the district had planned for expenses created by students and staff moving into new buildings and had enough capital-outlay funds with continge",
         "His later construction and capital-outlay remarks are pragmatic and schedule-driven. In 2025-2026 he argued for capital purchases because students and staff were moving into new buildings, said Hays Middle School furniture needed prompt purchase, called Felten",
         "Hays Post article on capital outlay and bond projects, February 5, 2025. Source: https://hayspost.com/posts/4c6383bb-a3d5-40fe-9d6e-f35e54674e93"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0025",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: NWester - Support for Catholic education alive, well in Ellis County](https://hayspost.com/posts/46c0cb3c-bd1a-435f-9d5a-598963fe942a)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0026",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0028",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays school board approves HHS, Roosevelt contract; discussion heated](https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984)",
-        "\"source\": \"Hays Post, 2025, https://hayspost.com/posts/6942435f-2284-422c-9ed9-5bf7d68c4984\","
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0029",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[3 veterans elected to Hays USD 489 school board](https://hayspost.com/posts/ff929dc5-f4f5-433c-876e-59fc19df6a2d)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0032",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Board member questions Hays USD 489 bond budget](https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0033",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 board scrutinizes bond budget](https://hayspost.com/posts/87f9b442-e928-4c9d-bb85-03acad9d2a3f)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0038",
-      "tier": "secondary",
-      "url": "https://www.kwch.com/content/news/Hays-School-District-hires-new-superintendent-505712821.html",
-      "title": "Kwch",
-      "publisher": "Kwch",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays School District hires new superintendent (KWCH)](https://www.kwch.com/content/news/Hays-School-District-hires-new-superintendent-505712821.html)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0051",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0052",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0060",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
       ]
     },
     {
@@ -1069,6 +931,32 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Tiger Media Network article on gender-neutral bathrooms and mascot discussion, April 9, 2024. Source: https://tigermedianet.com/?p=78383"
+      ]
+    },
+    {
+      "id": "src-ron-wilson-0082",
+      "tier": "primary",
+      "url": "https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390",
+      "title": "Ksde",
+      "publisher": "Ksde",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390",
+        "\"Ron Wilson\" - Kansas Educational Directory; https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390",
+        "[ksde.gov](https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390)"
+      ]
+    },
+    {
+      "id": "src-ron-wilson-0095",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/ron-wilson-96762118a/",
+      "title": "Linkedin",
+      "publisher": "Linkedin",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "\"url\": \"https://www.linkedin.com/in/ron-wilson-96762118a/\"",
+        "LinkedIn: [linkedin.com/in/ron-wilson-96762118a](https://www.linkedin.com/in/ron-wilson-96762118a/)",
+        "[linkedin.com/in/ron-wilson-96762118a](https://www.linkedin.com/in/ron-wilson-96762118a/)"
       ]
     }
   ]

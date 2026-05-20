@@ -44,9 +44,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-hayspost-2024-profile",
           "s-ellis-agenda-02032026",
-          "src-bobbi-dreiling-0037",
-          "src-bobbi-dreiling-0002",
-          "src-bobbi-dreiling-0003"
+          "s-ellis-agenda-04072026"
         ]
       },
       "actions": [
@@ -67,35 +65,19 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-bobbi-dreiling-00893",
-          "date": "Undated",
-          "body": "HaysPost: USD 489 to revisit dress code after satanism ban complaint",
-          "sourceIds": [
-            "src-bobbi-dreiling-0037"
-          ]
-        },
-        {
-          "id": "em-bobbi-dreiling-01238",
-          "date": "Undated",
-          "body": "Hays USD 489 Board of Education",
-          "sourceIds": [
-            "src-bobbi-dreiling-0002"
-          ]
-        },
-        {
-          "id": "em-bobbi-dreiling-01302",
-          "date": "Undated",
-          "body": "Hays Public Library Board",
-          "sourceIds": [
-            "src-bobbi-dreiling-0003"
-          ]
-        },
-        {
           "id": "em-bobbi-dreiling-02232",
           "date": "Undated",
           "body": "The most recent public outreach item found was civic-engagement oriented: a 2026 student-designed \"I Voted\" sticker contest. In the February 3, 2026 commission packet, Dreiling wrote that she hoped the contest would inspire future voters and help teachers incorporate civics lessons. In the April 7, 2026 packet, she reported 60 entries and selected three designs rather than one because there were many good designs. (February packet, April packet)",
           "sourceIds": [
             "s-ellis-agenda-02032026"
+          ]
+        },
+        {
+          "id": "em-bobbi-dreiling-02249",
+          "date": "Undated",
+          "body": "Ellis County April 7, 2026 commission packet. Key signal: Dreiling's contest-results cover sheet: 60 entries and three selected student designs. (source)",
+          "sourceIds": [
+            "s-ellis-agenda-04072026"
           ]
         }
       ],
@@ -116,11 +98,8 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: BobJane 'Bobbi' Dreiling Obituary Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-bobbi-dreiling-0039",
-          "src-bobbi-dreiling-0040",
-          "src-bobbi-dreiling-0041",
           "src-bobbi-dreiling-0042"
         ]
       },
@@ -135,9 +114,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-hayspost-2024-profile",
           "s-kansasreflector-fhsu-2023",
-          "src-bobbi-dreiling-0006",
-          "src-bobbi-dreiling-0048",
-          "src-bobbi-dreiling-0049"
+          "src-bobbi-dreiling-0006"
         ]
       },
       "actions": [
@@ -262,33 +239,18 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: ICE Bill Support -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-bobbi-dreiling-0052",
-          "src-bobbi-dreiling-0051",
-          "src-bobbi-dreiling-0053"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-bobbi-dreiling-00409",
-          "date": "Undated",
-          "body": "ICE Bill Support -- Hays Post",
-          "sourceIds": [
-            "src-bobbi-dreiling-0052"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: KSHB: Former Kansas governor volunteers on medical mission in Ukraine Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-bobbi-dreiling-0055"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -402,63 +364,18 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: Resuming Pot Cases -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: ACLU Kansas Press Release Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-bobbi-dreiling-0041",
-          "src-bobbi-dreiling-0061",
-          "src-bobbi-dreiling-0062",
-          "src-bobbi-dreiling-0063",
-          "src-bobbi-dreiling-0013",
-          "src-bobbi-dreiling-0064"
+          "s-aclu-fhsu-petition-2024"
         ]
       },
       "actions": [
         {
-          "id": "em-bobbi-dreiling-00490",
+          "id": "em-bobbi-dreiling-00572",
           "date": "Undated",
-          "body": "Resuming Pot Cases -- Hays Post",
+          "body": "ACLU Kansas Press Release",
           "sourceIds": [
-            "src-bobbi-dreiling-0041"
-          ]
-        },
-        {
-          "id": "em-bobbi-dreiling-00491",
-          "date": "Undated",
-          "body": "Delta-8 Warning -- Hays Post",
-          "sourceIds": [
-            "src-bobbi-dreiling-0061"
-          ]
-        },
-        {
-          "id": "em-bobbi-dreiling-00492",
-          "date": "Undated",
-          "body": "Criminal Threat Sentencing -- Hays Post",
-          "sourceIds": [
-            "src-bobbi-dreiling-0062"
-          ]
-        },
-        {
-          "id": "em-bobbi-dreiling-00493",
-          "date": "Undated",
-          "body": "Drug Death Case -- Salina Post",
-          "sourceIds": [
-            "src-bobbi-dreiling-0063"
-          ]
-        },
-        {
-          "id": "em-bobbi-dreiling-00495",
-          "date": "Undated",
-          "body": "Ellis County Attorney Official Page",
-          "sourceIds": [
-            "src-bobbi-dreiling-0013"
-          ]
-        },
-        {
-          "id": "em-bobbi-dreiling-00515",
-          "date": "Undated",
-          "body": "Revenue Neutral Rate -- Hays Post",
-          "sourceIds": [
-            "src-bobbi-dreiling-0064"
+            "s-aclu-fhsu-petition-2024"
           ]
         }
       ],
@@ -468,13 +385,8 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: USDA: KS State Director announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-bobbi-dreiling-0023",
-          "src-bobbi-dreiling-0096",
-          "src-bobbi-dreiling-0098",
-          "src-bobbi-dreiling-0097"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -596,7 +508,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Bobbi Dreiling is profiled here for Ellis County Clerk / Election Officer as a Republican incumbent/current official. Her recurring self-description is experience. In her 2020 Hays Post candidate profile, Dreiling said she was running because she knew the office, believed the clerk job required experience, enjoyed serving the public, and had worked underneath the prior clerk... Her election-security argument is procedural and concrete. She points to paper ballots, post-election audits, matching poll-pad data with ballots and result media, training poll workers, checking election equipment before and after elections, counting ballots... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 29 source-backed actions across 6 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. I... Education / curriculum / schools: The latest Dreiling-authored public outreach item found was the 2026 Ellis County \"I Voted\" sticker contest. In a commission packet letter to school superintendents, she wrote that a student-designed stick... Education / curriculum / schools: HaysPost: USD 489 to revisit dress code after satanism ban complaint. Education / curriculum / schools: Hays USD 489 Board of Education. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 21 source-backed actions across 5 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. I... Education / curriculum / schools: The latest Dreiling-authored public outreach item found was the 2026 Ellis County \"I Voted\" sticker contest. In a commission packet letter to school superintendents, she wrote that a student-designed stick... Education / curriculum / schools: The most recent public outreach item found was civic-engagement oriented: a 2026 student-designed \"I Voted\" sticker contest. In the February 3, 2026 commission packet, Dreiling wrote that she hoped the con... Education / curriculum / schools: Ellis County April 7, 2026 commission packet. Key signal: Dreiling's contest-results cover sheet: 60 entries and three selected student designs. (source). Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Family and obituary material in the source record points to a Catholic background, but the file does not support naming a current parish.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
@@ -607,6 +519,84 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
   },
   "socialResearchNote": "15 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
+    {
+      "id": "s-ellis-clerk-page",
+      "tier": "primary",
+      "url": "https://ellisco.net/93/Clerk",
+      "title": "Clerk",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Bobbi L. Dreiling is listed as Ellis County Clerk",
+        "County clerk is an elected four-year office",
+        "County clerk duties include county commission minutes, tax-roll certification, county election officer duties, accounts payable, tax levies, and issuing board-approved orders",
+        "Official clerk page: https://ellisco.net/93/Clerk",
+        "s-ellis-clerk-page - https://ellisco.net/93/Clerk",
+        "https://ellisco.net/93/Clerk - primary current status"
+      ]
+    },
+    {
+      "id": "s-ellis-election-page",
+      "tier": "primary",
+      "url": "https://ellisco.net/425/Election",
+      "title": "Election",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Bobbi L. Dreiling is listed as County Clerk/Election Official",
+        "Ellis County election page provides voter registration, advance voting, mail-ballot, and VoterView information",
+        "Official election page: https://ellisco.net/425/Election",
+        "s-ellis-election-page - https://ellisco.net/425/Election",
+        "https://ellisco.net/425/Election - primary",
+        "https://ellisco.net/425/Election - primary current status"
+      ]
+    },
+    {
+      "id": "s-ellis-staff-directory",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/directory.aspx?EID=19",
+      "title": "Staff Directory - Bobbi Dreiling",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Bobbi Dreiling is listed as County Clerk / Election Officer",
+        "| Staff directory | https://www.ellisco.net/directory.aspx?EID=19 | FOUND | County staff directory identifies Bobbi Dreiling as county clerk / election officer. |",
+        "Ellis County staff directory. Key signal: Bobbi Dreiling listed as county clerk / election officer. ([source](https://www.ellisco.net/directory.aspx?EID=19))",
+        "https://www.ellisco.net/directory.aspx?EID=19 - primary",
+        "s-ellis-staff-directory - https://www.ellisco.net/directory.aspx?EID=19",
+        "[ellisco.net](https://www.ellisco.net/directory.aspx?EID=19)"
+      ]
+    },
+    {
+      "id": "s-ellis-2024-official-results",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results",
+      "title": "2024 General Election Official Results",
+      "publisher": "Ellis County Clerk / Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Official county clerk result: REP Bobbi L. Dreiling 10,211; DEM Laura Allen 3,060; write-in totals 12",
+        "PDF URL: https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results",
+        "Official result URL: https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results",
+        "s-ellis-2024-official-results - https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results",
+        "https://www.ellisco.net/DocumentCenter/View/5620/2024-Official-Results"
+      ]
+    },
+    {
+      "id": "s-kcceoa-northwest",
+      "tier": "primary",
+      "url": "https://www.kcceoa.org/county-clerks/northwest",
+      "title": "Northwest District",
+      "publisher": "Kansas County Clerks and Election Officials Association",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Bobbi Dreiling is listed as Ellis County Clerk",
+        "The listing says she has been in office since 2021",
+        "s-kcceoa-northwest - https://www.kcceoa.org/county-clerks/northwest",
+        "| Kansas County Clerks and Election Officials Association | https://www.kcceoa.org/county-clerks/northwest | FOUND | Northwest district listing identifies Bobbi Dreiling, Ellis County clerk, in office since 2021. |",
+        "Kansas County Clerks and Election Officials Association northwest district listing. Key signal: Bobbi Dreiling, Ellis County clerk, in office since 2021. ([source](https://www.kcceoa.org/county-clerks/northwest))"
+      ]
+    },
     {
       "id": "s-ellis-agenda-02032026",
       "tier": "primary",
@@ -625,6 +615,59 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
         "s-ellis-agenda-02032026 - https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_02032026-726",
         "https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_02032026-726 - primary",
         "https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_02032026-726"
+      ]
+    },
+    {
+      "id": "s-ellis-agenda-04072026",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_04072026-741",
+      "title": "Ellis County Commission Agenda Packet - April 7, 2026",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Dreiling reported 39 entries from USD 432, 20 from USD 388, and one from USD 489 for the I Voted sticker contest",
+        "Dreiling selected three winning designs",
+        "Ellis County April 7, 2026 commission packet. Key signal: Dreiling's contest-results cover sheet: 60 entries and three selected student designs. ([source](https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_04072026-741))",
+        "s-ellis-agenda-04072026 - https://www.ellisco.net/AgendaCenter/ViewFile/Agenda/_04072026-741"
+      ]
+    },
+    {
+      "id": "s-ellis-ds200-public-test",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5809/public-test",
+      "title": "Public Demonstration of the DS200 Election Ballot Scanner",
+      "publisher": "Ellis County Clerk / Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Dreiling signed a public notice for an October 6, 2025 DS200 election ballot scanner demonstration",
+        "s-ellis-ds200-public-test - https://www.ellisco.net/DocumentCenter/View/5809/public-test",
+        "https://www.ellisco.net/DocumentCenter/View/5809/public-test - primary public DS200 scanner demonstration notice"
+      ]
+    },
+    {
+      "id": "s-ellis-close-books-2025",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5797/Close-of-Books-Notice-of-Places---Copy",
+      "title": "Close of Books Notice of Places",
+      "publisher": "Ellis County Clerk / Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Dreiling signed an August 20, 2025 voter registration close-of-books notice",
+        "The notice identifies her as Ellis County Clerk/Election Officer",
+        "s-ellis-close-books-2025 - https://www.ellisco.net/DocumentCenter/View/5797/Close-of-Books-Notice-of-Places---Copy"
+      ]
+    },
+    {
+      "id": "s-kansas-campaign-finance-portal",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/campaign-finance/",
+      "title": "Campaign Finance Data",
+      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Public state campaign-finance portal did not surface a usable Bobbi Dreiling county-clerk donor table in this pass",
+        "s-kansas-campaign-finance-portal - https://www.kansas.gov/campaign-finance/",
+        "https://www.kansas.gov/campaign-finance/ - primary public campaign-finance data portal"
       ]
     },
     {
@@ -696,6 +739,20 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-hayspost-canvass-2024",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/0c4a7379-b39d-4948-a0f3-91abbf78b149",
+      "title": "No changes after Ellis County general election canvass",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Dreiling presented 309 provisional ballots to the canvassing board",
+        "224 provisional ballots were accepted and 81 were rejected because voters were not registered in Ellis County",
+        "No races changed after provisional ballots",
+        "s-hayspost-canvass-2024 - https://hayspost.com/posts/0c4a7379-b39d-4948-a0f3-91abbf78b149"
+      ]
+    },
+    {
       "id": "s-kansasreflector-fhsu-2023",
       "tier": "secondary",
       "url": "https://kansasreflector.com/2023/11/06/students-county-clerk-embroiled-in-monthslong-clash-over-fort-hays-polling-location/",
@@ -716,25 +773,35 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-bobbi-dreiling-0002",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
+      "id": "s-aclu-fhsu-petition-2024",
+      "tier": "secondary",
+      "url": "https://www.aclukansas.org/press-releases/hundreds-ellis-county-sign-petition-polling-location-fhsu/",
+      "title": "Hundreds in Ellis County Sign Petition for Polling Location at FHSU",
+      "publisher": "ACLU of Kansas",
+      "accessed": "2026-05-19",
       "claimsAnchored": [
-        "[Hays USD 489 Board of Education](https://www.usd489.com/page/board-of-education)"
+        "ACLU of Kansas said local leaders planned to deliver a petition to Dreiling seeking an FHSU campus polling location",
+        "The press release framed the request as a voting-access issue",
+        "[ACLU Kansas Press Release](https://www.aclukansas.org/press-releases/hundreds-ellis-county-sign-petition-polling-location-fhsu/)",
+        "ACLU of Kansas: https://www.aclukansas.org/press-releases/hundreds-ellis-county-sign-petition-polling-location-fhsu/",
+        "s-aclu-fhsu-petition-2024 - https://www.aclukansas.org/press-releases/hundreds-ellis-county-sign-petition-polling-location-fhsu/",
+        "[ACLU Kansas: FHSU petition](https://www.aclukansas.org/press-releases/hundreds-ellis-county-sign-petition-polling-location-fhsu/)",
+        "https://www.aclukansas.org/press-releases/hundreds-ellis-county-sign-petition-polling-location-fhsu/ - secondary advocacy source"
       ]
     },
     {
-      "id": "src-bobbi-dreiling-0003",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
+      "id": "s-facebook-campaign-page",
+      "tier": "social",
+      "url": "https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/",
+      "title": "Bobbi Dreiling for Ellis County Clerk",
+      "publisher": "Facebook",
+      "accessed": "2026-05-19",
       "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
+        "A candidate Facebook page exists or existed, but native logged-out access did not support post inventory or engagement claims",
+        "https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/",
+        "s-facebook-campaign-page - https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/",
+        "Facebook (Campaign): [Bobbi Dreiling for Ellis County Clerk](https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/)",
+        "[Bobbi Dreiling for Ellis County Clerk](https://www.facebook.com/people/Bobbi-Dreiling-for-Ellis-County-Clerk/100067810926476/)"
       ]
     },
     {
@@ -758,73 +825,17 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-bobbi-dreiling-0013",
+      "id": "src-bobbi-dreiling-0015",
       "tier": "primary",
-      "url": "https://www.ellisco.net/92/Attorney",
+      "url": "https://www.ellisco.net/425/Election",
       "title": "Ellisco",
       "publisher": "Ellisco",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Ellis County Attorney Official Page](https://www.ellisco.net/92/Attorney)"
-      ]
-    },
-    {
-      "id": "src-bobbi-dreiling-0023",
-      "tier": "primary",
-      "url": "https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas",
-      "title": "Rd.Usda",
-      "publisher": "Rd.Usda",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[USDA: KS State Director announcement](https://www.rd.usda.gov/newsroom/news-release/usda-announces-rural-development-state-director-kansas)"
-      ]
-    },
-    {
-      "id": "src-bobbi-dreiling-0037",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: USD 489 to revisit dress code after satanism ban complaint](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)",
-        "[HaysPost: USD 489 to revisit dress code](https://hayspost.com/posts/e153a0fc-fe06-4de4-b5c7-d6f0d57fa59b)"
-      ]
-    },
-    {
-      "id": "src-bobbi-dreiling-0039",
-      "tier": "secondary",
-      "url": "https://www.hfehays.org/o/hfe/article/923439",
-      "title": "Hfehays",
-      "publisher": "Hfehays",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Catholic Schools Advancement Director Announcement](https://www.hfehays.org/o/hfe/article/923439)"
-      ]
-    },
-    {
-      "id": "src-bobbi-dreiling-0040",
-      "tier": "secondary",
-      "url": "https://www.ihm-church.com/",
-      "title": "Ihm-Church",
-      "publisher": "Ihm-Church",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Immaculate Heart of Mary Parish](https://www.ihm-church.com/)",
-        "\"url\": \"https://www.ihm-church.com/\","
-      ]
-    },
-    {
-      "id": "src-bobbi-dreiling-0041",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: New Ellis County Attorney](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)",
-        "[Resuming Pot Cases -- Hays Post](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)",
-        "\"source\": \"Hays Post, February 17, 2025, https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1\","
+        "[Ellis County Election Page](https://www.ellisco.net/425/Election)",
+        "| Ellis County Clerk (Election Office) | 785-628-9410 | [ellisco.net/425/Election](https://www.ellisco.net/425/Election) |",
+        "| Official county election page | https://www.ellisco.net/425/Election | FOUND | Official election page names Bobbi L. Dreiling as county clerk/election official and gives voter registration, advance voting, VoterView, and contact details. |",
+        "Official Ellis County election page. Key signal: voter registration, advance voting, VoterView, mail ballot links, and Dreiling as county clerk/election official. ([source](https://www.ellisco.net/425/Election))"
       ]
     },
     {
@@ -836,73 +847,6 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[BobJane 'Bobbi' Dreiling Obituary](https://hayspost.com/posts/08825e68-f663-4a03-96f4-0b2c6f0b4ec7)"
-      ]
-    },
-    {
-      "id": "src-bobbi-dreiling-0048",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Freshman senator](https://kansasreflector.com/2025/03/03/freshman-kansas-senator-trying-to-stop-bad-stuff-while-pressing-for-property-tax-relief/)"
-      ]
-    },
-    {
-      "id": "src-bobbi-dreiling-0049",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2026 budget/mill levy](https://hayspost.com/posts/0e698b7b-a28f-4a21-9b40-880346e893ec)"
-      ]
-    },
-    {
-      "id": "src-bobbi-dreiling-0051",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ICE Agreement Explained -- Hays Post](https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6)",
-        "\"source\": \"Hays Post, November 20, 2025, https://hayspost.com/posts/3bc2ad3c-f94d-4a73-a42b-77f18e6317d6\","
-      ]
-    },
-    {
-      "id": "src-bobbi-dreiling-0052",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ICE Bill Support -- Hays Post](https://hayspost.com/posts/69131eb8-04ac-4b1d-9561-e24c9309ad07)"
-      ]
-    },
-    {
-      "id": "src-bobbi-dreiling-0053",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Immigration lawyer runs](https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/)"
-      ]
-    },
-    {
-      "id": "src-bobbi-dreiling-0055",
-      "tier": "secondary",
-      "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
-      "title": "Kshb",
-      "publisher": "Kshb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
       ]
     },
     {
@@ -940,81 +884,88 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-bobbi-dreiling-0061",
+      "id": "src-bobbi-dreiling-0065",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/9397fb25-5dc6-4443-a340-6aae96abc594",
+      "url": "https://hayspost.com/posts/7c1c8817-1e3a-4c50-951e-895526935cf1",
       "title": "Hayspost",
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Delta-8 Warning -- Hays Post](https://hayspost.com/posts/9397fb25-5dc6-4443-a340-6aae96abc594)"
+        "A letter to the editor from a Democratic candidate was published criticizing Dreiling's election administration (details in [Hays Post](https://hayspost.com/posts/7c1c8817-1e3a-4c50-951e-895526935cf1))",
+        "Hays Post letter by Laura Allen, August 2024. Key signal: third-party criticism referencing Dreiling's official candidate Facebook page; not treated as Dreiling's own messaging except as account-presence evidence. ([source](https://hayspost.com/posts/7c1c8817-",
+        "s-hayspost-allen-letter-2024 - https://hayspost.com/posts/7c1c8817-1e3a-4c50-951e-895526935cf1",
+        "[Hays Post: Allen criticism letter](https://hayspost.com/posts/7c1c8817-1e3a-4c50-951e-895526935cf1)",
+        "[Hays Post](https://hayspost.com/posts/7c1c8817-1e3a-4c50-951e-895526935cf1)"
       ]
     },
     {
-      "id": "src-bobbi-dreiling-0062",
+      "id": "src-bobbi-dreiling-0070",
       "tier": "secondary",
-      "url": "https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58",
+      "url": "https://hayspost.com/posts/1fa3b93b-40fb-493c-ab10-6969085c9236",
       "title": "Hayspost",
       "publisher": "Hayspost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Criminal Threat Sentencing -- Hays Post](https://hayspost.com/posts/a5f579fa-6c33-44fd-921e-5a8435208d58)"
+        "[Dreiling Answers Polling Questions (Letter) -- Hays Post](https://hayspost.com/posts/1fa3b93b-40fb-493c-ab10-6969085c9236)"
       ]
     },
     {
-      "id": "src-bobbi-dreiling-0063",
+      "id": "src-bobbi-dreiling-0122",
       "tier": "secondary",
-      "url": "https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3",
-      "title": "Salinapost",
-      "publisher": "Salinapost",
+      "url": "https://www.ike-lab.com/complete_elex_2024_gen_cotwp_Ellis.html",
+      "title": "Ike-Lab",
+      "publisher": "Ike-Lab",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Drug Death Case -- Salina Post](https://salinapost.com/posts/4397834a-4587-449e-ac2b-6effc74eb6c3)"
+        "IKE Lab 2024 general county results. Key signal: independent public results page listing Dreiling's 2024 reelection vote total as 10,211; Hays Post reported unofficial night-of 9,971. ([source](https://www.ike-lab.com/complete_elex_2024_gen_cotwp_Ellis.html))"
       ]
     },
     {
-      "id": "src-bobbi-dreiling-0064",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/1003f2e5-b320-47b2-8fb1-4bbc626ef191",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
+      "id": "src-bobbi-dreiling-0125",
+      "tier": "social",
+      "url": "https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/",
+      "title": "Facebook",
+      "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Revenue Neutral Rate -- Hays Post](https://hayspost.com/posts/1003f2e5-b320-47b2-8fb1-4bbc626ef191)"
+        "[Facebook Page](https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/)",
+        "Facebook: [Bobbi Dreiling for Ellis County Clerk](https://www.facebook.com/p/Bobbi-Dreiling-for-Ellis-County-Clerk-100067810926476/)"
       ]
     },
     {
-      "id": "src-bobbi-dreiling-0096",
+      "id": "src-bobbi-dreiling-0127",
       "tier": "secondary",
-      "url": "https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849",
-      "title": "Issuu",
-      "publisher": "Issuu",
+      "url": "https://www.lkm.org/members/?id=72664620",
+      "title": "Lkm",
+      "publisher": "Lkm",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Municipal Water Leader Magazine](https://issuu.com/waterstrategies/docs/mwl_october_2020/s/11017849)"
+        "| League of Kansas Municipalities profile | https://www.lkm.org/members/?id=72664620 | FOUND | Professional public profile, last updated 2026-01-05, lists Bobbi Dreiling as Ellis County county clerk. No personal message stream visible. |",
+        "League of Kansas Municipalities profile. Key signal: professional listing, Ellis County county clerk, last updated 2026-01-05. ([source](https://www.lkm.org/members/?id=72664620))"
       ]
     },
     {
-      "id": "src-bobbi-dreiling-0097",
+      "id": "src-bobbi-dreiling-0128",
       "tier": "secondary",
-      "url": "https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/",
-      "title": "Kwch",
-      "publisher": "Kwch",
+      "url": "https://kansasreflector.com/2024/04/17/hundreds-of-signatures-in-favor-of-fort-hays-state-polling-location-sent-to-ellis-county-clerk/",
+      "title": "Kansasreflector",
+      "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[KWCH: $15M grant](https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/)",
-        "\"source\": \"KWCH / Hays water coverage, 2025-04-03, https://www.kwch.com/2025/04/03/city-hays-awarded-15m-grant-secure-long-term-water-supply/\","
+        "Kansas Reflector April 2024 petition article. Key signal: 480-signature petition context; mostly third-party advocacy, with no new Dreiling quote in accessible snippet. ([source](https://kansasreflector.com/2024/04/17/hundreds-of-signatures-in-favor-of-fort-ha",
+        "The highest visible public attention was issue-driven rather than social engagement: the FHSU polling-location dispute generated Kansas Reflector coverage, ACLU of Kansas campaign/press materials, Hays Post letters, a 480-signature petition delivered in April"
       ]
     },
     {
-      "id": "src-bobbi-dreiling-0098",
+      "id": "src-bobbi-dreiling-0176",
       "tier": "secondary",
-      "url": "https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/",
-      "title": "Eenews",
-      "publisher": "Eenews",
+      "url": "https://downingandlahey.com/obits/bobjane-bobbi-dreiling/",
+      "title": "Downingandlahey",
+      "publisher": "Downingandlahey",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[E&E News/POLITICO: R9 water dispute](https://www.eenews.net/articles/farm-vs-city-kansas-water-law-gets-a-major-stress-test/)"
+        "Public obituary source: [Downing & Lahey obituary](https://downingandlahey.com/obits/bobjane-bobbi-dreiling/)",
+        "[Downing & Lahey obituary](https://downingandlahey.com/obits/bobjane-bobbi-dreiling/)"
       ]
     }
   ]

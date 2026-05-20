@@ -53,59 +53,11 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public evidence: Ballotpedia: Kansas SBOE election 2026 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-pat-proctor-0014",
-          "src-pat-proctor-0001",
-          "src-pat-proctor-0015"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-pat-proctor-00423",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas SBOE election 2026",
-          "sourceIds": [
-            "src-pat-proctor-0014"
-          ]
-        },
-        {
-          "id": "em-pat-proctor-00424",
-          "date": "Undated",
-          "body": "Kansas State Department of Education: District 5",
-          "sourceIds": [
-            "src-pat-proctor-0001"
-          ]
-        },
-        {
-          "id": "em-pat-proctor-00425",
-          "date": "Undated",
-          "body": "Kansas Reflector: Board races could shift power to conservative bloc",
-          "sourceIds": [
-            "src-pat-proctor-0015"
-          ]
-        },
-        {
-          "id": "em-pat-proctor-01009",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\"",
-          "sourceIds": [
-            "src-pat-proctor-0001"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "soc-pat-proctor-0004",
-          "platform": "YouTube",
-          "observation": "For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 YouTube video addresses bringing jobs and opportunity back to Leavenworth. His campaign and legislative biographies foreground his co-ownership with his wife Aree of Baan Thai Restaurant in Leavenworth. The April 2025 Wichita State University listing identifies him a...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0059"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
@@ -121,21 +73,10 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public evidence: Brennan Center: Wisconsin Supreme Court spending record Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-pat-proctor-0016"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-pat-proctor-00381",
-          "date": "Undated",
-          "body": "Brennan Center: Wisconsin Supreme Court spending record",
-          "sourceIds": [
-            "src-pat-proctor-0016"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -157,18 +98,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-pat-proctor-0004",
-          "platform": "YouTube",
-          "observation": "For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 YouTube video addresses bringing jobs and opportunity back to Leavenworth. His campaign and legislative biographies foreground his co-ownership with his wife Aree of Baan Thai Restaurant in Leavenworth. The April 2025 Wichita State University listing identifies him a...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0059"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-guns-second-amendment",
@@ -184,31 +114,18 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public evidence: CNN: 8 states vote to bar noncitizen voting Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-pat-proctor-0019"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-pat-proctor-00390",
-          "date": "Undated",
-          "body": "CNN: 8 states vote to bar noncitizen voting",
-          "sourceIds": [
-            "src-pat-proctor-0019"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: Ballotpedia: Kansas Insurance Commissioner 2026 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-pat-proctor-0020"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
@@ -217,62 +134,55 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate-stated evidence: Kansas Reflector - Private video leaked Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-pat-proctor-0051",
-          "s-kpdc-202601",
-          "s-sos-candidate-info-2026",
-          "s-sos-dates-2026",
-          "s-joco-candidate"
+          "s-joco-candidate",
+          "s-campaign-home",
+          "s-hb2453-rollcall",
+          "s-reflector-ballot-harvesting",
+          "src-pat-proctor-0024",
+          "src-pat-proctor-0021"
         ]
       },
       "actions": [
-        {
-          "id": "em-pat-proctor-00892",
-          "date": "Undated",
-          "body": "Kansas Reflector - Private video leaked",
-          "sourceIds": [
-            "src-pat-proctor-0051"
-          ]
-        },
-        {
-          "id": "em-pat-proctor-01018",
-          "date": "Undated",
-          "body": "\"url\": \"https://kansasreflector.com/2025/02/14/in-private-video-house-elections-chair-says-he-wants-to-end-early-voting-grace-period-in-kansas/\"",
-          "sourceIds": [
-            "src-pat-proctor-0051"
-          ]
-        },
-        {
-          "id": "em-pat-proctor-00032",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf\"",
-          "sourceIds": [
-            "s-kpdc-202601"
-          ]
-        },
-        {
-          "id": "em-pat-proctor-00120",
-          "date": "Undated",
-          "body": "Kansas Secretary of State candidate information: https://www.sos.ks.gov/elections/candidate-information.html",
-          "sourceIds": [
-            "s-sos-candidate-info-2026"
-          ]
-        },
-        {
-          "id": "em-pat-proctor-00121",
-          "date": "Undated",
-          "body": "Kansas Secretary of State important dates: https://sos.ks.gov/elections/important-election-dates.html",
-          "sourceIds": [
-            "s-sos-dates-2026"
-          ]
-        },
         {
           "id": "em-pat-proctor-00123",
           "date": "Undated",
           "body": "Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor",
           "sourceIds": [
             "s-joco-candidate"
+          ]
+        },
+        {
+          "id": "em-pat-proctor-00127",
+          "date": "Undated",
+          "body": "Proctor campaign site: https://patproctor4ks.com/",
+          "sourceIds": [
+            "s-campaign-home"
+          ]
+        },
+        {
+          "id": "em-pat-proctor-00134",
+          "date": "Undated",
+          "body": "HB 2453 roll call: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt",
+          "sourceIds": [
+            "s-hb2453-rollcall"
+          ]
+        },
+        {
+          "id": "em-pat-proctor-00140",
+          "date": "Undated",
+          "body": "Kansas Reflector June 13, 2025 social/election-confidence article: https://kansasreflector.com/2025/06/13/kansas-republican-exploits-fear-of-imaginary-axis-of-ballot-harvesting-to-gain-political-advantage/",
+          "sourceIds": [
+            "s-reflector-ballot-harvesting"
+          ]
+        },
+        {
+          "id": "em-pat-proctor-00141",
+          "date": "Undated",
+          "body": "Kansas Reflector April 4, 2025 campaign announcement: https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
+          "sourceIds": [
+            "src-pat-proctor-0024"
           ]
         }
       ],
@@ -298,19 +208,19 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-pat-proctor-0004",
-          "platform": "YouTube",
-          "observation": "For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 YouTube video addresses bringing jobs and opportunity back to Leavenworth. His campaign and legislative biographies foreground his co-ownership with his wife Aree of Baan Thai Restaurant in Leavenworth. The April 2025 Wichita State University listing identifies him a...",
+          "id": "soc-pat-proctor-0005",
+          "platform": "Facebook",
+          "observation": "Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled \"Kris Kobach Wanted This 20-Year-Old To Go To Jail For…\" framing his own enforcement stance against Attorney General Kris Kobach's. A separate page post identifies him as \"the chairman of your House Elect...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-pat-proctor-0059"
+            "src-pat-proctor-0060"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-pat-proctor-0005",
+          "id": "soc-pat-proctor-0006",
           "platform": "Facebook",
-          "observation": "Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled \"Kris Kobach Wanted This 20-Year-Old To Go To Jail For…\" framing his own enforcement stance against Attorney General Kris Kobach's. A separate page post identifies him as \"the chairman of your House Elect...",
+          "observation": "Engagement on Proctor's content is not evenly distributed. His Facebook page hosts the highest-engagement videos when they touch enforcement of election law and ballot-integrity claims, including the Kobach-framed enforcement video. Critical engagement is also concentrated there: the activist account Loud Light reposts and challenges his statements at video-length, including a clip titled \"Rep. Pat Proctor after bei...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-pat-proctor-0060"
@@ -323,75 +233,11 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-kpdc-202601",
-          "s-kpdc-index",
-          "src-pat-proctor-0026",
-          "src-pat-proctor-0027"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-pat-proctor-00032",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf\"",
-          "sourceIds": [
-            "s-kpdc-202601"
-          ]
-        },
-        {
-          "id": "em-pat-proctor-00167",
-          "date": "Undated",
-          "body": "Kansas Ethics filing index: SWLinks2026EC",
-          "sourceIds": [
-            "s-kpdc-index"
-          ]
-        },
-        {
-          "id": "em-pat-proctor-00168",
-          "date": "Undated",
-          "body": "2026 filing PDF: SW04PP_202601.pdf",
-          "sourceIds": [
-            "s-kpdc-202601"
-          ]
-        },
-        {
-          "id": "em-pat-proctor-00174",
-          "date": "Undated",
-          "body": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW04PP_202601.pdf",
-          "sourceIds": [
-            "s-kpdc-202601"
-          ]
-        },
-        {
-          "id": "em-pat-proctor-00372",
-          "date": "Undated",
-          "body": "Ballotpedia: Kansas Elections for Supreme Court Justices Amendment)",
-          "sourceIds": [
-            "src-pat-proctor-0026"
-          ]
-        },
-        {
-          "id": "em-pat-proctor-00373",
-          "date": "Undated",
-          "body": "Kansas Reflector: Rivals launch fight over amendment",
-          "sourceIds": [
-            "src-pat-proctor-0027"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-pat-proctor-0004",
-          "platform": "YouTube",
-          "observation": "For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 YouTube video addresses bringing jobs and opportunity back to Leavenworth. His campaign and legislative biographies foreground his co-ownership with his wife Aree of Baan Thai Restaurant in Leavenworth. The April 2025 Wichita State University listing identifies him a...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0059"
-          ],
-          "mappedToIssueId": "i-public-safety-law-enforcement-criminal-justice"
-        },
         {
           "id": "soc-pat-proctor-0005",
           "platform": "Facebook",
@@ -428,33 +274,17 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: Kansas Secretary of State candidate information: https://www.sos.ks.gov/elections/candidate-information.html Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-sos-candidate-info-2026",
-          "s-sos-dates-2026",
           "s-joco-candidate",
           "s-campaign-home",
-          "s-eac-board",
-          "s-eac-roster-2026"
+          "s-eac-roster-2026",
+          "s-reflector-ballot-harvesting",
+          "src-pat-proctor-0024",
+          "src-pat-proctor-0021"
         ]
       },
       "actions": [
-        {
-          "id": "em-pat-proctor-00120",
-          "date": "Undated",
-          "body": "Kansas Secretary of State candidate information: https://www.sos.ks.gov/elections/candidate-information.html",
-          "sourceIds": [
-            "s-sos-candidate-info-2026"
-          ]
-        },
-        {
-          "id": "em-pat-proctor-00121",
-          "date": "Undated",
-          "body": "Kansas Secretary of State important dates: https://sos.ks.gov/elections/important-election-dates.html",
-          "sourceIds": [
-            "s-sos-dates-2026"
-          ]
-        },
         {
           "id": "em-pat-proctor-00123",
           "date": "Undated",
@@ -472,19 +302,27 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-pat-proctor-00128",
-          "date": "Undated",
-          "body": "EAC Board of Advisors: https://www.eac.gov/about/board_of_advisors",
-          "sourceIds": [
-            "s-eac-board"
-          ]
-        },
-        {
           "id": "em-pat-proctor-00129",
           "date": "Undated",
           "body": "EAC Board of Advisors roster: https://www.eac.gov/sites/default/files/2026-02/BOA_Roster_for_Website_022426.pdf",
           "sourceIds": [
             "s-eac-roster-2026"
+          ]
+        },
+        {
+          "id": "em-pat-proctor-00140",
+          "date": "Undated",
+          "body": "Kansas Reflector June 13, 2025 social/election-confidence article: https://kansasreflector.com/2025/06/13/kansas-republican-exploits-fear-of-imaginary-axis-of-ballot-harvesting-to-gain-political-advantage/",
+          "sourceIds": [
+            "s-reflector-ballot-harvesting"
+          ]
+        },
+        {
+          "id": "em-pat-proctor-00141",
+          "date": "Undated",
+          "body": "Kansas Reflector April 4, 2025 campaign announcement: https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
+          "sourceIds": [
+            "src-pat-proctor-0024"
           ]
         }
       ],
@@ -500,32 +338,12 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-pat-proctor-0004",
-          "platform": "YouTube",
-          "observation": "For the Leavenworth district itself, Proctor's local content is less voluminous than his statewide-elections content but is present. An October 5, 2025 YouTube video addresses bringing jobs and opportunity back to Leavenworth. His campaign and legislative biographies foreground his co-ownership with his wife Aree of Baan Thai Restaurant in Leavenworth. The April 2025 Wichita State University listing identifies him a...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0059"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
           "id": "soc-pat-proctor-0005",
           "platform": "Facebook",
           "observation": "Proctor's public alignment network on his own feed centers on Kansas Republican officeholders, election-policy organizations, and his own legislative work product. His Facebook page features a campaign video titled \"Kris Kobach Wanted This 20-Year-Old To Go To Jail For…\" framing his own enforcement stance against Attorney General Kris Kobach's. A separate page post identifies him as \"the chairman of your House Elect...",
           "observedAt": "2026-05-20",
           "sourceIds": [
             "src-pat-proctor-0060"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-pat-proctor-0007",
-          "platform": "Facebook",
-          "observation": "\"url\": \"https://www.facebook.com/PatProctorKS/posts/as-the-chairman-of-your-house-elections-committee-and-as-your-next-secretary-of-/1227794369167664/\"",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-pat-proctor-0061"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -543,7 +361,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Pat Proctor is profiled here for Kansas Secretary of State as a Republican. URLs: https://www.kslegislature.gov/b2025_26/bills/HB2453/history/ and https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt. URLs: https://patproctor4ks.com/ and local memory/candidates/pat-proctor/in-their-own-words.md. The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 25 source-backed actions across 7 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Ballotpedia: Kansas SBOE election 2026. Education / curriculum / schools: Kansas State Department of Education: District 5. Education / curriculum / schools: Kansas Reflector: Board races could shift power to conservative bloc. Education / curriculum / schools: \"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\". Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 11 source-backed actions across 3 of the 14 issue areas. Representative public-record entries include: Economy / jobs / labor: Restoring Confidence in Our Elections, Growing Our Economy. - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01). Election integrity / voting / courts: Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor. Election integrity / voting / courts: Proctor campaign site: https://patproctor4ks.com/. Election integrity / voting / courts: HB 2453 roll call: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt. Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation for Proctor. His campaign and legislative biographies emphasize military service, elections, and business ownership rather than church membership or denomination.",
   "campaignFinance": {
     "totalRaised": "reportingPeriod: 2025-01-01 through 2025-12-31; totalContributionsAndReceipts: $312,046.74; totalExpenditures: $102,663.46; cashOnHandClose: $209,383.28; inKindContributions: $2,650.22; otherTransactions: $134,000.00; sourceIds: s-kpdc-202601",
@@ -553,37 +371,8 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Kansas State Wide Office - 2026 Election Cycle"
   },
-  "socialResearchNote": "14 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "9 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
-    {
-      "id": "s-sos-candidate-info-2026",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
-      "title": "Candidate Information",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Statewide candidates file with the Secretary of State",
-        "A candidate is not considered filed until petition/declaration and fee are received",
-        "Secretary of State is listed among offices to be elected or retained in 2026",
-        "Kansas Secretary of State candidate information: https://www.sos.ks.gov/elections/candidate-information.html"
-      ]
-    },
-    {
-      "id": "s-sos-dates-2026",
-      "tier": "primary",
-      "url": "https://sos.ks.gov/elections/important-election-dates.html",
-      "title": "Important Election Dates",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "2026 candidate filing deadline is 12:00 p.m. June 1",
-        "2026 primary election is August 4",
-        "2026 general election is November 3",
-        "All ballots must be received by close of polls on Election Day",
-        "Kansas Secretary of State important dates: https://sos.ks.gov/elections/important-election-dates.html"
-      ]
-    },
     {
       "id": "s-joco-candidate",
       "tier": "primary",
@@ -638,6 +427,23 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       ]
     },
     {
+      "id": "s-leg-profile",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/",
+      "title": "Pat Proctor",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Proctor represents House District 41, Leavenworth County",
+        "House service listed as 2021-present",
+        "Committee roles include Elections chair and Joint Committee on Kansas Security chair",
+        "Business information lists occupation Professor",
+        "https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/",
+        "Kansas Legislature Proctor profile: https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/",
+        "[Kansas Legislature](https://www.kslegislature.gov/li/b2025_26/members/rep_proctor_pat_1/)"
+      ]
+    },
+    {
       "id": "s-campaign-home",
       "tier": "primary",
       "url": "https://patproctor4ks.com/",
@@ -664,18 +470,6 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-eac-board",
-      "tier": "primary",
-      "url": "https://www.eac.gov/about/board_of_advisors",
-      "title": "Board of Advisors",
-      "publisher": "U.S. Election Assistance Commission",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "EAC Board of Advisors includes representatives from election and government organizations",
-        "EAC Board of Advisors: https://www.eac.gov/about/board_of_advisors"
-      ]
-    },
-    {
       "id": "s-eac-roster-2026",
       "tier": "primary",
       "url": "https://www.eac.gov/sites/default/files/2026-02/BOA_Roster_for_Website_022426.pdf",
@@ -685,6 +479,71 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Roster lists Representative Pat Proctor, Kansas House of Representatives, under National Conference of State Legislatures",
         "EAC Board of Advisors roster: https://www.eac.gov/sites/default/files/2026-02/BOA_Roster_for_Website_022426.pdf"
+      ]
+    },
+    {
+      "id": "s-hcr5004",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/hcr5004/",
+      "title": "HCR 5004",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Resolution proposes requiring Kansas voters to be U.S. citizens, at least 18, and residents of the voting area",
+        "Proctor is listed among sponsors",
+        "HCR 5004: https://www.kslegislature.gov/li/b2025_26/measures/hcr5004/"
+      ]
+    },
+    {
+      "id": "s-proctor-2025-vote-record",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/b2025_26/bills/download/?apn=b2025_26/year2/ready_for_publication/vote_record/rep_proctor_pat_1_vote_record_2025.pdf",
+      "title": "Rep. Pat Proctor 2025 Vote Record",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Proctor voted yea on HCR 5004 final action",
+        "Proctor voted yea on HB 2106 final action"
+      ]
+    },
+    {
+      "id": "s-hb2453-rollcall",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt",
+      "title": "House Roll Call #0094 - HB 2453",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Rep. Proctor voted yea on HB 2453",
+        "\"url\": \"https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt\",",
+        "HB 2453 roll call: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt"
+      ]
+    },
+    {
+      "id": "s-hcr5006",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/hcr5006/",
+      "title": "HCR 5006",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Resolution proposed a right-to-bear-arms constitutional amendment subjecting restrictions to strict scrutiny",
+        "Proctor is listed as a sponsor",
+        "Resolution died on calendar on 2026-04-10",
+        "HCR 5006: https://www.kslegislature.gov/li/b2025_26/measures/hcr5006/"
+      ]
+    },
+    {
+      "id": "s-hr6016",
+      "tier": "primary",
+      "url": "https://www.kslegislature.gov/li/b2025_26/measures/hr6016/",
+      "title": "HR 6016",
+      "publisher": "Kansas Legislature",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Resolution denounced a planned satanic worship ritual",
+        "Proctor is listed as a sponsor",
+        "HR 6016: https://www.kslegislature.gov/li/b2025_26/measures/hr6016/"
       ]
     },
     {
@@ -703,104 +562,40 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-pat-proctor-0001",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
-      "title": "Ksde",
-      "publisher": "Ksde",
+      "id": "src-pat-proctor-0021",
+      "tier": "secondary",
+      "url": "https://news.ballotpedia.org/2025/04/11/indiana-joins-kansas-kentucky-and-wyoming-in-enacting-laws-to-restrict-foreign-contributions-to-ballot-measure-campaigns-the-highest-number-passed-in-a-single-year/",
+      "title": "News.Ballotpedia",
+      "publisher": "News.Ballotpedia",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)",
-        "\"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\""
+        "On national and federal-policy questions, Proctor's feed engages selectively and through a state-elections lens. He frames opposition to federal mail-in-ballot deadlines, election-related litigation, and nonprofit-funded ballot measures as state sovereignty qu"
       ]
     },
     {
-      "id": "src-pat-proctor-0014",
+      "id": "src-pat-proctor-0024",
       "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas SBOE election 2026](https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-pat-proctor-0015",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/",
+      "url": "https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
       "title": "Kansasreflector",
       "publisher": "Kansasreflector",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Board races could shift power to conservative bloc](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)"
+        "Kansas Reflector April 4, 2025 campaign announcement: https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
+        "https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
+        "[Kansas Reflector: Pat Proctor declares for SOS](https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/)",
+        "[Kansas Reflector - First Republican to declare](https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/)"
       ]
     },
     {
-      "id": "src-pat-proctor-0016",
+      "id": "src-pat-proctor-0054",
       "tier": "secondary",
-      "url": "https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state",
-      "title": "Brennancenter",
-      "publisher": "Brennancenter",
+      "url": "https://sunflowerstatejournal.com/proctor-takes-commanding-fundraising-lead-in-primary-for-secretary-of-state/",
+      "title": "Sunflowerstatejournal",
+      "publisher": "Sunflowerstatejournal",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Brennan Center: Wisconsin Supreme Court spending record](https://www.brennancenter.org/our-work/analysis-opinion/wisconsin-supreme-court-race-breaks-spending-record-fueled-out-state)"
-      ]
-    },
-    {
-      "id": "src-pat-proctor-0019",
-      "tier": "secondary",
-      "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
-      "title": "Cnn",
-      "publisher": "Cnn",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[CNN: 8 states vote to bar noncitizen voting](https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html)"
-      ]
-    },
-    {
-      "id": "src-pat-proctor-0020",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-pat-proctor-0026",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas Elections for Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))"
-      ]
-    },
-    {
-      "id": "src-pat-proctor-0027",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Rivals launch fight over amendment](https://kansasreflector.com/2025/08/07/rivals-launch-fight-over-kansas-constitutional-amendment-to-elect-supreme-court-justices/)"
-      ]
-    },
-    {
-      "id": "src-pat-proctor-0051",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/02/14/in-private-video-house-elections-chair-says-he-wants-to-end-early-voting-grace-period-in-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector - Private video leaked](https://kansasreflector.com/2025/02/14/in-private-video-house-elections-chair-says-he-wants-to-end-early-voting-grace-period-in-kansas/)",
-        "\"url\": \"https://kansasreflector.com/2025/02/14/in-private-video-house-elections-chair-says-he-wants-to-end-early-voting-grace-period-in-kansas/\","
+        "[Sunflower State Journal - Fundraising lead](https://sunflowerstatejournal.com/proctor-takes-commanding-fundraising-lead-in-primary-for-secretary-of-state/)",
+        "\"url\": \"https://sunflowerstatejournal.com/proctor-takes-commanding-fundraising-lead-in-primary-for-secretary-of-state/\","
       ]
     },
     {
@@ -838,14 +633,36 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-pat-proctor-0061",
+      "id": "src-pat-proctor-0075",
+      "tier": "secondary",
+      "url": "https://www.wichita.edu/profiles/academics/fairmount_college_of_liberal_arts_and_sciences/school_of_criminal_justice/Proctor-Pat.php",
+      "title": "Wichita",
+      "publisher": "Wichita",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Wichita State University - Faculty Profile](https://www.wichita.edu/profiles/academics/fairmount_college_of_liberal_arts_and_sciences/school_of_criminal_justice/Proctor-Pat.php)"
+      ]
+    },
+    {
+      "id": "src-pat-proctor-0076",
+      "tier": "secondary",
+      "url": "https://ballotpedia.org/Pat_Proctor",
+      "title": "Ballotpedia",
+      "publisher": "Ballotpedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Ballotpedia](https://ballotpedia.org/Pat_Proctor)"
+      ]
+    },
+    {
+      "id": "src-pat-proctor-0077",
       "tier": "social",
-      "url": "https://www.facebook.com/PatProctorKS/posts/as-the-chairman-of-your-house-elections-committee-and-as-your-next-secretary-of-/1227794369167664/",
+      "url": "https://www.facebook.com/PatProctorKS/",
       "title": "Facebook",
       "publisher": "Facebook",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "\"url\": \"https://www.facebook.com/PatProctorKS/posts/as-the-chairman-of-your-house-elections-committee-and-as-your-next-secretary-of-/1227794369167664/\","
+        "Proctor's platform footprint is moderately distributed. He maintains a campaign Facebook page at [@PatProctorKS](https://www.facebook.com/PatProctorKS/), an X account at [@RealPatProctor](https://x.com/RealPatProctor), a YouTube channel at [@patproctorforkansa"
       ]
     }
   ]

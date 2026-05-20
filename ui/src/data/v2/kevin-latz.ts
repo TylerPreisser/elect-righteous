@@ -109,21 +109,10 @@ export const KEVIN_LATZ_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: \"url\": \"https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-saline-unofficial-list"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-kevin-latz-00050",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf\"",
-          "sourceIds": [
-            "s-saline-unofficial-list"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -150,21 +139,10 @@ export const KEVIN_LATZ_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: \"url\": \"https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-saline-unofficial-list"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-kevin-latz-00050",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf\"",
-          "sourceIds": [
-            "s-saline-unofficial-list"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -190,6 +168,18 @@ export const KEVIN_LATZ_V2: CandidateFullV2 = {
   },
   "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
   "sources": [
+    {
+      "id": "s-ks-filing-senate",
+      "tier": "primary",
+      "url": "https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS",
+      "title": "Candidate Filing Info - United States Senate, Kansas",
+      "publisher": "Kansas candidate filing mirror / State of Kansas filing data",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Kevin Latz appears as a Democratic U.S. Senate candidate",
+        "\"url\": \"https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS\","
+      ]
+    },
     {
       "id": "s-saline-unofficial-list",
       "tier": "primary",

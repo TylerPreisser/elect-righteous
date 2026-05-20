@@ -19,33 +19,11 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Candidate-stated evidence: The Free State News debate transcript records Eakins answering a question about abortion by saying she was \"passionate about this issue\" and connecting the issue to her own biography. This is a direct debate statement in an unofficial transcript. Source: https://freestatenews.net/local-issues/gop-governors-debate-transcript-part-2/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-freestate-debate-pt2",
-          "s-campaign-about"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-joy-eakins-02449",
-          "date": "Undated",
-          "body": "The Free State News debate transcript records Eakins answering a question about abortion by saying she was \"passionate about this issue\" and connecting the issue to her own biography. This is a direct debate statement in an unofficial transcript. Source: https://freestatenews.net/local-issues/gop-governors-debate-transcript-part-2/",
-          "sourceIds": [
-            "s-freestate-debate-pt2"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": [
-        {
-          "id": "soc-joy-eakins-0001",
-          "platform": "LinkedIn",
-          "observation": "Eakins' biography and faith language are part of the public pitch but less frequent than education and taxes. Her About page says she has been married to Eric for 31 years, has a son serving in the U.S. Air Force, has a bonus son in Chicago, is a devout Christian, and is a faithful member of River Community Church. (source) LinkedIn preview shows a shared post beginning, \"I overcame a difficult upbringing through gr...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
         {
           "id": "soc-joy-eakins-0007",
           "platform": "kansasreflector.com",
@@ -53,16 +31,6 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-kansas-reflector-debate"
-          ],
-          "mappedToIssueId": "i-abortion-life"
-        },
-        {
-          "id": "soc-joy-eakins-0008",
-          "platform": "freestatenews.net",
-          "observation": "Free State News Feb. 20, 2026 debate transcript part 2: Eakins' remarks on judicial selection, education, marijuana, abortion, immigration/ICE cooperation, energy, and closing statement. This transcript is not an official transcript but provides a public indexed record of extended remarks. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-freestate-debate-pt2"
           ],
           "mappedToIssueId": "i-abortion-life"
         }
@@ -85,9 +53,8 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening app... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-property-tax",
-          "s-campaign-about",
-          "s-campaign-education",
-          "s-kansas-reflector-debate"
+          "s-kansas-reflector-debate",
+          "s-hayspost-ellis-townhall"
         ]
       },
       "actions": [
@@ -97,30 +64,6 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
           "body": "The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening appraisal notices and getting \"a total shock,\" and that appraisers should have to show their work while...",
           "sourceIds": [
             "s-campaign-property-tax"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00003",
-          "date": "Undated",
-          "body": "Across the accessible public set, Eakins' message is built around a \"Kansas Comeback\" frame: Kansas should be the best place to live the American dream, but career politicians have let the state decline. Her campaign About page calls her a \"strong conservative and America First patriot\" and ties that identity to Cornerstone Data, Wichita school-board service, parents' rights, fiscal responsibility, and education reform. (source) In the January 30, 2026 GOP debate, she opened by saying, \"Kansas should be the best p...",
-          "sourceIds": [
-            "s-campaign-about"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00004",
-          "date": "Undated",
-          "body": "Education is the dominant issue in her candidate-controlled material. Her Education page says Kansas students are average or below average on major NAEP assessments, that parents \"know best what their child needs to succeed,\" and that every family should have educational choices. The platform calls for robust school choice, stronger civics education, reading and math outcomes, repeal of the law requiring districts to negotiate with teachers' unions, a new finance formula, school-board training, and teacher trainin...",
-          "sourceIds": [
-            "s-campaign-education"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00005",
-          "date": "Undated",
-          "body": "Her education argument repeatedly uses her Wichita school-board record and her data-business identity. The campaign says she advanced parents' rights, advocated for school choice, opposed suing the state for more money, opposed longer school days that she said prioritized janitors over kids, and used her data analytics firm to show Kansas could return children to classrooms safely during COVID. (source) In the debate transcript, she said she had done \"a lot of data work in the state during COVID,\" fought to get th...",
-          "sourceIds": [
-            "s-campaign-education"
           ]
         },
         {
@@ -132,92 +75,19 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-joy-eakins-0001",
-          "platform": "LinkedIn",
-          "observation": "Eakins' biography and faith language are part of the public pitch but less frequent than education and taxes. Her About page says she has been married to Eric for 31 years, has a son serving in the U.S. Air Force, has a bonus son in Chicago, is a devout Christian, and is a faithful member of River Community Church. (source) LinkedIn preview shows a shared post beginning, \"I overcame a difficult upbringing through gr...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-joy-eakins-0002",
-          "platform": "kansascomeback.com",
-          "observation": "Education is the dominant issue in her candidate-controlled material. Her Education page says Kansas students are average or below average on major NAEP assessments, that parents \"know best what their child needs to succeed,\" and that every family should have educational choices. The platform calls for robust school choice, stronger civics education, reading and math outcomes, repeal of the law requiring districts t...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-education"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-joy-eakins-0008",
-          "platform": "freestatenews.net",
-          "observation": "Free State News Feb. 20, 2026 debate transcript part 2: Eakins' remarks on judicial selection, education, marijuana, abortion, immigration/ICE cooperation, energy, and closing statement. This transcript is not an official transcript but provides a public indexed record of extended remarks. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-freestate-debate-pt2"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
-          "id": "soc-joy-eakins-0012",
-          "platform": "kansascomeback.com",
-          "observation": "The campaign website frames Eakins as a \"strong conservative and America First patriot\" who founded Cornerstone Data, served on the Wichita Board of Education, fought for parents' rights and fiscal responsibility, and belongs to River Community Church. It says she has been married to Eric for 31 years, has a biological son serving in the U.S. Air Force, and has a bonus son in Chicago. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Eakins' biography and faith language are part of the public pitch but less frequent than education and taxes. Her About page says she has been married to Eric for 31 years, has a son serving in the U.S. Air Force, has a bonus son in Chicago, is a devout Christian, and is a faithful member of River Community Church. (source) LinkedIn preview shows a shared post beginning, \"I overcame a difficult upbringing through gr... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Correct church URL to https://www.rivercc.org/ if the church field remains. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-about",
           "src-joy-eakins-0036"
         ]
       },
       "actions": [],
-      "socialSignals": [
-        {
-          "id": "soc-joy-eakins-0001",
-          "platform": "LinkedIn",
-          "observation": "Eakins' biography and faith language are part of the public pitch but less frequent than education and taxes. Her About page says she has been married to Eric for 31 years, has a son serving in the U.S. Air Force, has a bonus son in Chicago, is a devout Christian, and is a faithful member of River Community Church. (source) LinkedIn preview shows a shared post beginning, \"I overcame a difficult upbringing through gr...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-joy-eakins-0012",
-          "platform": "kansascomeback.com",
-          "observation": "The campaign website frames Eakins as a \"strong conservative and America First patriot\" who founded Cornerstone Data, served on the Wichita Board of Education, fought for parents' rights and fiscal responsibility, and belongs to River Community Church. It says she has been married to Eric for 31 years, has a biological son serving in the U.S. Air Force, and has a bonus son in Chicago. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        },
-        {
-          "id": "soc-joy-eakins-0024",
-          "platform": "kansascomeback.com",
-          "observation": "Campaign About page: biography, professional background, family, faith, and River Community Church tie. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-taxes-spending-debt",
@@ -226,9 +96,9 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening app... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-property-tax",
-          "s-campaign-about",
-          "s-sos-candidate-info",
-          "s-ljworld-local-elections"
+          "s-ljworld-local-elections",
+          "s-hayspost-ellis-townhall",
+          "s-freestate-debate-pt1"
         ]
       },
       "actions": [
@@ -238,22 +108,6 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
           "body": "The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening appraisal notices and getting \"a total shock,\" and that appraisers should have to show their work while...",
           "sourceIds": [
             "s-campaign-property-tax"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00003",
-          "date": "Undated",
-          "body": "Across the accessible public set, Eakins' message is built around a \"Kansas Comeback\" frame: Kansas should be the best place to live the American dream, but career politicians have let the state decline. Her campaign About page calls her a \"strong conservative and America First patriot\" and ties that identity to Cornerstone Data, Wichita school-board service, parents' rights, fiscal responsibility, and education reform. (source) In the January 30, 2026 GOP debate, she opened by saying, \"Kansas should be the best p...",
-          "sourceIds": [
-            "s-campaign-about"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-02420",
-          "date": "Undated",
-          "body": "Office / election cycle: Kansas Secretary of State candidate information lists Governor/Lt. Governor among offices to be elected or retained in 2026. The same page says Democratic and Republican candidates run in the primary, candidates for state office file with the Secretary of State, and a candidate is not considered filed until petition or declaration and fee are received. Source: https://www.sos.ks.gov/elections/candidate-information.html",
-          "sourceIds": [
-            "s-sos-candidate-info"
           ]
         },
         {
@@ -274,26 +128,6 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-joy-eakins-0001",
-          "platform": "LinkedIn",
-          "observation": "Eakins' biography and faith language are part of the public pitch but less frequent than education and taxes. Her About page says she has been married to Eric for 31 years, has a son serving in the U.S. Air Force, has a bonus son in Chicago, is a devout Christian, and is a faithful member of River Community Church. (source) LinkedIn preview shows a shared post beginning, \"I overcame a difficult upbringing through gr...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
-          "id": "soc-joy-eakins-0012",
-          "platform": "kansascomeback.com",
-          "observation": "The campaign website frames Eakins as a \"strong conservative and America First patriot\" who founded Cornerstone Data, served on the Wichita Board of Education, fought for parents' rights and fiscal responsibility, and belongs to River Community Church. It says she has been married to Eric for 31 years, has a biological son serving in the U.S. Air Force, and has a bonus son in Chicago. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
         {
           "id": "soc-joy-eakins-0018",
           "platform": "salinapost.com",
@@ -313,6 +147,26 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
             "s-hayspost-ellis-townhall"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-joy-eakins-0020",
+          "platform": "kcur.org",
+          "observation": "Kansas News Service/KCUR July 24, 2025 candidate guide: summarizes her Wichita school board service, Cornerstone Data role, tax/regulation/budget cuts, and medical-freedom language. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-kcur-guide"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
+        },
+        {
+          "id": "soc-joy-eakins-0026",
+          "platform": "kansascomeback.com",
+          "observation": "The Property Tax Reform page says Kansas taxes are \"more like California's than our neighboring states,\" that rising appraisals are a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. It also calls for regional assessment-dispute sessions, shifting the burden of proof to government, and property-tax relief funds seeded by local surpluses or efficiencies. (sou...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-property-tax"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
         }
       ]
     },
@@ -323,9 +177,9 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening app... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-property-tax",
-          "s-campaign-education",
-          "s-campaign-about",
-          "s-ljworld-local-elections"
+          "s-ljworld-local-elections",
+          "src-joy-eakins-0045",
+          "s-hayspost-ellis-townhall"
         ]
       },
       "actions": [
@@ -335,30 +189,6 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
           "body": "The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening appraisal notices and getting \"a total shock,\" and that appraisers should have to show their work while...",
           "sourceIds": [
             "s-campaign-property-tax"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00005",
-          "date": "Undated",
-          "body": "Her education argument repeatedly uses her Wichita school-board record and her data-business identity. The campaign says she advanced parents' rights, advocated for school choice, opposed suing the state for more money, opposed longer school days that she said prioritized janitors over kids, and used her data analytics firm to show Kansas could return children to classrooms safely during COVID. (source) In the debate transcript, she said she had done \"a lot of data work in the state during COVID,\" fought to get th...",
-          "sourceIds": [
-            "s-campaign-education"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00007",
-          "date": "Undated",
-          "body": "Business, entrepreneurship, and skepticism of targeted incentives are recurring signals. The campaign biography says she built Cornerstone Data into a successful Kansas data-analytics firm with nationwide reach. (source) At the debate, she said she spent 17 years building the most successful data consulting firm in Kansas, with customers in 160 cities and 27 states. On economic incentives, she said government involvement in business is \"about picking winners and losers\" and that it was her job to make her profit-a...",
-          "sourceIds": [
-            "s-campaign-about"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-02436",
-          "date": "Undated",
-          "body": "The campaign Education page is Eakins' most developed candidate-controlled issue page. It cites NAEP reading/math figures, says parents know best what children need, and lists proposed actions: school choice, civics education, reading/math outcomes, repeal of mandatory teacher-union negotiation, a new school-finance formula, school-board training, and teacher training focused on outcomes. Source: https://www.kansascomeback.com/education",
-          "sourceIds": [
-            "s-campaign-education"
           ]
         },
         {
@@ -379,16 +209,6 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-joy-eakins-0016",
-          "platform": "kansascomeback.com",
-          "observation": "Campaign Education page: NAEP frame, school choice, civics, teacher-union negotiation repeal, school finance formula, reading/math outcomes, school-board training, COVID reopening/data-analytics claim. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-education"
-          ],
-          "mappedToIssueId": "i-economy-jobs-labor"
-        },
         {
           "id": "soc-joy-eakins-0018",
           "platform": "salinapost.com",
@@ -427,8 +247,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Several policy positions were visible mainly through debate coverage rather than the campaign site. On marijuana, Kansas Reflector quoted Eakins saying legalized marijuana creates service costs and cultural problems, and that she did not want high school students thinking about where to get marijuana instead of reading and math. (source) On judicial selection, the Free State News transcript has her supporting a move... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kansas-reflector-debate",
-          "s-freestate-debate-pt2"
+          "s-kansas-reflector-debate"
         ]
       },
       "actions": [
@@ -441,79 +260,24 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-joy-eakins-0008",
-          "platform": "freestatenews.net",
-          "observation": "Free State News Feb. 20, 2026 debate transcript part 2: Eakins' remarks on judicial selection, education, marijuana, abortion, immigration/ICE cooperation, energy, and closing statement. This transcript is not an official transcript but provides a public indexed record of extended remarks. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-freestate-debate-pt2"
-          ],
-          "mappedToIssueId": "i-immigration-border"
-        }
-      ]
+      "socialSignals": []
     },
     {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Hays Post reported that at the Ellis town hall Eakins said Medicaid expansion was not currently viable and that she would focus on Medicaid reimbursement rates, which she said had not been updated in 15 to 20 years. Source: https://hayspost.com/posts/2c52043f-2180-461b-9a64-4fd75c91236f Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-joy-eakins-0055",
-          "s-hayspost-ellis-townhall",
-          "s-campaign-education",
-          "src-joy-eakins-0048",
-          "src-joy-eakins-0052"
+          "s-hayspost-ellis-townhall"
         ]
       },
       "actions": [
-        {
-          "id": "em-joy-eakins-02272",
-          "date": "Undated",
-          "body": "Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)",
-          "sourceIds": [
-            "src-joy-eakins-0055"
-          ]
-        },
         {
           "id": "em-joy-eakins-02454",
           "date": "Undated",
           "body": "Hays Post reported that at the Ellis town hall Eakins said Medicaid expansion was not currently viable and that she would focus on Medicaid reimbursement rates, which she said had not been updated in 15 to 20 years. Source: https://hayspost.com/posts/2c52043f-2180-461b-9a64-4fd75c91236f",
           "sourceIds": [
             "s-hayspost-ellis-townhall"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00005",
-          "date": "Undated",
-          "body": "Her education argument repeatedly uses her Wichita school-board record and her data-business identity. The campaign says she advanced parents' rights, advocated for school choice, opposed suing the state for more money, opposed longer school days that she said prioritized janitors over kids, and used her data analytics firm to show Kansas could return children to classrooms safely during COVID. (source) In the debate transcript, she said she had done \"a lot of data work in the state during COVID,\" fought to get th...",
-          "sourceIds": [
-            "s-campaign-education"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00281",
-          "date": "Undated",
-          "body": "> -- Kansas Reflector, March 8, 2026",
-          "sourceIds": [
-            "src-joy-eakins-0048"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00630",
-          "date": "Undated",
-          "body": "Kansas Reflector: Democratic debate (March 8, 2026)",
-          "sourceIds": [
-            "src-joy-eakins-0048"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-02268",
-          "date": "Undated",
-          "body": "KWCH: Kansas insurance commissioner backs bill (Feb 2, 2026)",
-          "sourceIds": [
-            "src-joy-eakins-0052"
           ]
         }
       ],
@@ -525,16 +289,6 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
           "observedAt": "2025-07-24",
           "sourceIds": [
             "s-kcur-guide"
-          ],
-          "mappedToIssueId": "i-health-care-insurance-medicaid"
-        },
-        {
-          "id": "soc-joy-eakins-0016",
-          "platform": "kansascomeback.com",
-          "observation": "Campaign Education page: NAEP frame, school choice, civics, teacher-union negotiation repeal, school finance formula, reading/math outcomes, school-board training, COVID reopening/data-analytics claim. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-education"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
@@ -564,25 +318,13 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: Business, entrepreneurship, and skepticism of targeted incentives are recurring signals. The campaign biography says she built Cornerstone Data into a successful Kansas data-analytics firm with nationwide reach. (source) At the debate, she said she spent 17 years building the most successful data consulting firm in Kansas, with customers in 160 cities and 27 states. On economic incentives, she said government involv... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Several policy positions were visible mainly through debate coverage rather than the campaign site. On marijuana, Kansas Reflector quoted Eakins saying legalized marijuana creates service costs and cultural problems, and that she did not want high school students thinking about where to get marijuana instead of reading and math. (source) On judicial selection, the Free State News transcript has her supporting a move... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-about",
           "s-kansas-reflector-debate",
-          "src-joy-eakins-0060",
-          "s-kpdc-statewide-2026",
-          "s-kpdc-treasurer",
-          "src-joy-eakins-0037"
+          "src-joy-eakins-0060"
         ]
       },
       "actions": [
-        {
-          "id": "em-joy-eakins-00007",
-          "date": "Undated",
-          "body": "Business, entrepreneurship, and skepticism of targeted incentives are recurring signals. The campaign biography says she built Cornerstone Data into a successful Kansas data-analytics firm with nationwide reach. (source) At the debate, she said she spent 17 years building the most successful data consulting firm in Kansas, with customers in 160 cities and 27 states. On economic incentives, she said government involvement in business is \"about picking winners and losers\" and that it was her job to make her profit-a...",
-          "sourceIds": [
-            "s-campaign-about"
-          ]
-        },
         {
           "id": "em-joy-eakins-00011",
           "date": "Undated",
@@ -614,16 +356,6 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
         {
-          "id": "soc-joy-eakins-0008",
-          "platform": "freestatenews.net",
-          "observation": "Free State News Feb. 20, 2026 debate transcript part 2: Eakins' remarks on judicial selection, education, marijuana, abortion, immigration/ICE cooperation, energy, and closing statement. This transcript is not an official transcript but provides a public indexed record of extended remarks. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-freestate-debate-pt2"
-          ],
-          "mappedToIssueId": "i-election-integrity-voting-courts"
-        },
-        {
           "id": "soc-joy-eakins-0020",
           "platform": "kcur.org",
           "observation": "Kansas News Service/KCUR July 24, 2025 candidate guide: summarizes her Wichita school board service, Cornerstone Data role, tax/regulation/budget cuts, and medical-freedom language. (source)",
@@ -641,10 +373,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Several policy positions were visible mainly through debate coverage rather than the campaign site. On marijuana, Kansas Reflector quoted Eakins saying legalized marijuana creates service costs and cultural problems, and that she did not want high school students thinking about where to get marijuana instead of reading and math. (source) On judicial selection, the Free State News transcript has her supporting a move... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kansas-reflector-debate",
-          "s-kpdc-statewide-2026",
-          "s-kpdc-treasurer",
-          "src-joy-eakins-0012"
+          "s-kansas-reflector-debate"
         ]
       },
       "actions": [
@@ -655,46 +384,6 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
           "sourceIds": [
             "s-kansas-reflector-debate"
           ]
-        },
-        {
-          "id": "em-joy-eakins-00212",
-          "date": "Undated",
-          "body": "Kansas Ethics filing index: SWLinks2026EC",
-          "sourceIds": [
-            "s-kpdc-statewide-2026"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00213",
-          "date": "Undated",
-          "body": "2026 filing PDF: SW01JK_AT.pdf",
-          "sourceIds": [
-            "s-kpdc-treasurer"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00219",
-          "date": "Undated",
-          "body": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01JK_AT.pdf",
-          "sourceIds": [
-            "s-kpdc-treasurer"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-01313",
-          "date": "Undated",
-          "body": "Kansas Ethics Commission - 2026 Election Cycle Filing",
-          "sourceIds": [
-            "src-joy-eakins-0012"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-01559",
-          "date": "Undated",
-          "body": "Filing URL: kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
-          "sourceIds": [
-            "s-kpdc-statewide-2026"
-          ]
         }
       ],
       "socialSignals": []
@@ -703,32 +392,10 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public evidence: > -- Kansas Reflector, March 8, 2026 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "src-joy-eakins-0048",
-          "src-joy-eakins-0097",
-          "src-joy-eakins-0098",
-          "src-joy-eakins-0099"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-joy-eakins-00281",
-          "date": "Undated",
-          "body": "> -- Kansas Reflector, March 8, 2026",
-          "sourceIds": [
-            "src-joy-eakins-0048"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00630",
-          "date": "Undated",
-          "body": "Kansas Reflector: Democratic debate (March 8, 2026)",
-          "sourceIds": [
-            "src-joy-eakins-0048"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -738,9 +405,10 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening app... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-property-tax",
-          "s-freestate-debate-pt2",
-          "s-campaign-about",
-          "s-campaign-education"
+          "s-kansas-reflector-debate",
+          "src-joy-eakins-0060",
+          "src-joy-eakins-0102",
+          "s-hayspost-ellis-townhall"
         ]
       },
       "actions": [
@@ -753,67 +421,15 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
           ]
         },
         {
-          "id": "em-joy-eakins-02449",
+          "id": "em-joy-eakins-00011",
           "date": "Undated",
-          "body": "The Free State News debate transcript records Eakins answering a question about abortion by saying she was \"passionate about this issue\" and connecting the issue to her own biography. This is a direct debate statement in an unofficial transcript. Source: https://freestatenews.net/local-issues/gop-governors-debate-transcript-part-2/",
+          "body": "Several policy positions were visible mainly through debate coverage rather than the campaign site. On marijuana, Kansas Reflector quoted Eakins saying legalized marijuana creates service costs and cultural problems, and that she did not want high school students thinking about where to get marijuana instead of reading and math. (source) On judicial selection, the Free State News transcript has her supporting a move away from the Missouri Plan and toward elected judges. On immigration/law enforcement, the same tra...",
           "sourceIds": [
-            "s-freestate-debate-pt2"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00003",
-          "date": "Undated",
-          "body": "Across the accessible public set, Eakins' message is built around a \"Kansas Comeback\" frame: Kansas should be the best place to live the American dream, but career politicians have let the state decline. Her campaign About page calls her a \"strong conservative and America First patriot\" and ties that identity to Cornerstone Data, Wichita school-board service, parents' rights, fiscal responsibility, and education reform. (source) In the January 30, 2026 GOP debate, she opened by saying, \"Kansas should be the best p...",
-          "sourceIds": [
-            "s-campaign-about"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00004",
-          "date": "Undated",
-          "body": "Education is the dominant issue in her candidate-controlled material. Her Education page says Kansas students are average or below average on major NAEP assessments, that parents \"know best what their child needs to succeed,\" and that every family should have educational choices. The platform calls for robust school choice, stronger civics education, reading and math outcomes, repeal of the law requiring districts to negotiate with teachers' unions, a new finance formula, school-board training, and teacher trainin...",
-          "sourceIds": [
-            "s-campaign-education"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00005",
-          "date": "Undated",
-          "body": "Her education argument repeatedly uses her Wichita school-board record and her data-business identity. The campaign says she advanced parents' rights, advocated for school choice, opposed suing the state for more money, opposed longer school days that she said prioritized janitors over kids, and used her data analytics firm to show Kansas could return children to classrooms safely during COVID. (source) In the debate transcript, she said she had done \"a lot of data work in the state during COVID,\" fought to get th...",
-          "sourceIds": [
-            "s-campaign-education"
-          ]
-        },
-        {
-          "id": "em-joy-eakins-00007",
-          "date": "Undated",
-          "body": "Business, entrepreneurship, and skepticism of targeted incentives are recurring signals. The campaign biography says she built Cornerstone Data into a successful Kansas data-analytics firm with nationwide reach. (source) At the debate, she said she spent 17 years building the most successful data consulting firm in Kansas, with customers in 160 cities and 27 states. On economic incentives, she said government involvement in business is \"about picking winners and losers\" and that it was her job to make her profit-a...",
-          "sourceIds": [
-            "s-campaign-about"
+            "s-kansas-reflector-debate"
           ]
         }
       ],
       "socialSignals": [
-        {
-          "id": "soc-joy-eakins-0001",
-          "platform": "LinkedIn",
-          "observation": "Eakins' biography and faith language are part of the public pitch but less frequent than education and taxes. Her About page says she has been married to Eric for 31 years, has a son serving in the U.S. Air Force, has a bonus son in Chicago, is a devout Christian, and is a faithful member of River Community Church. (source) LinkedIn preview shows a shared post beginning, \"I overcame a difficult upbringing through gr...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-about"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
-        {
-          "id": "soc-joy-eakins-0002",
-          "platform": "kansascomeback.com",
-          "observation": "Education is the dominant issue in her candidate-controlled material. Her Education page says Kansas students are average or below average on major NAEP assessments, that parents \"know best what their child needs to succeed,\" and that every family should have educational choices. The platform calls for robust school choice, stronger civics education, reading and math outcomes, repeal of the law requiring districts t...",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-campaign-education"
-          ],
-          "mappedToIssueId": "i-local-governance-transparency-ethics"
-        },
         {
           "id": "soc-joy-eakins-0005",
           "platform": "kcur.org",
@@ -825,12 +441,32 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "soc-joy-eakins-0008",
-          "platform": "freestatenews.net",
-          "observation": "Free State News Feb. 20, 2026 debate transcript part 2: Eakins' remarks on judicial selection, education, marijuana, abortion, immigration/ICE cooperation, energy, and closing statement. This transcript is not an official transcript but provides a public indexed record of extended remarks. (source)",
+          "id": "soc-joy-eakins-0015",
+          "platform": "X / Twitter",
+          "observation": "Campaign homepage/current metadata: official campaign site; title and description position Eakins as a conservative Kansas Comeback candidate focused on education reform, economic growth, and family values. The page's OpenGraph/Twitter metadata includes \"Joy Eakins for Kansas Governor\" and \"Conservative Leadership for a Kansas Comeback.\" (source)",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-freestate-debate-pt2"
+            "src-joy-eakins-0061"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-joy-eakins-0017",
+          "platform": "kansascomeback.com",
+          "observation": "Campaign repost of KAKE interview: opportunity, brain drain, school outcomes, school choice, financial cliff, affordable/appropriate housing, outsider pitch, and \"government to get out of their way\" line. (source)",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-kake-repost"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-joy-eakins-0026",
+          "platform": "kansascomeback.com",
+          "observation": "The Property Tax Reform page says Kansas taxes are \"more like California's than our neighboring states,\" that rising appraisals are a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. It also calls for regional assessment-dispute sessions, shifting the burden of proof to government, and property-tax relief funds seeded by local surpluses or efficiencies. (sou...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "s-campaign-property-tax"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
@@ -842,9 +478,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented public evidence: Candidate-list limitation: The SOS live candidate-list endpoint (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / CloudFront anti-bot block in this environment. I could not directly confirm a live SOS candidate-list row for Eakins. Because the June 1 filing deadline has not yet passed as of May 19, 2026, do not describe the ballot as final. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-joy-eakins-0110",
-          "src-joy-eakins-0106",
-          "s-freestate-debate-pt2"
+          "src-joy-eakins-0110"
         ]
       },
       "actions": [
@@ -857,22 +491,11 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "soc-joy-eakins-0008",
-          "platform": "freestatenews.net",
-          "observation": "Free State News Feb. 20, 2026 debate transcript part 2: Eakins' remarks on judicial selection, education, marijuana, abortion, immigration/ICE cooperation, energy, and closing statement. This transcript is not an official transcript but provides a public indexed record of extended remarks. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "s-freestate-debate-pt2"
-          ],
-          "mappedToIssueId": "i-environment-energy-land-use"
-        }
-      ]
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Joy Eakins is profiled here for Kansas Governor as a Republican. Business, entrepreneurship, and skepticism of targeted incentives are recurring signals. The campaign biography says she built Cornerstone Data into a successful Kansas data-analytics firm with nationwide reach. (source) At the debate, she said she spent 17 y... Eakins' biography and faith language are part of the public pitch but less frequent than education and taxes. Her About page says she has been married to Eric for 31 years, has a son serving in the U.S. Air Force, has a bonus son in Chicago, is a devout Chris... The profile uses these biography/status records as descriptive background only and does not infer policy positions from identity, faith, family, or associations.",
-  "recordSummary": "The rendered record now contains 41 source-backed actions across 11 of the 14 issue areas. Representative public-record entries include: Abortion / life: The Free State News debate transcript records Eakins answering a question about abortion by saying she was \"passionate about this issue\" and connecting the issue to her own biography. This is a direct debate statement in a... Education / curriculum / schools: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising a... Education / curriculum / schools: Across the accessible public set, Eakins' message is built around a \"Kansas Comeback\" frame: Kansas should be the best place to live the American dream, but career politicians have let the state decline. H... Education / curriculum / schools: Education is the dominant issue in her candidate-controlled material. Her Education page says Kansas students are average or below average on major NAEP assessments, that parents \"know best what their chil... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
+  "recordSummary": "The rendered record now contains 15 source-backed actions across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising a... Education / curriculum / schools: Several policy positions were visible mainly through debate coverage rather than the campaign site. On marijuana, Kansas Reflector quoted Eakins saying legalized marijuana creates service costs and cultura... Taxes / spending / debt: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals... Taxes / spending / debt: The campaign Property Tax Reform page proposes appraisal caps at 3 percent or inflation, in-state comparables, regional assessment-dispute sessions, a burden-of-proof shift to government, fee reimbursement for succ... Social-only material is excluded from this record summary and remains labeled as observation when rendered.",
   "whereTheyWorship": "Eakins' campaign biography says she is a faithful member of River Community Church. The church website is https://www.rivercc.org/, and that is the clearest public church tie in the available record.",
   "campaignFinance": {
     "totalRaised": "$1,142,759.55",
@@ -881,24 +504,8 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 to 2025-12-31",
     "source": "Joy Eakins Campaign Finance Receipts and Expenditures Report - January 2026"
   },
-  "socialResearchNote": "31 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "17 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
-    {
-      "id": "s-sos-candidate-info",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
-      "title": "Candidate Information",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidates for state office file with the Secretary of State.",
-        "A candidate is not considered filed until the petition or declaration and fee is received.",
-        "Primary election candidate filing deadline is 12:00 p.m. Monday, June 1, 2026.",
-        "Governor/Lt. Governor is listed among offices to be elected or retained in 2026.",
-        "Office / election cycle: Kansas Secretary of State candidate information lists Governor/Lt. Governor among offices to be elected or retained in 2026. The same page says Democratic and Republican candidates run in the primary, candidates for state office file w",
-        "| s-sos-candidate-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Statewide filing rules, June 1 filing deadline, Governor/Lt. Governor on 2026 office list | official status |"
-      ]
-    },
     {
       "id": "s-kpdc-statewide-2026",
       "tier": "primary",
@@ -935,6 +542,28 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
         "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01JK_AT.pdf\"",
         "| s-kpdc-treasurer | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01JK_AT.pdf | executed 2025-01-17; accessed 2026-05-19 | Appointment of treasurer, office sought Governor, treasurer Kim Borchers | status, finance |",
         "Treasurer filing: The KPDC appointment-of-treasurer PDF lists candidate name Joy Eakins, office sought Governor, address in Wichita, treasurer Kim Borchers, and execution date January 17, 2025. Source: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCy"
+      ]
+    },
+    {
+      "id": "s-kpdc-jan2026-report",
+      "tier": "primary",
+      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JE_202601.pdf",
+      "title": "Joy Eakins Campaign Finance Receipts and Expenditures Report - January 2026",
+      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Report covers 2025-01-01 through 2025-12-31.",
+        "Total contributions and other receipts were $1,142,759.55.",
+        "Total expenditures were $116,268.91.",
+        "Cash on hand at close was $1,026,490.64.",
+        "In-kind contributions were $2,488.73.",
+        "Other transactions were $1,000,000.00.",
+        "Schedule A shows a $1,000,000 loan from Joy Eakins dated 2025-12-29.",
+        "Schedule D shows a $1,000,000 loan payable from Joy Eakins.",
+        "Schedule A shows a $60,000 check from Joy Eakins dated 2025-07-01.",
+        "[State of Kansas](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JE_202601.pdf)",
+        "| s-kpdc-jan2026-report | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JE_202601.pdf | filed 2026-01-09; accessed 2026-05-19 | 2025 receipts, expenditures, cash, in-kind, self-loan, donor examples | campaign finance |",
+        "KPDC January 2026 report for the period January 1, 2025 through December 31, 2025 lists: beginning cash $0.00; total contributions and other receipts $1,142,759.55; total expenditures $116,268.91; cash on hand at close $1,026,490.64; in-kind contributions $2,4"
       ]
     },
     {
@@ -1009,6 +638,39 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
         "The Property Tax Reform page says Kansas taxes are \"more like California's than our neighboring states,\" that rising appraisals are a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. It also calls for",
         "Campaign Property Tax Reform page: appraisal caps, appraisal comparables, dispute sessions, burden of proof on government, legal-fee/appraisal-fee recovery for successful disputes, property-tax relief funds. ([source](https://www.kansascomeback.com/propertytax",
         "The campaign Property Tax Reform page proposes appraisal caps at 3 percent or inflation, in-state comparables, regional assessment-dispute sessions, a burden-of-proof shift to government, fee reimbursement for successful appeals, and property-tax relief funds"
+      ]
+    },
+    {
+      "id": "s-campaign-kake-repost",
+      "tier": "primary",
+      "url": "https://www.kansascomeback.com/news/joy-eakins-discusses-her-run-for-the-governors-office",
+      "title": "Joy Eakins discusses her run for the governor's office",
+      "publisher": "Joy Eakins for Kansas Governor / KAKE repost",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Eakins said Kansas needs a comeback.",
+        "Eakins discussed young people leaving Kansas because of opportunity concerns.",
+        "Eakins discussed education spending, worsening outcomes, and school choice options.",
+        "Eakins said Kansans want government to get out of the way of businesses and families.",
+        "| s-campaign-kake-repost | primary-candidate / secondary original | https://www.kansascomeback.com/news/joy-eakins-discusses-her-run-for-the-governors-office | 2025-06-19; accessed 2026-05-19 | KAKE interview repost: opportunity, education outcomes, school cho",
+        "Campaign repost of KAKE interview: opportunity, brain drain, school outcomes, school choice, financial cliff, affordable/appropriate housing, outsider pitch, and \"government to get out of their way\" line. ([source](https://www.kansascomeback.com/news/joy-eakin",
+        "The KAKE repost on the campaign site says Eakins framed the race around opportunity, young families leaving Kansas, education outcomes, a financial cliff, housing, and government getting out of the way of families and businesses. Source: https://www.kansascome"
+      ]
+    },
+    {
+      "id": "s-sedgwick-2013-results",
+      "tier": "primary",
+      "url": "https://www.sedgwickcounty.org/elections/election-results/2013-general/?altTemplate=race&race=161",
+      "title": "School Board Member District 2 USD 259-Wichita - April 2, 2013 General Election",
+      "publisher": "Sedgwick County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Results are official.",
+        "Joy Leigh Eakins received 4,654 votes, 49.9 percent.",
+        "Scott B. Poor received 4,608 votes, 49.4 percent.",
+        "Eakins won by 46 votes.",
+        "| s-sedgwick-2013-results | primary/local government | https://www.sedgwickcounty.org/elections/election-results/2013-general/?altTemplate=race&race=161 | official results last updated 2013-04-08; accessed 2026-05-19 | Joy Leigh Eakins won USD 259 District 2 s",
+        "Sedgwick County official 2013 results show Joy Leigh Eakins won USD 259 Wichita School Board District 2 with 4,654 votes (49.9 percent) over Scott B. Poor's 4,608 votes (49.4 percent), with 60 write-ins. Source: https://www.sedgwickcounty.org/elections/electio"
       ]
     },
     {
@@ -1116,14 +778,15 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-joy-eakins-0012",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf",
-      "title": "Kansas",
-      "publisher": "Kansas",
+      "id": "src-joy-eakins-0026",
+      "tier": "secondary",
+      "url": "https://sentinelksmo.org/transparency-becomes-focus-of-wichita-school-board-campaigns/",
+      "title": "Sentinelksmo",
+      "publisher": "Sentinelksmo",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Ethics Commission - 2026 Election Cycle Filing](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/202601/SW01JC_202601.pdf)"
+        "| s-sentinel-transparency | secondary | https://sentinelksmo.org/transparency-becomes-focus-of-wichita-school-board-campaigns/ | 2017-10-23; accessed 2026-05-19 | Reports Eakins' Wichita Eagle letter on school-board transparency; original Eagle not directly re",
+        "The Sentinel reported in 2017 that Eakins, then not seeking re-election, wrote a Wichita Eagle letter on school-board transparency. Because the original Eagle item was not directly readable here, use this as secondary context only. Source: https://sentinelksmo"
       ]
     },
     {
@@ -1143,49 +806,14 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-joy-eakins-0037",
+      "id": "src-joy-eakins-0045",
       "tier": "secondary",
-      "url": "https://www.kansascatholic.org/current-news/election-2026",
-      "title": "Kansascatholic",
-      "publisher": "Kansascatholic",
+      "url": "https://www.wichitachamber.org/blog/2023/01/04/wichita-chamber-business-accelerator/faithful-investment-in-people-episode-104-wichita-chamber-business-accelerator-joy-eakins/",
+      "title": "Wichitachamber",
+      "publisher": "Wichitachamber",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Catholic Conference: Election 2026](https://www.kansascatholic.org/current-news/election-2026)",
-        "https://www.kansascatholic.org/current-news/election-2026"
-      ]
-    },
-    {
-      "id": "src-joy-eakins-0048",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "> -- [Kansas Reflector, March 8, 2026](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)",
-        "[Kansas Reflector: Democratic debate (March 8, 2026)](https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/)"
-      ]
-    },
-    {
-      "id": "src-joy-eakins-0052",
-      "tier": "secondary",
-      "url": "https://www.kwch.com/2026/02/02/kansas-insurance-commissioner-backs-bill-eliminate-breast-cancer-screening-costs/",
-      "title": "Kwch",
-      "publisher": "Kwch",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KWCH: Kansas insurance commissioner backs bill (Feb 2, 2026)](https://www.kwch.com/2026/02/02/kansas-insurance-commissioner-backs-bill-eliminate-breast-cancer-screening-costs/)"
-      ]
-    },
-    {
-      "id": "src-joy-eakins-0055",
-      "tier": "secondary",
-      "url": "https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/",
-      "title": "Www2.Ljworld",
-      "publisher": "Www2.Ljworld",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023)](https://www2.ljworld.com/news/state-government/2023/jun/14/kansas-insurance-commissioner-says-shes-been-diagnosed-with-breast-cancer/)"
+        "[Wichita Chamber: Eakins podcast (Jan 2023)](https://www.wichitachamber.org/blog/2023/01/04/wichita-chamber-business-accelerator/faithful-investment-in-people-episode-104-wichita-chamber-business-accelerator-joy-eakins/)"
       ]
     },
     {
@@ -1208,48 +836,43 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-joy-eakins-0097",
+      "id": "src-joy-eakins-0061",
       "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
+      "url": "https://www.kansascomeback.com/",
+      "title": "Kansascomeback",
+      "publisher": "Kansascomeback",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)",
-        "[Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)"
+        "| s-campaign-home | primary-candidate | https://www.kansascomeback.com/ | accessed 2026-05-19 | Active campaign site and footer; links navigation, donate, treasurer | status |",
+        "\"Kansas comeback\" - campaign brand, 2026-04-01, https://www.kansascomeback.com/ - topic: campaign identity.",
+        "| Campaign site | https://www.kansascomeback.com/ | FOUND | Candidate-controlled site for \"Joy Eakins for Kansas Governor.\" Public pages accessible for About, Education, Property Tax Reform, News, Volunteer, and Donate. |",
+        "Campaign homepage/current metadata: official campaign site; title and description position Eakins as a conservative Kansas Comeback candidate focused on education reform, economic growth, and family values. The page's OpenGraph/Twitter metadata includes \"Joy E",
+        "Correct UI/candidate website URL to https://www.kansascomeback.com/."
       ]
     },
     {
-      "id": "src-joy-eakins-0098",
+      "id": "src-joy-eakins-0075",
       "tier": "secondary",
-      "url": "https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/",
-      "title": "Schooleymitchell",
-      "publisher": "Schooleymitchell",
+      "url": "https://www.ksn.com/news/your-local-election-hq/joy-eakins-announces-bid-for-kansas-governor/",
+      "title": "Ksn",
+      "publisher": "Ksn",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)"
+        "> -- [KSN News](https://www.ksn.com/news/your-local-election-hq/joy-eakins-announces-bid-for-kansas-governor/)",
+        "[KSN: Eakins announces bid](https://www.ksn.com/news/your-local-election-hq/joy-eakins-announces-bid-for-kansas-governor/)",
+        "> -- KSN, accessed April 1, 2026, https://www.ksn.com/news/your-local-election-hq/joy-eakins-announces-bid-for-kansas-governor/",
+        "\"source\": \"KSN, accessed April 1, 2026, https://www.ksn.com/news/your-local-election-hq/joy-eakins-announces-bid-for-kansas-governor/\","
       ]
     },
     {
-      "id": "src-joy-eakins-0099",
+      "id": "src-joy-eakins-0102",
       "tier": "secondary",
-      "url": "https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546",
-      "title": "Abcnews.Go",
-      "publisher": "Abcnews.Go",
+      "url": "https://www.kake.com/news/joy-eakins-discusses-her-run-for-the-governors-office/article_7947e2be-8651-4a43-963e-5ee064c2d6c5.html",
+      "title": "Kake",
+      "publisher": "Kake",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "[ABC News: Family of boy killed on water slide speaks out](https://abcnews.go.com/US/family-boy-killed-waterslide-speaks-hurting/story?id=45445546)"
-      ]
-    },
-    {
-      "id": "src-joy-eakins-0106",
-      "tier": "secondary",
-      "url": "https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor",
-      "title": "Noln",
-      "publisher": "Noln",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)"
+        "[KAKE: Eakins discusses run](https://www.kake.com/news/joy-eakins-discusses-her-run-for-the-governors-office/article_7947e2be-8651-4a43-963e-5ee064c2d6c5.html)"
       ]
     },
     {
@@ -1273,6 +896,105 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Salina Post Feb. 3, 2026 debate summary: Eakins described school choice, tax and spending reform, and resistance to government incentives for business/entrepreneurs. ([source](https://salinapost.com/posts/68a90d33-8d9a-49ec-abbb-9190b4f87f7e))",
         "[Salina Post - Debate statements and answers](https://salinapost.com/posts/68a90d33-8d9a-49ec-abbb-9190b4f87f7e)"
+      ]
+    },
+    {
+      "id": "src-joy-eakins-0114",
+      "tier": "social",
+      "url": "https://x.com/joy_eakins",
+      "title": "X",
+      "publisher": "X",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| Personal X | https://x.com/joy_eakins | FOUND | Indexed public profile snippet located: \"Christian, Wife, Mother, Entrepreneur, Data Fanatic, Kansan,\" with about 336 followers and 148 following in the public snippet. Not treated as campaign-controlled unless"
+      ]
+    },
+    {
+      "id": "src-joy-eakins-0115",
+      "tier": "social",
+      "url": "https://www.facebook.com/JoyforKS/",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| s-facebook-page | social | https://www.facebook.com/JoyforKS/ | prior local capture 2026-05-11 | Campaign Facebook metadata only: page name, likes/talking count | social presence |",
+        "Her social footprint is present but not deeply visible from logged-out capture. Facebook metadata listed \"Joy Eakins for Governor\" with 780 likes and 130 talking about this, and described her as a strong conservative and America First patriot running to lead t",
+        "Facebook: [Joy for KS](https://www.facebook.com/JoyforKS/)",
+        "[Joy for KS](https://www.facebook.com/JoyforKS/)",
+        "Facebook public metadata at capture listed 780 likes and 130 talking about this for \"Joy Eakins for Governor.\" The public page description mirrors the campaign biography language: strong conservative, America First patriot, spent her life fighting for what is",
+        "Facebook campaign page metadata: 780 likes, 130 talking about this, Joy Eakins for Governor page identity and description. ([source](https://www.facebook.com/JoyforKS/))"
+      ]
+    },
+    {
+      "id": "src-joy-eakins-0116",
+      "tier": "social",
+      "url": "https://x.com/JoyforKS",
+      "title": "X",
+      "publisher": "X",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| s-x-campaign | social | https://x.com/JoyforKS | prior local capture 2026-05-11 | Campaign X profile metadata only: creation date, follower/status/media counts | social presence |",
+        "Twitter/X: [@JoyforKS](https://x.com/JoyforKS)",
+        "[@JoyforKS](https://x.com/JoyforKS)",
+        "| Campaign X | https://x.com/JoyforKS | FOUND | Public X metadata accessible through the page bootstrap: Joy Eakins for Governor, @JoyforKS, Wichita, KS, created 2025-06-09, 82 followers, 18 following, 160 posts/statuses, 97 media items, blue-verified, bio: \"R",
+        "X public metadata at capture identified [@JoyforKS](https://x.com/JoyforKS) as a blue-verified campaign account created on 2025-06-09, with 82 followers, 18 following, 160 statuses/posts, and 97 media items. The bio says, \"Running to lead the Kansas Comeback a",
+        "X campaign profile metadata: @JoyforKS, created 2025-06-09, 82 followers, 18 following, 160 statuses/posts, 97 media, Wichita, KS, campaign bio. ([source](https://x.com/JoyforKS))"
+      ]
+    },
+    {
+      "id": "src-joy-eakins-0120",
+      "tier": "secondary",
+      "url": "https://www.kansascomeback.com/news",
+      "title": "Kansascomeback",
+      "publisher": "Kansascomeback",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "The campaign News page reposts or summarizes three media items from June 17-19, 2025: the campaign launch, a Pete Mundo radio appearance, and KAKE's interview. The KAKE repost quotes Eakins saying, \"I think that Kansas needs a comeback, and I think I'm the lea",
+        "Campaign News page: three media items dated June 17, June 18, and June 19, 2025. ([source](https://www.kansascomeback.com/news))"
+      ]
+    },
+    {
+      "id": "src-joy-eakins-0136",
+      "tier": "secondary",
+      "url": "https://ballotpedia.org/Joy_Eakins",
+      "title": "Ballotpedia",
+      "publisher": "Ballotpedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Ballotpedia: Joy Eakins](https://ballotpedia.org/Joy_Eakins)"
+      ]
+    },
+    {
+      "id": "src-joy-eakins-0169",
+      "tier": "social",
+      "url": "https://www.facebook.com/JoyforKS",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| Campaign Facebook | https://www.facebook.com/JoyforKS | FOUND | Public metadata accessible: \"Joy Eakins for Governor,\" 780 likes and 130 talking about this at capture. Page description says she is a \"strong conservative and America First patriot\" running to"
+      ]
+    },
+    {
+      "id": "src-joy-eakins-0170",
+      "tier": "secondary",
+      "url": "https://secure.winred.com/joy-eakins-for-governor/donate-today",
+      "title": "Secure.Winred",
+      "publisher": "Secure.Winred",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "| WinRed | https://secure.winred.com/joy-eakins-for-governor/donate-today | FOUND | Donation destination linked in existing project notes and campaign site Donate button. |"
+      ]
+    },
+    {
+      "id": "src-joy-eakins-0171",
+      "tier": "secondary",
+      "url": "https://www.kansascomeback.com/news/joy-eakins-announces-kansas-comeback-with-pete-mundo",
+      "title": "Kansascomeback",
+      "publisher": "Kansascomeback",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Campaign repost of Pete Mundo appearance: launch and Kansas Comeback radio interview reference. ([source](https://www.kansascomeback.com/news/joy-eakins-announces-kansas-comeback-with-pete-mundo))"
       ]
     }
   ]

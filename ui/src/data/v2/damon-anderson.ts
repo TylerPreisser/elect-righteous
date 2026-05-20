@@ -110,41 +110,10 @@ export const DAMON_ANDERSON_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public evidence: \"url\": \"https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-ks-filing-senate",
-          "src-damon-anderson-0003",
-          "src-damon-anderson-0004",
-          "src-damon-anderson-0002",
-          "src-damon-anderson-0005"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-damon-anderson-00042",
-          "date": "Undated",
-          "body": "\"url\": \"https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS\"",
-          "sourceIds": [
-            "s-ks-filing-senate"
-          ]
-        },
-        {
-          "id": "em-damon-anderson-00118",
-          "date": "2026-03-30",
-          "body": "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026 -- Full election overview -- accessed 2026-03-30",
-          "sourceIds": [
-            "src-damon-anderson-0003"
-          ]
-        },
-        {
-          "id": "em-damon-anderson-00119",
-          "date": "2025-12-30",
-          "body": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates -- KCUR comprehensive candidate guide -- accessed 2026-03-30",
-          "sourceIds": [
-            "src-damon-anderson-0004"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -171,40 +140,10 @@ export const DAMON_ANDERSON_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public evidence: \"url\": \"https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS\" Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-ks-filing-senate",
-          "src-damon-anderson-0003",
-          "src-damon-anderson-0004",
-          "src-damon-anderson-0002"
-        ]
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-damon-anderson-00042",
-          "date": "Undated",
-          "body": "\"url\": \"https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS\"",
-          "sourceIds": [
-            "s-ks-filing-senate"
-          ]
-        },
-        {
-          "id": "em-damon-anderson-00118",
-          "date": "2026-03-30",
-          "body": "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026 -- Full election overview -- accessed 2026-03-30",
-          "sourceIds": [
-            "src-damon-anderson-0003"
-          ]
-        },
-        {
-          "id": "em-damon-anderson-00119",
-          "date": "2025-12-30",
-          "body": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates -- KCUR comprehensive candidate guide -- accessed 2026-03-30",
-          "sourceIds": [
-            "src-damon-anderson-0004"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -245,47 +184,27 @@ export const DAMON_ANDERSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-damon-anderson-0002",
+      "id": "s-campaign-issues",
       "tier": "primary",
-      "url": "https://www.fec.gov/data/elections/senate/KS/2026/",
-      "title": "Fec",
-      "publisher": "Fec",
+      "url": "https://www.andersonforkansas.com/issues",
+      "title": "Where I Stand",
+      "publisher": "Damon Anderson for U.S. Senate",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "https://www.fec.gov/data/elections/senate/KS/2026/ -- FEC filing data -- accessed 2026-03-30"
+        "Campaign states positions on health care, education, tech, AI, immigration, agriculture, labor, balanced budget, prison reform, privatization, LGBTQ rights, and reproductive rights",
+        "\"url\": \"https://www.andersonforkansas.com/issues\","
       ]
     },
     {
-      "id": "src-damon-anderson-0003",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
+      "id": "s-campaign-systemfix",
+      "tier": "primary",
+      "url": "https://www.andersonforkansas.com/systemfix",
+      "title": "Fixing the System",
+      "publisher": "Damon Anderson for U.S. Senate",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026 -- Full election overview -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-damon-anderson-0004",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
-      "title": "Kcur",
-      "publisher": "Kcur",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates -- KCUR comprehensive candidate guide -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-damon-anderson-0005",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas -- Wikipedia election page -- accessed 2026-03-30"
+        "Campaign supports overturning Citizens United, limiting leadership PACs, banning congressional stock trading, lobbying restrictions, donor disclosure, bill transparency, and national E-Verify",
+        "\"url\": \"https://www.andersonforkansas.com/systemfix\","
       ]
     }
   ]
