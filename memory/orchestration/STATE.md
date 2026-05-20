@@ -1,7 +1,7 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-20T20:50:39Z
-Last agent: local-race-auditor / ux-content-designer / form-verification
-Last commit: 5409b73
+Last updated: 2026-05-20T20:54:41Z
+Last agent: github-pages-deploy-agent / cloudflare-deploy-agent
+Last commit: 3d5b3fb
 
 ## Current Phase
 Phase 3: Profile Rebuild
@@ -25,6 +25,7 @@ Phase 3: Profile Rebuild
 - Customer feedback flagged possible missing local candidates. Recheck against the current Ellis County 2026 candidate filing PDF found only Commission District 1 / Republican Michael Berges for the county commission race during this pass; a fresh official recheck is still required after the June 1, 2026 noon filing deadline and again after the August 3, 2026 noon independent nomination deadline — local-race-auditor — high — 2026-05-20
 - Correction form routes to tyler@preissersolutions.com in code, but live FormSubmit delivery is not proven: controlled AJAX, HTML fallback, and provider-root tests returned Cloudflare/FormSubmit 522 responses from this environment. UI fallback to direct email is visible. FormSubmit activation and old-submission mailbox review are still not confirmed from repo-only access — form-verification — high — 2026-05-20
 - Full local record audit remains required for USD 489, Hays City Commission, and Ellis County Commission because customer feedback showed that board/commission pages must distinguish official minutes/votes from secondary reporting and social-media summaries — record-writer — high — 2026-05-20
+- Production domain `electrighteous.com` did not resolve from this environment after GitHub Pages preview deploy succeeded; Cloudflare/DNS configuration must be checked outside the repo before production can be verified — cloudflare-deploy-agent — high — 2026-05-20
 
 ## Candidate Progress
 | Slug | Mined | Matrix | Social | Sources | Issues | Bio | Record | Funding | Faith | Assembled | Edited | Legal | Symmetry |
@@ -144,6 +145,8 @@ Phase 3: Profile Rebuild
 | Public profile wording | 2026-05-20T20:01:38Z | Pass | Removed internal matrix maintenance language and stiff Documented-record labels from rendered issue summaries; validateCandidateV2, TypeScript, and npm run build pass. |
 | Candidate relevance guard | 2026-05-20T20:30:53Z | Pass | Renderer now rejects finance-only, public-absence, generic race/local context, family-network, and other-candidate-led evidence from issue/social cards unless the evidence names or directly belongs to the current candidate. |
 | Customer local feedback pass | 2026-05-20T20:50:39Z | Pass-with-caveats | Added current-official/appointed-administrator profile labeling, corrected Hays City and USD 489 group copy, added filing-deadline context to election detail pages, corrected Ken Brooks Hays High/Facebook-page notes, and documented that current official roster data still needs post-deadline recheck. |
+| GitHub Pages preview deploy | 2026-05-20T20:54:41Z | Pass | Pushed main through commit 3d5b3fb; GitHub Actions run 26189325831 completed build and deploy successfully. Public preview verified for Ken Brooks, USD 489 current, and Ellis County 2026 ballot pages. |
+| Production domain verification | 2026-05-20T20:54:41Z | Fail/blocked | `https://electrighteous.com/candidates/ken-brooks/` failed DNS resolution from this environment. Production deploy could not be verified. |
 
 ## Next Actions Queue
 1. Run full manual professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor passes for all 70 rendered profiles after the automated relevance guard pass — editorial review agents — P0 — blocked by none
@@ -152,9 +155,11 @@ Phase 3: Profile Rebuild
 4. Resolve correction form delivery: retry FormSubmit from a normal browser/network, confirm recipient activation and old submissions, or replace FormSubmit with a provider/account under Preisser Solutions control if 522 persists — form-verification — P0 — blocked by provider/mailbox access
 5. Perform full local official-record audit, starting with Allen Park, using USD 489 minutes/BoardDocs/agenda records before relying on reporting or social posts for action claims — record-writer — P0 — blocked by source review time
 6. Recheck Ellis County candidate filings after June 1, 2026 at noon and independent nominations after August 3, 2026 at noon; add any newly filed candidates found in official sources — local-race-auditor — P0 — blocked by filing deadlines
-7. Deploy only after validation gates, form verification, and release report pass — deploy agents — P1 — blocked by validation and release readiness
+7. Check Cloudflare/DNS for `electrighteous.com`; production did not resolve during this pass even though GitHub Pages preview deployed successfully — cloudflare-deploy-agent — P0 — blocked by Cloudflare/DNS access
+8. Deploy only after validation gates, form verification, and release report pass — deploy agents — P1 — blocked by validation and release readiness
 
 ## Session Log (last 20 entries)
+- 2026-05-20T20:54:41Z github-pages-deploy-agent/cloudflare-deploy-agent Pushed customer-feedback remediation through commit 3d5b3fb, verified GitHub Actions Pages build/deploy success, confirmed public preview HTML contains Ken Brooks correction and updated local/off-cycle filing labels, and documented production DNS failure for electrighteous.com.
 - 2026-05-20T20:50:39Z local-race-auditor/ux-content-designer/form-verification Responded to customer feedback: clarified local pages as current-official/administrator profiles rather than 2026 candidate lists, added filing-deadline context, corrected Ken Brooks Hays High and Facebook-page notes, verified no additional Ellis County Commission candidates in the current official 2026 filing PDF during this pass, attempted controlled correction-form submissions, documented FormSubmit 522 delivery blocker, and reran YAML/inventory/V2 validation/TypeScript/static build successfully.
 - 2026-05-20T20:30:53Z legal-accuracy-reviewer/source-tier-validator Restored broader candidate-specific public source trails, preserved social-source evidence, added candidate relevance guards against cross-candidate issue/social/source contamination, corrected Chase LaPorte rendered race metadata, reran source health with zero HTTP errors, and confirmed validation/TypeScript/static build pass.
 - 2026-05-20T20:01:38Z professional-narrative-editor Removed internal disk-matrix wording from public issue summaries, replaced Documented-record label with Documented public evidence, regenerated all 70 v2 profiles, and confirmed build pass.
