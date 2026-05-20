@@ -1,7 +1,7 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-20T19:23:52Z
-Last agent: legal-accuracy-reviewer
-Last commit: 2281dee
+Last updated: 2026-05-20T19:28:00Z
+Last agent: form-verification
+Last commit: pending-uncommitted-form-verification
 
 ## Current Phase
 Phase 3: Profile Rebuild
@@ -22,6 +22,7 @@ Phase 3: Profile Rebuild
 - Ten rendered profiles remain public-source/action-thin after assembly and require explicit editorial caveats/research follow-up: adam-hamilton, brandon-adams, doug-billings, eric-lund, kevin-latz, mark-lane, michelle-cunningham, ric-koehn, sharilyn-ray, steven-jacob — candidate-profile-assembler — medium — 2026-05-20
 - Source-tier validator used structural/domain classification, not live HTTP fetch; a later high-latency source-health sweep is still needed before final publication claims — source-tier-validator — medium — 2026-05-20
 - Official Kansas post-filing roster recheck remains required after the filing deadline/final official lists — roster-auditor — medium — 2026-05-20
+- Correction form routes to tyler@preissersolutions.com in code, but FormSubmit activation and old-submission mailbox review are not confirmed from repo-only access — form-verification — medium — 2026-05-20
 
 ## Candidate Progress
 | Slug | Mined | Matrix | Social | Sources | Issues | Bio | Record | Funding | Faith | Assembled | Edited | Legal | Symmetry |
@@ -136,15 +137,17 @@ Phase 3: Profile Rebuild
 | Rendered 14-issue profiles | 2026-05-20T19:08:52Z | Pass | 70 of 70 rendered v2 candidate files now contain exactly 14 IssueCard entries derived from fixed_issue_matrix/source-audit artifacts. |
 | Narrative section presence | 2026-05-20T19:17:36Z | Pass | 70 of 70 rendered profiles have non-empty Who They Are, Their Record, Donor/Funding, Where They Worship, and Social/Online notes. Thin-record fallbacks are caveated. |
 | Automated legal cleanup | 2026-05-20T19:23:52Z | Pass | Rendered issue cards no longer surface internal-only issue text as public stance evidence; cross-candidate lawsuit URL scan reports 0 suspect references; validateCandidateV2, TypeScript, and npm run build pass. |
+| Correction form routing | 2026-05-20T19:28:00Z | Partial | Code routes FormSubmit AJAX, HTML fallback, and mailto fallback to tyler@preissersolutions.com. FormSubmit activation and old submissions require mailbox/dashboard confirmation. |
 
 ## Next Actions Queue
 1. Run professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor for all 70 rendered profiles — editorial review agents — P0 — blocked by none
 2. Run a live URL/source-health sweep for source-audit.json records before final publication claims — source-tier-validator — P1 — blocked by network/runtime time only
 3. Rerun full build-validation-gatekeeper after editorial/legal/symmetry review — build-validation-gatekeeper — P1 — blocked by Phase 4 completion
-4. Verify correction form routing and document activation/submission status — form-verification — P1 — blocked by none
+4. Confirm FormSubmit activation and old correction submissions from tyler@preissersolutions.com mailbox/dashboard — form-verification — P1 — blocked by mailbox/FormSubmit access
 5. Deploy only after validation gates, form verification, and release report pass — deploy agents — P1 — blocked by validation and release readiness
 
 ## Session Log (last 20 entries)
+- 2026-05-20T19:28:00Z form-verification Verified correction-form code routes to tyler@preissersolutions.com and documented activation/old-submission blockers in form-verification-2026-05-20.md.
 - 2026-05-20T19:23:52Z legal-accuracy-reviewer Added renderer guards against internal-only issue leakage, source-table/narrative rows as actions, and lawsuit URLs that do not name the current candidate; validation/build passed.
 - 2026-05-20T19:17:36Z specialist-profile-writers Populated narrative profile sections for all 70 rendered candidates: whoTheyAre, recordSummary, campaignFinance, whereTheyWorship, and socialResearchNote are now present for every candidate; thin records are caveated.
 - 2026-05-20T19:08:52Z candidate-profile-assembler Regenerated all 70 rendered v2 candidate TypeScript files from fixed_issue_matrix/source-audit data; 70/70 now render exactly 14 issue cards and pass validateCandidateV2, TypeScript, and npm run build.
