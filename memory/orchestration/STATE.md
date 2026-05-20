@@ -1,7 +1,7 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-20T19:55:43Z
-Last agent: source-tier-validator
-Last commit: f981ea9
+Last updated: 2026-05-20T20:01:38Z
+Last agent: professional-narrative-editor
+Last commit: d5bdb6c
 
 ## Current Phase
 Phase 3: Profile Rebuild
@@ -139,6 +139,7 @@ Phase 3: Profile Rebuild
 | Automated legal cleanup | 2026-05-20T19:23:52Z | Pass | Rendered issue cards no longer surface internal-only issue text as public stance evidence; cross-candidate lawsuit URL scan reports 0 suspect references; validateCandidateV2, TypeScript, and npm run build pass. |
 | Correction form routing | 2026-05-20T19:28:00Z | Partial | Code routes FormSubmit AJAX, HTML fallback, and mailto fallback to tyler@preissersolutions.com. FormSubmit activation and old submissions require mailbox/dashboard confirmation. |
 | Rendered source health | 2026-05-20T19:55:43Z | Partial | Public trail reduced to 1,621 rendered source entries / 725 unique URLs; 694 live, 25 blocked/forbidden, 5 timeouts, 1 network error, 0 HTTP errors on a 15s timeout pass. See source-health-2026-05-20.md/json and source-url-overrides.json. |
+| Public profile wording | 2026-05-20T20:01:38Z | Pass | Removed internal matrix maintenance language and stiff Documented-record labels from rendered issue summaries; validateCandidateV2, TypeScript, and npm run build pass. |
 
 ## Next Actions Queue
 1. Run professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor for all 70 rendered profiles — editorial review agents — P0 — blocked by none
@@ -148,6 +149,7 @@ Phase 3: Profile Rebuild
 5. Deploy only after validation gates, form verification, and release report pass — deploy agents — P1 — blocked by validation and release readiness
 
 ## Session Log (last 20 entries)
+- 2026-05-20T20:01:38Z professional-narrative-editor Removed internal disk-matrix wording from public issue summaries, replaced Documented-record label with Documented public evidence, regenerated all 70 v2 profiles, and confirmed build pass.
 - 2026-05-20T19:55:43Z source-tier-validator Trimmed public source trails to rendered citations only, added URL normalization/override cleanup, dropped dead public URLs from render, reran source health with zero HTTP-error links, and confirmed validation/TypeScript/build pass.
 - 2026-05-20T19:30:06Z source-tier-validator Added rendered source-health checker and checked 2,643 unique public rendered source URLs: 2,250 live, 97 blocked/forbidden, 243 HTTP errors, 32 timeouts, 21 network errors.
 - 2026-05-20T19:28:00Z form-verification Verified correction-form code routes to tyler@preissersolutions.com and documented activation/old-submission blockers in form-verification-2026-05-20.md.
