@@ -19,7 +19,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 11 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Agenda Center URL pattern: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_MMDDYYYY-NNN where NNN is the document ID. IDs are not strictly sequential across meeting types — some IDs labelled \"_08192025-694\" return Library Board minutes rather than commission minutes; the correct commission meeting ID had to be inferred by trial. The Agenda Center index page at /AgendaCenter lists all available minutes and is... The disk matrix keeps 27 selected evidence items for this issue, including 4 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Agenda Center URL pattern: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_MMDDYYYY-NNN where NNN is the document ID. IDs are not strictly sequential across meeting types — some IDs labelled \"_08192025-694\" return Library Board minutes rather than commission minutes; the correct commission meeting ID had to be inferred by trial. The Agenda Center index page at /AgendaCenter lists all available minutes and is... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-nathan-leiker-0040",
           "src-nathan-leiker-0039"
@@ -61,7 +61,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Public evidence points strongly toward St. Nicholas of Myra Catholic Church in Hays, but I did not find a direct statement from Leiker himself confirming parish membership. The strongest source is the family-obituary trail tied to the Leiker name and St. Nicholas: https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/. I would treat this as a strong indicator rather than a hard confirmation. The disk matrix keeps 10 selected evidence items for this issue, including 4 public URL-backed items and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Public evidence points strongly toward St. Nicholas of Myra Catholic Church in Hays, but I did not find a direct statement from Leiker himself confirming parish membership. The strongest source is the family-obituary trail tied to the Leiker name and St. Nicholas: https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/. I would treat this as a strong indicator rather than a hard confirmation. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-nathan-leiker-0041",
           "src-nathan-leiker-0042",
@@ -76,7 +76,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: On budgets and taxes, he speaks as a fiscal conservative who still accepts spending when tied to services, infrastructure, and risk management. In October 2024 budget coverage, he said commissioners try to limit their tax-dollar impact but warned against deferring bridge and road needs until they become failures or accidents. In August 2025, he said a proposed mill increase would give the county a soft landing if st... The disk matrix keeps 35 selected evidence items for this issue, including 15 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On budgets and taxes, he speaks as a fiscal conservative who still accepts spending when tied to services, infrastructure, and risk management. In October 2024 budget coverage, he said commissioners try to limit their tax-dollar impact but warned against deferring bridge and road needs until they become failures or accidents. In August 2025, he said a proposed mill increase would give the county a soft landing if st... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-nathan-leiker-0053",
           "s-hayspost-leiker-qa-2022",
@@ -183,7 +183,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain infrastructure. At an August 2024 joint city-county meeting, he called the Vineyard Road discussion a forward-looking project and said Hays was clearly developing north of I-70, according to Hays Post. But... The disk matrix keeps 30 selected evidence items for this issue, including 4 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain infrastructure. At an August 2024 joint city-county meeting, he called the Vineyard Road discussion a forward-looking project and said Hays was clearly developing north of I-70, according to Hays Post. But... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-nathan-leiker-0052",
           "s-ingrams-leiker-2021",
@@ -244,7 +244,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 3 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -254,7 +254,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 17 selected evidence items for this issue, including 3 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: ICE Bill Support -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-nathan-leiker-0064",
           "src-nathan-leiker-0063",
@@ -277,7 +277,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... The disk matrix keeps 24 selected evidence items for this issue, including 4 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ingrams-leiker-2021",
           "s-hayspost-salary-2026",
@@ -322,7 +322,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. The disk matrix keeps 29 selected evidence items for this issue, including 10 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-leiker-announcement-2022",
           "s-hayspost-leiker-qa-2022",
@@ -428,7 +428,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... The disk matrix keeps 17 selected evidence items for this issue, including 13 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ingrams-leiker-2021",
           "s-hayspost-salary-2026",
@@ -494,7 +494,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate-stated evidence: Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... The disk matrix keeps 34 selected evidence items for this issue, including 11 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2022-canvass",
           "s-ellis-commission-page",
@@ -590,7 +590,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... The disk matrix keeps 41 selected evidence items for this issue, including 24 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2022-canvass",
           "src-nathan-leiker-0053",
@@ -697,7 +697,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. The disk matrix keeps 22 selected evidence items for this issue, including 5 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-leiker-announcement-2022",
           "src-nathan-leiker-0007",

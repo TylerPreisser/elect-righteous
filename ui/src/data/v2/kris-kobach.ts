@@ -21,7 +21,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Kansas Reflector: Senate adopts plan to elect Supreme Court justices The disk matrix keeps 23 selected evidence items for this issue, including 7 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Kansas Reflector: Senate adopts plan to elect Supreme Court justices Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0028",
           "src-kris-kobach-0029",
@@ -97,7 +97,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: Kansas Reflector: Gender Marker $1 Fine The disk matrix keeps 23 selected evidence items for this issue, including 4 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Kansas Reflector: Gender Marker $1 Fine Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0036",
           "src-kris-kobach-0035",
@@ -139,7 +139,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... The disk matrix keeps 33 selected evidence items for this issue, including 11 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0040",
           "src-kris-kobach-0001",
@@ -226,7 +226,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Documented-record evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... The disk matrix keeps 25 selected evidence items for this issue, including 9 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0007",
@@ -275,7 +275,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Brennan Center: Wisconsin Supreme Court spending record The disk matrix keeps 27 selected evidence items for this issue, including 1 public URL-backed item and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Brennan Center: Wisconsin Supreme Court spending record Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0058"
         ]
@@ -296,7 +296,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 31 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -306,7 +306,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... The disk matrix keeps 20 selected evidence items for this issue, including 3 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0007",
@@ -345,7 +345,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: Bipartisan Policy Center: Four Things to Know About Noncitizen Voting The disk matrix keeps 29 selected evidence items for this issue, including 7 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Bipartisan Policy Center: Four Things to Know About Noncitizen Voting Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0063",
           "src-kris-kobach-0064",
@@ -416,7 +416,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... The disk matrix keeps 38 selected evidence items for this issue, including 12 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0067",
@@ -511,7 +511,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... The disk matrix keeps 37 selected evidence items for this issue, including 17 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0008",
@@ -610,7 +610,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... The disk matrix keeps 31 selected evidence items for this issue, including 13 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0008",
@@ -699,7 +699,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: > -- Kansas Reflector, March 8, 2026 The disk matrix keeps 31 selected evidence items for this issue, including 8 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: > -- Kansas Reflector, March 8, 2026 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0067",
           "src-kris-kobach-0033",
@@ -787,7 +787,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... The disk matrix keeps 40 selected evidence items for this issue, including 24 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Kobach's second large theme is law enforcement and drug enforcement, but the current social language is not only punitive. The reviewed posts repeatedly highlight fentanyl, naloxone distribution boxes, and K-9 grants. He used the personal/campaign account to amplify @KSAGOffice posts about naloxone boxes at Washburn, Fort Hays Tech Northwest, and Pratt Community College, and he framed the office's work as a multi-pa... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0078",
@@ -886,7 +886,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Judicial power is another clear through-line. In the current X sample, Kobach posted from Colby after talking about judicial selection reform and urged voters to support changing how Kansas Supreme Court justices are selected (source). He also posted support for Tony Mattivi and Anthony Powell federal bench nominations, and amplified praise for his AG office's legal staff as a pipeline into President Trump's second-... The disk matrix keeps 20 selected evidence items for this issue, including 2 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Judicial power is another clear through-line. In the current X sample, Kobach posted from Colby after talking about judicial selection reform and urged voters to support changing how Kansas Supreme Court justices are selected (source). He also posted support for Tony Mattivi and Anthony Powell federal bench nominations, and amplified praise for his AG office's legal staff as a pipeline into President Trump's second-... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-kris-kobach-0207"
         ]

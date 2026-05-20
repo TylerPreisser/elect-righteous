@@ -20,7 +20,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Campaign \"My Other Views\" page says Lane does not like to dwell on personal feelings about abortion, calls abortion policy the less complicated part for him, and criticizes abortion bans for their effect on medical practice. Source: https://www.samuellane.org/my-other-views The disk matrix keeps 18 selected evidence items for this issue, including 2 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Campaign \"My Other Views\" page says Lane does not like to dwell on personal feelings about abortion, calls abortion policy the less complicated part for him, and criticizes abortion bans for their effect on medical practice. Source: https://www.samuellane.org/my-other-views Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-other-views"
         ]
@@ -49,7 +49,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: Official cross-check: Kansas Legislature SB 244 page says House Substitute for SB 244 requires sex-designated multi-occupancy private spaces in public buildings, defines gender as biological sex at birth for statutory construction, and directs driver-license and birth-certificate correction/reissuance when necessary; the bill was veto-overridden. Source: https://www.kslegislature.gov/li/b2025_26/measures/sb244/ The disk matrix keeps 14 selected evidence items for this issue, including 2 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Official cross-check: Kansas Legislature SB 244 page says House Substitute for SB 244 requires sex-designated multi-occupancy private spaces in public buildings, defines gender as biological sex at birth for statutory construction, and directs driver-license and birth-certificate correction/reissuance when necessary; the bill was veto-overridden. Source: https://www.kslegislature.gov/li/b2025_26/measures/sb244/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ksleg-sb244"
         ]
@@ -78,7 +78,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: what does the secretary of state do - campaign explainer page, 2026-04-01, https://www.samuellane.org/what-does-the-secretary-of-state-do - topic: civic education. The disk matrix keeps 19 selected evidence items for this issue, including 4 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: what does the secretary of state do - campaign explainer page, 2026-04-01, https://www.samuellane.org/what-does-the-secretary-of-state-do - topic: civic education. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-sos-explainer",
           "src-sam-lane-0014",
@@ -137,7 +137,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Religious liberty / church / civic morality in the rendered profile. 7 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -147,7 +147,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Brennan Center: Wisconsin Supreme Court spending record The disk matrix keeps 16 selected evidence items for this issue, including 2 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Brennan Center: Wisconsin Supreme Court spending record Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-sam-lane-0017",
           "s-sos-candidate-info"
@@ -177,7 +177,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Secretary-of-state explainer says the office handles administrative duties including business registration and legal publications, but emphasizes election oversight. Source: https://www.samuellane.org/what-does-the-secretary-of-state-do The disk matrix keeps 21 selected evidence items for this issue, including 1 public URL-backed item and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Secretary-of-state explainer says the office handles administrative duties including business registration and legal publications, but emphasizes election oversight. Source: https://www.samuellane.org/what-does-the-secretary-of-state-do Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-sos-explainer"
         ]
@@ -229,7 +229,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented-record evidence: Campaign \"My Other Views\" page says that when he says he loves civil liberties, he does not make an exception for gun rights. It also says that if he were running for a lawmaker office, he would be \"alright with some basic gun control legislation\" such as closing loopholes in the background-check system, but notes he is not running for a lawmaker office. Source: https://www.samuellane.org/my-other-views The disk matrix keeps 15 selected evidence items for this issue, including 1 public URL-backed item and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Campaign \"My Other Views\" page says that when he says he loves civil liberties, he does not make an exception for gun rights. It also says that if he were running for a lawmaker office, he would be \"alright with some basic gun control legislation\" such as closing loopholes in the background-check system, but notes he is not running for a lawmaker office. Source: https://www.samuellane.org/my-other-views Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-other-views"
         ]
@@ -250,7 +250,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 22 selected evidence items for this issue, including 1 public URL-backed item and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: CNN: 8 states vote to bar noncitizen voting Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-sam-lane-0019"
         ]
@@ -292,7 +292,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: Campaign \"My Other Views\" page says Lane does not like to dwell on personal feelings about abortion, calls abortion policy the less complicated part for him, and criticizes abortion bans for their effect on medical practice. Source: https://www.samuellane.org/my-other-views The disk matrix keeps 19 selected evidence items for this issue, including 3 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Campaign \"My Other Views\" page says Lane does not like to dwell on personal feelings about abortion, calls abortion policy the less complicated part for him, and criticizes abortion bans for their effect on medical practice. Source: https://www.samuellane.org/my-other-views Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-other-views",
           "src-sam-lane-0020"
@@ -322,7 +322,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a secretary of state who \"plays fair\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair,... The disk matrix keeps 36 selected evidence items for this issue, including 12 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a secretary of state who \"plays fair\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair,... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-ksleg-sb4",
@@ -427,7 +427,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Kansas Ethics filing index: SWLinks2026EC The disk matrix keeps 10 selected evidence items for this issue, including 8 public URL-backed items and 2 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Kansas Ethics filing index: SWLinks2026EC Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kpdc-index",
           "s-kpdc-202601",
@@ -492,7 +492,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Agriculture / rural economy / water in the rendered profile. 22 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -523,7 +523,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Official cross-check: Kansas Legislature HB 2438 short title says it imposes restrictions on websites that can accept and transmit voter-registration applications. Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2438/ The disk matrix keeps 38 selected evidence items for this issue, including 18 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Official cross-check: Kansas Legislature HB 2438 short title says it imposes restrictions on websites that can accept and transmit voter-registration applications. Source: https://www.kslegislature.gov/li/b2025_26/measures/hb2438/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ksleg-hb2438",
           "s-campaign-home",
@@ -628,7 +628,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Direct readback of the SOS live candidate list at https://sos.ks.gov/elections/elections_upcoming_candidate.aspx was blocked in this environment by JavaScript/robot verification in the text browser and by CloudFront 403 in curl. This prevents a direct official SOS candidate-list row capture for Lane during this pass. The disk matrix keeps 12 selected evidence items for this issue, including 2 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Direct readback of the SOS live candidate list at https://sos.ks.gov/elections/elections_upcoming_candidate.aspx was blocked in this environment by JavaScript/robot verification in the text browser and by CloudFront 403 in curl. This prevents a direct official SOS candidate-list row capture for Lane during this pass. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-sos-candidate-list-blocked"
         ]

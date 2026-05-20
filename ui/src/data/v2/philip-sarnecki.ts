@@ -20,7 +20,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Candidate-stated evidence: Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-unity-careerism-star-bonds-in-first-big-pitch-for-states-highest-office/ The disk matrix keeps 30 selected evidence items for this issue, including 3 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-unity-careerism-star-bonds-in-first-big-pitch-for-states-highest-office/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kansas-informer-debate",
           "s-campaign-about",
@@ -43,7 +43,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: His economic message is inseparable from his outsider pitch. On the campaign site, Sarnecki presents himself as \"Kansas Dad - Husband - Businessman\" and says his plan is to stand with President Trump, create jobs, lower taxes, restore parental rights, end woke policies, bring business-style accountability, and cut red tape. (source) The campaign launch release says, \"Like President Trump, I've never run for office b... The disk matrix keeps 26 selected evidence items for this issue, including 4 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: His economic message is inseparable from his outsider pitch. On the campaign site, Sarnecki presents himself as \"Kansas Dad - Husband - Businessman\" and says his plan is to stand with President Trump, create jobs, lower taxes, restore parental rights, end woke policies, bring business-style accountability, and cut red tape. (source) The campaign launch release says, \"Like President Trump, I've never run for office b... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-freestate-debate-pt2"
@@ -102,7 +102,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Education content is less frequent than taxes and outsider messaging, but it is explicit. The campaign site says education elites are trying to replace parents and that Sarnecki would restore parental rights and end woke policies. (source) In the X sample, he wrote that classrooms are pushing agendas instead of reading, writing, and math, and that as governor he would restore focus to children's futures. (source) Th... The disk matrix keeps 34 selected evidence items for this issue, including 5 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Education content is less frequent than taxes and outsider messaging, but it is explicit. The campaign site says education elites are trying to replace parents and that Sarnecki would restore parental rights and end woke policies. (source) In the X sample, he wrote that classrooms are pushing agendas instead of reading, writing, and math, and that as governor he would restore focus to children's futures. (source) Th... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "src-philip-sarnecki-0001",
@@ -171,7 +171,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Faith and family are part of Sarnecki's public identity. The campaign biography says he is guided by faith in God and committed to conservative values including faith, family, hard work, and accountability. (source) Real Media KC's interview page says he is guided by Christian faith and conservative values and presents his business story alongside family, 513 Films, Athletes in Action, and blue-collar roots. (source... The disk matrix keeps 16 selected evidence items for this issue, including 2 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Faith and family are part of Sarnecki's public identity. The campaign biography says he is guided by faith in God and committed to conservative values including faith, family, hard work, and accountability. (source) Real Media KC's interview page says he is guided by Christian faith and conservative values and presents his business story alongside family, 513 Films, Athletes in Action, and blue-collar roots. (source... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-about"
         ]
@@ -224,7 +224,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: The same contrast dominates his X presence. In the public mirror sample, Sarnecki repeatedly blames \"career politicians\" for high taxes, state budget growth, population stagnation, weak job creation, red tape, regulation, and Republican losses. He wrote that the state budget had risen more than 60 percent in seven years while population had not grown, and said Kansans should keep more money while government keeps le... The disk matrix keeps 36 selected evidence items for this issue, including 9 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The same contrast dominates his X presence. In the public mirror sample, Sarnecki repeatedly blames \"career politicians\" for high taxes, state budget growth, population stagnation, weak job creation, red tape, regulation, and Republican losses. He wrote that the state budget had risen more than 60 percent in seven years while population had not grown, and said Kansans should keep more money while government keeps le... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-sos-candidate-info",
@@ -328,7 +328,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out... The disk matrix keeps 31 selected evidence items for this issue, including 9 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-campaign-launch",
@@ -424,7 +424,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 13 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -434,7 +434,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out... The disk matrix keeps 28 selected evidence items for this issue, including 3 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-freestate-debate-pt2"
@@ -485,7 +485,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) The disk matrix keeps 28 selected evidence items for this issue, including 11 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-philip-sarnecki-0050",
           "src-philip-sarnecki-0043",
@@ -542,7 +542,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out... The disk matrix keeps 28 selected evidence items for this issue, including 8 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage says Kansas has the highest taxes in the region, out-of-control property taxes, a high corporate tax rate compared with border states, and young Kansans priced out... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "s-campaign-volunteer",
@@ -603,7 +603,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Kansas Ethics filing index: SWLinks2026EC The disk matrix keeps 19 selected evidence items for this issue, including 6 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Kansas Ethics filing index: SWLinks2026EC Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kpdc-statewide-2026",
           "s-kpdc-jan2026-report",
@@ -666,7 +666,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: > -- Kansas Reflector, March 8, 2026 The disk matrix keeps 22 selected evidence items for this issue, including 7 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: > -- Kansas Reflector, March 8, 2026 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-philip-sarnecki-0043",
           "s-campaign-about",
@@ -709,7 +709,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-unity-careerism-star-bonds-in-first-big-pitch-for-states-highest-office/ The disk matrix keeps 43 selected evidence items for this issue, including 13 public URL-backed items and 30 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-unity-careerism-star-bonds-in-first-big-pitch-for-states-highest-office/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kansas-informer-debate",
           "s-campaign-home",
@@ -798,7 +798,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Candidate-list limitation: The SOS live candidate-list endpoint (https://sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / robot-verification block in this environment. I could not directly confirm a live SOS candidate-list row for Sarnecki. Because the June 1 filing deadline has not yet passed as of May 19, 2026, do not describe the ballot as final. The disk matrix keeps 12 selected evidence items for this issue, including 2 public URL-backed items and 10 internal-memory items.",
+        "text": "Documented public evidence: Candidate-list limitation: The SOS live candidate-list endpoint (https://sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / robot-verification block in this environment. I could not directly confirm a live SOS candidate-list row for Sarnecki. Because the June 1 filing deadline has not yet passed as of May 19, 2026, do not describe the ballot as final.",
         "sourceIds": [
           "s-sos-candidate-list-blocked",
           "src-philip-sarnecki-0104"

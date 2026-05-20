@@ -23,7 +23,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... The disk matrix keeps 7 selected evidence items for this issue, including 1 public URL-backed item and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ruder-profile-jul2023"
         ]
@@ -46,7 +46,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: In office, Ruder's quoted positions on operational questions cluster around two themes: a non-micromanagement posture toward administration and a priority-setting frame that flags time spent on non-academic issues. On school discipline she said, \"The board hires the superintendent, and it is up to the superintendent to manage his staff and the principals to manage their schools, not the board. I do not want to be in... The disk matrix keeps 21 selected evidence items for this issue, including 4 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: In office, Ruder's quoted positions on operational questions cluster around two themes: a non-micromanagement posture toward administration and a priority-setting frame that flags time spent on non-academic issues. On school discipline she said, \"The board hires the superintendent, and it is up to the superintendent to manage his staff and the principals to manage their schools, not the board. I do not want to be in... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-discipline-handbook-jul2025",
           "s-citizenjournal-bathroom-vandalism-apr2026",
@@ -94,7 +94,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: In her 2023 candidate questionnaire (source), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providing them through the staff, the resources necessary to allow them to obtain quality educational opportunities.\" She framed her fiscal posture as taxpayer-facing: \"I will do my best at representing the taxpayer in being fiscally... The disk matrix keeps 37 selected evidence items for this issue, including 21 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: In her 2023 candidate questionnaire (source), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providing them through the staff, the resources necessary to allow them to obtain quality educational opportunities.\" She framed her fiscal posture as taxpayer-facing: \"I will do my best at representing the taxpayer in being fiscally... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ruder-profile-jul2023",
           "s-hayspost-discipline-handbook-jul2025",
@@ -169,7 +169,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... The disk matrix keeps 13 selected evidence items for this issue, including 4 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ruder-profile-jul2023",
           "src-ruth-ruder-0077",
@@ -195,7 +195,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: In her 2023 candidate questionnaire (source), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providing them through the staff, the resources necessary to allow them to obtain quality educational opportunities.\" She framed her fiscal posture as taxpayer-facing: \"I will do my best at representing the taxpayer in being fiscally... The disk matrix keeps 27 selected evidence items for this issue, including 10 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: In her 2023 candidate questionnaire (source), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providing them through the staff, the resources necessary to allow them to obtain quality educational opportunities.\" She framed her fiscal posture as taxpayer-facing: \"I will do my best at representing the taxpayer in being fiscally... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ruder-profile-jul2023",
           "s-hayspost-oloughlin-mgp-sept2024",
@@ -260,7 +260,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Reviewed evidence: HaysPost: Housing/business developments The disk matrix keeps 17 selected evidence items for this issue, including 1 public URL-backed item and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: HaysPost: Housing/business developments Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ruth-ruder-0086"
         ]
@@ -272,7 +272,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 4 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -282,7 +282,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 14 selected evidence items for this issue, including 3 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: ICE Bill Support -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ruth-ruder-0088",
           "s-hayspost-ruder-profile-jul2023",
@@ -316,7 +316,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... The disk matrix keeps 19 selected evidence items for this issue, including 2 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ruder-profile-jul2023",
           "src-ruth-ruder-0089"
@@ -340,7 +340,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: SECONDARY (anchors Ruder's verbatim floor statements + vote): Hays Post, \"Board member calls out fellow member after repeated no votes,\" https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17 The disk matrix keeps 28 selected evidence items for this issue, including 10 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: SECONDARY (anchors Ruder's verbatim floor statements + vote): Hays Post, \"Board member calls out fellow member after repeated no votes,\" https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-asbestos-sept2025",
           "s-hayspost-bond-pm-mar2025",
@@ -416,7 +416,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Criminal Threat Sentencing -- Hays Post The disk matrix keeps 16 selected evidence items for this issue, including 9 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Criminal Threat Sentencing -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ruth-ruder-0091",
           "src-ruth-ruder-0092",
@@ -482,7 +482,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 15 selected evidence items for this issue, including 4 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: FHSU: Board of Regents approves affiliation Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ruth-ruder-0049",
           "src-ruth-ruder-0109",
@@ -506,7 +506,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: In her 2023 candidate questionnaire (source), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providing them through the staff, the resources necessary to allow them to obtain quality educational opportunities.\" She framed her fiscal posture as taxpayer-facing: \"I will do my best at representing the taxpayer in being fiscally... The disk matrix keeps 38 selected evidence items for this issue, including 18 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: In her 2023 candidate questionnaire (source), Ruder described her motivation in district-and-children terms: \"My first obligation, if elected, will be to the children in our district by providing them through the staff, the resources necessary to allow them to obtain quality educational opportunities.\" She framed her fiscal posture as taxpayer-facing: \"I will do my best at representing the taxpayer in being fiscally... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ruder-profile-jul2023",
           "s-hayspost-discipline-handbook-jul2025",
@@ -612,7 +612,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: USD 489 BoardDocs portal JavaScript-rendered + HTTP 403 to fetch. The portal at https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic returns HTTP 403 to all non-browser fetches in this environment; the alternate URL https://go.boarddocs.com/ks/usd489/Board.nsf/Public + https://usd489.community.highbond.com/Portal/MeetingSchedule.aspx both return JavaScript-rendered content that loads \"Today's Meetings / Upcoming Mee... The disk matrix keeps 12 selected evidence items for this issue, including 1 public URL-backed item and 11 internal-memory items.",
+        "text": "Documented public evidence: USD 489 BoardDocs portal JavaScript-rendered + HTTP 403 to fetch. The portal at https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic returns HTTP 403 to all non-browser fetches in this environment; the alternate URL https://go.boarddocs.com/ks/usd489/Board.nsf/Public + https://usd489.community.highbond.com/Portal/MeetingSchedule.aspx both return JavaScript-rendered content that loads \"Today's Meetings / Upcoming Mee...",
         "sourceIds": [
           "src-ruth-ruder-0041"
         ]

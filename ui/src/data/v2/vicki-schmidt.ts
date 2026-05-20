@@ -25,7 +25,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... The disk matrix keeps 24 selected evidence items for this issue, including 1 public URL-backed item and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-vicki-schmidt-0033"
         ]
@@ -67,7 +67,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 14 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -77,7 +77,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 36 selected evidence items for this issue, including 12 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-vicki-schmidt-0036",
           "src-vicki-schmidt-0001",
@@ -174,7 +174,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: hard work, honesty and faith - Vicki Schmidt campaign bio, 2026-04-01, https://vickischmidt.org/meet-vicki/ - topic: personal values. The disk matrix keeps 17 selected evidence items for this issue, including 4 public URL-backed items and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: hard work, honesty and faith - Vicki Schmidt campaign bio, 2026-04-01, https://vickischmidt.org/meet-vicki/ - topic: personal values. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-vicki-schmidt-0042",
           "src-vicki-schmidt-0043",
@@ -189,7 +189,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under h... The disk matrix keeps 34 selected evidence items for this issue, including 5 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under h... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kdoi-fee-2026",
           "src-vicki-schmidt-0033",
@@ -258,7 +258,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under h... The disk matrix keeps 29 selected evidence items for this issue, including 2 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Cost reduction and government efficiency are the second major theme. On Nov. 20, 2025, Schmidt announced a 2026 fee schedule reducing Department fees by an estimated $1.1 million. She said Kansans know she is a \"fiscal hawk,\" delivering more efficient, accessible, and less expensive services. The same release said the Department had lowered fees and reduced the cost of doing business by more than $76 million under h... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kdoi-fee-2026",
           "s-campaign-home"
@@ -299,7 +299,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 17 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -309,7 +309,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: CNN: 8 states vote to bar noncitizen voting The disk matrix keeps 17 selected evidence items for this issue, including 3 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: CNN: 8 states vote to bar noncitizen voting Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-vicki-schmidt-0061",
           "src-vicki-schmidt-0060"
@@ -331,7 +331,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, \"The work we do consistently puts more money back in the pockets of Kansans,\" and added that when Kansans call the department, \"we're not just going t... The disk matrix keeps 40 selected evidence items for this issue, including 16 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, \"The work we do consistently puts more money back in the pockets of Kansans,\" and added that when Kansans call the department, \"we're not just going t... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kdoi-2025-recoveries",
           "s-kdoi-fee-2026",
@@ -438,7 +438,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs.... The disk matrix keeps 32 selected evidence items for this issue, including 9 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs.... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
           "src-vicki-schmidt-0033",
@@ -500,7 +500,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... The disk matrix keeps 17 selected evidence items for this issue, including 8 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-vicki-schmidt-0033",
           "s-kpdc-202601-gov",
@@ -564,7 +564,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: ABC News: Family of boy killed on water slide speaks out The disk matrix keeps 28 selected evidence items for this issue, including 1 public URL-backed item and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: ABC News: Family of boy killed on water slide speaks out Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-vicki-schmidt-0143"
         ]
@@ -597,7 +597,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, \"The work we do consistently puts more money back in the pockets of Kansans,\" and added that when Kansans call the department, \"we're not just going t... The disk matrix keeps 41 selected evidence items for this issue, including 12 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The dominant official-channel signal is consumer protection through the Kansas Department of Insurance. On Jan. 15, 2026, the Department announced $56.7 million recovered for Kansans in 2025 and $202.7 million recovered since Schmidt took office in 2019. Schmidt said, \"The work we do consistently puts more money back in the pockets of Kansans,\" and added that when Kansans call the department, \"we're not just going t... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kdoi-2025-recoveries",
           "s-campaign-home",
@@ -693,7 +693,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: \"ownWordsNarrative\": \"candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; nativ... The disk matrix keeps 17 selected evidence items for this issue, including 1 public URL-backed item and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: \"ownWordsNarrative\": \"candidateControlled: platform: Campaign website; status: active; url: https://vickiforgovernor.com/; notes: Links Facebook and X; current site includes Newland running-mate announcement.; platform: Facebook; status: identified, post-level content limited; url: https://www.facebook.com/VickiSchmidtKS; notes: Local May 11 logged-out harvest recorded 3,403 likes and 1,496 talking about this; nativ... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home"
         ]

@@ -22,7 +22,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -32,7 +32,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: Brooks' clearest governing philosophy is anti-micromanagement. In the 2025 Q&A, he said the board should provide oversight while administrators and teachers handle day-to-day operations, and that the superintendent is the only employee who answers directly to the board. In later board coverage, he used the same frame on handbooks, contracts, and bathroom/vandalism disputes. (Hays Post, Tiger Media Network, Tiger Med... The disk matrix keeps 25 selected evidence items for this issue, including 8 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Brooks' clearest governing philosophy is anti-micromanagement. In the 2025 Q&A, he said the board should provide oversight while administrators and teachers handle day-to-day operations, and that the superintendent is the only employee who answers directly to the board. In later board coverage, he used the same frame on handbooks, contracts, and bathroom/vandalism disputes. (Hays Post, Tiger Media Network, Tiger Med... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-tigermedia-bathrooms-2026",
@@ -111,7 +111,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... The disk matrix keeps 44 selected evidence items for this issue, including 23 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-hayspost-brooks-qa-2021",
@@ -215,7 +215,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: His faith and civic-service statements are visible but not campaign-social. In the 2021 profile, Brooks listed Kiwanis, helping lead children's ministry at Celebration Community Church for almost 14 years, and coordinating the Thanksgiving Community Food Drive with ECMA and First Call For Help since 2008. The current Celebration Community Church Hays campus page confirms the Hays campus context and its public missio... The disk matrix keeps 19 selected evidence items for this issue, including 4 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: His faith and civic-service statements are visible but not campaign-social. In the 2021 profile, Brooks listed Kiwanis, helping lead children's ministry at Celebration Community Church for almost 14 years, and coordinating the Thanksgiving Community Food Drive with ECMA and First Call For Help since 2008. The current Celebration Community Church Hays campus page confirms the Hays campus context and its public missio... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2021",
           "src-ken-brooks-0083",
@@ -271,7 +271,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Facilities and the bond program are central to his own account of why he ran again. Brooks said that when he first ran, he did not have an agenda \"so much,\" but he did want the bond passed. By 2025, he pointed to the new high school opening, remaining bond projects, O'Loughlin work, and the five-year capital outlay plan as evidence that the district was staying on track. He said the capital outlay plan helps the boa... The disk matrix keeps 32 selected evidence items for this issue, including 16 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Facilities and the bond program are central to his own account of why he ran again. Brooks said that when he first ran, he did not have an agenda \"so much,\" but he did want the bond passed. By 2025, he pointed to the new high school opening, remaining bond projects, O'Loughlin work, and the five-year capital outlay plan as evidence that the district was staying on track. He said the capital outlay plan helps the boa... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "src-ken-brooks-0057",
@@ -366,7 +366,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 12 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -376,7 +376,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 3 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -386,7 +386,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Immigration / border in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -396,7 +396,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: KSHB: Former Kansas governor volunteers on medical mission in Ukraine The disk matrix keeps 24 selected evidence items for this issue, including 3 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: KSHB: Former Kansas governor volunteers on medical mission in Ukraine Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ken-brooks-0092",
           "src-ken-brooks-0093"
@@ -420,7 +420,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Hays Post — *USD 489 candidate Q&A: Ken Brooks (2025-10-16)* — https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220 The disk matrix keeps 35 selected evidence items for this issue, including 15 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Hays Post — *USD 489 candidate Q&A: Ken Brooks (2025-10-16)* — https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-hayspost-brooks-qa-2021",
@@ -527,7 +527,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 11 selected evidence items for this issue, including 8 public URL-backed items and 3 internal-memory items.",
+        "text": "Documented public evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint",
         "sourceIds": [
           "src-ken-brooks-0051",
           "src-ken-brooks-0052",
@@ -593,7 +593,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 19 selected evidence items for this issue, including 3 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: FHSU: Board of Regents approves affiliation Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-ken-brooks-0045",
           "s-hayspost-brooks-qa-2021"
@@ -654,7 +654,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented-record evidence: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... The disk matrix keeps 41 selected evidence items for this issue, including 21 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-hayspost-brooks-qa-2021"
@@ -757,7 +757,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: description: USD 489 BoardDocs portal (every URL form: https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic, …/Board.nsf/Public, https://www.boarddocs.com/ks/usd489/Board.nsf, and a specific item deep-link …/Board.nsf/goto?open=&id=BHXSFC6C436A) returns HTTP 403 to non-browser fetches. Per IDENTITY.md commitment #1, primary-tier voting records, agenda packets, and roll-call minutes are the preferred citation tier; p... The disk matrix keeps 5 selected evidence items for this issue, including 2 public URL-backed items and 3 internal-memory items.",
+        "text": "Documented public evidence: description: USD 489 BoardDocs portal (every URL form: https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic, …/Board.nsf/Public, https://www.boarddocs.com/ks/usd489/Board.nsf, and a specific item deep-link …/Board.nsf/goto?open=&id=BHXSFC6C436A) returns HTTP 403 to non-browser fetches. Per IDENTITY.md commitment #1, primary-tier voting records, agenda packets, and roll-call minutes are the preferred citation tier; p...",
         "sourceIds": [
           "s-usd489-boarddocs"
         ]

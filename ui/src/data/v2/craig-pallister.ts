@@ -19,7 +19,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 8 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school student and across his years as a principal, and that principals would prefer not to monitor bathrooms but still have to. (Hays Post) The disk matrix keeps 29 selected evidence items for this issue, including 3 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school student and across his years as a principal, and that principals would prefer not to monitor bathrooms but still have to. (Hays Post) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2026-bathrooms",
           "src-craig-pallister-0019",
@@ -91,7 +91,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school student and across his years as a principal, and that principals would prefer not to monitor bathrooms but still have to. (Hays Post) The disk matrix keeps 44 selected evidence items for this issue, including 23 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school student and across his years as a principal, and that principals would prefer not to monitor bathrooms but still have to. (Hays Post) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2026-bathrooms",
           "src-craig-pallister-0002",
@@ -197,7 +197,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement The disk matrix keeps 12 selected evidence items for this issue, including 4 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-craig-pallister-0065",
           "src-craig-pallister-0066",
@@ -212,7 +212,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: On budget and funding, Pallister frames the work as continuous planning rather than a single annual decision. In 2025, he said budget work begins at the board meeting after the prior budget is set and continues through the year through salaries, in-service, and other planning. In 2019, he said financial health required lobbying the Kansas Legislature, governor, and public to adequately fund K-12 public education. Hi... The disk matrix keeps 23 selected evidence items for this issue, including 6 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: On budget and funding, Pallister frames the work as continuous planning rather than a single annual decision. In 2025, he said budget work begins at the board meeting after the prior budget is set and continues through the year through salaries, in-service, and other planning. In 2019, he said financial health required lobbying the Kansas Legislature, governor, and public to adequately fund K-12 public education. Hi... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2025-q-and-a",
           "src-craig-pallister-0044",
@@ -275,7 +275,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.",
         "sourceIds": []
       },
       "actions": [],
@@ -285,7 +285,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 5 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -295,7 +295,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Immigration / border in the rendered profile. 8 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -305,7 +305,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse and said the district still needed to watch COVID numbers. (USD 489/Hays Post, Apr. 13, 2021) The disk matrix keeps 28 selected evidence items for this issue, including 6 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse and said the district still needed to watch COVID numbers. (USD 489/Hays Post, Apr. 13, 2021) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-craig-pallister-0002",
           "s-hayspost-2025-q-and-a",
@@ -374,7 +374,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Pallister's staff message is pro-retention and pro-administration. In 2023, he said USD 489 had strong district administrators and building principals and that retaining outstanding administrators was key to improvement and consistency. His 2025 sponsored announcement said the next focus after facility completion should be hiring and retaining strong teachers and staff, with competitive pay and benefits for teachers... The disk matrix keeps 31 selected evidence items for this issue, including 9 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Pallister's staff message is pro-retention and pro-administration. In 2023, he said USD 489 had strong district administrators and building principals and that retaining outstanding administrators was key to improvement and consistency. His 2025 sponsored announcement said the next focus after facility completion should be hiring and retaining strong teachers and staff, with competitive pay and benefits for teachers... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2023-q-and-a",
           "s-hayspost-2025-sponsored",
@@ -471,7 +471,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 11 selected evidence items for this issue, including 8 public URL-backed items and 3 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-craig-pallister-0039",
           "src-craig-pallister-0040",
@@ -537,7 +537,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: FHSU: Board of Regents approves affiliation The disk matrix keeps 13 selected evidence items for this issue, including 1 public URL-backed item and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: FHSU: Board of Regents approves affiliation Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-craig-pallister-0033"
         ]
@@ -558,7 +558,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse and said the district still needed to watch COVID numbers. (USD 489/Hays Post, Apr. 13, 2021) The disk matrix keeps 41 selected evidence items for this issue, including 18 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse and said the district still needed to watch COVID numbers. (USD 489/Hays Post, Apr. 13, 2021) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-craig-pallister-0002",
           "src-craig-pallister-0008",
@@ -655,7 +655,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 2 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],

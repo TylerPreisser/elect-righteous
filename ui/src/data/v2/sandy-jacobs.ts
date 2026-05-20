@@ -19,7 +19,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented-record evidence: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she said her first goal beyond maintaining taxes would be retail development and that Grow Hays was focused on it because the general fund depends on sales tax. After winning re-election, she told Hays P... The disk matrix keeps 11 selected evidence items for this issue, including 1 public URL-backed item and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Her economic-development message is practical and city-budget centered. Jacobs talks about retail not as culture-war identity or partisan branding, but as a sales-tax base and quality-of-life issue. In the 2025 Q&A, she said her first goal beyond maintaining taxes would be retail development and that Grow Hays was focused on it because the general fund depends on sales tax. After winning re-election, she told Hays P... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-election-2025-issues"
         ]
@@ -40,7 +40,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 7 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -50,7 +50,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... The disk matrix keeps 26 selected evidence items for this issue, including 7 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2025",
           "src-sandy-jacobs-0025",
@@ -99,7 +99,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement The disk matrix keeps 11 selected evidence items for this issue, including 4 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-sandy-jacobs-0027",
           "src-sandy-jacobs-0028",
@@ -114,7 +114,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her perspective and praised a conservative budget that remained revenue neutral. In April 2026 budget coverage, she questioned where money would come from under propo... The disk matrix keeps 34 selected evidence items for this issue, including 6 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her perspective and praised a conservative budget that remained revenue neutral. In April 2026 budget coverage, she questioned where money would come from under propo... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep-2026",
           "s-hayspost-election-2025-issues",
@@ -169,7 +169,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... The disk matrix keeps 24 selected evidence items for this issue, including 2 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2025",
           "s-hayspost-election-2025-issues"
@@ -199,7 +199,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -209,7 +209,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector: Immigration lawyer runs The disk matrix keeps 11 selected evidence items for this issue, including 1 public URL-backed item and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Reflector: Immigration lawyer runs Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-sandy-jacobs-0042"
         ]
@@ -221,7 +221,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: KSHB: Former Kansas governor volunteers on medical mission in Ukraine The disk matrix keeps 19 selected evidence items for this issue, including 1 public URL-backed item and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: KSHB: Former Kansas governor volunteers on medical mission in Ukraine Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-sandy-jacobs-0044"
         ]
@@ -233,7 +233,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... The disk matrix keeps 34 selected evidence items for this issue, including 10 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2025",
           "s-hayspost-election-2025-issues",
@@ -320,7 +320,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Heartland Community Foundation The disk matrix keeps 19 selected evidence items for this issue, including 9 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Heartland Community Foundation Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-heartland-foundation",
           "src-sandy-jacobs-0025",
@@ -386,7 +386,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... The disk matrix keeps 38 selected evidence items for this issue, including 7 public URL-backed items and 31 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Water is the clearest policy through-line. Jacobs repeatedly treats it as a generational duty rather than a short-term campaign issue. In the Oct. 22, 2025 Hays Post Q&A, she said R9 is among the unfinished projects she wants to see through, defended the city's legal posture, and said Hays has asked for less water than state rules allow. At a July 2025 statewide water task force event, she said Hays understands how... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2025",
           "src-sandy-jacobs-0061",
@@ -449,7 +449,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her perspective and praised a conservative budget that remained revenue neutral. In April 2026 budget coverage, she questioned where money would come from under propo... The disk matrix keeps 40 selected evidence items for this issue, including 22 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Fiscal responsibility is another recurring signal. Jacobs emphasizes revenue-neutral budgeting, line-item review, maintaining the mill levy, and asking residents what they are willing to trade off. In the 2025 Q&A, she said Hays was not overtaxing from her perspective and praised a conservative budget that remained revenue neutral. In April 2026 budget coverage, she questioned where money would come from under propo... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-budget-prep-2026",
           "s-tigermedia-reorg-2026",
@@ -535,7 +535,7 @@ export const SANDY_JACOBS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 12 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],

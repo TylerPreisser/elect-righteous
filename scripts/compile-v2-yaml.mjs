@@ -599,11 +599,10 @@ function fixedIssueStatedText(issue, evidenceItems, socialSignals, candidateSlug
   const lead = stated ?? documented ?? fallback;
 
   if (!lead) {
-    const internalOnly = evidenceItems.length;
     const socialText = socialSignals.length > 0
       ? " Public social/online observations exist on disk, but they are not treated as confirmed issue positions."
       : "";
-    return `No public URL-backed candidate statement or documented action was separated for ${title} in the rendered profile. ${internalOnly ? `${internalOnly} internal-memory evidence item${internalOnly === 1 ? " remains" : "s remain"} on disk for editorial review, but ` : ""}this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes.${socialText}`;
+    return `The reviewed public record did not identify a source-backed candidate statement or documented action for ${title}. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes.${socialText}`;
   }
 
   const parts = [];
@@ -611,18 +610,13 @@ function fixedIssueStatedText(issue, evidenceItems, socialSignals, candidateSlug
     const label = lead.classification === "candidate-stated"
       ? "Candidate-stated evidence"
       : lead.classification === "documented-record"
-        ? "Documented-record evidence"
+        ? "Documented public evidence"
         : "Reviewed evidence";
     parts.push(`${label}: ${excerpt(lead.text, 420)}`);
   } else {
     parts.push(`No candidate-controlled statement was found for ${title}; the rendered material is limited to observed public signals.`);
   }
 
-  const publicCount = publicItems.length;
-  const internalOnly = Math.max(0, evidenceItems.length - publicCount);
-  if (publicCount > 1 || internalOnly > 0) {
-    parts.push(`The disk matrix keeps ${evidenceItems.length} selected evidence item${evidenceItems.length === 1 ? "" : "s"} for this issue, including ${publicCount} public URL-backed item${publicCount === 1 ? "" : "s"}${internalOnly ? ` and ${internalOnly} internal-memory item${internalOnly === 1 ? "" : "s"}` : ""}.`);
-  }
   if (socialSignals.length > 0) {
     parts.push("Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.");
   }

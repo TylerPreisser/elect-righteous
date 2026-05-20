@@ -21,7 +21,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 7 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -41,7 +41,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 33 selected evidence items for this issue, including 7 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-aaron-cunningham-0026",
           "src-aaron-cunningham-0001",
@@ -123,7 +123,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: The personal social/profile record is limited but not empty. His about.me page is candidate/profile-controlled and explicitly Christian in self-description, with tags or interests including Christianity, Calvinism, music, and scouting. It lists Hays High and Kansas State University and links X/Twitter handle Sinfonian24601. Because the page appears older and is not campaign-specific, I treated it as personal identit... The disk matrix keeps 14 selected evidence items for this issue, including 4 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: The personal social/profile record is limited but not empty. His about.me page is candidate/profile-controlled and explicitly Christian in self-description, with tags or interests including Christianity, Calvinism, music, and scouting. It lists Hays High and Kansas State University and links X/Twitter handle Sinfonian24601. Because the page appears older and is not campaign-specific, I treated it as personal identit... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-aboutme-local-harvest",
           "src-aaron-cunningham-0030",
@@ -168,7 +168,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector: Freshman senator The disk matrix keeps 20 selected evidence items for this issue, including 2 public URL-backed items and 18 internal-memory items.",
+        "text": "Reviewed evidence: Kansas Reflector: Freshman senator",
         "sourceIds": [
           "src-aaron-cunningham-0041",
           "src-aaron-cunningham-0042"
@@ -181,7 +181,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Reviewed evidence: Kansas Attorney Registration Directory: active license and business contact information. (source) The disk matrix keeps 12 selected evidence items for this issue, including 1 public URL-backed item and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Attorney Registration Directory: active license and business contact information. (source) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-aaron-cunningham-0004"
         ]
@@ -193,7 +193,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 4 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -203,7 +203,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: ICE Agreement Explained -- Hays Post The disk matrix keeps 15 selected evidence items for this issue, including 3 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: ICE Agreement Explained -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-aaron-cunningham-0044",
           "src-aaron-cunningham-0045",
@@ -234,7 +234,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: He pairs that enforcement posture with victim-services and treatment language. Cunningham praised the county's victim/witness coordinator as a major help with victim communication, restitution, impact statements, and court expectations. He also said Recovery Court, treatment, and mental-health care have value and that daily exposure to defendants has shown him the need for a more holistic approach. (Hays Post) The disk matrix keeps 23 selected evidence items for this issue, including 3 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: He pairs that enforcement posture with victim-services and treatment language. Cunningham praised the county's victim/witness coordinator as a major help with victim communication, restitution, impact statements, and court expectations. He also said Recovery Court, treatment, and mental-health care have value and that daily exposure to defendants has shown him the need for a more holistic approach. (Hays Post) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2025-profile",
           "s-haysmed-human-trafficking-panel",
@@ -286,7 +286,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunningham as county attorney from 2025 to present and frames the office around enforcing Kansas law, public safety, truth-seeking, fair and impartial justice, and efficient use of taxpayer resources. Its stated priorities s... The disk matrix keeps 31 selected evidence items for this issue, including 14 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Cunningham's accessible public message is not built around a campaign website or a campaign social feed. The official Ellis County Attorney page is the clearest current source: it lists Aaron J. Cunningham as county attorney from 2025 to present and frames the office around enforcing Kansas law, public safety, truth-seeking, fair and impartial justice, and efficient use of taxpayer resources. Its stated priorities s... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ellis-attorney-page",
           "s-hayspost-2024-candidate-list",
@@ -392,7 +392,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Candidate-stated evidence: His older public biography fits the same prosecutor-service frame. In a 2019 Hays High Guidon story, he told students he was drawn to law through writing, advocacy, and a strong sense of justice. He said practicing a servant's heart was useful and described the job's goal as correcting poor behavior and helping victims. (The Guidon) The disk matrix keeps 38 selected evidence items for this issue, including 14 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: His older public biography fits the same prosecutor-service frame. In a 2019 Hays High Guidon story, he told students he was drawn to law through writing, advocacy, and a strong sense of justice. He said practicing a servant's heart was useful and described the job's goal as correcting poor behavior and helping victims. (The Guidon) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-guidon-2019-career-speaker",
           "s-ellis-attorney-page",
@@ -498,7 +498,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: Rural legal capacity is a recurring professional theme. Kansas Courts lists Cunningham, attorney, Hays, on the Kansas Rural Justice Initiative Committee roster, and the final report search result identifies him as a newer-attorney panelist during a Dodge City listening session. In the Hays Post profile, he connected the shortage of rural attorneys and qualified defense counsel to slower cases, longer jail waits, and... The disk matrix keeps 35 selected evidence items for this issue, including 7 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Rural legal capacity is a recurring professional theme. Kansas Courts lists Cunningham, attorney, Hays, on the Kansas Rural Justice Initiative Committee roster, and the final report search result identifies him as a newer-attorney panelist during a Dodge City listening session. In the Hays Post profile, he connected the shortage of rural attorneys and qualified defense counsel to slower cases, longer jail waits, and... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-aaron-cunningham-0006",
           "src-aaron-cunningham-0015",
@@ -512,7 +512,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: That same interview also shows his limits-and-triage message. Cunningham said the office receives about 1,500 reports a year from seven law-enforcement agencies and does not have enough attorneys to prosecute everything. He described prioritizing deaths, crimes against children, sex crimes, violent crimes, property crimes, and drug distribution, while noting that a minor marijuana-pipe stop involving a nonlocal trav... The disk matrix keeps 40 selected evidence items for this issue, including 26 public URL-backed items and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: That same interview also shows his limits-and-triage message. Cunningham said the office receives about 1,500 reports a year from seven law-enforcement agencies and does not have enough attorneys to prosecute everything. He described prioritizing deaths, crimes against children, sex crimes, violent crimes, property crimes, and drug distribution, while noting that a minor marijuana-pipe stop involving a nonlocal trav... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2025-profile",
           "s-guidon-2019-career-speaker",
@@ -617,7 +617,7 @@ export const AARON_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],

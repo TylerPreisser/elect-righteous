@@ -24,7 +24,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Candidate-stated evidence: abortion is wrong at any stage - campaign life page, n.d., https://kansansformarshall.com/life (abortion) The disk matrix keeps 37 selected evidence items for this issue, including 3 public URL-backed items and 34 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: abortion is wrong at any stage - campaign life page, n.d., https://kansansformarshall.com/life (abortion) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-life",
           "src-roger-marshall-0051"
@@ -62,7 +62,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Reviewed evidence: Kansas Reflector: Transgender Law The disk matrix keeps 24 selected evidence items for this issue, including 2 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Kansas Reflector: Transgender Law Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0053",
           "src-roger-marshall-0055"
@@ -86,7 +86,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: Ballotpedia: Hays USD 489 Elections The disk matrix keeps 38 selected evidence items for this issue, including 9 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Ballotpedia: Hays USD 489 Elections Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0060",
           "src-roger-marshall-0064",
@@ -176,7 +176,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement The disk matrix keeps 15 selected evidence items for this issue, including 4 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0056",
           "src-roger-marshall-0069",
@@ -202,7 +202,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) The disk matrix keeps 37 selected evidence items for this issue, including 8 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0079",
           "src-roger-marshall-0002",
@@ -307,7 +307,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: CU Today - Credit Card Bill + Trump — accessed 2026-03-30 The disk matrix keeps 39 selected evidence items for this issue, including 5 public URL-backed items and 34 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: CU Today - Credit Card Bill + Trump — accessed 2026-03-30 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0085",
           "src-roger-marshall-0005",
@@ -369,7 +369,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Candidate-stated evidence: On the Issues - Gun Control — accessed 2026-03-30 The disk matrix keeps 31 selected evidence items for this issue, including 6 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On the Issues - Gun Control — accessed 2026-03-30 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0086",
           "s-gun-vote-statement"
@@ -431,7 +431,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Candidate-stated evidence: URL: https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-supports-secure-the-border-act/ The disk matrix keeps 41 selected evidence items for this issue, including 15 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: URL: https://www.marshall.senate.gov/newsroom/press-releases/sen-marshall-supports-secure-the-border-act/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-secure-border",
           "src-roger-marshall-0100",
@@ -537,7 +537,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: Key Quote: Not available in search results -- check patrickforkansas.com for campaign messaging The disk matrix keeps 44 selected evidence items for this issue, including 22 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Key Quote: Not available in search results -- check patrickforkansas.com for campaign messaging Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0103",
           "src-roger-marshall-0079",
@@ -643,7 +643,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate-stated evidence: Sunflower State Journal: Outside group books nearly $1M in ads The disk matrix keeps 41 selected evidence items for this issue, including 20 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Sunflower State Journal: Outside group books nearly $1M in ads Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0168",
           "src-roger-marshall-0035",
@@ -749,7 +749,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Ballotpedia: Supreme Court Justices Amendment) The disk matrix keeps 33 selected evidence items for this issue, including 4 public URL-backed items and 29 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Ballotpedia: Supreme Court Justices Amendment) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0010",
           "src-roger-marshall-0114",
@@ -789,7 +789,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: ACLU of Kansas: Supreme Court refuses proof-of-citizenship case The disk matrix keeps 41 selected evidence items for this issue, including 5 public URL-backed items and 36 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: ACLU of Kansas: Supreme Court refuses proof-of-citizenship case Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0034",
           "src-roger-marshall-0192",
@@ -855,7 +855,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Kansas Reflector - Campaign Profile (Mar 2026) The disk matrix keeps 42 selected evidence items for this issue, including 21 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Kansas Reflector - Campaign Profile (Mar 2026) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0198",
           "src-roger-marshall-0035",
@@ -961,7 +961,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: — marshall.senate.gov press release, March 28, 2026 The disk matrix keeps 31 selected evidence items for this issue, including 1 public URL-backed item and 30 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: — marshall.senate.gov press release, March 28, 2026 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-roger-marshall-0050"
         ]

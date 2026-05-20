@@ -20,7 +20,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION The disk matrix keeps 24 selected evidence items for this issue, including 8 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ellis-2023-results",
           "src-alaina-cunningham-0038",
@@ -97,7 +97,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement The disk matrix keeps 13 selected evidence items for this issue, including 4 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Hays Catholic Schools Advancement Director Announcement Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-alaina-cunningham-0040",
           "src-alaina-cunningham-0041",
@@ -112,7 +112,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: Budget and tax comments show a tradeoff-oriented style. She supported the city's 2026 revenue-neutral budget and told staff, \"You brought us a constrained budget which is what we asked for.\" (Hays Post) When state property-tax-relief ideas came before local officials, she warned that eliminating funding sources can just shift the burden. (Hays Post) In April 2026 budget-prep coverage, she said residents should under... The disk matrix keeps 32 selected evidence items for this issue, including 11 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Budget and tax comments show a tradeoff-oriented style. She supported the city's 2026 revenue-neutral budget and told staff, \"You brought us a constrained budget which is what we asked for.\" (Hays Post) When state property-tax-relief ideas came before local officials, she warned that eliminating funding sources can just shift the burden. (Hays Post) In April 2026 budget-prep coverage, she said residents should under... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-budget-2026",
           "s-hayspost-budget-prep-2026",
@@ -210,7 +210,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: Her development message is not simply pro-business in the abstract; it is tied to workforce, housing, and community scale. In November 2025, she said the economic benefit from Agiliti's expansion made the incentives valuable to the community. (Hays Post) In another incentives discussion, she agreed Hays is a desirable place but said conversations with developers showed that \"without incentives, we just can't get any... The disk matrix keeps 19 selected evidence items for this issue, including 2 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Her development message is not simply pro-business in the abstract; it is tied to workforce, housing, and community scale. In November 2025, she said the economic benefit from Agiliti's expansion made the incentives valuable to the community. (Hays Post) In another incentives discussion, she agreed Hays is a desirable place but said conversations with developers showed that \"without incentives, we just can't get any... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-agiliti-2025",
           "s-hayspost-forum-2023"
@@ -251,7 +251,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 6 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -261,7 +261,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 15 selected evidence items for this issue, including 3 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: ICE Bill Support -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-alaina-cunningham-0060",
           "src-alaina-cunningham-0059",
@@ -284,7 +284,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Reviewed evidence: HaysMed Center for Health Improvement page: lists Alaina Cunningham under group fitness instructors. Source: https://www.haysmed.com/services/chi-what-we-offer/ The disk matrix keeps 21 selected evidence items for this issue, including 3 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: HaysMed Center for Health Improvement page: lists Alaina Cunningham under group fitness instructors. Source: https://www.haysmed.com/services/chi-what-we-offer/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-haysmed-chi",
           "src-alaina-cunningham-0064"
@@ -308,7 +308,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate-stated evidence: The highest visible public attention metric is electoral, not social. Hays Post reported that Cunningham received 27 percent of the vote in November 2023 and won a four-year term. After the result, she said she was honored to be chosen and wanted to keep bettering Hays and \"doing good for Hays as a whole.\" (Hays Post) No verified post-level social engagement was visible in the public capture. The disk matrix keeps 32 selected evidence items for this issue, including 11 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The highest visible public attention metric is electoral, not social. Hays Post reported that Cunningham received 27 percent of the vote in November 2023 and won a four-year term. After the result, she said she was honored to be chosen and wanted to keep bettering Hays and \"doing good for Hays as a whole.\" (Hays Post) No verified post-level social engagement was visible in the public capture. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-election-2023",
           "s-hays-current-commission",
@@ -414,7 +414,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Kansas Public Disclosure Commission campaign-finance overview: https://ethics.kansas.gov/campaign-finance/ The disk matrix keeps 18 selected evidence items for this issue, including 12 public URL-backed items and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Kansas Public Disclosure Commission campaign-finance overview: https://ethics.kansas.gov/campaign-finance/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kpdc-campaign-finance",
           "src-alaina-cunningham-0011",
@@ -479,7 +479,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate-stated evidence: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) The disk matrix keeps 32 selected evidence items for this issue, including 8 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2023",
           "src-alaina-cunningham-0082",
@@ -569,7 +569,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) The disk matrix keeps 40 selected evidence items for this issue, including 23 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-qa-2023",
           "s-hayspost-budget-2026",
@@ -675,7 +675,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipeline supply. Source: https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055 The disk matrix keeps 12 selected evidence items for this issue, including 3 public URL-backed items and 9 internal-memory items.",
+        "text": "Documented public evidence: Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipeline supply. Source: https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
         "sourceIds": [
           "s-hayspost-qa-2023",
           "s-hayspost-r9-2023",

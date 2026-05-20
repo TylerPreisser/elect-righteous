@@ -21,7 +21,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Abortion / life in the rendered profile. 7 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate-stated evidence: The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separation, inmate behavior, gender, offense levels, and COVID-era effects. In July 2024, he said there was no quick fix and framed a new jail as a public-safety need rather than a personal wish: \"We need a jail. I don't w... The disk matrix keeps 7 selected evidence items for this issue, including 1 public URL-backed item and 6 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separation, inmate behavior, gender, offense levels, and COVID-era effects. In July 2024, he said there was no quick fix and framed a new jail as a public-safety need rather than a personal wish: \"We need a jail. I don't w... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-jail-assessment-2023"
         ]
@@ -52,7 +52,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint The disk matrix keeps 24 selected evidence items for this issue, including 6 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: HaysPost: USD 489 to revisit dress code after satanism ban complaint Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-scott-braun-0036",
           "src-scott-braun-0002",
@@ -93,7 +93,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Braun's earliest profile-controlled campaign statement in the reviewed set came when he announced for sheriff in 2019. The Hays Post archive described his law-enforcement timeline from reserve deputy and Ellis police officer to deputy, drug-enforcement officer, K-9 handler, narcotics detective, and undersheriff. It also emphasized civic and faith ties: Hays Rotary, St. Nicholas of Myra Church Council, Knights of Col... The disk matrix keeps 11 selected evidence items for this issue, including 3 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Braun's earliest profile-controlled campaign statement in the reviewed set came when he announced for sheriff in 2019. The Hays Post archive described his law-enforcement timeline from reserve deputy and Ellis police officer to deputy, drug-enforcement officer, K-9 handler, narcotics detective, and undersheriff. It also emphasized civic and faith ties: Hays Rotary, St. Nicholas of Myra Church Council, Knights of Col... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2019-announcement",
           "src-scott-braun-0039",
@@ -118,7 +118,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented-record evidence: Braun carried that issue into the Legislature. In March 2026 coverage of his HB 2771 testimony, he framed ICE-detainer legislation as liability clarity, fiscal responsibility, county protection, and taxpayer protection. He said Ellis County signed the ICE agreement partly because of grant-funding risk, but also said community protection was the main reason for remaining in the program. The public bill tracker lists... The disk matrix keeps 22 selected evidence items for this issue, including 4 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Braun carried that issue into the Legislature. In March 2026 coverage of his HB 2771 testimony, he framed ICE-detainer legislation as liability clarity, fiscal responsibility, county protection, and taxpayer protection. He said Ellis County signed the ICE agreement partly because of grant-funding risk, but also said community protection was the main reason for remaining in the program. The public bill tracker lists... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-hb2771-2026",
           "s-hayspost-ksa-forfeiture",
@@ -163,7 +163,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Economy / jobs / labor in the rendered profile. 9 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -173,7 +173,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 2 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -183,7 +183,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: Braun carried that issue into the Legislature. In March 2026 coverage of his HB 2771 testimony, he framed ICE-detainer legislation as liability clarity, fiscal responsibility, county protection, and taxpayer protection. He said Ellis County signed the ICE agreement partly because of grant-funding risk, but also said community protection was the main reason for remaining in the program. The public bill tracker lists... The disk matrix keeps 33 selected evidence items for this issue, including 6 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Braun carried that issue into the Legislature. In March 2026 coverage of his HB 2771 testimony, he framed ICE-detainer legislation as liability clarity, fiscal responsibility, county protection, and taxpayer protection. He said Ellis County signed the ICE agreement partly because of grant-funding risk, but also said community protection was the main reason for remaining in the program. The public bill tracker lists... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-hb2771-2026",
           "s-hayspost-ice-2025",
@@ -253,7 +253,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separation, inmate behavior, gender, offense levels, and COVID-era effects. In July 2024, he said there was no quick fix and framed a new jail as a public-safety need rather than a personal wish: \"We need a jail. I don't w... The disk matrix keeps 31 selected evidence items for this issue, including 4 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separation, inmate behavior, gender, offense levels, and COVID-era effects. In July 2024, he said there was no quick fix and framed a new jail as a public-safety need rather than a personal wish: \"We need a jail. I don't w... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-jail-assessment-2023",
           "s-hayspost-ksa-forfeiture",
@@ -297,7 +297,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Scott Braun's public messaging is almost entirely the voice of an incumbent sheriff and law-enforcement administrator, not a conventional campaign brand. The clearest official source is the Ellis County, Kansas sheriff page, which describes patrol, jail, investigation, courthouse, and K-9 duties and links to office Facebook and X accounts. A separate apparent sheriff website, elliscountysheriff.com, is for Ellis Cou... The disk matrix keeps 24 selected evidence items for this issue, including 4 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Scott Braun's public messaging is almost entirely the voice of an incumbent sheriff and law-enforcement administrator, not a conventional campaign brand. The clearest official source is the Ellis County, Kansas sheriff page, which describes patrol, jail, investigation, courthouse, and K-9 duties and links to office Facebook and X accounts. A separate apparent sheriff website, elliscountysheriff.com, is for Ellis Cou... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-scott-braun-0009",
           "s-hayspost-hb2771-2026",
@@ -340,7 +340,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Candidate-stated evidence: On drugs and forfeiture, Braun speaks as both sheriff and statewide sheriffs' association figure. In January 2024, he defended local retention of drug-forfeiture funds, saying seized money supports equipment and controlled buys and warning that losing it would shift costs to taxpayers. He also tied forfeiture to cutting off drug operations' funding. In April 2025, he sought opioid settlement money for local law-enfo... The disk matrix keeps 36 selected evidence items for this issue, including 8 public URL-backed items and 28 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On drugs and forfeiture, Braun speaks as both sheriff and statewide sheriffs' association figure. In January 2024, he defended local retention of drug-forfeiture funds, saying seized money supports equipment and controlled buys and warning that losing it would shift costs to taxpayers. He also tied forfeiture to cutting off drug operations' funding. In April 2025, he sought opioid settlement money for local law-enfo... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ksa-forfeiture",
           "s-hayspost-jail-assessment-2023",
@@ -422,7 +422,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Reviewed evidence: USDA: KS State Director announcement The disk matrix keeps 15 selected evidence items for this issue, including 3 public URL-backed items and 12 internal-memory items.",
+        "text": "Reviewed evidence: USDA: KS State Director announcement",
         "sourceIds": [
           "src-scott-braun-0023",
           "src-scott-braun-0091",
@@ -436,7 +436,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: On drugs and forfeiture, Braun speaks as both sheriff and statewide sheriffs' association figure. In January 2024, he defended local retention of drug-forfeiture funds, saying seized money supports equipment and controlled buys and warning that losing it would shift costs to taxpayers. He also tied forfeiture to cutting off drug operations' funding. In April 2025, he sought opioid settlement money for local law-enfo... The disk matrix keeps 40 selected evidence items for this issue, including 14 public URL-backed items and 26 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: On drugs and forfeiture, Braun speaks as both sheriff and statewide sheriffs' association figure. In January 2024, he defended local retention of drug-forfeiture funds, saying seized money supports equipment and controlled buys and warning that losing it would shift costs to taxpayers. He also tied forfeiture to cutting off drug operations' funding. In April 2025, he sought opioid settlement money for local law-enfo... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-ksa-forfeiture",
           "src-scott-braun-0009",
@@ -518,7 +518,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Reviewed evidence: His office-communication message is practical and service-oriented. In January 2025, Braun promoted a sheriff's office app as a way to push road, weather, offender, jail, tip, and safety information directly to residents instead of relying only on third-party platforms. In March 2025, he warned residents that the sheriff's office does not demand money or personal information by call, text, or email. The disk matrix keeps 14 selected evidence items for this issue, including 2 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: His office-communication message is practical and service-oriented. In January 2025, Braun promoted a sheriff's office app as a way to push road, weather, offender, jail, tip, and safety information directly to residents instead of relying only on third-party platforms. In March 2025, he warned residents that the sheriff's office does not demand money or personal information by call, text, or email. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-app-2025",
           "s-hayspost-jail-need-2024"

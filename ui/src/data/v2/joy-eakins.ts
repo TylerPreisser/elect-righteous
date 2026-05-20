@@ -19,7 +19,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Candidate-stated evidence: The Free State News debate transcript records Eakins answering a question about abortion by saying she was \"passionate about this issue\" and connecting the issue to her own biography. This is a direct debate statement in an unofficial transcript. Source: https://freestatenews.net/local-issues/gop-governors-debate-transcript-part-2/ The disk matrix keeps 26 selected evidence items for this issue, including 2 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The Free State News debate transcript records Eakins answering a question about abortion by saying she was \"passionate about this issue\" and connecting the issue to her own biography. This is a direct debate statement in an unofficial transcript. Source: https://freestatenews.net/local-issues/gop-governors-debate-transcript-part-2/ Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-freestate-debate-pt2",
           "s-campaign-about"
@@ -72,7 +72,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for LGBT / gender / parental rights in the rendered profile. 17 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -82,7 +82,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate-stated evidence: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening app... The disk matrix keeps 37 selected evidence items for this issue, including 10 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening app... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-property-tax",
           "s-campaign-about",
@@ -179,7 +179,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Eakins' biography and faith language are part of the public pitch but less frequent than education and taxes. Her About page says she has been married to Eric for 31 years, has a son serving in the U.S. Air Force, has a bonus son in Chicago, is a devout Christian, and is a faithful member of River Community Church. (source) LinkedIn preview shows a shared post beginning, \"I overcame a difficult upbringing through gr... The disk matrix keeps 12 selected evidence items for this issue, including 2 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Eakins' biography and faith language are part of the public pitch but less frequent than education and taxes. Her About page says she has been married to Eric for 31 years, has a son serving in the U.S. Air Force, has a bonus son in Chicago, is a devout Christian, and is a faithful member of River Community Church. (source) LinkedIn preview shows a shared post beginning, \"I overcame a difficult upbringing through gr... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-about",
           "src-joy-eakins-0036"
@@ -223,7 +223,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening app... The disk matrix keeps 39 selected evidence items for this issue, including 8 public URL-backed items and 31 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening app... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-property-tax",
           "s-campaign-about",
@@ -320,7 +320,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate-stated evidence: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening app... The disk matrix keeps 30 selected evidence items for this issue, including 9 public URL-backed items and 21 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening app... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-property-tax",
           "s-campaign-education",
@@ -415,7 +415,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 15 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -425,7 +425,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: Several policy positions were visible mainly through debate coverage rather than the campaign site. On marijuana, Kansas Reflector quoted Eakins saying legalized marijuana creates service costs and cultural problems, and that she did not want high school students thinking about where to get marijuana instead of reading and math. (source) On judicial selection, the Free State News transcript has her supporting a move... The disk matrix keeps 20 selected evidence items for this issue, including 2 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Several policy positions were visible mainly through debate coverage rather than the campaign site. On marijuana, Kansas Reflector quoted Eakins saying legalized marijuana creates service costs and cultural problems, and that she did not want high school students thinking about where to get marijuana instead of reading and math. (source) On judicial selection, the Free State News transcript has her supporting a move... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kansas-reflector-debate",
           "s-freestate-debate-pt2"
@@ -458,7 +458,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) The disk matrix keeps 35 selected evidence items for this issue, including 13 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: Lawrence Journal-World: Diagnosed with breast cancer (June 14, 2023) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-joy-eakins-0055",
           "s-hayspost-ellis-townhall",
@@ -564,7 +564,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented-record evidence: Business, entrepreneurship, and skepticism of targeted incentives are recurring signals. The campaign biography says she built Cornerstone Data into a successful Kansas data-analytics firm with nationwide reach. (source) At the debate, she said she spent 17 years building the most successful data consulting firm in Kansas, with customers in 160 cities and 27 states. On economic incentives, she said government involv... The disk matrix keeps 32 selected evidence items for this issue, including 7 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Business, entrepreneurship, and skepticism of targeted incentives are recurring signals. The campaign biography says she built Cornerstone Data into a successful Kansas data-analytics firm with nationwide reach. (source) At the debate, she said she spent 17 years building the most successful data consulting firm in Kansas, with customers in 160 cities and 27 states. On economic incentives, she said government involv... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-about",
           "s-kansas-reflector-debate",
@@ -639,7 +639,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Several policy positions were visible mainly through debate coverage rather than the campaign site. On marijuana, Kansas Reflector quoted Eakins saying legalized marijuana creates service costs and cultural problems, and that she did not want high school students thinking about where to get marijuana instead of reading and math. (source) On judicial selection, the Free State News transcript has her supporting a move... The disk matrix keeps 14 selected evidence items for this issue, including 7 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Several policy positions were visible mainly through debate coverage rather than the campaign site. On marijuana, Kansas Reflector quoted Eakins saying legalized marijuana creates service costs and cultural problems, and that she did not want high school students thinking about where to get marijuana instead of reading and math. (source) On judicial selection, the Free State News transcript has her supporting a move... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-kansas-reflector-debate",
           "s-kpdc-statewide-2026",
@@ -703,7 +703,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: > -- Kansas Reflector, March 8, 2026 The disk matrix keeps 21 selected evidence items for this issue, including 6 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: > -- Kansas Reflector, March 8, 2026 Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-joy-eakins-0048",
           "src-joy-eakins-0097",
@@ -735,7 +735,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening app... The disk matrix keeps 39 selected evidence items for this issue, including 15 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: The second major theme is taxes, especially property taxes and appraisal growth. Her Property Tax Reform page says Kansas' taxes are \"more like California's than our neighboring states,\" describes rising appraisals as a \"backdoor tax increase,\" and proposes capping annual appraisal hikes at 3% or inflation, whichever is less. (source) At the GOP debate, she said people such as the Riedels from Ellis were opening app... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-property-tax",
           "s-freestate-debate-pt2",
@@ -840,7 +840,7 @@ export const JOY_EAKINS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented-record evidence: Candidate-list limitation: The SOS live candidate-list endpoint (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / CloudFront anti-bot block in this environment. I could not directly confirm a live SOS candidate-list row for Eakins. Because the June 1 filing deadline has not yet passed as of May 19, 2026, do not describe the ballot as final. The disk matrix keeps 19 selected evidence items for this issue, including 3 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Candidate-list limitation: The SOS live candidate-list endpoint (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / CloudFront anti-bot block in this environment. I could not directly confirm a live SOS candidate-list row for Eakins. Because the June 1 filing deadline has not yet passed as of May 19, 2026, do not describe the ballot as final. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-joy-eakins-0110",
           "src-joy-eakins-0106",

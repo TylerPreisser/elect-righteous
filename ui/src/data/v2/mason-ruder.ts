@@ -23,7 +23,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... The disk matrix keeps 6 selected evidence items for this issue, including 1 public URL-backed item and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Two contextual notes are visible in the harvested record. First, Ruder is identified in multiple local pieces as a member of what local coverage refers to as the Ruder family network in Hays government — her husband Vernon Ruder Jr. serves as Ellis County Treasurer, and her son Mason Ruder serves as Mayor of Hays (source). Second, the candidate-profiler raw intelligence from this project records that no reliable pub... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0049"
         ]
@@ -46,7 +46,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented-record evidence: Hays USD 489 board members question parental rights in emergency policy revision The disk matrix keeps 12 selected evidence items for this issue, including 2 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Hays USD 489 board members question parental rights in emergency policy revision Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0050",
           "src-mason-ruder-0051"
@@ -76,7 +76,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented-record evidence: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION — Ellis County official 2023 city/school general election results PDF (primary; image-scan, URL provenance is official) The disk matrix keeps 37 selected evidence items for this issue, including 18 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: https://www.ellisco.net/DocumentCenter/View/5815/OFFICIAL-RESULTS-2023-CITY-SCHOOL-GENERAL-ELECTION — Ellis County official 2023 city/school general election results PDF (primary; image-scan, URL provenance is official) Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ellis-2023-results",
           "src-mason-ruder-0054",
@@ -182,7 +182,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Reviewed evidence: Ruder also presents himself through faith, family, and Hays institutional life. TMP-Marian's profile announcing him as Hays Catholic Schools advancement director quotes him saying the role would help his \"community, my school, my family\" and that his local Catholic relationships would be an asset. Later coverage of TMP-Marian's Auction for Christian Education has him emphasizing alumni and community generosity, cont... The disk matrix keeps 13 selected evidence items for this issue, including 4 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Reviewed evidence: Ruder also presents himself through faith, family, and Hays institutional life. TMP-Marian's profile announcing him as Hays Catholic Schools advancement director quotes him saying the role would help his \"community, my school, my family\" and that his local Catholic relationships would be an asset. Later coverage of TMP-Marian's Auction for Christian Education has him emphasizing alumni and community generosity, cont... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0052",
           "src-mason-ruder-0007",
@@ -218,7 +218,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate-stated evidence: UM-6 — Vacant-land valuation / marijuana-tax remark (Dec 20, 2025). Ruder said Kansas' vacant-land valuation structure makes it cheaper to hold land than build and suggested marijuana tax revenue could offset property taxes. Source: Hays Post (https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9). State-level policy musing, not a city vote. Narrative-writer may pair with M-1/M-2 budget IssueCard at their... The disk matrix keeps 36 selected evidence items for this issue, including 11 public URL-backed items and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: UM-6 — Vacant-land valuation / marijuana-tax remark (Dec 20, 2025). Ruder said Kansas' vacant-land valuation structure makes it cheaper to hold land than build and suggested marijuana tax revenue could offset property taxes. Source: Hays Post (https://hayspost.com/posts/31a9d9f8-0883-480f-aada-22ac084f09b9). State-level policy musing, not a city vote. Narrative-writer may pair with M-1/M-2 budget IssueCard at their... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0100",
           "src-mason-ruder-0062",
@@ -307,7 +307,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented-record evidence: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candidate forum, he pointed to partnerships with business leaders, Grow Hays, and community institutions to grow the workforce and develop housing, while also making R... The disk matrix keeps 21 selected evidence items for this issue, including 3 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candidate forum, he pointed to partnerships with business leaders, Grow Hays, and community institutions to grow the workforce and develop housing, while also making R... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2023-results",
           "src-mason-ruder-0103",
@@ -341,7 +341,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Guns / Second Amendment in the rendered profile. 2 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
@@ -351,7 +351,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented-record evidence: ICE Bill Support -- Hays Post The disk matrix keeps 13 selected evidence items for this issue, including 4 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: ICE Bill Support -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0106",
           "src-mason-ruder-0049",
@@ -386,7 +386,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented-record evidence: UM-1 — Youth Leadership Advisory Board creation. Ruder conceived the YLAB as his FHSU capstone project; the city formalized it. Board has 7 student members from Hays High and TMP-Marian, has presented to the commission, hosted mock elections, and run mental-health and fire-explorer projects. Sources: Hays Post (https://hayspost.com/posts/e141bbcd-d4c5-4a9d-83bc-996979742cb2), City of Hays YLAB page (https://www.hays... The disk matrix keeps 24 selected evidence items for this issue, including 5 public URL-backed items and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: UM-1 — Youth Leadership Advisory Board creation. Ruder conceived the YLAB as his FHSU capstone project; the city formalized it. Board has 7 student members from Hays High and TMP-Marian, has presented to the commission, hosted mock elections, and run mental-health and fire-explorer projects. Sources: Hays Post (https://hayspost.com/posts/e141bbcd-d4c5-4a9d-83bc-996979742cb2), City of Hays YLAB page (https://www.hays... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0082",
           "src-mason-ruder-0049",
@@ -429,7 +429,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate-stated evidence: UM-5 — AI / FHSU Hackathon framing (Mar 31, 2026). Ruder framed AI as a community-shaping choice and said communities \"that come out ahead will invest in people who care enough to build worthwhile things.\" Source: Hays Post / FHSU (https://hayspost.com/posts/559f8a20-030b-4d18-a708-67bffc879730). Forward-looking framing; not yet attached to a vote. The disk matrix keeps 36 selected evidence items for this issue, including 19 public URL-backed items and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: UM-5 — AI / FHSU Hackathon framing (Mar 31, 2026). Ruder framed AI as a community-shaping choice and said communities \"that come out ahead will invest in people who care enough to build worthwhile things.\" Source: Hays Post / FHSU (https://hayspost.com/posts/559f8a20-030b-4d18-a708-67bffc879730). Forward-looking framing; not yet attached to a vote. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0162",
           "src-mason-ruder-0100",
@@ -536,7 +536,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented-record evidence: Criminal Threat Sentencing -- Hays Post The disk matrix keeps 18 selected evidence items for this issue, including 9 public URL-backed items and 9 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: Criminal Threat Sentencing -- Hays Post Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "src-mason-ruder-0117",
           "src-mason-ruder-0118",
@@ -602,7 +602,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented-record evidence: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candidate forum, he pointed to partnerships with business leaders, Grow Hays, and community institutions to grow the workforce and develop housing, while also making R... The disk matrix keeps 37 selected evidence items for this issue, including 13 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Documented public evidence: The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candidate forum, he pointed to partnerships with business leaders, Grow Hays, and community institutions to grow the workforce and develop housing, while also making R... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-hayspost-2023-results",
           "src-mason-ruder-0132",
@@ -689,7 +689,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate-stated evidence: In 2026, that growth message extended into affordable housing and workforce innovation. During consideration of IRB assistance for the 48-unit Pioneer Run project, Ruder said the developer's properties \"look great,\" are well run, and provide an affordable place to live. Ahead of an FHSU AI Hackathon, he framed AI as a local choice: communities can shape it or let it happen to them, and the places that come out ahead... The disk matrix keeps 41 selected evidence items for this issue, including 23 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "text": "Candidate-stated evidence: In 2026, that growth message extended into affordable housing and workforce innovation. During consideration of IRB assistance for the 48-unit Pioneer Run project, Ruder said the developer's properties \"look great,\" are well run, and provide an affordable place to live. Ahead of an FHSU AI Hackathon, he framed AI as a local choice: communities can shape it or let it happen to them, and the places that come out ahead... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-tigermedia-pioneer-run",
           "src-mason-ruder-0100",
@@ -776,7 +776,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "No public URL-backed candidate statement or documented action was separated for Environment / energy / land use in the rendered profile. 13 internal-memory evidence items remain on disk for editorial review, but this page does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
+        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use. This profile does not infer a position from party, faith, follows, likes, associations, or internal-only notes. Public social/online observations exist on disk, but they are not treated as confirmed issue positions.",
         "sourceIds": []
       },
       "actions": [],
