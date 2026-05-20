@@ -1,0 +1,29 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": "jason-hart",
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T17:15:00Z",
+  "completed_at": "2026-05-20T17:15:00Z",
+  "inputs_read": [
+    "memory/candidates/jason-hart/evidence-matrix-raw.json",
+    "memory/candidates/jason-hart/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/jason-hart/evidence-matrix.json",
+    "memory/candidates/jason-hart/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/jason-hart/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/jason-hart/agent-work/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "node scripts/build-evidence-matrix.mjs roger-marshall damon-anderson jason-hart"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for jason-hart.",
+    "Run source-tier-validator for jason-hart."
+  ],
+  "handoff_summary": "Built final evidence matrix for jason-hart: 5407 raw rows to 3561 deduplicated rows."
+}

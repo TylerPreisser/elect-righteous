@@ -1,0 +1,47 @@
+{
+  "agent_id": "evidence-matrix-builder",
+  "agent_role": "Analytical evidence reconciler",
+  "candidate_slug": null,
+  "phase": "2",
+  "status": "complete",
+  "started_at": "2026-05-20T17:15:00Z",
+  "completed_at": "2026-05-20T17:15:00Z",
+  "inputs_read": [
+    "memory/candidates/roger-marshall/evidence-matrix-raw.json",
+    "memory/candidates/roger-marshall/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/damon-anderson/evidence-matrix-raw.json",
+    "memory/candidates/damon-anderson/agent-work/candidate-evidence-miner/notes.md",
+    "memory/candidates/jason-hart/evidence-matrix-raw.json",
+    "memory/candidates/jason-hart/agent-work/candidate-evidence-miner/notes.md"
+  ],
+  "files_written": [
+    "memory/candidates/roger-marshall/evidence-matrix.json",
+    "memory/candidates/roger-marshall/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/roger-marshall/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/roger-marshall/agent-work/evidence-matrix-builder/handoff.md",
+    "memory/candidates/damon-anderson/evidence-matrix.json",
+    "memory/candidates/damon-anderson/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/damon-anderson/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/damon-anderson/agent-work/evidence-matrix-builder/handoff.md",
+    "memory/candidates/jason-hart/evidence-matrix.json",
+    "memory/candidates/jason-hart/agent-work/evidence-matrix-builder/run-state.json",
+    "memory/candidates/jason-hart/agent-work/evidence-matrix-builder/notes.md",
+    "memory/candidates/jason-hart/agent-work/evidence-matrix-builder/handoff.md",
+    "memory/orchestration/agent-runs/2026-05-20/evidence-matrix-builder/run-state.json",
+    "memory/orchestration/agent-runs/2026-05-20/evidence-matrix-builder/notes.md",
+    "memory/orchestration/agent-runs/2026-05-20/evidence-matrix-builder/outputs.md",
+    "memory/orchestration/agent-runs/2026-05-20/evidence-matrix-builder/handoff.md"
+  ],
+  "commands_run": [
+    "cd ui && npx tsc --noEmit --incremental false",
+    "node scripts/build-evidence-matrix.mjs roger-marshall damon-anderson jason-hart"
+  ],
+  "blockers": [],
+  "errors_encountered": [],
+  "next_steps": [
+    "Run social-footprint-analyst for roger-marshall, damon-anderson, and jason-hart.",
+    "Run source-tier-validator for roger-marshall, damon-anderson, and jason-hart.",
+    "Continue candidate-evidence-miner on the next federal batch after this validator batch is queued."
+  ],
+  "handoff_summary": "Built final evidence matrices for roger-marshall, damon-anderson, jason-hart."
+}
