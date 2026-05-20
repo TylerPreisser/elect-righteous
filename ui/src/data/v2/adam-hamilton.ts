@@ -173,21 +173,6 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
   "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
   "sources": [
     {
-      "id": "s-campaign-home",
-      "tier": "primary",
-      "url": "https://hamiltonforkansas.com/",
-      "title": "Adam Hamilton for Kansas",
-      "publisher": "Hamilton for Kansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign identifies Hamilton as a U.S. Senate candidate",
-        "Campaign biography describes Hamilton's Kansas roots, family, and Church of the Resurrection background",
-        "Campaign states themes of listening, affordability, bridge-building, and decency",
-        "\"campaignWebsite\": \"https://hamiltonforkansas.com/\",",
-        "\"url\": \"https://hamiltonforkansas.com/\","
-      ]
-    },
-    {
       "id": "s-fec-candidate",
       "tier": "primary",
       "url": "https://www.fec.gov/data/candidate/S6KS00312/",

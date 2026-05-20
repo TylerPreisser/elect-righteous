@@ -364,23 +364,15 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented-record evidence: United Kansas Party: unitedkansas.com/candidates The disk matrix keeps 9 selected evidence items for this issue, including 7 public URL-backed items and 2 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-craig-musser-0021",
           "s-hayspost-announcement",
           "s-greatbendpost-announcement",
           "src-craig-musser-0022",
           "src-craig-musser-0023",
-          "src-craig-musser-0024"
+          "src-craig-musser-0024",
+          "src-craig-musser-0025"
         ]
       },
       "actions": [
-        {
-          "id": "em-craig-musser-00431",
-          "date": "Undated",
-          "body": "United Kansas Party: unitedkansas.com/candidates",
-          "sourceIds": [
-            "src-craig-musser-0021"
-          ]
-        },
         {
           "id": "em-craig-musser-00437",
           "date": "Undated",
@@ -419,6 +411,14 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
           "body": "KCN Online - \"Two Lawrence Dems Seek 1st District Seat\" (Jan 5, 2026)",
           "sourceIds": [
             "src-craig-musser-0024"
+          ]
+        },
+        {
+          "id": "em-craig-musser-00506",
+          "date": "Undated",
+          "body": "United Kansas - Official Website",
+          "sourceIds": [
+            "src-craig-musser-0025"
           ]
         }
       ],
@@ -637,26 +637,6 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-fec-form2",
-      "tier": "primary",
-      "url": "https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
-      "title": "FEC Form 2 - Musser, Craig A",
-      "publisher": "Federal Election Commission",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Musser filed a Statement of Candidacy on February 14, 2026",
-        "Office sought is House, Kansas District 01",
-        "Party affiliation is OTHER",
-        "Principal campaign committee is Craig Musser for Congress",
-        "Candidate address city/state is Ellinwood, Kansas",
-        "Federal Election Commission, FEC Form 2 image 202602149834322966, filed 2026-02-14, accessed 2026-05-19: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
-        "Federal Election Commission, Form 2 image 202602149834322966: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
-        "[FEC Form 2 Filing (PDF)](https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf)",
-        "FEC Form 2 image 202602149834322966: https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf",
-        "\"url\": \"https://docquery.fec.gov/pdf/966/202602149834322966/202602149834322966.pdf\","
-      ]
-    },
-    {
       "id": "s-ks-sos-candidate-info",
       "tier": "primary",
       "url": "https://www.sos.ks.gov/elections/candidate-information.html",
@@ -687,22 +667,6 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-ks-sos-united",
-      "tier": "primary",
-      "url": "https://sos.ks.gov/media/press-releases/2024/05-24-24-united-kansas-recognized-as-a-political-party.html",
-      "title": "United Kansas officially recognized as a political party",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Kansas SOS recognized United Kansas as a political party",
-        "2024 release says United Kansas candidates were nominated for the general election by convention or caucus",
-        "[Kansas Secretary of State - United Kansas Recognition (May 24, 2024)](https://sos.ks.gov/media/press-releases/2024/05-24-24-united-kansas-recognized-as-a-political-party.html)",
-        "Kansas Secretary of State, \"United Kansas officially recognized as a political party,\" published 2024-05-24, accessed 2026-05-19: https://sos.ks.gov/media/press-releases/2024/05-24-24-united-kansas-recognized-as-a-political-party.html",
-        "Kansas Secretary of State, United Kansas recognition release: https://sos.ks.gov/media/press-releases/2024/05-24-24-united-kansas-recognized-as-a-political-party.html",
-        "\"url\": \"https://sos.ks.gov/media/press-releases/2024/05-24-24-united-kansas-recognized-as-a-political-party.html\""
-      ]
-    },
-    {
       "id": "s-campaign-home",
       "tier": "primary",
       "url": "https://musserforuscongress.com/",
@@ -725,25 +689,9 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
         "[musserforuscongress.com](https://musserforuscongress.com/)",
         "\"campaignWebsite\": \"https://musserforuscongress.com/\",",
         "\"source\": \"Musser for U.S. Congress, accessed April 1, 2026, https://musserforuscongress.com/\",",
-        "Campaign website: [musserforuscongress.com](https://musserforuscongress.com/) — active, candidate-controlled website with home, biography, contact, issues, donation, and Facebook poll links."
-      ]
-    },
-    {
-      "id": "s-campaign-bio",
-      "tier": "primary",
-      "url": "https://musserforuscongress.com/meetcraig",
-      "title": "Meet Craig",
-      "publisher": "Craig Musser for Congress",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Musser says he is not a career politician",
-        "Musser says current representatives serve personal beliefs and party agenda rather than Kansans",
-        "Musser describes education in physics, chemical engineering, business administration, and safety",
-        "Musser describes work in engineering, human resources, maintenance, and safety",
-        "Musser says he attended Church of the Brethren while growing up",
-        "Musser says he wants to hear constituent concerns through the site",
-        "Craig Musser campaign biography: https://musserforuscongress.com/meetcraig",
-        "Craig Musser for United States Congress, \"Meet Craig,\" accessed 2026-05-19: https://musserforuscongress.com/meetcraig"
+        "Campaign website: [musserforuscongress.com](https://musserforuscongress.com/) — active, candidate-controlled website with home, biography, contact, issues, donation, and Facebook poll links.",
+        "Active site found at https://musserforuscongress.com/ with pages for home, biography, contact, issues, donation, and a Facebook-linked poll.",
+        "Website found at https://musserforuscongress.com/."
       ]
     },
     {
@@ -810,21 +758,6 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-ballotpedia",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Craig_Musser",
-      "title": "Craig Musser",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Ballotpedia lists Craig Musser in the 2026 Kansas 1st Congressional District context",
-        "[Craig Musser - Ballotpedia](https://ballotpedia.org/Craig_Musser)",
-        "Ballotpedia, \"Craig Musser,\" accessed 2026-05-19: https://ballotpedia.org/Craig_Musser",
-        "Ballotpedia profile: https://ballotpedia.org/Craig_Musser",
-        "Ballotpedia page: https://ballotpedia.org/Craig_Musser"
-      ]
-    },
-    {
       "id": "s-facebook-page",
       "tier": "social",
       "url": "https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/",
@@ -843,142 +776,6 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
         "Facebook: [Craig Musser for Congress](https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/) — 2 likes in public page metadata — active page detected; one linked public post/poll URL found on the campaign website.",
         "\"url\": \"https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/\",",
         "Page URL: https://www.facebook.com/people/Craig-Musser-for-Congress/61584981264795/"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0005",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/candidate/H6KS01195/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Note: Specific fundraising totals not available from search results. Most recent FEC filing covers July 1 - December 31, 2025. Full financial data available at [fec.gov/data/candidate/H6KS01195](https://www.fec.gov/data/candidate/H6KS01195/) and [fec.gov/data/",
-        "[FEC Candidate Page - H6KS01195](https://www.fec.gov/data/candidate/H6KS01195/)",
-        "[fec.gov/data/candidate/H6KS01195](https://www.fec.gov/data/candidate/H6KS01195/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0007",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/elections/house/KS/01/2026/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FEC - KS-01 2026 Election Page](https://www.fec.gov/data/elections/house/KS/01/2026/)",
-        "https://www.fec.gov/data/elections/house/KS/01/2026/ -- FEC filing data -- accessed 2026-03-30",
-        "[fec.gov/data/elections/house/KS/01/2026](https://www.fec.gov/data/elections/house/KS/01/2026/)",
-        "FEC Filing Status: Campaign active; specific FEC candidate ID not confirmed in search results. Committee details available at [fec.gov/data/elections/house/KS/01/2026](https://www.fec.gov/data/elections/house/KS/01/2026/).",
-        "FEC committee details not confirmed via search results. Check [fec.gov/data/elections/house/KS/01/2026](https://www.fec.gov/data/elections/house/KS/01/2026/) for most current filings."
-      ]
-    },
-    {
-      "id": "src-craig-musser-0008",
-      "tier": "primary",
-      "url": "https://api.open.fec.gov/",
-      "title": "Api.Open.Fec",
-      "publisher": "Api.Open.Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "FEC API over-rate-limit response during current pass, accessed 2026-05-19: https://api.open.fec.gov/"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0009",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/committee/C00919860/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FEC Committee - Colin for Kansas (C00919860)](https://www.fec.gov/data/committee/C00919860/)",
-        "[fec.gov/data/committee/C00919860](https://www.fec.gov/data/committee/C00919860/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0010",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Check [fec.gov](https://www.fec.gov/data/) for updates",
-        "[fec.gov](https://www.fec.gov/data/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0012",
-      "tier": "secondary",
-      "url": "https://business.ku.edu/people/colin-mcroberts",
-      "title": "Business.Ku",
-      "publisher": "Business.Ku",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KU School of Business Faculty Page](https://business.ku.edu/people/colin-mcroberts)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0013",
-      "tier": "secondary",
-      "url": "https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/",
-      "title": "Pbswisconsin",
-      "publisher": "Pbswisconsin",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/\""
-      ]
-    },
-    {
-      "id": "src-craig-musser-0018",
-      "tier": "secondary",
-      "url": "https://colinforkansas.com/",
-      "title": "Colinforkansas",
-      "publisher": "Colinforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Website: [colinforkansas.com](https://colinforkansas.com/)",
-        "[Colin for Kansas - Campaign Website](https://colinforkansas.com/)",
-        "[colinforkansas.com](https://colinforkansas.com/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0019",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post - \"Kansas Democrats wrap up Democracy Fest in Hays\"](https://hayspost.com/posts/886b8285-39fd-4828-ac95-b3d6d19331b9)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0020",
-      "tier": "secondary",
-      "url": "https://www.laurenforkansas.com",
-      "title": "Laurenforkansas",
-      "publisher": "Laurenforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Website: [laurenforkansas.com](https://www.laurenforkansas.com)",
-        "[Lauren for Kansas - Campaign Website](https://www.laurenforkansas.com)",
-        "[laurenforkansas.com](https://www.laurenforkansas.com)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0021",
-      "tier": "secondary",
-      "url": "https://unitedkansas.com/candidates",
-      "title": "Unitedkansas",
-      "publisher": "Unitedkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "United Kansas Party: [unitedkansas.com/candidates](https://unitedkansas.com/candidates)",
-        "[United Kansas - Candidates](https://unitedkansas.com/candidates)",
-        "[unitedkansas.com/candidates](https://unitedkansas.com/candidates)",
-        "United Kansas candidates page: https://unitedkansas.com/candidates"
       ]
     },
     {
@@ -1034,124 +831,6 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-craig-musser-0026",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2024/07/12/united-kansas-party-files-lawsuits-to-challenge-state-law-forbidding-multi-party-nominations/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector - \"United Kansas Party files lawsuits...\" (July 12, 2024)](https://kansasreflector.com/2024/07/12/united-kansas-party-files-lawsuits-to-challenge-state-law-forbidding-multi-party-nominations/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0027",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/briefs/united-kansas-officially-earns-spot-on-kansas-ballots-as-states-fifth-political-party/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector - \"United Kansas officially earns spot on Kansas ballots\"](https://kansasreflector.com/briefs/united-kansas-officially-earns-spot-on-kansas-ballots-as-states-fifth-political-party/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0028",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia - Kansas' 1st Congressional District election, 2026](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026)",
-        "[Ballotpedia - Democratic Primary](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026_(August_4_Democratic_primary))",
-        "[Ballotpedia - Republican Primary](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026_(August_4_Republican_primary))",
-        "https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026 -- Full election overview -- accessed 2026-03-30",
-        "https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026_(August_4_Republican_primary) -- GOP primary details -- accessed 2026-03-30",
-        "https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026_(August_4_Democratic_primary) -- Dem primary details -- accessed 2026-03-30",
-        "[Ballotpedia - KS-01 Democratic Primary](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026_(August_4_Democratic_primary))"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0029",
-      "tier": "secondary",
-      "url": "https://www.cookpolitical.com/house/race/483106",
-      "title": "Cookpolitical",
-      "publisher": "Cookpolitical",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Cook Political Report - Kansas KS-01](https://www.cookpolitical.com/house/race/483106)",
-        "https://www.cookpolitical.com/house/race/483106 -- Cook Political Report rating -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0030",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kansas",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Wikipedia - 2026 US House elections in Kansas](https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_Kansas)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0032",
-      "tier": "secondary",
-      "url": "https://www.zoominfo.com/p/Craig-Musser/9122088966",
-      "title": "Zoominfo",
-      "publisher": "Zoominfo",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ZoomInfo - Craig Musser](https://www.zoominfo.com/p/Craig-Musser/9122088966)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0033",
-      "tier": "secondary",
-      "url": "https://unitedkansas.com/about",
-      "title": "Unitedkansas",
-      "publisher": "Unitedkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[United Kansas - About](https://unitedkansas.com/about)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0034",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/United_Kansas",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Wikipedia - United Kansas](https://en.wikipedia.org/wiki/United_Kansas)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0035",
-      "tier": "secondary",
-      "url": "https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/",
-      "title": "News.Ballotpedia",
-      "publisher": "News.Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/\""
-      ]
-    },
-    {
-      "id": "src-craig-musser-0036",
-      "tier": "secondary",
-      "url": "https://musserforuscongress.com/`",
-      "title": "Musserforuscongress",
-      "publisher": "Musserforuscongress",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Active site found at https://musserforuscongress.com/ with pages for home, biography, contact, issues, donation, and a Facebook-linked poll.",
-        "Website found at https://musserforuscongress.com/."
-      ]
-    },
-    {
       "id": "src-craig-musser-0037",
       "tier": "primary",
       "url": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
@@ -1163,267 +842,6 @@ export const CRAIG_MUSSER_V2: CandidateFullV2 = {
         "Kansas Secretary of State, candidate list endpoint blocked: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
         "Kansas Secretary of State live candidate list endpoint, blocked in this environment, accessed 2026-05-19: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
       ]
-    },
-    {
-      "id": "src-craig-musser-0040",
-      "tier": "social",
-      "url": "https://www.linkedin.com/in/craig-musser-82880838/",
-      "title": "Linkedin",
-      "publisher": "Linkedin",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "LinkedIn profile URL from local research, blocked in logged-out capture: https://www.linkedin.com/in/craig-musser-82880838/",
-        "LinkedIn: Earlier local research and site-profile sources identify a public LinkedIn profile at https://www.linkedin.com/in/craig-musser-82880838/. A logged-out fetch on 2026-05-11 returned HTTP 999, so no current headline, connection count, or public activity",
-        "LinkedIn: [linkedin.com/in/craig-musser-82880838](https://www.linkedin.com/in/craig-musser-82880838/)",
-        "[LinkedIn - Craig Musser / PureField Ingredients](https://www.linkedin.com/in/craig-musser-82880838/)",
-        "https://www.linkedin.com/in/craig-musser-82880838/",
-        "[linkedin.com/in/craig-musser-82880838](https://www.linkedin.com/in/craig-musser-82880838/)",
-        "LinkedIn: [Craig Musser](https://www.linkedin.com/in/craig-musser-82880838/) — identity-check profile found in earlier research; logged-out direct fetch returned LinkedIn HTTP 999 on 2026-05-11."
-      ]
-    },
-    {
-      "id": "src-craig-musser-0041",
-      "tier": "social",
-      "url": "https://www.facebook.com/dgcodems/videos/2299093513898616/",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Facebook Video: Spoke at Douglas County Democrats meeting about exploratory campaign ([facebook.com/dgcodems](https://www.facebook.com/dgcodems/videos/2299093513898616/))",
-        "[Douglas County Democrats Facebook - Exploratory Campaign Video](https://www.facebook.com/dgcodems/videos/2299093513898616/)",
-        "[facebook.com/dgcodems](https://www.facebook.com/dgcodems/videos/2299093513898616/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0042",
-      "tier": "secondary",
-      "url": "https://www.ratemyprofessors.com/professor/2506562",
-      "title": "Ratemyprofessors",
-      "publisher": "Ratemyprofessors",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Rate My Professors: [ratemyprofessors.com/professor/2506562](https://www.ratemyprofessors.com/professor/2506562)",
-        "[ratemyprofessors.com/professor/2506562](https://www.ratemyprofessors.com/professor/2506562)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0043",
-      "tier": "secondary",
-      "url": "https://skepticalinquirer.org/exclusive/a-skeptic-on-the-conspirasea-cruiseinterview-with-colin-mcroberts/",
-      "title": "Skepticalinquirer",
-      "publisher": "Skepticalinquirer",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Skeptical Inquirer - \"A Skeptic on the ConspiraSea Cruise\"](https://skepticalinquirer.org/exclusive/a-skeptic-on-the-conspirasea-cruiseinterview-with-colin-mcroberts/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0044",
-      "tier": "secondary",
-      "url": "https://kansaspublicradio.org/show/genres-when-experts-attack/2020-03-04/live-performance-when-experts-attack-1-colin-mcroberts",
-      "title": "Kansaspublicradio",
-      "publisher": "Kansaspublicradio",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Public Radio - \"When Experts Attack: ConspiraSea Cruise\"](https://kansaspublicradio.org/show/genres-when-experts-attack/2020-03-04/live-performance-when-experts-attack-1-colin-mcroberts)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0045",
-      "tier": "secondary",
-      "url": "https://www.unitedkansas.com/",
-      "title": "Unitedkansas",
-      "publisher": "Unitedkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[unitedkansas.com](https://www.unitedkansas.com/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0046",
-      "tier": "secondary",
-      "url": "https://salinapost.com/posts/25bbb2eb-ae15-4419-8096-972bb919a48a",
-      "title": "Salinapost",
-      "publisher": "Salinapost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Salina Post - Speaking in Salina](https://salinapost.com/posts/25bbb2eb-ae15-4419-8096-972bb919a48a)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0047",
-      "tier": "secondary",
-      "url": "https://whistleblowersblog.org/human-interest/two-powerful-women-whistleblower-pairs-to-learn-from-this-womens-history-month/",
-      "title": "Whistleblowersblog",
-      "publisher": "Whistleblowersblog",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Whistleblowers Blog - Fort Bliss](https://whistleblowersblog.org/human-interest/two-powerful-women-whistleblower-pairs-to-learn-from-this-womens-history-month/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0048",
-      "tier": "social",
-      "url": "https://www.facebook.com/61584981264795/posts/122103466209166042/",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign-linked Facebook post/poll URL: https://www.facebook.com/61584981264795/posts/122103466209166042/",
-        "Campaign-linked Facebook post/poll: https://www.facebook.com/61584981264795/posts/122103466209166042/"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0049",
-      "tier": "social",
-      "url": "https://www.instagram.com/colinforkansas/",
-      "title": "Instagram",
-      "publisher": "Instagram",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Instagram: [@colinforkansas](https://www.instagram.com/colinforkansas/)",
-        "[@colinforkansas](https://www.instagram.com/colinforkansas/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0050",
-      "tier": "social",
-      "url": "https://www.facebook.com/colinforkansas",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Facebook: [facebook.com/colinforkansas](https://www.facebook.com/colinforkansas)",
-        "[Facebook - Colin for Kansas](https://www.facebook.com/colinforkansas)",
-        "[facebook.com/colinforkansas](https://www.facebook.com/colinforkansas)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0051",
-      "tier": "social",
-      "url": "https://bsky.app/profile/colinmcroberts.bsky.social",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Bluesky: [@colinmcroberts.bsky.social](https://bsky.app/profile/colinmcroberts.bsky.social)",
-        "[@colinmcroberts.bsky.social](https://bsky.app/profile/colinmcroberts.bsky.social)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0052",
-      "tier": "social",
-      "url": "https://www.linkedin.com/in/laurenreinhold/",
-      "title": "Linkedin",
-      "publisher": "Linkedin",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "LinkedIn: [linkedin.com/in/laurenreinhold](https://www.linkedin.com/in/laurenreinhold/)",
-        "[linkedin.com/in/laurenreinhold](https://www.linkedin.com/in/laurenreinhold/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0053",
-      "tier": "social",
-      "url": "https://www.facebook.com/unitedksparty/",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Facebook: [facebook.com/unitedksparty](https://www.facebook.com/unitedksparty/)",
-        "[Facebook - United Kansas Party](https://www.facebook.com/unitedksparty/)",
-        "[facebook.com/unitedksparty](https://www.facebook.com/unitedksparty/)"
-      ]
-    },
-    {
-      "id": "src-craig-musser-0066",
-      "tier": "primary",
-      "url": "https://www.fec.gov/data/candidate/H0KS01123/",
-      "title": "Fec",
-      "publisher": "Fec",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-craig-musser-0067",
-      "tier": "secondary",
-      "url": "https://www.opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743",
-      "title": "Opensecrets",
-      "publisher": "Opensecrets",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-craig-musser-0068",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/tag/lauren-reinhold/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-craig-musser-0069",
-      "tier": "secondary",
-      "url": "https://www.kwch.com/2025/09/17/colin-mcroberts-files-1st-congressional-district-seat/",
-      "title": "Kwch",
-      "publisher": "Kwch",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-craig-musser-0070",
-      "tier": "secondary",
-      "url": "https://www.colin-mcroberts.com/",
-      "title": "Colin-Mcroberts",
-      "publisher": "Colin-Mcroberts",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-craig-musser-0071",
-      "tier": "secondary",
-      "url": "https://www.take-bac-congress.us/team/colin-mcroberts",
-      "title": "Take-Bac-Congress",
-      "publisher": "Take-Bac-Congress",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-craig-musser-0072",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Colin_McRoberts",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-craig-musser-0073",
-      "tier": "secondary",
-      "url": "https://aeon.co/users/colin-mcroberts",
-      "title": "Aeon",
-      "publisher": "Aeon",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-craig-musser-0074",
-      "tier": "secondary",
-      "url": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=281096",
-      "title": "Texasbar",
-      "publisher": "Texasbar",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-craig-musser-0075",
-      "tier": "social",
-      "url": "https://www.linkedin.com/in/colin-mcroberts-5781291/",
-      "title": "Linkedin",
-      "publisher": "Linkedin",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
     }
   ]
 };

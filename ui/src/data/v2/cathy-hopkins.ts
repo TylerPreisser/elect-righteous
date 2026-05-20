@@ -326,18 +326,6 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
   "socialResearchNote": "Hopkins remains a current-officeholder profile. The 2026 SBOE District 5 election page now uses the KPDC District 5 campaign-account records for Michelle Cunningham and Lorie Wood instead of treating Hopkins as the only 2026 candidate.",
   "sources": [
     {
-      "id": "s-ksde-state-board",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/state-board",
-      "title": "State Board",
-      "publisher": "Kansas State Department of Education",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "The State Board oversees public K-12 education, standards, licensure, accreditation, and commissioner appointment",
-        "Cathy Hopkins is current State Board chair and District 5 representative"
-      ]
-    },
-    {
       "id": "s-ksde-district-5",
       "tier": "primary",
       "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
@@ -368,282 +356,6 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-sos-candidate-list-blocked",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
-      "title": "Candidate List",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Official live candidate-list endpoint returned JavaScript robot verification in this environment"
-      ]
-    },
-    {
-      "id": "s-kpdc-edodd-2026",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/BOELinksOdd2026EC.htm",
-      "title": "Kansas State Board of Education Odd Numbered Districts 2026 Election Cycle",
-      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "District 5 entries in readable 2026 index are Michelle Cunningham and Lorie Wood",
-        "Hopkins is not listed in the readable 2026 odd-district campaign-finance index as of March 24, 2026 update"
-      ]
-    },
-    {
-      "id": "s-kpdc-lorie-wood-at",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05LW_AT.pdf",
-      "title": "Appointment of Treasurer - Lorie L. Wood",
-      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Lorie L. Wood lists office sought as State Board of Education District 5"
-      ]
-    },
-    {
-      "id": "s-kpdc-michelle-cunningham-at",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf",
-      "title": "Appointment of Treasurer - Michelle Cunningham",
-      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "KPDC index links Michelle Cunningham AT form for State Board of Education District 5"
-      ]
-    },
-    {
-      "id": "s-sos-2022-primary-results",
-      "tier": "primary",
-      "url": "https://sos.ks.gov/elections/22elec/2022-Primary-Official-Vote-Totals.pdf",
-      "title": "2022 Primary Election Official Vote Totals",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Cathy Hopkins defeated Jean Clifford in the 2022 Republican primary for State Board District 5, 28,514 to 23,475"
-      ]
-    },
-    {
-      "id": "s-sos-2022-certificate",
-      "tier": "primary",
-      "url": "https://sos.ks.gov/publications/register/volume-41/Issues/Issue-51/12-22-22-50761.html",
-      "title": "Certificate of Election for the General Election, November 8, 2022",
-      "publisher": "Kansas Secretary of State / Kansas Register",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "State Board of Canvassers certified Cathy Hopkins, Hays, Republican, as Member, State Board of Education District 5"
-      ]
-    },
-    {
-      "id": "s-ksde-jan2025-structured-literacy-chair",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/Home/Quick-Links/News-Room/Weekly-News/Feature-Story/ArtMID/6201/ArticleID/4005/Kansas-State-Board-of-Education-receives-update-on-structured-literacy-licensure-requirements",
-      "title": "Kansas State Board of Education receives update on structured literacy licensure requirements",
-      "publisher": "Kansas State Department of Education",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Board received update on structured-literacy licensure requirements",
-        "Board members elected Cathy Hopkins as chair for 2025-2026"
-      ]
-    },
-    {
-      "id": "s-ksde-feb2026-literacy",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/Home/Quick-Links/News-Room/Weekly-News/Feature-Story/ArtMID/6201/ArticleID/4847/Spotlight-on-literacy-highlights-ongoing-work-investment-needed160to-improve-Kansas-childrens-reading-success",
-      "title": "Spotlight on literacy highlights ongoing work, investment needed to improve Kansas children's reading success",
-      "publisher": "Kansas State Department of Education",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "KSDE described literacy initiatives aligned to science of reading and structured literacy",
-        "Hopkins was quoted as chair during literacy day event"
-      ]
-    },
-    {
-      "id": "s-ksde-commissioner-search-subcommittee",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/Home/Quick-Links/News-Room/Weekly-News/Standards-and-Instruction/ArtMID/6191/ArticleID/4594/State-Board-begins-process-of-searching-for-a-new-education-commissioner",
-      "title": "State Board begins process of searching for a new education commissioner",
-      "publisher": "Kansas State Department of Education",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Board voted to form commissioner-search subcommittee including Hopkins, Danny Zeck, and Michelle Dombrosky",
-        "Hopkins discussed search-firm and full-board selection process"
-      ]
-    },
-    {
-      "id": "s-ksde-commissioner-finalists",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/news-center/news-releases/2026/04/14/kansas-state-board-of-education-names-finalists-for-commissioner-of-education",
-      "title": "Kansas State Board of Education names finalists for commissioner of education",
-      "publisher": "Kansas State Department of Education",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "KSDE announced finalists for commissioner of education",
-        "KSDE quoted State Board Chair Cathy Hopkins in the finalist announcement"
-      ]
-    },
-    {
-      "id": "s-kmuw-commissioner-steel",
-      "tier": "secondary",
-      "url": "https://www.kmuw.org/news/2026-04-14/kansas-boe-names-jake-steel-as-states-next-education-commissioner",
-      "title": "Kansas BOE names Jake Steel as state's next education commissioner",
-      "publisher": "KMUW / Kansas News Service",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "State Board selected Jake Steel as next commissioner",
-        "Seven of ten board members supported Steel; Michelle Dombrosky voted no and Debby Potter and Connie O'Brien did not vote",
-        "Hopkins was quoted in release statement on Steel"
-      ]
-    },
-    {
-      "id": "s-hb2468-minutes",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/minutes/agenda_item_2026021720537638081",
-      "title": "House Education minutes - HB 2468",
-      "publisher": "Kansas Legislature",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Hopkins and Beryl New, State Board legislative liaisons, said the State Board voted to prioritize only using public funds for public schools in 2026 legislative priorities",
-        "The liaisons said HB 2468 was counter to that priority"
-      ]
-    },
-    {
-      "id": "s-hb2129-testimony",
-      "tier": "primary",
-      "url": "https://kslegislature.gov/li/b2025_26/committees/ctte_h_financial_institutions_and_pensions_1/documents/testimony/20250205_03.pdf",
-      "title": "Proponent Testimony for HB 2129",
-      "publisher": "Kansas Legislature / State Board legislative liaisons",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Hopkins and Danny Zeck supported HB 2129 as aligned with State Board priority to move Kansas school employees from KPERS 3 to KPERS 2"
-      ]
-    },
-    {
-      "id": "s-hb2194-testimony",
-      "tier": "primary",
-      "url": "https://kslegislature.gov/li/b2025_26/committees/ctte_h_financial_institutions_and_pensions_1/documents/testimony/20250214_05.pdf",
-      "title": "Proponent Testimony for HB 2194",
-      "publisher": "Kansas Legislature / State Board legislative liaisons",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Hopkins and Danny Zeck supported HB 2194 as aligned with reducing wait time and financial penalties for retired teachers returning to work"
-      ]
-    },
-    {
-      "id": "s-sb441-testimony",
-      "tier": "primary",
-      "url": "https://kslegislature.gov/li/b2025_26/committees/ctte_s_ed_1/misc_documents/download_testimony/ctte_s_ed_1_20260225_23_testimony.html",
-      "title": "Opponent Testimony for SB 441",
-      "publisher": "Kansas Legislature / State Board legislative liaisons",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Hopkins and Beryl New opposed SB 441 on applied behavior analysis services as written",
-        "Testimony cited free appropriate public education and educational-necessity concerns"
-      ]
-    },
-    {
-      "id": "s-ivoterguide-hopkins",
-      "tier": "secondary",
-      "url": "https://ivoterguide.com/candidate/70910/race/17825/election/987",
-      "title": "Cathy Hopkins candidate-guide questionnaire archive",
-      "publisher": "iVoterGuide",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "2022 candidate profile and questionnaire archive for Hopkins",
-        "Questionnaire includes dated positions on local control, Common Core, parental opt-in, school safety, health mandates, and faith self-description"
-      ]
-    },
-    {
-      "id": "s-hayspost-ksreflector-core-subjects",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/eee8fa4b-005e-4c47-8558-a0c9729e7bd0",
-      "title": "KS Board of Education's conservative wing emphasizes desire to focus on core subjects",
-      "publisher": "Hays Post / Kansas Reflector",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Reports Hopkins discussed streamlining state-board mandates and focusing on reading and writing",
-        "[Hays Post: KS Board of Education conservative wing](https://hayspost.com/posts/eee8fa4b-005e-4c47-8558-a0c9729e7bd0)"
-      ]
-    },
-    {
-      "id": "s-thepitch-ksreflector-priorities",
-      "tier": "secondary",
-      "url": "https://www.thepitchkc.com/kansas-state-board-of-education-establishes-four-priorities-heading-into-2024-election-cycle/",
-      "title": "Kansas State Board of Education establishes four priorities heading into 2024 election cycle",
-      "publisher": "The Pitch / Kansas Reflector",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Reports Hopkins said regulatory mandates and paperwork burdened districts with modest staffing"
-      ]
-    },
-    {
-      "id": "s-sentinel-cut-scores",
-      "tier": "secondary",
-      "url": "https://sentinelksmo.org/ks-board-of-ed-reduces-proficiency-standards/",
-      "title": "Seven members of Kansas Board of Education vote to reduce proficiency standards",
-      "publisher": "The Sentinel / Kansas Policy Institute",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Reports State Board voted 7-3 to accept new proficiency standards",
-        "Reports Hopkins supported the standards and disputed that standards or rigor were being lowered"
-      ]
-    },
-    {
-      "id": "s-lawrence-times-cellphone",
-      "tier": "secondary",
-      "url": "https://lawrencekstimes.com/2026/01/16/kr-ksleg-cellphone-ban-debate/",
-      "title": "Kansas legislators hear divided testimony on proposed school cellphone ban",
-      "publisher": "The Lawrence Times / Kansas Reflector",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Reports Hopkins and Beryl New testified neutrally on a proposed statewide cellphone ban and pointed to local policy-making"
-      ]
-    },
-    {
-      "id": "s-kpdc-edodd-2022-index",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2022ElecCycle/BOELinksOdd2022EC.htm",
-      "title": "Kansas State Board of Education Odd Numbered Districts 2022 Election Cycle",
-      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Lists Hopkins 2022 State Board District 5 campaign-finance reports"
-      ]
-    },
-    {
-      "id": "s-kpdc-hopkins-202207",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2022ElecCycle/202207/BOE05CH_amend2207.pdf",
-      "title": "Campaign Finance Receipts and Expenditures Report - Cathy A. Hopkins 202207",
-      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "2022 pre-primary period shows $3,855.00 receipts, $2,870.76 expenditures, and $984.24 closing cash"
-      ]
-    },
-    {
-      "id": "s-kpdc-hopkins-202210",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2022ElecCycle/202210/BOE05CH_amend2210.pdf",
-      "title": "Campaign Finance Receipts and Expenditures Report - Cathy A. Hopkins 202210",
-      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "2022 pre-general period shows $13,210.00 receipts, $13,591.86 expenditures, $602.38 closing cash, and $1,783.58 in-kind contributions"
-      ]
-    },
-    {
-      "id": "s-kpdc-hopkins-202301",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2022ElecCycle/202301/BOE05CH_202301.pdf",
-      "title": "Campaign Finance Receipts and Expenditures Report - Cathy A. Hopkins 202301",
-      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "2022 post-general report shows no new receipts or expenditures and $602.38 cash on hand"
-      ]
-    },
-    {
       "id": "src-cathy-hopkins-0002",
       "tier": "primary",
       "url": "https://www.ellisco.net/425/Election",
@@ -652,28 +364,6 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Ellis County Clerk (elections): 785-628-9410 | [ellisco.net/425/Election](https://www.ellisco.net/425/Election)"
-      ]
-    },
-    {
-      "id": "src-cathy-hopkins-0004",
-      "tier": "primary",
-      "url": "https://www.kansasregents.gov/about/meet_the_board",
-      "title": "Kansasregents",
-      "publisher": "Kansasregents",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Board of Regents: Meet the Board](https://www.kansasregents.gov/about/meet_the_board)"
-      ]
-    },
-    {
-      "id": "src-cathy-hopkins-0005",
-      "tier": "primary",
-      "url": "https://www.kdor.ks.gov/Apps/VoterReg/",
-      "title": "Kdor.Ks",
-      "publisher": "Kdor.Ks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Registration deadline: Check with the Ellis County Clerk's office or visit https://www.kdor.ks.gov/Apps/VoterReg/"
       ]
     },
     {
@@ -700,17 +390,6 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-cathy-hopkins-0008",
-      "tier": "secondary",
-      "url": "https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic",
-      "title": "Go.Boarddocs",
-      "publisher": "Go.Boarddocs",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[USD 489 BoardDocs](https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic)"
-      ]
-    },
-    {
       "id": "src-cathy-hopkins-0009",
       "tier": "secondary",
       "url": "https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/",
@@ -719,28 +398,6 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[Kansas Reflector: Board of Education races](https://kansasreflector.com/2024/10/22/kansas-board-of-education-races-could-shift-power-to-conservative-bloc/)"
-      ]
-    },
-    {
-      "id": "src-cathy-hopkins-0011",
-      "tier": "secondary",
-      "url": "https://www.kasb.org/boe-elections",
-      "title": "Kasb",
-      "publisher": "Kasb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "KASB school board elections info: [kasb.org/boe-elections](https://www.kasb.org/boe-elections)"
-      ]
-    },
-    {
-      "id": "src-cathy-hopkins-0012",
-      "tier": "secondary",
-      "url": "https://www.kwch.com/2026/04/14/kansas-state-board-education-selects-its-next-commissioner/",
-      "title": "Kwch",
-      "publisher": "Kwch",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"observation\": \"URL: https://www.kwch.com/2026/04/14/kansas-state-board-education-selects-its-next-commissioner/\","
       ]
     },
     {
@@ -763,39 +420,6 @@ export const CATHY_HOPKINS_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/"
-      ]
-    },
-    {
-      "id": "src-cathy-hopkins-0015",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/Kansas_Board_of_Regents",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Wikipedia: Kansas Board of Regents](https://en.wikipedia.org/wiki/Kansas_Board_of_Regents)"
-      ]
-    },
-    {
-      "id": "src-cathy-hopkins-0016",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_state_executive_official_elections,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia — Kansas 2026 State Executive](https://ballotpedia.org/Kansas_state_executive_official_elections,_2026) — accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-cathy-hopkins-0017",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Cathy_Hopkins",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Cathy Hopkins](https://ballotpedia.org/Cathy_Hopkins)"
       ]
     }
   ]

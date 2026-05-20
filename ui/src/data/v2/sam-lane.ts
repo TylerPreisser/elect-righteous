@@ -630,7 +630,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented-record evidence: Direct readback of the SOS live candidate list at https://sos.ks.gov/elections/elections_upcoming_candidate.aspx was blocked in this environment by JavaScript/robot verification in the text browser and by CloudFront 403 in curl. This prevents a direct official SOS candidate-list row capture for Lane during this pass. The disk matrix keeps 12 selected evidence items for this issue, including 2 public URL-backed items and 10 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "src-sam-lane-0051"
+          "s-sos-candidate-list-blocked"
         ]
       },
       "actions": [
@@ -639,7 +639,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "Direct readback of the SOS live candidate list at https://sos.ks.gov/elections/elections_upcoming_candidate.aspx was blocked in this environment by JavaScript/robot verification in the text browser and by CloudFront 403 in curl. This prevents a direct official SOS candidate-list row capture for Lane during this pass.",
           "sourceIds": [
-            "src-sam-lane-0051"
+            "s-sos-candidate-list-blocked"
           ]
         },
         {
@@ -647,7 +647,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "The live Kansas SOS candidate-list endpoint could not be read directly in this environment: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx returned JavaScript/robot verification in the text browser and a CloudFront 403 by curl. Treat this as an access blocker, not evidence against filing.",
           "sourceIds": [
-            "src-sam-lane-0051"
+            "s-sos-candidate-list-blocked"
           ]
         }
       ],
@@ -691,21 +691,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-sos-filing-deadline",
-      "tier": "primary",
-      "url": "https://sos.ks.gov/media/press-releases/2026/05-01-26-one-month-countdown-until-candidate-filing-deadline.html",
-      "title": "One Month Countdown Until Candidate Filing Deadline",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Statewide candidates must file in person with the Kansas Secretary of State by noon on June 1, 2026",
-        "The candidate list is updated by the Secretary of State and will be updated after filing-deadline day",
-        "Secretary of State is listed among offices up for election in 2026",
-        "Kansas SOS filing-deadline press release: https://sos.ks.gov/media/press-releases/2026/05-01-26-one-month-countdown-until-candidate-filing-deadline.html",
-        "Kansas Secretary of State 2026 filing-deadline press release: https://sos.ks.gov/media/press-releases/2026/05-01-26-one-month-countdown-until-candidate-filing-deadline.html"
-      ]
-    },
-    {
       "id": "s-sos-candidate-list-blocked",
       "tier": "primary",
       "url": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
@@ -715,28 +700,9 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Attempted official candidate-list readback returned JavaScript/robot verification and CloudFront 403 in this environment",
         "Kansas SOS candidate list attempted: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
-        "Kansas SOS live candidate list attempted: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx"
-      ]
-    },
-    {
-      "id": "s-joco-candidate",
-      "tier": "primary",
-      "url": "https://www.jocoelection.org/candidates-elected-officials/samuel-lane",
-      "title": "Samuel Lane",
-      "publisher": "Johnson County Election Office",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Samuel Lane is listed for the August 4, 2026 primary election",
-        "Incumbent: No",
-        "Elected Official: No",
-        "Party: Democratic",
-        "Office Level: State Offices",
-        "Office Jurisdiction and Position: Secretary of State",
-        "Term: 4 year; Term End: 2031",
-        "Johnson County Election Office Samuel Lane: https://www.jocoelection.org/candidates-elected-officials/samuel-lane",
-        "Johnson County Election Office lists Samuel Lane as a non-incumbent, non-elected-official Democratic candidate from Shawnee for the August 4, 2026 primary, Office Level: State Offices; Office Jurisdiction/Position: Secretary of State; term 4 years, term end 20",
-        "Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/samuel-lane",
-        "Indexed validation sources confirm the candidate identity: [Johnson County Election Office](https://www.jocoelection.org/candidates-elected-officials/samuel-lane) lists Samuel Lane of Shawnee as a Democratic candidate for Kansas Secretary of State; [DASS](http"
+        "Kansas SOS live candidate list attempted: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+        "Direct readback of the SOS live candidate list at https://sos.ks.gov/elections/elections_upcoming_candidate.aspx was blocked in this environment by JavaScript/robot verification in the text browser and by CloudFront 403 in curl. This prevents a direct official",
+        "The live Kansas SOS candidate-list endpoint could not be read directly in this environment: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx returned JavaScript/robot verification in the text browser and a CloudFront 403 by curl. Treat this as an"
       ]
     },
     {
@@ -756,21 +722,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
         "Kansas Public Disclosure Commission / Kansas.gov statewide-office index lists \"Lane, Samuel\" under Secretary of State candidates and links his Appointment of Treasurer and 202601 receipts-and-expenditures report. The index says it was last updated January 22,",
         "KPDC statewide-office 2026 index: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
         "KPDC statewide-office index: https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm"
-      ]
-    },
-    {
-      "id": "s-kpdc-at",
-      "tier": "primary",
-      "url": "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW04SL_AT.pdf",
-      "title": "Appointment of Treasurer or Candidate Committee Form",
-      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Official KPDC index links this Appointment of Treasurer PDF for Samuel Lane's Secretary of State committee",
-        "PDF text was not OCR-readable in this environment",
-        "KPDC Samuel Lane Appointment of Treasurer: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW04SL_AT.pdf",
-        "Appointment of Treasurer form is linked from the KPDC statewide-office index; web text extraction did not return useful OCR, but the link itself is official and matches the statewide-office index row. Source: https://kansas.gov/ethics/CFAScanned/StWide/2026Ele",
-        "KPDC Samuel Lane Appointment of Treasurer PDF: https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW04SL_AT.pdf"
       ]
     },
     {
@@ -843,26 +794,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
         "\"source\": \"Samuel Lane campaign website, accessed April 1, 2026, https://www.samuellane.org/what-does-the-secretary-of-state-do\",",
         "Secretary-of-state explainer: Lane describes the office as mostly administrative, including business registration and legal records, but emphasizes its role overseeing elections; he says Kansas cannot allow voter suppression or voter fraud ([secretary-of-state",
         "[samuellane.org](https://www.samuellane.org/what-does-the-secretary-of-state-do)"
-      ]
-    },
-    {
-      "id": "s-campaign-issues",
-      "tier": "primary",
-      "url": "https://www.samuellane.org/issues",
-      "title": "Issues",
-      "publisher": "Samuel Lane for Kansas",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Page addresses voter fraud, voter suppression, HB 2438, mail-ballot deadlines, SAVE Act/SAVE America Act, SB 244, ballot-location security, and ballot-location closures",
-        "Page says evidence indicates current Kansas voter-fraud/election-security systems work but should be maintained",
-        "Page says Lane would seek an unbroken paper trail at every election site for every vote",
-        "Page says Lane wants to protect ballot drop boxes and ballot locations while recognizing county funding limits",
-        "Page says some counties close polls before 7 p.m. and Lane wants full 7 a.m. to 7 p.m. access for in-person voters",
-        "Campaign issues: https://www.samuellane.org/issues",
-        "Campaign issues page addresses voter fraud, voter suppression, HB 2438, mail-ballot deadlines, the SAVE Act / SAVE America Act, ballot-location security, and ballot-location closures. Source: https://www.samuellane.org/issues",
-        "Campaign issues page says the current system appears to work, but should be reviewed and maintained; it says he would seek \"a thorough and unbroken paper trail\" at every election site and refers to full logic and accuracy testing before ballots are processed.",
-        "Campaign issues page says he wants unobtrusive security around ballot drop boxes, tactful plainclothes security at each ballot location, and a plan to protect people and paper ballots in case of a bomb threat. It also says Kansas counties pay for their own ele",
-        "Campaign issues page discusses Kansas SB 244 in the context of driver's-license sex markers and possible voter-registration documentation problems. Source: https://www.samuellane.org/issues"
       ]
     },
     {
@@ -948,36 +879,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-bsky-profile-api",
-      "tier": "social",
-      "url": "https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social",
-      "title": "Bluesky profile API - voiceinavacuum.bsky.social",
-      "publisher": "Bluesky public API",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Profile display name is Sam Lane for KS Sec. of State",
-        "Profile links samuellane.org",
-        "Profile description names due process, checks and balances, and fair and accurate elections",
-        "Profile counts on May 19, 2026: 35 followers, 14 follows, 195 posts",
-        "Bluesky API profile: https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social",
-        "Bluesky profile bio connects due process, checks and balances, the people's voice, and fair and accurate elections. Source: https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social",
-        "Bluesky profile API: https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social",
-        "\"url\": \"https://public.api.bsky.app/xrpc/app.bsky.actor.getProfile?actor=voiceinavacuum.bsky.social\","
-      ]
-    },
-    {
-      "id": "s-bsky-filing",
-      "tier": "social",
-      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3lno763t2js24",
-      "title": "Bluesky filing post",
-      "publisher": "Bluesky",
-      "accessed": "2026-05-11",
-      "claimsAnchored": [
-        "Local harvest records Lane announcing filing paperwork for Kansas Secretary of State",
-        "2025-04-25: Lane posted that he filed paperwork to run for Kansas Secretary of State. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3lno763t2js24"
-      ]
-    },
-    {
       "id": "s-bsky-paper-ballots",
       "tier": "social",
       "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m3lgre7oik23",
@@ -992,19 +893,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-bsky-poll-hours",
-      "tier": "social",
-      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m4remghm3c2s",
-      "title": "Local-election voting post",
-      "publisher": "Bluesky",
-      "accessed": "2026-05-11",
-      "claimsAnchored": [
-        "Local harvest records Lane linking Kansas VoterView and saying some counties close polls at 5 p.m., something he wants to change",
-        "2025-11-04: Lane urged voting in local elections, linked Kansas VoterView, and said some counties close polls at 5 p.m., \"something I want to change.\" URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m4remghm3c2s",
-        "On November 4, 2025, he posted that some counties close polls at 5 p.m. and called that \"something I want to change.\" Source: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m4remghm3c2s"
-      ]
-    },
-    {
       "id": "s-bsky-hb2438",
       "tier": "social",
       "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mclbirfacs2w",
@@ -1015,34 +903,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
         "Local harvest records Lane warning that voter-suppression schemes can look harmless while discussing HB 2438",
         "The clearest issue signal is opposition to rules he sees as voter suppression. In January 2026, he repeatedly discussed KS HB2438, first warning that voter-suppression schemes can look harmless ([source](https://bsky.app/profile/voiceinavacuum.bsky.social/post",
         "2026-01-16: Lane posted about HB 2438 and said voter-suppression schemes can look harmless. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mclbirfacs2w"
-      ]
-    },
-    {
-      "id": "s-bsky-privacy",
-      "tier": "social",
-      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mdm7fwsvqc2c",
-      "title": "Digital privacy post",
-      "publisher": "Bluesky",
-      "accessed": "2026-05-11",
-      "claimsAnchored": [
-        "Local harvest records Lane saying digital privacy is a value he would take into the Secretary of State office",
-        "2026-01-30: Lane posted that digital privacy is a value he would bring into the Secretary of State office. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mdm7fwsvqc2c",
-        "On January 30, 2026, local harvest captured Lane saying digital privacy is \"a value I intend to take into the Secretary of State's office.\" Source: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mdm7fwsvqc2c",
-        "2026-01-30 privacy post - 2 likes, 1 reply, 1 quote: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mdm7fwsvqc2c"
-      ]
-    },
-    {
-      "id": "s-bsky-save-act",
-      "tier": "social",
-      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mhw77rifik2s",
-      "title": "SAVE Act post",
-      "publisher": "Bluesky",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Lane posted opposition to the SAVE Act / SAVE America Act and linked an explainer",
-        "Live May 19 API read showed 1 like, 0 reposts, 0 replies, 0 quotes",
-        "2026-03-25: Lane posted opposition to the SAVE Act / SAVE America Act and linked an NPR Illinois explainer. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mhw77rifik2s",
-        "On March 25, 2026, Lane posted opposition to the SAVE Act / SAVE America Act and linked an explainer. Source: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mhw77rifik2s"
       ]
     },
     {
@@ -1062,45 +922,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-bsky-kba",
-      "tier": "social",
-      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mkvyneuj322i",
-      "title": "Kansas Bar Association judge-retention resources post",
-      "publisher": "Bluesky",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Lane linked Kansas Bar Association judge-retention resources for voters",
-        "2026-05-03: Lane linked Kansas Bar Association judge-retention resources. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mkvyneuj322i"
-      ]
-    },
-    {
-      "id": "s-dass-kansas",
-      "tier": "secondary",
-      "url": "https://demsofstate.org/kansas-2026/",
-      "title": "Kansas 2026",
-      "publisher": "Democratic Association of Secretaries of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "DASS lists Sam Lane as a Democratic Secretary of State candidate",
-        "DASS describes Lane as a lifelong Kansan, working-class candidate, KU psychology graduate, and fair-elections candidate",
-        "DASS Kansas 2026: https://demsofstate.org/kansas-2026/",
-        "Democratic Association of Secretaries of State Kansas 2026 page: https://demsofstate.org/kansas-2026/"
-      ]
-    },
-    {
-      "id": "s-ballotpedia",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Samuel_Lane",
-      "title": "Samuel Lane",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Indexed secondary candidate identity page for Samuel Lane",
-        "Ballotpedia Samuel Lane: https://ballotpedia.org/Samuel_Lane",
-        "Ballotpedia Samuel Lane page: https://ballotpedia.org/Samuel_Lane"
-      ]
-    },
-    {
       "id": "src-sam-lane-0002",
       "tier": "primary",
       "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
@@ -1109,18 +930,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[Kansas State Department of Education: District 5](https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0011",
-      "tier": "primary",
-      "url": "https://www.kdor.ks.gov/Apps/VoterReg/",
-      "title": "Kdor.Ks",
-      "publisher": "Kdor.Ks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Registration deadline: Check with the Ellis County Clerk's office or visit https://www.kdor.ks.gov/Apps/VoterReg/",
-        "[kdor.ks.gov](https://www.kdor.ks.gov/Apps/VoterReg/)"
       ]
     },
     {
@@ -1157,17 +966,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-sam-lane-0018",
-      "tier": "secondary",
-      "url": "https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/",
-      "title": "Pbswisconsin",
-      "publisher": "Pbswisconsin",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)"
-      ]
-    },
-    {
       "id": "src-sam-lane-0019",
       "tier": "secondary",
       "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
@@ -1187,18 +985,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0024",
-      "tier": "secondary",
-      "url": "https://myvoteinfo.voteks.org/",
-      "title": "Myvoteinfo.Voteks",
-      "publisher": "Myvoteinfo.Voteks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Where to vote in Hays: Contact the Ellis County Clerk at (785) 628-9410 or check https://myvoteinfo.voteks.org/",
-        "[myvoteinfo.voteks.org](https://myvoteinfo.voteks.org/)"
       ]
     },
     {
@@ -1235,284 +1021,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-sam-lane-0028",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/03/19/kansas-house-endorses-plan-to-elect-supreme-court-justices-placing-question-on-august-2026-ballot/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: House endorses plan](https://kansasreflector.com/2025/03/19/kansas-house-endorses-plan-to-elect-supreme-court-justices-placing-question-on-august-2026-ballot/)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0029",
-      "tier": "secondary",
-      "url": "https://thebeaconnews.org/stories/2025/03/19/kansas-supreme-court-elections-voters-will-decide-in-2026/",
-      "title": "Thebeaconnews",
-      "publisher": "Thebeaconnews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[The Beacon: Kansas Supreme Court elections?](https://thebeaconnews.org/stories/2025/03/19/kansas-supreme-court-elections-voters-will-decide-in-2026/)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0030",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/politics-elections-and-government/2026-01-26/kansas-lawmakers-want-to-reveal-more-about-the-people-picking-supreme-court-justices",
-      "title": "Kcur",
-      "publisher": "Kcur",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KCUR: Lawmakers want to reveal more about people picking justices](https://www.kcur.org/politics-elections-and-government/2026-01-26/kansas-lawmakers-want-to-reveal-more-about-the-people-picking-supreme-court-justices)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0031",
-      "tier": "secondary",
-      "url": "https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/",
-      "title": "Sunflowerstatejournal",
-      "publisher": "Sunflowerstatejournal",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Sunflower State Journal: Outside group books nearly $1M in ads](https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0032",
-      "tier": "secondary",
-      "url": "https://www.npr.org/2025/04/01/nx-s1-5345862/wisconsin-supreme-court-crawford-schimel-election-results",
-      "title": "Npr",
-      "publisher": "Npr",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[NPR: Trump and Musk backing wasn't enough to flip Wisconsin court](https://www.npr.org/2025/04/01/nx-s1-5345862/wisconsin-supreme-court-crawford-schimel-election-results)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0033",
-      "tier": "secondary",
-      "url": "https://www.kansasinformationnetwork.com/2026-Kansas-Constitutional-Amendment",
-      "title": "Kansasinformationnetwork",
-      "publisher": "Kansasinformationnetwork",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Information Network: 2026 Constitutional Amendment](https://www.kansasinformationnetwork.com/2026-Kansas-Constitutional-Amendment)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0034",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Citizenship_Voting_Requirement_Amendment_(2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas Citizenship Voting Requirement Amendment](https://ballotpedia.org/Kansas_Citizenship_Voting_Requirement_Amendment_(2026))"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0035",
-      "tier": "secondary",
-      "url": "https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/",
-      "title": "News.Ballotpedia",
-      "publisher": "News.Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia News: Kansas voters will decide on citizenship amendment](https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/)",
-        "\"url\": \"https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/\""
-      ]
-    },
-    {
-      "id": "src-sam-lane-0036",
-      "tier": "secondary",
-      "url": "https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba",
-      "title": "Npr",
-      "publisher": "Npr",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[NPR: Judge tosses Kansas proof-of-citizenship voter law](https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0037",
-      "tier": "secondary",
-      "url": "https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/",
-      "title": "Aclukansas",
-      "publisher": "Aclukansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ACLU of Kansas: Supreme Court refuses proof-of-citizenship case](https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0038",
-      "tier": "secondary",
-      "url": "https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law",
-      "title": "Pbs",
-      "publisher": "Pbs",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[PBS: Kansas hopes to resurrect proof-of-citizenship law](https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0039",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates",
-      "title": "Kcur",
-      "publisher": "Kcur",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KCUR: Kansas governor 2026 candidate guide](https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0040",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas gubernatorial election 2026](https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0041",
-      "tier": "secondary",
-      "url": "https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness",
-      "title": "Kmuw",
-      "publisher": "Kmuw",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KMUW: Democratic candidate opens arms to Kansas Republicans](https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0042",
-      "tier": "secondary",
-      "url": "https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/",
-      "title": "Smartpolitics.Lib.Umn",
-      "publisher": "Smartpolitics.Lib.Umn",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Smart Politics: How well can Democrats fare?](https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0043",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/07/30/kansas-election-for-attorney-general-in-2026-may-become-a-repeat-of-2022-showdown/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: AG race may repeat 2022 showdown](https://kansasreflector.com/2025/07/30/kansas-election-for-attorney-general-in-2026-may-become-a-repeat-of-2022-showdown/)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0044",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Attorney_General_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas AG election 2026](https://ballotpedia.org/Kansas_Attorney_General_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0045",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas SOS election 2026](https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026)",
-        "https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026 -- Full election overview and candidate list -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0046",
-      "tier": "secondary",
-      "url": "https://kspress.com/news/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes",
-      "title": "Kspress",
-      "publisher": "Kspress",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Press Association: Legislature passes election bills](https://kspress.com/news/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0047",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/2026_Kansas_Secretary_of_State_election",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "https://en.wikipedia.org/wiki/2026_Kansas_Secretary_of_State_election -- Wikipedia election page -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0048",
-      "tier": "secondary",
-      "url": "https://www.electjenday.com/",
-      "title": "Electjenday",
-      "publisher": "Electjenday",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Elect Jen Day - Campaign Website](https://www.electjenday.com/)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0049",
-      "tier": "secondary",
-      "url": "https://www.yahoo.com/news/articles/former-house-democrat-enters-kansas-100625382.html",
-      "title": "Yahoo",
-      "publisher": "Yahoo",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector - Former House Democrat enters race](https://www.yahoo.com/news/articles/former-house-democrat-enters-kansas-100625382.html)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0050",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_House_of_Representatives_District_111",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: KS House District 111](https://ballotpedia.org/Kansas_House_of_Representatives_District_111)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0051",
-      "tier": "primary",
-      "url": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx`",
-      "title": "Sos.Ks",
-      "publisher": "Sos.Ks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Direct readback of the SOS live candidate list at https://sos.ks.gov/elections/elections_upcoming_candidate.aspx was blocked in this environment by JavaScript/robot verification in the text browser and by CloudFront 403 in curl. This prevents a direct official",
-        "The live Kansas SOS candidate-list endpoint could not be read directly in this environment: https://sos.ks.gov/elections/elections_upcoming_candidate.aspx returned JavaScript/robot verification in the text browser and a CloudFront 403 by curl. Treat this as an"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0052",
-      "tier": "secondary",
-      "url": "https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000",
-      "title": "Prismnews",
-      "publisher": "Prismnews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Prism News: Kansas law blocked 31,000 eligible voters](https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000)"
-      ]
-    },
-    {
       "id": "src-sam-lane-0055",
       "tier": "social",
       "url": "https://bsky.app/profile/voiceinavacuum.bsky.social",
@@ -1536,255 +1044,6 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Highest engagement item in the feed overall was a reposted official congressional account post from [@ocasio-cortez.house.gov](https://bsky.app/profile/ocasio-cortez.house.gov/post/3lgcck2yf7c2r) about immigration rights, with 51,900 likes and 28,631 reposts a"
       ]
-    },
-    {
-      "id": "src-sam-lane-0060",
-      "tier": "social",
-      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3md2bll4yc22i",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "2026-01-22: Lane asked why Kansas does not have multilingual ballot options and referenced his position on harsh voter ID laws. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3md2bll4yc22i"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0062",
-      "tier": "social",
-      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mlcme5lzmc2u",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "2026-05-08: Lane linked his list of Kansas candidate websites and said he would be glad when the filing deadline made the page stable. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mlcme5lzmc2u",
-        "Other-candidates page: Lane maintains a bipartisan candidate website link list and promoted updates on Bluesky on 2026-01-09 and 2026-05-08 ([Bluesky 2026-05-08](https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mlcme5lzmc2u))."
-      ]
-    },
-    {
-      "id": "src-sam-lane-0063",
-      "tier": "social",
-      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3lvowfsanak2r",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "2025-08-06 stolen-election / evidence post - 1 like, 3 replies, 2 quotes: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3lvowfsanak2r"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0064",
-      "tier": "social",
-      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m3yd4wwehk2n",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "2025-10-25 mail-ballot post - 2 likes, 1 repost: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3m3yd4wwehk2n"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0066",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li/b2025_26/measures/documents/summary_scr_1611_2025",
-      "title": "Kslegislature",
-      "publisher": "Kslegislature",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Legislature: SCR 1611](https://www.kslegislature.gov/li/b2025_26/measures/documents/summary_scr_1611_2025)",
-        "\"url\": \"https://www.kslegislature.gov/li/b2025_26/measures/documents/summary_scr_1611_2025\""
-      ]
-    },
-    {
-      "id": "src-sam-lane-0067",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Jennifer_Day_(Kansas",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia](https://ballotpedia.org/Jennifer_Day_(Kansas))"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0070",
-      "tier": "secondary",
-      "url": "https://www.jocoelection.org/candidates-elected-officials/candidates",
-      "title": "Jocoelection",
-      "publisher": "Jocoelection",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "https://www.jocoelection.org/candidates-elected-officials/candidates",
-        "[jocoelection.org](https://www.jocoelection.org/candidates-elected-officials/candidates)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0071",
-      "tier": "secondary",
-      "url": "https://www.votenokansas.org/",
-      "title": "Votenokansas",
-      "publisher": "Votenokansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[VoteNoKansas.org](https://www.votenokansas.org/)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0072",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Six GOP candidates first debate](https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0073",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
-      "title": "Kcur",
-      "publisher": "Kcur",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KCUR: Who's running for U.S. Senate](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0074",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Lawrence Democrats take aim at KS-01](https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0075",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: KS-01 2026](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0076",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/Jennifer_Day_(Kansas_politician",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Wikipedia](https://en.wikipedia.org/wiki/Jennifer_Day_(Kansas_politician))"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0079",
-      "tier": "social",
-      "url": "https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mlcm37yrkk2u",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "2026-05-08: Lane posted that he filed on his own for the job he was passionate about, rather than waiting for party recruitment. URL: https://bsky.app/profile/voiceinavacuum.bsky.social/post/3mlcm37yrkk2u"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0081",
-      "tier": "social",
-      "url": "https://bsky.app/profile/aoc.bsky.social/post/3mbjqcdvqh22q",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Other high-engagement reposts included [AOC](https://bsky.app/profile/aoc.bsky.social/post/3mbjqcdvqh22q), [GunnyJKJ](https://bsky.app/profile/gunnyjkj.bsky.social/post/3ln662nyfis2i), and [TizzyEnt](https://bsky.app/profile/tizzyent.bsky.social/post/3lg7h3dvt"
-      ]
-    },
-    {
-      "id": "src-sam-lane-0093",
-      "tier": "primary",
-      "url": "https://mann.house.gov/",
-      "title": "Mann.House",
-      "publisher": "Mann.House",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-sam-lane-0094",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/",
-      "title": "Kslegislature",
-      "publisher": "Kslegislature",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-sam-lane-0095",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-sam-lane-0096",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-sam-lane-0097",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-sam-lane-0098",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-u-s-senate-sharpen-attack-on-gop-incumbent-roger-marshall/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-sam-lane-0099",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-sam-lane-0100",
-      "tier": "secondary",
-      "url": "https://barbforkansas.com/",
-      "title": "Barbforkansas",
-      "publisher": "Barbforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-sam-lane-0101",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/01/08/scott-schwab-runs-for-kansas-governor-after-two-terms-as-states-top-election-official/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
     }
   ]
 };

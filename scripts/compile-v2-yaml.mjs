@@ -55,6 +55,12 @@ function loadJsonIfExists(path, fallback = undefined) {
   return JSON.parse(readFileSync(path, "utf8"));
 }
 
+const SOURCE_URL_OVERRIDES = loadJsonIfExists(join(ROOT, "memory/orchestration/source-url-overrides.json"), {
+  replace: {},
+  drop: [],
+});
+const DROPPED_SOURCE_URLS = new Set(SOURCE_URL_OVERRIDES.drop ?? []);
+
 function findCandidateBlock(text, slug) {
   const slugRegex = /(^|\n)\s*"?slug"?\s*:\s*"([^"]+)"/g;
   const matches = [...text.matchAll(slugRegex)];
@@ -205,6 +211,24 @@ function isPublicUrl(url) {
   return /^https?:\/\//i.test(String(url ?? ""));
 }
 
+function cleanPublicUrl(url) {
+  let value = textValue(url);
+  if (!isPublicUrl(value)) return value;
+  value = value
+    .replace(/[`'"\]]+$/g, "")
+    .replace(/[.,;]+$/g, "");
+  return value;
+}
+
+function resolvePublicUrl(url) {
+  const cleaned = cleanPublicUrl(url);
+  return SOURCE_URL_OVERRIDES.replace?.[cleaned] ?? cleaned;
+}
+
+function isDroppedPublicUrl(url) {
+  return DROPPED_SOURCE_URLS.has(cleanPublicUrl(url));
+}
+
 function publisherFromUrl(url) {
   try {
     const host = new URL(url).hostname.replace(/^www\./, "");
@@ -268,8 +292,9 @@ function normalizeSources(slug, yamlSources, auditSources = []) {
   }
 
   function rememberUrl(url, id) {
-    if (!isPublicUrl(url) || !id) return;
-    const key = String(url).trim();
+    if (isDroppedPublicUrl(url)) return;
+    const key = resolvePublicUrl(url);
+    if (!isPublicUrl(key) || !id) return;
     if (!sourceIdsByUrl.has(key)) sourceIdsByUrl.set(key, []);
     if (!sourceIdsByUrl.get(key).includes(id)) sourceIdsByUrl.get(key).push(id);
   }
@@ -277,7 +302,12 @@ function normalizeSources(slug, yamlSources, auditSources = []) {
   function addSource(raw, index, fallbackId, aliases = [], rowIds = []) {
     const source = typeof raw === "string" ? { url: raw } : asObject(raw);
     const originalId = textValue(source.id, source.sourceId, source.source_id) ?? fallbackId;
-    const url = textValue(source.url);
+    if (isDroppedPublicUrl(source.url)) {
+      idMap.set(originalId, null);
+      for (const alias of aliases) rememberAlias(alias, null);
+      return;
+    }
+    const url = resolvePublicUrl(source.url);
 
     if (!isPublicUrl(url)) {
       idMap.set(originalId, null);
@@ -524,7 +554,7 @@ function isMetaEvidenceText(value) {
 function sourceIdsForFixedItem(item, rowSourceIds, sourceIdsByUrl) {
   const ids = [
     ...asArray(rowSourceIds.get(textValue(item.evidenceRowId))),
-    ...asArray(sourceIdsByUrl.get(textValue(item.sourceUrl))),
+    ...asArray(sourceIdsByUrl.get(resolvePublicUrl(item.sourceUrl))),
   ]
     .map((id) => textValue(id))
     .filter(Boolean);
@@ -668,7 +698,7 @@ function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById, ca
         seenSocial.add(key);
         const sourceIds = [
           ...asArray(rowSourceIds.get(textValue(signal.evidenceRowId))),
-          ...asArray(sourceIdsByUrl.get(textValue(signal.sourceUrl))),
+          ...asArray(sourceIdsByUrl.get(resolvePublicUrl(signal.sourceUrl))),
         ]
           .map((sourceId) => textValue(sourceId))
           .filter((sourceId) => sourceId && sourceById.has(sourceId));
@@ -1037,6 +1067,28 @@ function derivedSocialResearchNote(issues, socialMatrix) {
   return `${renderedSignals} public source-backed social/online signal${renderedSignals === 1 ? "" : "s"} are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.`;
 }
 
+function renderedSourceIds(candidate) {
+  const ids = new Set();
+  for (const issue of asArray(candidate.issues)) {
+    for (const id of asArray(issue.stated?.sourceIds)) ids.add(id);
+    for (const action of asArray(issue.actions)) {
+      for (const id of asArray(action.sourceIds)) ids.add(id);
+    }
+    for (const signal of asArray(issue.socialSignals)) {
+      for (const id of asArray(signal.sourceIds)) ids.add(id);
+    }
+  }
+  return ids;
+}
+
+function filterRenderedSources(candidate) {
+  const ids = renderedSourceIds(candidate);
+  if (ids.size === 0) {
+    return candidate.sources.filter((source) => source.tier !== "social").slice(0, 4);
+  }
+  return candidate.sources.filter((source) => ids.has(source.id));
+}
+
 function chooseNarrative(existing, derived, minimumLength = 120) {
   const current = normalizeNarrative(existing);
   const next = normalizeNarrative(derived);
@@ -1054,7 +1106,7 @@ function campaignWebsiteFromSources(slug, yaml, sources) {
     explicitMeta.website,
     explicitMeta.campaignSite,
   );
-  if (explicit && isPublicUrl(explicit)) return explicit;
+  if (explicit && isPublicUrl(explicit)) return resolvePublicUrl(explicit);
 
   const terms = slug.split("-").filter((term) => term.length > 2);
   const badHosts = /(fec\.gov|kansas\.gov|kslegislature\.gov|sos\.ks\.gov|jocoelection\.org|ellisco\.net|haysusa\.com|docs\.house\.gov|house\.gov|senate\.gov|facebook\.com|x\.com|twitter\.com|instagram\.com|youtube\.com|actblue\.com|secure\.actblue\.com|winred\.com)/i;
@@ -1137,7 +1189,7 @@ function normalizeCandidate(slug, yaml, v1) {
   );
   const campaignWebsite =
     inferredCampaignWebsite ??
-    (explicitCampaignWebsite && isPublicUrl(explicitCampaignWebsite) ? explicitCampaignWebsite : undefined) ??
+    (explicitCampaignWebsite && isPublicUrl(explicitCampaignWebsite) ? resolvePublicUrl(explicitCampaignWebsite) : undefined) ??
     (sources.length === 0 ? v1.campaignWebsite : undefined);
 
   const candidateCore = {
@@ -1184,8 +1236,10 @@ function normalizeCandidate(slug, yaml, v1) {
       campaignFinanceFromNote(meta.campaign_finance_note) ??
       derivedCampaignFinance(candidateCore, evidenceRows),
     socialResearchNote: chooseNarrative(meta.social_presence_note, derivedSocialResearchNote(issues, socialMatrix), 80),
-    sources,
+    sources: [],
   };
+
+  candidate.sources = filterRenderedSources({ ...candidate, sources });
 
   for (const key of Object.keys(candidate)) {
     if (candidate[key] === undefined) delete candidate[key];

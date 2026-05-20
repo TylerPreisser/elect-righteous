@@ -108,16 +108,6 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-education-curriculum-schools"
         },
         {
-          "id": "soc-jennifer-day-0009",
-          "platform": "wichitalibrary.org",
-          "observation": "Wichita Public Library Kansas Elections guide listing Jennifer Day among 2026 Kansas Secretary of State candidates. (source)",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-jennifer-day-0014"
-          ],
-          "mappedToIssueId": "i-education-curriculum-schools"
-        },
-        {
           "id": "soc-jennifer-day-0010",
           "platform": "Bluesky",
           "observation": "Bluesky post, 2026-01-16, opposing moving city and school elections to even-numbered years and saying cities and school districts did not support the bill. (source)",
@@ -543,7 +533,6 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
         "text": "Documented-record evidence: Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and says she is \"running to safeguard our elections.\" (source) The same site says, \"The Secretary of State is charged with overseeing and protecting the electoral proc... The disk matrix keeps 31 selected evidence items for this issue, including 8 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "src-jennifer-day-0054",
           "src-jennifer-day-0013",
           "src-jennifer-day-0026"
         ]
@@ -593,7 +582,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
           "observation": "Campaign site: https://www.electjenday.com/ is active and links Bluesky, X/Twitter, Instagram, Facebook, ActBlue, a press kit, and a footer LinkedIn icon that resolved only to LinkedIn home in the local capture.",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "src-jennifer-day-0054"
+            "s-campaign-home"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
@@ -655,53 +644,8 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Candidate v2 issue file"
   },
-  "socialResearchNote": "27 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "26 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
-    {
-      "id": "s-sos-candidates-info",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
-      "title": "Candidates",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Democratic and Republican candidates must run in the primary to secure party nomination",
-        "Candidates for national, state, legislative, and judicial offices file with the Secretary of State",
-        "A candidate is not considered filed until the petition or declaration and fee are received",
-        "Primary Election filing deadline is 12:00 p.m. Monday, June 1, 2026",
-        "Secretary of State is listed among offices to be elected or retained in 2026",
-        "| s-sos-candidates-info | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas candidate filing rules; state candidates file with SOS; candidate not filed until petition/declaration and fee received; 2026 Secreta",
-        "https://www.sos.ks.gov/elections/candidate-information.html"
-      ]
-    },
-    {
-      "id": "s-sos-candidate-list-blocked",
-      "tier": "primary",
-      "url": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
-      "title": "Candidate List",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Attempted official candidate-list readback returned JavaScript verification in this environment",
-        "| s-sos-candidate-list-blocked | primary | https://sos.ks.gov/elections/elections_upcoming_candidate.aspx | attempted 2026-05-19 | Official candidate-list endpoint returned JavaScript verification in this environment | blocker |"
-      ]
-    },
-    {
-      "id": "s-joco-candidate",
-      "tier": "primary",
-      "url": "https://www.jocoelection.org/candidates-elected-officials/jennifer-day-0",
-      "title": "Jennifer Day",
-      "publisher": "Johnson County Election Office",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Jennifer Day is listed for the August 4, 2026 primary",
-        "Incumbent: No",
-        "Party: Democratic",
-        "Office Jurisdiction and Office Position: Secretary of State",
-        "Term: 4 year; Term End: 2031",
-        "| s-joco-candidate | primary | https://www.jocoelection.org/candidates-elected-officials/jennifer-day-0 | accessed 2026-05-19 | Johnson County candidate page: non-incumbent, Democratic, Secretary of State, four-year term ending 2031 | official status |"
-      ]
-    },
     {
       "id": "s-kpdc-statewide-2026",
       "tier": "primary",
@@ -717,21 +661,6 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
         "2026 filing PDF: [state filing PDF referenced in SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
         "[SWLinks2026EC](https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm)",
         "| s-kpdc-statewide-2026 | primary | https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm | accessed 2026-05-19; page last updated 2026-01-22 | KPDC statewide index lists Day under Secretary of State candidates and links AT/202601 for"
-      ]
-    },
-    {
-      "id": "s-kpdc-treasurer",
-      "tier": "primary",
-      "url": "https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW04JD_AT.pdf",
-      "title": "Appointment of Treasurer or Candidate Committee Form",
-      "publisher": "Kansas Public Disclosure Commission / Kansas.gov",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Candidate Name: Jennifer R Day",
-        "Office Sought: Secretary of State",
-        "Treasurer Name: Stacey Knoell",
-        "Treasurer Date Appointed: October 15, 2025",
-        "| s-kpdc-treasurer | primary | https://kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW04JD_AT.pdf | executed 2025-10-17; accessed 2026-05-19 | Candidate name, office sought Secretary of State, treasurer Stacey Knoell, treasurer appointed 2025-1"
       ]
     },
     {
@@ -775,122 +704,8 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
         "\"protect the right to vote\" - campaign framing, 2026-04-01, https://www.electjenday.com/ - topic: mission.",
         "\"I'm running to safeguard our elections.\" - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)",
         "\"The Secretary of State is charged with overseeing and protecting the electoral process across Kansas.\" - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)",
-        "\"Voting should not be a partisan issue.\" - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)"
-      ]
-    },
-    {
-      "id": "s-dass-kansas",
-      "tier": "primary",
-      "url": "https://demsofstate.org/kansas-2026/",
-      "title": "Kansas 2026",
-      "publisher": "Democratic Association of Secretaries of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "DASS describes Day as a businesswoman, community leader, public servant, League of Women Voters volunteer, and former election worker",
-        "DASS frames her campaign around safe, secure, accessible elections, fighting disinformation, voting rights, participation, and business growth",
-        "| s-dass-kansas | primary | https://demsofstate.org/kansas-2026/ | accessed 2026-05-19 | Democratic Association of Secretaries of State candidate biography and issue framing | campaign-aligned context |",
-        "DASS Kansas 2026 page, which describes Day as a businesswoman, community leader, former election worker, and candidate focused on safe, secure, accessible elections, disinformation, participation, and business growth. ([source](https://demsofstate.org/kansas-2",
-        "Indexed public pages from DASS and the Kansas Democratic Party show party-aligned amplification: DASS frames Day as the Democratic candidate against election denial, and the Kansas Democratic Party placed her on the Washington Days program as a guest speaker.",
-        "[DASS - Kansas 2026](https://demsofstate.org/kansas-2026/)"
-      ]
-    },
-    {
-      "id": "s-ksleg-member",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li_2022/b2021_22/members/rep_day_jennifer_1/",
-      "title": "Representative Jennifer Day",
-      "publisher": "Kansas State Legislature",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Day represented House District 48 as a Democrat",
-        "House service is listed as 2020-2021",
-        "The page lists sponsored bills HB 2140 and HB 2300 and sponsored resolutions HR 6008, HR 6013, HR 6014, and HR 6016",
-        "| s-ksleg-member | primary | https://www.kslegislature.gov/li_2022/b2021_22/members/rep_day_jennifer_1/ | accessed 2026-05-19 | Former House District 48 service, party, sponsored bills/resolutions, 2021 vote record link | officeholder record |"
-      ]
-    },
-    {
-      "id": "s-ksleg-vote-2021",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li_2022/b2021_22/members/documents/rep_day_jennifer_1_vote_record_2021.pdf",
-      "title": "Kansas House of Representatives 2021 Session Voter History - Day",
-      "publisher": "Kansas State Legislature",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Official 2021 vote record for Day",
-        "Includes votes on concealed carry, firearm safety education, criminal justice, budgets, veterans, victims, and other measures",
-        "| s-ksleg-vote-2021 | primary | https://www.kslegislature.gov/li_2022/b2021_22/members/documents/rep_day_jennifer_1_vote_record_2021.pdf | accessed 2026-05-19 | Official 2021 House roll-call history for Day | action evidence |"
-      ]
-    },
-    {
-      "id": "s-ksleg-hb2140",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li_2022/b2021_22/measures/hb2140/",
-      "title": "HB 2140",
-      "publisher": "Kansas State Legislature",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Day was a sponsor of HB 2140",
-        "HB 2140 would prohibit carrying a concealed handgun in the state capitol",
-        "The bill died in committee",
-        "| s-ksleg-hb2140 | primary | https://www.kslegislature.gov/li_2022/b2021_22/measures/hb2140/ | accessed 2026-05-19 | Day listed as sponsor; bill prohibiting concealed handguns in state capitol | guns/public safety |"
-      ]
-    },
-    {
-      "id": "s-ksleg-hb2300",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li_2022/b2021_22/measures/hb2300/",
-      "title": "HB 2300",
-      "publisher": "Kansas State Legislature",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Day was a sponsor of HB 2300",
-        "HB 2300 would abolish the death penalty and create aggravated murder",
-        "The bill died in committee",
-        "| s-ksleg-hb2300 | primary | https://www.kslegislature.gov/li_2022/b2021_22/measures/hb2300/ | accessed 2026-05-19 | Day listed as sponsor; bill abolishing death penalty and creating aggravated murder | criminal justice |"
-      ]
-    },
-    {
-      "id": "s-ksleg-hr6014",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li_2022/b2021_22/measures/hr6014/",
-      "title": "HR 6014",
-      "publisher": "Kansas State Legislature",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Day was a sponsor of HR 6014",
-        "HR 6014 strengthened sister-state ties between Kansas and Taiwan",
-        "The resolution was adopted without roll call on May 4, 2021 and enrolled May 6, 2021",
-        "| s-ksleg-hr6014 | primary | https://www.kslegislature.gov/li_2022/b2021_22/measures/hr6014/ | accessed 2026-05-19 | Day listed as sponsor; resolution strengthening Kansas-Taiwan sister-state ties | international/civic record |"
-      ]
-    },
-    {
-      "id": "s-ksleg-hb2452",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li/b2025_26/measures/hb2452/",
-      "title": "HB 2452",
-      "publisher": "Kansas State Legislature",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "HB 2452 would change the timing of city, school, community college, and certain municipal elections to even-numbered years",
-        "The bill was stricken from the House calendar by Rule 1507 on February 19, 2026",
-        "| s-ksleg-hb2452 | primary | https://www.kslegislature.gov/li/b2025_26/measures/hb2452/ | accessed 2026-05-19 | Bill changing city, school, community college, and certain municipal elections to even-numbered years | election administration |"
-      ]
-    },
-    {
-      "id": "s-day-hb2452-testimony",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_electns_1/documents/testimony/20260120_21.pdf",
-      "title": "Jennifer Day Testimony to House Elections Committee on HB 2452",
-      "publisher": "Kansas State Legislature",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Day submitted opponent written-only testimony on HB 2452",
-        "Day identified herself as a Kansas citizen and election worker in her county for the past eight years",
-        "Her testimony raised concerns about longer ballots, undervotes, voter disengagement, confusion, and voting-process delays",
-        "| s-day-hb2452-testimony | primary | https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_electns_1/documents/testimony/20260120_21.pdf | testimony dated 2026-01-20; accessed 2026-05-19 | Day's written-only opponent testimony on HB 2452; identifies her",
-        "https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_electns_1/documents/testimony/20260120_21.pdf",
-        "[Kansas Legislature](https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_electns_1/documents/testimony/20260120_21.pdf)",
-        "\"url\": \"https://www.kslegislature.gov/li/b2025_26/committees/ctte_h_electns_1/documents/testimony/20260120_21.pdf\","
+        "\"Voting should not be a partisan issue.\" - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01)",
+        "Campaign site: https://www.electjenday.com/ is active and links Bluesky, X/Twitter, Instagram, Facebook, ActBlue, a press kit, and a footer LinkedIn icon that resolved only to LinkedIn home in the local capture."
       ]
     },
     {
@@ -906,32 +721,6 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
         "| s-bsky-mail-ballots | social | https://bsky.app/profile/electjenday.bsky.social/post/3mes2wul5yr2e | posted 2026-02-14; local capture 2026-05-11 | Mail-ballot post naming military families, seniors, rural voters, and working parents; highest visible Bluesky",
         "Bluesky post, 2026-02-14, naming military families overseas, seniors, rural voters, and working parents as Kansans who use mail-in ballots. This had the highest visible Bluesky post-level engagement in the captured feed: 4 likes and 2 reposts. ([source](https:",
         "\"url\": \"https://bsky.app/profile/electjenday.bsky.social/post/3mes2wul5yr2e\","
-      ]
-    },
-    {
-      "id": "s-bsky-voter-data",
-      "tier": "social",
-      "url": "https://bsky.app/profile/electjenday.bsky.social/post/3meyy2k67iu2z",
-      "title": "Voter-data post",
-      "publisher": "Bluesky",
-      "accessed": "2026-05-11",
-      "claimsAnchored": [
-        "Post addressed protection of voter data and votes",
-        "| s-bsky-voter-data | social | https://bsky.app/profile/electjenday.bsky.social/post/3meyy2k67iu2z | posted 2026-02-16; local capture 2026-05-11 | Voter-data and vote-protection post | election administration |",
-        "Bluesky post, 2026-02-16, saying Kansas deserves a secretary of state who will protect voter data and the vote when the federal government seeks unredacted voter rolls. ([source](https://bsky.app/profile/electjenday.bsky.social/post/3meyy2k67iu2z))"
-      ]
-    },
-    {
-      "id": "s-bsky-county-clerks",
-      "tier": "social",
-      "url": "https://bsky.app/profile/electjenday.bsky.social/post/3mh76kh4iwc2h",
-      "title": "County clerks post",
-      "publisher": "Bluesky",
-      "accessed": "2026-05-11",
-      "claimsAnchored": [
-        "Post said Day had been meeting with county clerks responsible for voting and elections",
-        "| s-bsky-county-clerks | social | https://bsky.app/profile/electjenday.bsky.social/post/3mh76kh4iwc2h | posted 2026-03-16; local capture 2026-05-11 | Post saying Day had been meeting with county clerks responsible for voting and elections | election administra",
-        "Bluesky post, 2026-03-16, saying Day had been meeting with county clerks responsible for voting and elections in their communities. ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mh76kh4iwc2h))"
       ]
     },
     {
@@ -985,18 +774,6 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-jennifer-day-0014",
-      "tier": "secondary",
-      "url": "https://www.wichitalibrary.org/Research/informedvoter/Pages/kansas.aspx",
-      "title": "Wichitalibrary",
-      "publisher": "Wichitalibrary",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| s-wichita-library-guide | secondary | https://www.wichitalibrary.org/Research/informedvoter/Pages/kansas.aspx | accessed in local harvest 2026-05-11 | Indexed election guide listing Day among 2026 SOS candidates | candidate context |",
-        "Wichita Public Library Kansas Elections guide listing Jennifer Day among 2026 Kansas Secretary of State candidates. ([source](https://www.wichitalibrary.org/Research/informedvoter/Pages/kansas.aspx))"
-      ]
-    },
-    {
       "id": "src-jennifer-day-0015",
       "tier": "secondary",
       "url": "https://ballotpedia.org/Kansas_State_Board_of_Education_election,_2026",
@@ -1030,17 +807,6 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-jennifer-day-0019",
-      "tier": "secondary",
-      "url": "https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/",
-      "title": "Pbswisconsin",
-      "publisher": "Pbswisconsin",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[PBS Wisconsin: $100M+ spending on 2025 race](https://pbswisconsin.org/news-item/billionaires-push-spending-in-the-2025-wisconsin-supreme-court-race-over-the-100-million-mark/)"
-      ]
-    },
-    {
       "id": "src-jennifer-day-0020",
       "tier": "secondary",
       "url": "https://www.cnn.com/2024/11/03/politics/noncitizen-voting-ballot-measures-election/index.html",
@@ -1060,28 +826,6 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[Ballotpedia: Kansas Insurance Commissioner 2026](https://ballotpedia.org/Kansas_Insurance_Commissioner_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0024",
-      "tier": "secondary",
-      "url": "https://sunflowerstatejournal.com/former-lawmaker-kicks-off-campaign-for-secretary-of-state/",
-      "title": "Sunflowerstatejournal",
-      "publisher": "Sunflowerstatejournal",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| s-sunflower-launch | secondary | https://sunflowerstatejournal.com/former-lawmaker-kicks-off-campaign-for-secretary-of-state/ | published 2025-10-17; search result accessed 2026-05-19 | Launch coverage; paywall/search snippet only in this pass | campaign con"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0025",
-      "tier": "secondary",
-      "url": "https://archive.ph/2025.12.15-205057/https%3A/www.cjonline.com/story/news/politics/state/2025/12/13/jennifer-day-files-candidacy-for-kansas-secretary-of-state/87734035007/",
-      "title": "Archive",
-      "publisher": "Archive",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| s-cjonline-archive | secondary | https://archive.ph/2025.12.15-205057/https%3A/www.cjonline.com/story/news/politics/state/2025/12/13/jennifer-day-files-candidacy-for-kansas-secretary-of-state/87734035007/ | archived 2025-12-15; search result accessed 2026-05"
       ]
     },
     {
@@ -1130,95 +874,6 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-jennifer-day-0030",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/03/19/kansas-house-endorses-plan-to-elect-supreme-court-justices-placing-question-on-august-2026-ballot/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: House endorses plan](https://kansasreflector.com/2025/03/19/kansas-house-endorses-plan-to-elect-supreme-court-justices-placing-question-on-august-2026-ballot/)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0031",
-      "tier": "secondary",
-      "url": "https://thebeaconnews.org/stories/2025/03/19/kansas-supreme-court-elections-voters-will-decide-in-2026/",
-      "title": "Thebeaconnews",
-      "publisher": "Thebeaconnews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[The Beacon: Kansas Supreme Court elections?](https://thebeaconnews.org/stories/2025/03/19/kansas-supreme-court-elections-voters-will-decide-in-2026/)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0032",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/politics-elections-and-government/2026-01-26/kansas-lawmakers-want-to-reveal-more-about-the-people-picking-supreme-court-justices",
-      "title": "Kcur",
-      "publisher": "Kcur",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KCUR: Lawmakers want to reveal more about people picking justices](https://www.kcur.org/politics-elections-and-government/2026-01-26/kansas-lawmakers-want-to-reveal-more-about-the-people-picking-supreme-court-justices)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0033",
-      "tier": "secondary",
-      "url": "https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/",
-      "title": "Sunflowerstatejournal",
-      "publisher": "Sunflowerstatejournal",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Sunflower State Journal: Outside group books nearly $1M in ads](https://sunflowerstatejournal.com/judicial-amendment-campaign-shapes-up-outside-group-books-nearly-1-million-in-ads/)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0034",
-      "tier": "secondary",
-      "url": "https://www.npr.org/2025/04/01/nx-s1-5345862/wisconsin-supreme-court-crawford-schimel-election-results",
-      "title": "Npr",
-      "publisher": "Npr",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[NPR: Trump and Musk backing wasn't enough to flip Wisconsin court](https://www.npr.org/2025/04/01/nx-s1-5345862/wisconsin-supreme-court-crawford-schimel-election-results)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0035",
-      "tier": "secondary",
-      "url": "https://www.kansasinformationnetwork.com/2026-Kansas-Constitutional-Amendment",
-      "title": "Kansasinformationnetwork",
-      "publisher": "Kansasinformationnetwork",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Information Network: 2026 Constitutional Amendment](https://www.kansasinformationnetwork.com/2026-Kansas-Constitutional-Amendment)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0036",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Citizenship_Voting_Requirement_Amendment_(2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas Citizenship Voting Requirement Amendment](https://ballotpedia.org/Kansas_Citizenship_Voting_Requirement_Amendment_(2026))"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0037",
-      "tier": "secondary",
-      "url": "https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/",
-      "title": "News.Ballotpedia",
-      "publisher": "News.Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia News: Kansas voters will decide on citizenship amendment](https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/)",
-        "\"url\": \"https://news.ballotpedia.org/2025/03/27/kansas-voters-will-decide-on-citizenship-voting-requirement-amendment-in-2026-similar-measures-were-approved-in-eight-states-in-2024/\""
-      ]
-    },
-    {
       "id": "src-jennifer-day-0038",
       "tier": "secondary",
       "url": "https://www.npr.org/2018/06/19/621304260/judge-tosses-kansas-proof-of-citizenship-voter-law-and-rebukes-sec-of-state-koba",
@@ -1230,17 +885,6 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-jennifer-day-0039",
-      "tier": "secondary",
-      "url": "https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/",
-      "title": "Aclukansas",
-      "publisher": "Aclukansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ACLU of Kansas: Supreme Court refuses proof-of-citizenship case](https://www.aclukansas.org/press-releases/resounding-victory-tens-thousands-disenfranchised-kansas-voters-supreme-court-refuses/)"
-      ]
-    },
-    {
       "id": "src-jennifer-day-0040",
       "tier": "secondary",
       "url": "https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law",
@@ -1249,183 +893,6 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[PBS: Kansas hopes to resurrect proof-of-citizenship law](https://www.pbs.org/newshour/nation/kansas-hopes-to-resurrect-proof-of-citizenship-voting-law)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0041",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates",
-      "title": "Kcur",
-      "publisher": "Kcur",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KCUR: Kansas governor 2026 candidate guide](https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0042",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas gubernatorial election 2026](https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0043",
-      "tier": "secondary",
-      "url": "https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness",
-      "title": "Kmuw",
-      "publisher": "Kmuw",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KMUW: Democratic candidate opens arms to Kansas Republicans](https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0044",
-      "tier": "secondary",
-      "url": "https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/",
-      "title": "Smartpolitics.Lib.Umn",
-      "publisher": "Smartpolitics.Lib.Umn",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Smart Politics: How well can Democrats fare?](https://smartpolitics.lib.umn.edu/2025/03/05/how-well-can-democrats-fare-in-kansas-2026-us-senate-election/)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0045",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/07/30/kansas-election-for-attorney-general-in-2026-may-become-a-repeat-of-2022-showdown/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: AG race may repeat 2022 showdown](https://kansasreflector.com/2025/07/30/kansas-election-for-attorney-general-in-2026-may-become-a-repeat-of-2022-showdown/)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0046",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Attorney_General_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas AG election 2026](https://ballotpedia.org/Kansas_Attorney_General_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0047",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: Kansas SOS election 2026](https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026)",
-        "https://ballotpedia.org/Kansas_Secretary_of_State_election,_2026 -- Full election overview and candidate list -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0048",
-      "tier": "secondary",
-      "url": "https://kspress.com/news/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes",
-      "title": "Kspress",
-      "publisher": "Kspress",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Press Association: Legislature passes election bills](https://kspress.com/news/2026/03/27/kansas-legislature-passes-package-of-elections-bills-that-alter-voting-processes)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0049",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/2026_Kansas_Secretary_of_State_election",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "https://en.wikipedia.org/wiki/2026_Kansas_Secretary_of_State_election -- Wikipedia election page -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0050",
-      "tier": "secondary",
-      "url": "https://justfacts.votesmart.org/candidate/biography/167130/ken-rahjes",
-      "title": "Justfacts.Votesmart",
-      "publisher": "Justfacts.Votesmart",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[VoteSmart - Biography](https://justfacts.votesmart.org/candidate/biography/167130/ken-rahjes)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0051",
-      "tier": "secondary",
-      "url": "https://www.samuellane.org/",
-      "title": "Samuellane",
-      "publisher": "Samuellane",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Samuel Lane for Kansas - Campaign Website](https://www.samuellane.org/)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0052",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_House_of_Representatives_District_111",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: KS House District 111](https://ballotpedia.org/Kansas_House_of_Representatives_District_111)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0053",
-      "tier": "secondary",
-      "url": "https://www.thebeaconnews.org/stories/2023/01/17/johnson-county-wyandotte-county-representatives-2023-kansas-legislature/",
-      "title": "Thebeaconnews",
-      "publisher": "Thebeaconnews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[thebeaconnews.org](https://www.thebeaconnews.org/stories/2023/01/17/johnson-county-wyandotte-county-representatives-2023-kansas-legislature/)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0054",
-      "tier": "secondary",
-      "url": "https://www.electjenday.com/`",
-      "title": "Electjenday",
-      "publisher": "Electjenday",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign site: https://www.electjenday.com/ is active and links Bluesky, X/Twitter, Instagram, Facebook, ActBlue, a press kit, and a footer LinkedIn icon that resolved only to LinkedIn home in the local capture."
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0055",
-      "tier": "secondary",
-      "url": "https://kenforkansas.com/",
-      "title": "Kenforkansas",
-      "publisher": "Kenforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ken For Kansas - Official Website](https://kenforkansas.com/)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0057",
-      "tier": "secondary",
-      "url": "https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000",
-      "title": "Prismnews",
-      "publisher": "Prismnews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Prism News: Kansas law blocked 31,000 eligible voters](https://www.prismnews.com/news/kansas-proof-of-citizenship-voting-law-blocked-31000)"
       ]
     },
     {
@@ -1453,17 +920,6 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-jennifer-day-0063",
-      "tier": "social",
-      "url": "https://bsky.app/profile/electjenday.bsky.social/post/3mde3smr6pm2i",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Bluesky post, 2026-01-26, citing seven years volunteering at polling places and serving as an election worker. ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mde3smr6pm2i))"
-      ]
-    },
-    {
       "id": "src-jennifer-day-0064",
       "tier": "social",
       "url": "https://bsky.app/profile/electjenday.bsky.social/post/3mehahjlh252d",
@@ -1474,436 +930,6 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
         "Day's campaign contrasts its voting-access frame with proposed restrictions on mail and early voting. On Feb. 9, 2026, she wrote that a Kansas Senate bill \"could end mail-in ballots\" and called it \"a clear attack on Kansas voters.\" ([source](https://bsky.app/p",
         "Bluesky post, 2026-02-09, criticizing a Kansas Senate bill that \"could end mail-in ballots.\" ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mehahjlh252d))"
       ]
-    },
-    {
-      "id": "src-jennifer-day-0065",
-      "tier": "social",
-      "url": "https://bsky.app/profile/electjenday.bsky.social/post/3mea5ad5nrd2o",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "A second recurring theme is state and local control of election administration. On Feb. 7, 2026, Day wrote that the authority for administering elections \"belongs to the states, not the federal government.\" ([source](https://bsky.app/profile/electjenday.bsky.s"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0066",
-      "tier": "social",
-      "url": "https://bsky.app/profile/electjenday.bsky.social/post/3m5wsbpac4c2l",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| s-bsky-launch | social | https://bsky.app/profile/electjenday.bsky.social/post/3m5wsbpac4c2l | posted 2025-11-18; local capture 2026-05-11 | Launch-video post | election administration |",
-        "Bluesky launch-video post, 2025-11-18: \"Kansans deserve elections that are safe, secure, and accessible.\" ([source](https://bsky.app/profile/electjenday.bsky.social/post/3m5wsbpac4c2l))"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0070",
-      "tier": "social",
-      "url": "https://www.instagram.com/electjenday/",
-      "title": "Instagram",
-      "publisher": "Instagram",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| Instagram | https://www.instagram.com/electjenday/ | FOUND | Public metadata: 122 followers, 81 following, 64 posts. Bio says she is running for secretary of state because Kansans deserve a safe, secure, accessible voting experience. |",
-        "Instagram and Facebook provide larger page/profile-level audiences than Bluesky or X. Instagram metadata listed 122 followers, 81 following, and 64 posts, with a bio matching the safe/secure/accessibility frame. ([source](https://www.instagram.com/electjenday/",
-        "Instagram public profile metadata, captured 2026-05-11: 122 followers, 81 following, 64 posts. ([source](https://www.instagram.com/electjenday/))"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0071",
-      "tier": "social",
-      "url": "https://www.facebook.com/ElectJenDayKS",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| Facebook | https://www.facebook.com/ElectJenDayKS | FOUND | Campaign page metadata: 948 likes and 269 talking about this; page description frames the campaign around election integrity being under threat. |",
-        "The campaign footprint is broad but still small in public metrics. On May 11, 2026, Facebook showed 948 likes and 269 talking about this; Instagram showed 122 followers, 81 following, and 64 posts; X showed 41 followers, 97 following, 70 statuses, and 62 media",
-        "Facebook public page metadata, captured 2026-05-11: 948 likes and 269 talking about this. ([source](https://www.facebook.com/ElectJenDayKS))"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0072",
-      "tier": "social",
-      "url": "https://bsky.app/profile/electjenday.bsky.social",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Bluesky is the clearest post-level record captured. The account description says, \"I'm running for Secretary of State because the people of Kansas deserve a safe, secure and accessible voting experience for all who are eligible.\" ([source](https://bsky.app/pro",
-        "| s-bsky-profile | social | https://bsky.app/profile/electjenday.bsky.social | captured locally 2026-05-11 | Public campaign profile metadata and accessible feed | social evidence |",
-        "https://bsky.app/profile/electjenday.bsky.social",
-        "| Bluesky | https://bsky.app/profile/electjenday.bsky.social | FOUND | Public API metadata: 32 followers, 37 following, 70 posts; created 2025-09-25; description points to www.electjenday.com. |",
-        "Bluesky profile metadata for electjenday.bsky.social, captured 2026-05-11: 32 followers, 37 following, 70 posts, created 2025-09-25. ([source](https://bsky.app/profile/electjenday.bsky.social))"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0073",
-      "tier": "social",
-      "url": "https://twitter.com/electjenday",
-      "title": "Twitter",
-      "publisher": "Twitter",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "X appears to mirror or parallel the Bluesky campaign identity. Public page state identified @ElectJenDay as \"Jennifer Day for Secretary of State,\" with 41 followers, 97 following, 70 statuses, and 62 media items. Its description says she is \"Running for Secret",
-        "| X / Twitter | https://twitter.com/electjenday | FOUND | Public metadata accessible in page state: @ElectJenDay, 41 followers, 97 following, 70 statuses, 62 media items; account created 2025-09-25. Logged-out direct timeline review was limited. |",
-        "X/Twitter public profile metadata, captured 2026-05-11: 41 followers, 97 following, 70 statuses, 62 media, created 2025-09-25. ([source](https://twitter.com/electjenday))"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0074",
-      "tier": "social",
-      "url": "https://bsky.app/profile/electjenday.bsky.social/post/3mcxk26qqgy2o",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Bluesky post, 2026-01-21, saying the campaign had raised over $90,000 and naming opposition to a candidate \"who wants to eliminate early voting.\" ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mcxk26qqgy2o))"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0075",
-      "tier": "social",
-      "url": "https://bsky.app/profile/electjenday.bsky.social/post/3ml4yzwe4js2x",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Bluesky post, 2026-05-05, announcing Gov. Laura Kelly's endorsement and saying Day shares Kelly's commitment to protecting democracy and making government work better for everyone. ([source](https://bsky.app/profile/electjenday.bsky.social/post/3ml4yzwe4js2x))",
-        "| s-bsky-kelly | social | https://bsky.app/profile/electjenday.bsky.social/post/3ml4yzwe4js2x | posted 2026-05-05; local capture 2026-05-11 | Gov. Laura Kelly endorsement post | endorsements |"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0076",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li/b2025_26/measures/documents/summary_scr_1611_2025",
-      "title": "Kslegislature",
-      "publisher": "Kslegislature",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Legislature: SCR 1611](https://www.kslegislature.gov/li/b2025_26/measures/documents/summary_scr_1611_2025)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0077",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_rahjes_ken_1/",
-      "title": "Kslegislature",
-      "publisher": "Kslegislature",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Legislature - Member Page](https://www.kslegislature.gov/li/b2025_26/members/rep_rahjes_ken_1/)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0078",
-      "tier": "secondary",
-      "url": "https://www.votenokansas.org/",
-      "title": "Votenokansas",
-      "publisher": "Votenokansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[VoteNoKansas.org](https://www.votenokansas.org/)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0079",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Six GOP candidates first debate](https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0080",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
-      "title": "Kcur",
-      "publisher": "Kcur",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KCUR: Who's running for U.S. Senate](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0081",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Lawrence Democrats take aim at KS-01](https://kansasreflector.com/2026/01/05/lawrence-democrats-take-aim-at-kansas-republicans-congressional-seat/)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0082",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: KS-01 2026](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0083",
-      "tier": "secondary",
-      "url": "https://kansasdems.org/candidates",
-      "title": "Kansasdems",
-      "publisher": "Kansasdems",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[kansasdems.org](https://kansasdems.org/candidates)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0084",
-      "tier": "secondary",
-      "url": "https://www.jocoelection.org/candidates-elected-officials/candidates",
-      "title": "Jocoelection",
-      "publisher": "Jocoelection",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[jocoelection.org](https://www.jocoelection.org/candidates-elected-officials/candidates)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0085",
-      "tier": "secondary",
-      "url": "https://www.opensecrets.org/",
-      "title": "Opensecrets",
-      "publisher": "Opensecrets",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[OpenSecrets](https://www.opensecrets.org/)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0086",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/7178f5e9-d6e8-4fe0-af51-8ebe54531561",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post - Files for Secretary of State](https://hayspost.com/posts/7178f5e9-d6e8-4fe0-af51-8ebe54531561)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0087",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Sam_Lane_(Kansas",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia](https://ballotpedia.org/Sam_Lane_(Kansas))"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0088",
-      "tier": "secondary",
-      "url": "https://www.samuellane.org/issues",
-      "title": "Samuellane",
-      "publisher": "Samuellane",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Samuel Lane - Issues Page](https://www.samuellane.org/issues)"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0089",
-      "tier": "social",
-      "url": "https://www.youtube.com/@ElectJenDay",
-      "title": "Youtube",
-      "publisher": "Youtube",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| YouTube | https://www.youtube.com/@ElectJenDay | FOUND | Public channel title: Jennifer Day. One visible launch video, \"Jennifer Day - Launch Video,\" linked from Bluesky. |"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0090",
-      "tier": "social",
-      "url": "https://linkedin.com/",
-      "title": "Linkedin",
-      "publisher": "Linkedin",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| LinkedIn | Site footer link to https://linkedin.com/ | UNCLEAR | Campaign site footer includes a LinkedIn icon, but the extracted link resolved only to LinkedIn home, not a candidate profile. |"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0091",
-      "tier": "social",
-      "url": "https://www.youtube.com/@ElectJenDay`",
-      "title": "Youtube",
-      "publisher": "Youtube",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "YouTube presence is minimal but real. The public YouTube oEmbed endpoint identified \"Jennifer Day - Launch Video\" by author Jennifer Day and channel URL https://www.youtube.com/@ElectJenDay; the channel page resolves to channel ID UChWCfiNXT08xvAjRGiL8Hug. ([s"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0092",
-      "tier": "secondary",
-      "url": "https://kansasdems.org/washingtondays",
-      "title": "Kansasdems",
-      "publisher": "Kansasdems",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Kansas Democratic Party Washington Days 2026 agenda listing \"Guest Speaker - Jennifer Day for Secretary of State\" at the March 2026 event. ([source](https://kansasdems.org/washingtondays))"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0093",
-      "tier": "social",
-      "url": "https://bsky.app/profile/electjenday.bsky.social/post/3m6uucxngja2t",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Bluesky fundraising post, 2025-11-30, announcing the campaign had raised more than $50,000 since launch and linking the campaign mission to \"free and fair\" elections. ([source](https://bsky.app/profile/electjenday.bsky.social/post/3m6uucxngja2t))"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0094",
-      "tier": "social",
-      "url": "https://bsky.app/profile/electjenday.bsky.social/post/3mbrqlosj7k2y",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Bluesky post, 2026-01-06, linking January 6 to the resolve of secretaries of state and saying the campaign is important because that resolve would be tested in 2026 and beyond. ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mbrqlosj7k2y))"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0095",
-      "tier": "social",
-      "url": "https://bsky.app/profile/electjenday.bsky.social/post/3mgd42ygq5c2l",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Bluesky post, 2026-03-05, announcing House Democratic Leader Brandon Woodard's endorsement and connecting it to \"secure and accessible\" elections. ([source](https://bsky.app/profile/electjenday.bsky.social/post/3mgd42ygq5c2l))"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0096",
-      "tier": "social",
-      "url": "https://www.youtube.com/watch?v=QsWfGPmD574",
-      "title": "Youtube",
-      "publisher": "Youtube",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "YouTube launch video metadata, captured 2026-05-11: title \"Jennifer Day - Launch Video,\" author Jennifer Day, channel @ElectJenDay. ([source](https://www.youtube.com/watch?v=QsWfGPmD574))"
-      ]
-    },
-    {
-      "id": "src-jennifer-day-0108",
-      "tier": "primary",
-      "url": "https://mann.house.gov/",
-      "title": "Mann.House",
-      "publisher": "Mann.House",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-jennifer-day-0109",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li/b2025_26/members/rep_wasinger_barbara_1/",
-      "title": "Kslegislature",
-      "publisher": "Kslegislature",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-jennifer-day-0110",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/briefs/kansas-senate-minority-leader-challenges-gop-house-speaker-for-state-insurance-commissioner/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-jennifer-day-0111",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/05/13/kansas-house-speaker-launches-campaign-for-insurance-commissioner-with-pro-trump-rhetoric-1/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-jennifer-day-0112",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-jennifer-day-0113",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-u-s-senate-sharpen-attack-on-gop-incumbent-roger-marshall/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-jennifer-day-0114",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/04/04/leavenworth-house-member-first-republican-to-declare-as-2026-candidate-for-secretary-of-state/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-jennifer-day-0115",
-      "tier": "secondary",
-      "url": "https://barbforkansas.com/",
-      "title": "Barbforkansas",
-      "publisher": "Barbforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-jennifer-day-0116",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/01/08/scott-schwab-runs-for-kansas-governor-after-two-terms-as-states-top-election-official/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-jennifer-day-0117",
-      "tier": "secondary",
-      "url": "https://kvoe.com/2026/03/16/rahjes-in-emporia-touting-secretary-of-state-bid/",
-      "title": "Kvoe",
-      "publisher": "Kvoe",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-jennifer-day-0118",
-      "tier": "social",
-      "url": "https://bsky.app/profile/electjenday.bsky.social/post/3mlerd3q3a22p",
-      "title": "Bsky",
-      "publisher": "Bsky",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
     }
   ]
 };

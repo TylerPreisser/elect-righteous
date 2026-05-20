@@ -204,43 +204,6 @@ export const DOUG_BILLINGS_V2: CandidateFullV2 = {
         "KPDC links a 202601 report for Billings",
         "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm\","
       ]
-    },
-    {
-      "id": "s-campaign-home",
-      "tier": "primary",
-      "url": "https://dougbillingsforkansas.com/",
-      "title": "Doug Billings For Kansas Governor 2026",
-      "publisher": "Doug Billings for Kansas Governor",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign site presents Billings as a 2026 Kansas Governor candidate",
-        "Campaign site lists candidate-controlled policy pillars",
-        "\"campaignWebsite\": \"https://dougbillingsforkansas.com/\","
-      ]
-    },
-    {
-      "id": "s-kctv-filed",
-      "tier": "secondary",
-      "url": "https://www.kctv5.com/2025/05/05/conservative-podcaster-run-kansas-governor-2026/",
-      "title": "Conservative podcaster to run for Kansas Governor in 2026",
-      "publisher": "KCTV5 / WIBW",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Reporting described Billings as seeking the Kansas Republican Party nomination",
-        "Reporting summarized campaign themes including K-DOGE, tax cuts, and regulation cuts",
-        "\"url\": \"https://www.kctv5.com/2025/05/05/conservative-podcaster-run-kansas-governor-2026/\","
-      ]
-    },
-    {
-      "id": "s-kcstar-removed",
-      "tier": "secondary",
-      "url": "https://www.kansascity.com/news/politics-government/article311905084.html",
-      "title": "Doug Billings removed from Kansas governor's candidate list",
-      "publisher": "Kansas City Star",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Reporting said Billings was removed from the Secretary of State candidate list after a running-mate dispute and legal opinion"
-      ]
     }
   ]
 };

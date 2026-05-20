@@ -326,9 +326,9 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "src-ron-wilson-0011",
           "src-ron-wilson-0010",
           "s-usd489-staff",
-          "s-ksleg-mhit-testimony-2021",
           "s-citizenjournal-march-2026",
-          "s-usd489-live-feed-2020"
+          "s-usd489-live-feed-2020",
+          "src-ron-wilson-0060"
         ]
       },
       "actions": [
@@ -354,14 +354,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "body": "Wilson's public message is overwhelmingly administrative: student needs, facilities, bond execution, mental-health supports, public-school funding, and day-to-day district operations. The official USD 489 staff directory lists him as Superintendent and Administrator, and the USD 489 public board portal lists him as Superintendent in meeting categories. (USD 489 staff, USD 489 board portal)",
           "sourceIds": [
             "s-usd489-staff"
-          ]
-        },
-        {
-          "id": "em-ron-wilson-00008",
-          "date": "Undated",
-          "body": "His public mental-health message is strongest in official testimony to the Kansas Legislature. Wilson described how Herington and then Hays participated in the Mental Health Intervention Team program, said 155 Hays High and Hays Middle School students used the program in the 2020-21 school year, and listed goals around academic performance, attendance, internalizing symptoms, and externalizing symptoms. He urged better outside referrals, summer therapy and case-management availability, mentoring for new districts,...",
-          "sourceIds": [
-            "s-ksleg-mhit-testimony-2021"
           ]
         },
         {
@@ -402,23 +394,15 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented-record evidence: His public mental-health message is strongest in official testimony to the Kansas Legislature. Wilson described how Herington and then Hays participated in the Mental Health Intervention Team program, said 155 Hays High and Hays Middle School students used the program in the 2020-21 school year, and listed goals around academic performance, attendance, internalizing symptoms, and externalizing symptoms. He urged bet... The disk matrix keeps 32 selected evidence items for this issue, including 12 public URL-backed items and 20 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-ksleg-mhit-testimony-2021",
           "src-ron-wilson-0026",
           "src-ron-wilson-0028",
           "s-hayspost-project-manager-2025",
           "src-ron-wilson-0029",
-          "s-guidon-hiring-2019"
+          "s-guidon-hiring-2019",
+          "src-ron-wilson-0038"
         ]
       },
       "actions": [
-        {
-          "id": "em-ron-wilson-00008",
-          "date": "Undated",
-          "body": "His public mental-health message is strongest in official testimony to the Kansas Legislature. Wilson described how Herington and then Hays participated in the Mental Health Intervention Team program, said 155 Hays High and Hays Middle School students used the program in the 2020-21 school year, and listed goals around academic performance, attendance, internalizing symptoms, and externalizing symptoms. He urged better outside referrals, summer therapy and case-management availability, mentoring for new districts,...",
-          "sourceIds": [
-            "s-ksleg-mhit-testimony-2021"
-          ]
-        },
         {
           "id": "em-ron-wilson-00337",
           "date": "Undated",
@@ -457,6 +441,14 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "body": "School board votes, approves Ron Wilson as new superintendent (Guidon Online)",
           "sourceIds": [
             "s-guidon-hiring-2019"
+          ]
+        },
+        {
+          "id": "em-ron-wilson-00820",
+          "date": "Undated",
+          "body": "Hays School District hires new superintendent (KWCH)",
+          "sourceIds": [
+            "src-ron-wilson-0038"
           ]
         }
       ],
@@ -479,23 +471,15 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented-record evidence: His public mental-health message is strongest in official testimony to the Kansas Legislature. Wilson described how Herington and then Hays participated in the Mental Health Intervention Team program, said 155 Hays High and Hays Middle School students used the program in the 2020-21 school year, and listed goals around academic performance, attendance, internalizing symptoms, and externalizing symptoms. He urged bet... The disk matrix keeps 11 selected evidence items for this issue, including 8 public URL-backed items and 3 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-ksleg-mhit-testimony-2021",
           "src-ron-wilson-0026",
           "src-ron-wilson-0028",
           "s-hayspost-project-manager-2025",
           "src-ron-wilson-0029",
-          "s-guidon-hiring-2019"
+          "s-guidon-hiring-2019",
+          "src-ron-wilson-0038"
         ]
       },
       "actions": [
-        {
-          "id": "em-ron-wilson-00008",
-          "date": "Undated",
-          "body": "His public mental-health message is strongest in official testimony to the Kansas Legislature. Wilson described how Herington and then Hays participated in the Mental Health Intervention Team program, said 155 Hays High and Hays Middle School students used the program in the 2020-21 school year, and listed goals around academic performance, attendance, internalizing symptoms, and externalizing symptoms. He urged better outside referrals, summer therapy and case-management availability, mentoring for new districts,...",
-          "sourceIds": [
-            "s-ksleg-mhit-testimony-2021"
-          ]
-        },
         {
           "id": "em-ron-wilson-00337",
           "date": "Undated",
@@ -534,6 +518,14 @@ export const RON_WILSON_V2: CandidateFullV2 = {
           "body": "School board votes, approves Ron Wilson as new superintendent (Guidon Online)",
           "sourceIds": [
             "s-guidon-hiring-2019"
+          ]
+        },
+        {
+          "id": "em-ron-wilson-00820",
+          "date": "Undated",
+          "body": "Hays School District hires new superintendent (KWCH)",
+          "sourceIds": [
+            "src-ron-wilson-0038"
           ]
         }
       ],
@@ -681,22 +673,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-usd489-highbond-members",
-      "tier": "primary",
-      "url": "https://usd489.community.highbond.com/portal/members.aspx?id=18",
-      "title": "Hays USD 489 HighBond/Diligent Public Meeting Roster",
-      "publisher": "Hays USD 489",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Ron Wilson is listed as Superintendent in the public meeting roster",
-        "The roster distinguishes Wilson from elected board members",
-        "\"Hays USD 489 Superintendent Ron Wilson\" - USD 489 board portal; https://usd489.community.highbond.com/portal/members.aspx?id=18",
-        "| USD 489 Diligent / HighBond public portal | FOUND | Public board portal lists Ron Wilson under \"About: Superintendent\" and includes him in board/committee meeting categories. Source: https://usd489.community.highbond.com/portal/members.aspx?id=18 |",
-        "USD 489 Diligent public portal listing Ron Wilson as Superintendent. Source: https://usd489.community.highbond.com/portal/members.aspx?id=18",
-        "[usd489.community.highbond.com](https://usd489.community.highbond.com/portal/members.aspx?id=18)"
-      ]
-    },
-    {
       "id": "s-usd489-live-feed-2020",
       "tier": "primary",
       "url": "https://www.usd489.com/live-feed?page_no=32",
@@ -750,59 +726,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-ksleg-mhit-testimony-2021",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li/b2021_22/committees/ctte_spc_2021_ks_mental_health_modern_1/documents/testimony/20211028_14.pdf",
-      "title": "Ron Wilson Testimony on Mental Health Intervention Team Program",
-      "publisher": "Kansas Legislature",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Wilson identified himself as Hays USD 489 superintendent",
-        "Wilson reported 155 HHS/HMS students used MHIT services in the 2020-21 school year",
-        "Wilson advocated for referral expansion, summer services, telemedicine access, pediatric integration, and workforce solutions",
-        "His public mental-health message is strongest in official testimony to the Kansas Legislature. Wilson described how Herington and then Hays participated in the Mental Health Intervention Team program, said 155 Hays High and Hays Middle School students used the",
-        "| Kansas Legislature testimony | FOUND | Wilson submitted written testimony as USD 489 superintendent supporting the Mental Health Intervention Team program and expansion ideas. Source: https://www.kslegislature.gov/li/b2021_22/committees/ctte_spc_2021_ks_ment",
-        "His October 2021 Kansas Legislature testimony is the strongest first-person policy document. He described school-based mental-health services in Herington and Hays, listed MHIT goals, reported 155 Hays High and Hays Middle School students using MHIT in 2020-21",
-        "Wilson testimony to Kansas Legislature on Mental Health Intervention Team program, October 28, 2021. Source: https://www.kslegislature.gov/li/b2021_22/committees/ctte_spc_2021_ks_mental_health_modern_1/documents/testimony/20211028_14.pdf",
-        "2021: Wilson testified that mental health should be treated like the emergency it is for kids. Source: https://www.kslegislature.gov/li/b2021_22/committees/ctte_spc_2021_ks_mental_health_modern_1/documents/testimony/20211028_14.pdf"
-      ]
-    },
-    {
-      "id": "s-highbond-mar24-2025-minutes",
-      "tier": "primary",
-      "url": "https://usd489.community.highbond.com/document/58b62a8d-8fc5-4292-9392-8a873dcee103",
-      "title": "USD 489 March 24, 2025 Regular Meeting Minutes",
-      "publisher": "Hays USD 489 HighBond/Diligent",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Motion to look into hiring a project manager for the remainder of the bond failed 3-4",
-        "Yarmer, Park, and Vajnar voted yes; Brooks, Zampieri-Lillpopp, Goetz, and Ruder voted no"
-      ]
-    },
-    {
-      "id": "s-highbond-jan19-2026-minutes",
-      "tier": "primary",
-      "url": "https://usd489.community.highbond.com/document/92cb04a6-52e1-4e26-a3a5-f9d6ebaa6e4e",
-      "title": "USD 489 January 19, 2026 Regular Meeting Minutes",
-      "publisher": "Hays USD 489 HighBond/Diligent",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "District goals include high student achievement, effective staff, positive communication, and effective management of resources",
-        "Meeting included legislative update and student support specialist action"
-      ]
-    },
-    {
-      "id": "s-highbond-apr24-2023-agenda",
-      "tier": "primary",
-      "url": "https://usd489.community.highbond.com/document/5247/File.html?handle=60377C16A47E41CD9EC1D888C53D7FBA",
-      "title": "USD 489 April 24, 2023 Meeting Material",
-      "publisher": "Hays USD 489 HighBond/Diligent",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "April 2023 meeting material included personnel transactions later covered in nepotism-policy reporting"
-      ]
-    },
-    {
       "id": "s-hayspost-2019-profile",
       "tier": "secondary",
       "url": "https://archive.hayspost.com/2019/02/page/67/",
@@ -845,58 +768,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
         "The story reported the email did not tell staff they had to vote for the bond",
         "Wilson declined comment during the investigation",
         "Hays Post article on bond-voting email investigation, April 28, 2022. Source: https://hayspost.com/posts/806cd3a8-3850-49a6-9c3b-5931d344a290"
-      ]
-    },
-    {
-      "id": "s-hayspost-email-no-action-2022",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/d0e804e2-319a-4fb7-ae57-a22990fcee2d",
-      "title": "Ellis Co. Attorney: No action taken on Wilson email to USD 489 staff",
-      "publisher": "Hays Post",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Ellis County Attorney Robert Anderson declined to pursue election-bribery charges",
-        "Anderson said he would take no action at that time",
-        "Hays Post article on county attorney declining action on Wilson email, May 25, 2022. Source: https://hayspost.com/posts/d0e804e2-319a-4fb7-ae57-a22990fcee2d"
-      ]
-    },
-    {
-      "id": "s-hayspost-public-education-legislation-2023",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/6b50b3cc-d002-47b0-a86b-5ab4d7f64904",
-      "title": "Hays USD 489 Super: Legislators mounting attacks on public schools",
-      "publisher": "Hays Post",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Wilson criticized proposed state legislation affecting school days, private-school funding, curriculum posting, and school-board pay",
-        "Wilson discussed special-education underfunding and public-school funding concerns"
-      ]
-    },
-    {
-      "id": "s-hayspost-nepotism-2023",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8",
-      "title": "Hays USD 489 BOE debates nepotism again at Monday meeting",
-      "publisher": "Hays Post",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Board debated hiring Superintendent Wilson's wife as a teacher",
-        "Hays Post reported the policy required disclosure but did not specifically prohibit administrators' relatives from working in the district",
-        "Personnel transactions were approved with Vajnar and Park opposed",
-        "[Hays USD 489 BOE debates nepotism again](https://hayspost.com/posts/9fb91da0-f9e5-4d80-a065-c5c2727c6fb8)"
-      ]
-    },
-    {
-      "id": "s-hayspost-private-bathrooms-2023",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/677ac412-2adb-48bd-85f8-bbd5f05bb92f",
-      "title": "Hays USD 489 board hears concerns about private bathrooms at new high school",
-      "publisher": "Hays Post",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "New Hays High private bathroom design drew community support and opposition",
-        "Coverage described privacy, bullying, safety, monitoring, and design arguments",
-        "[Hays USD 489 board hears concerns about private bathrooms at new high school](https://hayspost.com/posts/677ac412-2adb-48bd-85f8-bbd5f05bb92f)"
       ]
     },
     {
@@ -970,20 +841,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-tiger-admin-contracts-2026",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=95549",
-      "title": "Board of Education extends administrator, director contracts",
-      "publisher": "Tiger Media Network",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Wilson opposed voting on each administrator contract individually",
-        "Board approved administrator contract extensions through 2027-2028 in a 5-2 vote",
-        "Board approved director contract extensions 7-0",
-        "Tiger Media Network article on administrator/director contracts, March 10, 2026. Source: https://tigermedianet.com/?p=95549"
-      ]
-    },
-    {
       "id": "s-citizenjournal-march-2026",
       "tier": "secondary",
       "url": "https://www.citizenjournal.us/takeaways-from-hays-usd-489-education-board-meeting/",
@@ -998,20 +855,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
         "| Citizen Journal | FOUND, SECONDARY | Summarizes March 2026 board-meeting takeaways, including mental-health funding, special education funding, and HB 2468 private-school tax-credit concerns. Used as a supplemental local source where it attributed statements",
         "On state funding, Citizen Journal reported Wilson warning that Senate budget language threatened mental-health intervention funding, that inadequate special-education funding pulls money from other programs, and that HB 2468 private-school tax credits could di",
         "Citizen Journal March 10, 2026 board-meeting takeaways. Source: https://www.citizenjournal.us/takeaways-from-hays-usd-489-education-board-meeting/"
-      ]
-    },
-    {
-      "id": "s-hayspost-summer-projects-2026",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/4da256ef-e1b7-4f2a-8ce3-7c24614c2c05",
-      "title": "Hays USD 489 board hears report on summer construction projects",
-      "publisher": "Hays Post",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Wilson outlined 2026 summer construction/capital projects",
-        "Projects included Felten, O'Loughlin, ADA access, parking, HVAC, playground equipment, and technology rotation",
-        "2026: Wilson said the district's 2026 summer project season would be very busy, with Felten, O'Loughlin, playground, HVAC, ADA, parking, signs, classrooms, bathrooms, track, and parking-lot work. Source: https://hayspost.com/posts/4da256ef-e1b7-4f2a-8ce3-7c246",
-        "Hays Post article on summer construction projects, March 25, 2026. Source: https://hayspost.com/posts/4da256ef-e1b7-4f2a-8ce3-7c24614c2c05"
       ]
     },
     {
@@ -1032,33 +875,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-tiger-bathroom-vandalism-2026",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=96863",
-      "title": "Bathroom talk swirls at BOE meeting",
-      "publisher": "Tiger Media Network",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Wilson said all-day bathroom monitoring is nearly impossible",
-        "Wilson said the district takes vandalism and cleanliness seriously",
-        "Coverage describes Facebook posts as part of the public discussion",
-        "Tiger Media Network article on bathrooms/vandalism, April 23, 2026. Source: https://tigermedianet.com/?p=96863"
-      ]
-    },
-    {
-      "id": "s-hayspost-fees-2026",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/a546e68d-ac57-4107-9bd9-2bbeb0a4362c",
-      "title": "Hays USD 489 school board approves fees for 2026-27 school year",
-      "publisher": "Hays Post",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Breakfast remained free for all students",
-        "Lunch prices increased by five cents",
-        "Wilson cited food cost increases and said a larger increase would have been preferable"
-      ]
-    },
-    {
       "id": "s-linkedin-preview",
       "tier": "social",
       "url": "https://www.linkedin.com/in/ron-wilson-96762118a",
@@ -1071,39 +887,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
         "The accessible professional social footprint is thin. A LinkedIn public preview identifies Ron Wilson with USD 489 Hays Public Schools, Kansas State University, 4 followers, and 2 connections, but no reliable public activity archive was visible. No verified Wi",
         "| LinkedIn | FOUND, LIMITED | Public preview identifies \"Ron Wilson,\" Wichita, Kansas Metropolitan Area, USD 489 Hays Public Schools, Kansas State University, 4 followers and 2 connections. No visible post archive was available logged out. Source: https://www.",
         "LinkedIn public preview for Ron Wilson. Source: https://www.linkedin.com/in/ron-wilson-96762118a"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0006",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5",
-      "title": "Ksde",
-      "publisher": "Ksde",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.ksde.gov/Board/Kansas-State-Board-of-Education/District-5\""
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0008",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/board-of-education",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[usd489.com](https://www.usd489.com/page/board-of-education)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0009",
-      "tier": "primary",
-      "url": "https://www.usd489.com/page/district-communications",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| USD 489 district social media page | FOUND, LIMITED | District navigation exposes a \"District Social Media\" page, but logged-out text capture did not expose a list of channels. The official live feed references district Facebook and Twitter accounts during C"
       ]
     },
     {
@@ -1128,51 +911,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "USD 489 / Hays Post article on Westside and mental-health/behavior supports, April 28, 2021. Source: https://www.usd489.com/article/448824"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0012",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
-      "title": "Sos.Ks",
-      "publisher": "Sos.Ks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.sos.ks.gov/elections/candidate-information.html\""
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0013",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/149/City-Managers-Office",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[City Manager's Office - Hays](https://www.haysusa.com/149/City-Managers-Office)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0014",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/100/Register-of-Deeds",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ellis County Register of Deeds](https://www.ellisco.net/100/Register-of-Deeds)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0015",
-      "tier": "primary",
-      "url": "https://www.usd489.com/",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "District Website: [usd489.com](https://www.usd489.com/)",
-        "[usd489.com](https://www.usd489.com/)"
       ]
     },
     {
@@ -1246,28 +984,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-ron-wilson-0030",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 BOE votes to change Hays Middle School mascot to Indians](https://hayspost.com/posts/5b2cf14f-06bc-4086-9693-c33581fe6a7c)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0031",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Opinion: Hays USD 489 board member critical of use of bond, capital funds](https://hayspost.com/posts/52e53c90-5182-42f0-919e-2c7dc145305b)"
-      ]
-    },
-    {
       "id": "src-ron-wilson-0032",
       "tier": "secondary",
       "url": "https://hayspost.com/posts/ed7e23f5-7116-4798-87ff-ff11bf8563d4",
@@ -1290,39 +1006,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-ron-wilson-0034",
-      "tier": "secondary",
-      "url": "https://archive.hayspost.com/2015/05/19/park-announces-retirement-after-30-years-with-usd-489/",
-      "title": "Archive.Hayspost",
-      "publisher": "Archive.Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Park announces retirement after 30 years with USD 489 (Archive)](https://archive.hayspost.com/2015/05/19/park-announces-retirement-after-30-years-with-usd-489/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0036",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/c83d9d32-2242-4092-8fa5-f0a1321bb826",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Final Hays USD 489 seat decided by 3 votes during canvass](https://hayspost.com/posts/c83d9d32-2242-4092-8fa5-f0a1321bb826)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0037",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/bc933c79-2f23-4279-8171-bc6dcf391cf0",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 board squabbles over discipline policy](https://hayspost.com/posts/bc933c79-2f23-4279-8171-bc6dcf391cf0)"
-      ]
-    },
-    {
       "id": "src-ron-wilson-0038",
       "tier": "secondary",
       "url": "https://www.kwch.com/content/news/Hays-School-District-hires-new-superintendent-505712821.html",
@@ -1331,131 +1014,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[Hays School District hires new superintendent (KWCH)](https://www.kwch.com/content/news/Hays-School-District-hires-new-superintendent-505712821.html)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0039",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 district administrators' contracts extended another year](https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf)",
-        "\"source\": \"Hays Post candidate profile, 2021, https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf\","
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0040",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/1cd56ea1-18ea-4126-aa69-97b826446d03",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 employees receive raises; board members balk at admin pay](https://hayspost.com/posts/1cd56ea1-18ea-4126-aa69-97b826446d03)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0041",
-      "tier": "secondary",
-      "url": "https://www.hdnews.net/2022/05/02/superintendents-email-sparks-controversy-as-election-day-approaches-for-school-bond/",
-      "title": "Hdnews",
-      "publisher": "Hdnews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "> -- Hays Daily News, May 2, 2022, https://www.hdnews.net/2022/05/02/superintendents-email-sparks-controversy-as-election-day-approaches-for-school-bond/",
-        "[Superintendent's email sparks controversy (Hays Daily News)](https://www.hdnews.net/2022/05/02/superintendents-email-sparks-controversy-as-election-day-approaches-for-school-bond/)",
-        "\"url\": \"https://www.hdnews.net/2022/05/02/superintendents-email-sparks-controversy-as-election-day-approaches-for-school-bond/\",",
-        "\"source\": \"Hays Daily News, May 2, 2022, https://www.hdnews.net/2022/05/02/superintendents-email-sparks-controversy-as-election-day-approaches-for-school-bond/\","
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0042",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/caf3d4b9-e869-42ad-84f8-def54af685e2",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays BOE hires superintendent's wife as teacher after nepotism debate](https://hayspost.com/posts/caf3d4b9-e869-42ad-84f8-def54af685e2)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0043",
-      "tier": "secondary",
-      "url": "https://sentinelksmo.org/usd-489-hays-no-apparent-written-plan-to-improve-low-proficiency-levels/",
-      "title": "Sentinelksmo",
-      "publisher": "Sentinelksmo",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[USD 489 Hays: no apparent written plan to improve low proficiency levels (Kansas Sentinel)](https://sentinelksmo.org/usd-489-hays-no-apparent-written-plan-to-improve-low-proficiency-levels/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0044",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/a1ad62ca-72ac-46d4-a3c1-e2248ae736b3",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays USD 489 trending higher on math, English tests](https://hayspost.com/posts/a1ad62ca-72ac-46d4-a3c1-e2248ae736b3)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0045",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/09e13f5d-3612-4ec5-9106-d99396d14ac3",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Trump administration withholds funds from Hays school district](https://hayspost.com/posts/09e13f5d-3612-4ec5-9106-d99396d14ac3)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0046",
-      "tier": "secondary",
-      "url": "https://sentinelksmo.org/hays-high-school-contstruction-project-restrooms-stirs-controversy/",
-      "title": "Sentinelksmo",
-      "publisher": "Sentinelksmo",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays High School construction project, restrooms stirs controversy (Kansas Sentinel)](https://sentinelksmo.org/hays-high-school-contstruction-project-restrooms-stirs-controversy/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0048",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/232ef2ef-ffa2-4666-9afa-3fe0993b01bb",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays school board votes to prohibit satanism in dress code](https://hayspost.com/posts/232ef2ef-ffa2-4666-9afa-3fe0993b01bb)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0049",
-      "tier": "secondary",
-      "url": "https://ffrf.org/news/news-releases/item/41401-ffrf-prompts-kan-school-board-to-repeal-discriminatory-dress-code",
-      "title": "Ffrf",
-      "publisher": "Ffrf",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FFRF prompts repeal](https://ffrf.org/news/news-releases/item/41401-ffrf-prompts-kan-school-board-to-repeal-discriminatory-dress-code)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0050",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/a8daf6b6-7bf6-4ce8-b9a8-f367aeb9494c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Student cell phone use policy discussed](https://hayspost.com/posts/a8daf6b6-7bf6-4ce8-b9a8-f367aeb9494c)"
       ]
     },
     {
@@ -1481,83 +1039,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-ron-wilson-0053",
-      "tier": "secondary",
-      "url": "https://ksopen.org/mann-2",
-      "title": "Ksopen",
-      "publisher": "Ksopen",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Mann - Federal Watch / KSOpen](https://ksopen.org/mann-2)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0054",
-      "tier": "secondary",
-      "url": "https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/",
-      "title": "Au",
-      "publisher": "Au",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Americans United: National Prayer Breakfast](https://www.au.org/the-latest/church-and-state/articles/unhealthy-breakfast-how-the-national-prayer-breakfast-a-relic-from-the-1950s-era-of-civil-religion-evolved-into-a-florid-display-of-christian-nationalism/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0055",
-      "tier": "secondary",
-      "url": "https://kansasdisciples.org/property/great-bend-first-christian-church/",
-      "title": "Kansasdisciples",
-      "publisher": "Kansasdisciples",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[First Christian Church Great Bend - Kansas Disciples](https://kansasdisciples.org/property/great-bend-first-christian-church/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0056",
-      "tier": "secondary",
-      "url": "https://msclawrence.com/",
-      "title": "Msclawrence",
-      "publisher": "Msclawrence",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Morning Star Church Lawrence](https://msclawrence.com/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0057",
-      "tier": "secondary",
-      "url": "https://www.lifemission.church/",
-      "title": "Lifemission",
-      "publisher": "Lifemission",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[LifeMission Church](https://www.lifemission.church/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0058",
-      "tier": "secondary",
-      "url": "https://www.newspring.org/",
-      "title": "Newspring",
-      "publisher": "Newspring",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[NewSpring Church Wichita](https://www.newspring.org/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0059",
-      "tier": "secondary",
-      "url": "https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html",
-      "title": "Christianpost",
-      "publisher": "Christianpost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html\""
-      ]
-    },
-    {
       "id": "src-ron-wilson-0060",
       "tier": "secondary",
       "url": "https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine",
@@ -1566,150 +1047,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[KSHB: Former Kansas governor volunteers on medical mission in Ukraine](https://www.kshb.com/news/local-news/former-kansas-governor-volunteers-on-medical-mission-in-ukraine)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0061",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/ae1e5e6f-c630-4c15-b42e-fa787284525d",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Superintendent contract renewed; Hays board at odds over transparency](https://hayspost.com/posts/ae1e5e6f-c630-4c15-b42e-fa787284525d)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0062",
-      "tier": "secondary",
-      "url": "https://openpayrolls.com/rank/highest-paid-employees/kansas-hays",
-      "title": "Openpayrolls",
-      "publisher": "Openpayrolls",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Highest Paid Employees (OpenPayrolls)](https://openpayrolls.com/rank/highest-paid-employees/kansas-hays)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0063",
-      "tier": "secondary",
-      "url": "https://sentinelksmo.org/choosing-which-crimes-to-prosecute-comes-to-kansas-on-election-bribery/",
-      "title": "Sentinelksmo",
-      "publisher": "Sentinelksmo",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Sentinel analysis](https://sentinelksmo.org/choosing-which-crimes-to-prosecute-comes-to-kansas-on-election-bribery/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0064",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: Hays city commission incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0065",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=75270",
-      "title": "Tigermedianet",
-      "publisher": "Tigermedianet",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Tiger Media Network: Get to know the Hays City Commission candidates](https://tigermedianet.com/?p=75270)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0066",
-      "tier": "secondary",
-      "url": "https://www.kansassheriffs.org/county_map/county/914",
-      "title": "Kansassheriffs",
-      "publisher": "Kansassheriffs",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Sheriffs' Association - Ellis County](https://www.kansassheriffs.org/county_map/county/914)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0067",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: New Ellis County Attorney](https://hayspost.com/posts/7ccb3a8f-a8c6-4baa-9767-cf155c00f4a1)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0068",
-      "tier": "secondary",
-      "url": "https://fhsuguides.fhsu.edu/kansasheritage/elliscounty",
-      "title": "Fhsuguides.Fhsu",
-      "publisher": "Fhsuguides.Fhsu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FHSU: Germans from Russia in Ellis County](https://fhsuguides.fhsu.edu/kansasheritage/elliscounty)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0069",
-      "tier": "secondary",
-      "url": "https://ksrods.com/contact-information/ellis-county-el-nc-district/",
-      "title": "Ksrods",
-      "publisher": "Ksrods",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Register of Deeds Association](https://ksrods.com/contact-information/ellis-county-el-nc-district/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0070",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Board member calls out fellow member after repeated no votes](https://hayspost.com/posts/03620484-d421-4ae2-b3be-d87652788a17)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0071",
-      "tier": "primary",
-      "url": "https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic",
-      "title": "Go.Boarddocs",
-      "publisher": "Go.Boarddocs",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Board Meeting Info: [BoardDocs portal](https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic)",
-        "[BoardDocs portal](https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0072",
-      "tier": "secondary",
-      "url": "https://www.kwch.com/2022/05/26/county-attorney-declines-action-hays-superintendent-email-staff/",
-      "title": "Kwch",
-      "publisher": "Kwch",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[County attorney declines action on Hays superintendent email to staff (KWCH)](https://www.kwch.com/2022/05/26/county-attorney-declines-action-hays-superintendent-email-staff/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0073",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "narrative: \"_A summary of what Ken Brooks has publicly said, posted, and had attributed to him across USD 489 board pages, election records, local candidate Q&As, local news, public meeting coverage, civic/church profile traces, and public profile previews. Dr"
       ]
     },
     {
@@ -1733,788 +1070,6 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Tiger Media Network article on gender-neutral bathrooms and mascot discussion, April 9, 2024. Source: https://tigermedianet.com/?p=78383"
       ]
-    },
-    {
-      "id": "src-ron-wilson-0078",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/42a7f866-c127-423f-80ac-8b3e620f80f4",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Hays Post article on Hays Middle School furniture and Lincoln playground removal, October 14, 2025. Source: https://hayspost.com/posts/42a7f866-c127-423f-80ac-8b3e620f80f4"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0082",
-      "tier": "primary",
-      "url": "https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390",
-      "title": "Ksde",
-      "publisher": "Ksde",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390",
-        "\"Ron Wilson\" - Kansas Educational Directory; https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390",
-        "[ksde.gov](https://www.ksde.gov/Portals/0/Directories/2025-26%20Kansas%20Educational%20Directory.pdf?ver=2025-11-07-175254-390)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0083",
-      "tier": "secondary",
-      "url": "https://heartlandcommunityfoundation.org/",
-      "title": "Heartlandcommunityfoundation",
-      "publisher": "Heartlandcommunityfoundation",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Heartland Community Foundation](https://heartlandcommunityfoundation.org/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0084",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysPost: Officer on de-escalation training](https://hayspost.com/posts/a0f7dc0e-e11c-483b-95ef-cbd4ad3ac930)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0085",
-      "tier": "secondary",
-      "url": "https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/",
-      "title": "Salinadiocese",
-      "publisher": "Salinadiocese",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[St. Nicholas of Myra Parish](https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0086",
-      "tier": "secondary",
-      "url": "https://salinadiocese.org/parish/our-lady-help-of-christians-parish-antonino/",
-      "title": "Salinadiocese",
-      "publisher": "Salinadiocese",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Our Lady Help of Christians Parish - Diocese of Salina](https://salinadiocese.org/parish/our-lady-help-of-christians-parish-antonino/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0087",
-      "tier": "secondary",
-      "url": "https://fox4kc.com/news/at-funeral-for-his-son-caleb-schwabs-dad-tells-stories-that-show-calebs-love-and-humor/",
-      "title": "Fox4kc",
-      "publisher": "Fox4kc",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FOX 4: At funeral for his son](https://fox4kc.com/news/at-funeral-for-his-son-caleb-schwabs-dad-tells-stories-that-show-calebs-love-and-humor/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0088",
-      "tier": "secondary",
-      "url": "https://ethanforkansas.com/",
-      "title": "Ethanforkansas",
-      "publisher": "Ethanforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ethan for Kansas](https://ethanforkansas.com/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0089",
-      "tier": "secondary",
-      "url": "https://www.fhsu.edu/macs/faculty-and-staff/",
-      "title": "Fhsu",
-      "publisher": "Fhsu",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[FHSU Mathematics Faculty & Staff](https://www.fhsu.edu/macs/faculty-and-staff/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0090",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/0b83b105-6458-48ce-a689-c56394359c9d",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"We have to stop settling for the schools and facilities that we have, and we need to start building for schools that we deserve.\" - Hays Post opinion coverage, 2024; https://hayspost.com/posts/0b83b105-6458-48ce-a689-c56394359c9d",
-        "> -- Hays Post, 2024, https://hayspost.com/posts/0b83b105-6458-48ce-a689-c56394359c9d",
-        "[hayspost.com](https://hayspost.com/posts/0b83b105-6458-48ce-a689-c56394359c9d)",
-        "\"source\": \"Hays Post, 2024, https://hayspost.com/posts/0b83b105-6458-48ce-a689-c56394359c9d\","
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0091",
-      "tier": "secondary",
-      "url": "https://core-docs.s3.us-east-1.amazonaws.com/documents/asset/uploaded_file/1196/USD_489/4733695/HMS_2024-2025_Handbook.pdf",
-      "title": "Core-Docs.S3.Us-East-1.Amazonaws",
-      "publisher": "Core-Docs.S3.Us-East-1.Amazonaws",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[core-docs.s3.us-east-1.amazonaws.com](https://core-docs.s3.us-east-1.amazonaws.com/documents/asset/uploaded_file/1196/USD_489/4733695/HMS_2024-2025_Handbook.pdf)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0092",
-      "tier": "secondary",
-      "url": "https://www.hdnews.net/forgetting-the-lesson-of-9-11-is-the-danger-we-face-now-says-ruder/",
-      "title": "Hdnews",
-      "publisher": "Hdnews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.hdnews.net/forgetting-the-lesson-of-9-11-is-the-danger-we-face-now-says-ruder/\","
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0093",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"source\": \"Hays Post, October 25, 2023, https://hayspost.com/posts/7acb9e0e-4c56-4e6f-a618-4312a49cd922\","
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0094",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"source\": \"Hays Post, October 2023, https://hayspost.com/posts/19aa6807-369c-4e64-9c1c-8af9d88c84df\","
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0095",
-      "tier": "social",
-      "url": "https://www.linkedin.com/in/ron-wilson-96762118a/",
-      "title": "Linkedin",
-      "publisher": "Linkedin",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.linkedin.com/in/ron-wilson-96762118a/\"",
-        "LinkedIn: [linkedin.com/in/ron-wilson-96762118a](https://www.linkedin.com/in/ron-wilson-96762118a/)",
-        "[linkedin.com/in/ron-wilson-96762118a](https://www.linkedin.com/in/ron-wilson-96762118a/)"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0096",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=71371",
-      "title": "Tigermedianet",
-      "publisher": "Tigermedianet",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Tiger Media Network article on mascot/branding recommendation, February 21, 2023. Source: https://tigermedianet.com/?p=71371"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0097",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=77425",
-      "title": "Tigermedianet",
-      "publisher": "Tigermedianet",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Tiger Media Network article on HVAC preventative maintenance, February 6, 2024. Source: https://tigermedianet.com/?p=77425"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0098",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/6a4b8354-00f4-4d1b-852c-ad7cdb2d3476",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Hays Post article on 13th Street improvements, September 26, 2024. Source: https://hayspost.com/posts/6a4b8354-00f4-4d1b-852c-ad7cdb2d3476"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0099",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/3af5fd8c-2194-4669-bd41-5bf2742f0558",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Hays Post article on bond project updates, April 23, 2025. Source: https://hayspost.com/posts/3af5fd8c-2194-4669-bd41-5bf2742f0558"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0100",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=87800",
-      "title": "Tigermedianet",
-      "publisher": "Tigermedianet",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Tiger Media Network article on Hays High handbook, July 16, 2025. Source: https://tigermedianet.com/?p=87800"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0101",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=90779",
-      "title": "Tigermedianet",
-      "publisher": "Tigermedianet",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Tiger Media Network article on furniture/playground/device purchases, October 14, 2025. Source: https://tigermedianet.com/?p=90779"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0102",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=93176",
-      "title": "Tigermedianet",
-      "publisher": "Tigermedianet",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Tiger Media Network article on Felten asbestos abatement, December 16, 2025. Source: https://tigermedianet.com/?p=93176"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0103",
-      "tier": "secondary",
-      "url": "https://tigermedianet.com/?p=94701",
-      "title": "Tigermedianet",
-      "publisher": "Tigermedianet",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Tiger Media Network article on Felten Elementary GMP, February 24, 2026. Source: https://tigermedianet.com/?p=94701"
-      ]
-    },
-    {
-      "id": "src-ron-wilson-0118",
-      "tier": "primary",
-      "url": "https://mann.house.gov/about",
-      "title": "Mann.House",
-      "publisher": "Mann.House",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0119",
-      "tier": "primary",
-      "url": "https://haysusa.com/273/Shaun-Musil",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0120",
-      "tier": "primary",
-      "url": "https://haysusa.com/270/Sandy-Jacobs",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0121",
-      "tier": "primary",
-      "url": "https://www.kansashistory.gov/kansapedia/jeff-colyer/20011",
-      "title": "Kansashistory",
-      "publisher": "Kansashistory",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0122",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/ba82fc30-cb69-4a6d-8f09-c3ec5d9d51a7",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0123",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/635f478c-4649-44c1-80d8-631bc0897878",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0124",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/4f225559-3a1c-4499-af0d-d0c7affa85a1",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0125",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/2613aaa8-8055-4feb-9a79-d1b5479babca",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0126",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/8c99812c-9463-4172-9aef-4df43a05b5d9",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0127",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/23c8a445-672d-44c2-be79-5d6dc47a2b3a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0128",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/199257e6-fc97-4089-8a4c-67a87d3422f8",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0129",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/5e878e4beb7f170536019f51",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0130",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/b833cbe0-37a8-4535-be13-b7d1c2ca645a",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0131",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/665c7e1e-0989-4038-b3ed-a1ca37030c6f",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0132",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/ae86883e-49b6-4bb5-af6c-acddd174da30",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0133",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/0ef676f6-e0ff-4a1c-b697-d9f74d3d7649",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0134",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/74087102-4ca2-4d13-89e0-5ddd64e94d6f",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0135",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/66f0b3ef-9525-40e2-a3f2-f74e9deebb43",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0136",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/d484e173-9cdf-49f3-b7fa-5effce503aab",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0137",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/7b0b83c9-2b64-4462-959d-ff904e2d896e",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0138",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/94f59897-4370-450a-b4ed-f5ebbf54a523",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0139",
-      "tier": "secondary",
-      "url": "https://whatreligionisinfo.com/kobach-religion/",
-      "title": "Whatreligionisinfo",
-      "publisher": "Whatreligionisinfo",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0140",
-      "tier": "secondary",
-      "url": "https://sunflowerstatejournal.com/kobach-denounces-vandalism-at-his-church/",
-      "title": "Sunflowerstatejournal",
-      "publisher": "Sunflowerstatejournal",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0141",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/Tracey_Mann",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0142",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/1dbbae4c-f879-499e-bea0-88777d5eeb41",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0143",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/07/09/kansas-insurance-commissioner-vicki-schmidt-initiates-republican-campaign-for-governor/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0144",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/49060a66-e8fc-4755-a296-382a14c00a3d",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0145",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/5e243ec1-847a-40f8-a7dd-665ffe2f85de",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0146",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/8400acf8-32ea-486a-b087-8423d8f728e0",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0147",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0148",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/a828fae7-451a-45b3-aed9-e12596bf13f4",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0149",
-      "tier": "secondary",
-      "url": "https://justfacts.votesmart.org/candidate/biography/172080/roger-marshall",
-      "title": "Justfacts.Votesmart",
-      "publisher": "Justfacts.Votesmart",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0150",
-      "tier": "secondary",
-      "url": "https://barbforkansas.com/about/",
-      "title": "Barbforkansas",
-      "publisher": "Barbforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0151",
-      "tier": "secondary",
-      "url": "https://www.ksn.com/news/your-local-election-hq/election-guide-barbara-k-wasinger-r-kansas-house-district-111/",
-      "title": "Ksn",
-      "publisher": "Ksn",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0152",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0153",
-      "tier": "secondary",
-      "url": "https://archive.hayspost.com/2019/10/31/undersheriff-braun-announces-run-for-ellis-county-sheriff-in-2020/",
-      "title": "Archive.Hayspost",
-      "publisher": "Archive.Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0154",
-      "tier": "secondary",
-      "url": "https://heavy.com/news/2016/08/scott-schwab-michele-caleb-rep-parents-father-dad-mother-mom-family-verruckt-water-slide-kansas-schlitterbahn-photos-death-accident/",
-      "title": "Heavy",
-      "publisher": "Heavy",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0155",
-      "tier": "secondary",
-      "url": "https://hayshighguidon.com/news/2019/10/26/assistant-ellis-county-attorney-aaron-cunningham-speaks-to-students-about-career-in-law/",
-      "title": "Hayshighguidon",
-      "publisher": "Hayshighguidon",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0156",
-      "tier": "secondary",
-      "url": "https://barbwasinger.com/",
-      "title": "Barbwasinger",
-      "publisher": "Barbwasinger",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0157",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/government/2017-08-22/kansas-trial-investigates-religious-discrimination-claim-in-kobachs-office",
-      "title": "Kcur",
-      "publisher": "Kcur",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0158",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/0187e996-15de-4377-95c2-cc428ed058e5",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0159",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/cc4157ce-3ec5-4765-b6c7-84923c7cee55",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0160",
-      "tier": "secondary",
-      "url": "https://about.me/aaron.cunningham",
-      "title": "About",
-      "publisher": "About",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0161",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/08825e68-f663-4a03-96f4-0b2c6f0b4ec7",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0162",
-      "tier": "secondary",
-      "url": "https://www.haysmemorial.com/obituary/Marilyn-KlausLeiker/",
-      "title": "Haysmemorial",
-      "publisher": "Haysmemorial",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0163",
-      "tier": "secondary",
-      "url": "https://www.haysmed.com/provider/derek-m-yarmer-md/",
-      "title": "Haysmed",
-      "publisher": "Haysmed",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0164",
-      "tier": "secondary",
-      "url": "https://kansansformarshall.com/meet-doc/",
-      "title": "Kansansformarshall",
-      "publisher": "Kansansformarshall",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0165",
-      "tier": "secondary",
-      "url": "https://ksopen.org/marshall",
-      "title": "Ksopen",
-      "publisher": "Ksopen",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0166",
-      "tier": "secondary",
-      "url": "https://vickiforgovernor.com/",
-      "title": "Vickiforgovernor",
-      "publisher": "Vickiforgovernor",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0167",
-      "tier": "secondary",
-      "url": "https://www.mastersonforgovernor.com/services",
-      "title": "Mastersonforgovernor",
-      "publisher": "Mastersonforgovernor",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0168",
-      "tier": "secondary",
-      "url": "https://csgmidwest.org/wp-content/uploads/2022/07/sen-masterson.pdf",
-      "title": "Csgmidwest",
-      "publisher": "Csgmidwest",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0169",
-      "tier": "secondary",
-      "url": "https://combatantisemitism.org/interview/its-important-to-understand-the-truth-and-spread-it-kansas-senate-president-ty-masterson-reflects-on-state-lawmakers-delegation-visit-to-israel/",
-      "title": "Combatantisemitism",
-      "publisher": "Combatantisemitism",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0170",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/Jeff_Colyer",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0171",
-      "tier": "secondary",
-      "url": "https://www.jeffcolyer.com/index.html",
-      "title": "Jeffcolyer",
-      "publisher": "Jeffcolyer",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0172",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/Cindy_Holscher",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0173",
-      "tier": "secondary",
-      "url": "https://cindyforkansas.com/about/",
-      "title": "Cindyforkansas",
-      "publisher": "Cindyforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0174",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Jayme_Goetz_(Hays_Unified_School_District_489,_At-large,_Kansas,_candidate_2023",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-ron-wilson-0175",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/a90fb672-f7e5-4826-b5f3-1decd214e83c",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
     }
   ]
 };

@@ -245,30 +245,6 @@ export const DAMON_ANDERSON_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-campaign-issues",
-      "tier": "primary",
-      "url": "https://www.andersonforkansas.com/issues",
-      "title": "Where I Stand",
-      "publisher": "Damon Anderson for U.S. Senate",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign states positions on health care, education, tech, AI, immigration, agriculture, labor, balanced budget, prison reform, privatization, LGBTQ rights, and reproductive rights",
-        "\"url\": \"https://www.andersonforkansas.com/issues\","
-      ]
-    },
-    {
-      "id": "s-campaign-systemfix",
-      "tier": "primary",
-      "url": "https://www.andersonforkansas.com/systemfix",
-      "title": "Fixing the System",
-      "publisher": "Damon Anderson for U.S. Senate",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign supports overturning Citizens United, limiting leadership PACs, banning congressional stock trading, lobbying restrictions, donor disclosure, bill transparency, and national E-Verify",
-        "\"url\": \"https://www.andersonforkansas.com/systemfix\","
-      ]
-    },
-    {
       "id": "src-damon-anderson-0002",
       "tier": "primary",
       "url": "https://www.fec.gov/data/elections/senate/KS/2026/",
@@ -310,28 +286,6 @@ export const DAMON_ANDERSON_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "https://en.wikipedia.org/wiki/2026_United_States_Senate_election_in_Kansas -- Wikipedia election page -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-damon-anderson-0007",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "https://kansasreflector.com/2026/03/08/kansas-democrats-in-u-s-senate-campaign-focus-on-defeating-gop-incumbent/ -- Kansas Reflector March 2026 update -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-damon-anderson-0008",
-      "tier": "secondary",
-      "url": "https://www.andersonforkansas.com/",
-      "title": "Andersonforkansas",
-      "publisher": "Andersonforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"campaignWebsite\": \"https://www.andersonforkansas.com/\","
       ]
     }
   ]

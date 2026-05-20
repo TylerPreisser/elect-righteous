@@ -112,23 +112,15 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW05SJ_202601.pdf\" The disk matrix keeps 14 selected evidence items for this issue, including 7 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kpdc-202601",
           "src-steven-johnson-0002",
           "src-steven-johnson-0003",
           "src-steven-johnson-0004",
           "src-steven-johnson-0005",
-          "src-steven-johnson-0006"
+          "src-steven-johnson-0006",
+          "src-steven-johnson-0007"
         ]
       },
       "actions": [
-        {
-          "id": "em-steven-johnson-00053",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW05SJ_202601.pdf\"",
-          "sourceIds": [
-            "s-kpdc-202601"
-          ]
-        },
         {
           "id": "em-steven-johnson-00111",
           "date": "2026-03-30",
@@ -168,6 +160,14 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
           "sourceIds": [
             "src-steven-johnson-0006"
           ]
+        },
+        {
+          "id": "em-steven-johnson-00190",
+          "date": "Undated",
+          "body": "Vote No Kansas 2026",
+          "sourceIds": [
+            "src-steven-johnson-0007"
+          ]
         }
       ],
       "socialSignals": []
@@ -178,19 +178,10 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW05SJ_202601.pdf\" The disk matrix keeps 5 selected evidence items for this issue, including 2 public URL-backed items and 3 internal-memory items.",
         "sourceIds": [
-          "s-kpdc-202601",
           "src-steven-johnson-0006"
         ]
       },
       "actions": [
-        {
-          "id": "em-steven-johnson-00053",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW05SJ_202601.pdf\"",
-          "sourceIds": [
-            "s-kpdc-202601"
-          ]
-        },
         {
           "id": "em-steven-johnson-00189",
           "date": "Undated",
@@ -293,43 +284,6 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
   "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
   "sources": [
     {
-      "id": "s-state-filing",
-      "tier": "primary",
-      "url": "https://candidatefiling.us/Info/Default?det=Y&e=545606222&j=2795522868&pj=26405586&s=802933811&st=KS",
-      "title": "Candidate Filing Info - State of Kansas statewide offices",
-      "publisher": "Kansas candidate filing mirror / State of Kansas filing data",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Steven Johnson appears as a Republican candidate for Kansas State Treasurer",
-        "The filing entry lists Assaria and links stevenjohnsonks.com",
-        "\"url\": \"https://candidatefiling.us/Info/Default?det=Y&e=545606222&j=2795522868&pj=26405586&s=802933811&st=KS\","
-      ]
-    },
-    {
-      "id": "s-kpdc-statewide",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
-      "title": "Kansas State Wide Office - 2026 Election Cycle",
-      "publisher": "Kansas Governmental Ethics Commission / KPDC",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "KPDC index lists Johnson, Steven under State Treasurer candidates",
-        "KPDC links 2024, 2025, and 2026 reports for Johnson"
-      ]
-    },
-    {
-      "id": "s-kpdc-202601",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW05SJ_202601.pdf",
-      "title": "Steven Johnson 2026 Receipts and Expenditures",
-      "publisher": "Kansas Governmental Ethics Commission / KPDC",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Report provides Johnson's 2025 receipts, expenditures, and cash-on-hand figures for the 2026 cycle",
-        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW05SJ_202601.pdf\","
-      ]
-    },
-    {
       "id": "src-steven-johnson-0002",
       "tier": "secondary",
       "url": "https://ballotpedia.org/Kansas_Treasurer_election,_2026",
@@ -393,40 +347,6 @@ export const STEVEN_JOHNSON_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[Vote No Kansas 2026](https://www.votenokansas.org/)"
-      ]
-    },
-    {
-      "id": "src-steven-johnson-0010",
-      "tier": "secondary",
-      "url": "https://stevenjohnsonks.com/",
-      "title": "Stevenjohnsonks",
-      "publisher": "Stevenjohnsonks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"campaignWebsite\": \"https://stevenjohnsonks.com/\","
-      ]
-    },
-    {
-      "id": "src-steven-johnson-0011",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_state_executive_official_elections,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "https://ballotpedia.org/Kansas_state_executive_official_elections,_2026 -- Statewide executive races overview -- accessed 2026-03-30",
-        "[Ballotpedia — Kansas 2026 State Executive](https://ballotpedia.org/Kansas_state_executive_official_elections,_2026) — accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-steven-johnson-0012",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_gubernatorial_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia — Kansas 2026 Governor](https://ballotpedia.org/Kansas_gubernatorial_election,_2026) — accessed 2026-03-30"
       ]
     }
   ]

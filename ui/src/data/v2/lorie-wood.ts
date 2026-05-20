@@ -267,17 +267,6 @@ export const LORIE_WOOD_V2: CandidateFullV2 = {
   "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
   "sources": [
     {
-      "id": "s-kpdc-sboe-index",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/BOELinksOdd2026EC.htm",
-      "title": "State Board of Education Odd Districts - 2026 Election Cycle",
-      "publisher": "Kansas Governmental Ethics Commission / KPDC",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "KPDC index lists Lorie Wood in District 5"
-      ]
-    },
-    {
       "id": "s-kpdc-at",
       "tier": "primary",
       "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05LW_AT.pdf",
@@ -332,46 +321,6 @@ export const LORIE_WOOD_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Murray's candidate-controlled accounts point readers back to the same campaign network: the campaign website links to Facebook, Instagram, YouTube, and X, while YouTube descriptions repeatedly list ErikForKansas.com and campaign social handles ([harvest](socia"
       ]
-    },
-    {
-      "id": "src-lorie-wood-0007",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_schmidt_patrick_1/",
-      "title": "Kslegislature",
-      "publisher": "Kslegislature",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.kslegislature.gov/li/b2025_26/members/sen_schmidt_patrick_1/\""
-      ]
-    },
-    {
-      "id": "src-lorie-wood-0008",
-      "tier": "social",
-      "url": "https://www.facebook.com/patrickforkansas/",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.facebook.com/patrickforkansas/\""
-      ]
-    },
-    {
-      "id": "src-lorie-wood-0016",
-      "tier": "secondary",
-      "url": "https://erikforkansas.com/news/chiefs",
-      "title": "Erikforkansas",
-      "publisher": "Erikforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-lorie-wood-0017",
-      "tier": "social",
-      "url": "https://www.youtube.com/shorts/7otJxN9_jS8",
-      "title": "Youtube",
-      "publisher": "Youtube",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
     }
   ]
 };

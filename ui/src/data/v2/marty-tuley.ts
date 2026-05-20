@@ -32,7 +32,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented-record evidence: On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted... The disk matrix keeps 26 selected evidence items for this issue, including 1 public URL-backed item and 25 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-todo-old"
+          "s-campaign-platform"
         ]
       },
       "actions": [
@@ -41,7 +41,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted it as part of his moderate-Democrat positioning (source).",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ]
         }
       ],
@@ -52,7 +52,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-lgbt-gender-parental-rights"
         },
@@ -65,16 +65,6 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
             "s-wibw-launch"
           ],
           "mappedToIssueId": "i-lgbt-gender-parental-rights"
-        },
-        {
-          "id": "soc-marty-tuley-0019",
-          "platform": "player.kmaj1440.com",
-          "observation": "KSNT's candidate guide characterized Tuley as a moderate Democrat and summarized his visible issue set as teacher pay, farm-to-table public health, transgender girls' sports, cannabis revenue for schools and health programs, and opposition to large tax breaks for out-of-state corporations (source).",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-marty-tuley-0067"
-          ],
-          "mappedToIssueId": "i-lgbt-gender-parental-rights"
         }
       ]
     },
@@ -84,7 +74,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "stated": {
         "text": "Candidate-stated evidence: Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the s... The disk matrix keeps 30 selected evidence items for this issue, including 6 public URL-backed items and 24 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-todo-old",
+          "s-campaign-platform",
           "s-campaign-home",
           "src-marty-tuley-0001",
           "src-marty-tuley-0021"
@@ -96,7 +86,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the same message into a promise to keep public dollars in public schools and reject private-school tax br...",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ]
         },
         {
@@ -112,7 +102,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education and banning padded football for children under 13 (source). The campaign-distributed EIN Presswire rel...",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ]
         },
         {
@@ -149,7 +139,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the s...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         },
@@ -159,7 +149,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education an...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-education-curriculum-schools"
         },
@@ -193,7 +183,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "stated": {
         "text": "Candidate-stated evidence: Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the s... The disk matrix keeps 25 selected evidence items for this issue, including 2 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-todo-old",
+          "s-campaign-platform",
           "s-campaign-home"
         ]
       },
@@ -203,7 +193,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the same message into a promise to keep public dollars in public schools and reject private-school tax br...",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ]
         },
         {
@@ -222,7 +212,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the s...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
         },
@@ -237,22 +227,12 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "mappedToIssueId": "i-taxes-spending-debt"
         },
         {
-          "id": "soc-marty-tuley-0019",
-          "platform": "player.kmaj1440.com",
-          "observation": "KSNT's candidate guide characterized Tuley as a moderate Democrat and summarized his visible issue set as teacher pay, farm-to-table public health, transgender girls' sports, cannabis revenue for schools and health programs, and opposition to large tax breaks for out-of-state corporations (source).",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-marty-tuley-0067"
-          ],
-          "mappedToIssueId": "i-taxes-spending-debt"
-        },
-        {
           "id": "soc-marty-tuley-0023",
           "platform": "tuley4gov2026.com",
           "observation": "The campaign's public schools page repeats and condenses the education agenda: top-25 national teacher pay, improved benefits, meals, junior college and technical school tuition, administrative-bloat reduction, support-staff pay, school phone limits, keeping public dollars in public schools, no vouchers, and no private-school tax breaks.",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-public-schools-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-taxes-spending-debt"
         }
@@ -265,8 +245,8 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
         "text": "Candidate-stated evidence: \"url\": \"https://www.einpresswire.com/article/824455910/invest-in-kansas-tuley-s-platform-to-rebuild-schools-health-and-economy\" The disk matrix keeps 22 selected evidence items for this issue, including 4 public URL-backed items and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-ein-launch",
-          "s-campaign-todo-old",
-          "s-campaign-about-old"
+          "s-campaign-platform",
+          "s-campaign-home"
         ]
       },
       "actions": [
@@ -283,7 +263,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education and banning padded football for children under 13 (source). The campaign-distributed EIN Presswire rel...",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ]
         },
         {
@@ -291,7 +271,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted it as part of his moderate-Democrat positioning (source).",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ]
         },
         {
@@ -299,7 +279,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "2026-04-01",
           "body": "I believe in strong public schools, growing our local economy, and protecting personal freedoms. - campaign about page, 2026-04-01, tuley4gov2026.com/about-marty - topic: platform.",
           "sourceIds": [
-            "s-campaign-about-old"
+            "s-campaign-home"
           ]
         }
       ],
@@ -310,7 +290,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         },
@@ -320,7 +300,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education an...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         },
@@ -330,7 +310,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "I believe in strong public schools, growing our local economy, and protecting personal freedoms. - campaign about page, 2026-04-01, tuley4gov2026.com/about-marty - topic: platform.",
           "observedAt": "2026-04-01",
           "sourceIds": [
-            "s-campaign-about-old"
+            "s-campaign-home"
           ],
           "mappedToIssueId": "i-economy-jobs-labor"
         },
@@ -396,7 +376,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
         "sourceIds": [
           "s-ein-launch",
           "s-campaign-home",
-          "s-campaign-todo-old",
+          "s-campaign-platform",
           "s-campaign-meet"
         ]
       },
@@ -422,7 +402,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education and banning padded football for children under 13 (source). The campaign-distributed EIN Presswire rel...",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ]
         },
         {
@@ -430,7 +410,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted it as part of his moderate-Democrat positioning (source).",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ]
         },
         {
@@ -457,7 +437,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
@@ -477,7 +457,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education an...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-health-care-insurance-medicaid"
         },
@@ -500,7 +480,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
         "text": "Documented-record evidence: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... The disk matrix keeps 30 selected evidence items for this issue, including 7 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-campaign-todo-old",
+          "s-campaign-platform",
           "s-campaign-meet",
           "src-marty-tuley-0022"
         ]
@@ -519,7 +499,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education and banning padded football for children under 13 (source). The campaign-distributed EIN Presswire rel...",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ]
         },
         {
@@ -527,7 +507,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted it as part of his moderate-Democrat positioning (source).",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ]
         },
         {
@@ -554,7 +534,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
@@ -574,7 +554,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education an...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-election-integrity-voting-courts"
         },
@@ -663,7 +643,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "stated": {
         "text": "Documented-record evidence: Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education an... The disk matrix keeps 19 selected evidence items for this issue, including 7 public URL-backed items and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-todo-old",
+          "s-campaign-platform",
           "s-campaign-meet",
           "s-kansas-reflector-debate",
           "src-marty-tuley-0053"
@@ -675,7 +655,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education and banning padded football for children under 13 (source). The campaign-distributed EIN Presswire rel...",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ]
         },
         {
@@ -710,7 +690,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education an...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
@@ -721,16 +701,6 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observedAt": "2026-05-20",
           "sourceIds": [
             "s-campaign-meet"
-          ],
-          "mappedToIssueId": "i-agriculture-rural-economy-water"
-        },
-        {
-          "id": "soc-marty-tuley-0019",
-          "platform": "player.kmaj1440.com",
-          "observation": "KSNT's candidate guide characterized Tuley as a moderate Democrat and summarized his visible issue set as teacher pay, farm-to-table public health, transgender girls' sports, cannabis revenue for schools and health programs, and opposition to large tax breaks for out-of-state corporations (source).",
-          "observedAt": "2026-05-20",
-          "sourceIds": [
-            "src-marty-tuley-0067"
           ],
           "mappedToIssueId": "i-agriculture-rural-economy-water"
         },
@@ -753,7 +723,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
         "text": "Documented-record evidence: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... The disk matrix keeps 36 selected evidence items for this issue, including 9 public URL-backed items and 27 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-campaign-home",
-          "s-campaign-todo-old",
+          "s-campaign-platform",
           "s-campaign-meet",
           "src-marty-tuley-0055"
         ]
@@ -772,7 +742,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education and banning padded football for children under 13 (source). The campaign-distributed EIN Presswire rel...",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ]
         },
         {
@@ -780,7 +750,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "date": "Undated",
           "body": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted it as part of his moderate-Democrat positioning (source).",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ]
         },
         {
@@ -807,7 +777,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
@@ -827,7 +797,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
           "observation": "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and a broader culture of wellness (source). KCUR / Kansas News Service summarized his campaign in similar terms, noting his support for daily physical education an...",
           "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-campaign-todo-old"
+            "s-campaign-platform"
           ],
           "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
@@ -939,49 +909,8 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Candidate v2 issue file"
   },
-  "socialResearchNote": "35 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
+  "socialResearchNote": "32 public source-backed social/online signals are rendered across the issue matrix. Additional social harvest rows remain on disk and should be treated as observations only, not confirmed policy positions.",
   "sources": [
-    {
-      "id": "s-sos-candidate-info-2026",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/candidate-information.html",
-      "title": "Candidate Information",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Governor/Lt. Governor is listed among offices to be elected or retained in 2026",
-        "Candidates for national, state, legislative, and judicial offices file with the Secretary of State",
-        "A candidate is not considered filed until the petition or declaration and fee are received",
-        "Primary election filing deadline is 12:00 p.m. Monday, June 1, 2026",
-        "| s-sos-candidate-info-2026 | primary | https://www.sos.ks.gov/elections/candidate-information.html | accessed 2026-05-19 | Kansas filing framework; Governor/Lt. Governor office up in 2026; primary filing deadline June 1, 2026; candidate not filed until petiti"
-      ]
-    },
-    {
-      "id": "s-sos-election-dates-2026",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/important-election-dates.html",
-      "title": "Important Election Dates",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Deadline to file as a candidate is 12:00 p.m. June 1, 2026",
-        "2026 primary election is August 4, 2026",
-        "2026 general election is November 3, 2026",
-        "| s-sos-election-dates-2026 | primary | https://www.sos.ks.gov/elections/important-election-dates.html | accessed 2026-05-19 | June 1, 2026 filing deadline; August 4 primary; November 3 general; certification dates | official status |"
-      ]
-    },
-    {
-      "id": "s-sos-candidate-list-blocked",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx",
-      "title": "Candidate List",
-      "publisher": "Kansas Secretary of State",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Attempted official candidate-list readback returned CloudFront 403 in this environment",
-        "| s-sos-candidate-list-blocked | primary | https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx | attempted 2026-05-19 | Official candidate-list endpoint returned CloudFront 403 in this environment | blocker |"
-      ]
-    },
     {
       "id": "s-kpdc-statewide-2026",
       "tier": "primary",
@@ -1050,6 +979,9 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
         "Campaign site is active and identifies Tuley for Governor 2026",
         "Home page frames campaign around building a Kansas worth investing in",
         "Home page previews education, accountable leadership, health, infrastructure, clean energy, and local economic growth",
+        "Still-live older biography page says Tuley is a fourth-generation Kansan",
+        "Page says his family includes farmers, public school teachers, and working people",
+        "Page says he supports strong public schools, growing the local economy, and protecting personal freedoms",
         "narrative: \"*A summary of what Marty Tuley has publicly said, posted, and promoted through campaign-controlled pages, social profiles, and indexed public coverage. Drawn from public campaign pages, campaign-linked social accounts, a campaign-distributed press",
         "Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and",
         "Tuley's economic message is less technocratic than investment-oriented. His campaign home page says Kansas should attract businesses by investing in education, workforce development, and local growth rather than relying on corporate giveaways ([source](https:/",
@@ -1057,7 +989,17 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
         "\"common sense\" - campaign site language, 2026-04-01, https://www.tuley4gov2026.com/ - topic: tone.",
         "| s-campaign-home | primary | https://www.tuley4gov2026.com/ | accessed 2026-05-19 | Active campaign homepage, campaign identity, broad platform preview, donation/support language | biography, status, platform |",
         "| Campaign site | [tuley4gov2026.com](https://www.tuley4gov2026.com/) | Active official campaign site. Footer links to Facebook, TikTok, Instagram, and YouTube. |",
-        "The campaign home page presents Tuley's message as \"Building a Kansas Worth Investing In\" and frames the race around schools, healthier communities, workforce investment, transparent government, infrastructure, clean energy, and local economic growth ([source]"
+        "The campaign home page presents Tuley's message as \"Building a Kansas Worth Investing In\" and frames the race around schools, healthier communities, workforce investment, transparent government, infrastructure, clean energy, and local economic growth ([source]",
+        "| s-campaign-about-old | primary | https://www.tuley4gov2026.com/about-marty | accessed 2026-05-19 | Still-live older biography page; fourth-generation Kansan; farmers/teachers/working family; public schools/local economy/freedoms | biography |",
+        "\"I believe in strong public schools, growing our local economy, and protecting personal freedoms.\" - campaign about page, 2026-04-01, [tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty) - topic: platform.",
+        "\"I'm a fourth-generation Kansan with deep roots in our state's soil and values.\" - campaign about page, 2026-04-01, [tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty) - topic: identity.",
+        "\"I'm not here to play party politics. I'm here to lead - with common sense, straight talk, and Kansas values.\" - campaign about page, 2026-04-01, [tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty) - topic: campaign message.",
+        "> -- Tuley campaign about page, April 1, 2026, https://www.tuley4gov2026.com/about-marty",
+        "\"source\": \"Tuley campaign about page, April 1, 2026, https://www.tuley4gov2026.com/about-marty\",",
+        "[tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty)",
+        "\"campaignWebsite\": \"https://www.tuley4gov2026.com/about-marty\",",
+        "Campaign website: Active at https://www.tuley4gov2026.com/. The current home page says the campaign is about \"Building a Kansas Worth Investing In\" and links social icons. Earlier still-live pages at /about-marty, /to-do-list, /public-schools, /health-and-fitn",
+        "Campaign site active: https://www.tuley4gov2026.com/ is active and identifies the campaign as \"Tuley for Governor 2026.\""
       ]
     },
     {
@@ -1087,58 +1029,17 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
         "Page says public dollars should stay in public schools with no vouchers, privatization, or private-school tax breaks",
         "Page calls for legal marijuana with revenue for education and health programs",
         "Page uses broad language on fair and consistent standards in school athletics",
-        "| s-campaign-platform | primary | https://www.tuley4gov2026.com/platform | accessed 2026-05-19 | Current-nav platform page: education, health, economy, infrastructure/energy, accountable leadership | platform |"
-      ]
-    },
-    {
-      "id": "s-campaign-about-old",
-      "tier": "primary",
-      "url": "https://www.tuley4gov2026.com/about-marty",
-      "title": "About Marty",
-      "publisher": "Tuley for Governor 2026",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Still-live older biography page says Tuley is a fourth-generation Kansan",
-        "Page says his family includes farmers, public school teachers, and working people",
-        "Page says he supports strong public schools, growing the local economy, and protecting personal freedoms",
-        "| s-campaign-about-old | primary | https://www.tuley4gov2026.com/about-marty | accessed 2026-05-19 | Still-live older biography page; fourth-generation Kansan; farmers/teachers/working family; public schools/local economy/freedoms | biography |",
-        "\"I believe in strong public schools, growing our local economy, and protecting personal freedoms.\" - campaign about page, 2026-04-01, [tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty) - topic: platform.",
-        "\"I'm a fourth-generation Kansan with deep roots in our state's soil and values.\" - campaign about page, 2026-04-01, [tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty) - topic: identity.",
-        "\"I'm not here to play party politics. I'm here to lead - with common sense, straight talk, and Kansas values.\" - campaign about page, 2026-04-01, [tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty) - topic: campaign message.",
-        "> -- Tuley campaign about page, April 1, 2026, https://www.tuley4gov2026.com/about-marty",
-        "\"source\": \"Tuley campaign about page, April 1, 2026, https://www.tuley4gov2026.com/about-marty\",",
-        "[tuley4gov2026.com/about-marty](https://www.tuley4gov2026.com/about-marty)",
-        "\"campaignWebsite\": \"https://www.tuley4gov2026.com/about-marty\","
-      ]
-    },
-    {
-      "id": "s-campaign-todo-old",
-      "tier": "primary",
-      "url": "https://www.tuley4gov2026.com/to-do-list",
-      "title": "My Platform",
-      "publisher": "Tuley for Governor 2026",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
         "Still-live older platform page lists detailed bullets on education, health and fitness, economics and tax policy, infrastructure and energy, and governance",
         "Page says Tuley supports transgender rights but opposes transgender girls competing in sports with biological girls",
         "Page says he supports making voting easy and accessible, including electronic options",
+        "Still-live older public-schools page calls for top-25 teacher pay, teacher benefits, school meals, junior-college/technical-school tuition, support staff, and no vouchers/private-school tax breaks",
         "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls ([source](https://www.tuley4gov2026.com/to-do-list)). T",
         "Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones d",
         "Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and",
         "| s-campaign-todo-old | primary | https://www.tuley4gov2026.com/to-do-list | accessed 2026-05-19 | Still-live older platform page; detailed bullet list including transgender-rights/sports language and electronic voting options | platform, website-version cavea",
         "| Campaign platform | [tuley4gov2026.com/to-do-list](https://www.tuley4gov2026.com/to-do-list) and [public schools page](https://www.tuley4gov2026.com/public-schools) | Candidate-controlled platform text indexed publicly; detailed education, health, tax, energ",
-        "The most detailed candidate-controlled issue record is the campaign platform indexed at [tuley4gov2026.com/to-do-list](https://www.tuley4gov2026.com/to-do-list). The indexed page groups 27 bullet-level positions into five clusters:"
-      ]
-    },
-    {
-      "id": "s-campaign-public-schools-old",
-      "tier": "primary",
-      "url": "https://www.tuley4gov2026.com/public-schools",
-      "title": "Public Schools",
-      "publisher": "Tuley for Governor 2026",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "Still-live older public-schools page calls for top-25 teacher pay, teacher benefits, school meals, junior-college/technical-school tuition, support staff, and no vouchers/private-school tax breaks",
+        "The most detailed candidate-controlled issue record is the campaign platform indexed at [tuley4gov2026.com/to-do-list](https://www.tuley4gov2026.com/to-do-list). The indexed page groups 27 bullet-level positions into five clusters:",
+        "| s-campaign-platform | primary | https://www.tuley4gov2026.com/platform | accessed 2026-05-19 | Current-nav platform page: education, health, economy, infrastructure/energy, accountable leadership | platform |",
         "| s-campaign-public-schools-old | primary | https://www.tuley4gov2026.com/public-schools | accessed 2026-05-19 | Still-live older public-schools page: teacher pay, meals, tuition, support staff, no vouchers/private-school tax breaks | education |",
         "The campaign's [public schools page](https://www.tuley4gov2026.com/public-schools) repeats and condenses the education agenda: top-25 national teacher pay, improved benefits, meals, junior college and technical school tuition, administrative-bloat reduction, s"
       ]
@@ -1176,22 +1077,6 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "s-kcur-guide",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates",
-      "title": "Who's running for Kansas governor in 2026? Here's a guide to the candidates",
-      "publisher": "KCUR / Kansas News Service",
-      "accessed": "2026-05-19",
-      "claimsAnchored": [
-        "KCUR/Kansas News Service described Tuley as an author and personal trainer in Lawrence",
-        "Guide summarized cannabis, education/health revenue, corporate incentives, daily PE, and padded football positions",
-        "| s-kcur-guide | secondary | https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates | published 2025-07-24; accessed 2026-05-19 | Kansas News Service/KCUR candidate guide; Tuley described as author/perso",
-        "[KCUR: Kansas governor 2026 guide (July 24, 2025)](https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates)",
-        "https://www.kcur.org/politics-elections-and-government/2025-07-24/kansas-governor-race-2026-election-candidates -- KCUR candidate guide -- accessed 2026-03-30",
-        "KCUR / Kansas News Service's governor race guide described Tuley as an author and personal trainer in Lawrence and summarized his platform around recreational cannabis, education and health revenue, corporate incentives, daily physical education, and banning p"
-      ]
-    },
-    {
       "id": "s-kansas-reflector-debate",
       "tier": "secondary",
       "url": "https://kansasreflector.com/2026/03/08/democrats-in-governors-race-use-debate-stage-to-spotlight-affordability-health-care-rural-kansas/",
@@ -1219,102 +1104,6 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-marty-tuley-0002",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/335/Public-Library-Board",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Public Library Board](https://www.haysusa.com/335/Public-Library-Board)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0003",
-      "tier": "primary",
-      "url": "https://www.usd489.com",
-      "title": "Usd489",
-      "publisher": "Usd489",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| Hays USD 489 | 785-623-2400 | [usd489.com](https://www.usd489.com) |",
-        "[usd489.com](https://www.usd489.com)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0009",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/425/Election",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ellis County Election Page](https://www.ellisco.net/425/Election)",
-        "| Ellis County Clerk (Election Office) | 785-628-9410 | [ellisco.net/425/Election](https://www.ellisco.net/425/Election) |"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0010",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/626/Candidate-Filings",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ellis County Candidate Filings](https://www.ellisco.net/626/Candidate-Filings)",
-        "Recommended action: Call the Ellis County Clerk at 785-628-9410 or check [ellisco.net/626/Candidate-Filings](https://www.ellisco.net/626/Candidate-Filings) after June 1, 2026 for the definitive candidate list.",
-        "[ellisco.net/626](https://www.ellisco.net/626/Candidate-Filings)",
-        "IMPORTANT CAVEAT: Contact the Ellis County Clerk (785-628-9410) to confirm exactly which offices appear on the 2026 ballot. The Candidate Filings page at [ellisco.net/626](https://www.ellisco.net/626/Candidate-Filings) will show declared candidates once filing"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0011",
-      "tier": "primary",
-      "url": "https://sos.ks.gov/elections/important-election-dates.html",
-      "title": "Sos.Ks",
-      "publisher": "Sos.Ks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Secretary of State: Important Election Dates](https://sos.ks.gov/elections/important-election-dates.html)",
-        "https://sos.ks.gov/elections/important-election-dates.html -- Official election dates -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0012",
-      "tier": "primary",
-      "url": "https://www.haysusa.com/269/City-Commission",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays City Commission Official Page](https://www.haysusa.com/269/City-Commission)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0013",
-      "tier": "primary",
-      "url": "https://www.ellisco.net/120/County-Commission",
-      "title": "Ellisco",
-      "publisher": "Ellisco",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ellis County Commission Page](https://www.ellisco.net/120/County-Commission)",
-        "\"url\": \"https://www.ellisco.net/120/County-Commission\""
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0014",
-      "tier": "primary",
-      "url": "https://haysusa.com",
-      "title": "Haysusa",
-      "publisher": "Haysusa",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| City of Hays | 785-628-7320 | [haysusa.com](https://haysusa.com) |",
-        "[haysusa.com](https://haysusa.com)"
-      ]
-    },
-    {
       "id": "src-marty-tuley-0021",
       "tier": "secondary",
       "url": "https://ballotpedia.org/Hays_Unified_School_District_489,_Kansas,_elections",
@@ -1337,289 +1126,6 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-marty-tuley-0023",
-      "tier": "secondary",
-      "url": "https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/",
-      "title": "Realmediakc",
-      "publisher": "Realmediakc",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.realmediakc.com/podcast/philip-sarnecki-for-kansas-governor-faith-business-outsider-vision/\""
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0027",
-      "tier": "secondary",
-      "url": "https://www.tuley4gov2026.com/`",
-      "title": "Tuley4gov2026",
-      "publisher": "Tuley4gov2026",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign website: Active at https://www.tuley4gov2026.com/. The current home page says the campaign is about \"Building a Kansas Worth Investing In\" and links social icons. Earlier still-live pages at /about-marty, /to-do-list, /public-schools, /health-and-fitn",
-        "Campaign site active: https://www.tuley4gov2026.com/ is active and identifies the campaign as \"Tuley for Governor 2026.\""
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0029",
-      "tier": "secondary",
-      "url": "https://www.tuley4gov2026.com",
-      "title": "Tuley4gov2026",
-      "publisher": "Tuley4gov2026",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Website: [tuley4gov2026.com](https://www.tuley4gov2026.com)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0030",
-      "tier": "secondary",
-      "url": "https://ethanforkansas.com",
-      "title": "Ethanforkansas",
-      "publisher": "Ethanforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Website: [ethanforkansas.com](https://ethanforkansas.com)",
-        "[ethanforkansas.com](https://ethanforkansas.com)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0031",
-      "tier": "secondary",
-      "url": "https://cindyforkansas.com",
-      "title": "Cindyforkansas",
-      "publisher": "Cindyforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Website: [cindyforkansas.com](https://cindyforkansas.com)",
-        "[cindyforkansas.com](https://cindyforkansas.com)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0032",
-      "tier": "secondary",
-      "url": "https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/",
-      "title": "Johnsoncountypost",
-      "publisher": "Johnsoncountypost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "> -- [Johnson County Post, March 13, 2023](https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/)",
-        "> -- [Johnson County Post, 2023](https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/)",
-        "\"url\": \"https://johnsoncountypost.com/2023/03/13/capitol-update-sen-cindy-holscher-voucher-bill-196217/\""
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0033",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/08/01/kansas-governor-candidate-cindy-holscher-objects-to-alleged-pressure-campaign-by-kellys-staff/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "> -- [Kansas Reflector, August 1, 2025](https://kansasreflector.com/2025/08/01/kansas-governor-candidate-cindy-holscher-objects-to-alleged-pressure-campaign-by-kellys-staff/)",
-        "[Kansas Reflector: Kelly staff pressure (Aug 1, 2025)](https://kansasreflector.com/2025/08/01/kansas-governor-candidate-cindy-holscher-objects-to-alleged-pressure-campaign-by-kellys-staff/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0034",
-      "tier": "secondary",
-      "url": "https://www.cindyforsenateks.com/",
-      "title": "Cindyforsenateks",
-      "publisher": "Cindyforsenateks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Senate page: [cindyforsenateks.com](https://www.cindyforsenateks.com/)",
-        "[cindyforsenateks.com](https://www.cindyforsenateks.com/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0035",
-      "tier": "secondary",
-      "url": "https://oharaforkansas.com",
-      "title": "Oharaforkansas",
-      "publisher": "Oharaforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Website: [oharaforkansas.com](https://oharaforkansas.com)",
-        "Campaign Website: [oharaforkansas.com](https://oharaforkansas.com) -- includes extensive columns and policy positions",
-        "[oharaforkansas.com](https://oharaforkansas.com)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0036",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "> -- [Kansas Reflector, November 28, 2025](https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/)",
-        "[Kansas Reflector: Dozens of columns (Nov 28, 2025)](https://kansasreflector.com/2025/11/28/its-an-honesty-dozens-of-columns-voice-the-politics-of-one-candidate-for-kansas-governor/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0037",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/02/16/kansas-gop-candidate-for-governor-says-state-needs-a-true-conservative/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "> -- [Kansas Reflector, February 16, 2026](https://kansasreflector.com/2026/02/16/kansas-gop-candidate-for-governor-says-state-needs-a-true-conservative/)",
-        "[Kansas Reflector: O'Hara \"true conservative\" (Feb 16, 2026)](https://kansasreflector.com/2026/02/16/kansas-gop-candidate-for-governor-says-state-needs-a-true-conservative/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0038",
-      "tier": "secondary",
-      "url": "https://stacyrogersforks.com",
-      "title": "Stacyrogersforks",
-      "publisher": "Stacyrogersforks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Website: [stacyrogersforks.com](https://stacyrogersforks.com)",
-        "[stacyrogersforks.com](https://stacyrogersforks.com)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0039",
-      "tier": "secondary",
-      "url": "https://www.kansascomeback.com",
-      "title": "Kansascomeback",
-      "publisher": "Kansascomeback",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Website: [kansascomeback.com](https://www.kansascomeback.com)",
-        "[kansascomeback.com](https://www.kansascomeback.com)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0040",
-      "tier": "secondary",
-      "url": "https://www.ksn.com/news/your-local-election-hq/joy-eakins-announces-bid-for-kansas-governor/",
-      "title": "Ksn",
-      "publisher": "Ksn",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "> -- [KSN News](https://www.ksn.com/news/your-local-election-hq/joy-eakins-announces-bid-for-kansas-governor/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0041",
-      "tier": "secondary",
-      "url": "https://philipsarnecki.org",
-      "title": "Philipsarnecki",
-      "publisher": "Philipsarnecki",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Campaign Website: [philipsarnecki.org](https://philipsarnecki.org)",
-        "[philipsarnecki.org](https://philipsarnecki.org)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0042",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/09/latest-kansas-campaign-finance-reports-schwab-takes-in-1-3m-corson-receives-900k/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Campaign finance reports (Jan 9, 2026)](https://kansasreflector.com/2026/01/09/latest-kansas-campaign-finance-reports-schwab-takes-in-1-3m-corson-receives-900k/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0043",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/10/06/kansas-senator-leans-into-bipartisan-allure-in-campaign-for-kansas-governor/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Kansas Reflector: Bipartisan allure (Oct 6, 2025)](https://kansasreflector.com/2025/10/06/kansas-senator-leans-into-bipartisan-allure-in-campaign-for-kansas-governor/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0044",
-      "tier": "secondary",
-      "url": "https://johnsoncountypost.com/2024/11/05/county-commission-races-2024-general-246243/",
-      "title": "Johnsoncountypost",
-      "publisher": "Johnsoncountypost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Johnson County Post: 2024 election results (Nov 5, 2024)](https://johnsoncountypost.com/2024/11/05/county-commission-races-2024-general-246243/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0045",
-      "tier": "secondary",
-      "url": "https://www.ksn.com/news/your-local-election-hq/republican-woman-wants-to-be-next-kansas-governor/",
-      "title": "Ksn",
-      "publisher": "Ksn",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KSN: Republican woman for governor](https://www.ksn.com/news/your-local-election-hq/republican-woman-wants-to-be-next-kansas-governor/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0046",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: 2026 Kansas gubernatorial election](https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026)",
-        "[Ballotpedia: KS Governor 2026](https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026)",
-        "https://ballotpedia.org/Kansas_gubernatorial_and_lieutenant_gubernatorial_election,_2026 -- Full candidate list, election timeline -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0047",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Wikipedia: 2026 Kansas gubernatorial election](https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election)",
-        "[Wikipedia: 2026 KS Gubernatorial](https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election)",
-        "https://en.wikipedia.org/wiki/2026_Kansas_gubernatorial_election -- Candidate details and background -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0048",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2025 Election Results](https://hayspost.com/posts/27dd42ff-4f55-4a66-8957-7259a3e90c28)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0049",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: 2024 Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
-        "[Hays Post: 2024 General Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0050",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_2026_ballot_measures",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: KS 2026 Ballot Measures](https://ballotpedia.org/Kansas_2026_ballot_measures)"
-      ]
-    },
-    {
       "id": "src-marty-tuley-0051",
       "tier": "secondary",
       "url": "https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026",
@@ -1628,17 +1134,6 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "[Ballotpedia: Supreme Court Justices Amendment](https://ballotpedia.org/Kansas_Elections_for_Supreme_Court_Justices_Amendment_(August_2026))"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0052",
-      "tier": "secondary",
-      "url": "https://www.votenokansas.org/",
-      "title": "Votenokansas",
-      "publisher": "Votenokansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Vote No Kansas 2026](https://www.votenokansas.org/)"
       ]
     },
     {
@@ -1651,17 +1146,6 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "[Kansas Reflector: Rural voter appeal (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)",
         "[Kansas Reflector: Rural voters (Nov 25, 2025)](https://kansasreflector.com/2025/11/25/kansas-democratic-candidates-for-governor-shaping-2026-campaigns-to-entice-rural-voters/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0054",
-      "tier": "secondary",
-      "url": "https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/",
-      "title": "Schooleymitchell",
-      "publisher": "Schooleymitchell",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Schooley Mitchell: Eberly Farm / Kids Closet story](https://www.schooleymitchell.com/news/rholter/feature-story-eberly-farm-and-kids-closet-connection/)"
       ]
     },
     {
@@ -1678,83 +1162,6 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       ]
     },
     {
-      "id": "src-marty-tuley-0056",
-      "tier": "secondary",
-      "url": "https://johnsoncountypost.com/2025/03/10/charlotte-ohara-kansas-governor-bid-254803/",
-      "title": "Johnsoncountypost",
-      "publisher": "Johnsoncountypost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Johnson County Post: O'Hara governor bid (March 10, 2025)](https://johnsoncountypost.com/2025/03/10/charlotte-ohara-kansas-governor-bid-254803/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0057",
-      "tier": "secondary",
-      "url": "https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/",
-      "title": "Trendingpoliticsnews",
-      "publisher": "Trendingpoliticsnews",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Trending Politics: Frontrunner emerges](https://trendingpoliticsnews.com/new-frontrunner-emerges-in-key-race-as-gop-candidate-shatters-fundraising-records-mace/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0058",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/eb1182bd-00f4-4751-912d-03481e2570d8",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Commission Sworn In](https://hayspost.com/posts/eb1182bd-00f4-4751-912d-03481e2570d8)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0059",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Commission Salary Adjustments 2026](https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0060",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Ellis County Canvass 2025](https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0061",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas_State_Senate_District_38",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: KS Senate District 38](https://ballotpedia.org/Kansas_State_Senate_District_38)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0062",
-      "tier": "secondary",
-      "url": "https://haysmedfoundation.org/board/",
-      "title": "Haysmedfoundation",
-      "publisher": "Haysmedfoundation",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[HaysMed Foundation Board](https://haysmedfoundation.org/board/)"
-      ]
-    },
-    {
       "id": "src-marty-tuley-0063",
       "tier": "secondary",
       "url": "https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor",
@@ -1764,700 +1171,6 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "[NOLN: Strickland Brothers franchise owner](https://www.noln.net/site-placement/latest-news/news/55314781/strickland-brothers-10-minute-oil-change-franchise-owner-running-for-kansas-governor)"
       ]
-    },
-    {
-      "id": "src-marty-tuley-0065",
-      "tier": "primary",
-      "url": "https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx`",
-      "title": "Sos.Ks",
-      "publisher": "Sos.Ks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Blocked: s-sos-candidate-list-blocked. Direct curl readback of https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx returned HTTP 403 from CloudFront. No direct SOS candidate-table row was captured."
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0067",
-      "tier": "secondary",
-      "url": "https://player.kmaj1440.com/2025/08/01/who-is-running-for-governor-in-kansas-for-2026/",
-      "title": "Player.Kmaj1440",
-      "publisher": "Player.Kmaj1440",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "KSNT's candidate guide characterized Tuley as a moderate Democrat and summarized his visible issue set as teacher pay, farm-to-table public health, transgender girls' sports, cannabis revenue for schools and health programs, and opposition to large tax breaks"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0068",
-      "tier": "social",
-      "url": "https://www.tiktok.com/@tuley_for_gov",
-      "title": "Tiktok",
-      "publisher": "Tiktok",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "The public social footprint is broad enough to confirm official channels, but uneven in what it exposes. The campaign site links Facebook, TikTok, Instagram, and YouTube ([harvest](social-harvest.md#official-campaign-site-and-social-links)). TikTok is the stro",
-        "TikTok was the strongest account-level public social signal in the harvest. The official campaign-linked profile [@tuley_for_gov](https://www.tiktok.com/@tuley_for_gov) exposed:",
-        "| s-tiktok | social | https://www.tiktok.com/@tuley_for_gov | captured locally 2026-05-11; reviewed 2026-05-19 | Campaign-linked TikTok account metadata: followers/following/likes/video count; post-level text unavailable | social presence |",
-        "| TikTok | [@tuley_for_gov](https://www.tiktok.com/@tuley_for_gov) | Officially linked from campaign site. Public metadata captured 1,936 followers, 132 following, 10.4K likes, and 185 videos. Bio/signature: \"Hi, my name is Martin Tuley, and I'm fighting for K",
-        "[TikTok: @tuley_for_gov](https://www.tiktok.com/@tuley_for_gov)",
-        "The highest measurable public engagement signal found on candidate-controlled social was TikTok account-level engagement: 10.4K likes across 185 videos on [@tuley_for_gov](https://www.tiktok.com/@tuley_for_gov), captured 2026-05-11. No post-level TikTok, Faceb"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0069",
-      "tier": "social",
-      "url": "https://x.com/TuleyMarty",
-      "title": "X",
-      "publisher": "X",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| s-x-adjacent | social | https://x.com/TuleyMarty | captured locally 2026-05-11; reviewed 2026-05-19 | Identity-adjacent X profile not linked from campaign site; local capture showed 0 statuses | social absence |",
-        "Audience response can only be measured at the account level from the accessible public data. The highest visible engagement signal was TikTok's 10.4K account likes across 185 videos as of May 11, 2026 ([harvest](social-harvest.md#highest-visible-engagement)).",
-        "| X / Twitter | [@TuleyMarty](https://x.com/TuleyMarty) | Not linked from campaign site. Public X state showed display name \"Marty Tuley,\" 7 followers, 9 following, 0 statuses, created 2022-08-21. Treated as identity-adjacent, not a current campaign channel. |",
-        "The X account [@TuleyMarty](https://x.com/TuleyMarty), not linked from the campaign site, showed 0 statuses and therefore no visible campaign engagement."
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0070",
-      "tier": "social",
-      "url": "https://www.facebook.com/martytuley/",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "The official campaign site links to [facebook.com/martytuley](https://www.facebook.com/martytuley/). Logged-out page capture confirmed the title/profile name \"Marty Tuley,\" but Facebook returned browser and login walls for post access. No reliable public post",
-        "Older project data and candidate registry sources also list a Facebook profile id URL, but the current campaign site link is the clearer official link: [facebook.com/martytuley](https://www.facebook.com/martytuley/).",
-        "| s-facebook | social | https://www.facebook.com/martytuley/ | captured locally 2026-05-11; reviewed 2026-05-19 | Campaign-linked Facebook page shell; post-level content blocked/gated | social presence |",
-        "| Facebook | [facebook.com/martytuley](https://www.facebook.com/martytuley/) | Officially linked from campaign site. Logged-out capture confirmed page title/profile name \"Marty Tuley,\" but Facebook blocked post harvest behind browser/login controls. |",
-        "[Facebook: martytuley](https://www.facebook.com/martytuley/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0071",
-      "tier": "social",
-      "url": "https://www.instagram.com/tuley_for_gov",
-      "title": "Instagram",
-      "publisher": "Instagram",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "The official campaign site links to [@tuley_for_gov](https://www.instagram.com/tuley_for_gov). Logged-out public HTML confirmed the username. Instagram did not expose a reliable profile biography, post count, post captions, dates, likes, comments, or follower",
-        "| s-instagram | social | https://www.instagram.com/tuley_for_gov | captured locally 2026-05-11; reviewed 2026-05-19 | Campaign-linked Instagram username; post-level content unavailable | social presence |",
-        "[Instagram](https://www.instagram.com/tuley_for_gov)",
-        "| Instagram | [@tuley_for_gov](https://www.instagram.com/tuley_for_gov) | Officially linked from campaign site. Logged-out HTML confirmed username only; post count, biography, captions, and engagement were not available in the public capture. |",
-        "[Instagram: @tuley_for_gov](https://www.instagram.com/tuley_for_gov)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0072",
-      "tier": "social",
-      "url": "https://www.youtube.com/@MartyTuley",
-      "title": "Youtube",
-      "publisher": "Youtube",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "The official campaign site links to [@MartyTuley](https://www.youtube.com/@MartyTuley). The YouTube page shell resolved to channel id UCpnusTotgwhGo_9_wH8soHg, but the public logged-out capture did not expose usable video titles, dates, views, or descriptions.",
-        "| s-youtube | social | https://www.youtube.com/@MartyTuley | captured locally 2026-05-11; reviewed 2026-05-19 | Campaign-linked YouTube shell/channel lead; post-level video metadata unavailable | social presence |",
-        "[YouTube](https://www.youtube.com/@MartyTuley)",
-        "| YouTube | [@MartyTuley](https://www.youtube.com/@MartyTuley) | Officially linked from campaign site. Public channel shell confirmed channel id UCpnusTotgwhGo_9_wH8soHg; post-level video list was not exposed in the capture. Third-party index [IDCrawl](https:/",
-        "[YouTube: @MartyTuley](https://www.youtube.com/@MartyTuley)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0074",
-      "tier": "primary",
-      "url": "https://sos.ks.gov/elections/elections.html",
-      "title": "Sos.Ks",
-      "publisher": "Sos.Ks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "| Kansas Secretary of State | 785-296-4564 | [sos.ks.gov/elections](https://sos.ks.gov/elections/elections.html) |",
-        "[sos.ks.gov/elections](https://sos.ks.gov/elections/elections.html)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0075",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_corson_ethan_1/",
-      "title": "Kslegislature",
-      "publisher": "Kslegislature",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.kslegislature.gov/li/b2025_26/members/sen_corson_ethan_1/\""
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0076",
-      "tier": "secondary",
-      "url": "https://ministryofinfluence.org/candidates/martin-tuley/",
-      "title": "Ministryofinfluence",
-      "publisher": "Ministryofinfluence",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "https://ministryofinfluence.org/candidates/martin-tuley/",
-        "\"Kansas works best when it works for everyone\" - Ministry of Influence profile, 2026-04-01, https://ministryofinfluence.org/candidates/martin-tuley/ - topic: governing philosophy.",
-        "[ministryofinfluence.org](https://ministryofinfluence.org/candidates/martin-tuley/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0077",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "> -- [Kansas Reflector, January 30, 2026](https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/)",
-        "[Kansas Reflector: GOP debate (Jan 30, 2026)](https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/)",
-        "https://kansasreflector.com/2026/01/30/six-kansas-gop-candidates-for-governor-toss-haymakers-in-first-debate-find-unity-on-key-issues/ -- GOP debate coverage (Jan 2026) -- accessed 2026-03-30"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0078",
-      "tier": "secondary",
-      "url": "https://cindyforkansas.com/endorsements/",
-      "title": "Cindyforkansas",
-      "publisher": "Cindyforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[cindyforkansas.com/endorsements](https://cindyforkansas.com/endorsements/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0079",
-      "tier": "secondary",
-      "url": "https://www.amazon.com/Get-Off-Your-Ass-Definitive/dp/1591201292",
-      "title": "Amazon",
-      "publisher": "Amazon",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Amazon: Get Off Your Ass!](https://www.amazon.com/Get-Off-Your-Ass-Definitive/dp/1591201292)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0080",
-      "tier": "secondary",
-      "url": "https://www.amazon.com/Busting-Your-Butt-Gut-Minimizing/dp/1591202086",
-      "title": "Amazon",
-      "publisher": "Amazon",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Amazon: Busting Your Butt and Gut](https://www.amazon.com/Busting-Your-Butt-Gut-Minimizing/dp/1591202086)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0081",
-      "tier": "secondary",
-      "url": "https://www.readhowyouwant.com/authors/details/Marty-Tuley/6407",
-      "title": "Readhowyouwant",
-      "publisher": "Readhowyouwant",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[ReadHowYouWant: Tuley biography](https://www.readhowyouwant.com/authors/details/Marty-Tuley/6407)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0082",
-      "tier": "secondary",
-      "url": "https://www2.ljworld.com/news/2003/mar/27/legal_battles_weigh/",
-      "title": "Www2.Ljworld",
-      "publisher": "Www2.Ljworld",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Lawrence Journal-World: Total Fitness legal battles (2003)](https://www2.ljworld.com/news/2003/mar/27/legal_battles_weigh/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0083",
-      "tier": "secondary",
-      "url": "https://openpowerlifting.org/u/martytuley",
-      "title": "Openpowerlifting",
-      "publisher": "Openpowerlifting",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Open Powerlifting: Marty Tuley](https://openpowerlifting.org/u/martytuley)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0084",
-      "tier": "secondary",
-      "url": "https://www.tuley4gov2026.com/contact",
-      "title": "Tuley4gov2026",
-      "publisher": "Tuley4gov2026",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[tuley4gov2026.com](https://www.tuley4gov2026.com/contact)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0085",
-      "tier": "secondary",
-      "url": "https://cornerstonedata.com/about-us/",
-      "title": "Cornerstonedata",
-      "publisher": "Cornerstonedata",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Cornerstone Data: About Us](https://cornerstonedata.com/about-us/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0086",
-      "tier": "secondary",
-      "url": "https://wltreport.com/2026/03/18/meet-republican-businessman-outsider-running-kansas-governor-gaining/",
-      "title": "Wltreport",
-      "publisher": "Wltreport",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[WLT Report: Meet the Republican businessman outsider (March 18, 2026)](https://wltreport.com/2026/03/18/meet-republican-businessman-outsider-running-kansas-governor-gaining/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0087",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/7bf9c6e7-b64c-4412-ba77-c1174d969816",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Hays Post: Harbin Retires](https://hayspost.com/posts/7bf9c6e7-b64c-4412-ba77-c1174d969816)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0088",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: KS US Senate 2026](https://ballotpedia.org/United_States_Senate_election_in_Kansas,_2026)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0089",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Kansas",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[Ballotpedia: KS-01 2026](https://ballotpedia.org/Kansas'_1st_Congressional_District_election,_2026)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0090",
-      "tier": "secondary",
-      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
-      "title": "Kcur",
-      "publisher": "Kcur",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[KCUR: Senate Candidates Guide](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0091",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/11/17/gov-laura-kelly-offers-formal-endorsement-of-democratic-sen-ethan-corson-for-governor/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://kansasreflector.com/2025/11/17/gov-laura-kelly-offers-formal-endorsement-of-democratic-sen-ethan-corson-for-governor/\""
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0092",
-      "tier": "social",
-      "url": "https://www.facebook.com/profile.php?id=100088545015076",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "The site links public social accounts on [Facebook](https://www.facebook.com/profile.php?id=100088545015076), [Instagram](https://www.instagram.com/tuley_for_gov), [YouTube](https://www.youtube.com/@MartyTuley), and [TikTok](http://www.tiktok.com/@tuley_for_go",
-        "https://www.facebook.com/profile.php?id=100088545015076",
-        "[Facebook](https://www.facebook.com/profile.php?id=100088545015076)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0093",
-      "tier": "social",
-      "url": "https://www.instagram.com/ethanforkansas/",
-      "title": "Instagram",
-      "publisher": "Instagram",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Instagram: [@ethanforkansas](https://www.instagram.com/ethanforkansas/) (331 followers reported)",
-        "[@ethanforkansas](https://www.instagram.com/ethanforkansas/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0094",
-      "tier": "social",
-      "url": "https://www.linkedin.com/in/ethancorson/",
-      "title": "Linkedin",
-      "publisher": "Linkedin",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "LinkedIn: [linkedin.com/in/ethancorson](https://www.linkedin.com/in/ethancorson/)",
-        "[linkedin.com/in/ethancorson](https://www.linkedin.com/in/ethancorson/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0095",
-      "tier": "social",
-      "url": "https://www.facebook.com/oharaforjoco/",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Facebook: [O'Hara for JoCo](https://www.facebook.com/oharaforjoco/) (previously her commissioner page, now repurposed)",
-        "[O'Hara for JoCo](https://www.facebook.com/oharaforjoco/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0096",
-      "tier": "social",
-      "url": "https://www.facebook.com/JoyforKS/",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Facebook: [Joy for KS](https://www.facebook.com/JoyforKS/)",
-        "[Joy for KS](https://www.facebook.com/JoyforKS/)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0097",
-      "tier": "social",
-      "url": "https://x.com/JoyforKS",
-      "title": "X",
-      "publisher": "X",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Twitter/X: [@JoyforKS](https://x.com/JoyforKS)",
-        "[@JoyforKS](https://x.com/JoyforKS)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0098",
-      "tier": "social",
-      "url": "http://www.tiktok.com/@tuley_for_gov",
-      "title": "Tiktok",
-      "publisher": "Tiktok",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "[TikTok](http://www.tiktok.com/@tuley_for_gov)"
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0099",
-      "tier": "social",
-      "url": "https://www.facebook.com/martytuley/`",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Facebook: Campaign-linked/public page lead is https://www.facebook.com/martytuley/. Logged-out harvesting confirmed page presence but did not expose reliable post bodies, dates, reactions, or follower counts."
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0100",
-      "tier": "social",
-      "url": "https://www.facebook.com/p/Philip-Sarnecki-For-Governor-61579950041528/",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "\"url\": \"https://www.facebook.com/p/Philip-Sarnecki-For-Governor-61579950041528/\""
-      ]
-    },
-    {
-      "id": "src-marty-tuley-0111",
-      "tier": "primary",
-      "url": "https://www.kslegislature.gov/li_2024/b2023_24/members/rep_wasinger_barbara_1/",
-      "title": "Kslegislature",
-      "publisher": "Kslegislature",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0112",
-      "tier": "secondary",
-      "url": "https://www.wichitachamber.org/blog/2023/01/04/wichita-chamber-business-accelerator/faithful-investment-in-people-episode-104-wichita-chamber-business-accelerator-joy-eakins/",
-      "title": "Wichitachamber",
-      "publisher": "Wichitachamber",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0113",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/07/22/kansas-sen-ethan-corson-enters-race-for-democratic-partys-nomination-for-governor/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0114",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/briefs/former-kansas-gov-kathleen-sebelius-endorses-sen-ethan-corson-in-democratic-race-for-governor/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0115",
-      "tier": "secondary",
-      "url": "https://johnsoncountypost.com/2025/07/22/ethan-corson-governor-264717/",
-      "title": "Johnsoncountypost",
-      "publisher": "Johnsoncountypost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0116",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/2025/06/12/democrat-steps-forward-in-race-for-kansas-governor-focuses-on-schools-and-kitchen-table-issues/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0117",
-      "tier": "secondary",
-      "url": "https://rileyks.gop/2025/01/23/meet-gubernatorial-candidate-stacy-rogers-in-randolph/",
-      "title": "Rileyks",
-      "publisher": "Rileyks",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0118",
-      "tier": "secondary",
-      "url": "https://kansasreflector.com/briefs/johnson-county-businessman-launches-campaign-to-win-gop-nomination-for-governor/",
-      "title": "Kansasreflector",
-      "publisher": "Kansasreflector",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0119",
-      "tier": "secondary",
-      "url": "https://www.wibw.com/2025/09/02/kansas-businessman-announces-campaign-governor/",
-      "title": "Wibw",
-      "publisher": "Wibw",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0120",
-      "tier": "secondary",
-      "url": "https://bottradionetwork.com/ministry/encounter-special-edition/2025-10-03-philip-sarnecki-on-leadership-and-the-kansas-governors-race/",
-      "title": "Bottradionetwork",
-      "publisher": "Bottradionetwork",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0121",
-      "tier": "secondary",
-      "url": "https://hayspost.com/posts/8400acf8-32ea-486a-b087-8423d8f728e0",
-      "title": "Hayspost",
-      "publisher": "Hayspost",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0122",
-      "tier": "secondary",
-      "url": "https://www.kcjc.com/index.php/current-news/latest-news/5736-ethan-corson-announces-candidacy-for-kansas-senate-district-7",
-      "title": "Kcjc",
-      "publisher": "Kcjc",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0123",
-      "tier": "secondary",
-      "url": "https://www.kake.com/news/joy-eakins-discusses-her-run-for-the-governors-office/article_7947e2be-8651-4a43-963e-5ee064c2d6c5.html",
-      "title": "Kake",
-      "publisher": "Kake",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0124",
-      "tier": "secondary",
-      "url": "https://barbforkansas.com/",
-      "title": "Barbforkansas",
-      "publisher": "Barbforkansas",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0125",
-      "tier": "secondary",
-      "url": "https://www.imdb.com/name/nm3671154/",
-      "title": "Imdb",
-      "publisher": "Imdb",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0126",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/Ethan_Corson",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0127",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Ethan_Corson",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0128",
-      "tier": "secondary",
-      "url": "https://www.kssenatedems.org/ethan-corson",
-      "title": "Kssenatedems",
-      "publisher": "Kssenatedems",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0129",
-      "tier": "secondary",
-      "url": "https://doleinstitute.org/about/fellows/ethan-corson/",
-      "title": "Doleinstitute",
-      "publisher": "Doleinstitute",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0130",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/Cindy_Holscher",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0131",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Cindy_Holscher",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0132",
-      "tier": "secondary",
-      "url": "https://en.wikipedia.org/wiki/Charlotte_O",
-      "title": "En.Wikipedia",
-      "publisher": "En.Wikipedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0133",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Charlotte_O",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0134",
-      "tier": "secondary",
-      "url": "https://www.kake.com/news/wichitan-stacy-rogers-announces-candidacy-for-kansas-governor/article_8298d24e-ea47-11ef-aa00-ab042b86252d.html",
-      "title": "Kake",
-      "publisher": "Kake",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0135",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Stacy_Rogers",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0136",
-      "tier": "secondary",
-      "url": "https://ballotpedia.org/Joy_Eakins",
-      "title": "Ballotpedia",
-      "publisher": "Ballotpedia",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0137",
-      "tier": "social",
-      "url": "https://www.facebook.com/ethanforkansas",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0138",
-      "tier": "social",
-      "url": "https://www.facebook.com/cindyforkansas/",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0139",
-      "tier": "social",
-      "url": "https://www.facebook.com/StacyHepnerRogers/",
-      "title": "Facebook",
-      "publisher": "Facebook",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0140",
-      "tier": "social",
-      "url": "https://www.linkedin.com/in/stacy-rogers-for-kansas/",
-      "title": "Linkedin",
-      "publisher": "Linkedin",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0141",
-      "tier": "social",
-      "url": "https://www.linkedin.com/in/joyeakins/",
-      "title": "Linkedin",
-      "publisher": "Linkedin",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
-    },
-    {
-      "id": "src-marty-tuley-0142",
-      "tier": "social",
-      "url": "https://www.linkedin.com/in/philipsarnecki/",
-      "title": "Linkedin",
-      "publisher": "Linkedin",
-      "accessed": "2026-05-20",
-      "claimsAnchored": []
     }
   ]
 };

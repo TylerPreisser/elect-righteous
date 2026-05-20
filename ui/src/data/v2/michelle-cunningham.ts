@@ -191,17 +191,6 @@ export const MICHELLE_CUNNINGHAM_V2: CandidateFullV2 = {
   "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
   "sources": [
     {
-      "id": "s-kpdc-sboe-index",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/BOELinksOdd2026EC.htm",
-      "title": "State Board of Education Odd Districts - 2026 Election Cycle",
-      "publisher": "Kansas Governmental Ethics Commission / KPDC",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "KPDC index lists Michelle Cunningham in District 5"
-      ]
-    },
-    {
       "id": "s-kpdc-at",
       "tier": "primary",
       "url": "https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf",

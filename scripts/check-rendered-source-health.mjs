@@ -96,9 +96,11 @@ async function checkUrl(entry) {
       const fallback = await fetchWithTimeout(entry.url, "GET");
       if (fallback.ok || !result.ok) result = fallback;
     }
+    const live = result.ok || (result.status >= 300 && result.status < 400);
+    const blocked = [401, 403, 429, 999].includes(result.status);
     return {
       ...entry,
-      status: result.ok ? "live" : result.status === 403 ? "blocked" : "http-error",
+      status: live ? "live" : blocked ? "blocked" : "http-error",
       httpStatus: result.status,
       method: result.method,
       finalUrl: result.finalUrl,

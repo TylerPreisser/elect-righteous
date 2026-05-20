@@ -191,18 +191,6 @@ export const KEVIN_LATZ_V2: CandidateFullV2 = {
   "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
   "sources": [
     {
-      "id": "s-ks-filing-senate",
-      "tier": "primary",
-      "url": "https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS",
-      "title": "Candidate Filing Info - United States Senate, Kansas",
-      "publisher": "Kansas candidate filing mirror / State of Kansas filing data",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Kevin Latz appears as a Democratic U.S. Senate candidate",
-        "\"url\": \"https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS\","
-      ]
-    },
-    {
       "id": "s-saline-unofficial-list",
       "tier": "primary",
       "url": "https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf",

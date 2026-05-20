@@ -1,0 +1,41 @@
+{
+  "replace": {
+    "https://www.fhsu.edu/news/2023/01/kansas-board-of-regents-approves-the-affiliation-of-three-rural-higher-education-institutions": "https://www.fhsu.edu/news/kansas-board-of-regents-approves-the-affiliation-of-three-rural-higher-education-institutions",
+    "https://www.aclukansas.org/sites/default/files/field_documents/all_democracy_is_still_local_2023_final_.pdf": "https://www.aclukansas.org/publications/all-democracy-still-local",
+    "https://kansasreflector.com/2026/03/23/former-prosecutor-enters-kansas-senate-race/": "https://www.kwch.com/2025/07/30/former-prosecutor-chris-mann-announces-candidacy-attorney-general/",
+    "https://en.wikipedia.org/wiki/Patrick_Schmidt_(politician": "https://en.wikipedia.org/wiki/Patrick_Schmidt_%28politician%29",
+    "https://www.tuley4gov2026.com/about-marty": "https://www.tuley4gov2026.com/",
+    "https://www.tuley4gov2026.com/to-do-list": "https://www.tuley4gov2026.com/platform",
+    "https://www.tuley4gov2026.com/public-schools": "https://www.tuley4gov2026.com/platform",
+    "https://www.nex-tech.com/business/shaun/": "https://hayspost.com/posts/49060a66-e8fc-4755-a296-382a14c00a3d",
+    "https://senatortymasterson.com/meet-ty/": "https://www.kslegislature.gov/li/b2025_26/members/sen_masterson_ty_1/",
+    "https://vickischmidt.org/meet-vicki/": "https://content.naic.org/node/8831",
+    "https://en.wikipedia.org/wiki/2022_Kansas_Insurance_Commissioner_election": "https://www.insurancejournal.com/news/midwest/2022/11/09/694560.htm"
+  },
+  "drop": [
+    "https://hayspost.com/posts/5de6670c-0b28-4836-820e-a80866aa4e94",
+    "https://unitedkansas.com/candidates",
+    "https://www.hdnews.net/2022/05/02/superintendents-email-sparks-controversy-as-election-day-approaches-for-school-bond/",
+    "https://www.haysmed.com/provider/derek-m-yarmer-md/",
+    "https://www.kslegislature.gov/li/b2021_22/measures/minutes/agenda_item_2022012646029990241",
+    "https://www.linkedin.com/in/joyeakins/",
+    "https://kenforkansas.com/news/first-adjournment-is-here/",
+    "https://kenforkansas.com/news/welcome-back/",
+    "https://player.kmaj1440.com/2025/08/01/who-is-running-for-governor-in-kansas-for-2026/",
+    "https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_MMDDYYYY-NNN",
+    "https://www.kslegislature.gov/li/b2021_22/committees/ctte_spc_2021_ks_mental_health_modern_1/documents/testimony/20211028_14.pdf",
+    "https://www.fhsu.edu/news/2018/08/marching-together-to-main-and-to-friends",
+    "https://www.emporiagazette.com/news/state/article_2f8ac07c-7483-5ef2-bec6-4e7ecf3921a3.html",
+    "https://replacejerrymoran.org/",
+    "https://www.wichitalibrary.org/Research/informedvoter/Pages/kansas.aspx",
+    "https://twstalker.com/RepSydneyCarlin",
+    "https://mobile.twstalker.com/DrJeffColyer",
+    "https://twstalker.com/KrisKobach1787",
+    "https://mobile.twstalker.com/KSAGOffice",
+    "https://twstalker.com/KSAGOffice",
+    "https://ngntipkolamrenang.twstalker.com/Philip_Sarnecki",
+    "https://w.twstalker.com/TyMastersonKS",
+    "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf",
+    "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW05SJ_202601.pdf"
+  ]
+}

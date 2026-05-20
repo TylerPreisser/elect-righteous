@@ -110,20 +110,9 @@ export const SHARILYN_RAY_V2: CandidateFullV2 = {
       "title": "Election integrity / voting / courts",
       "stated": {
         "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf\" The disk matrix keeps 14 selected evidence items for this issue, including 1 public URL-backed item and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
-        "sourceIds": [
-          "s-kpdc-202601"
-        ]
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-sharilyn-ray-00046",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf\"",
-          "sourceIds": [
-            "s-kpdc-202601"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -131,20 +120,9 @@ export const SHARILYN_RAY_V2: CandidateFullV2 = {
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
         "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf\" The disk matrix keeps 3 selected evidence items for this issue, including 1 public URL-backed item and 2 internal-memory items.",
-        "sourceIds": [
-          "s-kpdc-202601"
-        ]
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "em-sharilyn-ray-00046",
-          "date": "Undated",
-          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf\"",
-          "sourceIds": [
-            "s-kpdc-202601"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
@@ -211,18 +189,6 @@ export const SHARILYN_RAY_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Appointment-of-treasurer report identifies Governor as the office sought"
-      ]
-    },
-    {
-      "id": "s-kpdc-202601",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf",
-      "title": "Sharilyn Ray 2026 Receipts and Expenditures",
-      "publisher": "Kansas Governmental Ethics Commission / KPDC",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "Report provides Ray's 2025 receipts, expenditures, and cash-on-hand figures for the 2026 cycle",
-        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/ReceiptsExpenditures/SW01SRay_202601.pdf\","
       ]
     }
   ]

@@ -191,17 +191,6 @@ export const BRANDON_ADAMS_V2: CandidateFullV2 = {
   "socialResearchNote": "Public social-media follows, likes, comments, and reposts were not treated as beliefs. This pass records only issue-relevant public observations found in the candidate-controlled or official source set.",
   "sources": [
     {
-      "id": "s-kpdc-statewide",
-      "tier": "primary",
-      "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm",
-      "title": "Kansas State Wide Office - 2026 Election Cycle",
-      "publisher": "Kansas Governmental Ethics Commission / KPDC",
-      "accessed": "2026-05-20",
-      "claimsAnchored": [
-        "KPDC index lists Adams, Brandon under gubernatorial candidates"
-      ]
-    },
-    {
       "id": "s-kpdc-at",
       "tier": "primary",
       "url": "https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/Treasurers/SW01BA_AT.pdf",
