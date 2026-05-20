@@ -36,5 +36,5 @@
 
 ## Next
 - Continue the separate editorial/legal/symmetry review for candidate prose.
-- Keep screenshots local unless explicitly asked to commit the 467 MB archive.
-- Recheck production DNS/Cloudflare separately; this UI pass verifies local static output and will need GitHub Pages verification after push.
+- Keep screenshots local unless explicitly asked to commit the approximately 254 MB archive.
+- GitHub Pages has been verified for the UI commit `6ec977d`; production DNS/Cloudflare is still blocked because `https://electrighteous.com/` does not resolve from this environment.
