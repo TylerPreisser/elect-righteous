@@ -45,6 +45,11 @@ function loadYaml(path) {
   return JSON.parse(json);
 }
 
+function loadJsonIfExists(path, fallback = undefined) {
+  if (!existsSync(path)) return fallback;
+  return JSON.parse(readFileSync(path, "utf8"));
+}
+
 function findCandidateBlock(text, slug) {
   const slugRegex = /(^|\n)\s*"?slug"?\s*:\s*"([^"]+)"/g;
   const matches = [...text.matchAll(slugRegex)];
@@ -219,39 +224,130 @@ function uniqueId(id, used, fallback) {
   return next;
 }
 
-function normalizeSources(slug, yamlSources) {
+function tierRank(tier) {
+  if (tier === "primary") return 3;
+  if (tier === "secondary") return 2;
+  if (tier === "social") return 1;
+  return 0;
+}
+
+function mergeClaims(target, claims) {
+  const seen = new Set(target.claimsAnchored);
+  for (const claim of claims) {
+    const text = textValue(claim);
+    if (!text || seen.has(text)) continue;
+    seen.add(text);
+    target.claimsAnchored.push(text);
+  }
+}
+
+function normalizeSources(slug, yamlSources, auditSources = []) {
   const used = new Set();
   const idMap = new Map();
+  const rowSourceIds = new Map();
+  const sourceIdsByUrl = new Map();
+  const sourceByUrl = new Map();
   const sources = [];
 
-  for (const [index, raw] of asArray(yamlSources).entries()) {
+  function rememberAlias(alias, id) {
+    const text = textValue(alias);
+    if (!text) return;
+    idMap.set(text, id);
+  }
+
+  function rememberRow(rowId, id) {
+    const text = textValue(rowId);
+    if (!text || !id) return;
+    if (!rowSourceIds.has(text)) rowSourceIds.set(text, []);
+    rowSourceIds.get(text).push(id);
+  }
+
+  function rememberUrl(url, id) {
+    if (!isPublicUrl(url) || !id) return;
+    const key = String(url).trim();
+    if (!sourceIdsByUrl.has(key)) sourceIdsByUrl.set(key, []);
+    if (!sourceIdsByUrl.get(key).includes(id)) sourceIdsByUrl.get(key).push(id);
+  }
+
+  function addSource(raw, index, fallbackId, aliases = [], rowIds = []) {
     const source = typeof raw === "string" ? { url: raw } : asObject(raw);
-    const originalId = textValue(source.id) ?? `s-${index + 1}`;
+    const originalId = textValue(source.id, source.sourceId, source.source_id) ?? fallbackId;
     const url = textValue(source.url);
 
     if (!isPublicUrl(url)) {
       idMap.set(originalId, null);
-      continue;
+      for (const alias of aliases) rememberAlias(alias, null);
+      return;
+    }
+
+    const key = String(url).trim();
+    const claims = asArray(
+      firstValue(source.claimsAnchored, source.claims_anchored, source.claims, source.claims_supported),
+    )
+      .map((claim) => textValue(claim))
+      .filter(Boolean);
+
+    if (sourceByUrl.has(key)) {
+      const existing = sourceByUrl.get(key);
+      const nextTier = normalizeTier(source.tier ?? source.recommendedTier ?? source.recommended_tier, url);
+      if (tierRank(nextTier) > tierRank(existing.tier)) existing.tier = nextTier;
+      mergeClaims(existing, claims);
+      rememberAlias(originalId, existing.id);
+      for (const alias of aliases) rememberAlias(alias, existing.id);
+      for (const rowId of rowIds) rememberRow(rowId, existing.id);
+      rememberUrl(url, existing.id);
+      return;
     }
 
     const id = uniqueId(originalId, used, `s-${index + 1}`);
     idMap.set(originalId, id);
-    sources.push({
+    for (const alias of aliases) rememberAlias(alias, id);
+    for (const rowId of rowIds) rememberRow(rowId, id);
+    rememberUrl(url, id);
+
+    const normalized = {
       id,
-      tier: normalizeTier(source.tier, url),
+      tier: normalizeTier(source.tier ?? source.recommendedTier ?? source.recommended_tier, url),
       url,
       title: textValue(source.title, source.name, source.label, publisherFromUrl(url), `Source ${index + 1}`),
       publisher: omitEmpty(textValue(source.publisher, source.publication, publisherFromUrl(url))),
       accessed: textValue(source.accessed, source.captured, source.date, "2026-05-19"),
-      claimsAnchored: asArray(
-        firstValue(source.claimsAnchored, source.claims_anchored, source.claims, source.claims_supported),
-      )
-        .map((claim) => textValue(claim))
-        .filter(Boolean),
-    });
+      claimsAnchored: claims,
+    };
+
+    sources.push(normalized);
+    sourceByUrl.set(key, normalized);
   }
 
-  return { sources, idMap };
+  for (const [index, raw] of asArray(yamlSources).entries()) {
+    addSource(raw, index, `s-${index + 1}`);
+  }
+
+  for (const [index, raw] of asArray(auditSources).entries()) {
+    const audit = asObject(raw);
+    const aliases = [
+      audit.sourceId,
+      audit.source_id,
+      ...asArray(audit.aliases),
+    ].filter(Boolean);
+    addSource(
+      {
+        id: textValue(audit.sourceId, audit.source_id) ?? `audit-${index + 1}`,
+        tier: textValue(audit.recommendedTier, audit.recommended_tier),
+        url: audit.url,
+        title: textValue(audit.title, publisherFromUrl(audit.url), `Source audit ${index + 1}`),
+        publisher: textValue(audit.publisher, publisherFromUrl(audit.url)),
+        accessed: textValue(audit.accessed, "2026-05-20"),
+        claimsAnchored: audit.claimsAnchored,
+      },
+      sources.length + index,
+      `audit-${index + 1}`,
+      aliases,
+      audit.rowIds,
+    );
+  }
+
+  return { sources, idMap, rowSourceIds, sourceIdsByUrl };
 }
 
 function sourceRefs(rawRefs, idMap, fallback = []) {
@@ -365,7 +461,211 @@ function isSocialOnlyAction(action, sourceById) {
   return tiers.length > 0 && tiers.every((tier) => tier === "social");
 }
 
-function normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById) {
+const FIXED_ISSUE_IDS = [
+  "i-abortion-life",
+  "i-lgbt-gender-parental-rights",
+  "i-education-curriculum-schools",
+  "i-religious-liberty-church-civic-morality",
+  "i-taxes-spending-debt",
+  "i-economy-jobs-labor",
+  "i-guns-second-amendment",
+  "i-immigration-border",
+  "i-health-care-insurance-medicaid",
+  "i-election-integrity-voting-courts",
+  "i-public-safety-law-enforcement-criminal-justice",
+  "i-agriculture-rural-economy-water",
+  "i-local-governance-transparency-ethics",
+  "i-environment-energy-land-use",
+];
+
+const ACTION_ELIGIBLE_FIXED_CLASSES = new Set([
+  "candidate-stated",
+  "documented-record",
+  "public-controversy",
+]);
+
+function compactWhitespace(value) {
+  return String(value ?? "")
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, "$1")
+    .replace(/\*\*/g, "")
+    .replace(/^["']?text["']?\s*:\s*/i, "")
+    .replace(/^["']?observation["']?\s*:\s*/i, "")
+    .replace(/^[-*]\s+/, "")
+    .replace(/,\s*$/, "")
+    .replace(/^"([^"]+)"(\s+-|\s+--|\s+—|$)/, "$1$2")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function excerpt(value, max = 360) {
+  const text = compactWhitespace(value);
+  if (text.length <= max) return text;
+  return `${text.slice(0, max - 1).trimEnd()}...`;
+}
+
+function isMetaEvidenceText(value) {
+  const text = compactWhitespace(value);
+  return (
+    text.length < 18 ||
+    /^issue mapping:/i.test(text) ||
+    /^source trail$/i.test(text) ||
+    /^where they stand on big issues:?$/i.test(text)
+  );
+}
+
+function sourceIdsForFixedItem(item, rowSourceIds, sourceIdsByUrl) {
+  const ids = [
+    ...asArray(rowSourceIds.get(textValue(item.evidenceRowId))),
+    ...asArray(sourceIdsByUrl.get(textValue(item.sourceUrl))),
+  ]
+    .map((id) => textValue(id))
+    .filter(Boolean);
+  return [...new Set(ids)];
+}
+
+function hasNonSocialSource(sourceIds, sourceById) {
+  return sourceIds.some((id) => {
+    const tier = sourceById.get(id)?.tier;
+    return tier === "primary" || tier === "secondary";
+  });
+}
+
+function fixedIssueStatedText(issue, evidenceItems, socialSignals) {
+  const title = textValue(issue.title, "this issue");
+  const publicItems = evidenceItems
+    .filter((item) => item.sourceUrl && !isMetaEvidenceText(item.text))
+    .filter((item) => item.classification !== "social-online-signal");
+  const stated = publicItems.find((item) => item.classification === "candidate-stated");
+  const documented = publicItems.find((item) => item.classification === "documented-record");
+  const fallback = publicItems[0] ?? evidenceItems.find((item) => !isMetaEvidenceText(item.text));
+  const lead = stated ?? documented ?? fallback;
+
+  if (!lead && socialSignals.length === 0) {
+    return `No relevant public evidence was found for ${title} in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.`;
+  }
+
+  const parts = [];
+  if (lead) {
+    const label = lead.classification === "candidate-stated"
+      ? "Candidate-stated evidence"
+      : lead.classification === "documented-record"
+        ? "Documented-record evidence"
+        : "Reviewed evidence";
+    parts.push(`${label}: ${excerpt(lead.text, 420)}`);
+  } else {
+    parts.push(`No candidate-controlled statement was found for ${title}; the rendered material is limited to observed public signals.`);
+  }
+
+  const publicCount = publicItems.length;
+  const internalOnly = Math.max(0, evidenceItems.length - publicCount);
+  if (publicCount > 1 || internalOnly > 0) {
+    parts.push(`The disk matrix keeps ${evidenceItems.length} selected evidence item${evidenceItems.length === 1 ? "" : "s"} for this issue, including ${publicCount} public URL-backed item${publicCount === 1 ? "" : "s"}${internalOnly ? ` and ${internalOnly} internal-memory item${internalOnly === 1 ? "" : "s"}` : ""}.`);
+  }
+  if (socialSignals.length > 0) {
+    parts.push("Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.");
+  }
+  return parts.join(" ");
+}
+
+function normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById) {
+  const fixedMatrix = yaml.fixed_issue_matrix;
+  const fixedIssues = Array.isArray(fixedMatrix)
+    ? fixedMatrix
+    : asArray(asObject(fixedMatrix).issues);
+  if (fixedIssues.length === 0) return undefined;
+
+  return fixedIssues
+    .map((rawIssue, issueIndex) => {
+      const issue = asObject(rawIssue);
+      const issueNumber = Number(issue.issueNumber ?? issue.issue_number ?? issueIndex + 1);
+      const id = FIXED_ISSUE_IDS[issueNumber - 1] ?? slugifyId(issue.title, `i-${issueIndex + 1}`);
+      const title = normalizeIssueTitle(issue.title, `Issue ${issueNumber || issueIndex + 1}`);
+      const rawEvidenceItems = asArray(issue.evidenceItems ?? issue.evidence_items);
+      const evidenceItems = rawEvidenceItems
+        .map((item) => asObject(item))
+        .filter((item) => textValue(item.text));
+      const rawSocialSignals = asArray(issue.socialSignals ?? issue.social_signals)
+        .map((signal) => asObject(signal))
+        .filter((signal) => textValue(signal.observation));
+
+      const statedSourceIds = [...new Set(
+        evidenceItems
+          .filter((item) => item.sourceUrl && !isMetaEvidenceText(item.text))
+          .filter((item) => item.classification !== "social-online-signal")
+          .flatMap((item) => sourceIdsForFixedItem(item, rowSourceIds, sourceIdsByUrl))
+          .filter((id) => sourceById.has(id))
+          .slice(0, 6),
+      )];
+
+      const actionCandidates = evidenceItems
+        .filter((item) => !isMetaEvidenceText(item.text))
+        .filter((item) => ACTION_ELIGIBLE_FIXED_CLASSES.has(item.classification))
+        .map((item) => ({
+          item,
+          sourceIds: sourceIdsForFixedItem(item, rowSourceIds, sourceIdsByUrl)
+            .filter((id) => sourceById.has(id)),
+        }))
+        .filter(({ sourceIds }) => sourceIds.length > 0 && hasNonSocialSource(sourceIds, sourceById));
+
+      const seenActionBodies = new Set();
+      const actions = [];
+      for (const { item, sourceIds } of actionCandidates) {
+        const body = excerpt(item.text, 520);
+        const key = body.toLowerCase();
+        if (seenActionBodies.has(key)) continue;
+        seenActionBodies.add(key);
+        actions.push({
+          id: slugifyId(textValue(item.evidenceRowId), `a-${id}-${actions.length + 1}`),
+          date: textValue(compactWhitespace(item.text).match(/\b20\d{2}-\d{2}-\d{2}\b/)?.[0], "Undated"),
+          body,
+          sourceIds: [...new Set(sourceIds)].slice(0, 4),
+        });
+        if (actions.length >= 6) break;
+      }
+
+      const socialSignals = [];
+      const seenSocial = new Set();
+      for (const signal of rawSocialSignals) {
+        const observation = excerpt(signal.observation, 420);
+        const key = `${textValue(signal.platform)}:${observation}`.toLowerCase();
+        if (seenSocial.has(key)) continue;
+        seenSocial.add(key);
+        const sourceIds = [
+          ...asArray(rowSourceIds.get(textValue(signal.evidenceRowId))),
+          ...asArray(sourceIdsByUrl.get(textValue(signal.sourceUrl))),
+        ]
+          .map((sourceId) => textValue(sourceId))
+          .filter((sourceId) => sourceId && sourceById.has(sourceId));
+        if (sourceIds.length === 0) continue;
+        socialSignals.push({
+          id: slugifyId(textValue(signal.socialSignalId, signal.evidenceRowId), `ss-${id}-${socialSignals.length + 1}`),
+          platform: textValue(signal.platform, "Public web"),
+          observation,
+          observedAt: textValue(compactWhitespace(signal.observation).match(/\b20\d{2}-\d{2}-\d{2}\b/)?.[0], "2026-05-20"),
+          sourceIds: [...new Set(sourceIds)].slice(0, 3),
+          mappedToIssueId: id,
+        });
+        if (socialSignals.length >= 4) break;
+      }
+
+      return {
+        id,
+        title,
+        stated: {
+          text: fixedIssueStatedText(issue, evidenceItems, rawSocialSignals),
+          sourceIds: statedSourceIds,
+        },
+        actions,
+        socialSignals,
+      };
+    })
+    .filter((issue) => issue.title);
+}
+
+function normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById, rowSourceIds = new Map(), sourceIdsByUrl = new Map()) {
+  const fixedIssues = normalizeFixedIssues(yaml, rowSourceIds, sourceIdsByUrl, sourceById);
+  if (fixedIssues) return fixedIssues;
+
   return topLevelIssues(yaml)
     .map((rawIssue, issueIndex) => {
       const issue = asObject(rawIssue);
@@ -412,7 +712,7 @@ function normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById) {
         ...(gap ? { gap } : {}),
       };
     })
-    .filter((issue) => issue.title && issue.stated.sourceIds.length > 0);
+    .filter((issue) => issue.title);
 }
 
 function mergeMetadata(yaml) {
@@ -578,13 +878,18 @@ function campaignFinanceFromNote(note) {
 
 function normalizeCandidate(slug, yaml, v1) {
   const meta = { ...(V2_ONLY_METADATA[slug] ?? {}), ...mergeMetadata(yaml) };
-  const { sources, idMap } = normalizeSources(slug, yaml.sources ?? []);
+  const sourceAudit = loadJsonIfExists(join(MEMORY_CANDIDATES, slug, "source-audit.json"), {});
+  const { sources, idMap, rowSourceIds, sourceIdsByUrl } = normalizeSources(
+    slug,
+    yaml.sources ?? [],
+    sourceAudit.sources ?? [],
+  );
   const sourceById = new Map(sources.map((source) => [source.id, source]));
   const fallbackSourceIds = sources
     .filter((source) => source.tier !== "social")
     .slice(0, 4)
     .map((source) => source.id);
-  const issues = normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById);
+  const issues = normalizeIssues(yaml, idMap, fallbackSourceIds, sourceById, rowSourceIds, sourceIdsByUrl);
   const whereTheyWorship =
     omitEmpty(meta.whereTheyWorship) ??
     omitEmpty(meta.whereTheyWorship_note) ??

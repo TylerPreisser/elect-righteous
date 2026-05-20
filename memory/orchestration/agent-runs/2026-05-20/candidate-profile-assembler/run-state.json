@@ -1,0 +1,74 @@
+{
+  "agent": "candidate-profile-assembler",
+  "date": "2026-05-20",
+  "startedAt": "2026-05-20T19:00:00Z",
+  "completedAt": "2026-05-20T19:08:52Z",
+  "status": "completed-with-caveats",
+  "scope": "all 70 rendered v2 candidate TypeScript profiles",
+  "inputs_read": [
+    "scripts/compile-v2-yaml.mjs",
+    "ui/src/data/types-v2.ts",
+    "ui/src/components/v2/CandidateV2Profile.tsx",
+    "ui/src/components/v2/IssueCardComponent.tsx",
+    "memory/candidates/*/v2-issues.yaml",
+    "memory/candidates/*/fixed-issue-matrix.json",
+    "memory/candidates/*/source-audit.json"
+  ],
+  "files_changed": [
+    "scripts/compile-v2-yaml.mjs",
+    "ui/src/data/v2/*.ts",
+    "memory/orchestration/STATE.md",
+    "memory/orchestration/agent-runs/2026-05-20/candidate-profile-assembler/run-state.json",
+    "memory/orchestration/agent-runs/2026-05-20/candidate-profile-assembler/handoff.md"
+  ],
+  "outputs": {
+    "candidateCount": 70,
+    "renderedIssueCardsPerCandidate": 14,
+    "buildStaticPages": 232,
+    "thinRenderedProfiles": [
+      "adam-hamilton",
+      "brandon-adams",
+      "doug-billings",
+      "eric-lund",
+      "kevin-latz",
+      "mark-lane",
+      "michelle-cunningham",
+      "ric-koehn",
+      "sharilyn-ray",
+      "steven-jacob"
+    ]
+  },
+  "validation": [
+    {
+      "command": "ruby -ryaml -e 'Dir[\"memory/candidates/*/v2-issues.yaml\"].each { |f| YAML.load_file(f) }; puts \"yaml ok\"'",
+      "status": "pass"
+    },
+    {
+      "command": "node scripts/phase2-inventory.mjs",
+      "status": "pass"
+    },
+    {
+      "command": "cd ui && npx tsx -e 'import { V2_CANDIDATES } from \"./src/data/v2\"; import { validateCandidateV2 } from \"./src/data/types-v2\"; ...'",
+      "status": "pass",
+      "result": "70 candidates validated; no candidate had an issue count other than 14"
+    },
+    {
+      "command": "git diff --check",
+      "status": "pass"
+    },
+    {
+      "command": "cd ui && npx tsc --noEmit --incremental false",
+      "status": "pass"
+    },
+    {
+      "command": "cd ui && npm run build",
+      "status": "pass",
+      "result": "232 static pages generated"
+    }
+  ],
+  "caveats": [
+    "The rendered issue cards are assembled from fixed_issue_matrix/source-audit artifacts; biography, recordSummary, campaignFinance, and whereTheyWorship still require specialist prose enrichment.",
+    "Source audits are still structural/domain-tier audits; URLs have not yet been live HTTP checked in this pass.",
+    "Ten candidates remain thin on linked public-source/action evidence and are documented in STATE.md."
+  ]
+}

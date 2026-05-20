@@ -1,6 +1,6 @@
-/* Auto-normalized with issue-mapped social/online cross-reference signals.
- * To refresh:
- *   node scripts/hydrate-v2-social-signals.mjs
+/* Auto-generated from memory/candidates/doug-billings/v2-issues.yaml.
+ * Edit the YAML source, then run:
+ *   node scripts/compile-v2-yaml.mjs doug-billings
  */
 
 import type { CandidateFullV2 } from "@/data/types-v2";
@@ -17,114 +17,165 @@ export const DOUG_BILLINGS_V2: CandidateFullV2 = {
   "campaignWebsite": "https://dougbillingsforkansas.com/",
   "issues": [
     {
-      "id": "i-ballot-status",
-      "title": "Ballot / filing status",
+      "id": "i-abortion-life",
+      "title": "Abortion / life",
       "stated": {
-        "text": "Billings has campaign and KPDC account evidence connected to the 2026 governor race, but reporting says he was removed from the Secretary of State candidate list after a running-mate dispute. Treat final ballot status as unresolved until the final SOS list is checked.",
-        "sourceIds": [
-          "s-kpdc-statewide",
-          "s-kcstar-removed"
-        ]
+        "text": "Documented-record evidence: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes. The disk matrix keeps 5 selected evidence items for this issue, including 0 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "a-kpdc-account",
-          "date": "2026-05-20",
-          "body": "KPDC lists Billings under gubernatorial candidates and links a 202601 finance report.",
-          "sourceIds": [
-            "s-kpdc-statewide"
-          ]
-        },
-        {
-          "id": "a-reported-removal",
-          "date": "2026-05-20",
-          "body": "The Kansas City Star reported Billings was removed from the Secretary of State candidate list after a running-mate dispute and legal opinion.",
-          "sourceIds": [
-            "s-kcstar-removed"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Public web",
-          "observation": "Ballot / filing status: Billings has campaign and KPDC account evidence connected to the 2026 governor race, but reporting says he was removed from the Secretary of State candidate list after a running-mate dispute. Treat final ballot status as unresolved until the final SOS list is checked.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-kpdc-statewide"
-          ],
-          "mappedToIssueId": "i-ballot-status"
-        },
-        {
-          "id": "ss-crossref-3",
-          "platform": "Public web",
-          "observation": "Where they stand on big issues: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-kpdc-statewide"
-          ],
-          "mappedToIssueId": "i-ballot-status"
-        }
-      ],
-      "gap": {
-        "summary": "Campaign/KPDC-account evidence and reported SOS-list status point in different directions; this is a ballot-status conflict, not a policy inference.",
-        "evidenceIds": [
-          "a-kpdc-account",
-          "a-reported-removal"
-        ]
-      }
+      "actions": [],
+      "socialSignals": []
     },
     {
-      "id": "i-campaign-platform",
-      "title": "Where they stand on big issues",
+      "id": "i-lgbt-gender-parental-rights",
+      "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes.",
+        "text": "No relevant public evidence was found for LGBT / gender / parental rights in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-education-curriculum-schools",
+      "title": "Education / curriculum / schools",
+      "stated": {
+        "text": "Documented-record evidence: \"ownWordsNarrative\": \"Billings's campaign site frames him as a MAGA conservative and lists campaign pillars including Kansas sovereignty, gold and silver, trafficking, government efficiency, taxes, regulation, election integrity, education, property rights, and social-conservative themes.\" The disk matrix keeps 5 selected evidence items for this issue, including 0 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-religious-liberty-church-civic-morality",
+      "title": "Religious liberty / church / civic morality",
+      "stated": {
+        "text": "Reviewed evidence: \"whereTheyWorship\": \"Campaign and reporting describe Billings in explicitly Christian/conservative terms; that background is descriptive and is not used as a substitute for governance evidence.\" The disk matrix keeps 2 selected evidence items for this issue, including 0 public URL-backed items and 2 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-taxes-spending-debt",
+      "title": "Taxes / spending / debt",
+      "stated": {
+        "text": "Documented-record evidence: \"ownWordsNarrative\": \"Billings's campaign site frames him as a MAGA conservative and lists campaign pillars including Kansas sovereignty, gold and silver, trafficking, government efficiency, taxes, regulation, election integrity, education, property rights, and social-conservative themes.\" The disk matrix keeps 7 selected evidence items for this issue, including 0 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-economy-jobs-labor",
+      "title": "Economy / jobs / labor",
+      "stated": {
+        "text": "No relevant public evidence was found for Economy / jobs / labor in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-guns-second-amendment",
+      "title": "Guns / Second Amendment",
+      "stated": {
+        "text": "Documented-record evidence: Billings's campaign materials and reporting describe a conservative/MAGA platform including state sovereignty, government efficiency, tax and regulation cuts, pro-life and Second Amendment themes, election integrity, education, property rights, and anti-trafficking themes. The disk matrix keeps 4 selected evidence items for this issue, including 0 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-immigration-border",
+      "title": "Immigration / border",
+      "stated": {
+        "text": "No relevant public evidence was found for Immigration / border in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-health-care-insurance-medicaid",
+      "title": "Health care / insurance / Medicaid",
+      "stated": {
+        "text": "Reviewed evidence: The governor signs or vetoes bills, writes budgets, appoints agency leaders, and shapes policy on education, taxes, roads, public health, and much more. The disk matrix keeps 2 selected evidence items for this issue, including 0 public URL-backed items and 2 internal-memory items.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-election-integrity-voting-courts",
+      "title": "Election integrity / voting / courts",
+      "stated": {
+        "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm\" The disk matrix keeps 17 selected evidence items for this issue, including 1 public URL-backed item and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
-          "s-kctv-filed"
+          "s-kpdc-statewide"
         ]
       },
       "actions": [
         {
-          "id": "a-campaign-platform",
-          "date": "2026-05-20",
-          "body": "The campaign site and launch reporting published candidate-controlled or candidate-attributed platform themes.",
+          "id": "em-doug-billings-00049",
+          "date": "Undated",
+          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm\"",
           "sourceIds": [
-            "s-campaign-home",
-            "s-kctv-filed"
+            "s-kpdc-statewide"
           ]
         }
       ],
       "socialSignals": []
     },
     {
-      "id": "i-donor-funding",
-      "title": "Donor / funding information",
+      "id": "i-public-safety-law-enforcement-criminal-justice",
+      "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "KPDC records provide a finance-report path for Billings, and reporting separately describes disputed accusations about a contribution; the candidate denied wrongdoing.",
+        "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm\" The disk matrix keeps 3 selected evidence items for this issue, including 1 public URL-backed item and 2 internal-memory items.",
         "sourceIds": [
-          "s-kpdc-statewide",
-          "s-kcstar-removed"
+          "s-kpdc-statewide"
         ]
       },
       "actions": [
         {
-          "id": "a-finance-report",
-          "date": "2026-05-20",
-          "body": "Audit extraction from KPDC 202601 recorded receipts, expenditures, and negative cash-on-hand figures for Billings.",
+          "id": "em-doug-billings-00049",
+          "date": "Undated",
+          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm\"",
           "sourceIds": [
             "s-kpdc-statewide"
           ]
-        },
-        {
-          "id": "a-finance-allegation-reporting",
-          "date": "2026-05-20",
-          "body": "The Kansas City Star reported allegations involving a $2,700 contribution and said Billings denied wrongdoing.",
-          "sourceIds": [
-            "s-kcstar-removed"
-          ]
         }
       ],
+      "socialSignals": []
+    },
+    {
+      "id": "i-agriculture-rural-economy-water",
+      "title": "Agriculture / rural economy / water",
+      "stated": {
+        "text": "No relevant public evidence was found for Agriculture / rural economy / water in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-local-governance-transparency-ethics",
+      "title": "Local governance / transparency / ethics",
+      "stated": {
+        "text": "Candidate-stated evidence: | Kansans for Life PAC | ACTIVELY OPPOSING | Released formal statement calling her record \"the worst on life of any Republican to ever seek office in Kansas\" | The disk matrix keeps 22 selected evidence items for this issue, including 0 public URL-backed items and 22 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-environment-energy-land-use",
+      "title": "Environment / energy / land use",
+      "stated": {
+        "text": "Reviewed evidence: Upside: She avoids being attacked on her abortion record in a hostile environment, maintains her \"above the fray\" positioning, and scores points with voters skeptical of party establishment The disk matrix keeps 1 selected evidence item for this issue, including 0 public URL-backed items and 1 internal-memory item.",
+        "sourceIds": []
+      },
+      "actions": [],
       "socialSignals": []
     }
   ],
@@ -150,7 +201,8 @@ export const DOUG_BILLINGS_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "KPDC index lists Billings, Doug under gubernatorial candidates",
-        "KPDC links a 202601 report for Billings"
+        "KPDC links a 202601 report for Billings",
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/StWide/2026ElecCycle/SWLinks2026EC.htm\","
       ]
     },
     {
@@ -162,7 +214,8 @@ export const DOUG_BILLINGS_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Campaign site presents Billings as a 2026 Kansas Governor candidate",
-        "Campaign site lists candidate-controlled policy pillars"
+        "Campaign site lists candidate-controlled policy pillars",
+        "\"campaignWebsite\": \"https://dougbillingsforkansas.com/\","
       ]
     },
     {
@@ -174,7 +227,8 @@ export const DOUG_BILLINGS_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "Reporting described Billings as seeking the Kansas Republican Party nomination",
-        "Reporting summarized campaign themes including K-DOGE, tax cuts, and regulation cuts"
+        "Reporting summarized campaign themes including K-DOGE, tax cuts, and regulation cuts",
+        "\"url\": \"https://www.kctv5.com/2025/05/05/conservative-podcaster-run-kansas-governor-2026/\","
       ]
     },
     {

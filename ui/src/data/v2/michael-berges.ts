@@ -1,6 +1,6 @@
-/* Auto-normalized with issue-mapped social/online cross-reference signals.
- * To refresh:
- *   node scripts/hydrate-v2-social-signals.mjs
+/* Auto-generated from memory/candidates/michael-berges/v2-issues.yaml.
+ * Edit the YAML source, then run:
+ *   node scripts/compile-v2-yaml.mjs michael-berges
  */
 
 import type { CandidateFullV2 } from "@/data/types-v2";
@@ -16,367 +16,573 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
   "occupation": "",
   "issues": [
     {
-      "id": "i-budget-taxes-services",
-      "title": "County budget, taxes, employee pay, and service levels",
+      "id": "i-abortion-life",
+      "title": "Abortion / life",
       "stated": {
-        "text": "Berges's 2022 candidate answers treated the county sales-tax sunset\nas a long-range budget question rather than a fixed promise. He said\nfuture options could include cutting services, cutting employees,\noffsetting with mill-levy increases, asking voters for a 10-year\nextension, or considering a permanent sales tax. He also said the\nsales taxes had helped stabilize the county budget and that the path\nforward should be worked through with administrators, commissioners,\nand the community.",
+        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-berges-qa-2022"
+          "src-michael-berges-0005"
         ]
       },
       "actions": [
         {
-          "id": "a-mill-levy-discussion-2025",
-          "date": "2025-07-08",
-          "body": "Presented the county's 2026 mill-levy discussion. The official\nagenda cover sheet says Berges asked commissioners to consider\nadding one to two mills to prepare for capital projects and preserve\ncurrent service levels if state legislation limited local-government\nrevenue tools.",
+          "id": "em-michael-berges-01212",
+          "date": "Undated",
+          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
           "sourceIds": [
-            "s-agenda-07082025"
-          ]
-        },
-        {
-          "id": "a-budget-publication-2025",
-          "date": "2025-08-19",
-          "body": "Moved to allow the County Clerk to publish the 2026 Ellis County\nGeneral Fund and Fire District budgets for the September 9 budget\nhearings. The motion passed 3-0.",
-          "sourceIds": [
-            "s-minutes-08192025"
-          ]
-        },
-        {
-          "id": "a-2026-budget-rnr-2025",
-          "date": "2025-09-09",
-          "body": "Voted yes by named roll call on the 2026 General Fund and Fire\nDistrict budgets exceeding the revenue-neutral rates and on\nResolution 2025-14. The motion passed 3-0 after public comments\nfrom residents at the hearing.",
-          "sourceIds": [
-            "s-minutes-09092025",
-            "s-hayspost-budget-approved-2025"
-          ]
-        },
-        {
-          "id": "a-salary-resolution-2026",
-          "date": "2026-01-13",
-          "body": "Seconded and voted for Resolution 2026-04 setting 2026 salary step\nadjustments for Ellis County elected officials. The resolution\nlisted County Commissioner District 1 at Pay Grade 35, Step 4,\n$20,746, and passed 3-0.",
-          "sourceIds": [
-            "s-minutes-01132026"
-          ]
-        },
-        {
-          "id": "a-2025-budget-explanation",
-          "date": "2024-10-01",
-          "body": "In coverage of the 2025 county budget, which reduced the mill levy\nwhile exceeding revenue neutral, Berges connected budget increases\nmainly to employee wages and benefits and criticized treating\nrevenue neutral as a simple taxpayer protection.",
-          "sourceIds": [
-            "s-hayspost-budget-2025"
+            "src-michael-berges-0005"
           ]
         }
       ],
       "socialSignals": [
         {
-          "id": "ss-crossref-1",
-          "platform": "LinkedIn",
-          "observation": "LinkedIn / professional web: No verified candidate-controlled LinkedIn profile surfaced in search results. The strongest professional identity source is the Northwest Kansas Economic Innovation Center staff page, which lists Berges as Business Services Director.",
-          "observedAt": "2026-05-19",
+          "id": "soc-michael-berges-0001",
+          "platform": "Bluesky",
+          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-ellis-candidate-filings-page"
+            "src-michael-berges-0005"
           ],
-          "mappedToIssueId": "i-budget-taxes-services"
-        },
-        {
-          "id": "ss-crossref-3",
-          "platform": "Public web",
-          "observation": "Observation 7 - Candidate-attested 2022 platform centered infrastructure, budget stabilization, sheriff/jail, Grow Hays, and intergovernmental cooperation",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-ellis-candidate-filings-page"
-          ],
-          "mappedToIssueId": "i-budget-taxes-services"
-        },
-        {
-          "id": "ss-crossref-5",
-          "platform": "Hays Post",
-          "observation": "What was observed: In the 2022 Hays Post candidate profile, Berges supported earmarking sales-tax revenue for infrastructure upkeep, named bridges and roads, described sales-tax extension/permanent-sales-tax questions as future options, identified sheriff/jail facility needs as a major project, supported more proactive economic development funding through Grow Hays, and discussed cooperation with Ellis, Hays,...",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-ellis-candidate-filings-page"
-          ],
-          "mappedToIssueId": "i-budget-taxes-services"
+          "mappedToIssueId": "i-abortion-life"
         }
-      ],
-      "gap": {
-        "summary": "Berges's fiscal record is best described as service-and-capital\nplanning rather than a simple tax-cut or tax-increase frame. He has\nsupported mill-levy and salary actions in office while publicly tying\nthem to infrastructure, service levels, and employee retention. No\ndonor evidence was found that would support a funding-influence claim.",
-        "evidenceIds": [
-          "a-mill-levy-discussion-2025",
-          "a-2026-budget-rnr-2025",
-          "a-salary-resolution-2026"
-        ]
-      }
+      ]
     },
     {
-      "id": "i-infrastructure-roads-land-use",
-      "title": "Roads, bridges, subdivisions, and infrastructure growth",
+      "id": "i-lgbt-gender-parental-rights",
+      "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Berges said in 2022 that he supported continuing to earmark portions\nof the county sales tax for infrastructure upkeep, naming bridges,\nroads, and possibly railroad crossings. He also said Ellis County\nshould build infrastructure reserves so it can address failures,\npursue grants, and take care of multiple projects when needed.",
+        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-hayspost-berges-qa-2022"
+          "src-michael-berges-0005"
         ]
       },
       "actions": [
         {
-          "id": "a-fairview-patch-yes-2025",
-          "date": "2025-07-01",
-          "body": "Seconded and voted with the majority to approve the Fairview Patch\nfinal plat and Resolution 2025-12. The motion passed 2-1, with\nLeiker recorded as the no vote.",
+          "id": "em-michael-berges-01212",
+          "date": "Undated",
+          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
           "sourceIds": [
-            "s-minutes-07012025"
-          ]
-        },
-        {
-          "id": "a-subdivision-road-discussion-2025",
-          "date": "2025-08-19",
-          "body": "Opened the continued discussion on county-maintained subdivision\nroads, identified 21 subdivisions for which the county is\nresponsible, and asked staff to return later with cost estimates for\n280th Ave after public input and right-of-way discussion.",
-          "sourceIds": [
-            "s-minutes-08192025"
-          ]
-        },
-        {
-          "id": "a-ellis-road-support-letter-2025",
-          "date": "2025-08-19",
-          "body": "Asked the commissioners to sign a support letter for the City of\nEllis road project. The city was applying for a cost-share grant for\nWest 2nd Street, and the minutes say all commissioners agreed to\nsign the letter.",
-          "sourceIds": [
-            "s-minutes-08192025"
-          ]
-        },
-        {
-          "id": "a-right-of-way-update-2026",
-          "date": "2026-02-17",
-          "body": "During road-tour discussion, asked for an update on the right-of-way\nproject. Staff described a systematic process beginning in Township\n11 and projected a September update to the commission.",
-          "sourceIds": [
-            "s-minutes-02172026"
+            "src-michael-berges-0005"
           ]
         }
       ],
       "socialSignals": [
         {
-          "id": "ss-crossref-1",
-          "platform": "Public web",
-          "observation": "Infrastructure: He said yes, he would continue earmarking sales-tax portions for infrastructure upkeep, mainly bridges, roads, and possibly railroad crossings, and favored building reserves to match grants and address failures.",
-          "observedAt": "2026-05-19",
+          "id": "soc-michael-berges-0001",
+          "platform": "Bluesky",
+          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-ellis-candidate-filings-page"
+            "src-michael-berges-0005"
           ],
-          "mappedToIssueId": "i-infrastructure-roads-land-use"
-        },
-        {
-          "id": "ss-crossref-3",
-          "platform": "Public web",
-          "observation": "Economic development: He said the commission should be more proactive, especially through stable funding for Grow Hays and related groups, while also considering tax incentives, zoning changes, infrastructure, and rural water access.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-ellis-candidate-filings-page"
-          ],
-          "mappedToIssueId": "i-infrastructure-roads-land-use"
-        },
-        {
-          "id": "ss-crossref-5",
-          "platform": "Public web",
-          "observation": "2022 Q&A on infrastructure: Berges said he would continue favoring earmarked sales-tax funds for infrastructure because bridges, roads, and possibly railroad crossings needed attention. Source: s-hayspost-berges-qa-2022.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-ellis-candidate-filings-page"
-          ],
-          "mappedToIssueId": "i-infrastructure-roads-land-use"
+          "mappedToIssueId": "i-lgbt-gender-parental-rights"
         }
-      ],
-      "gap": {
-        "summary": "The record aligns with Berges's 2022 infrastructure emphasis, but it\nalso places him on the pro-approval side of at least one subdivision\nvote where Leiker dissented. That contrast is a land-use and\ncomprehensive-planning difference between the two county commission\nincumbents, not evidence of motive.",
-        "evidenceIds": [
-          "a-fairview-patch-yes-2025",
-          "a-subdivision-road-discussion-2025"
-        ]
-      }
+      ]
     },
     {
-      "id": "i-public-safety-courts-recovery",
-      "title": "Public safety, sheriff facilities, courts, and recovery services",
+      "id": "i-education-curriculum-schools",
+      "title": "Education / curriculum / schools",
       "stated": {
-        "text": "In 2022, Berges identified sheriff's department facility needs as a\nmajor county issue. He discussed the possibility that a Hays police\nrelocation could affect shared space, said he would be open to\nexpansion or a new law/judicial/detention center in the direction\nfavored by the sheriff, and noted county costs for housing inmates\nelsewhere.",
+        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 13 selected evidence items for this issue, including 1 public URL-backed item and 12 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
+          "src-michael-berges-0005"
+        ]
+      },
+      "actions": [
+        {
+          "id": "em-michael-berges-01212",
+          "date": "Undated",
+          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
+          "sourceIds": [
+            "src-michael-berges-0005"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "soc-michael-berges-0001",
+          "platform": "Bluesky",
+          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-michael-berges-0005"
+          ],
+          "mappedToIssueId": "i-education-curriculum-schools"
+        }
+      ]
+    },
+    {
+      "id": "i-religious-liberty-church-civic-morality",
+      "title": "Religious liberty / church / civic morality",
+      "stated": {
+        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 5 selected evidence items for this issue, including 4 public URL-backed items and 1 internal-memory item. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": [
+          "src-michael-berges-0005",
+          "src-michael-berges-0006",
+          "src-michael-berges-0007",
           "s-hayspost-berges-qa-2022"
         ]
       },
       "actions": [
         {
-          "id": "a-opioid-funds-training-2026",
-          "date": "2026-02-17",
-          "body": "Seconded and voted for use of approximately $1,828.29 in opioid\nfunds to send three sheriff's officers to the Kansas Narcotics\nOfficers Association yearly conference. The motion passed 3-0.",
+          "id": "em-michael-berges-01212",
+          "date": "Undated",
+          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
           "sourceIds": [
-            "s-minutes-02172026"
-          ]
-        },
-        {
-          "id": "a-recovery-court-grant-2026",
-          "date": "2026-02-17",
-          "body": "Was present when the commission received information on a $25,211.50\nSpecialty Court Funding award for recovery court. The minutes record\nthat the award would help with training, a software app, fuel\nincentives, other incentives, gift cards, and behavior therapy.",
-          "sourceIds": [
-            "s-minutes-02172026"
-          ]
-        },
-        {
-          "id": "a-retreat-sheriff-staffing-2026",
-          "date": "2026-04-08",
-          "body": "Attended the county retreat where sheriff staffing was discussed.\nThe minutes record an undersheriff proposal for three additional\nstaff, with one position funded by fingerprint fees and two needing\nbudget funding.",
-          "sourceIds": [
-            "s-minutes-04082026"
+            "src-michael-berges-0005"
           ]
         }
       ],
-      "socialSignals": [],
-      "gap": {
-        "summary": "Berges's public-safety record includes smaller concrete actions on\nopioid-fund training and recovery-court grant context, while the\nlarger jail or law-enforcement facility question remains open in the\nreviewed record. No final vote on a jail expansion or new detention\nfacility was confirmed in this pass.",
-        "evidenceIds": [
-          "a-opioid-funds-training-2026",
-          "a-retreat-sheriff-staffing-2026"
-        ]
-      }
+      "socialSignals": [
+        {
+          "id": "soc-michael-berges-0001",
+          "platform": "Bluesky",
+          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-michael-berges-0005"
+          ],
+          "mappedToIssueId": "i-religious-liberty-church-civic-morality"
+        }
+      ]
     },
     {
-      "id": "i-economic-development-housing-growth",
-      "title": "Economic development, housing, and intergovernmental cooperation",
+      "id": "i-taxes-spending-debt",
+      "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Berges said in 2022 that the county commission should be more\nproactive in economic development, especially through stable funding\nfor Grow Hays and related organizations. He also named tax incentives,\nzoning changes, infrastructure, and rural water access as tools that\ncould affect business, housing, and growth. He described city-county\ncooperation as important because city residents are also county\nresidents.",
+        "text": "Documented-record evidence: Hays Post: 2026 budget The disk matrix keeps 25 selected evidence items for this issue, including 2 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
+          "src-michael-berges-0009",
+          "src-michael-berges-0005"
+        ]
+      },
+      "actions": [
+        {
+          "id": "em-michael-berges-01004",
+          "date": "Undated",
+          "body": "Hays Post: 2026 budget",
+          "sourceIds": [
+            "src-michael-berges-0009"
+          ]
+        },
+        {
+          "id": "em-michael-berges-01212",
+          "date": "Undated",
+          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
+          "sourceIds": [
+            "src-michael-berges-0005"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "soc-michael-berges-0001",
+          "platform": "Bluesky",
+          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-michael-berges-0005"
+          ],
+          "mappedToIssueId": "i-taxes-spending-debt"
+        }
+      ]
+    },
+    {
+      "id": "i-economy-jobs-labor",
+      "title": "Economy / jobs / labor",
+      "stated": {
+        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 19 selected evidence items for this issue, including 1 public URL-backed item and 18 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": [
+          "src-michael-berges-0005"
+        ]
+      },
+      "actions": [
+        {
+          "id": "em-michael-berges-01212",
+          "date": "Undated",
+          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
+          "sourceIds": [
+            "src-michael-berges-0005"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "soc-michael-berges-0001",
+          "platform": "Bluesky",
+          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-michael-berges-0005"
+          ],
+          "mappedToIssueId": "i-economy-jobs-labor"
+        }
+      ]
+    },
+    {
+      "id": "i-guns-second-amendment",
+      "title": "Guns / Second Amendment",
+      "stated": {
+        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": [
+          "src-michael-berges-0005"
+        ]
+      },
+      "actions": [
+        {
+          "id": "em-michael-berges-01212",
+          "date": "Undated",
+          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
+          "sourceIds": [
+            "src-michael-berges-0005"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "soc-michael-berges-0001",
+          "platform": "Bluesky",
+          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-michael-berges-0005"
+          ],
+          "mappedToIssueId": "i-guns-second-amendment"
+        }
+      ]
+    },
+    {
+      "id": "i-immigration-border",
+      "title": "Immigration / border",
+      "stated": {
+        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 2 selected evidence items for this issue, including 1 public URL-backed item and 1 internal-memory item. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": [
+          "src-michael-berges-0005"
+        ]
+      },
+      "actions": [
+        {
+          "id": "em-michael-berges-01212",
+          "date": "Undated",
+          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
+          "sourceIds": [
+            "src-michael-berges-0005"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "soc-michael-berges-0001",
+          "platform": "Bluesky",
+          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-michael-berges-0005"
+          ],
+          "mappedToIssueId": "i-immigration-border"
+        }
+      ]
+    },
+    {
+      "id": "i-health-care-insurance-medicaid",
+      "title": "Health care / insurance / Medicaid",
+      "stated": {
+        "text": "Documented-record evidence: Relevant excerpt/paraphrase: County budget book says commissioners serve four-year overlapping terms and lists Michael Berges, District I, term expiring January 2027. It also describes commission responsibilities: budgets, levies, roads, contracts for public health/welfare, citizen appointments, facilities, and local legislation. The disk matrix keeps 16 selected evidence items for this issue, including 0 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-election-integrity-voting-courts",
+      "title": "Election integrity / voting / courts",
+      "stated": {
+        "text": "Documented-record evidence: Berges, Leiker Presumptive New Commissioners -- Hays Post The disk matrix keeps 22 selected evidence items for this issue, including 7 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": [
+          "s-hayspost-canvass-2022",
+          "s-ellis-commission-page",
           "s-hayspost-berges-qa-2022",
-          "s-hayspost-berges-announcement-2022"
+          "s-hayspost-berges-announcement-2022",
+          "src-michael-berges-0013",
+          "src-michael-berges-0014"
         ]
       },
       "actions": [
         {
-          "id": "a-grow-hays-funding-2025",
-          "date": "2025-08-14",
-          "body": "Hays Post reported that Berges said Grow Hays contacted the\ncommission after a budget discussion and asked that $5,000 be\nreinstated. The commission later reinstated Grow Hays' $165,000\nrequest and maintained the Ellis County Historical Society\nallocation at $115,000.",
+          "id": "em-michael-berges-00711",
+          "date": "Undated",
+          "body": "Berges, Leiker Presumptive New Commissioners -- Hays Post",
           "sourceIds": [
-            "s-hayspost-budget-draft-2025"
+            "s-hayspost-canvass-2022"
           ]
         },
         {
-          "id": "a-ellis-road-cooperation-2025",
-          "date": "2025-08-19",
-          "body": "Asked commissioners to sign a support letter for the City of Ellis\nroad project cost-share grant, a concrete city-county cooperation\naction tied to road infrastructure.",
+          "id": "em-michael-berges-00714",
+          "date": "Undated",
+          "body": "Ellis County Commission Official Page",
           "sourceIds": [
-            "s-minutes-08192025"
+            "s-ellis-commission-page"
           ]
         },
         {
-          "id": "a-professional-economic-development-role",
-          "date": "2026-05-19",
-          "body": "Northwest Kansas Economic Innovation Center lists Berges as Business\nServices Director, describing work to support businesses across a\n26-county service area. This is professional background rather than\nan official county vote.",
+          "id": "em-michael-berges-00748",
+          "date": "Undated",
+          "body": "Candidate Profile -- Hays Post",
           "sourceIds": [
-            "s-nwkeici-staff"
+            "s-hayspost-berges-qa-2022"
+          ]
+        },
+        {
+          "id": "em-michael-berges-00749",
+          "date": "Undated",
+          "body": "Hays Commissioner Announces County Run -- Hays Post",
+          "sourceIds": [
+            "s-hayspost-berges-announcement-2022"
+          ]
+        },
+        {
+          "id": "em-michael-berges-00803",
+          "date": "Undated",
+          "body": "ZoomInfo profile -- limited info",
+          "sourceIds": [
+            "src-michael-berges-0013"
+          ]
+        },
+        {
+          "id": "em-michael-berges-00806",
+          "date": "Undated",
+          "body": "Motor Vehicle Fees -- Hays Post",
+          "sourceIds": [
+            "src-michael-berges-0014"
           ]
         }
       ],
       "socialSignals": [
         {
-          "id": "ss-crossref-1",
-          "platform": "Hays Post",
-          "observation": "Searches covered official county pages, Ellis County agenda/minutes PDFs, Hays Post archives, Northwest Kansas Economic Innovation Center, League of Kansas Municipalities, Kansas Public Disclosure Commission web search results, FEC-style/campaign-finance queries, Facebook/search-indexed social traces, and general web searches for professional, property/business, court/legal, news, written-record,...",
-          "observedAt": "2026-05-19",
+          "id": "soc-michael-berges-0001",
+          "platform": "Bluesky",
+          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-ellis-candidate-filings-page"
+            "src-michael-berges-0005"
           ],
-          "mappedToIssueId": "i-economic-development-housing-growth"
-        },
-        {
-          "id": "ss-crossref-3",
-          "platform": "Hays Post",
-          "observation": "Findings: NWKEICI staff page lists Berges as Business Services Director at the Innovation Center with economic-development and business-services duties across 26 counties. Hays Post 2022 materials list prior work with Development Services of Northwest Kansas and experience in financial advice, nonprofits, grants, and city commission service.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-ellis-candidate-filings-page"
-          ],
-          "mappedToIssueId": "i-economic-development-housing-growth"
-        },
-        {
-          "id": "ss-crossref-5",
-          "platform": "Hays Post",
-          "observation": "Findings: No 2026 endorsements surfaced. 2022 Hays Post announcement says Berges stated he was encouraged to run by many who knew his interest in community/county issues; no endorsing individuals or organizations are listed. His professional/community network includes NWKEICI/Innovation Center, Grow Hays policy discussions, ARC of Central Plains, Tiger Takedown Club, St. Joseph/First United Methodist context, and...",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-ellis-candidate-filings-page"
-          ],
-          "mappedToIssueId": "i-economic-development-housing-growth"
+          "mappedToIssueId": "i-election-integrity-voting-courts"
         }
-      ],
-      "gap": {
-        "summary": "Berges's economic-development profile combines public office and\nprofessional work in regional business services. The reviewed record\ndoes not provide donor data or business-interest records that would\nsupport a conflict or influence claim. Keep the overlap descriptive\nunless later filings add specific evidence.",
-        "evidenceIds": [
-          "a-grow-hays-funding-2025",
-          "a-professional-economic-development-role"
-        ]
-      }
+      ]
     },
     {
-      "id": "i-public-communication-social-footprint",
-      "title": "Public communication and limited campaign-controlled social footprint",
+      "id": "i-public-safety-law-enforcement-criminal-justice",
+      "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Berges's accessible public message is preserved more through meeting\nrecords, candidate Q&A, and local news than through a verified current\ncampaign-controlled social feed. His 2022 Q&A gave detailed answers on\ncounty operations, and a 2020 Hays city-commission article records him\nmaking a personal public-health plea while stopping short of asking\nfor a city ordinance.",
+        "text": "Documented-record evidence: Berges, Leiker Presumptive New Commissioners -- Hays Post The disk matrix keeps 15 selected evidence items for this issue, including 7 public URL-backed items and 8 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
+          "s-hayspost-canvass-2022",
+          "s-ellis-commission-page",
           "s-hayspost-berges-qa-2022",
-          "s-hayspost-city-mask-2020"
+          "s-hayspost-berges-announcement-2022",
+          "src-michael-berges-0013",
+          "src-michael-berges-0014"
         ]
       },
       "actions": [
         {
-          "id": "a-budget-hearing-public-response-2025",
-          "date": "2025-09-09",
-          "body": "After the 2026 budget hearing, the official minutes say Berges\nthanked those who spoke, apologized for not being present in person,\nsaid he took their comments seriously, and invited the public to a\nSeptember 23 work session.",
+          "id": "em-michael-berges-00711",
+          "date": "Undated",
+          "body": "Berges, Leiker Presumptive New Commissioners -- Hays Post",
           "sourceIds": [
-            "s-minutes-09092025"
+            "s-hayspost-canvass-2022"
           ]
         },
         {
-          "id": "a-city-mask-public-plea-2020",
-          "date": "2020-07-10",
-          "body": "As a Hays city commissioner before his county term, Berges made a\npersonal plea for mask-wearing during COVID-19 coverage while saying\nhe was not at the point of asking fellow commissioners for a city\nordinance.",
+          "id": "em-michael-berges-00714",
+          "date": "Undated",
+          "body": "Ellis County Commission Official Page",
           "sourceIds": [
-            "s-hayspost-city-mask-2020"
+            "s-ellis-commission-page"
+          ]
+        },
+        {
+          "id": "em-michael-berges-00748",
+          "date": "Undated",
+          "body": "Candidate Profile -- Hays Post",
+          "sourceIds": [
+            "s-hayspost-berges-qa-2022"
+          ]
+        },
+        {
+          "id": "em-michael-berges-00749",
+          "date": "Undated",
+          "body": "Hays Commissioner Announces County Run -- Hays Post",
+          "sourceIds": [
+            "s-hayspost-berges-announcement-2022"
+          ]
+        },
+        {
+          "id": "em-michael-berges-00803",
+          "date": "Undated",
+          "body": "ZoomInfo profile -- limited info",
+          "sourceIds": [
+            "src-michael-berges-0013"
+          ]
+        },
+        {
+          "id": "em-michael-berges-00806",
+          "date": "Undated",
+          "body": "Motor Vehicle Fees -- Hays Post",
+          "sourceIds": [
+            "src-michael-berges-0014"
+          ]
+        }
+      ],
+      "socialSignals": []
+    },
+    {
+      "id": "i-agriculture-rural-economy-water",
+      "title": "Agriculture / rural economy / water",
+      "stated": {
+        "text": "Documented-record evidence: narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha... The disk matrix keeps 15 selected evidence items for this issue, including 1 public URL-backed item and 14 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": [
+          "src-michael-berges-0005"
+        ]
+      },
+      "actions": [
+        {
+          "id": "em-michael-berges-01212",
+          "date": "Undated",
+          "body": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the c...",
+          "sourceIds": [
+            "src-michael-berges-0005"
           ]
         }
       ],
       "socialSignals": [
         {
-          "id": "ss-crossref-1",
+          "id": "soc-michael-berges-0001",
+          "platform": "Bluesky",
+          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-michael-berges-0005"
+          ],
+          "mappedToIssueId": "i-agriculture-rural-economy-water"
+        }
+      ]
+    },
+    {
+      "id": "i-local-governance-transparency-ethics",
+      "title": "Local governance / transparency / ethics",
+      "stated": {
+        "text": "Documented-record evidence: Ellis County Commission Official Page The disk matrix keeps 33 selected evidence items for this issue, including 10 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": [
+          "s-ellis-commission-page",
+          "s-hayspost-berges-announcement-2022",
+          "src-michael-berges-0002",
+          "s-hayspost-berges-qa-2022",
+          "src-michael-berges-0016"
+        ]
+      },
+      "actions": [
+        {
+          "id": "em-michael-berges-00714",
+          "date": "Undated",
+          "body": "Ellis County Commission Official Page",
+          "sourceIds": [
+            "s-ellis-commission-page"
+          ]
+        },
+        {
+          "id": "em-michael-berges-00749",
+          "date": "Undated",
+          "body": "Hays Commissioner Announces County Run -- Hays Post",
+          "sourceIds": [
+            "s-hayspost-berges-announcement-2022"
+          ]
+        },
+        {
+          "id": "em-michael-berges-00809",
+          "date": "Undated",
+          "body": "Ellis County Treasury Official Page",
+          "sourceIds": [
+            "src-michael-berges-0002"
+          ]
+        },
+        {
+          "id": "em-michael-berges-01026",
+          "date": "Undated",
+          "body": "Ellis County Commission Page",
+          "sourceIds": [
+            "s-ellis-commission-page"
+          ]
+        },
+        {
+          "id": "em-michael-berges-01027",
+          "date": "Undated",
+          "body": "Hays Post: Berges Candidate Profile",
+          "sourceIds": [
+            "s-hayspost-berges-qa-2022"
+          ]
+        },
+        {
+          "id": "em-michael-berges-01028",
+          "date": "Undated",
+          "body": "Hays Post: 2024 Election Results",
+          "sourceIds": [
+            "src-michael-berges-0016"
+          ]
+        }
+      ],
+      "socialSignals": [
+        {
+          "id": "soc-michael-berges-0001",
+          "platform": "Bluesky",
+          "observation": "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from December 27, 2022 through May 11, 2026. We report patterns; we do not interpret intent._\\n\\nCunningham's accessible public message is more civic-administrative tha...",
+          "observedAt": "2026-05-20",
+          "sourceIds": [
+            "src-michael-berges-0005"
+          ],
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
+        },
+        {
+          "id": "soc-michael-berges-0002",
           "platform": "Facebook",
-          "observation": "Facebook: Search surfaced references to a public facebook.com/EllisCountyDistrict1/ page in another candidate's sleuth pass, but this pass could not verify page content or candidate-controlled post history from logged-out browser/search results. Do not treat the page as evidence of posts, likes, follows, or comments unless a later worker captures visible content directly.",
-          "observedAt": "2026-05-19",
+          "observation": "Source/lead URLs: https://www.facebook.com/EllisCountyDistrict1/ (lead only); https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/ (lead only).",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-ellis-candidate-filings-page"
+            "src-michael-berges-0019"
           ],
-          "mappedToIssueId": "i-public-communication-social-footprint"
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "ss-crossref-3",
-          "platform": "Hays Post",
-          "observation": "Campaign site: No dedicated 2026 campaign website surfaced. 2022 campaign material is mainly preserved through Hays Post's filing announcement and candidate Q&A.",
-          "observedAt": "2026-05-19",
+          "id": "soc-michael-berges-0003",
+          "platform": "Facebook",
+          "observation": "\"url\": \"https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/\"",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-ellis-candidate-filings-page"
+            "src-michael-berges-0020"
           ],
-          "mappedToIssueId": "i-public-communication-social-footprint"
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         },
         {
-          "id": "ss-crossref-5",
-          "platform": "X",
-          "observation": "Other platforms: No verified candidate-controlled X/Twitter, Instagram, Threads, TikTok, YouTube, Reddit, or newsletter presence surfaced in targeted searches.",
-          "observedAt": "2026-05-19",
+          "id": "soc-michael-berges-0004",
+          "platform": "Facebook",
+          "observation": "Hays Daily News -- Berges Commission Comment",
+          "observedAt": "2026-05-20",
           "sourceIds": [
-            "s-ellis-candidate-filings-page"
+            "src-michael-berges-0020"
           ],
-          "mappedToIssueId": "i-public-communication-social-footprint"
+          "mappedToIssueId": "i-local-governance-transparency-ethics"
         }
-      ],
-      "gap": {
-        "summary": "No verified current candidate-controlled posts, comments, likes,\nfollows, or engagement metrics were captured. A possible District 1\nFacebook page and a Hays Daily News Facebook reference remain leads,\nbut they should not be used as evidence until content is directly\ncaptured.",
-        "evidenceIds": [
-          "a-budget-hearing-public-response-2025"
-        ]
-      }
+      ]
+    },
+    {
+      "id": "i-environment-energy-land-use",
+      "title": "Environment / energy / land use",
+      "stated": {
+        "text": "Documented-record evidence: | Fairview Patch final plat | July 1, 2025 minutes | Subdivision growth and land use | The disk matrix keeps 3 selected evidence items for this issue, including 0 public URL-backed items and 3 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
     }
   ],
   "campaignFinance": {
@@ -396,7 +602,60 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
       "accessed": "2026-05-19",
       "claimsAnchored": [
         "Ellis County publishes current candidate filings through the county election office",
-        "The page links the 2026 Primary Election Candidates PDF"
+        "The page links the 2026 Primary Election Candidates PDF",
+        "[Ellis County Candidate Filings](https://www.ellisco.net/626/Candidate-Filings)",
+        "IMPORTANT CAVEAT: Contact the Ellis County Clerk (785-628-9410) to confirm exactly which offices appear on the 2026 ballot. The Candidate Filings page at [ellisco.net/626](https://www.ellisco.net/626/Candidate-Filings) will show declared candidates once filing"
+      ]
+    },
+    {
+      "id": "s-ellis-candidate-filings-pdf",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings",
+      "title": "2026 Primary Candidate Filings",
+      "publisher": "Ellis County Clerk / Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Michael Berges is listed as a Republican candidate for Commission District 1",
+        "Commission District 1 appears on Ellis County's 2026 primary candidate filing list"
+      ]
+    },
+    {
+      "id": "s-ellis-commission-page",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/120/County-Commission",
+      "title": "County Commission",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Michael Berges is listed as Ellis County Commissioner for the First District",
+        "Ellis County publishes commission agendas, minutes, and meeting information",
+        "[Ellis County Commission Official Page](https://www.ellisco.net/120/County-Commission)",
+        "[Ellis County Commission Page](https://www.ellisco.net/120/County-Commission)"
+      ]
+    },
+    {
+      "id": "s-ellis-2024-budget-book",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/DocumentCenter/View/5378/2024-Budget-Book-Final",
+      "title": "Ellis County 2024 Budget Book",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "County commissioners serve four-year overlapping terms",
+        "Michael Berges, District I, is listed with term expiring January 2027",
+        "County commission duties include budgets, tax levies, roads, contracts for public health and welfare, appointments, facilities, and local legislation"
+      ]
+    },
+    {
+      "id": "s-ellis-election-results-page",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/435/Election-Results",
+      "title": "Election Results",
+      "publisher": "Ellis County, Kansas",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Ellis County publishes official 2022 primary and general election results",
+        "The page is the official source path for 2022 election-result PDFs"
       ]
     },
     {
@@ -499,7 +758,8 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Berges announced he had filed for the 2022 Ellis County Commission District 1 race",
         "Berges identified housing, roads and bridges, facility plans, growth, emergency services, economic vitality, innovation, and cooperation as campaign themes",
-        "The article identified Berges as Hays vice-mayor, Development Services of Northwest Kansas employee, ARC of Central Plains treasurer, Tiger Takedown Club chair, St. Joseph Catholic Church member, and participant at First United Methodist Church"
+        "The article identified Berges as Hays vice-mayor, Development Services of Northwest Kansas employee, ARC of Central Plains treasurer, Tiger Takedown Club chair, St. Joseph Catholic Church member, and participant at First United Methodist Church",
+        "[Hays Commissioner Announces County Run -- Hays Post](https://hayspost.com/posts/cc38c04a-09f2-41be-8708-04cc33013376)"
       ]
     },
     {
@@ -515,7 +775,23 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
         "Berges identified sheriff's department facility needs and outside inmate-housing costs as a major issue",
         "Berges said the commission should be more proactive in economic development through Grow Hays funding, incentives, zoning changes, infrastructure, and water access",
         "Berges discussed intergovernmental cooperation with Ellis, Hays, Victoria, USD 489, and grant coalitions",
-        "Berges cited city commission budget cycles, financial-advice experience, nonprofit grant writing, and public-service experience"
+        "Berges cited city commission budget cycles, financial-advice experience, nonprofit grant writing, and public-service experience",
+        "[HaysPost Candidate Profile: Michael Berges](https://hayspost.com/posts/8400acf8-32ea-486a-b087-8423d8f728e0)",
+        "[Candidate Profile -- Hays Post](https://hayspost.com/posts/8400acf8-32ea-486a-b087-8423d8f728e0)",
+        "[Hays Post: Berges Candidate Profile](https://hayspost.com/posts/8400acf8-32ea-486a-b087-8423d8f728e0)"
+      ]
+    },
+    {
+      "id": "s-hayspost-canvass-2022",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4",
+      "title": "Berges, Leiker presumptive new Ellis County commissioners after canvass",
+      "publisher": "Hays Post",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "Berges won the 2022 District 1 Republican primary after canvass, 848-835 over Jim Pfeifer",
+        "Hays Post reported no Democratic challengers on the November ballot",
+        "[Berges, Leiker Presumptive New Commissioners -- Hays Post](https://hayspost.com/posts/6e260438-27db-4402-bf8e-e8df621996d4)"
       ]
     },
     {
@@ -580,6 +856,358 @@ export const MICHAEL_BERGES_V2: CandidateFullV2 = {
         "The staff biography describes his work supporting businesses across a 26-county service area",
         "The biography describes experience in hotel management, foundation development, and financial and investment management"
       ]
+    },
+    {
+      "id": "s-lkm-berges",
+      "tier": "secondary",
+      "url": "https://www.lkm.org/members/?id=41498351",
+      "title": "Michael Berges, Commissioner, Ellis County",
+      "publisher": "League of Kansas Municipalities",
+      "accessed": "2026-05-19",
+      "claimsAnchored": [
+        "League of Kansas Municipalities lists Michael Berges as Commissioner, Ellis County",
+        "Profile was listed as last updated January 5, 2026"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0002",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/566/Treasury",
+      "title": "Ellisco",
+      "publisher": "Ellisco",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Ellis County Treasury Official Page](https://www.ellisco.net/566/Treasury)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0003",
+      "tier": "primary",
+      "url": "https://www.ellisco.net/425/Election",
+      "title": "Ellisco",
+      "publisher": "Ellisco",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Ellis County Election Page](https://www.ellisco.net/425/Election)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0005",
+      "tier": "primary",
+      "url": "https://www.haysusa.com/269/City-Commission",
+      "title": "Haysusa",
+      "publisher": "Haysusa",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "\"campaignWebsite\": \"https://www.haysusa.com/269/City-Commission\",",
+        "narrative: \"_A summary of what Alaina Cunningham has publicly said, posted, and had attributed to her across city pages, public meeting records, local candidate Q&As, local news, podcast listings, and public profile traces. Drawn from public captures from Dece"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0006",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31",
+      "title": "Hayspost",
+      "publisher": "Hayspost",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[HaysPost: Hays city commission incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)",
+        "[Hays Post: Incumbents re-elected](https://hayspost.com/posts/5c04aec5-5ab3-413c-8844-d90e91aa0d31)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0007",
+      "tier": "secondary",
+      "url": "https://tigermedianet.com/?p=75270",
+      "title": "Tigermedianet",
+      "publisher": "Tigermedianet",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Tiger Media Network: Get to know the Hays City Commission candidates](https://tigermedianet.com/?p=75270)",
+        "[Tiger Media Network: Get to know candidates](https://tigermedianet.com/?p=75270)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0009",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69",
+      "title": "Hayspost",
+      "publisher": "Hayspost",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Hays Post: 2026 budget](https://hayspost.com/posts/7d615ae1-9b48-4ebd-9200-7c593c85db69)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0011",
+      "tier": "secondary",
+      "url": "https://www.manta.com/c/mhxwpdc/l5-farms-inc",
+      "title": "Manta",
+      "publisher": "Manta",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[L5 Farms -- Manta](https://www.manta.com/c/mhxwpdc/l5-farms-inc)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0013",
+      "tier": "secondary",
+      "url": "https://www.zoominfo.com/p/Vernon-Ruder/2569532965",
+      "title": "Zoominfo",
+      "publisher": "Zoominfo",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[ZoomInfo profile](https://www.zoominfo.com/p/Vernon-Ruder/2569532965) -- limited info"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0014",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494",
+      "title": "Hayspost",
+      "publisher": "Hayspost",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Motor Vehicle Fees -- Hays Post](https://hayspost.com/posts/637d35a7-f280-4818-bef9-6bd7f8d30494)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0015",
+      "tier": "secondary",
+      "url": "https://haysmedfoundation.org/foundation-elects-new-officers-and-board-members/",
+      "title": "Haysmedfoundation",
+      "publisher": "Haysmedfoundation",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[HaysMed Foundation: New officers](https://haysmedfoundation.org/foundation-elects-new-officers-and-board-members/)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0016",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496",
+      "title": "Hayspost",
+      "publisher": "Hayspost",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Hays Post: 2024 Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)",
+        "[Hays Post: 2024 General Election Results](https://hayspost.com/posts/1873ff67-3bab-44c2-896b-8aee3a992496)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0017",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/7bf9c6e7-b64c-4412-ba77-c1174d969816",
+      "title": "Hayspost",
+      "publisher": "Hayspost",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Hays Post: Harbin Retires](https://hayspost.com/posts/7bf9c6e7-b64c-4412-ba77-c1174d969816)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0018",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6",
+      "title": "Hayspost",
+      "publisher": "Hayspost",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Hays Post: Commission Salary Adjustments 2026](https://hayspost.com/posts/18d99844-46b7-4bc0-a558-9d9a87fa92e6)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0019",
+      "tier": "social",
+      "url": "https://www.facebook.com/EllisCountyDistrict1/`",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "Source/lead URLs: https://www.facebook.com/EllisCountyDistrict1/ (lead only); https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/ (lead only)."
+      ]
+    },
+    {
+      "id": "src-michael-berges-0020",
+      "tier": "social",
+      "url": "https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "\"url\": \"https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/\"",
+        "[Hays Daily News -- Berges Commission Comment](https://www.facebook.com/HaysDailyNews/posts/ellis-county-commission-chair-michael-berges-asserted-that-commissioners-are-not/1509240304362171/)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0021",
+      "tier": "secondary",
+      "url": "https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates",
+      "title": "Kcur",
+      "publisher": "Kcur",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[KCUR: Guide to candidates](https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0022",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
+      "title": "Hayspost",
+      "publisher": "Hayspost",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "\"source\": \"Hays Post, October 25, 2023, https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055\","
+      ]
+    },
+    {
+      "id": "src-michael-berges-0023",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/nathan-leiker-1236bb276",
+      "title": "Linkedin",
+      "publisher": "Linkedin",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[LinkedIn Profile](https://www.linkedin.com/in/nathan-leiker-1236bb276)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0024",
+      "tier": "social",
+      "url": "https://www.facebook.com/EllisCountyDistrict1/",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": [
+        "[Facebook Page](https://www.facebook.com/EllisCountyDistrict1/)"
+      ]
+    },
+    {
+      "id": "src-michael-berges-0037",
+      "tier": "primary",
+      "url": "https://haysusa.com/273/Shaun-Musil",
+      "title": "Haysusa",
+      "publisher": "Haysusa",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
+    },
+    {
+      "id": "src-michael-berges-0040",
+      "tier": "primary",
+      "url": "https://www.fec.gov/data/candidate/H6KS03258/",
+      "title": "Fec",
+      "publisher": "Fec",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
+    },
+    {
+      "id": "src-michael-berges-0042",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/49060a66-e8fc-4755-a296-382a14c00a3d",
+      "title": "Hayspost",
+      "publisher": "Hayspost",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
+    },
+    {
+      "id": "src-michael-berges-0043",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/08825e68-f663-4a03-96f4-0b2c6f0b4ec7",
+      "title": "Hayspost",
+      "publisher": "Hayspost",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
+    },
+    {
+      "id": "src-michael-berges-0044",
+      "tier": "secondary",
+      "url": "https://hayspost.com/posts/70a84c66-2d84-4023-b4bb-df360cbe90dd",
+      "title": "Hayspost",
+      "publisher": "Hayspost",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
+    },
+    {
+      "id": "src-michael-berges-0045",
+      "tier": "secondary",
+      "url": "https://www.hdnews.net/city-commissioners-sworn-in-ruder-elected-mayor-cunningham-vice-mayor/",
+      "title": "Hdnews",
+      "publisher": "Hdnews",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
+    },
+    {
+      "id": "src-michael-berges-0046",
+      "tier": "secondary",
+      "url": "https://kspress.com/news/2025/09/20/forgetting-the-lesson-of-911-is-the-danger-we-face-now-says-ruder",
+      "title": "Kspress",
+      "publisher": "Kspress",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
+    },
+    {
+      "id": "src-michael-berges-0047",
+      "tier": "secondary",
+      "url": "https://www.haysmed.com/the-center/alaina-cunningham/",
+      "title": "Haysmed",
+      "publisher": "Haysmed",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
+    },
+    {
+      "id": "src-michael-berges-0048",
+      "tier": "secondary",
+      "url": "https://ballotpedia.org/Chase_LaPorte",
+      "title": "Ballotpedia",
+      "publisher": "Ballotpedia",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
+    },
+    {
+      "id": "src-michael-berges-0049",
+      "tier": "secondary",
+      "url": "https://www.opencampaign.com/politicians-in-united-states/197957/chase-laporte/issue-positions",
+      "title": "Opencampaign",
+      "publisher": "Opencampaign",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
+    },
+    {
+      "id": "src-michael-berges-0050",
+      "tier": "secondary",
+      "url": "https://www.ksn.com/news/state-regional/kansas-us-senate-candidates-under-scrutiny-over-missing-financial-disclosures/",
+      "title": "Ksn",
+      "publisher": "Ksn",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
+    },
+    {
+      "id": "src-michael-berges-0051",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/scott-braun-cpm-62833366/",
+      "title": "Linkedin",
+      "publisher": "Linkedin",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
+    },
+    {
+      "id": "src-michael-berges-0052",
+      "tier": "social",
+      "url": "https://www.linkedin.com/in/alaina-cunningham-4436ba1/",
+      "title": "Linkedin",
+      "publisher": "Linkedin",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
+    },
+    {
+      "id": "src-michael-berges-0053",
+      "tier": "social",
+      "url": "https://www.facebook.com/alaina.cunningham.9/",
+      "title": "Facebook",
+      "publisher": "Facebook",
+      "accessed": "2026-05-20",
+      "claimsAnchored": []
     }
   ]
 };

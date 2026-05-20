@@ -1,6 +1,6 @@
-/* Auto-normalized with issue-mapped social/online cross-reference signals.
- * To refresh:
- *   node scripts/hydrate-v2-social-signals.mjs
+/* Auto-generated from memory/candidates/steven-jacob/v2-issues.yaml.
+ * Edit the YAML source, then run:
+ *   node scripts/compile-v2-yaml.mjs steven-jacob
  */
 
 import type { CandidateFullV2 } from "@/data/types-v2";
@@ -16,89 +16,146 @@ export const STEVEN_JACOB_V2: CandidateFullV2 = {
   "occupation": "U.S. House candidate",
   "issues": [
     {
-      "id": "i-ballot-status",
-      "title": "Ballot / filing status",
+      "id": "i-abortion-life",
+      "title": "Abortion / life",
       "stated": {
-        "text": "Steven Robert Jacob appears in the reviewed official or campaign-finance records connected to U.S. House candidate, Kansas 1st District. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.",
-        "sourceIds": [
-          "s-fec-candidate"
-        ]
+        "text": "No relevant public evidence was found for Abortion / life in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "a-record-appearance",
-          "date": "2026-05-20",
-          "body": "FEC candidate data identifies Steven Robert Jacob as a 2026 Kansas District 1 U.S. House candidate.",
-          "sourceIds": [
-            "s-fec-candidate"
-          ]
-        }
-      ],
+      "actions": [],
       "socialSignals": []
     },
     {
-      "id": "i-public-issue-record",
-      "title": "Where they stand on big issues",
+      "id": "i-lgbt-gender-parental-rights",
+      "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
-        "sourceIds": [
-          "s-fec-candidate"
-        ]
+        "text": "No relevant public evidence was found for LGBT / gender / parental rights in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "a-platform-gap",
-          "date": "2026-05-20",
-          "body": "The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.",
-          "sourceIds": [
-            "s-fec-candidate"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Public web",
-          "observation": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-fec-candidate"
-          ],
-          "mappedToIssueId": "i-public-issue-record"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
-      "id": "i-donor-funding",
-      "title": "Donor / funding information",
+      "id": "i-education-curriculum-schools",
+      "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+        "text": "No relevant public evidence was found for Education / curriculum / schools in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-religious-liberty-church-civic-morality",
+      "title": "Religious liberty / church / civic morality",
+      "stated": {
+        "text": "Reviewed evidence: Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations. The disk matrix keeps 4 selected evidence items for this issue, including 0 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-taxes-spending-debt",
+      "title": "Taxes / spending / debt",
+      "stated": {
+        "text": "Documented-record evidence: Your U.S. Representative is the one person in Congress who represents your specific district — not the whole state, just your area. They serve two-year terms, vote on federal laws and spending bills, and are supposed to be your direct voice in Washington on everything from farm policy to highway funding to military spending. If Hays has a federal issue, this is the person whose phone should ring. The disk matrix keeps 1 selected evidence item for this issue, including 0 public URL-backed items and 1 internal-memory item.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-economy-jobs-labor",
+      "title": "Economy / jobs / labor",
+      "stated": {
+        "text": "No relevant public evidence was found for Economy / jobs / labor in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-guns-second-amendment",
+      "title": "Guns / Second Amendment",
+      "stated": {
+        "text": "No relevant public evidence was found for Guns / Second Amendment in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-immigration-border",
+      "title": "Immigration / border",
+      "stated": {
+        "text": "No relevant public evidence was found for Immigration / border in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-health-care-insurance-medicaid",
+      "title": "Health care / insurance / Medicaid",
+      "stated": {
+        "text": "No relevant public evidence was found for Health care / insurance / Medicaid in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-election-integrity-voting-courts",
+      "title": "Election integrity / voting / courts",
+      "stated": {
+        "text": "Documented-record evidence: \"incumbent\": false The disk matrix keeps 15 selected evidence items for this issue, including 0 public URL-backed items and 15 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-public-safety-law-enforcement-criminal-justice",
+      "title": "Public safety / law enforcement / criminal justice",
+      "stated": {
+        "text": "No relevant public evidence was found for Public safety / law enforcement / criminal justice in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-agriculture-rural-economy-water",
+      "title": "Agriculture / rural economy / water",
+      "stated": {
+        "text": "Documented-record evidence: Your U.S. Representative is the one person in Congress who represents your specific district — not the whole state, just your area. They serve two-year terms, vote on federal laws and spending bills, and are supposed to be your direct voice in Washington on everything from farm policy to highway funding to military spending. If Hays has a federal issue, this is the person whose phone should ring. The disk matrix keeps 2 selected evidence items for this issue, including 0 public URL-backed items and 2 internal-memory items.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-local-governance-transparency-ethics",
+      "title": "Local governance / transparency / ethics",
+      "stated": {
+        "text": "Reviewed evidence: \"url\": \"https://www.fec.gov/data/candidate/H6KS01229/\" The disk matrix keeps 18 selected evidence items for this issue, including 1 public URL-backed item and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
           "s-fec-candidate"
         ]
       },
-      "actions": [
-        {
-          "id": "a-finance-record",
-          "date": "2026-05-20",
-          "body": "The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.",
-          "sourceIds": [
-            "s-fec-candidate"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Public web",
-          "observation": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-fec-candidate"
-          ],
-          "mappedToIssueId": "i-donor-funding"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-environment-energy-land-use",
+      "title": "Environment / energy / land use",
+      "stated": {
+        "text": "No relevant public evidence was found for Environment / energy / land use in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Steven Robert Jacob appears in FEC candidate data as a Libertarian candidate for Kansas's 1st Congressional District.",
@@ -121,7 +178,8 @@ export const STEVEN_JACOB_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "FEC candidate master data identifies Steven Robert Jacob as a Libertarian candidate for Kansas House District 1 in 2026",
-        "FEC identifies Steven Jacob for Kansas 1 as the committee"
+        "FEC identifies Steven Jacob for Kansas 1 as the committee",
+        "\"url\": \"https://www.fec.gov/data/candidate/H6KS01229/\","
       ]
     }
   ]

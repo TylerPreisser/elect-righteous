@@ -1,6 +1,6 @@
-/* Auto-normalized with issue-mapped social/online cross-reference signals.
- * To refresh:
- *   node scripts/hydrate-v2-social-signals.mjs
+/* Auto-generated from memory/candidates/adam-hamilton/v2-issues.yaml.
+ * Edit the YAML source, then run:
+ *   node scripts/compile-v2-yaml.mjs adam-hamilton
  */
 
 import type { CandidateFullV2 } from "@/data/types-v2";
@@ -17,110 +17,146 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
   "campaignWebsite": "https://hamiltonforkansas.com/",
   "issues": [
     {
-      "id": "i-ballot-status",
-      "title": "Ballot / filing status",
+      "id": "i-abortion-life",
+      "title": "Abortion / life",
       "stated": {
-        "text": "Hamilton's campaign site presents him as a U.S. Senate candidate, and FEC candidate data identifies him as a Democratic candidate for Kansas Senate.",
+        "text": "No relevant public evidence was found for Abortion / life in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-lgbt-gender-parental-rights",
+      "title": "LGBT / gender / parental rights",
+      "stated": {
+        "text": "No relevant public evidence was found for LGBT / gender / parental rights in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-education-curriculum-schools",
+      "title": "Education / curriculum / schools",
+      "stated": {
+        "text": "No relevant public evidence was found for Education / curriculum / schools in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-religious-liberty-church-civic-morality",
+      "title": "Religious liberty / church / civic morality",
+      "stated": {
+        "text": "Reviewed evidence: \"occupation\": \"Founding pastor / author\" The disk matrix keeps 4 selected evidence items for this issue, including 0 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-taxes-spending-debt",
+      "title": "Taxes / spending / debt",
+      "stated": {
+        "text": "Documented-record evidence: U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington. The disk matrix keeps 3 selected evidence items for this issue, including 0 public URL-backed items and 3 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-economy-jobs-labor",
+      "title": "Economy / jobs / labor",
+      "stated": {
+        "text": "No relevant public evidence was found for Economy / jobs / labor in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-guns-second-amendment",
+      "title": "Guns / Second Amendment",
+      "stated": {
+        "text": "No relevant public evidence was found for Guns / Second Amendment in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-immigration-border",
+      "title": "Immigration / border",
+      "stated": {
+        "text": "No relevant public evidence was found for Immigration / border in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-health-care-insurance-medicaid",
+      "title": "Health care / insurance / Medicaid",
+      "stated": {
+        "text": "Documented-record evidence: Hamilton's campaign says he is focused on listening to Kansans, addressing high costs for food, energy, and health care, building bridges across party lines, and restoring decency and shared humanity in government. The disk matrix keeps 5 selected evidence items for this issue, including 0 public URL-backed items and 5 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-election-integrity-voting-courts",
+      "title": "Election integrity / voting / courts",
+      "stated": {
+        "text": "Documented-record evidence: \"incumbent\": false The disk matrix keeps 11 selected evidence items for this issue, including 0 public URL-backed items and 11 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-public-safety-law-enforcement-criminal-justice",
+      "title": "Public safety / law enforcement / criminal justice",
+      "stated": {
+        "text": "Documented-record evidence: A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call. The disk matrix keeps 1 selected evidence item for this issue, including 0 public URL-backed items and 1 internal-memory item. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-agriculture-rural-economy-water",
+      "title": "Agriculture / rural economy / water",
+      "stated": {
+        "text": "Documented-record evidence: Hamilton's campaign says he is focused on listening to Kansans, addressing high costs for food, energy, and health care, building bridges across party lines, and restoring decency and shared humanity in government. The disk matrix keeps 7 selected evidence items for this issue, including 0 public URL-backed items and 7 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-local-governance-transparency-ethics",
+      "title": "Local governance / transparency / ethics",
+      "stated": {
+        "text": "Reviewed evidence: \"url\": \"https://www.fec.gov/data/candidate/S6KS00312/\" The disk matrix keeps 18 selected evidence items for this issue, including 1 public URL-backed item and 17 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-campaign-home",
           "s-fec-candidate"
         ]
       },
-      "actions": [
-        {
-          "id": "a-campaign-launch",
-          "date": "2026-05-20",
-          "body": "Hamilton's campaign site published donation, volunteer, biography, and U.S. Senate campaign content.",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        },
-        {
-          "id": "a-fec-record",
-          "date": "2026-05-20",
-          "body": "FEC candidate data identifies Adam Hamilton as a 2026 Kansas Senate candidate with Hamilton for Kansas as the committee.",
-          "sourceIds": [
-            "s-fec-candidate"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Public web",
-          "observation": "Ballot / filing status: Hamilton's campaign site presents him as a U.S. Senate candidate, and FEC candidate data identifies him as a Democratic candidate for Kansas Senate.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-ballot-status"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
-      "id": "i-campaign-themes",
-      "title": "Where they stand on big issues",
+      "id": "i-environment-energy-land-use",
+      "title": "Environment / energy / land use",
       "stated": {
-        "text": "Hamilton's campaign says he is focused on listening to Kansans, addressing high costs for food, energy, and health care, building bridges across party lines, and restoring decency and shared humanity in government.",
-        "sourceIds": [
-          "s-campaign-home"
-        ]
+        "text": "Documented-record evidence: Hamilton's campaign says he is focused on listening to Kansans, addressing high costs for food, energy, and health care, building bridges across party lines, and restoring decency and shared humanity in government. The disk matrix keeps 3 selected evidence items for this issue, including 0 public URL-backed items and 3 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "a-platform-summary",
-          "date": "2026-05-20",
-          "body": "The campaign site lists listening, affordability and opportunity, bridge-building, and restoring decency and humanity as campaign focus areas.",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Public web",
-          "observation": "Where they stand on big issues: Hamilton's campaign says he is focused on listening to Kansans, addressing high costs for food, energy, and health care, building bridges across party lines, and restoring decency and shared humanity in government.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-campaign-themes"
-        }
-      ]
-    },
-    {
-      "id": "i-donor-funding",
-      "title": "Donor / funding information",
-      "stated": {
-        "text": "Hamilton's campaign site links ActBlue donation flows. This pass did not capture a processed FEC financial summary for the committee.",
-        "sourceIds": [
-          "s-campaign-home",
-          "s-fec-candidate"
-        ]
-      },
-      "actions": [
-        {
-          "id": "a-actblue-donation-flow",
-          "date": "2026-05-20",
-          "body": "The campaign home page includes ActBlue donation buttons and the paid-for line for Hamilton for Kansas.",
-          "sourceIds": [
-            "s-campaign-home"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Public web",
-          "observation": "Donor / funding information: Hamilton's campaign site links ActBlue donation flows. This pass did not capture a processed FEC financial summary for the committee.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-campaign-home"
-          ],
-          "mappedToIssueId": "i-donor-funding"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Adam Hamilton is a fifth-generation Kansan and founding pastor of Church of the Resurrection. His campaign biography says the church grew from four people in a borrowed space to a large multi-location United Methodist congregation.",
@@ -146,7 +182,9 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "claimsAnchored": [
         "Campaign identifies Hamilton as a U.S. Senate candidate",
         "Campaign biography describes Hamilton's Kansas roots, family, and Church of the Resurrection background",
-        "Campaign states themes of listening, affordability, bridge-building, and decency"
+        "Campaign states themes of listening, affordability, bridge-building, and decency",
+        "\"campaignWebsite\": \"https://hamiltonforkansas.com/\",",
+        "\"url\": \"https://hamiltonforkansas.com/\","
       ]
     },
     {
@@ -158,7 +196,8 @@ export const ADAM_HAMILTON_V2: CandidateFullV2 = {
       "accessed": "2026-05-20",
       "claimsAnchored": [
         "FEC candidate master data identifies Adam Hamilton as a Democratic candidate for Kansas Senate in 2026",
-        "FEC identifies Hamilton for Kansas as the principal committee"
+        "FEC identifies Hamilton for Kansas as the principal committee",
+        "\"url\": \"https://www.fec.gov/data/candidate/S6KS00312/\","
       ]
     }
   ]

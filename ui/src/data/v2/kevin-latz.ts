@@ -1,6 +1,6 @@
-/* Auto-normalized with issue-mapped social/online cross-reference signals.
- * To refresh:
- *   node scripts/hydrate-v2-social-signals.mjs
+/* Auto-generated from memory/candidates/kevin-latz/v2-issues.yaml.
+ * Edit the YAML source, then run:
+ *   node scripts/compile-v2-yaml.mjs kevin-latz
  */
 
 import type { CandidateFullV2 } from "@/data/types-v2";
@@ -16,22 +16,110 @@ export const KEVIN_LATZ_V2: CandidateFullV2 = {
   "occupation": "U.S. Senate candidate",
   "issues": [
     {
-      "id": "i-ballot-status",
-      "title": "Ballot / filing status",
+      "id": "i-abortion-life",
+      "title": "Abortion / life",
       "stated": {
-        "text": "Kevin Latz appears in the reviewed official or campaign-finance records connected to U.S. Senate candidate, Kansas. This profile does not treat that appearance as a final certified ballot until the final election-office list is checked after the filing deadline.",
+        "text": "No relevant public evidence was found for Abortion / life in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-lgbt-gender-parental-rights",
+      "title": "LGBT / gender / parental rights",
+      "stated": {
+        "text": "No relevant public evidence was found for LGBT / gender / parental rights in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-education-curriculum-schools",
+      "title": "Education / curriculum / schools",
+      "stated": {
+        "text": "No relevant public evidence was found for Education / curriculum / schools in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-religious-liberty-church-civic-morality",
+      "title": "Religious liberty / church / civic morality",
+      "stated": {
+        "text": "Reviewed evidence: Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations. The disk matrix keeps 4 selected evidence items for this issue, including 0 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-taxes-spending-debt",
+      "title": "Taxes / spending / debt",
+      "stated": {
+        "text": "Documented-record evidence: U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington. The disk matrix keeps 3 selected evidence items for this issue, including 0 public URL-backed items and 3 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-economy-jobs-labor",
+      "title": "Economy / jobs / labor",
+      "stated": {
+        "text": "No relevant public evidence was found for Economy / jobs / labor in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-guns-second-amendment",
+      "title": "Guns / Second Amendment",
+      "stated": {
+        "text": "No relevant public evidence was found for Guns / Second Amendment in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-immigration-border",
+      "title": "Immigration / border",
+      "stated": {
+        "text": "No relevant public evidence was found for Immigration / border in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-health-care-insurance-medicaid",
+      "title": "Health care / insurance / Medicaid",
+      "stated": {
+        "text": "Documented-record evidence: U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington. The disk matrix keeps 2 selected evidence items for this issue, including 0 public URL-backed items and 2 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-election-integrity-voting-courts",
+      "title": "Election integrity / voting / courts",
+      "stated": {
+        "text": "Documented-record evidence: \"url\": \"https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf\" The disk matrix keeps 14 selected evidence items for this issue, including 1 public URL-backed item and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-ks-filing-senate",
           "s-saline-unofficial-list"
         ]
       },
       "actions": [
         {
-          "id": "a-record-appearance",
-          "date": "2026-05-20",
-          "body": "The Kansas candidate-filing mirror lists Kevin Latz under United States Senate as a Democratic candidate.",
+          "id": "em-kevin-latz-00050",
+          "date": "Undated",
+          "body": "\"url\": \"https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf\"",
           "sourceIds": [
-            "s-ks-filing-senate",
             "s-saline-unofficial-list"
           ]
         }
@@ -39,72 +127,55 @@ export const KEVIN_LATZ_V2: CandidateFullV2 = {
       "socialSignals": []
     },
     {
-      "id": "i-public-issue-record",
-      "title": "Where they stand on big issues",
+      "id": "i-public-safety-law-enforcement-criminal-justice",
+      "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
-        "sourceIds": [
-          "s-ks-filing-senate",
-          "s-saline-unofficial-list"
-        ]
+        "text": "Documented-record evidence: A U.S. Senator is one of two people who represent your entire state in Washington, D.C. They serve six-year terms and vote on every federal law, confirm or reject Supreme Court justices and cabinet members, approve treaties, and control the federal budget. If you have a problem with Social Security, Medicare, veterans' benefits, farm subsidies, or any federal program, your senator's office is who you call. The disk matrix keeps 1 selected evidence item for this issue, including 0 public URL-backed items and 1 internal-memory item. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "a-platform-gap",
-          "date": "2026-05-20",
-          "body": "The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.",
-          "sourceIds": [
-            "s-ks-filing-senate",
-            "s-saline-unofficial-list"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Public web",
-          "observation": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-ks-filing-senate"
-          ],
-          "mappedToIssueId": "i-public-issue-record"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
     },
     {
-      "id": "i-donor-funding",
-      "title": "Donor / funding information",
+      "id": "i-agriculture-rural-economy-water",
+      "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
+        "text": "Documented-record evidence: U.S. senators vote on judges, war powers, federal spending, farm policy, healthcare, and the national laws that affect Kansas every day. This race shapes who speaks for the entire state in Washington. The disk matrix keeps 4 selected evidence items for this issue, including 0 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-local-governance-transparency-ethics",
+      "title": "Local governance / transparency / ethics",
+      "stated": {
+        "text": "Documented-record evidence: \"url\": \"https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf\" The disk matrix keeps 20 selected evidence items for this issue, including 1 public URL-backed item and 19 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-ks-filing-senate",
           "s-saline-unofficial-list"
         ]
       },
       "actions": [
         {
-          "id": "a-finance-record",
-          "date": "2026-05-20",
-          "body": "The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.",
+          "id": "em-kevin-latz-00050",
+          "date": "Undated",
+          "body": "\"url\": \"https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf\"",
           "sourceIds": [
-            "s-ks-filing-senate",
             "s-saline-unofficial-list"
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Public web",
-          "observation": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-ks-filing-senate"
-          ],
-          "mappedToIssueId": "i-donor-funding"
-        }
-      ]
+      "socialSignals": []
+    },
+    {
+      "id": "i-environment-energy-land-use",
+      "title": "Environment / energy / land use",
+      "stated": {
+        "text": "No relevant public evidence was found for Environment / energy / land use in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Kevin Latz appears in current Kansas U.S. Senate filing material as a Democratic candidate from Mission Hills. This pass did not find a candidate-controlled platform or public elected record.",
@@ -126,7 +197,8 @@ export const KEVIN_LATZ_V2: CandidateFullV2 = {
       "publisher": "Kansas candidate filing mirror / State of Kansas filing data",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Kevin Latz appears as a Democratic U.S. Senate candidate"
+        "Kevin Latz appears as a Democratic U.S. Senate candidate",
+        "\"url\": \"https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS\","
       ]
     },
     {
@@ -137,7 +209,8 @@ export const KEVIN_LATZ_V2: CandidateFullV2 = {
       "publisher": "Saline County, Kansas",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "An unofficial county list included Kevin Latz under United States Senate"
+        "An unofficial county list included Kevin Latz under United States Senate",
+        "\"url\": \"https://www.salinecountyks.gov/media/Election%20Office/election/PR2026%20Candidates.pdf\","
       ]
     }
   ]

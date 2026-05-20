@@ -1,6 +1,6 @@
-/* Auto-normalized with issue-mapped social/online cross-reference signals.
- * To refresh:
- *   node scripts/hydrate-v2-social-signals.mjs
+/* Auto-generated from memory/candidates/michelle-cunningham/v2-issues.yaml.
+ * Edit the YAML source, then run:
+ *   node scripts/compile-v2-yaml.mjs michelle-cunningham
  */
 
 import type { CandidateFullV2 } from "@/data/types-v2";
@@ -16,22 +16,110 @@ export const MICHELLE_CUNNINGHAM_V2: CandidateFullV2 = {
   "occupation": "State Board of Education candidate / campaign-finance account holder",
   "issues": [
     {
-      "id": "i-ballot-status",
-      "title": "Ballot / filing status",
+      "id": "i-abortion-life",
+      "title": "Abortion / life",
       "stated": {
-        "text": "KPDC lists Michelle Cunningham in the State Board of Education District 5 finance index; this pass did not verify a final certified candidate list.",
+        "text": "No relevant public evidence was found for Abortion / life in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-lgbt-gender-parental-rights",
+      "title": "LGBT / gender / parental rights",
+      "stated": {
+        "text": "No relevant public evidence was found for LGBT / gender / parental rights in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-education-curriculum-schools",
+      "title": "Education / curriculum / schools",
+      "stated": {
+        "text": "Documented-record evidence: \"occupation\": \"State Board of Education candidate / campaign-finance account holder\" The disk matrix keeps 16 selected evidence items for this issue, including 0 public URL-backed items and 16 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-religious-liberty-church-civic-morality",
+      "title": "Religious liberty / church / civic morality",
+      "stated": {
+        "text": "Reviewed evidence: Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations. The disk matrix keeps 4 selected evidence items for this issue, including 0 public URL-backed items and 4 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-taxes-spending-debt",
+      "title": "Taxes / spending / debt",
+      "stated": {
+        "text": "Documented-record evidence: The Hays city commission is the group that runs the city. Five commissioners and a mayor set water rates, approve new housing developments, hire the city manager, decide where tax money goes, and vote on everything from road repairs to whether a new business gets built. The city manager handles day-to-day operations. These are the people who decide what Hays looks like, how much city services cost, and how the city... The disk matrix keeps 2 selected evidence items for this issue, including 0 public URL-backed items and 2 internal-memory items.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-economy-jobs-labor",
+      "title": "Economy / jobs / labor",
+      "stated": {
+        "text": "Documented-record evidence: The Hays city commission is the group that runs the city. Five commissioners and a mayor set water rates, approve new housing developments, hire the city manager, decide where tax money goes, and vote on everything from road repairs to whether a new business gets built. The city manager handles day-to-day operations. These are the people who decide what Hays looks like, how much city services cost, and how the city... The disk matrix keeps 1 selected evidence item for this issue, including 0 public URL-backed items and 1 internal-memory item.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-guns-second-amendment",
+      "title": "Guns / Second Amendment",
+      "stated": {
+        "text": "No relevant public evidence was found for Guns / Second Amendment in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-immigration-border",
+      "title": "Immigration / border",
+      "stated": {
+        "text": "No relevant public evidence was found for Immigration / border in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-health-care-insurance-medicaid",
+      "title": "Health care / insurance / Medicaid",
+      "stated": {
+        "text": "No relevant public evidence was found for Health care / insurance / Medicaid in the current candidate evidence matrix after searching the candidate folder, prior research, social harvest, source audit, and race files. Do not infer a position from party, faith, follows, likes, or associations.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-election-integrity-voting-courts",
+      "title": "Election integrity / voting / courts",
+      "stated": {
+        "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf\" The disk matrix keeps 14 selected evidence items for this issue, including 1 public URL-backed item and 13 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
         "sourceIds": [
-          "s-kpdc-sboe-index",
           "s-kpdc-at"
         ]
       },
       "actions": [
         {
-          "id": "a-record-appearance",
-          "date": "2026-05-20",
-          "body": "Michelle Cunningham was identified in the reviewed official or campaign-finance source for Kansas State Board of Education District 5 campaign-finance account holder.",
+          "id": "em-michelle-cunningham-00045",
+          "date": "Undated",
+          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf\"",
           "sourceIds": [
-            "s-kpdc-sboe-index",
             "s-kpdc-at"
           ]
         }
@@ -39,72 +127,55 @@ export const MICHELLE_CUNNINGHAM_V2: CandidateFullV2 = {
       "socialSignals": []
     },
     {
-      "id": "i-public-issue-record",
-      "title": "Where they stand on big issues",
+      "id": "i-public-safety-law-enforcement-criminal-justice",
+      "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
+        "text": "Documented-record evidence: \"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf\"",
         "sourceIds": [
-          "s-kpdc-sboe-index",
           "s-kpdc-at"
         ]
       },
       "actions": [
         {
-          "id": "a-platform-gap",
-          "date": "2026-05-20",
-          "body": "The reviewed source set confirms public-record status but did not provide a candidate-controlled issue platform with enough detail to summarize policy positions.",
+          "id": "em-michelle-cunningham-00045",
+          "date": "Undated",
+          "body": "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf\"",
           "sourceIds": [
-            "s-kpdc-sboe-index",
             "s-kpdc-at"
           ]
         }
       ],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Public web",
-          "observation": "Where they stand on big issues: No candidate-controlled issue platform was found in the reviewed public record for this pass. The page therefore does not infer positions from party label, name appearance, faith affiliation, follows, likes, comments, or associations.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-kpdc-sboe-index"
-          ],
-          "mappedToIssueId": "i-public-issue-record"
-        }
-      ]
+      "socialSignals": []
     },
     {
-      "id": "i-donor-funding",
-      "title": "Donor / funding information",
+      "id": "i-agriculture-rural-economy-water",
+      "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
-        "sourceIds": [
-          "s-kpdc-sboe-index",
-          "s-kpdc-at"
-        ]
+        "text": "Documented-record evidence: Hays city elections are not the main focus of the 2026 ballot, but the people already in office still make decisions about water, housing, growth, budgeting, and city services. This page groups the current city leadership in one place. The disk matrix keeps 3 selected evidence items for this issue, including 0 public URL-backed items and 3 internal-memory items.",
+        "sourceIds": []
       },
-      "actions": [
-        {
-          "id": "a-finance-record",
-          "date": "2026-05-20",
-          "body": "The reviewed finance source confirms either a campaign-finance account, committee record, or no itemized summary yet; final donor detail needs the next public report if one is not already posted.",
-          "sourceIds": [
-            "s-kpdc-sboe-index",
-            "s-kpdc-at"
-          ]
-        }
-      ],
-      "socialSignals": [
-        {
-          "id": "ss-crossref-1",
-          "platform": "Public web",
-          "observation": "Donor / funding information: Campaign-finance information is limited to the public filing or committee-account record captured in this pass. Donor-by-donor interpretation is not inferred beyond the public report.",
-          "observedAt": "2026-05-19",
-          "sourceIds": [
-            "s-kpdc-sboe-index"
-          ],
-          "mappedToIssueId": "i-donor-funding"
-        }
-      ]
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-local-governance-transparency-ethics",
+      "title": "Local governance / transparency / ethics",
+      "stated": {
+        "text": "Documented-record evidence: \"incumbent\": false The disk matrix keeps 23 selected evidence items for this issue, including 0 public URL-backed items and 23 internal-memory items. Social/online signals are included only as observed behavior and are not treated as confirmed beliefs or policy positions.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
+    },
+    {
+      "id": "i-environment-energy-land-use",
+      "title": "Environment / energy / land use",
+      "stated": {
+        "text": "Reviewed evidence: Local city decisions shape day-to-day life faster than almost anything else: utility projects, zoning, housing growth, city spending, and how Hays responds to long-running issues like water. The disk matrix keeps 1 selected evidence item for this issue, including 0 public URL-backed items and 1 internal-memory item.",
+        "sourceIds": []
+      },
+      "actions": [],
+      "socialSignals": []
     }
   ],
   "whoTheyAre": "Michelle Cunningham appears in KPDC's State Board of Education odd-district index under District 5. Party, platform, and final ballot status were not confirmed in this pass.",
@@ -137,7 +208,8 @@ export const MICHELLE_CUNNINGHAM_V2: CandidateFullV2 = {
       "publisher": "Kansas Governmental Ethics Commission / KPDC",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Appointment-of-treasurer PDF is linked from the District 5 KPDC index"
+        "Appointment-of-treasurer PDF is linked from the District 5 KPDC index",
+        "\"url\": \"https://www.kansas.gov/ethics/CFAScanned/EdOdd/2026ElecCycle/Treasurers/BOE05MC_AT.pdf\","
       ]
     }
   ]

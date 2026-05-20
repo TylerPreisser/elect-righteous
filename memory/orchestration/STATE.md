@@ -1,7 +1,7 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-20T18:55:16Z
-Last agent: fixed-issue-matrix-builder
-Last commit: e2f7be0
+Last updated: 2026-05-20T19:08:52Z
+Last agent: candidate-profile-assembler
+Last commit: pending-uncommitted-phase3-assembler
 
 ## Current Phase
 Phase 3: Profile Rebuild
@@ -18,8 +18,9 @@ Phase 3: Profile Rebuild
 | 7 | Deploy | not started |
 
 ## Blockers
-- Profile-writing/assembler specialist passes remain incomplete for 70 of 70 candidates; evidence/social/source/fixed-issue artifacts now exist for all 70 — fixed-issue-matrix-builder — high — 2026-05-20
+- Narrative profile-writing specialist passes remain incomplete for 70 of 70 candidates; rendered v2 candidate data now consumes the fixed 14-issue matrices for all 70, but biography/record/funding/faith prose still needs specialist enrichment — candidate-profile-assembler — high — 2026-05-20
 - Editorial/legal/symmetry review remains incomplete for 70 of 70 candidates — master-orchestrator — high — 2026-05-20
+- Ten rendered profiles remain public-source/action-thin after assembly and require explicit editorial caveats/research follow-up: adam-hamilton, brandon-adams, doug-billings, eric-lund, kevin-latz, mark-lane, michelle-cunningham, ric-koehn, sharilyn-ray, steven-jacob — candidate-profile-assembler — medium — 2026-05-20
 - Source-tier validator used structural/domain classification, not live HTTP fetch; a later high-latency source-health sweep is still needed before final publication claims — source-tier-validator — medium — 2026-05-20
 - Official Kansas post-filing roster recheck remains required after the filing deadline/final official lists — roster-auditor — medium — 2026-05-20
 
@@ -119,13 +120,13 @@ Phase 3: Profile Rebuild
 ## Validation Gate Results
 | Gate | Last Run | Pass/Fail | Notes |
 |------|----------|-----------|-------|
-| YAML parse | 2026-05-20T18:55:16Z | Pass | 70 candidate v2-issues.yaml files parse clean after fixed_issue_matrix insertion for all candidates. |
-| Phase 2 inventory | 2026-05-20T18:55:16Z | Pass | 70 candidate-like slugs; 48 active 2026; 70 rendered v2; no missing UI entries. |
-| V2 runtime validation | 2026-05-20T18:55:16Z | Pass | validateCandidateV2 accepted 70 v2 candidates. |
-| TypeScript | 2026-05-20T18:55:16Z | Pass | npx tsc --noEmit --incremental false passed. |
-| Static build | 2026-05-20T18:55:16Z | Pass | npm run build generated 232 static pages. |
+| YAML parse | 2026-05-20T19:08:52Z | Pass | 70 candidate v2-issues.yaml files parse clean after fixed_issue_matrix insertion for all candidates. |
+| Phase 2 inventory | 2026-05-20T19:08:52Z | Pass | 70 candidate-like slugs; 48 active 2026; 70 rendered v2; no missing UI entries. |
+| V2 runtime validation | 2026-05-20T19:08:52Z | Pass | validateCandidateV2 accepted 70 v2 candidates after regenerating rendered TypeScript from fixed matrices. |
+| TypeScript | 2026-05-20T19:08:52Z | Pass | npx tsc --noEmit --incremental false passed. |
+| Static build | 2026-05-20T19:08:52Z | Pass | npm run build generated 232 static pages. |
 | Candidate count parity | 2026-05-20T15:43:39Z | Pass | 15 race entries; every candidateCount matches candidateSlugs.length. |
-| Forbidden public labels | 2026-05-20T15:43:39Z | Pass | No tpreisser.github.io, Preisser Tech, What You Should Know, or In Their Own Words strings remain under ui/src or ui/public. |
+| Forbidden public labels | 2026-05-20T19:08:52Z | Pass | No tpreisser.github.io, Preisser Tech, What You Should Know, or In Their Own Words strings remain under ui/src, ui/public, or active compile scripts. |
 | Evidence matrix structure | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have raw and final evidence matrices with required fields. |
 | Social/source structure | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have social matrices and source audit JSON files with required fields. |
 | Fixed issue matrix structure | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have exactly 14 fixed issue entries with source IDs on selected evidence. |
@@ -133,15 +134,17 @@ Phase 3: Profile Rebuild
 | Source audit presence | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have source-audit.md/source-audit.json. |
 | Evidence matrix presence | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have evidence-matrix-raw.json and final evidence-matrix.json. |
 | Fixed 14-issue matrix | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have fixed 14-issue matrix artifacts. |
+| Rendered 14-issue profiles | 2026-05-20T19:08:52Z | Pass | 70 of 70 rendered v2 candidate files now contain exactly 14 IssueCard entries derived from fixed_issue_matrix/source-audit artifacts. |
 
 ## Next Actions Queue
-1. Run biography-writer, record-writer, donor-funding-analyst, faith-worship-researcher, and candidate-profile-assembler for all 70 candidates from the completed matrices — candidate-profile-assembler — P0 — blocked by none
-2. Run professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor after profile assembly — editorial review agents — P0 — blocked by assembler outputs
+1. Run biography-writer, record-writer, donor-funding-analyst, and faith-worship-researcher enrichment for all 70 candidates from the completed matrices; preserve the rendered 14-issue issue cards — specialist profile writers — P0 — blocked by none
+2. Run professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor after narrative enrichment — editorial review agents — P0 — blocked by enrichment outputs
 3. Run a live URL/source-health sweep for source-audit.json records before final publication claims — source-tier-validator — P1 — blocked by network/runtime time only
 4. Rerun full build-validation-gatekeeper after profile assembly/editorial review — build-validation-gatekeeper — P1 — blocked by Phase 3 and Phase 4 completion
 5. Deploy only after validation gates, form verification, and release report pass — deploy agents — P1 — blocked by validation and release readiness
 
 ## Session Log (last 20 entries)
+- 2026-05-20T19:08:52Z candidate-profile-assembler Regenerated all 70 rendered v2 candidate TypeScript files from fixed_issue_matrix/source-audit data; 70/70 now render exactly 14 issue cards and pass validateCandidateV2, TypeScript, and npm run build.
 - 2026-05-20T18:55:16Z fixed-issue-matrix-builder Completed the evidence/social/source/fixed-issue artifact chain for all 70 candidates; 70/70 now have raw evidence, final evidence, social matrix, source audit, and 14-issue fixed matrix artifacts.
 - 2026-05-20T18:41:58Z fixed-issue-matrix-builder Built fixed 14-issue matrices for roger-marshall, damon-anderson, and jason-hart; validation confirmed all three have 14 issues and source IDs on selected evidence.
 - 2026-05-20T18:05:00Z social-footprint-analyst Classified social/online signals for roger-marshall, damon-anderson, and jason-hart: 693, 34, and 529 observations respectively.
