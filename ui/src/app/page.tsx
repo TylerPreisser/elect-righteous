@@ -56,19 +56,19 @@ const SOURCE_STRIP = [
 const METHOD_CARDS = [
   {
     icon: <ShieldCheck size={26} strokeWidth={1.6} />,
-    title: "Names before narratives",
+    title: "Roster clarity",
     description:
-      "Profiles separate filed candidates, current officials, off-cycle officeholders, administrators, and ballot measures before drawing conclusions.",
+      "Profiles identify filed candidates, current officials, off-cycle officeholders, administrators, and ballot measures in their proper categories.",
   },
   {
     icon: <FileText size={26} strokeWidth={1.6} />,
-    title: "Sources before spin",
+    title: "Source-backed claims",
     description:
       "Important claims stay close to the original record so voters can inspect the evidence for themselves.",
   },
   {
     icon: <MessageSquare size={26} strokeWidth={1.6} />,
-    title: "Online signals handled carefully",
+    title: "Online activity labeled carefully",
     description:
       "Posts, follows, likes, and comments are treated as public observations unless the candidate directly made the statement.",
   },
@@ -211,11 +211,11 @@ export default function HomePage() {
             <div>
               <p className="er-kicker mb-3">Research discipline</p>
               <h2 id="method-heading" className="font-heading text-3xl font-bold text-white md:text-4xl">
-                Truth before tribe. Sources before spin.
+                A clear record voters can check.
               </h2>
               <p className="mt-4 text-base leading-relaxed text-white/66">
-                Voting is not a team sport. The point is not to flatter or punish candidates, but to
-                make the public record easier to understand and easier to check.
+                The goal is to make public records, candidate statements, online observations, and
+                source links easier to read together.
               </p>
             </div>
 
@@ -252,11 +252,11 @@ export default function HomePage() {
               <div className="grid border-t border-white/10 lg:border-l lg:border-t-0">
                 <div className="border-b border-white/10 p-6">
                   <p className="text-xs uppercase tracking-[0.16em] text-white/46">Voter lens</p>
-                  <p className="mt-2 font-heading text-2xl font-bold text-white">Role before rhetoric</p>
+                  <p className="mt-2 font-heading text-2xl font-bold text-white">What the office does</p>
                 </div>
                 <div className="border-b border-white/10 p-6">
                   <p className="text-xs uppercase tracking-[0.16em] text-white/46">Evidence lens</p>
-                  <p className="mt-2 font-heading text-2xl font-bold text-white">Action before assumption</p>
+                  <p className="mt-2 font-heading text-2xl font-bold text-white">What the record shows</p>
                 </div>
                 <Link
                   href="/about"

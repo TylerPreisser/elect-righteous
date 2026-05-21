@@ -36,7 +36,7 @@ const STANDARDS = [
   {
     icon: <CheckCircle2 size={21} strokeWidth={1.7} />,
     title: "Corrections welcomed",
-    text: "Candidates, campaigns, officials, and voters can submit corrections with documentation. The goal is truthful public record, not winning an argument.",
+    text: "Candidates, campaigns, officials, and voters can submit corrections with documentation. The goal is an accurate public record voters can check.",
   },
 ];
 
@@ -45,7 +45,7 @@ const METHOD = [
   "Read existing research, source trails, filings, local reporting, and candidate-controlled material before writing.",
   "Build every profile around the same issue matrix so voters can compare candidates without changing standards.",
   "Keep online observations as context unless the candidate directly made the statement or action.",
-  "Mark thin public records plainly instead of filling gaps with party assumptions or private speculation.",
+  "Mark thin public records plainly and keep party labels or private details out unless sources support them.",
 ];
 
 const WILL_NOT_DO = [
@@ -69,7 +69,7 @@ export default function AboutPage() {
                 id="about-heading"
                 className="font-heading text-4xl font-extrabold leading-[1.02] text-white md:text-6xl"
               >
-                Public office is a trust. Voters deserve receipts.
+                Public office is a trust. Voters deserve a clear record.
               </h1>
               <p className="mt-6 max-w-3xl text-lg leading-relaxed text-white/74">
                 Elect Righteous is a voter-intelligence project for Hays, Kansas and Kansas elections.

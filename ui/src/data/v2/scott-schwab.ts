@@ -527,7 +527,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
   "whoTheyAre": "Scott Schwab is profiled here for Governor candidate as a Republican. His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our sta... The reviewed set contains one personal health update rather than a health-policy item. KCTV/WIBW reported Schwab’s March 21, 2025 social-media post on surgery for cancer, quoting him: \"My doctors have confirmed it was found very early, and no further treatmen... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
   "recordSummary": "This profile links 17 public items across 6 of the 14 issue areas. Examples include: Taxes / spending / debt: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to... Taxes / spending / debt: Kansas Reflector: Schwab certain voting secure, eager to cut property taxes. Taxes / spending / debt: Kansas Reflector: Property tax reform campaign. Economy / jobs / labor: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to f... Public online activity is listed separately as context.",
   "ownWordsNarrative": "",
-  "whereTheyWorship": "Public sources tie Schwab and his family to LifeMission Church in Olathe. The church website is https://www.lifemission.church/, and the congregation became part of the public record after Caleb Schwab's funeral was held there in 2016.",
+  "whereTheyWorship": "A 2016 Christian Post report placed Schwab and his family at LifeMission Church in Olathe, and the church website is https://www.lifemission.church/. I found no current church-controlled membership page, so this should be treated as a public faith/community reference rather than a verified current membership record.",
   "campaignFinance": {
     "totalRaised": "Schwab's 2025 year-end report showed $1,418,671.56 in contributions and other receipts, $365,533.06 in expenditures, $1,053,138.50 cash on hand, and $1,045,000 in Scott Schwab loans. The campaign therefore entered 2026 with substantial cash and a major self-funding component.",
     "narrative": "Schwab's 2025 year-end report showed $1,418,671.56 in contributions and other receipts, $365,533.06 in expenditures, $1,053,138.50 cash on hand, and $1,045,000 in Scott Schwab loans. The campaign therefore entered 2026 with substantial cash and a major self-funding component.",
@@ -796,8 +796,8 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
         "Website: lifemission.church",
         "LifeMission Church",
         "LifeMission Church, Olathe",
-        "Public sources tie Schwab and his family to LifeMission Church in Olathe. The church website is https://www.lifemission.church/, and the congregation became part of the public record after Caleb Schwab's funeral was hel...",
-        "\"whereTheyWorship\": \"Public sources tie Schwab and his family to LifeMission Church in Olathe. The church website is https://www.lifemission.church/, and the congregation became part of the public record after Caleb Sch..."
+        "A 2016 Christian Post report placed Schwab and his family at LifeMission Church in Olathe.",
+        "\"whereTheyWorship\": \"A 2016 Christian Post report placed Schwab and his family at LifeMission Church in Olathe..."
       ]
     },
     {
@@ -808,9 +808,9 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "publisher": "Christianpost",
       "accessed": "2026-05-20",
       "claimsAnchored": [
-        "Christian Post: Caleb Schwab attended church with family hours before death",
-        "Caleb had attended church with his family hours before his death that Sunday morning. The family went from church to the waterpark for what was supposed to be a fun family outing. Source: [Christian Post article](https:...",
-        "Christian Post: Caleb attended church hours before death"
+        "Christian Post report noting Schwab family church attendance at LifeMission Church",
+        "A 2016 Christian Post report placed Schwab and his family at LifeMission Church.",
+        "Christian Post report on Schwab family church attendance"
       ]
     },
     {

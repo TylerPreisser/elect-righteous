@@ -2127,7 +2127,7 @@ fixed_issue_matrix:
     text: In the governor's race, Schwab has centered property taxes, state control
       over elections, and opposition to federal interference. He also entered 2026
       while dealing publicly with a lung-cancer diagnosis, which added another personal
-      challenge to a campaign already shaped by grief, faith, and years in the spotlight.
+      challenge to a long public career.
     sourceIds:
     - mem-memory-candidates-scott-schwab-site-profile-md-l13
     sourceUrl:
@@ -2651,12 +2651,8 @@ fixed_issue_matrix:
     useDecision: background-only
   - evidenceRowId: em-scott-schwab-03641
     classification: faith-community-record
-    text: 'Schwab is an established Kansas Republican, but not a fringe figure. His
-      public image is that of an institutional conservative with a business background,
-      a long legislative resume, and direct election-management experience. His personal
-      story also carries a nationally known tragedy: the 2016 death of his son Caleb
-      on the Verruckt waterslide, an event that has shaped the public way Schwab talks
-      about faith, family, and leadership.'
+    text: 'Schwab is an established Kansas Republican with a business background,
+      a long legislative resume, and direct election-management experience.'
     sourceIds:
     - mem-memory-candidates-scott-schwab-site-profile-md-l6
     sourceUrl:
@@ -2671,11 +2667,8 @@ fixed_issue_matrix:
       sales, and spent years in the Kansas House before moving into statewide office.
       He represented House District 49 over seven terms, served as speaker pro tempore,
       and won the secretary of state''s office in 2018 and 2022. Schwab is an established
-      Kansas Republican, but not a fringe figure. His public image is that of an institutional
-      conservative with a business background, a long legislative resume, and direct
-      election-management experience. His personal story also carries a nationally
-      known tragedy: the 2016 death of his son Caleb on the Verruckt waterslide, an
-      event that has shaped the public way Schwab talks about faith, family, and leadership.",'
+      Kansas Republican with a business background, a long legislative resume, and
+      direct election-management experience.",'
     sourceIds:
     - mem-ui-src-data-candidates-ts-l11561
     sourceUrl:
@@ -3754,11 +3747,8 @@ fixed_issue_matrix:
       sales, and spent years in the Kansas House before moving into statewide office.
       He represented House District 49 over seven terms, served as speaker pro tempore,
       and won the secretary of state''s office in 2018 and 2022. Schwab is an established
-      Kansas Republican, but not a fringe figure. His public image is that of an institutional
-      conservative with a business background, a long legislative resume, and direct
-      election-management experience. His personal story also carries a nationally
-      known tragedy: the 2016 death of his son Caleb on the Verruckt waterslide, an
-      event that has shaped the public way Schwab talks about faith, family, and leadership.",'
+      Kansas Republican with a business background, a long legislative resume, and
+      direct election-management experience.",'
     sourceIds:
     - mem-ui-src-data-candidates-ts-l11561
     sourceUrl:
@@ -5279,8 +5269,7 @@ fixed_issue_matrix:
       policy position or belief.
   - evidenceRowId: em-scott-schwab-00661
     classification: faith-community-record
-    text: "[Christian Post: Caleb Schwab attended church with family hours before
-      death](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)"
+    text: "[Christian Post report noting Schwab family church attendance](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)"
     sourceIds:
     - mem-memory-candidates-scott-schwab-raw-dump-md-l802
     - mem-memory-candidates-scott-schwab-site-profile-md-l126
@@ -5302,9 +5291,8 @@ fixed_issue_matrix:
     useDecision: use
   - evidenceRowId: em-scott-schwab-02954
     classification: faith-community-record
-    text: 'Caleb had attended church with his family hours before his death that Sunday
-      morning. The family went from church to the waterpark for what was supposed
-      to be a fun family outing. Source: [Christian Post article](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)'
+    text: 'A 2016 Christian Post report placed Schwab and his family at LifeMission
+      Church in Olathe. Source: [Christian Post article](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)'
     sourceIds:
     - mem-memory-candidates-scott-schwab-raw-dump-md-l4598
     - mem-reports-scott-schwab-complete-dossier-md-l458
@@ -5314,7 +5302,7 @@ fixed_issue_matrix:
     useDecision: use
   - evidenceRowId: em-scott-schwab-03187
     classification: faith-community-record
-    text: "[Christian Post: Caleb attended church hours before death](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)"
+    text: "[Christian Post report on Schwab family church attendance](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)"
     sourceIds:
     - mem-memory-candidates-scott-schwab-raw-dump-md-l4974
     - mem-reports-scott-schwab-complete-dossier-md-l834

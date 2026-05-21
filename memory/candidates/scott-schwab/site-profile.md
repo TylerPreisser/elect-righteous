@@ -3,14 +3,14 @@
 ## Who They Are
 Scott Schwab is the Kansas secretary of state and a Republican candidate for governor in 2026. He grew up in Great Bend, graduated from Fort Hays State University in 1994, worked in Farm Bureau insurance and medical-equipment sales, and spent years in the Kansas House before moving into statewide office. He represented House District 49 over seven terms, served as speaker pro tempore, and won the secretary of state's office in 2018 and 2022.
 
-Schwab is an established Kansas Republican, but not a fringe figure. His public image is that of an institutional conservative with a business background, a long legislative resume, and direct election-management experience. His personal story also carries a nationally known tragedy: the 2016 death of his son Caleb on the Verruckt waterslide, an event that has shaped the public way Schwab talks about faith, family, and leadership.
+Schwab is an established Kansas Republican with a business background, a long legislative resume, and direct election-management experience.
 
 ## Their Record
 As secretary of state, Schwab has been responsible for Kansas elections, business filings, and state records. He supported voter ID and other election-integrity measures earlier in his legislative career, but he also broke with election conspiracy politics after 2020 and publicly said he had seen no evidence that the presidential election in Kansas was stolen. That made him stand out inside his own party.
 
 His record is not without controversy. Kansas courts ruled that his office violated the state's open-records law by altering a computer system in a way that made some records harder to obtain. He has also been under pressure from both sides of the election debate, drawing criticism from hard-line skeptics who wanted more fraud claims and from transparency advocates who wanted more openness.
 
-In the governor's race, Schwab has centered property taxes, state control over elections, and opposition to federal interference. He also entered 2026 while dealing publicly with a lung-cancer diagnosis, which added another personal challenge to a campaign already shaped by grief, faith, and years in the spotlight.
+In the governor's race, Schwab has centered property taxes, state control over elections, and opposition to federal interference. He also entered 2026 while dealing publicly with a lung-cancer diagnosis, adding another personal challenge to a long public career.
 
 ## What They Stand For
 
@@ -45,7 +45,7 @@ In the governor's race, Schwab has centered property taxes, state control over e
 - The same filing showed $1,045,000 in personal loans, making self-funding a major part of his campaign.
 
 ## Where They Worship
-Public sources tie Schwab and his family to LifeMission Church in Olathe. The church website is https://www.lifemission.church/, and the congregation became part of the public record after Caleb Schwab's funeral was held there in 2016.
+A 2016 Christian Post report placed Schwab and his family at LifeMission Church in Olathe, and the church website is https://www.lifemission.church/. I found no current church-controlled membership page, so this should be treated as a public faith/community reference rather than a verified current membership record.
 
 ## Campaign Finance
 Schwab's 2025 year-end report showed $1,418,671.56 raised, $365,533.06 spent, and $1,053,138.50 cash on hand. The filing also reported $1,045,000 in personal loans, which means most of the campaign's financial strength came from Schwab himself rather than outside donors.
@@ -123,7 +123,7 @@ That leaves him well funded, but it also opens him to the same line faced by oth
 - [Morning Star Church Lawrence](https://msclawrence.com/)
 - [Sunflower State Journal: Kobach denounces vandalism at his church](https://sunflowerstatejournal.com/kobach-denounces-vandalism-at-his-church/)
 - [KCUR: Kansas Trial Investigates Religious Discrimination in Kobach's Office](https://www.kcur.org/government/2017-08-22/kansas-trial-investigates-religious-discrimination-claim-in-kobachs-office)
-- [Christian Post: Caleb Schwab attended church with family hours before death](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)
+- [Christian Post report noting Schwab family church attendance](https://www.christianpost.com/news/caleb-schwab-10-attended-church-with-family-hours-before-death-verruckt-schlitterbahn-water-park.html)
 - [FOX 4: At funeral for his son](https://fox4kc.com/news/at-funeral-for-his-son-caleb-schwabs-dad-tells-stories-that-show-calebs-love-and-humor/)
 - [LifeMission Church](https://www.lifemission.church/)
 - [Heavy.com: Scott & Michele Schwab, Caleb's Parents](https://heavy.com/news/2016/08/scott-schwab-michele-caleb-rep-parents-father-dad-mother-mom-family-verruckt-water-slide-kansas-schlitterbahn-photos-death-accident/)
