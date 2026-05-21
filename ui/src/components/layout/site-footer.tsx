@@ -9,6 +9,9 @@ const NAV_LINKS = [
   { href: "/about", label: "About" },
 ];
 
+const GUIDING_VERSE =
+  "But select from all the people some capable, honest men who fear God and hate bribes. Appoint them as leaders.";
+
 export default function SiteFooter() {
   const currentYear = new Date().getFullYear();
 
@@ -59,13 +62,16 @@ export default function SiteFooter() {
               Know the Record. Steward Your Vote.
             </p>
 
-            {/* Scripture */}
+            {/* Guiding passage */}
             <blockquote className="mt-1">
+              <p className="site-footer-soft mb-1 text-xs font-body font-semibold uppercase tracking-wider">
+                Guiding passage
+              </p>
               <p className="site-footer-muted font-serif italic text-sm leading-relaxed">
-                &ldquo;When the righteous thrive, the people rejoice.&rdquo;
+                &ldquo;{GUIDING_VERSE}&rdquo;
               </p>
               <footer className="site-footer-soft mt-1 text-xs font-body font-semibold uppercase tracking-wider">
-                &mdash; Proverbs 29:2
+                &mdash; Exodus 18:21
               </footer>
             </blockquote>
           </div>
@@ -129,8 +135,8 @@ export default function SiteFooter() {
             <p className="site-footer-soft text-xs font-body leading-relaxed">
               Elect Righteous is an independent research platform providing
               source-cited public information about candidates, officials, and elections.
-              The aim is plain truth, documented sources, and careful civic judgment. Research is
-              updated as new information becomes available.
+              The aim is transparency, documented sources, and better-informed voting. Research is
+              updated as public information changes.
             </p>
           </div>
         </div>

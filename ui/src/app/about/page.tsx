@@ -1,15 +1,15 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import {
-  ArrowRight,
-  BookOpen,
+  Bot,
   CheckCircle2,
-  ExternalLink,
+  Database,
   FileSearch,
-  Landmark,
+  Layers3,
   Scale,
   ShieldCheck,
 } from "lucide-react";
+import { ELECTIONS } from "@/data/elections";
+import { V2_CANDIDATES } from "@/data/v2";
 
 export const metadata: Metadata = {
   title: "About | Elect Righteous",
@@ -20,18 +20,18 @@ export const metadata: Metadata = {
 const STANDARDS = [
   {
     icon: <FileSearch size={21} strokeWidth={1.7} />,
-    title: "Public record first",
-    text: "Official filings, meeting records, campaign finance reports, court records, and direct candidate statements carry the most weight.",
+    title: "What we use",
+    text: "Official filings, meeting records, campaign finance reports, court records, candidate statements, local reporting, and public online observations.",
   },
   {
     icon: <ShieldCheck size={21} strokeWidth={1.7} />,
-    title: "Words and actions separated",
-    text: "A campaign answer, a vote, a board comment, and a public online interaction are different kinds of evidence, so profiles label them differently.",
+    title: "How it is checked",
+    text: "Candidate claims are cross-referenced against source trails, public records, archived research, and the same issue matrix across the site.",
   },
   {
     icon: <Scale size={21} strokeWidth={1.7} />,
-    title: "No endorsements",
-    text: "The site does not tell voters who is righteous, biblical, conservative, liberal, or preferable. It shows the record and the sources.",
+    title: "How bias is reduced",
+    text: "Profiles separate statements, actions, finance, online observations, and source limits so a reader can see what is known and what is not.",
   },
   {
     icon: <CheckCircle2 size={21} strokeWidth={1.7} />,
@@ -40,20 +40,42 @@ const STANDARDS = [
   },
 ];
 
-const METHOD = [
-  "Verify the roster from official election sources before treating anyone as a candidate.",
-  "Read existing research, source trails, filings, local reporting, and candidate-controlled material before writing.",
-  "Build every profile around the same issue matrix so voters can compare candidates without changing standards.",
-  "Keep online observations as context unless the candidate directly made the statement or action.",
-  "Mark thin public records plainly and keep party labels or private details out unless sources support them.",
+const RESEARCH_SYSTEM = [
+  {
+    icon: <Bot size={22} strokeWidth={1.7} />,
+    title: "Specialized research agents",
+    text: "The project uses many focused agent passes for roster checks, candidate evidence, source trails, social signals, issue summaries, finance notes, faith/community references, legal review, and UI validation.",
+  },
+  {
+    icon: <Layers3 size={22} strokeWidth={1.7} />,
+    title: "Cross-reference before publishing",
+    text: "Agent outputs are compared against official sources, prior research files, public records, local reporting, and candidate-controlled material before the profile copy is rendered.",
+  },
+  {
+    icon: <Database size={22} strokeWidth={1.7} />,
+    title: "Large public record file",
+    text: "The live build carries every rendered profile through the same public data shape: source trail, issue matrix, record summary, finance context, online observations, and correction path.",
+  },
 ];
 
-const WILL_NOT_DO = [
-  "Infer a policy position from church attendance, family background, party label, or private rumor.",
-  "Treat a follow, like, share, or group membership as a confirmed belief.",
-  "Publish private information or login-only material.",
-  "Hide sources when a claim is important to the profile.",
+const DATA_POINTS = [
+  { label: "profiles", value: V2_CANDIDATES.length },
+  { label: "race pages", value: ELECTIONS.length },
+  {
+    label: "public sources",
+    value: V2_CANDIDATES.reduce((sum, candidate) => sum + candidate.sources.length, 0),
+  },
+  {
+    label: "record items",
+    value: V2_CANDIDATES.reduce(
+      (sum, candidate) => sum + candidate.issues.reduce((issueSum, issue) => issueSum + issue.actions.length, 0),
+      0,
+    ),
+  },
 ];
+
+const GUIDING_VERSE =
+  "But select from all the people some capable, honest men who fear God and hate bribes. Appoint them as leaders.";
 
 export default function AboutPage() {
   return (
@@ -69,13 +91,12 @@ export default function AboutPage() {
                 id="about-heading"
                 className="font-heading text-4xl font-extrabold leading-[1.02] text-white md:text-6xl"
               >
-                Public office is a trust. Voters deserve a clear record.
+                Transparency for better voting.
               </h1>
               <p className="mt-6 max-w-3xl text-lg leading-relaxed text-white/74">
                 Elect Righteous is a voter-intelligence project for Hays, Kansas and Kansas elections.
-                It organizes public records, campaign statements, local reporting, finance data, and
-                observable online activity into sourced profiles ordinary voters can inspect before
-                they cast a ballot.
+                The goal is to add transparency, gather the public record in one place, and help
+                voters examine candidates for public office with care.
               </p>
             </div>
 
@@ -83,11 +104,10 @@ export default function AboutPage() {
               <p className="text-xs uppercase tracking-[0.16em] text-white/50">Guiding passage</p>
               <blockquote className="mt-3">
                 <p className="font-serif text-xl leading-relaxed text-white">
-                  "For rulers are not a terror to good works, but to the evil... for he is the
-                  minister of God to thee for good."
+                  &ldquo;{GUIDING_VERSE}&rdquo;
                 </p>
                 <footer className="mt-4 font-heading text-xs font-bold uppercase tracking-[0.16em] text-teal">
-                  Romans 13:3-4, KJV
+                  Exodus 18:21
                 </footer>
               </blockquote>
             </aside>
@@ -101,7 +121,7 @@ export default function AboutPage() {
             <div>
               <p className="er-kicker mb-3">Mission</p>
               <h2 id="mission-heading" className="font-heading text-3xl font-bold leading-tight text-white md:text-4xl">
-                Make public power easier to examine.
+                Help voters see the record.
               </h2>
             </div>
             <div className="er-panel rounded-lg p-6 md:p-8">
@@ -117,9 +137,9 @@ export default function AboutPage() {
                   from one profile to the next.
                 </p>
                 <p>
-                  The project is shaped by Christian civic concern: government should restrain evil,
-                  reward good, and serve the public rather than itself. That conviction guides the work,
-                  but it is not used as a shortcut for judging candidates.
+                  Exodus 18:21 gives the lens: capable, honest leaders who fear God and hate bribes.
+                  The site does not declare who meets that standard. It gives voters a clearer record
+                  so they can judge wisely.
                 </p>
               </div>
             </div>
@@ -132,7 +152,7 @@ export default function AboutPage() {
           <div className="mb-8 max-w-3xl">
             <p className="er-kicker mb-3">The standard</p>
             <h2 id="standard-heading" className="font-heading text-3xl font-bold text-white md:text-4xl">
-              Fair, sourced, and readable.
+              What the system checks.
             </h2>
           </div>
 
@@ -150,88 +170,62 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <section className="relative py-12 md:py-18" aria-labelledby="method-heading">
+      <section className="relative py-12 md:py-18" aria-labelledby="research-heading">
         <div className="container-main relative z-10">
-          <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_24rem]">
-            <div className="er-panel rounded-lg p-6 md:p-8">
-              <div className="mb-7 flex items-center gap-3">
-                <span className="inline-flex h-11 w-11 items-center justify-center rounded-md bg-gold/15 text-gold">
-                  <Landmark size={21} />
-                </span>
-                <div>
-                  <p className="er-kicker">Method</p>
-                  <h2 id="method-heading" className="font-heading text-2xl font-bold text-white">
-                    How a profile earns trust
-                  </h2>
-                </div>
-              </div>
-              <ol className="grid gap-4" role="list">
-                {METHOD.map((item, index) => (
-                  <li key={item} className="grid grid-cols-[2.25rem_minmax(0,1fr)] gap-4">
-                    <span className="flex h-9 w-9 items-center justify-center rounded-full border border-white/12 bg-white/[0.08] font-heading text-sm font-bold text-teal">
-                      {index + 1}
-                    </span>
-                    <p className="pt-1 text-base leading-relaxed text-white/72">{item}</p>
-                  </li>
-                ))}
-              </ol>
-            </div>
+          <div className="mb-8 max-w-3xl">
+            <p className="er-kicker mb-3">Research engine</p>
+            <h2 id="research-heading" className="font-heading text-3xl font-bold text-white md:text-4xl">
+              Built from many agent-level checks, not a single summary pass.
+            </h2>
+            <p className="mt-4 text-base leading-relaxed text-white/68">
+              Elect Righteous uses specialized AI research agents to gather, classify, compare, and
+              validate public information. Across the project, those passes create thousands of
+              agent-level checks against source files, URLs, candidate pages, and rendered output. The
+              work is still judged by source quality: official records first, candidate-controlled
+              statements next, reliable reporting after that, and social observations clearly labeled
+              as observations.
+            </p>
+          </div>
 
-            <aside className="er-card rounded-lg p-6">
-              <div className="mb-5 inline-flex h-11 w-11 items-center justify-center rounded-md bg-white/[0.08] text-teal">
-                <BookOpen size={21} />
-              </div>
-              <h2 className="font-heading text-2xl font-bold text-white">What the site will not do</h2>
-              <ul className="mt-5 grid gap-3" role="list">
-                {WILL_NOT_DO.map((item) => (
-                  <li key={item} className="border-t border-white/10 pt-3 text-sm leading-relaxed text-white/68 first:border-t-0 first:pt-0">
-                    {item}
-                  </li>
-                ))}
-              </ul>
-            </aside>
+          <div className="grid gap-4 lg:grid-cols-3">
+            {RESEARCH_SYSTEM.map((item, index) => (
+              <article key={item.title} className={`er-card er-reveal rounded-lg p-6 er-reveal-delay-${Math.min(index, 3)}`}>
+                <div className="mb-5 inline-flex h-11 w-11 items-center justify-center rounded-md bg-gold/15 text-gold">
+                  {item.icon}
+                </div>
+                <h3 className="font-heading text-xl font-bold text-white">{item.title}</h3>
+                <p className="mt-3 text-sm leading-relaxed text-white/68">{item.text}</p>
+              </article>
+            ))}
           </div>
         </div>
       </section>
 
-      <section className="relative pb-16 pt-8 md:pb-24" aria-label="Explore the guide">
+      <section className="relative pb-16 pt-8 md:pb-24" aria-label="Research file totals">
         <div className="container-main relative z-10">
-          <div className="er-panel overflow-hidden rounded-lg">
-            <div className="grid gap-0 lg:grid-cols-[minmax(0,1fr)_22rem]">
+          <div className="er-panel er-reveal overflow-hidden rounded-lg">
+            <div className="grid gap-0 lg:grid-cols-[minmax(0,1fr)_28rem]">
               <div className="p-6 md:p-8">
-                <p className="er-kicker mb-3">Start reading</p>
+                <p className="er-kicker mb-3">Scale</p>
                 <h2 className="font-heading text-3xl font-bold text-white md:text-4xl">
-                  Open the races, then inspect the source trail.
+                  A public record file large enough to compare candidates carefully.
                 </h2>
                 <p className="mt-4 max-w-2xl text-base leading-relaxed text-white/70">
-                  Each candidate profile includes background, issue summaries, public actions,
-                  online observations where available, finance notes, faith/community information
-                  when public, and linked sources.
+                  The same core structure is used across candidates: identity and ballot status,
+                  the 14-issue matrix, public actions, social/online observations, donor and funding
+                  notes, worship/community references when public, source trails, and corrections.
                 </p>
               </div>
-              <div className="grid border-t border-white/10 lg:border-l lg:border-t-0">
-                <Link
-                  href="/elections"
-                  className="group flex items-center justify-between gap-4 border-b border-white/10 p-6 font-heading text-lg font-bold text-white transition hover:bg-white/[0.08]"
-                >
-                  Explore elections
-                  <ArrowRight size={19} className="transition group-hover:translate-x-1" />
-                </Link>
-                <Link
-                  href="/candidates"
-                  className="group flex items-center justify-between gap-4 p-6 font-heading text-lg font-bold text-white transition hover:bg-white/[0.08]"
-                >
-                  View candidates
-                  <ArrowRight size={19} className="transition group-hover:translate-x-1" />
-                </Link>
-                <a
-                  href="https://electrighteous.com/"
-                  className="group flex items-center justify-between gap-4 border-t border-white/10 p-6 text-sm font-semibold text-white/60 transition hover:bg-white/[0.08] hover:text-white"
-                >
-                  Production site
-                  <ExternalLink size={16} className="transition group-hover:translate-x-1" />
-                </a>
-              </div>
+              <dl className="grid border-t border-white/10 sm:grid-cols-2 lg:border-l lg:border-t-0">
+                {DATA_POINTS.map((item) => (
+                  <div key={item.label} className="border-b border-white/10 p-6 even:sm:border-l lg:even:border-l">
+                    <dt className="text-xs uppercase tracking-[0.16em] text-white/45">{item.label}</dt>
+                    <dd className="mt-2 font-heading text-4xl font-extrabold text-white">
+                      {item.value.toLocaleString()}
+                    </dd>
+                  </div>
+                ))}
+              </dl>
             </div>
           </div>
         </div>
