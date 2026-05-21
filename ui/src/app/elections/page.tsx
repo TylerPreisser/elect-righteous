@@ -67,14 +67,16 @@ const OPEN_SEAT_SLUGS = new Set([
 
 export default function ElectionsPage() {
   return (
-    <main id="main-content">
+    <main id="main-content" className="er-shell min-h-screen">
+      <div className="er-grid-bg" aria-hidden="true" />
+      <div className="er-scanline" aria-hidden="true" />
       {/* ── Page Header ──────────────────────────────────────────────── */}
         <section
-          className="section-navy"
+          className="section-navy relative"
           style={{ paddingTop: "3rem", paddingBottom: "3.25rem" }}
           aria-labelledby="elections-heading"
         >
-          <Container>
+          <Container className="relative z-10">
           <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-end">
             <div className="max-w-3xl">
             <p
@@ -100,7 +102,7 @@ export default function ElectionsPage() {
             </p>
             </div>
 
-            <div className="grid grid-cols-3 gap-2 rounded-lg border border-white/10 bg-white/5 p-3 text-white backdrop-blur">
+            <div className="er-panel grid grid-cols-3 gap-2 rounded-lg p-3 text-white">
               <div>
                 <p className="font-heading text-2xl font-bold">{ELECTIONS.length}</p>
                 <p className="text-xs uppercase tracking-wide text-white/60">pages</p>
@@ -121,19 +123,19 @@ export default function ElectionsPage() {
       </section>
 
       {/* ── Categorized Election Sections ────────────────────────────── */}
-      <section className="section-light" aria-labelledby="elections-list-heading">
-        <Container>
+      <section className="section-light relative" aria-labelledby="elections-list-heading">
+        <Container className="relative z-10">
           <div className="max-w-3xl mb-10">
             <h2
               id="elections-list-heading"
               className="font-heading font-bold text-2xl mb-3"
-              style={{ color: "var(--color-navy)" }}
+              style={{ color: "white" }}
             >
               Election Guide
             </h2>
             <p
               className="text-sm leading-relaxed"
-              style={{ color: "var(--color-slate)" }}
+              style={{ color: "rgba(255,255,255,0.66)" }}
             >
               Each card links to a plain-English overview of the race or current-officeholder group, why it
               matters, and every candidate or public official currently researched for that page.
@@ -157,13 +159,13 @@ export default function ElectionsPage() {
                     <h3
                       id={`${category.id}-heading`}
                       className="font-heading font-bold text-2xl"
-                      style={{ color: "var(--color-navy)" }}
+                      style={{ color: "white" }}
                     >
                       {category.heading}
                     </h3>
                     <p
                       className="text-sm leading-relaxed max-w-3xl"
-                      style={{ color: "var(--color-slate)" }}
+                      style={{ color: "rgba(255,255,255,0.66)" }}
                     >
                       {category.description}
                     </p>

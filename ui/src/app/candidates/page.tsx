@@ -65,14 +65,16 @@ export default function CandidatesPage() {
   return (
     <>
 
-      <main id="main-content">
+      <main id="main-content" className="er-shell min-h-screen">
+        <div className="er-grid-bg" aria-hidden="true" />
+        <div className="er-scanline" aria-hidden="true" />
         {/* ── Page Header ──────────────────────────────────────────── */}
         <section
-          className="section-navy"
+          className="section-navy relative"
           style={{ paddingTop: "3rem", paddingBottom: "3.25rem" }}
           aria-labelledby="candidates-heading"
         >
-          <Container>
+          <Container className="relative z-10">
             <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-end">
               <div className="max-w-3xl">
               <p
@@ -92,13 +94,13 @@ export default function CandidatesPage() {
                 className="text-base leading-relaxed"
                 style={{ color: "rgba(246,246,246,0.80)" }}
               >
-                {V2_CANDIDATES.length} officials and candidates researched —
+                {V2_CANDIDATES.length} officials and candidates researched -
                 backgrounds, public actions, faith/community ties where public, campaign finance, and
                 sourced reporting in plain English.
               </p>
               </div>
 
-              <div className="grid grid-cols-3 gap-2 rounded-lg border border-white/10 bg-white/5 p-3 text-white backdrop-blur">
+              <div className="er-panel grid grid-cols-3 gap-2 rounded-lg p-3 text-white">
                 <div>
                   <p className="font-heading text-2xl font-bold">{V2_CANDIDATES.length}</p>
                   <p className="text-xs uppercase tracking-wide text-white/60">profiles</p>
@@ -119,16 +121,15 @@ export default function CandidatesPage() {
         </section>
 
         {/* ── Search, Filters, and Grid ────────────────────────────── */}
-        <section className="section-light" aria-labelledby="candidates-grid-label">
-          <Container>
+        <section className="section-light relative" aria-labelledby="candidates-grid-label">
+          <Container className="relative z-10">
             <h2 id="candidates-grid-label" className="sr-only">
               Candidate list
             </h2>
 
             {/* Search + Filters bar */}
             <div
-              className="sticky top-16 z-20 mb-8 grid gap-3 rounded-lg border bg-white/95 p-3 shadow-sm backdrop-blur md:grid-cols-[minmax(0,1fr)_auto_auto]"
-              style={{ borderColor: "rgba(16, 64, 93, 0.12)" }}
+              className="er-panel sticky top-16 z-20 mb-8 grid gap-3 rounded-lg p-3 md:grid-cols-[minmax(0,1fr)_auto_auto]"
             >
               {/* Search input */}
               <div className="relative flex-1">
@@ -138,7 +139,7 @@ export default function CandidatesPage() {
                 <Search
                   size={16}
                   className="absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none"
-                  style={{ color: "var(--color-slate)" }}
+                  style={{ color: "rgba(255,255,255,0.58)" }}
                   aria-hidden="true"
                 />
                 <input
@@ -147,17 +148,18 @@ export default function CandidatesPage() {
                   value={query}
                   onChange={(e) => setQuery(e.target.value)}
                   placeholder="Search by name, position, or office…"
-                  className="min-h-11 w-full pl-9 pr-11 rounded-md border text-sm font-body bg-white transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-offset-1"
+                  className="min-h-11 w-full pl-9 pr-11 rounded-md border text-sm font-body transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-teal"
                   style={{
-                    borderColor: "#e2e8f0",
-                    color: "var(--color-charcoal)",
+                    borderColor: "rgba(255,255,255,0.14)",
+                    color: "white",
+                    backgroundColor: "rgba(255,255,255,0.08)",
                   }}
                 />
                 {query && (
                   <button
                     onClick={() => setQuery("")}
                     className="absolute right-1.5 top-1/2 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded transition-colors duration-200 hover:opacity-70 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
-                    style={{ color: "var(--color-slate)" }}
+                    style={{ color: "rgba(255,255,255,0.62)" }}
                     aria-label="Clear search"
                   >
                     <X size={14} aria-hidden="true" />
@@ -174,10 +176,11 @@ export default function CandidatesPage() {
                   id="party-filter"
                   value={partyFilter}
                   onChange={(e) => setPartyFilter(e.target.value as PartyFilter)}
-                  className="min-h-11 w-full rounded-md border bg-white px-3 text-sm font-body transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-offset-1 md:w-auto cursor-pointer"
+                  className="min-h-11 w-full rounded-md border px-3 text-sm font-body transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-teal md:w-auto cursor-pointer"
                   style={{
-                    borderColor: "#e2e8f0",
-                    color: "var(--color-charcoal)",
+                    borderColor: "rgba(255,255,255,0.14)",
+                    color: "white",
+                    backgroundColor: "rgba(255,255,255,0.08)",
                     minWidth: "10.5rem",
                   }}
                 >
@@ -198,10 +201,11 @@ export default function CandidatesPage() {
                   id="status-filter"
                   value={statusFilter}
                   onChange={(e) => setStatusFilter(e.target.value as StatusFilter)}
-                  className="min-h-11 w-full rounded-md border bg-white px-3 text-sm font-body transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-offset-1 md:w-auto cursor-pointer"
+                  className="min-h-11 w-full rounded-md border px-3 text-sm font-body transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-teal md:w-auto cursor-pointer"
                   style={{
-                    borderColor: "#e2e8f0",
-                    color: "var(--color-charcoal)",
+                    borderColor: "rgba(255,255,255,0.14)",
+                    color: "white",
+                    backgroundColor: "rgba(255,255,255,0.08)",
                     minWidth: "11.5rem",
                   }}
                 >
@@ -218,14 +222,14 @@ export default function CandidatesPage() {
             <div className="mb-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
               <p
                 className="text-sm font-body"
-                style={{ color: "var(--color-slate)" }}
+                style={{ color: "rgba(255,255,255,0.66)" }}
                 aria-live="polite"
                 aria-atomic="true"
               >
                 Showing{" "}
                 <span
                   className="font-semibold"
-                  style={{ color: "var(--color-navy)" }}
+                  style={{ color: "white" }}
                 >
                   {filtered.length}
                 </span>{" "}
@@ -236,7 +240,7 @@ export default function CandidatesPage() {
                 <button
                   onClick={clearFilters}
                   className="inline-flex items-center gap-1.5 text-sm font-heading font-semibold transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal rounded px-1"
-                  style={{ color: "var(--color-teal-dark)" }}
+                  style={{ color: "var(--color-teal)" }}
                 >
                   <X size={13} aria-hidden="true" />
                   Clear filters
@@ -276,14 +280,14 @@ export default function CandidatesPage() {
             ) : (
               <div className="text-center py-20">
                 <p
-                  className="font-heading font-bold text-xl mb-2"
-                  style={{ color: "var(--color-navy)" }}
+                className="font-heading font-bold text-xl mb-2"
+                  style={{ color: "white" }}
                 >
                   No candidates match your search
                 </p>
                 <p
                   className="text-sm mb-5"
-                  style={{ color: "var(--color-slate)" }}
+                  style={{ color: "rgba(255,255,255,0.66)" }}
                 >
                   Try adjusting your filters or search terms.
                 </p>

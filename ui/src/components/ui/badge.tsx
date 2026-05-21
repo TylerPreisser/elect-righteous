@@ -18,7 +18,7 @@ function partyClasses(value: string): string {
     case "Democrat":
       return "bg-blue-100 text-blue-800";
     default:
-      return "bg-gray-100 text-gray-700";
+      return "bg-white/10 text-white/78";
   }
 }
 
@@ -29,7 +29,7 @@ function statusClasses(value: string): string {
     case "Challenger":
       return "bg-gold/10 text-gold";
     default:
-      return "bg-gray-100 text-gray-700";
+      return "bg-white/10 text-white/78";
   }
 }
 
@@ -43,7 +43,7 @@ export default function Badge({ variant, children, className = "" }: BadgeProps)
     variantClasses = statusClasses(text);
   } else {
     // type variant — generic navy style
-    variantClasses = "bg-navy/10 text-navy";
+    variantClasses = "bg-teal/10 text-teal";
   }
 
   return (

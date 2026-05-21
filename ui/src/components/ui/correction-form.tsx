@@ -47,12 +47,12 @@ export default function CorrectionForm({ candidateName }: CorrectionFormProps) {
     return (
       <div
         className="rounded-md p-6 text-center sm:p-8"
-        style={{ backgroundColor: "#f0fdf9", border: "1px solid rgba(28, 195, 175, 0.3)" }}
+        style={{ backgroundColor: "rgba(28, 195, 175, 0.10)", border: "1px solid rgba(28, 195, 175, 0.3)" }}
       >
-        <p className="mb-1 font-heading text-lg font-bold" style={{ color: "var(--color-navy)" }}>
+        <p className="mb-1 font-heading text-lg font-bold" style={{ color: "white" }}>
           Thank you!
         </p>
-        <p className="font-body text-sm" style={{ color: "var(--color-slate)" }}>
+        <p className="font-body text-sm" style={{ color: "rgba(255,255,255,0.68)" }}>
           Your submission has been received. We&apos;ll review it and update this profile if needed.
         </p>
       </div>
@@ -62,19 +62,19 @@ export default function CorrectionForm({ candidateName }: CorrectionFormProps) {
   return (
     <section
       className="mt-10 rounded-md p-6 sm:p-8"
-      style={{ backgroundColor: "#f8f9fa", border: "1px solid #e2e8f0" }}
+      style={{ backgroundColor: "rgba(255,255,255,0.055)", border: "1px solid rgba(255,255,255,0.12)" }}
       aria-labelledby="correction-form-heading"
     >
       <h2
         id="correction-form-heading"
         className="mb-1 font-heading text-lg font-bold"
-        style={{ color: "var(--color-navy)" }}
+        style={{ color: "white" }}
       >
         Is Something Wrong or Missing?
       </h2>
       <p
         className="mb-6 font-body text-sm leading-relaxed"
-        style={{ color: "var(--color-slate)" }}
+        style={{ color: "rgba(255,255,255,0.66)" }}
       >
         If you are {candidateName} or represent their campaign, or if you have a correction or
         additional information, let us know. We want to get this right.
@@ -96,7 +96,7 @@ export default function CorrectionForm({ candidateName }: CorrectionFormProps) {
           <label
             htmlFor="correction-name"
             className="mb-1.5 block font-heading text-xs font-bold uppercase tracking-widest"
-            style={{ color: "var(--color-navy)" }}
+            style={{ color: "rgba(255,255,255,0.78)" }}
           >
             Your Name
           </label>
@@ -107,9 +107,9 @@ export default function CorrectionForm({ candidateName }: CorrectionFormProps) {
             required
             className="w-full rounded-md border px-4 py-2.5 font-body text-sm focus:outline-none focus:ring-2"
             style={{
-              borderColor: "#d1d5db",
-              color: "var(--color-charcoal)",
-              backgroundColor: "white",
+              borderColor: "rgba(255,255,255,0.14)",
+              color: "white",
+              backgroundColor: "rgba(255,255,255,0.08)",
             }}
             placeholder="Jane Smith"
           />
@@ -119,7 +119,7 @@ export default function CorrectionForm({ candidateName }: CorrectionFormProps) {
           <label
             htmlFor="correction-email"
             className="mb-1.5 block font-heading text-xs font-bold uppercase tracking-widest"
-            style={{ color: "var(--color-navy)" }}
+            style={{ color: "rgba(255,255,255,0.78)" }}
           >
             Email
           </label>
@@ -130,9 +130,9 @@ export default function CorrectionForm({ candidateName }: CorrectionFormProps) {
             required
             className="w-full rounded-md border px-4 py-2.5 font-body text-sm focus:outline-none focus:ring-2"
             style={{
-              borderColor: "#d1d5db",
-              color: "var(--color-charcoal)",
-              backgroundColor: "white",
+              borderColor: "rgba(255,255,255,0.14)",
+              color: "white",
+              backgroundColor: "rgba(255,255,255,0.08)",
             }}
             placeholder="you@example.com"
           />
@@ -142,7 +142,7 @@ export default function CorrectionForm({ candidateName }: CorrectionFormProps) {
           <label
             htmlFor="correction-relationship"
             className="mb-1.5 block font-heading text-xs font-bold uppercase tracking-widest"
-            style={{ color: "var(--color-navy)" }}
+            style={{ color: "rgba(255,255,255,0.78)" }}
           >
             Your Relationship to This Candidate
           </label>
@@ -152,9 +152,9 @@ export default function CorrectionForm({ candidateName }: CorrectionFormProps) {
             required
             className="w-full rounded-md border px-4 py-2.5 font-body text-sm focus:outline-none focus:ring-2"
             style={{
-              borderColor: "#d1d5db",
-              color: "var(--color-charcoal)",
-              backgroundColor: "white",
+              borderColor: "rgba(255,255,255,0.14)",
+              color: "white",
+              backgroundColor: "rgba(255,255,255,0.08)",
             }}
           >
             <option value="">Select one...</option>
@@ -169,7 +169,7 @@ export default function CorrectionForm({ candidateName }: CorrectionFormProps) {
           <label
             htmlFor="correction-message"
             className="mb-1.5 block font-heading text-xs font-bold uppercase tracking-widest"
-            style={{ color: "var(--color-navy)" }}
+            style={{ color: "rgba(255,255,255,0.78)" }}
           >
             What Should We Change or Add?
           </label>
@@ -180,9 +180,9 @@ export default function CorrectionForm({ candidateName }: CorrectionFormProps) {
             rows={4}
             className="w-full resize-y rounded-md border px-4 py-2.5 font-body text-sm focus:outline-none focus:ring-2"
             style={{
-              borderColor: "#d1d5db",
-              color: "var(--color-charcoal)",
-              backgroundColor: "white",
+              borderColor: "rgba(255,255,255,0.14)",
+              color: "white",
+              backgroundColor: "rgba(255,255,255,0.08)",
             }}
             placeholder="Tell us what's incorrect, missing, or needs to be updated..."
           />
@@ -192,7 +192,7 @@ export default function CorrectionForm({ candidateName }: CorrectionFormProps) {
           type="submit"
           disabled={submitting}
           className="min-h-11 w-full rounded-md px-6 font-heading text-sm font-semibold uppercase tracking-wide text-white transition-all duration-200 hover:shadow-lg disabled:opacity-50 sm:w-auto sm:self-start"
-          style={{ backgroundColor: "var(--color-navy)" }}
+          style={{ backgroundColor: "var(--color-teal)" }}
         >
           {submitting ? "Sending..." : "Submit Correction"}
         </button>

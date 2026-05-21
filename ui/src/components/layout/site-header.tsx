@@ -48,8 +48,8 @@ export default function SiteHeader() {
       <header
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
           isScrolled
-            ? "bg-white/92 shadow-[0_10px_30px_rgba(16,64,93,0.10)] backdrop-blur-md"
-            : "bg-white/96 shadow-sm backdrop-blur"
+            ? "border-b border-white/10 bg-[#071822]/92 shadow-[0_18px_50px_rgba(0,0,0,0.28)] backdrop-blur-xl"
+            : "border-b border-white/10 bg-[#071822]/84 backdrop-blur-xl"
         }`}
       >
         <Container>
@@ -63,7 +63,7 @@ export default function SiteHeader() {
               {/* Cross icon mark */}
               <span
                 className="flex items-center justify-center w-8 h-8 rounded"
-                style={{ backgroundColor: "var(--color-navy)" }}
+                style={{ backgroundColor: "var(--color-teal)" }}
                 aria-hidden="true"
               >
                 <svg
@@ -79,7 +79,7 @@ export default function SiteHeader() {
               </span>
               <span
                 className="min-w-0 truncate text-base font-heading font-bold uppercase tracking-[0.14em] transition-colors duration-200 group-hover:opacity-80 sm:text-lg"
-                style={{ color: "var(--color-navy)" }}
+                style={{ color: "white" }}
               >
                 Elect Righteous
               </span>
@@ -99,12 +99,12 @@ export default function SiteHeader() {
                     href={href}
                     className={`relative px-4 py-2 text-sm font-heading font-semibold uppercase tracking-wider transition-colors duration-200 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-teal ${
                       isActive
-                        ? "text-navy"
-                        : "text-slate hover:text-navy"
+                        ? "text-white"
+                        : "text-white/62 hover:text-white"
                     }`}
                     style={
                       isActive
-                        ? { color: "var(--color-navy)" }
+                        ? { color: "white" }
                         : {}
                     }
                     aria-current={isActive ? "page" : undefined}
@@ -126,13 +126,13 @@ export default function SiteHeader() {
             {/* Mobile hamburger button */}
             {/* min-w-[44px] min-h-[44px]: Apple HIG 44×44px minimum tap target */}
             <button
-              className="md:hidden flex items-center justify-center w-11 h-11 rounded-md transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal hover:bg-light"
+              className="md:hidden flex items-center justify-center w-11 h-11 rounded-md transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal hover:bg-white/10"
               onClick={() => setIsMobileMenuOpen((prev) => !prev)}
               aria-label={isMobileMenuOpen ? "Close navigation menu" : "Open navigation menu"}
               aria-expanded={isMobileMenuOpen}
               aria-controls="mobile-nav"
               style={{
-                color: "var(--color-navy)",
+                color: "white",
                 WebkitTapHighlightColor: "transparent",
                 touchAction: "manipulation",
               }}
@@ -168,7 +168,7 @@ export default function SiteHeader() {
 
         {/* Slide-out panel */}
         <nav
-          className={`absolute top-0 right-0 flex h-full w-[min(18rem,calc(100vw-2rem))] flex-col bg-white shadow-2xl transition-transform duration-300 ease-in-out ${
+          className={`absolute top-0 right-0 flex h-full w-[min(18rem,calc(100vw-2rem))] flex-col border-l border-white/10 bg-[#071822] shadow-2xl transition-transform duration-300 ease-in-out ${
             isMobileMenuOpen ? "translate-x-0" : "translate-x-full"
           }`}
           aria-label="Mobile navigation"
@@ -176,21 +176,21 @@ export default function SiteHeader() {
           {/* Panel header */}
           <div
             className="flex items-center justify-between px-6 h-16 border-b"
-            style={{ borderColor: "var(--color-light)" }}
+            style={{ borderColor: "rgba(255,255,255,0.12)" }}
           >
             <span
               className="font-heading font-bold text-base uppercase tracking-widest"
-              style={{ color: "var(--color-navy)" }}
+              style={{ color: "white" }}
             >
               Menu
             </span>
             {/* min 44×44px tap target per Apple HIG */}
             <button
-              className="flex items-center justify-center w-11 h-11 rounded-md transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal hover:bg-light"
+              className="flex items-center justify-center w-11 h-11 rounded-md transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal hover:bg-white/10"
               onClick={() => setIsMobileMenuOpen(false)}
               aria-label="Close navigation menu"
               style={{
-                color: "var(--color-navy)",
+                color: "white",
                 WebkitTapHighlightColor: "transparent",
                 touchAction: "manipulation",
               }}
@@ -213,13 +213,13 @@ export default function SiteHeader() {
                     href={href}
                     className={`flex items-center gap-3 px-6 py-4 text-sm font-heading font-semibold uppercase tracking-wider transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-teal ${
                       isActive
-                        ? "bg-light"
-                        : "hover:bg-light"
+                        ? "bg-white/10"
+                        : "hover:bg-white/10"
                     }`}
                     style={{
                       color: isActive
-                        ? "var(--color-navy)"
-                        : "var(--color-charcoal)",
+                        ? "white"
+                        : "rgba(246,246,246,0.72)",
                     }}
                     aria-current={isActive ? "page" : undefined}
                   >
@@ -239,10 +239,10 @@ export default function SiteHeader() {
           </ul>
 
           {/* Footer tagline inside mobile menu */}
-          <div className="mt-auto px-6 py-6 border-t" style={{ borderColor: "var(--color-light)" }}>
+          <div className="mt-auto px-6 py-6 border-t" style={{ borderColor: "rgba(255,255,255,0.12)" }}>
             <p
               className="text-xs font-body leading-relaxed"
-              style={{ color: "var(--color-slate)" }}
+              style={{ color: "rgba(246,246,246,0.62)" }}
             >
               Know Your Candidates. Vote Your Values.
             </p>

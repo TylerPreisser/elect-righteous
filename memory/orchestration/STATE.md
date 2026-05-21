@@ -1,6 +1,6 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-21T02:25:00Z
-Last agent: ui-copy-auditor / ux-content-designer / mobile-qa-agent / build-validation-gatekeeper / form-verification / cloudflare-deploy-agent
+Last updated: 2026-05-21T14:13:00Z
+Last agent: ux-content-designer / frontend-implementer / mobile-qa-agent / build-validation-gatekeeper
 Last commit: see `git log --oneline -1`
 
 ## Current Phase
@@ -13,8 +13,8 @@ Phase 3: Profile Rebuild
 | 2 | Evidence Matrixing | complete |
 | 3 | Profile Rebuild | complete-with-caveats |
 | 4 | Editorial Review | in progress |
-| 5 | UI/UX Rebuild | complete-local-qa |
-| 6 | Validation | pass-local-after-ui-ux |
+| 5 | UI/UX Rebuild | complete-dark-redesign-local-qa |
+| 6 | Validation | pass-dark-redesign-local |
 | 7 | Deploy | GitHub Pages preview deployed; Cloudflare Pages and production domains verified |
 
 ## Blockers
@@ -135,11 +135,12 @@ Phase 3: Profile Rebuild
 ## Validation Gate Results
 | Gate | Last Run | Pass/Fail | Notes |
 |------|----------|-----------|-------|
-| YAML parse | 2026-05-21T02:18:00Z | Pass | 81 candidate v2-issues.yaml files parse clean after public copy/profile UX cleanup. |
-| Phase 2 inventory | 2026-05-21T02:18:00Z | Pass | 81 candidate-like slugs; 59 active 2026; 81 rendered v2; no missing UI entries. |
-| V2 runtime validation | 2026-05-21T02:19:00Z | Pass | validateCandidateV2 accepted 81 v2 candidates after public copy/profile UX cleanup. |
-| TypeScript | 2026-05-21T02:20:00Z | Pass | npx tsc --noEmit --incremental false passed after public copy/profile UX cleanup. |
-| Static build | 2026-05-21T02:20:00Z | Pass | npm run build generated 266 static pages after public copy/profile UX cleanup. |
+| YAML parse | 2026-05-21T14:08:00Z | Pass | 81 candidate v2-issues.yaml files parse clean after dark UX redesign. |
+| Phase 2 inventory | 2026-05-21T14:08:00Z | Pass | 81 candidate-like slugs; 59 active 2026; 81 rendered v2; no missing UI entries. |
+| V2 runtime validation | 2026-05-21T14:09:00Z | Pass | validateCandidateV2 accepted 81 v2 candidates after dark UX redesign. |
+| TypeScript | 2026-05-21T14:09:00Z | Pass | npx tsc --noEmit --incremental false passed after dark UX redesign. |
+| Static build | 2026-05-21T14:10:00Z | Pass | npm run build generated 266 static pages after dark UX redesign. |
+| Cloudflare root-domain build | 2026-05-21T14:11:00Z | Pass | npm run build:cloudflare generated 266 static pages with NEXT_PUBLIC_SITE_URL=https://electrighteous.com. |
 | Candidate count parity | 2026-05-20T22:05:00Z | Pass | 16 race entries; every candidateCount matches candidateSlugs.length. |
 | Forbidden public labels | 2026-05-20T19:08:52Z | Pass | No tpreisser.github.io, Preisser Tech, What You Should Know, or In Their Own Words strings remain under ui/src, ui/public, or active compile scripts. |
 | Evidence matrix structure | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have raw and final evidence matrices with required fields. |
@@ -159,6 +160,8 @@ Phase 3: Profile Rebuild
 | UI/UX screenshot sweep | 2026-05-20T23:45:00Z | Pass | Captured 267 generated routes in mobile 390x844 and desktop 1440x1100 for 534 full-page screenshots; 0 capture failures. Archive is local at memory/orchestration/ui-screenshots-2026-05-20/after and intentionally not committed because it is approximately 254 MB. |
 | Mobile/desktop overflow QA | 2026-05-20T23:43:00Z | Pass | Checked 267 routes x 2 viewports with automated overflow/console scan; final result 0 failures after fixing mobile source-trail width constraints. See mobile-overflow-qa-2026-05-20.json. |
 | Public internal-text leak scan | 2026-05-20T23:46:00Z | Pass | Built output and active v2 data scanned clean for forbidden section labels, Preisser Tech, tpreisser.github.io, and targeted tool/process phrases including this environment, worker/orchestrator/compiler notes, and do-not-edit instructions. |
+| Dark redesign leak scan | 2026-05-21T14:11:00Z | Pass | ui/src, ui/public, and ui/out scanned clean for Preisser Tech, forbidden section labels, Isaiah 1:17, the quoted internal homepage copy, Codex/process wording, and customer-feedback phrases that should not render publicly. |
+| Dark redesign screenshot QA | 2026-05-21T14:06:00Z | Pass | Captured 20 screenshots across 10 representative routes in desktop 1440px and mobile 390px. Every checked route returned HTTP 200, had no horizontal overflow, and had no forbidden public text hits. See memory/orchestration/ui-qa-2026-05-21-dark/. |
 | Candidate relevance guard | 2026-05-20T20:30:53Z | Pass | Renderer now rejects finance-only, public-absence, generic race/local context, family-network, and other-candidate-led evidence from issue/social cards unless the evidence names or directly belongs to the current candidate. |
 | Customer local feedback pass | 2026-05-20T20:50:39Z | Pass-with-caveats | Added current-official/appointed-administrator profile labeling, corrected Hays City and USD 489 group copy, added filing-deadline context to election detail pages, corrected Ken Brooks Hays High/Facebook-page notes, and documented that current official roster data still needs post-deadline recheck. |
 | GitHub Pages preview deploy | 2026-05-21T02:21:00Z | Pass | Pushed main through commit 003f790; GitHub Actions run 26201557536 completed build and deploy successfully. Public preview fetch verified home and Steven Jacob pages with no targeted forbidden/internal wording. |
@@ -176,6 +179,7 @@ Phase 3: Profile Rebuild
 8. Preview deploy completed for commit 003f790 and Cloudflare Pages root build is live at `https://elect-righteous.pages.dev/`; production `electrighteous.com` and `www.electrighteous.com` are verified. Remaining public blocker is FormSubmit activation — deploy agents — P1 — blocked by form provider activation
 
 ## Session Log (last 20 entries)
+- 2026-05-21T14:13:00Z ux-content-designer/frontend-implementer/mobile-qa-agent/build-validation-gatekeeper Rebuilt the visible site into a unified dark civic-intelligence interface inspired by the downloaded La Revoltosa, Thorgal, and Balmoral references without copying their code; rewrote About with a public-record/government-role framing and Romans 13:3-4; replaced stale Allen Park demo UI; darkened home, about, candidate index, elections, race detail, candidate dossier, source trail, correction form, cards, badges, and header; preserved collapsed issue dossiers and See more cards; captured 20 desktop/mobile screenshots; confirmed no overflow or targeted internal-copy leaks; YAML, inventory, V2 validation, TypeScript, npm run build, and npm run build:cloudflare all pass.
 - 2026-05-21T02:25:00Z ui-copy-auditor/ux-content-designer/mobile-qa-agent/form-verification Removed public internal/process wording from visible site copy and candidate data, changed issue expanders to See more, moved Who They Are above collapsed issue sections, shortened cards, refined donor/funding layout, fixed favicon assets, restored the desktop Preisser Solutions badge without mobile overlap, captured fresh desktop/mobile screenshots from a root-domain build, confirmed targeted public leak scan returns 0 matches, and verified FormSubmit is wired but blocked pending recipient activation.
 - 2026-05-21T02:22:00Z github-pages-deploy-agent/cloudflare-deploy-agent Pushed commit 003f790 to main, verified GitHub Pages run 26201557536 succeeded, deployed root-domain build to Cloudflare Pages deployment `https://e230d8cb.elect-righteous.pages.dev`, verified `https://elect-righteous.pages.dev/`, `https://electrighteous.com/`, and `https://www.electrighteous.com/` return HTTP 200, and confirmed production metadata uses electrighteous.com.
 - 2026-05-20T20:38:00-05:00 cloudflare-deploy-agent Created Cloudflare Pages project `elect-righteous`, deployed a root-domain Wrangler build to `https://elect-righteous.pages.dev/`, added `electrighteous.com` and `www.electrighteous.com` as Pages custom domains, and documented that DNS record creation is blocked by OAuth token DNS permission failure.

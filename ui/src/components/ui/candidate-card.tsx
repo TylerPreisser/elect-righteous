@@ -49,22 +49,21 @@ export default function CandidateCard({
   return (
     <Link
       href={`/candidates/${slug}`}
-      className={`group block h-full rounded-lg border bg-white transition-all duration-200 hover:-translate-y-0.5 hover:border-teal/40 hover:shadow-[0_18px_45px_rgba(16,64,93,0.12)] focus:outline-none focus-visible:ring-2 focus-visible:ring-teal ${className}`}
-      style={{ borderColor: "rgba(16, 64, 93, 0.12)" }}
+      className={`er-card group block h-full rounded-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-teal ${className}`}
       aria-label={`Open profile for ${name}`}
     >
-      <article className="flex min-h-[12.25rem] h-full flex-col p-4 sm:p-5">
+      <article className="flex min-h-[10.75rem] h-full flex-col p-4">
         <div className="mb-3 flex flex-wrap items-center gap-2">
           <span
             className="inline-flex max-w-full items-center rounded px-2 py-0.5 text-[0.66rem] font-heading font-bold uppercase tracking-wider"
-            style={{ backgroundColor: "rgba(16, 64, 93, 0.07)", color: "var(--color-navy)" }}
+            style={{ backgroundColor: "rgba(255, 255, 255, 0.08)", color: "rgba(255,255,255,0.82)" }}
           >
             {partyLabel}
           </span>
           {incumbent && (
             <span
               className="inline-flex items-center rounded px-2 py-0.5 text-[0.66rem] font-heading font-bold uppercase tracking-wider"
-              style={{ backgroundColor: "rgba(28, 195, 175, 0.10)", color: "var(--color-teal-dark)" }}
+              style={{ backgroundColor: "rgba(28, 195, 175, 0.14)", color: "var(--color-teal)" }}
             >
               In office
             </span>
@@ -72,14 +71,14 @@ export default function CandidateCard({
         </div>
 
         <h3
-          className="mb-2 font-heading font-bold text-navy text-lg leading-tight transition-colors duration-200 group-hover:text-teal"
+          className="mb-2 font-heading font-bold text-lg leading-tight text-white transition-colors duration-200 group-hover:text-teal"
         >
           {name}
         </h3>
 
         <p
           className="mb-3 text-sm font-semibold leading-snug"
-          style={{ color: "var(--color-teal-dark)" }}
+          style={{ color: "var(--color-teal)" }}
         >
           {position}
         </p>
@@ -87,7 +86,7 @@ export default function CandidateCard({
         {occupation && (
           <p
             className="mb-4 text-xs leading-snug"
-            style={{ color: "var(--color-slate)" }}
+            style={{ color: "rgba(255,255,255,0.58)" }}
           >
             {normalizePublicCopy(occupation)}
           </p>
@@ -97,7 +96,7 @@ export default function CandidateCard({
           <p
             className="mb-4 flex-1 text-sm leading-relaxed"
             style={{
-              color: "var(--color-charcoal)",
+              color: "rgba(255,255,255,0.72)",
               fontFamily: "var(--font-serif)",
               display: "-webkit-box",
               WebkitLineClamp: 2,
@@ -114,13 +113,13 @@ export default function CandidateCard({
         {metrics.length > 0 && (
           <div
             className="mt-auto flex flex-wrap items-center gap-x-3 gap-y-1 border-t pt-3"
-            style={{ borderColor: "rgba(16, 64, 93, 0.10)" }}
+            style={{ borderColor: "rgba(255, 255, 255, 0.10)" }}
             aria-label="Profile metrics"
           >
             {metrics.map(({ icon: Icon, label, value }) => (
-              <span key={label} className="inline-flex items-center gap-1.5 text-xs" style={{ color: "var(--color-slate)" }}>
+              <span key={label} className="inline-flex items-center gap-1.5 text-xs" style={{ color: "rgba(255,255,255,0.55)" }}>
                 <Icon size={12} className="shrink-0 text-teal" aria-hidden="true" />
-                <strong className="font-heading text-sm" style={{ color: "var(--color-navy)" }}>
+                <strong className="font-heading text-sm" style={{ color: "white" }}>
                   {value}
                 </strong>
                 <span className="uppercase tracking-wide">
@@ -134,7 +133,7 @@ export default function CandidateCard({
         {typeof issueCount === "number" && (
           <span
             className="mt-3 inline-flex items-center gap-2 text-sm font-heading font-bold transition-colors duration-200 group-hover:text-teal"
-            style={{ color: "var(--color-navy)" }}
+            style={{ color: "rgba(255,255,255,0.78)" }}
             aria-hidden="true"
           >
             See more
