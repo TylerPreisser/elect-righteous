@@ -20,7 +20,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Public evidence: The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics (harvest). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to rep... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics (harvest). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to rep... ",
         "sourceIds": [
           "s-kmuw-corecivic-forum"
         ]
@@ -53,7 +53,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -63,7 +63,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public record: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... ",
         "sourceIds": [
           "s-campaign-priorities"
         ]
@@ -105,7 +105,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Public evidence: The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics (harvest). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to rep... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics (harvest). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to rep... ",
         "sourceIds": [
           "s-kmuw-corecivic-forum"
         ]
@@ -128,7 +128,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... ",
         "sourceIds": [
           "s-campaign-priorities",
           "s-kmuw-corecivic-forum"
@@ -191,7 +191,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... ",
         "sourceIds": [
           "s-campaign-priorities",
           "s-kmuw-corecivic-forum"
@@ -262,7 +262,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Public evidence: The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics (harvest). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to rep... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics (harvest). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to rep... ",
         "sourceIds": [
           "s-kmuw-corecivic-forum"
         ]
@@ -285,7 +285,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Public evidence: The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics (harvest). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to rep... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The captured record has notable gaps. The Bluesky feed and campaign pages give much more attention to schools, affordability, healthcare, labor, redistricting, and federal cuts than to gun policy, water policy, the Ogallala Aquifer, or detailed state-budget mechanics (harvest). Abortion and reproductive-health access appear in indexed forum coverage -- KMUW reported both Democratic candidates supported access to rep... ",
         "sourceIds": [
           "s-kmuw-corecivic-forum"
         ]
@@ -328,7 +328,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... ",
         "sourceIds": [
           "s-campaign-priorities",
           "s-kansas-reflector-debate",
@@ -416,7 +416,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record of winning Republican-held legislative districts (source). In that same coverage, she responded to Ethan Corson's endorsements by saying she was running on her... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record of winning Republican-held legislative districts (source). In that same coverage, she responded to Ethan Corson's endorsements by saying she was running on her... ",
         "sourceIds": [
           "s-kmuw-corecivic-forum",
           "s-ksleg-hb2479-rollcall"
@@ -479,7 +479,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -489,7 +489,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public record: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... ",
         "sourceIds": [
           "s-campaign-priorities",
           "s-kansas-reflector-debate",
@@ -578,7 +578,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... ",
         "sourceIds": [
           "s-campaign-priorities",
           "s-kmuw-corecivic-forum"
@@ -639,7 +639,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and basic affordability. In the Bluesky harvest, cost of living, agriculture, tariffs, food assistance, housing, taxes, and household economics accounted for 76 of 431 original posts, or 18 percent; public e... ",
         "sourceIds": [
           "s-campaign-priorities"
         ]
@@ -679,8 +679,8 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Cindy Holscher is profiled here for Kansas Governor as a Democratic. Public education is not just background in the captured record; it is a recurring policy fight. The campaign says Holscher walked from Shawnee to Topeka with education advocates in 2016 to bring attention to Brownback-era underfunding, later helped reverse sc... Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an anti-establishment candidate with a record... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 16 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assis... Taxes / spending / debt: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, an... Economy / jobs / labor: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and... Economy / jobs / labor: Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an... Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object]",
+  "recordSummary": "This profile links 16 public items across 8 of the 14 issue areas. Examples include: Education / curriculum / schools: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assis... Taxes / spending / debt: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, an... Economy / jobs / labor: Across the captured public feed, Holscher's most consistent message is that Kansas government should focus on practical household pressure: schools, healthcare, housing, groceries, wages, taxes, food assistance, and... Economy / jobs / labor: Holscher's campaign identity includes a clear anti-establishment lane inside the Democratic primary. KMUW / Kansas Reflector coverage of the April 26, 2026 Democratic forum reported that she positioned herself as an... Public online activity is listed separately as context.",
+  "ownWordsNarrative": "",
   "whereTheyWorship": "Holscher has the most compelling personal narrative in the Democratic field -- granddaughter of tenant farmers, daughter of a construction worker and school custodian, first-generation college graduate, single mom who worked her way up through Sprint. Her leg... | Cindy Holscher | NOT IDENTIFIED | No faith references found anywhere |. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "sourceIds: s-kpdc-statewide-2026; s-kpdc-treasurer; s-kpdc-202601; reportingPeriod: 2025-01-01 through 2025-12-31; filed: 2026-01-13; totalRaised: $397,952.07; totalSpent: $218,060.34; cashOnHand: $179,891.73; inKind: $2,949.82; otherTransactions: $0.00; treasurer: Lynn Rogers",
@@ -690,7 +690,7 @@ export const CINDY_HOLSCHER_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Reviewed public records"
   },
-  "socialResearchNote": "34 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "34 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-kpdc-statewide-2026",

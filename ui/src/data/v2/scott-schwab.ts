@@ -21,7 +21,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -41,7 +41,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -51,7 +51,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Public evidence: As a Christian, my faith has guided me - Scott Schwab campaign site, 2026-04-01, https://scottschwab.com/ - topic: faith and worldview. Social/online observations are public signals, not confirmed policy positions.",
+        "text": "As a Christian, my faith has guided me - Scott Schwab campaign site, 2026-04-01, https://scottschwab.com/ - topic: faith and worldview. ",
         "sourceIds": [
           "s-campaign-site"
         ]
@@ -63,7 +63,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... ",
         "sourceIds": [
           "s-campaign-site",
           "src-scott-schwab-0051",
@@ -133,7 +133,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... ",
         "sourceIds": [
           "s-campaign-site",
           "s-sos-apr2026-hb2437-release"
@@ -184,7 +184,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -194,7 +194,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -204,7 +204,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Public evidence: The reviewed set contains one personal health update rather than a health-policy item. KCTV/WIBW reported Schwab’s March 21, 2025 social-media post on surgery for cancer, quoting him: \"My doctors have confirmed it was found very early, and no further treatment will be required post-surgery. I will make a full recovery.\" (source) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The reviewed set contains one personal health update rather than a health-policy item. KCTV/WIBW reported Schwab’s March 21, 2025 social-media post on surgery for cancer, quoting him: \"My doctors have confirmed it was found very early, and no further treatment will be required post-surgery. I will make a full recovery.\" (source) ",
         "sourceIds": [
           "src-scott-schwab-0055"
         ]
@@ -237,7 +237,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Across the public set reviewed, Schwab’s visible record centers first on election administration and voter-roll maintenance. That category accounts for 5 of the 11 accessible items in the harvest, including the campaign site, office social profiles, and Secretary of State releases. In a Jan. 7, 2026 office release, Schwab said, \"We use a mix of laws, regulations, and internal reforms to deliver better service, prote... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the public set reviewed, Schwab’s visible record centers first on election administration and voter-roll maintenance. That category accounts for 5 of the 11 accessible items in the harvest, including the campaign site, office social profiles, and Secretary of State releases. In a Jan. 7, 2026 office release, Schwab said, \"We use a mix of laws, regulations, and internal reforms to deliver better service, prote... ",
         "sourceIds": [
           "s-sos-jan2026-agenda",
           "s-campaign-site",
@@ -333,7 +333,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... ",
         "sourceIds": [
           "s-campaign-site"
         ]
@@ -365,7 +365,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public record: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our state.\" (source) KCUR’s January 2025 campaign-launch report quoted Schwab saying, \"I believe that to do something great, we have to throw off the chains that hold... ",
         "sourceIds": [
           "s-campaign-site",
           "src-scott-schwab-0043",
@@ -420,7 +420,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Across the public set reviewed, Schwab’s visible record centers first on election administration and voter-roll maintenance. That category accounts for 5 of the 11 accessible items in the harvest, including the campaign site, office social profiles, and Secretary of State releases. In a Jan. 7, 2026 office release, Schwab said, \"We use a mix of laws, regulations, and internal reforms to deliver better service, prote... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the public set reviewed, Schwab’s visible record centers first on election administration and voter-roll maintenance. That category accounts for 5 of the 11 accessible items in the harvest, including the campaign site, office social profiles, and Secretary of State releases. In a Jan. 7, 2026 office release, Schwab said, \"We use a mix of laws, regulations, and internal reforms to deliver better service, prote... ",
         "sourceIds": [
           "s-sos-jan2026-agenda",
           "s-campaign-site",
@@ -517,7 +517,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -525,8 +525,8 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Scott Schwab is profiled here for Governor candidate as a Republican. His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to fight against federal interference in our sta... The reviewed set contains one personal health update rather than a health-policy item. KCTV/WIBW reported Schwab’s March 21, 2025 social-media post on surgery for cancer, quoting him: \"My doctors have confirmed it was found very early, and no further treatmen... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 17 source-backed items across 6 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to... Taxes / spending / debt: Kansas Reflector: Schwab certain voting secure, eager to cut property taxes. Taxes / spending / debt: Kansas Reflector: Property tax reform campaign. Economy / jobs / labor: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to f... Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object]",
+  "recordSummary": "This profile links 17 public items across 6 of the 14 issue areas. Examples include: Taxes / spending / debt: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to... Taxes / spending / debt: Kansas Reflector: Schwab certain voting secure, eager to cut property taxes. Taxes / spending / debt: Kansas Reflector: Property tax reform campaign. Economy / jobs / labor: His campaign channel presents the governor race through tax costs, rural Kansas, business regulation, public safety, and state authority over elections. The campaign site says, \"As Governor, Scott will continue to f... Public online activity is listed separately as context.",
+  "ownWordsNarrative": "",
   "whereTheyWorship": "Public sources tie Schwab and his family to LifeMission Church in Olathe. The church website is https://www.lifemission.church/, and the congregation became part of the public record after Caleb Schwab's funeral was held there in 2016.",
   "campaignFinance": {
     "totalRaised": "Schwab's 2025 year-end report showed $1,418,671.56 in contributions and other receipts, $365,533.06 in expenditures, $1,053,138.50 cash on hand, and $1,045,000 in Scott Schwab loans. The campaign therefore entered 2026 with substantial cash and a major self-funding component.",
@@ -564,7 +564,7 @@ export const SCOTT_SCHWAB_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Kansas State Wide Office - 2026 Election Cycle"
   },
-  "socialResearchNote": "19 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "19 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-kpdc-statewide-index",

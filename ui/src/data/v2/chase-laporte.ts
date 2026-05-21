@@ -20,7 +20,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Public evidence: OnTheIssues, \"Chase LaPorte on Abortion,\" accessed 2026-05-19: https://www.ontheissues.org/Governor/Chase_LaPorte_Abortion.htm Social/online observations are public signals, not confirmed policy positions.",
+        "text": "OnTheIssues, \"Chase LaPorte on Abortion,\" accessed 2026-05-19: https://www.ontheissues.org/Governor/Chase_LaPorte_Abortion.htm ",
         "sourceIds": [
           "s-oti-abortion"
         ]
@@ -32,7 +32,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -42,7 +42,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Public evidence: For Kansas and district-level content, LaPorte's current public record contains overlapping federal filings. The September 12, 2025 FEC filing listed a 2026 U.S. Senate candidacy in Kansas (source), while the Johnson County Election Office listed him on May 11, 2026 under \"U.S. Representative 3rd District\" with city \"Mission\" and party \"Republican\" (source). The Green Papers recorded January 23, 2025 and October 7,... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "For Kansas and district-level content, LaPorte's current public record contains overlapping federal filings. The September 12, 2025 FEC filing listed a 2026 U.S. Senate candidacy in Kansas (source), while the Johnson County Election Office listed him on May 11, 2026 under \"U.S. Representative 3rd District\" with city \"Mission\" and party \"Republican\" (source). The Green Papers recorded January 23, 2025 and October 7,... ",
         "sourceIds": [
           "s-fec-senate-f2",
           "s-oti-education"
@@ -55,7 +55,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -65,7 +65,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -75,7 +75,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -85,7 +85,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -95,7 +95,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -105,7 +105,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -115,7 +115,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no engagement numbers for the visible liked items. Facebook did not expose a public candidate post feed to logged-out browsing, even though The Green Papers linked... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no engagement numbers for the visible liked items. Facebook did not expose a public candidate post feed to logged-out browsing, even though The Green Papers linked... ",
         "sourceIds": [
           "src-chase-laporte-0050",
           "s-joco-laporte",
@@ -196,7 +196,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -206,7 +206,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -216,7 +216,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no engagement numbers for the visible liked items. Facebook did not expose a public candidate post feed to logged-out browsing, even though The Green Papers linked... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no engagement numbers for the visible liked items. Facebook did not expose a public candidate post feed to logged-out browsing, even though The Green Papers linked... ",
         "sourceIds": [
           "src-chase-laporte-0050",
           "s-joco-laporte",
@@ -297,7 +297,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Public evidence: Ballotpedia, blocked by JavaScript/robot verification during public-source review, attempted 2026-05-19: https://ballotpedia.org/Chase_LaPorte",
+        "text": "Ballotpedia, blocked by JavaScript/robot verification during public-source review, attempted 2026-05-19: https://ballotpedia.org/Chase_LaPorte",
         "sourceIds": [
           "src-chase-laporte-0112"
         ]
@@ -307,7 +307,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Chase LaPorte is profiled here for U.S. Senate filing-conflict profile; local and FEC House records also point to KS-03 and require final SOS recheck as a Republican. Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187 followers and 186 connections in public preview, but no e... Kansas Secretary of State, \"Candidate Information,\" accessed 2026-05-19: https://www.sos.ks.gov/elections/candidate-information.html. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 8 source-backed items across 2 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187... Election integrity / voting / courts: Johnson County Election Office, \"Chase LaPorte,\" accessed 2026-05-19: https://www.jocoelection.org/candidates-elected-officials/chase-laporte. Election integrity / voting / courts: Johnson County Election Office, \"Candidates,\" accessed 2026-05-19: https://www.jocoelection.org/candidates-elected-officials/candidates. Election integrity / voting / courts: Kansas Reflector, \"Kansas Democrat makes reelection campaign for U.S. House seat official,\" published 2026-05-11, accessed 2026-05-19: https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reele... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 8 public items across 2 of the 14 issue areas. Examples include: Election integrity / voting / courts: Audience response cannot be measured from the accessible record. The harvest found no public original social posts with visible likes, replies, reposts, comments, shares, or views; LinkedIn exposed 187... Election integrity / voting / courts: Johnson County Election Office, \"Chase LaPorte,\" accessed 2026-05-19: https://www.jocoelection.org/candidates-elected-officials/chase-laporte. Election integrity / voting / courts: Johnson County Election Office, \"Candidates,\" accessed 2026-05-19: https://www.jocoelection.org/candidates-elected-officials/candidates. Election integrity / voting / courts: Kansas Reflector, \"Kansas Democrat makes reelection campaign for U.S. House seat official,\" published 2026-05-11, accessed 2026-05-19: https://kansasreflector.com/2026/05/11/kansas-democrat-makes-reele... Public online activity is listed separately as context.",
   "whereTheyWorship": "\"OnTheIssues archived a 2022 campaign-site statement saying LaPorte\\nbelieved in \\\"the Biblical standard for marriage, the traditional\\nfamily unit, as well as the Biblical model for parenting.\\\" In a\\nseparate 2022 principles statement, the archive recorded... This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "No processed 2025-2026 FEC financial summary was available for LaPorte under the reviewed 2026 House IDs H6KS03258 and H6KS03274 or Senate ID S6KS00254. FEC search/API output returned has_raised_funds=false for the 2026 federal IDs before rate limiting. A Kansas party-committee PDF surfaced in search snippets with Chase LaPorte's name, but it appears to be a party committee receipt report rather than LaPorte campaign receipts; those names are not treated as LaPorte donor evidence.",
@@ -316,7 +316,7 @@ export const CHASE_LAPORTE_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "LAPORTE, CHASE - Candidate overview H6KS03258"
   },
-  "socialResearchNote": "6 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "6 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-joco-laporte",

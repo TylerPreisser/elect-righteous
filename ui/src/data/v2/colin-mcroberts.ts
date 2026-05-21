@@ -22,7 +22,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -54,7 +54,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -64,7 +64,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... ",
         "sourceIds": [
           "s-campaign-home",
           "s-ku-profile"
@@ -105,7 +105,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -115,7 +115,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -125,7 +125,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... ",
         "sourceIds": [
           "s-campaign-home",
           "s-ku-profile"
@@ -184,7 +184,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -194,7 +194,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -246,7 +246,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -278,7 +278,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -310,7 +310,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Personal/Consulting Website: colin-mcroberts.com Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Personal/Consulting Website: colin-mcroberts.com ",
         "sourceIds": [
           "src-colin-mcroberts-0050",
           "s-ku-profile",
@@ -378,7 +378,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -420,7 +420,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appears mainly through immigration enforcement, scientific research, and agency-accountability posts rather than a sustained district-healthcare thread. The campaign... ",
         "sourceIds": [
           "s-campaign-home",
           "s-kwch-launch"
@@ -463,7 +463,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -482,8 +482,8 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Colin McRoberts is profiled here for U.S. House candidate, KS-01 as a Democratic. Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid expansion (harvest). Healthcare appea... https://www.kwch.com/2025/09/17/colin-mcroberts-files-1st-congressional-district-seat/. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 16 source-backed items across 9 of the 14 issue areas. Representative public-record entries include: Abortion / life: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid... Education / curriculum / schools: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closu... Education / curriculum / schools: KU School of Business Faculty Page. Economy / jobs / labor: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Me... Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object]",
+  "recordSummary": "This profile links 16 public items across 9 of the 14 issue areas. Examples include: Abortion / life: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Medicaid... Education / curriculum / schools: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closu... Education / curriculum / schools: KU School of Business Faculty Page. Economy / jobs / labor: Across the captured period the feed contains no original Bluesky posts about abortion policy, marriage policy, religious-liberty policy, water rights, the Ogallala Aquifer, Fort Riley, rural hospital closures, or Me... Public online activity is listed separately as context.",
+  "ownWordsNarrative": "",
   "whereTheyWorship": "Colin McRoberts: No church identified. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "sourceIds: s-fec-candidate; coverageStart: 2025-07-01; coverageEnd: 2026-03-31; totalReceipts: 40747.79; totalContributions: 40428.5; totalIndividualContributions: 40079.9; itemizedIndividualContributions: 30989; unitemizedIndividualContributions: 9090.9; partyCommitteeContributions: 0; otherCommitteeContributions: 0; candidateContributions: 348.6; transfersFromOtherAuthorizedCommittees: 0; totalLoansReceived: 0; candidateLoans: 0; offsetsToOperatingExpenditures: 319.29; totalDisbursements: 32967.12; operatingExpenditures: 32967.12; endingCashOnHand: 7780.67; debtsOwedToCommittee: 0; debtsOwedByCommittee: 1248.75",
@@ -492,7 +492,7 @@ export const COLIN_MCROBERTS_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Reviewed public records"
   },
-  "socialResearchNote": "15 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "15 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-fec-candidate",

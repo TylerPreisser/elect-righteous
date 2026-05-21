@@ -19,7 +19,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate statement: In the 2025 USD 489 Q&A, Ancar said school-board members should manage resources wisely, focus on student outcomes, and help students graduate competitively.",
+        "text": "In the 2025 USD 489 Q&A, Ancar said school-board members should manage resources wisely, focus on student outcomes, and help students graduate competitively.",
         "sourceIds": [
           "s-hayspost-usd-2025"
         ]
@@ -68,7 +68,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -78,7 +78,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate statement: In her 2023 Hays city questionnaire, Ancar said the city should reduce its mill levy and stay revenue neutral to give taxpayers relief.",
+        "text": "In her 2023 Hays city questionnaire, Ancar said the city should reduce its mill levy and stay revenue neutral to give taxpayers relief.",
         "sourceIds": [
           "s-hayspost-city-2023"
         ]
@@ -99,7 +99,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate statement: Ancar identified housing supply and business recruitment as connected economic-development priorities for Hays.",
+        "text": "Ancar identified housing supply and business recruitment as connected economic-development priorities for Hays.",
         "sourceIds": [
           "s-hayspost-city-2023"
         ]
@@ -120,7 +120,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -130,7 +130,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -140,7 +140,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Public evidence: Ancar's public biographies identify her as a registered nurse and home-care business owner.",
+        "text": "Ancar's public biographies identify her as a registered nurse and home-care business owner.",
         "sourceIds": [
           "s-hayspost-city-2023",
           "s-amazing-grace-about"
@@ -153,7 +153,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: The state roster audit found Ancar in the official Kansas SOS 2026 Primary list for State Board of Education District 5.",
+        "text": "The state roster audit found Ancar in the official Kansas SOS 2026 Primary list for State Board of Education District 5.",
         "sourceIds": [
           "s-sos-2026-primary"
         ]
@@ -174,7 +174,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -184,7 +184,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -194,7 +194,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: Ancar called for more transparency in bond-project planning, including readable plans and better opportunities for board members and the community to review proposed work.",
+        "text": "Ancar called for more transparency in bond-project planning, including readable plans and better opportunities for board members and the community to review proposed work.",
         "sourceIds": [
           "s-hayspost-usd-2025"
         ]
@@ -215,7 +215,7 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -224,15 +224,15 @@ export const KELLY_ANCAR_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Kelly Ancar was added after the state roster audit found her on the Kansas SOS 2026 Primary list for State Board of Education District 5. Hays Post profiles from her Hays city commission and USD 489 school board campaigns identify her as a Hays small-business owner and registered nurse who owns Amazing Grace Home Care and the Horseshoe Bar and Grill. Her prior local questionnaires are relevant because they give direct statements on school governance, spending, transparency, property taxes, and business conditions.",
   "recordSummary": "The current record confirms a 2026 SBOE District 5 filing plus prior local candidate statements from Hays city commission and USD 489 school board races. No statewide SBOE voting record exists because Ancar is not an incumbent board member.",
-  "whereTheyWorship": "No direct public evidence of a current worship community was found in this missing-roster pass. No faith-based policy inference is made.",
+  "whereTheyWorship": "No direct public evidence of a current worship community was found . No faith-based policy inference is made.",
   "campaignFinance": {
-    "totalRaised": "Not itemized in the reviewed public records for this missing-roster pass",
-    "narrative": "No itemized campaign-finance filing was found in this missing-roster pass.",
+    "totalRaised": "Not itemized in the reviewed public records for this roster review",
+    "narrative": "No itemized campaign-finance filing was found .",
     "donors": [],
     "reportingPeriod": "Most recent public record reviewed on 2026-05-20",
     "source": "Kansas SOS Candidate List - 2026 Primary"
   },
-  "socialResearchNote": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for Kelly Ancar in this missing-roster pass. Public social evidence remains a signal layer only; none is used as a confirmed policy position.",
+  "socialResearchNote": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for Kelly Ancar . Public social evidence remains a signal layer only; none is used as a confirmed policy position.",
   "sources": [
     {
       "id": "s-sos-2026-primary",

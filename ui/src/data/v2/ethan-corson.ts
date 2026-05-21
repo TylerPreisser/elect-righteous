@@ -20,7 +20,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public record: Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and special education funding (harvest). In a 2019 campaign quote that remains part of his public record, Corson said, \"Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission p... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and special education funding (harvest). In a 2019 campaign quote that remains part of his public record, Corson said, \"Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission p... ",
         "sourceIds": [
           "src-ethan-corson-0043",
           "s-ks-reflector-debate",
@@ -112,7 +112,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -122,7 +122,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Public evidence: Across the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" (harvest). The same si... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured public record, Corson's campaign message is built around kitchen-table governance: schools, taxes, affordability, business growth, and the next generation staying in Kansas. His campaign site says, \"It's about kitchen table issues. Better Schools. Lower Taxes.\" and frames the race around \"Opportunities for the next generation of Kansans, so they can build a life right here\" (harvest). The same si... ",
         "sourceIds": [
           "src-ethan-corson-0042",
           "src-ethan-corson-0061"
@@ -166,7 +166,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: lowering cost of living - Senate campaign / legislative profile, 2026-04-01, https://ethanforkansas.com/ - topic: governing priorities. Social/online observations are public signals, not confirmed policy positions.",
+        "text": "lowering cost of living - Senate campaign / legislative profile, 2026-04-01, https://ethanforkansas.com/ - topic: governing priorities. ",
         "sourceIds": [
           "s-campaign-home",
           "src-ethan-corson-0042"
@@ -199,7 +199,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -209,7 +209,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -219,7 +219,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and special education funding (harvest). In a 2019 campaign quote that remains part of his public record, Corson said, \"Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission p... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and special education funding (harvest). In a 2019 campaign quote that remains part of his public record, Corson said, \"Every opportunity I've had in my life is due to the education I received from attending Shawnee Mission p... ",
         "sourceIds": [
           "src-ethan-corson-0043",
           "s-ks-reflector-debate"
@@ -314,7 +314,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Corson presents himself as a bipartisan, moderate, results-focused Democrat rather than an ideological fighter. In his launch statement, he said, \"I'm not interested in the partisan battles you see on cable news. Kansans want leaders who work together, regardless of political party, to get things done\" (source). On the Kansas Reflector podcast, he said Kansas does not need a governor who will move the state \"to the... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Corson presents himself as a bipartisan, moderate, results-focused Democrat rather than an ideological fighter. In his launch statement, he said, \"I'm not interested in the partisan battles you see on cable news. Kansans want leaders who work together, regardless of political party, to get things done\" (source). On the Kansas Reflector podcast, he said Kansas does not need a governor who will move the state \"to the... ",
         "sourceIds": [
           "src-ethan-corson-0067",
           "src-ethan-corson-0043",
@@ -374,7 +374,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -384,7 +384,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public record: On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, \"Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor\" (source). The campaign site also surfaced mental-health language, including snippets about school mental-health services... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, \"Kansans should be able to get the care that they need without going broke and without driving for hours to see a doctor\" (source). The campaign site also surfaced mental-health language, including snippets about school mental-health services... ",
         "sourceIds": [
           "s-ks-reflector-debate",
           "src-ethan-corson-0116"
@@ -461,7 +461,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Corson presents himself as a bipartisan, moderate, results-focused Democrat rather than an ideological fighter. In his launch statement, he said, \"I'm not interested in the partisan battles you see on cable news. Kansans want leaders who work together, regardless of political party, to get things done\" (source). On the Kansas Reflector podcast, he said Kansas does not need a governor who will move the state \"to the... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Corson presents himself as a bipartisan, moderate, results-focused Democrat rather than an ideological fighter. In his launch statement, he said, \"I'm not interested in the partisan battles you see on cable news. Kansans want leaders who work together, regardless of political party, to get things done\" (source). On the Kansas Reflector podcast, he said Kansas does not need a governor who will move the state \"to the... ",
         "sourceIds": [
           "src-ethan-corson-0067",
           "src-ethan-corson-0043",
@@ -542,7 +542,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -550,7 +550,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Ethan Corson is profiled here for Kansas Governor as a Democratic. Corson presents himself as a bipartisan, moderate, results-focused Democrat rather than an ideological fighter. In his launch statement, he said, \"I'm not interested in the partisan battles you see on cable news. Kansans want leaders who work together, regard... Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and special education funding (harvest). In a 2019 campaign quote... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 18 source-backed items across 6 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and special... Education / curriculum / schools: On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, \"Kansans should be able to ge... Economy / jobs / labor: lowering cost of living - Senate campaign / legislative profile, 2026-04-01, https://ethanforkansas.com/ - topic: governing priorities. Health care / insurance / Medicaid: Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and speci... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 18 public items across 6 of the 14 issue areas. Examples include: Education / curriculum / schools: Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and special... Education / curriculum / schools: On health care, the visible 2026 gubernatorial material emphasizes access and rural distance rather than a detailed program. At a March 8, 2026 Democratic debate, Corson said, \"Kansans should be able to ge... Economy / jobs / labor: lowering cost of living - Senate campaign / legislative profile, 2026-04-01, https://ethanforkansas.com/ - topic: governing priorities. Health care / insurance / Medicaid: Public schools are both a policy message and a personal biography signal. His campaign site leads with \"Better Schools,\" and indexed campaign snippets refer to mental health services in schools and speci... Public online activity is listed separately as context.",
   "whereTheyWorship": "Public sources identify Corson as Jewish, but they do not identify a current synagogue affiliation.",
   "campaignFinance": {
     "totalRaised": "$902,641.13",
@@ -560,7 +560,7 @@ export const ETHAN_CORSON_V2: CandidateFullV2 = {
     "reportingPeriod": "2025 year-end, covering 2025-01-01 through 2025-12-31",
     "source": "Kansas State Wide Office - 2026 Election Cycle"
   },
-  "socialResearchNote": "21 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "21 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-kpdc-statewide-2026",

@@ -20,7 +20,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented public record: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -90,7 +90,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Public evidence: Campaign site: https://mikeforkansas.my.canva.site/ is active and links ActBlue, FEC, Kansas SOS candidate page, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, Threads, and merchandise pages. Its page metadata presents Soetaert as a \"PROGRESSIVE DEMOCRAT\" for U.S. Senate and references reproductive rights and LGBTQ+ advocacy. Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Campaign site: https://mikeforkansas.my.canva.site/ is active and links ActBlue, FEC, Kansas SOS candidate page, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, Threads, and merchandise pages. Its page metadata presents Soetaert as a \"PROGRESSIVE DEMOCRAT\" for U.S. Senate and references reproductive rights and LGBTQ+ advocacy. ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -113,7 +113,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -123,7 +123,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -133,7 +133,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure) ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -162,7 +162,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -172,7 +172,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -182,7 +182,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -203,7 +203,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Public evidence: The public alignment signal is more self-contained campaign infrastructure than cross-candidate amplification. The campaign site links voters to ActBlue, FEC, Kansas Secretary of State, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, and Threads, while the ActBlue page says, \"Michael Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate for United States Senate representing Kansas who is declared and fil... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The public alignment signal is more self-contained campaign infrastructure than cross-candidate amplification. The campaign site links voters to ActBlue, FEC, Kansas Secretary of State, vote.gov, Facebook, Instagram, X, YouTube, Bluesky, TikTok, and Threads, while the ActBlue page says, \"Michael Soetaert is the ONLY PROGRESSIVE DEMOCRATIC candidate for United States Senate representing Kansas who is declared and fil... ",
         "sourceIds": [
           "s-actblue"
         ]
@@ -236,7 +236,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the... ",
         "sourceIds": [
           "s-campaign-home",
           "s-actblue"
@@ -299,7 +299,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Michael Soetaert - Ballotpedia Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Michael Soetaert - Ballotpedia ",
         "sourceIds": [
           "src-michael-soetaert-0060",
           "s-kcur-guide",
@@ -346,7 +346,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -387,7 +387,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site describes him as \"Michael Soetaert PROGRESSIVE DEMOCRAT for U.S. Senate respecting reproductive rights. He's also a GAY LGBTQIAP2S+ activist advocate & ally for the... ",
         "sourceIds": [
           "s-campaign-home",
           "s-actblue"
@@ -450,7 +450,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -458,8 +458,8 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Michael Soetaert is profiled here for U.S. Senate as a Democratic. Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign finance, and peace. His campaign site descr... | s-douglas-candidate-export | primary | https://candidatefiling.us/Info/CFPdf?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS | printed/accessed 2026-05-19 | County election-office export lists Michael \"Mike\" Soetaert (D), Wellington, U.S. Senator,... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 10 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Abortion / life: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign financ... Abortion / life: Kansans voted for bodily autonomy - campaign site, n.d., https://mikeforkansas.my.canva.site/ (abortion reversal). Taxes / spending / debt: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure). Taxes / spending / debt: Website: mikeforkansas.my.canva.site (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation). Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object]",
+  "recordSummary": "This profile links 10 public items across 5 of the 14 issue areas. Examples include: Abortion / life: Michael Soetaert's current public campaign record presents a small-dollar, platform-heavy Senate campaign whose clearest repeated themes are reproductive rights, LGBTQIAP2S+ equality, voting, affordability, campaign financ... Abortion / life: Kansans voted for bodily autonomy - campaign site, n.d., https://mikeforkansas.my.canva.site/ (abortion reversal). Taxes / spending / debt: Campaign Website: mikeforkansas.my.canva.site (hosted on Canva -- indicates minimal campaign budget/infrastructure). Taxes / spending / debt: Website: mikeforkansas.my.canva.site (notably hosted on Canva -- a free website builder, suggesting a very low-budget operation). Public online activity is listed separately as context.",
+  "ownWordsNarrative": "",
   "whereTheyWorship": "Public sources do not identify a current church affiliation for Soetaert. The available record describes him as Christian and references a Roman Catholic adoptive-family background, but no congregation or denomination is named in his current public materials.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
@@ -468,7 +468,7 @@ export const MICHAEL_SOETAERT_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "SOETAERT, MICHAEL - Candidate overview"
   },
-  "socialResearchNote": "19 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "19 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-douglas-candidate-export",

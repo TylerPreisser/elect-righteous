@@ -22,7 +22,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -32,7 +32,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -53,7 +53,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -84,7 +84,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -94,7 +94,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -115,7 +115,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -136,7 +136,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -146,7 +146,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public record: DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production Social/online observations are public signals, not confirmed policy positions.",
+        "text": "DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production ",
         "sourceIds": [
           "s-doj-lacy"
         ]
@@ -178,7 +178,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -199,7 +199,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: KMUW / Kansas Reflector profile: https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness Social/online observations are public signals, not confirmed policy positions.",
+        "text": "KMUW / Kansas Reflector profile: https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness ",
         "sourceIds": [
           "s-kmuw-profile",
           "s-douglas-filing-table",
@@ -259,7 +259,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production Social/online observations are public signals, not confirmed policy positions.",
+        "text": "DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production ",
         "sourceIds": [
           "s-doj-lacy"
         ]
@@ -291,7 +291,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -322,7 +322,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: KMUW / Kansas Reflector profile: https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness Social/online observations are public signals, not confirmed policy positions.",
+        "text": "KMUW / Kansas Reflector profile: https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness ",
         "sourceIds": [
           "s-kmuw-profile",
           "s-douglas-filing-table",
@@ -392,7 +392,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -411,7 +411,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Jason Hart is profiled here for U.S. Senate, Kansas as a Democratic. KMUW / Kansas Reflector profile: https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness. KCUR/Kansas News Service candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 8 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Immigration / border: DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production. Election integrity / voting / courts: KMUW / Kansas Reflector profile: https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness. Election integrity / voting / courts: Douglas County candidate filing table: https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS. Election integrity / voting / courts: DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production. Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 8 public items across 4 of the 14 issue areas. Examples include: Immigration / border: DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production. Election integrity / voting / courts: KMUW / Kansas Reflector profile: https://www.kmuw.org/government/2026-03-25/democratic-candidate-in-u-s-senate-race-opens-arms-to-kansas-republicans-lost-in-the-wilderness. Election integrity / voting / courts: Douglas County candidate filing table: https://candidatefiling.us/Info/Default?c=181035409877&e=545606222&j=2795522868&s=802933811&st=KS. Election integrity / voting / courts: DOJ District of Kansas case example: https://www.justice.gov/usao-ks/pr/kansas-man-sentenced-30-years-prison-child-porn-production. Public online activity is listed separately as context.",
   "whereTheyWorship": "Public sources identify Hart as Christian, but they do not identify a current church affiliation.",
   "campaignFinance": {
     "totalRaised": "$10,741.42",
@@ -421,7 +421,7 @@ export const JASON_HART_V2: CandidateFullV2 = {
     "reportingPeriod": "2026-01-01 to 2026-03-31",
     "source": "HART, JASON - Candidate overview"
   },
-  "socialResearchNote": "16 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "16 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-fec-candidate",

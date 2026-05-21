@@ -23,7 +23,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -33,7 +33,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -54,7 +54,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... ",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -86,7 +86,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -96,7 +96,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -106,7 +106,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... ",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -148,7 +148,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -158,7 +158,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... ",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -190,7 +190,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... ",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -222,7 +222,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... ",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -264,7 +264,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Salina Post - \"Reinhold, 1st Congressional District candidate to speak in Salina\" Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Salina Post - \"Reinhold, 1st Congressional District candidate to speak in Salina\" ",
         "sourceIds": [
           "src-lauren-reinhold-0055"
         ]
@@ -285,7 +285,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... ",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -327,7 +327,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said, \"There's been a complicated series of cuts, mainly to Medicaid, that will affect rural hospitals,\" (source). The same post quoted her saying, \"For rural farmers, I plan to fight for a modernized, stable... ",
         "sourceIds": [
           "s-campaign-oberlin"
         ]
@@ -379,7 +379,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -387,7 +387,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Lauren Reinhold is profiled here for U.S. House candidate, KS-01 as a Democratic. | s-campaign-home | primary | https://www.laurenforkansas.com/ | accessed 2026-05-19 | Campaign homepage, social links, district travel, issue index, paid-for footer | biography, campaign themes |. | s-campaign-priorities | primary | https://www.laurenforkansas.com/priorities | accessed 2026-05-19 | Priorities: rural healthcare, agriculture, worker rights, government integrity, immigration, Social Security | issue platform |. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 8 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview... Economy / jobs / labor: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said... Immigration / border: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said,... Health care / insurance / Medicaid: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald intervi... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 8 public items across 8 of the 14 issue areas. Examples include: Education / curriculum / schools: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview... Economy / jobs / labor: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said... Immigration / border: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald interview, she said,... Health care / insurance / Medicaid: For KS-01 district issues, Reinhold's public material is more developed on the campaign website and campaign-news page than on Bluesky. In a January 23 campaign post reproducing an Oberlin Herald intervi... Public online activity is listed separately as context.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Some records describe Reinhold as Christian, but no congregation or church website was documented in the accessible material.",
   "campaignFinance": {
     "totalRaised": "Not itemized in reviewed public records",
@@ -397,7 +397,7 @@ export const LAUREN_REINHOLD_V2: CandidateFullV2 = {
     "reportingPeriod": "Reviewed public filings as of 2026-05-20",
     "source": "Docquery.Fec (https://docquery.fec.gov/pdf/673/202601059793904673/202601059793904673.pdf)"
   },
-  "socialResearchNote": "13 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "13 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-fec-candidate",

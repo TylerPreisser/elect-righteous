@@ -20,7 +20,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -50,7 +50,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -60,7 +60,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -70,7 +70,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate statement: Newland described wanting common-sense solutions that lower costs, streamline operations, and get government out of the way.",
+        "text": "Newland described wanting common-sense solutions that lower costs, streamline operations, and get government out of the way.",
         "sourceIds": [
           "s-kansas-reflector-newland",
           "s-kwch-newland"
@@ -93,7 +93,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -103,7 +103,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -113,7 +113,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: KWCH reported Newland backed health benefit plans aimed at rural families.",
+        "text": "KWCH reported Newland backed health benefit plans aimed at rural families.",
         "sourceIds": [
           "s-kwch-newland"
         ]
@@ -134,7 +134,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts.",
+        "text": "No sourced position or public action found for Election integrity / voting / courts.",
         "sourceIds": []
       },
       "actions": [],
@@ -144,7 +144,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -154,7 +154,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate statement: Schmidt's announcement said Newland had worked to protect land, water, and rural Kansas interests.",
+        "text": "Schmidt's announcement said Newland had worked to protect land, water, and rural Kansas interests.",
         "sourceIds": [
           "s-kansas-reflector-newland",
           "s-kwch-newland",
@@ -178,7 +178,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Kansas Reflector reported Newland served in the Kansas House from 2019 to 2022 and would serve as lieutenant governor and secretary of agriculture if elected.",
+        "text": "Kansas Reflector reported Newland served in the Kansas House from 2019 to 2022 and would serve as lieutenant governor and secretary of agriculture if elected.",
         "sourceIds": [
           "s-kansas-reflector-newland"
         ]
@@ -199,7 +199,7 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: KWCH reported Newland led efforts to preserve the quality and quantity of Kansas water.",
+        "text": "KWCH reported Newland led efforts to preserve the quality and quantity of Kansas water.",
         "sourceIds": [
           "s-kwch-newland"
         ]
@@ -219,15 +219,15 @@ export const JOE_NEWLAND_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Joe Newland was added because Vicki Schmidt's campaign and multiple news outlets identified him as her lieutenant governor running mate. Reports identify Newland as Kansas Farm Bureau president, a former Kansas House member from southeast Kansas, and a farmer/rancher from Wilson County operating a diversified farm with wheat, corn, soybeans, hay, and a cow-calf herd.",
   "recordSummary": "The current record documents Newland's running-mate announcement, former state legislative service, Farm Bureau presidency, agriculture/water policy work, and proposed dual role as lieutenant governor and secretary of agriculture if elected.",
-  "whereTheyWorship": "No direct public evidence of a current worship community was found in this missing-roster pass. No faith-based policy inference is made.",
+  "whereTheyWorship": "No direct public evidence of a current worship community was found . No faith-based policy inference is made.",
   "campaignFinance": {
-    "totalRaised": "Not itemized in the reviewed public records for this missing-roster pass",
-    "narrative": "No itemized campaign-finance filing was found in this missing-roster pass.",
+    "totalRaised": "Not itemized in the reviewed public records for this roster review",
+    "narrative": "No itemized campaign-finance filing was found .",
     "donors": [],
     "reportingPeriod": "Most recent public record reviewed on 2026-05-20",
     "source": "Vicki Schmidt for Governor homepage"
   },
-  "socialResearchNote": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for Joe Newland in this missing-roster pass. Public social evidence remains a signal layer only; none is used as a confirmed policy position.",
+  "socialResearchNote": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for Joe Newland . Public social evidence remains a signal layer only; none is used as a confirmed policy position.",
   "sources": [
     {
       "id": "s-vicki-home",

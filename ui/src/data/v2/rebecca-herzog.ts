@@ -19,7 +19,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -49,7 +49,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -59,7 +59,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate statement: Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certified general real property appraisers (Ellis County Register of Deeds). The 2025 Ellis County departmental budget book adds that the office records and preserv... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certified general real property appraisers (Ellis County Register of Deeds). The 2025 Ellis County departmental budget book adds that the office records and preserv... ",
         "sourceIds": [
           "s-ellis-register-page",
           "s-ellis-2025-budget-book"
@@ -81,7 +81,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -91,7 +91,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -101,7 +101,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -111,7 +111,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -121,7 +121,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents that pertain to real estate. It also identifies the core statutory work: recording qualified public documents and maintaining accurate indexes showing correct ownership of land across Ellis County (Ellis... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents that pertain to real estate. It also identifies the core statutory work: recording qualified public documents and maintaining accurate indexes showing correct ownership of land across Ellis County (Ellis... ",
         "sourceIds": [
           "s-ellis-register-page",
           "s-tiger-2020-voter-guide",
@@ -197,7 +197,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Ellis County Register of Deeds Official Page Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Ellis County Register of Deeds Official Page ",
         "sourceIds": [
           "s-ellis-register-page",
           "src-rebecca-herzog-0062"
@@ -243,7 +243,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -253,7 +253,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certified general real property appraisers (Ellis County Register of Deeds). The 2025 Ellis County departmental budget book adds that the office records and preserv... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which is limited to tax protesters and Kansas-certified general real property appraisers (Ellis County Register of Deeds). The 2025 Ellis County departmental budget book adds that the office records and preserv... ",
         "sourceIds": [
           "s-ellis-register-page",
           "s-tiger-2020-voter-guide"
@@ -326,7 +326,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -334,7 +334,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Rebecca Herzog is profiled here for Ellis County Register of Deeds as a Republican incumbent/current official. The central message comes from the Ellis County Register of Deeds page, which lists Herzog as registrar and frames the office around public service, professionalism, recording real-estate documents, maintaining accurate land-ownership indexes, and keeping reg... The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recording documents that pertain to real estate. It also identi... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 17 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which... Election integrity / voting / courts: The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recor... Election integrity / voting / courts: The verified election record shows a long-running incumbent, not a new 2024 officeholder. The Tiger Media Network 2020 voter guide identified Herzog as the incumbent Republican candidate for Ellis Coun... Election integrity / voting / courts: Ellis County Register of Deeds Official Page. Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 17 public items across 4 of the 14 issue areas. Examples include: Taxes / spending / debt: Public-access language is the other major signal. The county page says register of deeds records are required by law to be open to the public, except for the Kansas Real Estate Sales Validation Questionnaire, which... Election integrity / voting / courts: The office's own wording is administrative and service-oriented rather than ideological. It says the goal is quality public service in a professional manner and describes the office as filing and recor... Election integrity / voting / courts: The verified election record shows a long-running incumbent, not a new 2024 officeholder. The Tiger Media Network 2020 voter guide identified Herzog as the incumbent Republican candidate for Ellis Coun... Election integrity / voting / courts: Ellis County Register of Deeds Official Page. Public online activity is listed separately as context.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation, denomination, or parish website for Herzog.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
@@ -343,7 +343,7 @@ export const REBECCA_HERZOG_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "2 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "2 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-ellis-register-page",

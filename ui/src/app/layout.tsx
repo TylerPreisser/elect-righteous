@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from "next";
 import "./globals.css";
 import SiteHeader from "@/components/layout/site-header";
 import SiteFooter from "@/components/layout/site-footer";
+import BuiltByBadge from "@/components/ui/built-by-badge";
 import { ELECTIONS } from "@/data/elections";
 import { V2_CANDIDATES } from "@/data/v2";
 import { SITE_URL, withSiteBasePath } from "@/lib/site-env";
@@ -102,6 +103,7 @@ export default function RootLayout({
         <SiteHeader />
         <div className="flex-1">{children}</div>
         <SiteFooter />
+        <BuiltByBadge />
       </body>
     </html>
   );

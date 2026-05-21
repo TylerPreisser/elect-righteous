@@ -23,7 +23,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -33,7 +33,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -43,7 +43,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -53,7 +53,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -63,7 +63,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: Board member Ruth Ruder expressed concern that someone might purchase the land for a tax deduction, only to leave it vacant. - Hays Post board coverage, 2025; https://hayspost.com/posts/fc95a5ee-b8b3-4d06-b876-7cba2008d1cb Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Board member Ruth Ruder expressed concern that someone might purchase the land for a tax deduction, only to leave it vacant. - Hays Post board coverage, 2025; https://hayspost.com/posts/fc95a5ee-b8b3-4d06-b876-7cba2008d1cb ",
         "sourceIds": [
           "s-hayspost-felten-tax-deduction-dec2025"
         ]
@@ -84,7 +84,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -94,7 +94,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -104,7 +104,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -114,7 +114,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -124,7 +124,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Plus October 24, 2023 candidate Q&A statements (Hays Post, https://hayspost.com/posts/4f225559-3a1c-4499-af0d-d0c7affa85a1): Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Plus October 24, 2023 candidate Q&A statements (Hays Post, https://hayspost.com/posts/4f225559-3a1c-4499-af0d-d0c7affa85a1): ",
         "sourceIds": [
           "s-hayspost-ruder-qa-oct2023"
         ]
@@ -145,7 +145,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -155,7 +155,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -165,7 +165,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics.",
+        "text": "No sourced position or public action found for Local governance / transparency / ethics.",
         "sourceIds": []
       },
       "actions": [],
@@ -216,7 +216,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -224,7 +224,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Ruth Ruder is profiled here for USD 489 Board of Education member as a nonpartisan incumbent/current official. SECONDARY (anchors date + final vote tally + Park's process motions): Hays Post, \"Hays USD 489 district administrators' contracts extended another year,\" https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf. SECONDARY (anchors flooring/asbestos 4-2 + Ruder verbatim on flooring): Hays Post, \"Hays USD 489 votes to replace tile at former middle school, abate asbestos,\" https://hayspost.com/posts/965dbfb4-fc96-4377-b6f3-7f5050176e21. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 2 source-backed items across 2 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: Board member Ruth Ruder expressed concern that someone might purchase the land for a tax deduction, only to leave it vacant. - Hays Post board coverage, 2025; https://hayspost.com/posts/fc95a5ee-b8b3-4d06-b876-7cba... Election integrity / voting / courts: Plus October 24, 2023 candidate Q&A statements (Hays Post, https://hayspost.com/posts/4f225559-3a1c-4499-af0d-d0c7affa85a1):. Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 2 public items across 2 of the 14 issue areas. Examples include: Taxes / spending / debt: Board member Ruth Ruder expressed concern that someone might purchase the land for a tax deduction, only to leave it vacant. - Hays Post board coverage, 2025; https://hayspost.com/posts/fc95a5ee-b8b3-4d06-b876-7cba... Election integrity / voting / courts: Plus October 24, 2023 candidate Q&A statements (Hays Post, https://hayspost.com/posts/4f225559-3a1c-4499-af0d-d0c7affa85a1):. Public online activity is listed separately as context.",
   "whereTheyWorship": "The reviewed public record did not identify a reliable public source that identifies Ruth Ruder's church home or denomination. Because the public record is thin here, No church affiliation is assigned without evidence. Public sources do not identify Ruth Ruder's church home or denomination. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "$200,000",
@@ -234,7 +234,7 @@ export const RUTH_RUDER_V2: CandidateFullV2 = {
     "reportingPeriod": "Reviewed public filings as of 2026-05-20",
     "source": "Ellisco (https://www.ellisco.net/626/Candidate-Filings)"
   },
-  "socialResearchNote": "4 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "4 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-usd489-board-page",

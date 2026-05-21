@@ -93,8 +93,8 @@ export default function CandidatesPage() {
                 style={{ color: "rgba(246,246,246,0.80)" }}
               >
                 {V2_CANDIDATES.length} officials and candidates researched —
-                backgrounds, public records, faith/community ties where public, campaign finance, and
-                source-backed reporting in plain English.
+                backgrounds, public actions, faith/community ties where public, campaign finance, and
+                sourced reporting in plain English.
               </p>
               </div>
 

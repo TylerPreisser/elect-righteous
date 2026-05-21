@@ -6,6 +6,7 @@
  */
 
 import type { ActionEvidence, Source } from "@/data/types-v2";
+import { cleanEvidenceCopy } from "@/lib/public-copy";
 import { ExternalLink } from "lucide-react";
 
 interface ActionListProps {
@@ -52,14 +53,6 @@ function SourceChip({ source }: { source: Source }) {
   );
 }
 
-function cleanEvidenceText(text: string) {
-  return text
-    .replace(/https?:\/\/\S+/g, "")
-    .replace(/\s{2,}/g, " ")
-    .replace(/\s+([,.;:])/g, "$1")
-    .trim();
-}
-
 export default function ActionList({ actions, sources }: ActionListProps) {
   const sourceById = new Map<string, Source>(sources.map((s) => [s.id, s]));
 
@@ -69,7 +62,7 @@ export default function ActionList({ actions, sources }: ActionListProps) {
         className="font-body text-sm italic"
         style={{ color: "var(--color-slate)" }}
       >
-        No source-backed public action was identified for this issue.
+        No public action found for this issue.
       </p>
     );
   }
@@ -105,7 +98,7 @@ export default function ActionList({ actions, sources }: ActionListProps) {
                 className="font-body leading-relaxed"
                 style={{ fontSize: "0.9375rem", color: "var(--color-charcoal)" }}
               >
-                {cleanEvidenceText(action.body)}
+                {cleanEvidenceCopy(action.body)}
               </p>
 
               {resolvedSources.length > 0 && (

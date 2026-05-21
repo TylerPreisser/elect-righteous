@@ -20,7 +20,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Candidate statement: Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-unity-careerism-star-bonds-in-first-big-pitch-for-states-highest-office/ Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-unity-careerism-star-bonds-in-first-big-pitch-for-states-highest-office/ ",
         "sourceIds": [
           "s-kansas-informer-debate"
         ]
@@ -41,7 +41,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -51,7 +51,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -61,7 +61,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -102,7 +102,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: HPPR/Kansas Reflector May 12, 2026 coverage reported Sarnecki joined other GOP candidates calling for Gov. Laura Kelly to bring lawmakers back for a property-tax special session after the Legislature failed to pass a constitutional amendment. Source: https://www.hppr.org/hppr-news/2026-05-12/kansas-contemplates-special-legislative-session-to-rekindle-debate-on-property-taxes Social/online observations are public signals, not confirmed policy positions.",
+        "text": "HPPR/Kansas Reflector May 12, 2026 coverage reported Sarnecki joined other GOP candidates calling for Gov. Laura Kelly to bring lawmakers back for a property-tax special session after the Legislature failed to pass a constitutional amendment. Source: https://www.hppr.org/hppr-news/2026-05-12/kansas-contemplates-special-legislative-session-to-rekindle-debate-on-property-taxes ",
         "sourceIds": [
           "s-hppr-property-special-session",
           "s-freestate-debate-pt1"
@@ -124,7 +124,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: The campaign website's launch release compares Sarnecki to President Trump as a first-time candidate and frames the race as a challenge to career politicians. Source: https://philipsarnecki.org/business-executive-philip-sarnecki-announces-run-for-kansas-governor/ Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The campaign website's launch release compares Sarnecki to President Trump as a first-time candidate and frames the race as a challenge to career politicians. Source: https://philipsarnecki.org/business-executive-philip-sarnecki-announces-run-for-kansas-governor/ ",
         "sourceIds": [
           "s-campaign-launch",
           "s-realmedia-interview",
@@ -178,7 +178,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -188,7 +188,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public record: His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigration and criminals from crime victims. (source) In the X mirror sample, Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas need... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigration and criminals from crime victims. (source) In the X mirror sample, Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas need... ",
         "sourceIds": [
           "s-kspress-launch"
         ]
@@ -228,7 +228,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -238,7 +238,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigration and criminals from crime victims. (source) In the X mirror sample, Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas need... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigration and criminals from crime victims. (source) In the X mirror sample, Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas need... ",
         "sourceIds": [
           "s-kspress-launch",
           "s-campaign-volunteer"
@@ -271,7 +271,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigration and criminals from crime victims. (source) In the X mirror sample, Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas need... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distinguish illegal immigration from legal immigration and criminals from crime victims. (source) In the X mirror sample, Sarnecki cited a sentence for attacking an ICE officer in Wichita and said Kansas need... ",
         "sourceIds": [
           "s-kspress-launch"
         ]
@@ -311,7 +311,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -321,7 +321,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-unity-careerism-star-bonds-in-first-big-pitch-for-states-highest-office/ Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-unity-careerism-star-bonds-in-first-big-pitch-for-states-highest-office/ ",
         "sourceIds": [
           "s-kansas-informer-debate",
           "s-kspress-launch",
@@ -381,7 +381,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: Candidate-list limitation: The SOS live candidate-list endpoint (https://sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / robot-verification block during public-source review. The review could not directly confirm a live SOS candidate-list row for Sarnecki. Because the June 1 filing deadline has not yet passed as of May 19, 2026, the ballot description remains provisional until final s...",
+        "text": "Candidate-list limitation: The SOS live candidate-list endpoint (https://sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript / robot-verification block during public-source review. The review could not directly confirm a live SOS candidate-list row for Sarnecki. Because the June 1 filing deadline has not yet passed as of May 19, 2026, the ballot description remains provisional until final s...",
         "sourceIds": [
           "s-sos-candidate-list-blocked"
         ]
@@ -400,7 +400,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Philip Sarnecki is profiled here for Kansas Governor as a Republican. Across the 34-item captured sample, Sarnecki's largest visible category is taxes, property taxes, the economy, jobs, cost of living, government spending, red tape, and housing/opportunity, with 11 items, or 32 percent of the harvest. The campaign homepage say... His economic message is inseparable from his outsider pitch. On the campaign site, Sarnecki presents himself as \"Kansas Dad - Husband - Businessman\" and says his plan is to stand with President Trump, create jobs, lower taxes, restore parental rights, end wok... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 12 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Abortion / life: Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-u... Taxes / spending / debt: HPPR/Kansas Reflector May 12, 2026 coverage reported Sarnecki joined other GOP candidates calling for Gov. Laura Kelly to bring lawmakers back for a property-tax special session after the Legislature failed to pass... Economy / jobs / labor: The campaign website's launch release compares Sarnecki to President Trump as a first-time candidate and frames the race as a challenge to career politicians. Source: https://philipsarnecki.org/business-executive-ph... Immigration / border: His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distin... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 12 public items across 8 of the 14 issue areas. Examples include: Abortion / life: Kansas Informer debate coverage reported that Sarnecki voiced a religious basis for his anti-abortion position and said he would \"stop abortion in Kansas.\" Source: https://kaninfo.com/news/gop-governor-candidates-spar-on-u... Taxes / spending / debt: HPPR/Kansas Reflector May 12, 2026 coverage reported Sarnecki joined other GOP candidates calling for Gov. Laura Kelly to bring lawmakers back for a property-tax special session after the Legislature failed to pass... Economy / jobs / labor: The campaign website's launch release compares Sarnecki to President Trump as a first-time candidate and frames the race as a challenge to career politicians. Source: https://philipsarnecki.org/business-executive-ph... Immigration / border: His public-safety and immigration language is direct and enforcement-oriented. Kansas Reflector/Kansas Press Association reported his launch comments criticizing Democratic leaders for, in his words, failing to distin... Public online activity is listed separately as context.",
   "whereTheyWorship": "Public materials identify Sarnecki as Christian, but public sources do not name a current church affiliation or church website. His campaign is faith-forward, but the available record stops short of tying him to a specific congregation.",
   "campaignFinance": {
     "totalRaised": "$2,528,715.73",
@@ -409,7 +409,7 @@ export const PHILIP_SARNECKI_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 to 2025-12-31",
     "source": "Philip Sarnecki Campaign Finance Receipts and Expenditures Report - January 2026"
   },
-  "socialResearchNote": "11 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "11 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-sos-candidate-list-blocked",

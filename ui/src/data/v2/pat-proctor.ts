@@ -22,7 +22,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -43,7 +43,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -53,7 +53,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -63,7 +63,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -73,7 +73,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -83,7 +83,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: Restoring Confidence in Our Elections, Growing Our Economy. - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Restoring Confidence in Our Elections, Growing Our Economy. - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01) ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -104,7 +104,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -114,7 +114,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -124,7 +124,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -134,7 +134,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor ",
         "sourceIds": [
           "s-joco-candidate",
           "s-campaign-home",
@@ -233,7 +233,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -264,7 +264,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -274,7 +274,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor ",
         "sourceIds": [
           "s-joco-candidate",
           "s-campaign-home",
@@ -353,7 +353,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -361,7 +361,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Pat Proctor is profiled here for Kansas Secretary of State as a Republican. URLs: https://www.kslegislature.gov/b2025_26/bills/HB2453/history/ and https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt. URLs: https://patproctor4ks.com/ and local memory/candidates/pat-proctor/in-their-own-words.md. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 11 source-backed items across 3 of the 14 issue areas. Representative public-record entries include: Economy / jobs / labor: Restoring Confidence in Our Elections, Growing Our Economy. - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01). Election integrity / voting / courts: Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor. Election integrity / voting / courts: Proctor campaign site: https://patproctor4ks.com/. Election integrity / voting / courts: HB 2453 roll call: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt. Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 11 public items across 3 of the 14 issue areas. Examples include: Economy / jobs / labor: Restoring Confidence in Our Elections, Growing Our Economy. - campaign slogan, source: https://patproctor4ks.com/ (accessed 2026-04-01). Election integrity / voting / courts: Johnson County Election Office candidate page: https://www.jocoelection.org/candidates-elected-officials/pat-proctor. Election integrity / voting / courts: Proctor campaign site: https://patproctor4ks.com/. Election integrity / voting / courts: HB 2453 roll call: https://www.kslegislature.gov/b2025_26/vote/?apn=b2025_26/year2/house/legislative_days/day027_20260218/vote_records/0094_HB2453.odt. Public online activity is listed separately as context.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation for Proctor. His campaign and legislative biographies emphasize military service, elections, and business ownership rather than church membership or denomination.",
   "campaignFinance": {
     "totalRaised": "reportingPeriod: 2025-01-01 through 2025-12-31; totalContributionsAndReceipts: $312,046.74; totalExpenditures: $102,663.46; cashOnHandClose: $209,383.28; inKindContributions: $2,650.22; otherTransactions: $134,000.00; sourceIds: s-kpdc-202601",
@@ -371,7 +371,7 @@ export const PAT_PROCTOR_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Kansas State Wide Office - 2026 Election Cycle"
   },
-  "socialResearchNote": "9 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "9 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-joco-candidate",

@@ -19,7 +19,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public record: KWCH reported Ohaebosim supported strengthening civil-rights protections.",
+        "text": "KWCH reported Ohaebosim supported strengthening civil-rights protections.",
         "sourceIds": [
           "s-kwch-ohaebosim"
         ]
@@ -50,7 +50,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate statement: Reports say Holscher and Ohaebosim plan to focus on public education, affordability, and health care access.",
+        "text": "Reports say Holscher and Ohaebosim plan to focus on public education, affordability, and health care access.",
         "sourceIds": [
           "s-community-voice",
           "s-kwch-ohaebosim"
@@ -73,7 +73,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -83,7 +83,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: KWCH reported Ohaebosim supported rolling back former Gov. Sam Brownback's tax policies and measures aimed at lowering costs for working families.",
+        "text": "KWCH reported Ohaebosim supported rolling back former Gov. Sam Brownback's tax policies and measures aimed at lowering costs for working families.",
         "sourceIds": [
           "s-kwch-ohaebosim"
         ]
@@ -104,7 +104,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Public evidence: Reports identify Ohaebosim as a data analyst and Wichita native educated in Kansas public schools.",
+        "text": "Reports identify Ohaebosim as a data analyst and Wichita native educated in Kansas public schools.",
         "sourceIds": [
           "s-community-voice",
           "s-kwch-ohaebosim"
@@ -117,7 +117,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -127,7 +127,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -137,7 +137,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: The Community Voice/Kansas Reflector report says Holscher and Ohaebosim compiled comparable Statehouse records on Medicaid expansion and abortion rights.",
+        "text": "The Community Voice/Kansas Reflector report says Holscher and Ohaebosim compiled comparable Statehouse records on Medicaid expansion and abortion rights.",
         "sourceIds": [
           "s-community-voice"
         ]
@@ -158,7 +158,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts.",
+        "text": "No sourced position or public action found for Election integrity / voting / courts.",
         "sourceIds": []
       },
       "actions": [],
@@ -168,7 +168,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -178,7 +178,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -188,7 +188,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics.",
+        "text": "No sourced position or public action found for Local governance / transparency / ethics.",
         "sourceIds": []
       },
       "actions": [],
@@ -198,7 +198,7 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -207,15 +207,15 @@ export const KC_OHAEBOSIM_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "KC Ohaebosim was added because multiple public reports and the Holscher campaign identify him as Cindy Holscher's lieutenant governor running mate. Reports identify Ohaebosim as a Wichita Democrat elected to the Kansas House in 2016, a product of Wichita public schools, a Wichita State University and Newman University graduate, and a data analyst. Reports also note he was named regional legislator of the year by the National Black Caucus of State Legislators in 2022 and 2025.",
   "recordSummary": "The current record documents an active Kansas House record and a running-mate announcement. the reviewed public record uses secondary summaries of his record and official legislature/KPDC sources where available; a deeper roll-call-level record pass should follow.",
-  "whereTheyWorship": "No direct public evidence of a current worship community was found in this missing-roster pass. No faith-based policy inference is made.",
+  "whereTheyWorship": "No direct public evidence of a current worship community was found . No faith-based policy inference is made.",
   "campaignFinance": {
-    "totalRaised": "Not itemized in the reviewed public records for this missing-roster pass",
+    "totalRaised": "Not itemized in the reviewed public records for this roster review",
     "narrative": "Campaign-finance status is limited to the linked KPDC/FEC/official filing records reviewed in the reviewed public record. Donor-by-donor interpretation is not inferred beyond public reports.",
     "donors": [],
     "reportingPeriod": "Most recent public record reviewed on 2026-05-20",
     "source": "Holscher Taps Wichita Rep. KC Ohaebosim as Running Mate in Governor's Race"
   },
-  "socialResearchNote": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for KC Ohaebosim in this missing-roster pass. Public social evidence remains a signal layer only; none is used as a confirmed policy position.",
+  "socialResearchNote": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for KC Ohaebosim . Public social evidence remains a signal layer only; none is used as a confirmed policy position.",
   "sources": [
     {
       "id": "s-community-voice",

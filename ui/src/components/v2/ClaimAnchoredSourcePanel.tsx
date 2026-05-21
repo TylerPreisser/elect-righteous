@@ -11,6 +11,7 @@
  */
 
 import type { Source, SourceTier } from "@/data/types-v2";
+import { normalizePublicCopy } from "@/lib/public-copy";
 import { ExternalLink } from "lucide-react";
 
 interface ClaimAnchoredSourcePanelProps {
@@ -91,7 +92,7 @@ function SourceRow({ source }: { source: Source }) {
           className="inline-flex items-center gap-1 font-body font-semibold hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-teal leading-snug min-w-0"
           style={{ color: "var(--color-navy-light)", fontSize: "0.9375rem" }}
         >
-          <span className="min-w-0 break-words">{source.title}</span>
+          <span className="min-w-0 break-words">{normalizePublicCopy(source.title)}</span>
           <ExternalLink
             size={12}
             aria-hidden="true"
@@ -117,7 +118,7 @@ function SourceRow({ source }: { source: Source }) {
           className="mt-0.5 flex flex-wrap gap-1.5"
           aria-label="Claims this source supports"
         >
-          {source.claimsAnchored.map((claim, i) => (
+          {source.claimsAnchored.map((claim) => normalizePublicCopy(claim)).filter(Boolean).map((claim, i) => (
             <li
               key={i}
               className="rounded px-2 py-0.5 font-body text-xs"

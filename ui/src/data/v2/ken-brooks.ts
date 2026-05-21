@@ -22,7 +22,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -32,7 +32,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public record: Brooks' clearest governing philosophy is anti-micromanagement. In the 2025 Q&A, he said the board should provide oversight while administrators and teachers handle day-to-day operations, and that the superintendent is the only employee who answers directly to the board. In later board coverage, he used the same frame on handbooks, contracts, and bathroom/vandalism disputes. (Hays Post, Tiger Media Network, Tiger Med... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Brooks' clearest governing philosophy is anti-micromanagement. In the 2025 Q&A, he said the board should provide oversight while administrators and teachers handle day-to-day operations, and that the superintendent is the only employee who answers directly to the board. In later board coverage, he used the same frame on handbooks, contracts, and bathroom/vandalism disputes. (Hays Post, Tiger Media Network, Tiger Med... ",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-tigermedia-bathrooms-2026",
@@ -102,7 +102,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public record: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... ",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-tigermedia-bathrooms-2026",
@@ -181,7 +181,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -191,7 +191,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: Facilities and the bond program are central to his own account of why he ran again. Brooks said that when he first ran, he did not have an agenda \"so much,\" but he did want the bond passed. By 2025, he pointed to the new high school opening, remaining bond projects, O'Loughlin work, and the five-year capital outlay plan as evidence that the district was staying on track. He said the capital outlay plan helps the boa... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Facilities and the bond program are central to his own account of why he ran again. Brooks said that when he first ran, he did not have an agenda \"so much,\" but he did want the bond passed. By 2025, he pointed to the new high school opening, remaining bond projects, O'Loughlin work, and the five-year capital outlay plan as evidence that the district was staying on track. He said the capital outlay plan helps the boa... ",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "src-ken-brooks-0038",
@@ -285,7 +285,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -295,7 +295,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -305,7 +305,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -315,7 +315,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Public evidence: Contact page confirms: Insurance Planning - A. Ken Brooks Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Contact page confirms: Insurance Planning - A. Ken Brooks ",
         "sourceIds": [
           "src-ken-brooks-0093"
         ]
@@ -348,7 +348,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Hays Post — *USD 489 candidate Q&A: Ken Brooks (2025-10-16)* — https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220 Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Hays Post — *USD 489 candidate Q&A: Ken Brooks (2025-10-16)* — https://hayspost.com/posts/8ce0d386-aba6-4c42-b880-1307752c8220 ",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "src-ken-brooks-0003",
@@ -421,7 +421,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Board member calls out fellow member after repeated no votes",
+        "text": "Board member calls out fellow member after repeated no votes",
         "sourceIds": [
           "s-hayspost-asbestos-hms-vote",
           "src-ken-brooks-0038"
@@ -451,7 +451,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -461,7 +461,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he described himself as someone with \"a love for our community\" and \"a love for kids,\" said he listens to people and studies board materials, and framed school-board service as a way to improve Hays and USD 489. (Hays... ",
         "sourceIds": [
           "s-hayspost-brooks-qa-2025",
           "s-tigermedia-bathrooms-2026"
@@ -564,7 +564,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: Primary record location: USD 489 BoardDocs portal (https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic) for April 2023 meeting — Direct source access was blocked (403). Underlying primary record exists per portal structure; not retrievable during public-source review.",
+        "text": "Primary record location: USD 489 BoardDocs portal (https://go.boarddocs.com/ks/usd489/Board.nsf/vpublic) for April 2023 meeting — Direct source access was blocked (403). Underlying primary record exists per portal structure; not retrievable during public-source review.",
         "sourceIds": [
           "s-usd489-boarddocs"
         ]
@@ -583,7 +583,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Ken Brooks is profiled here for USD 489 Board Member as a nonpartisan incumbent/current official. His faith and civic-service statements are visible but not campaign-social. In the 2021 profile, Brooks listed Kiwanis, helping lead children's ministry at Celebration Community Church for almost 14 years, and coordinating the Thanksgiving Community Food Driv... Hays Post — *Hays USD 489 district administrators' contracts extended another year* — https://hayspost.com/posts/95dab7ab-70ba-44ee-91ee-2760e55665bf. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 24 source-backed items across 7 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Brooks' clearest governing philosophy is anti-micromanagement. In the 2025 Q&A, he said the board should provide oversight while administrators and teachers handle day-to-day operations, and that the superi... LGBT / gender / parental rights: On contentious high-school bathroom and vandalism discussions, Brooks' visible remarks are less about bathroom design itself and more about process, data, and treatment of administrators. In April 2026 cove... LGBT / gender / parental rights: 2026-04-22 (April 2026 board meeting on bathrooms/vandalism at new HHS) — Hays Post and Tiger Media Network — Brooks said, on the record to fellow board member Allen Park during an exchange about Hays High... Education / curriculum / schools: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 24 public items across 7 of the 14 issue areas. Examples include: LGBT / gender / parental rights: Brooks' clearest governing philosophy is anti-micromanagement. In the 2025 Q&A, he said the board should provide oversight while administrators and teachers handle day-to-day operations, and that the superi... LGBT / gender / parental rights: On contentious high-school bathroom and vandalism discussions, Brooks' visible remarks are less about bathroom design itself and more about process, data, and treatment of administrators. In April 2026 cove... LGBT / gender / parental rights: 2026-04-22 (April 2026 board meeting on bathrooms/vandalism at new HHS) — Hays Post and Tiger Media Network — Brooks said, on the record to fellow board member Allen Park during an exchange about Hays High... Education / curriculum / schools: Brooks' public message is local, board-centered, and mostly candidate-attributed through Hays Post rather than through campaign social media. The densest source is his October 2025 Hays Post Q&A, where he... Public online activity is listed separately as context.",
   "whereTheyWorship": "His faith and civic-service statements are visible but not campaign-social. In the 2021 profile, Brooks listed Kiwanis, helping lead children's ministry at Celebration Community Church for almost 14 years, and coordinating the Thanksgiving Community Food Driv... Brooks publicly identified Celebration Community Church in Hays as his worship community. The church's Hays campus is at https://www.celebratejesus.org/hays-campus, and his 2021 candidate profile said he had helped lead the children's ministry there for almos... Brooks publicly identifies Celebration Community Church in Hays as his church. The Hays campus website is https://www.celebratejesus.org/hays-campus, and Brooks said he had helped lead the children's ministry there for almost 14 years. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in public web records",
@@ -593,7 +593,7 @@ export const KEN_BROOKS_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent local cycle reviewed",
     "source": "Reviewed public records"
   },
-  "socialResearchNote": "19 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "19 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-usd489-boarddocs",

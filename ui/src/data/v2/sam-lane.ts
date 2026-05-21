@@ -20,7 +20,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -61,7 +61,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -71,7 +71,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -81,7 +81,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -122,7 +122,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -132,7 +132,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -163,7 +163,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -173,7 +173,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a secretary of state who \"plays fair\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair,... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a secretary of state who \"plays fair\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair,... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -251,7 +251,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -261,7 +261,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -292,7 +292,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a secretary of state who \"plays fair\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair,... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a secretary of state who \"plays fair\" and takes election oversight seriously (source). The same site frames the office as a safeguard: if elections are not fair,... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -370,7 +370,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -378,8 +378,8 @@ export const SAM_LANE_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Sam Lane is profiled here for Kansas Secretary of State as a Democratic. Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong independent\" running as a Democrat because Kansas needs a... Campaign home footer independently states: \"Paid for by Samuel Lane for Kansas, Erika Ashley treasurer.\" Source: https://www.samuellane.org/. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 6 source-backed items across 2 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong... Election integrity / voting / courts: Campaign home footer independently states: \"Paid for by Samuel Lane for Kansas, Erika Ashley treasurer.\" Source: https://www.samuellane.org/. Election integrity / voting / courts: Candidate-controlled website: https://www.samuellane.org/. Local governance / transparency / ethics: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and life... Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object]",
+  "recordSummary": "This profile links 6 public items across 2 of the 14 issue areas. Examples include: Election integrity / voting / courts: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and lifelong... Election integrity / voting / courts: Campaign home footer independently states: \"Paid for by Samuel Lane for Kansas, Erika Ashley treasurer.\" Source: https://www.samuellane.org/. Election integrity / voting / courts: Candidate-controlled website: https://www.samuellane.org/. Local governance / transparency / ethics: Across the public material captured for Sam Lane, the center of gravity is election administration rather than a broad ideological platform. His campaign site says he is a \"lifelong Kansan and life... Public online activity is listed separately as context.",
+  "ownWordsNarrative": "",
   "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed public record. No policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "KPDC 2025 reporting shows $590.91 in total contributions and receipts, $0.00 in expenditures, and $590.91 cash on hand. The only itemized receipt was $580.27 from Samuel Lane; $10.64 was unitemized. No PAC, institutional, or large donor line item was found in that report.",
@@ -393,7 +393,7 @@ export const SAM_LANE_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Campaign Finance Receipts and Expenditures Report - Samuel Lane"
   },
-  "socialResearchNote": "16 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "16 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-campaign-home",

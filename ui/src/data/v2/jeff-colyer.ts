@@ -21,7 +21,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented public record: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... ",
         "sourceIds": [
           "src-jeff-colyer-0031",
           "s-campaign-current"
@@ -92,7 +92,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public record: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... ",
         "sourceIds": [
           "s-campaign-current"
         ]
@@ -124,7 +124,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public record: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... ",
         "sourceIds": [
           "src-jeff-colyer-0031"
         ]
@@ -186,7 +186,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Documented public record: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... ",
         "sourceIds": [
           "src-jeff-colyer-0031",
           "s-campaign-current"
@@ -249,7 +249,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... ",
         "sourceIds": [
           "s-campaign-current"
         ]
@@ -309,7 +309,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... ",
         "sourceIds": [
           "s-campaign-current",
           "src-jeff-colyer-0061"
@@ -370,7 +370,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented public record: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out of Kansas schools (source). Recent indexed X posts emphasize phonics-based reading, math, writing, technology skills, and career preparation, while also using sharper language against \"political age... ",
         "sourceIds": [
           "src-jeff-colyer-0031"
         ]
@@ -412,7 +412,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public record: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... ",
         "sourceIds": [
           "s-campaign-current"
         ]
@@ -444,7 +444,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... ",
         "sourceIds": [
           "s-campaign-current",
           "src-jeff-colyer-0064",
@@ -515,7 +515,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... ",
         "sourceIds": [
           "s-campaign-current",
           "src-jeff-colyer-0031"
@@ -600,7 +600,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforcement, strengthening sentencing for violent criminals, and securing communities from fentanyl and illegal immigration (source). KCUR/KMUW reported that, at launch, Colyer said he wanted to secure the border, deport... ",
         "sourceIds": [
           "s-campaign-current"
         ]
@@ -632,7 +632,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public record: Colyer's medical identity remains central rather than incidental. His campaign biography says he is a craniofacial/plastic surgeon who has treated more than 20,000 patients and volunteered in more than 25 war zones, including Rwanda during the genocide (source). The older campaign about page says he created Kansas's privatized integrated Medicaid system, KanCare, and presents it as a taxpayer-savings and care-manage... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Colyer's medical identity remains central rather than incidental. His campaign biography says he is a craniofacial/plastic surgeon who has treated more than 20,000 patients and volunteered in more than 25 war zones, including Rwanda during the genocide (source). The older campaign about page says he created Kansas's privatized integrated Medicaid system, KanCare, and presents it as a taxpayer-savings and care-manage... ",
         "sourceIds": [
           "s-campaign-current"
         ]
@@ -674,7 +674,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas with \"a real lid on property taxes\" (source). In the indexed X sample, Colyer posted about higher wages and lower taxes, SNAP fraud, unemployment-insurance fraud... ",
         "sourceIds": [
           "s-campaign-current"
         ]
@@ -722,7 +722,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -761,7 +761,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Jeff Colyer is profiled here for Kansas Governor as a Republican. Across the accessible public set reviewed, Colyer presents the 2026 governor race as a comeback campaign built around experience, Trump alignment, conservative cultural issues, lower costs, and state-government efficiency. His 2026 campaign site leads with a... The dominant policy signal in the harvest is economic: taxes, affordability, fraud, spending, regulation, and property rights account for 8 of 29 accessible reviewed items, or 28 percent (harvest). The 2026 campaign site promises a high-wage, low-tax Kansas w... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 24 source-backed items across 13 of the 14 issue areas. Representative public-record entries include: Abortion / life: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out o... Abortion / life: Abortion appears as a recurring moral and campaign issue. The 2026 campaign site says Colyer will \"defend the unborn\" (source). The older, still-live announcements archive includes a 2021 statement attacking abortion incre... LGBT / gender / parental rights: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforce... Education / curriculum / schools: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 24 public items across 13 of the 14 issue areas. Examples include: Abortion / life: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical race theory out o... Abortion / life: Abortion appears as a recurring moral and campaign issue. The 2026 campaign site says Colyer will \"defend the unborn\" (source). The older, still-live announcements archive includes a 2021 statement attacking abortion incre... LGBT / gender / parental rights: On immigration and public safety, Colyer's visible campaign language links law enforcement, sentencing, fentanyl, and illegal immigration. The 2026 site says safer communities require supporting law enforce... Education / curriculum / schools: Education and culture-war issues are the second-largest visible cluster, with 7 of 29 items, or 24 percent (harvest). The older campaign homepage still invites supporters to sign a pledge to keep critical... Public online activity is listed separately as context.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. His public background points to a Catholic upbringing in Hays, including attendance at Thomas More Prep and family ties to St. Joseph's Catholic Church, but the available record does not identify a present-day parish.",
   "campaignFinance": {
     "totalRaised": "$2,070,322.09 (2025 year-end / 202601 report)",
@@ -770,7 +770,7 @@ export const JEFF_COLYER_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Campaign Finance Receipts and Expenditures Report - Jeff Colyer"
   },
-  "socialResearchNote": "35 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "35 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-kpdc-statewide-index",

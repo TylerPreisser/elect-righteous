@@ -17,11 +17,12 @@ import Link from "next/link";
 import { ALLEN_PARK_V2 } from "@/data/v2/allen-park";
 import IssueCardComponent from "@/components/v2/IssueCardComponent";
 import ClaimAnchoredSourcePanel from "@/components/v2/ClaimAnchoredSourcePanel";
+import { normalizePublicCopy } from "@/lib/public-copy";
 
 export const metadata: Metadata = {
   title: "Allen Park — USD 489 School Board Member",
   description:
-    "Allen Park is a USD 489 school board member and retired district principal. Every claim is source-cited; no grading, no badges.",
+    "Allen Park is a USD 489 school board member and retired district principal. Every claim includes linked sources.",
 };
 
 const PARTY_LABEL: Record<string, string> = {
@@ -142,12 +143,11 @@ export default function AllenParkV2Page() {
             </p>
 
             <div className="grid gap-4">
-              {candidate.issues.map((issue, idx) => (
+              {candidate.issues.map((issue) => (
                 <IssueCardComponent
                   key={issue.id}
                   issue={issue}
                   sources={candidate.sources}
-                  defaultExpanded={idx === 0}
                 />
               ))}
             </div>
@@ -171,7 +171,7 @@ export default function AllenParkV2Page() {
                 className="font-body leading-relaxed"
                 style={{ fontSize: "0.9375rem", color: "var(--color-charcoal)" }}
               >
-                {candidate.whereTheyWorship}
+                {normalizePublicCopy(candidate.whereTheyWorship)}
               </p>
             </section>
           )}
@@ -198,33 +198,33 @@ export default function AllenParkV2Page() {
                   <dt className="font-semibold inline" style={{ color: "var(--color-slate)" }}>
                     Total raised:{" "}
                   </dt>
-                  <dd className="inline">{candidate.campaignFinance.totalRaised}</dd>
+                  <dd className="inline">{normalizePublicCopy(candidate.campaignFinance.totalRaised)}</dd>
                 </div>
                 <div>
                   <dt className="font-semibold inline" style={{ color: "var(--color-slate)" }}>
                     Reporting period:{" "}
                   </dt>
-                  <dd className="inline">{candidate.campaignFinance.reportingPeriod}</dd>
+                  <dd className="inline">{normalizePublicCopy(candidate.campaignFinance.reportingPeriod)}</dd>
                 </div>
                 <div>
                   <dt className="font-semibold inline" style={{ color: "var(--color-slate)" }}>
                     Source:{" "}
                   </dt>
-                  <dd className="inline">{candidate.campaignFinance.source}</dd>
+                  <dd className="inline">{normalizePublicCopy(candidate.campaignFinance.source)}</dd>
                 </div>
               </dl>
               <p
                 className="font-body leading-relaxed"
                 style={{ fontSize: "0.9375rem", color: "var(--color-charcoal)" }}
               >
-                {candidate.campaignFinance.narrative}
+                {normalizePublicCopy(candidate.campaignFinance.narrative)}
               </p>
               {candidate.campaignFinance.undisclosed && (
                 <p
                   className="mt-2 font-body text-sm italic"
                   style={{ color: "var(--color-slate)" }}
                 >
-                  {candidate.campaignFinance.undisclosed}
+                  {normalizePublicCopy(candidate.campaignFinance.undisclosed)}
                 </p>
               )}
             </section>
@@ -253,15 +253,15 @@ export default function AllenParkV2Page() {
             <ClaimAnchoredSourcePanel sources={candidate.sources} />
           </section>
 
-          {/* ── Methodology footer ────────────────────────────────────────── */}
+          {/* ── Source note ────────────────────────────────────────── */}
           <footer
             className="mt-12 rounded-md p-4 font-body text-sm"
             style={{ backgroundColor: "var(--color-light)", color: "var(--color-slate)" }}
-            aria-label="Methodology note"
+            aria-label="Source note"
           >
             <p>
               <strong className="font-semibold" style={{ color: "var(--color-charcoal)" }}>
-                How this page is made.
+                Source note.
               </strong>{" "}
               Elect Righteous researches candidates using publicly available sources: official board records, local news, candidate questionnaires, and government databases. Every claim is source-cited. This platform does not grade, score, or endorse candidates. The lens guiding what we notice — including why stewardship of office and honesty matter to us — is documented in our{" "}
               <Link

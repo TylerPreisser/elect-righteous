@@ -21,7 +21,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate statement: The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separation, inmate behavior, gender, offense levels, and COVID-era effects. In July 2024, he said there was no quick fix and framed a new jail as a public-safety need rather than a personal wish: \"We need a jail. I don't w... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separation, inmate behavior, gender, offense levels, and COVID-era effects. In July 2024, he said there was no quick fix and framed a new jail as a public-safety need rather than a personal wish: \"We need a jail. I don't w... ",
         "sourceIds": [
           "s-hayspost-jail-assessment-2023"
         ]
@@ -52,7 +52,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -62,7 +62,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Public evidence: Braun's earliest profile-controlled campaign statement in the reviewed set came when he announced for sheriff in 2019. The Hays Post archive described his law-enforcement timeline from reserve deputy and Ellis police officer to deputy, drug-enforcement officer, K-9 handler, narcotics detective, and undersheriff. It also emphasized civic and faith ties: Hays Rotary, St. Nicholas of Myra Church Council, Knights of Col... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Braun's earliest profile-controlled campaign statement in the reviewed set came when he announced for sheriff in 2019. The Hays Post archive described his law-enforcement timeline from reserve deputy and Ellis police officer to deputy, drug-enforcement officer, K-9 handler, narcotics detective, and undersheriff. It also emphasized civic and faith ties: Hays Rotary, St. Nicholas of Myra Church Council, Knights of Col... ",
         "sourceIds": [
           "s-hayspost-2019-announcement",
           "src-scott-braun-0039"
@@ -86,7 +86,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: Braun carried that issue into the Legislature. In March 2026 coverage of his HB 2771 testimony, he framed ICE-detainer legislation as liability clarity, fiscal responsibility, county protection, and taxpayer protection. He said Ellis County signed the ICE agreement partly because of grant-funding risk, but also said community protection was the main reason for remaining in the program. The public bill tracker lists... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Braun carried that issue into the Legislature. In March 2026 coverage of his HB 2771 testimony, he framed ICE-detainer legislation as liability clarity, fiscal responsibility, county protection, and taxpayer protection. He said Ellis County signed the ICE agreement partly because of grant-funding risk, but also said community protection was the main reason for remaining in the program. The public bill tracker lists... ",
         "sourceIds": [
           "s-hayspost-hb2771-2026",
           "s-hayspost-ksa-forfeiture"
@@ -129,7 +129,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -139,7 +139,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -149,7 +149,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Candidate statement: Immigration and border enforcement became a major public signal in 2025 and 2026. After joining a Kansas law-enforcement visit to the Arizona-Mexico border, Braun said in a Sen. Roger Marshall release that border security is tied to stopping narcotics and human trafficking that affect Kansas. Later, in Hays Post coverage of Ellis County's ICE memorandum, he emphasized limits: Ellis County could honor a detainer only... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Immigration and border enforcement became a major public signal in 2025 and 2026. After joining a Kansas law-enforcement visit to the Arizona-Mexico border, Braun said in a Sen. Roger Marshall release that border security is tied to stopping narcotics and human trafficking that affect Kansas. Later, in Hays Post coverage of Ellis County's ICE memorandum, he emphasized limits: Ellis County could honor a detainer only... ",
         "sourceIds": [
           "s-marshall-border-release-2025",
           "s-hayspost-hb2771-2026",
@@ -235,7 +235,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate statement: The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separation, inmate behavior, gender, offense levels, and COVID-era effects. In July 2024, he said there was no quick fix and framed a new jail as a public-safety need rather than a personal wish: \"We need a jail. I don't w... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separation, inmate behavior, gender, offense levels, and COVID-era effects. In July 2024, he said there was no quick fix and framed a new jail as a public-safety need rather than a personal wish: \"We need a jail. I don't w... ",
         "sourceIds": [
           "s-hayspost-jail-assessment-2023",
           "s-hayspost-ksa-forfeiture"
@@ -278,7 +278,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Scott Braun's public messaging is almost entirely the voice of an incumbent sheriff and law-enforcement administrator, not a conventional campaign brand. The clearest official source is the Ellis County, Kansas sheriff page, which describes patrol, jail, investigation, courthouse, and K-9 duties and links to office Facebook and X accounts. A separate apparent sheriff website, elliscountysheriff.com, is for Ellis Cou... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Scott Braun's public messaging is almost entirely the voice of an incumbent sheriff and law-enforcement administrator, not a conventional campaign brand. The clearest official source is the Ellis County, Kansas sheriff page, which describes patrol, jail, investigation, courthouse, and K-9 duties and links to office Facebook and X accounts. A separate apparent sheriff website, elliscountysheriff.com, is for Ellis Cou... ",
         "sourceIds": [
           "src-scott-braun-0009",
           "s-hayspost-hb2771-2026"
@@ -319,7 +319,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Candidate statement: On drugs and forfeiture, Braun speaks as both sheriff and statewide sheriffs' association figure. In January 2024, he defended local retention of drug-forfeiture funds, saying seized money supports equipment and controlled buys and warning that losing it would shift costs to taxpayers. He also tied forfeiture to cutting off drug operations' funding. In April 2025, he sought opioid settlement money for local law-enfo... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On drugs and forfeiture, Braun speaks as both sheriff and statewide sheriffs' association figure. In January 2024, he defended local retention of drug-forfeiture funds, saying seized money supports equipment and controlled buys and warning that losing it would shift costs to taxpayers. He also tied forfeiture to cutting off drug operations' funding. In April 2025, he sought opioid settlement money for local law-enfo... ",
         "sourceIds": [
           "s-hayspost-ksa-forfeiture",
           "s-marshall-border-release-2025",
@@ -409,7 +409,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -419,7 +419,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: On drugs and forfeiture, Braun speaks as both sheriff and statewide sheriffs' association figure. In January 2024, he defended local retention of drug-forfeiture funds, saying seized money supports equipment and controlled buys and warning that losing it would shift costs to taxpayers. He also tied forfeiture to cutting off drug operations' funding. In April 2025, he sought opioid settlement money for local law-enfo... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On drugs and forfeiture, Braun speaks as both sheriff and statewide sheriffs' association figure. In January 2024, he defended local retention of drug-forfeiture funds, saying seized money supports equipment and controlled buys and warning that losing it would shift costs to taxpayers. He also tied forfeiture to cutting off drug operations' funding. In April 2025, he sought opioid settlement money for local law-enfo... ",
         "sourceIds": [
           "s-hayspost-ksa-forfeiture",
           "s-marshall-border-release-2025",
@@ -510,7 +510,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Public evidence: His office-communication message is practical and service-oriented. In January 2025, Braun promoted a sheriff's office app as a way to push road, weather, offender, jail, tip, and safety information directly to residents instead of relying only on third-party platforms. In March 2025, he warned residents that the sheriff's office does not demand money or personal information by call, text, or email. Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His office-communication message is practical and service-oriented. In January 2025, Braun promoted a sheriff's office app as a way to push road, weather, offender, jail, tip, and safety information directly to residents instead of relying only on third-party platforms. In March 2025, he warned residents that the sheriff's office does not demand money or personal information by call, text, or email. ",
         "sourceIds": [
           "s-hayspost-app-2025",
           "s-hayspost-jail-need-2024"
@@ -552,8 +552,8 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Scott J. Braun is profiled here for Ellis County Sheriff; current officeholder not on the 2026 county filing PDF as a Republican incumbent/current official. Braun's earliest profile-controlled campaign statement in the reviewed set came when he announced for sheriff in 2019. The Hays Post archive described his law-enforcement timeline from reserve deputy and Ellis police officer to deputy, drug-enforcement office... Mental health is the second recurring operational issue. As Kansas Sheriffs' Association president, Braun told Hays Post in January 2024 that sheriffs across Kansas were struggling with mental-health cases and questioned whether some people with serious menta... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 18 source-backed items across 7 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separatio... Taxes / spending / debt: Braun carried that issue into the Legislature. In March 2026 coverage of his HB 2771 testimony, he framed ICE-detainer legislation as liability clarity, fiscal responsibility, county protection, and taxpayer protec... Immigration / border: Immigration and border enforcement became a major public signal in 2025 and 2026. After joining a Kansas law-enforcement visit to the Arizona-Mexico border, Braun said in a Sen. Roger Marshall release that border secu... Immigration / border: After visiting the Arizona-Mexico border, Braun said a secure border is critical to stopping trafficking of narcotics and human beings and tied fentanyl and trafficking threats back to Kansas communities. Source: Sen.... Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object]",
+  "recordSummary": "This profile links 18 public items across 7 of the 14 issue areas. Examples include: LGBT / gender / parental rights: The dominant theme since then is jail capacity. In December 2023 coverage, Braun argued that the 72-bed jail could not always function as a true 72-bed facility because of isolation needs, witness separatio... Taxes / spending / debt: Braun carried that issue into the Legislature. In March 2026 coverage of his HB 2771 testimony, he framed ICE-detainer legislation as liability clarity, fiscal responsibility, county protection, and taxpayer protec... Immigration / border: Immigration and border enforcement became a major public signal in 2025 and 2026. After joining a Kansas law-enforcement visit to the Arizona-Mexico border, Braun said in a Sen. Roger Marshall release that border secu... Immigration / border: After visiting the Arizona-Mexico border, Braun said a secure border is critical to stopping trafficking of narcotics and human beings and tied fentanyl and trafficking threats back to Kansas communities. Source: Sen.... Public online activity is listed separately as context.",
+  "ownWordsNarrative": "",
   "whereTheyWorship": "Braun is publicly tied to St. Nicholas of Myra Catholic Church in Hays. The parish website is https://stn-church.com/, and the diocesan listing is https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/.",
   "campaignFinance": {
     "totalRaised": "No online donor list, receipts/expenditures report, treasurer appointment, or affidavit of exemption for Braun was located. KPDC states county offices are covered by the Campaign Finance Act and local candidates file treasurer forms with the county clerk/election commissioner.",
@@ -562,7 +562,7 @@ export const SCOTT_BRAUN_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "20 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "20 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-ellis-2024-results",

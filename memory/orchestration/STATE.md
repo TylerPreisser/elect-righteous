@@ -1,7 +1,7 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-20T23:48:00Z
-Last agent: ui-ux-redesign / mobile-qa-agent / build-validation-gatekeeper
-Last commit: 259f245
+Last updated: 2026-05-21T02:25:00Z
+Last agent: ui-copy-auditor / ux-content-designer / mobile-qa-agent / build-validation-gatekeeper / form-verification / cloudflare-deploy-agent
+Last commit: see `git log --oneline -1`
 
 ## Current Phase
 Phase 3: Profile Rebuild
@@ -23,9 +23,9 @@ Phase 3: Profile Rebuild
 - Rendered source-health sweep now has zero HTTP-error links after URL normalization, live replacements, dead-link drops, and candidate-specific source relevance filtering; 113 blocked/forbidden, 6 timeouts, and 9 network errors remain for manual/browser verification because the automated checker cannot prove them live — source-tier-validator — medium — 2026-05-20
 - Official Kansas post-filing roster recheck remains required after the filing deadline/final official lists — roster-auditor — medium — 2026-05-20
 - Customer feedback flagged possible missing local candidates. Recheck against the current Ellis County 2026 candidate filing PDF found only Commission District 1 / Republican Michael Berges for the county commission race during this pass; a fresh official recheck is still required after the June 1, 2026 noon filing deadline and again after the August 3, 2026 noon independent nomination deadline — local-race-auditor — high — 2026-05-20
-- Correction form routes to tyler@preissersolutions.com in code, but live FormSubmit delivery is not proven: controlled AJAX, HTML fallback, and provider-root tests returned Cloudflare/FormSubmit 522 responses, and the roster-delta retry returned 521 from this environment. UI fallback to direct email is visible. FormSubmit activation and old-submission mailbox review are still not confirmed from repo-only access — form-verification — high — 2026-05-20
+- Correction form routes to tyler@preissersolutions.com in code, but FormSubmit delivery is blocked until recipient activation: the controlled POST test returned FormSubmit's activation-required response and sent an activation email to tyler@preissersolutions.com. UI fallback to direct email is visible. Old-submission mailbox review is still not confirmed from repo-only access — form-verification — high — 2026-05-20
 - Full local record audit remains required for USD 489, Hays City Commission, and Ellis County Commission because customer feedback showed that board/commission pages must distinguish official minutes/votes from secondary reporting and social-media summaries — record-writer — high — 2026-05-20
-- Production domain `electrighteous.com` did not resolve from this environment after the latest GitHub Pages preview deploy succeeded; Cloudflare/DNS configuration must be checked outside the repo before production can be verified — cloudflare-deploy-agent — high — 2026-05-20
+- Production domain `electrighteous.com` custom-domain verification remains blocked by Cloudflare DNS permissions/profile scope. Wrangler OAuth was restarted twice for a profile switch and timed out both times; current token can deploy Pages but lacks DNS edit/read access for the custom-domain fix — cloudflare-deploy-agent — high — 2026-05-20
 
 ## Candidate Progress
 | Slug | Mined | Matrix | Social | Sources | Issues | Bio | Record | Funding | Faith | Assembled | Edited | Legal | Symmetry |
@@ -135,11 +135,11 @@ Phase 3: Profile Rebuild
 ## Validation Gate Results
 | Gate | Last Run | Pass/Fail | Notes |
 |------|----------|-----------|-------|
-| YAML parse | 2026-05-20T22:18:00Z | Pass | 81 candidate v2-issues.yaml files parse clean after public wording cleanup. |
-| Phase 2 inventory | 2026-05-20T22:18:00Z | Pass | 81 candidate-like slugs; 59 active 2026; 81 rendered v2; no missing UI entries. |
-| V2 runtime validation | 2026-05-20T22:23:00Z | Pass | validateCandidateV2 accepted 81 v2 candidates after public wording cleanup and full v2 regeneration. |
-| TypeScript | 2026-05-20T22:23:00Z | Pass | npx tsc --noEmit --incremental false passed after public wording cleanup. |
-| Static build | 2026-05-20T22:24:00Z | Pass | npm run build generated 266 static pages after public wording cleanup. |
+| YAML parse | 2026-05-21T02:18:00Z | Pass | 81 candidate v2-issues.yaml files parse clean after public copy/profile UX cleanup. |
+| Phase 2 inventory | 2026-05-21T02:18:00Z | Pass | 81 candidate-like slugs; 59 active 2026; 81 rendered v2; no missing UI entries. |
+| V2 runtime validation | 2026-05-21T02:19:00Z | Pass | validateCandidateV2 accepted 81 v2 candidates after public copy/profile UX cleanup. |
+| TypeScript | 2026-05-21T02:20:00Z | Pass | npx tsc --noEmit --incremental false passed after public copy/profile UX cleanup. |
+| Static build | 2026-05-21T02:20:00Z | Pass | npm run build generated 266 static pages after public copy/profile UX cleanup. |
 | Candidate count parity | 2026-05-20T22:05:00Z | Pass | 16 race entries; every candidateCount matches candidateSlugs.length. |
 | Forbidden public labels | 2026-05-20T19:08:52Z | Pass | No tpreisser.github.io, Preisser Tech, What You Should Know, or In Their Own Words strings remain under ui/src, ui/public, or active compile scripts. |
 | Evidence matrix structure | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have raw and final evidence matrices with required fields. |
@@ -152,9 +152,10 @@ Phase 3: Profile Rebuild
 | Rendered 14-issue profiles | 2026-05-20T22:05:00Z | Pass | 81 of 81 rendered v2 candidate files contain exactly 14 issues. |
 | Narrative section presence | 2026-05-20T19:17:36Z | Pass | 70 of 70 rendered profiles have non-empty Who They Are, Their Record, Donor/Funding, Where They Worship, and Social/Online notes. Thin-record fallbacks are caveated. |
 | Automated legal cleanup | 2026-05-20T19:23:52Z | Pass | Rendered issue cards no longer surface internal-only issue text as public stance evidence; cross-candidate lawsuit URL scan reports 0 suspect references; validateCandidateV2, TypeScript, and npm run build pass. |
-| Correction form routing | 2026-05-20T22:31:00Z | Partial | Code routes FormSubmit AJAX, HTML fallback, and mailto fallback to tyler@preissersolutions.com. Third controlled live AJAX test returned Cloudflare/FormSubmit 521; prior controlled tests returned 521/522. Delivery is still not proven. |
+| Correction form routing | 2026-05-21T02:16:00Z | Partial | Code routes FormSubmit AJAX, HTML fallback, and mailto fallback to tyler@preissersolutions.com. Controlled live POST reached FormSubmit and returned activation-required; FormSubmit says an activation email was sent to tyler@preissersolutions.com. Delivery remains blocked until activation is clicked. |
 | Rendered source health | 2026-05-20T20:24:00Z | Partial | Public trail includes 1,708 rendered source entries / 1,502 unique URLs; 1,374 live, 113 blocked/forbidden, 6 timeouts, 9 network errors, 0 HTTP errors on a 15s timeout pass. Candidate-specific social/source records remain public; fake/dead/cross-candidate URLs are filtered or dropped. See source-health-2026-05-20.md/json and source-url-overrides.json. |
-| Public profile wording | 2026-05-20T22:25:47Z | Pass | Rebuilt all 81 v2 profiles with concise no-evidence issue text, Social / Online Observations labels, no Official / Reported Actions label, no first-person/internal process phrasing in rendered candidate data, and clean built-output scan for targeted leakage phrases. validateCandidateV2, TypeScript, and npm run build pass. |
+| Public profile wording | 2026-05-21T02:17:00Z | Pass | Removed public tool/process copy, changed issue expanders to See more, kept issue dossiers collapsed by default, moved Who They Are above issues, cleaned generated candidate data with public-copy sanitizer, and built-output scan returns 0 targeted leakage matches. |
+| Current UI screenshot QA | 2026-05-21T02:17:00Z | Pass | Captured desktop and mobile screenshots for home, candidates, elections, about, KS-01 election, Steven Jacob, Ken Brooks, Scott Schwab, and Steven Jacob sources from a root-domain static build. Screenshots are stored in memory/orchestration/ui-qa-2026-05-20-current/. |
 | UI/UX screenshot sweep | 2026-05-20T23:45:00Z | Pass | Captured 267 generated routes in mobile 390x844 and desktop 1440x1100 for 534 full-page screenshots; 0 capture failures. Archive is local at memory/orchestration/ui-screenshots-2026-05-20/after and intentionally not committed because it is approximately 254 MB. |
 | Mobile/desktop overflow QA | 2026-05-20T23:43:00Z | Pass | Checked 267 routes x 2 viewports with automated overflow/console scan; final result 0 failures after fixing mobile source-trail width constraints. See mobile-overflow-qa-2026-05-20.json. |
 | Public internal-text leak scan | 2026-05-20T23:46:00Z | Pass | Built output and active v2 data scanned clean for forbidden section labels, Preisser Tech, tpreisser.github.io, and targeted tool/process phrases including this environment, worker/orchestrator/compiler notes, and do-not-edit instructions. |
@@ -168,13 +169,14 @@ Phase 3: Profile Rebuild
 1. Run full manual professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor passes for all 81 rendered profiles after the automated relevance guard pass — editorial review agents — P0 — blocked by none
 2. Browser/manual verify the 128 blocked/timeout/network source-health exceptions that automated fetch could not prove live — source-tier-validator — P1 — blocked by browser/manual review time
 3. Rerun full build-validation-gatekeeper after editorial/legal/symmetry review — build-validation-gatekeeper — P1 — blocked by Phase 4 completion
-4. Resolve correction form delivery: retry FormSubmit from a normal browser/network, confirm recipient activation and old submissions, or replace FormSubmit with a provider/account under Preisser Solutions control if 522 persists — form-verification — P0 — blocked by provider/mailbox access
+4. Resolve correction form delivery: click the FormSubmit activation email sent to tyler@preissersolutions.com, then rerun the correction form submission test and review any old FormSubmit submissions — form-verification — P0 — blocked by mailbox access
 5. Perform full local official-record audit, starting with Allen Park, using USD 489 minutes/BoardDocs/agenda records before relying on reporting or social posts for action claims — record-writer — P0 — blocked by source review time
 6. Recheck Kansas SOS and Ellis County candidate filings after June 1, 2026 at noon and independent nominations after August 3, 2026 at noon; add any newly filed candidates found in official sources — local-race-auditor — P0 — blocked by filing deadlines
-7. Add/authorize DNS records for `electrighteous.com` and `www.electrighteous.com` pointing to `elect-righteous.pages.dev`, then retry Pages custom-domain validation — cloudflare-deploy-agent — P0 — blocked by DNS write permission
+7. Re-authenticate Wrangler with the Cloudflare profile/token that owns `electrighteous.com` and has DNS read/edit access, then add/authorize DNS records for `electrighteous.com` and `www.electrighteous.com` pointing to `elect-righteous.pages.dev` and retry Pages custom-domain validation — cloudflare-deploy-agent — P0 — blocked by DNS write permission/profile login
 8. Preview deploy completed for UI/UX commit 6ec977d and Cloudflare Pages root build is live at `https://elect-righteous.pages.dev/`; production custom domains still blocked by DNS/FormSubmit caveats — deploy agents — P1 — blocked by Cloudflare DNS write and form provider delivery
 
 ## Session Log (last 20 entries)
+- 2026-05-21T02:25:00Z ui-copy-auditor/ux-content-designer/mobile-qa-agent/form-verification Removed public internal/process wording from visible site copy and candidate data, changed issue expanders to See more, moved Who They Are above collapsed issue sections, shortened cards, refined donor/funding layout, fixed favicon assets, restored the desktop Preisser Solutions badge without mobile overlap, captured fresh desktop/mobile screenshots from a root-domain build, confirmed targeted public leak scan returns 0 matches, and verified FormSubmit is wired but blocked pending recipient activation.
 - 2026-05-20T20:38:00-05:00 cloudflare-deploy-agent Created Cloudflare Pages project `elect-righteous`, deployed a root-domain Wrangler build to `https://elect-righteous.pages.dev/`, added `electrighteous.com` and `www.electrighteous.com` as Pages custom domains, and documented that DNS record creation is blocked by OAuth token DNS permission failure.
 - 2026-05-20T23:58:00Z github-pages-deploy-agent/cloudflare-deploy-agent Verified GitHub Pages run 26196866000 succeeded for UI/UX commit 6ec977d and fetched public preview pages for the redesigned home, Roger Marshall dossier/source trail, elections index, State Treasurer race, and KS House District 110; production electrighteous.com still fails DNS resolution.
 - 2026-05-20T23:48:00Z ui-ux-redesign/mobile-qa-agent Completed full public UI/UX pass: redesigned home, candidate index, election pages, candidate dossiers, source trails, cards, header/footer, and correction form; added dossier metrics/source mix; cleaned public v2 data for internal process phrases; captured 267 routes in mobile and desktop screenshots; ran 534 viewport overflow checks with 0 final failures; TypeScript, V2 validation, YAML parse, inventory, static build, and leak scan passed.

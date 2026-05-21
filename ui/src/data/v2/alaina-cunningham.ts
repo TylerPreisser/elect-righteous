@@ -20,7 +20,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -50,7 +50,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -60,7 +60,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -111,7 +111,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -132,7 +132,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -142,7 +142,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -152,7 +152,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Public evidence: HaysMed Center for Health Improvement page: lists Alaina Cunningham under group fitness instructors. Source: https://www.haysmed.com/services/chi-what-we-offer/ Social/online observations are public signals, not confirmed policy positions.",
+        "text": "HaysMed Center for Health Improvement page: lists Alaina Cunningham under group fitness instructors. Source: https://www.haysmed.com/services/chi-what-we-offer/ ",
         "sourceIds": [
           "s-haysmed-chi"
         ]
@@ -175,7 +175,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Cunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the commission elected Mason Ruder mayor and Cunningham vice mayor when the governing body reorganized on January 8, 2026. (City of Hays, Hays Post) Tiger Media Network reported that she and Ruder were not on the 2025 city ballot, confirming she remaine... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Cunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the commission elected Mason Ruder mayor and Cunningham vice mayor when the governing body reorganized on January 8, 2026. (City of Hays, Hays Post) Tiger Media Network reported that she and Ruder were not on the 2025 city ballot, confirming she remaine... ",
         "sourceIds": [
           "s-hays-current-commission",
           "s-ellis-2026-filings",
@@ -272,7 +272,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Alaina works at HaysMed and serves on the HaysMed Foundation Board and Downtown Hays Development Corporation Board Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Alaina works at HaysMed and serves on the HaysMed Foundation Board and Downtown Hays Development Corporation Board ",
         "sourceIds": [
           "src-alaina-cunningham-0067"
         ]
@@ -293,7 +293,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate statement: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) ",
         "sourceIds": [
           "s-hayspost-qa-2023"
         ]
@@ -363,7 +363,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Water is one of her most direct issue signals. In the 2023 Q&A, she named a sustainable water source as a top challenge, praised local conservation, and said the R9 Ranch framework could give Hays a long-term supply. (Hays Post) In 2025 R9 coverage, her language sharpened: \"This is about sustainability and survival,\" she said, adding that without it, Hays does not survive. (Hays Post) ",
         "sourceIds": [
           "s-hayspost-qa-2023",
           "s-hays-current-commission",
@@ -449,7 +449,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipeline supply. Source: https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
+        "text": "Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipeline supply. Source: https://hayspost.com/posts/5552ce0e-bfbc-418e-addf-a4318ee25055",
         "sourceIds": [
           "s-hayspost-qa-2023"
         ]
@@ -468,7 +468,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Alaina Cunningham is profiled here for Hays Vice Mayor / City Commissioner as a nonpartisan incumbent/current official. Quality of life is usually framed through practical amenities rather than broad ideology. She has discussed parks, community center needs, retiree housing, youth retention, and resident-facing services. Hays Post quoted her on The Grove/community center issue... Primary source: https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 14 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: Cunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the commission elected Mason Ruder... Election integrity / voting / courts: Primary source: https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings. Election integrity / voting / courts: Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipelin... Election integrity / voting / courts: Hays Post candidate Q&A, October 25, 2023: Cunningham tied growth to housing shortage, diversified housing, developer incentives, workforce, youth retention, retiree needs, and a possible new community... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 14 public items across 5 of the 14 issue areas. Examples include: Election integrity / voting / courts: Cunningham's accessible public message is more civic-administrative than campaign-social. The City of Hays currently lists her as vice mayor, and local coverage says the commission elected Mason Ruder... Election integrity / voting / courts: Primary source: https://www.ellisco.net/DocumentCenter/View/5736/2026-Candidate-Filings. Election integrity / voting / courts: Hays Post candidate Q&A, October 25, 2023: Cunningham named securing a sustainable water source as one of the top issues, praised conservation, and described R9 as the framework for a long-term pipelin... Election integrity / voting / courts: Hays Post candidate Q&A, October 25, 2023: Cunningham tied growth to housing shortage, diversified housing, developer incentives, workforce, youth retention, retiree needs, and a possible new community... Public online activity is listed separately as context.",
   "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed public record. No policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "No clean online donor list, campaign-finance total, committee report, or itemized contribution record for Alaina Cunningham was located in reviewed public sources.",
@@ -477,7 +477,7 @@ export const ALAINA_CUNNINGHAM_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "17 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "17 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-hays-current-commission",

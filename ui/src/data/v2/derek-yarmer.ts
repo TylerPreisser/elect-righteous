@@ -20,7 +20,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public record: His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a... ",
         "sourceIds": [
           "s-hayspost-felten-2026",
           "s-hayspost-parent-rights-2025"
@@ -60,7 +60,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public record: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... ",
         "sourceIds": [
           "s-tigermedia-furniture-playground-2025",
           "s-ellis-2023-official-results",
@@ -120,7 +120,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -130,7 +130,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... ",
         "sourceIds": [
           "s-tigermedia-furniture-playground-2025",
           "s-hayspost-yarmer-bond-statement-2025",
@@ -180,7 +180,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -190,7 +190,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -200,7 +200,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -210,7 +210,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Public evidence: On education policy, Yarmer's public comments emphasize core academics, leaner operations, and skepticism of expansive school roles. During a 2025 discussion of special education funding and district spending, he said the district could \"work a little leaner,\" questioned whether requested items were needs, and said, \"I don't think money is the problem of the education system. I think we need to be better at doing wh... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On education policy, Yarmer's public comments emphasize core academics, leaner operations, and skepticism of expansive school roles. During a 2025 discussion of special education funding and district spending, he said the district could \"work a little leaner,\" questioned whether requested items were needs, and said, \"I don't think money is the problem of the education system. I think we need to be better at doing wh... ",
         "sourceIds": [
           "s-hayspost-sped-sel-2025",
           "s-pawnee-yarmer-ed-director"
@@ -243,7 +243,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... ",
         "sourceIds": [
           "s-tigermedia-furniture-playground-2025",
           "s-hayspost-admin-contracts-2024",
@@ -282,7 +282,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His public safety and facility comments are usually tied back to practical oversight. In 2026, he asked whether Felten Elementary plumbing had been scoped before bidding, saying it is good to know what a project involves before going into it. In Hays High bathroom and vandalism coverage, he said cameras outside bathrooms were not adequate for safety or security purposes. In asbestos-abatement coverage, he seconded a... ",
         "sourceIds": [
           "s-hayspost-felten-2026",
           "src-derek-yarmer-0046",
@@ -321,7 +321,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -331,7 +331,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His process critique is just as consistent as the spending critique. As a candidate, he said all school board meetings should be broadcast, agendas should be released at least a week in advance, and board members should be able to add items easily. As a board member, he repeatedly objected to receiving large purchase numbers and voting the same night. Tiger Media Network quoted him in 2025 saying, \"This would be an... ",
         "sourceIds": [
           "s-tigermedia-furniture-playground-2025",
           "s-hayspost-admin-contracts-2024",
@@ -408,7 +408,7 @@ export const DEREK_YARMER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],

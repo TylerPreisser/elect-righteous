@@ -20,7 +20,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -50,7 +50,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -60,7 +60,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: State of Kansas candidate-filing mirror: retrieved. Lists Stacy L. Rogers (R), Wichita, Governor & Lt. Governor, date filed 12/22/2025, filing method Fee, documents filed with State of Kansas. (source) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "State of Kansas candidate-filing mirror: retrieved. Lists Stacy L. Rogers (R), Wichita, Governor & Lt. Governor, date filed 12/22/2025, filing method Fee, documents filed with State of Kansas. (source) ",
         "sourceIds": [
           "s-candidatefiling-rogers",
           "s-campaign-home"
@@ -103,7 +103,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate statement: Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. (homepage source, Meet... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. (homepage source, Meet... ",
         "sourceIds": [
           "s-campaign-home",
           "src-stacy-rogers-0030",
@@ -184,7 +184,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -194,7 +194,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -204,7 +204,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -214,7 +214,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Rogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Rogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes the Rogers-Smith ticket as first to formally enter the 2026 governor's race and frames that as proof of readiness to lead, listen, and serve before better-known... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -274,7 +274,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -315,7 +315,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate statement: Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. (homepage source, Meet... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. (homepage source, Meet... ",
         "sourceIds": [
           "s-campaign-home",
           "src-stacy-rogers-0030"
@@ -394,7 +394,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. (homepage source, Meet... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports fair wages, job training, and incentives for local and small businesses. Her site also emphasizes rural Kansas, agriculture, and homegrown business over investor-driven development. (homepage source, Meet... ",
         "sourceIds": [
           "s-campaign-home",
           "src-stacy-rogers-0030",
@@ -483,7 +483,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: The SOS candidate-list page itself (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript/captcha block during public-source review. A county election-office page for Johnson County lists \"Stacy L. Rogers / Michael W. Smith\" for Governor / Lieutenant Governor of Kansas, party Republican, incumbent No, office level State Offices, term four years. (Johnson County Election Office) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The SOS candidate-list page itself (https://www.sos.ks.gov/elections/elections_upcoming_candidate.aspx) returned a JavaScript/captcha block during public-source review. A county election-office page for Johnson County lists \"Stacy L. Rogers / Michael W. Smith\" for Governor / Lieutenant Governor of Kansas, party Republican, incumbent No, office level State Offices, term four years. (Johnson County Election Office) ",
         "sourceIds": [
           "s-sos-candidate-list-blocked",
           "s-campaign-home"
@@ -511,7 +511,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Stacy Rogers is profiled here for Governor candidate as a Republican. Rogers' public campaign identity is built around outsider, grassroots, and \"people over politics\" messaging. Her homepage opens with \"People Over Politics. Kansas First.\" and says she wants a stronger future for every Kansas community. The campaign describes... The strongest recurring theme is that Kansans need a voice against insiders and special interests. In the campaign's announcement language, Rogers says she has not been afraid to \"step out, speak up, and lead,\" and that Kansas deserves leaders who stand with... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 15 source-backed items across 6 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: State of Kansas candidate-filing mirror: retrieved. Lists Stacy L. Rogers (R), Wichita, Governor & Lt. Governor, date filed 12/22/2025, filing method Fee, documents filed with State of Kansas. (source). Economy / jobs / labor: Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports... Economy / jobs / labor: Rogers' business identity remains mixed into her public footprint. Local indexed social mirrors show Mary Kay, Eberly Farm, and Kids Closet Connection posts adjacent to campaign links, including a Nov. 7, 2024 post... Economy / jobs / labor: KCUR summarized Rogers as a Wichita business owner and reported her statement that a first-day executive order would review each department for inefficiencies, mishandling, and fraud. (KCUR). Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 15 public items across 6 of the 14 issue areas. Examples include: Taxes / spending / debt: State of Kansas candidate-filing mirror: retrieved. Lists Stacy L. Rogers (R), Wichita, Governor & Lt. Governor, date filed 12/22/2025, filing method Fee, documents filed with State of Kansas. (source). Economy / jobs / labor: Economic messaging usually comes through small-business and local-control language. The homepage says she wants policies that uplift hardworking Kansans and protect life, while the Meet Stacy page says she supports... Economy / jobs / labor: Rogers' business identity remains mixed into her public footprint. Local indexed social mirrors show Mary Kay, Eberly Farm, and Kids Closet Connection posts adjacent to campaign links, including a Nov. 7, 2024 post... Economy / jobs / labor: KCUR summarized Rogers as a Wichita business owner and reported her statement that a first-day executive order would review each department for inefficiencies, mishandling, and fraud. (KCUR). Public online activity is listed separately as context.",
   "ownWordsNarrative": "Social research is presence-limited. Campaign website and Linktree are candidate-controlled; several native platforms are login/script-limited. No issue position is inferred from follows, likes, associations, platform choice, faith language, or party label.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Rogers uses Christian language in her public presentation, including describing herself as a \"Child of God,\" but the available record does not name a congregation, denomination, or church website.",
   "campaignFinance": {
@@ -558,7 +558,7 @@ export const STACY_ROGERS_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "KPDC/SOS 2026 Statewide Campaign Finance Index"
   },
-  "socialResearchNote": "20 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "20 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-sos-candidate-list-blocked",

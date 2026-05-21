@@ -350,7 +350,7 @@ function fixedIssueMatrix(candidate, rows) {
       return {
         issueNumber,
         title,
-        summary: `No relevant public evidence was found for ${title} after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory for this missing-roster pass.`,
+        summary: `No sourced position or public action was found for ${title} after searching official filing records, KPDC/FEC sources where applicable, candidate-controlled pages, news coverage, public social/search results, and existing repo memory.`,
         evidenceItems: [],
         socialSignals: [],
         sourceCoverage: { primary: 0, secondary: 0, social: 0, internalMemory: 0, publicUrlRows: 0 },
@@ -395,7 +395,7 @@ function socialMatrix(candidate) {
       actionType: "public absence",
       target: "candidate-controlled follows, likes, comments, or posts",
       date: ACCESS_DATE,
-      exactContentOrDescription: "This missing-roster pass did not find reliable candidate-controlled social follows, likes, comments, or posts that could be attributed cleanly and mapped as social signals. Candidate websites, public news statements, KPDC/FEC/SOS records, and official pages were prioritized.",
+      exactContentOrDescription: "No reliable candidate-controlled social follows, likes, comments, or posts were found that could be attributed cleanly and mapped as social signals. Candidate websites, public news statements, KPDC/FEC/SOS records, and official pages were prioritized.",
       issueMappedTo: [],
       signalStrength: "ambiguous",
       caveat: "Absence of harvested social interactions is not evidence of belief. Do not infer private views from this absence.",
@@ -441,13 +441,13 @@ function writeCandidate(candidate) {
 
   const sourceList = candidate.sources.map((item) => `- ${item.id}: ${item.title} (${item.url})`).join("\n");
   const evidenceList = rows.map((row) => `- Issue ${row.issueMappedTo[0]}: ${row.claim} [${row.sourceIds.join(", ")}]`).join("\n");
-  const socialText = `No reliable candidate-controlled social follows, likes, comments, or posts were harvested for ${candidate.name} in this missing-roster pass. Public social evidence remains a signal layer only; none is used as a confirmed policy position.`;
+  const socialText = `No reliable candidate-controlled social follows, likes, comments, or posts were found for ${candidate.name}. Public social evidence remains a signal layer only; none is used as a confirmed policy position.`;
 
   writeFileSync(join(dir, "raw-dump-v2.md"), `# ${candidate.name} - Missing-Roster Research Dump\n\nGenerated: ${ACCESS_DATE}\n\n## Roster Status\n${candidate.status}\n\n## Sources Checked\n${sourceList}\n\n## Extracted Evidence\n${evidenceList}\n\n## Research Caveat\nThis candidate was added in response to the May 20, 2026 missing-candidate audit. The profile includes every source-backed item found in this pass and explicitly caveats thin areas instead of inferring beliefs.\n`);
   writeFileSync(join(dir, "raw-dump.md"), `# ${candidate.name} - Raw Dump\n\nSee raw-dump-v2.md. This folder was created during the May 20, 2026 missing-candidate audit.\n`);
   writeFileSync(join(dir, "sleuth-pass.md"), `# ${candidate.name} - Sleuth Pass\n\n## Summary\n${candidate.whoTheyAre}\n\n## Record\n${candidate.recordSummary}\n\n## Source-backed evidence\n${evidenceList}\n`);
   writeFileSync(join(dir, "social-harvest.md"), `# ${candidate.name} - Social Harvest\n\n${socialText}\n\n## Sources prioritized\n${sourceList}\n`);
-  writeFileSync(join(dir, "in-their-own-words.md"), `# ${candidate.name} - In Their Own Words Source Extraction\n\nDirect candidate statements, campaign statements, or quoted comments found in this pass are folded into the issue matrix rather than rendered as a standalone section.\n\n${evidenceList}\n`);
+  writeFileSync(join(dir, "candidate-statements.md"), `# ${candidate.name} - Candidate Statement Source Extraction\n\nDirect candidate statements, campaign statements, or quoted comments are folded into the issue matrix rather than rendered as a standalone section.\n\n${evidenceList}\n`);
   writeFileSync(join(dir, "site-profile.md"), `# ${candidate.name}\n\n## Who They Are\n${candidate.whoTheyAre}\n\n## Their Record\n${candidate.recordSummary}\n`);
   writeFileSync(join(dir, "evidence-matrix-raw.json"), JSON.stringify(rows, null, 2));
   writeFileSync(join(dir, "evidence-matrix.json"), JSON.stringify(rows, null, 2));
@@ -472,7 +472,7 @@ function writeCandidate(candidate) {
       campaignWebsite: candidate.campaignWebsite || undefined,
       whoTheyAre: candidate.whoTheyAre,
       recordSummary: candidate.recordSummary,
-      whereTheyWorship: "No direct public evidence of a current worship community was found in this missing-roster pass. No faith-based policy inference is made.",
+      whereTheyWorship: "No direct public evidence of a current worship community was found. No faith-based policy inference is made.",
       social_presence_note: socialText,
     },
     sources: candidate.sources,
@@ -496,10 +496,10 @@ function writeCandidate(candidate) {
       },
     ],
     campaign_finance: {
-      totalRaised: "Not itemized in the reviewed public records for this missing-roster pass",
+      totalRaised: "Not itemized in reviewed public records",
       narrative: candidate.sources.some((item) => item.url.includes("kansas.gov/ethics"))
         ? "Campaign-finance status is limited to the linked KPDC/FEC/official filing records reviewed in this pass. Donor-by-donor interpretation is not inferred beyond public reports."
-        : "No itemized campaign-finance filing was found in this missing-roster pass.",
+        : "No itemized campaign-finance filing was found.",
       donors: [],
       reportingPeriod: "Most recent public record reviewed on 2026-05-20",
       source: candidate.sources[0]?.title ?? "Missing-roster source set",

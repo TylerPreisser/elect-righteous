@@ -24,7 +24,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -34,7 +34,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public record: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's spor... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's spor... ",
         "sourceIds": [
           "s-campaign-issues"
         ]
@@ -55,7 +55,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public record: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's spor... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low fourth-grade proficiency and promising higher pay for \"good teachers,\" parental say, and accountability. (source) The biography page says he fought DEI in higher education, transgender participation in women's spor... ",
         "sourceIds": [
           "s-campaign-issues",
           "s-ksleg-profile"
@@ -126,7 +126,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Public evidence: Church website: newspring.org Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Church website: newspring.org ",
         "sourceIds": [
           "src-ty-masterson-0035",
           "src-ty-masterson-0036"
@@ -150,7 +150,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... ",
         "sourceIds": [
           "s-campaign-issues",
           "s-campaign-home",
@@ -246,7 +246,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... ",
         "sourceIds": [
           "s-campaign-issues",
           "s-campaign-home"
@@ -325,7 +325,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented public record: Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. (source) The campaign biography condenses that record into the claim that he delivered... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation limits, school-device and social-media rules, citizen voting, gun rights, housing permitting, and Charlie Kirk Free Speech Day. (source) The campaign biography condenses that record into the claim that he delivered... ",
         "sourceIds": [
           "s-ksleg-profile"
         ]
@@ -383,7 +383,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public record: The reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind Masterson through Take Back Kansas and Take Back Kansas Action. (source) In the X sample, Masterson wrote, \"I stand with ICE and with President Trump!\" (source) and said President Trump's affordabilit... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The reviewed campaign and social material also shows a deliberate Trump-alignment strategy. Washington Examiner reported on November 11, 2025, that Trump 2024 orbit consultants and outside groups were organizing behind Masterson through Take Back Kansas and Take Back Kansas Action. (source) In the X sample, Masterson wrote, \"I stand with ICE and with President Trump!\" (source) and said President Trump's affordabilit... ",
         "sourceIds": [
           "s-washington-examiner-masterson-2025"
         ]
@@ -415,7 +415,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -425,7 +425,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... ",
         "sourceIds": [
           "s-campaign-issues",
           "s-campaign-home",
@@ -520,7 +520,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Public evidence: His public safety message is direct and enforcement-oriented. The campaign site says Kansas ranks behind \"liberal crime havens\" for violent crime and that he would stand with law enforcement, back tough-on-crime policies, and fund police. (source) On X, he thanked Kansas law enforcement officers and used #BackTheBlue (source). In endorsement posts, he praised senators for law-enforcement training, drug-trafficking p... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His public safety message is direct and enforcement-oriented. The campaign site says Kansas ranks behind \"liberal crime havens\" for violent crime and that he would stand with law enforcement, back tough-on-crime policies, and fund police. (source) On X, he thanked Kansas law enforcement officers and used #BackTheBlue (source). In endorsement posts, he praised senators for law-enforcement training, drug-trafficking p... ",
         "sourceIds": [
           "s-campaign-issues"
         ]
@@ -563,7 +563,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -573,7 +573,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax burden\" and that, as governor, he would keep cutting taxes until Kansas is one of the most affordable states to work and raise a family. (source) In a January 2... ",
         "sourceIds": [
           "s-campaign-issues",
           "s-campaign-home",
@@ -679,7 +679,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -687,7 +687,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Ty Masterson is profiled here for Governor candidate as a Republican. Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaign site says Kansas has the \"16th highest tax... His campaign message pairs that tax frame with a broader \"Take Back Kansas\" argument. On the campaign homepage, Masterson says Kansas promised safe communities, low cost of living, and a shot at the American Dream, but that \"liberal Democrats\" and Laura Kelly... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 27 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low f... Education / curriculum / schools: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low... Education / curriculum / schools: Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation l... Taxes / spending / debt: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaig... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 27 public items across 8 of the 14 issue areas. Examples include: LGBT / gender / parental rights: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low f... Education / curriculum / schools: Education and culture-war content is the second major signal, with 7 of 31 items, or 23 percent of the sample. The campaign site labels one plank \"Teach reading. Teach math. Not woke nonsense,\" citing low... Education / curriculum / schools: Masterson's official legislative record reinforces the campaign themes. The Kansas Legislature profile lists him as Senate president and shows sponsored or co-sponsored measures on property-tax valuation l... Taxes / spending / debt: Across the 31-item captured sample, Masterson's largest visible category is taxes, property-tax relief, affordability, housing, jobs, and business regulation, with 8 items, or 26 percent of the harvest. The campaig... Public online activity is listed separately as context.",
   "whereTheyWorship": "Public sources identify Masterson with NewSpring Church in Wichita, and the church website is https://www.newspring.org/. His campaign biography and faith language make religion a visible part of his public identity rather than a private background detail.",
   "campaignFinance": {
     "totalRaised": "$695,998.16 in total contributions and other receipts",
@@ -697,7 +697,7 @@ export const TY_MASTERSON_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Receipts and Expenditures Report - Ty Masterson 202601"
   },
-  "socialResearchNote": "26 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "26 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-ksleg-profile",

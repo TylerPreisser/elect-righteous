@@ -23,7 +23,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -33,7 +33,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -43,7 +43,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public record: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a worl... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a worl... ",
         "sourceIds": [
           "src-erik-murray-0022"
         ]
@@ -105,7 +105,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -115,7 +115,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: politician-created problems - same coverage, https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ (tariffs and tax policy critique) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "politician-created problems - same coverage, https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ (tariffs and tax policy critique) ",
         "sourceIds": [
           "s-kansas-reflector-profile"
         ]
@@ -136,7 +136,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -187,7 +187,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -197,7 +197,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -207,7 +207,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -258,7 +258,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a worl... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a worl... ",
         "sourceIds": [
           "src-erik-murray-0022"
         ]
@@ -310,7 +310,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Kansas Reflector - Campaign Profile (Mar 2026) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Kansas Reflector - Campaign Profile (Mar 2026) ",
         "sourceIds": [
           "s-kansas-reflector-profile",
           "src-erik-murray-0053"
@@ -348,7 +348,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -369,7 +369,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a worl... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leaving the community of Wyandotte behind.\" (source) In an April 19 education post, he wrote, \"Thank you Sumner Academy for giving me, my parents and my kids a worl... ",
         "sourceIds": [
           "src-erik-murray-0022"
         ]
@@ -431,7 +431,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -439,7 +439,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Erik Murray is profiled here for U.S. Senate, Kansas as a Democratic. Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium negotiations, Murray said, \"What we are opposed to is leav... | s-ks-sos-dates | primary | https://sos.ks.gov/elections/important-election-dates.html | accessed 2026-05-19 | 2026 Kansas primary and general election dates | election dates |. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 7 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium nego... Taxes / spending / debt: politician-created problems - same coverage, https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ (tariffs and tax policy critique). Election integrity / voting / courts: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium... Public safety / law enforcement / criminal justice: Kansas Reflector - Campaign Profile (Mar 2026). Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 7 public items across 5 of the 14 issue areas. Examples include: Education / curriculum / schools: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium nego... Taxes / spending / debt: politician-created problems - same coverage, https://kansasreflector.com/2026/03/16/kansas-city-entrepreneur-prioritizes-passion-decency-in-campaign-for-u-s-senate/ (tariffs and tax policy critique). Election integrity / voting / courts: Local-district engagement centers on Kansas City, Kansas, Wyandotte County, Sumner Academy, and the Indian Springs Mall redevelopment record. In a March 12 campaign press release on the Chiefs stadium... Public safety / law enforcement / criminal justice: Kansas Reflector - Campaign Profile (Mar 2026). Public online activity is listed separately as context.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. His public background includes childhood ties to Fellowship Christian Church and schooling at St. Patrick's Catholic School, but the available record does not identify a present-day congregation.",
   "campaignFinance": {
     "totalRaised": "$179,817.62",
@@ -449,7 +449,7 @@ export const ERIK_MURRAY_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-11-23 to 2026-03-31",
     "source": "MURRAY, ERIK - Candidate overview"
   },
-  "socialResearchNote": "20 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "20 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-fec-candidate",

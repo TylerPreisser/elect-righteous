@@ -1,0 +1,10 @@
+{
+  "testedAt": "2026-05-20T21:15:00-05:00",
+  "method": "POST https://formsubmit.co/ajax/tyler@preissersolutions.com with Origin and Referer from http://localhost:4173",
+  "result": "blocked_by_formsubmit_activation",
+  "response": {
+    "success": "false",
+    "message": "This form needs Activation. We've sent you an email containing an 'Activate Form' link. Just click it and your form will be actived!"
+  },
+  "actionNeeded": "Open the FormSubmit activation email sent to tyler@preissersolutions.com and click Activate Form; then rerun the test."
+}

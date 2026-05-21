@@ -19,7 +19,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate statement: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school student and across his years as a principal, and that principals would prefer not to monitor bathrooms but still have to. (Hays Post) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school student and across his years as a principal, and that principals would prefer not to monitor bathrooms but still have to. (Hays Post) ",
         "sourceIds": [
           "s-hayspost-2026-bathrooms",
           "s-hayspost-2023-mascot"
@@ -82,7 +82,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate statement: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school student and across his years as a principal, and that principals would prefer not to monitor bathrooms but still have to. (Hays Post) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school student and across his years as a principal, and that principals would prefer not to monitor bathrooms but still have to. (Hays Post) ",
         "sourceIds": [
           "s-hayspost-2026-bathrooms",
           "src-craig-pallister-0002",
@@ -188,7 +188,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -198,7 +198,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: On budget and funding, Pallister frames the work as continuous planning rather than a single annual decision. In 2025, he said budget work begins at the board meeting after the prior budget is set and continues through the year through salaries, in-service, and other planning. In 2019, he said financial health required lobbying the Kansas Legislature, governor, and public to adequately fund K-12 public education. Hi... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On budget and funding, Pallister frames the work as continuous planning rather than a single annual decision. In 2025, he said budget work begins at the board meeting after the prior budget is set and continues through the year through salaries, in-service, and other planning. In 2019, he said financial health required lobbying the Kansas Legislature, governor, and public to adequately fund K-12 public education. Hi... ",
         "sourceIds": [
           "s-hayspost-2025-q-and-a"
         ]
@@ -240,7 +240,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -250,7 +250,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -260,7 +260,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -270,7 +270,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate statement: On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse and said the district still needed to watch COVID numbers. (USD 489/Hays Post, Apr. 13, 2021) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse and said the district still needed to watch COVID numbers. (USD 489/Hays Post, Apr. 13, 2021) ",
         "sourceIds": [
           "src-craig-pallister-0002",
           "s-hayspost-2025-q-and-a",
@@ -338,7 +338,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Pallister's staff message is pro-retention and pro-administration. In 2023, he said USD 489 had strong district administrators and building principals and that retaining outstanding administrators was key to improvement and consistency. His 2025 sponsored announcement said the next focus after facility completion should be hiring and retaining strong teachers and staff, with competitive pay and benefits for teachers... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Pallister's staff message is pro-retention and pro-administration. In 2023, he said USD 489 had strong district administrators and building principals and that retaining outstanding administrators was key to improvement and consistency. His 2025 sponsored announcement said the next focus after facility completion should be hiring and retaining strong teachers and staff, with competitive pay and benefits for teachers... ",
         "sourceIds": [
           "s-hayspost-2023-q-and-a",
           "s-hayspost-2025-sponsored",
@@ -417,7 +417,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: 3 veterans elected to Hays USD 489 school board Social/online observations are public signals, not confirmed policy positions.",
+        "text": "3 veterans elected to Hays USD 489 school board ",
         "sourceIds": [
           "s-hayspost-2025-election-night",
           "src-craig-pallister-0024"
@@ -447,7 +447,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -457,7 +457,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse and said the district still needed to watch COVID numbers. (USD 489/Hays Post, Apr. 13, 2021) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse and said the district still needed to watch COVID numbers. (USD 489/Hays Post, Apr. 13, 2021) ",
         "sourceIds": [
           "src-craig-pallister-0002",
           "src-craig-pallister-0008",
@@ -553,7 +553,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -561,7 +561,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Craig Pallister is profiled here for USD 489 Board Member as a nonpartisan incumbent/current official. On COVID-era operations, Pallister supported easing some mask restrictions in April 2021 while continuing to monitor COVID numbers. He pointed to support from a HaysMed doctor and USD 489's lead nurse and called the plan a compromise. (USD 489/Hays Post). On the Hays High/Hays Middle mascot debate, Hays Post reported on February 22, 2023, that Pallister supported keeping the Hays High Indians mascot after hearing community pride, supported eliminating racist or hurtful images, and did not support expanding the... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 24 source-backed items across 7 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school... Education / curriculum / schools: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-schoo... Education / curriculum / schools: On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse a... Education / curriculum / schools: USD 489/Hays Post 2021 facility needs article: Pallister says deferred capital outlay list had grown and district had not moved far enough on facility improvement. (source). Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 24 public items across 7 of the 14 issue areas. Examples include: LGBT / gender / parental rights: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-school... Education / curriculum / schools: On school bathroom and vandalism discussions, his visible remarks came from a principal's perspective. In April 2026, Hays Post reported that Pallister said bathroom issues existed when he was a high-schoo... Education / curriculum / schools: On COVID-era operations, Pallister supported the April 2021 compromise that eased some mask restrictions while keeping monitoring in place. He noted support from a HaysMed doctor and USD 489's lead nurse a... Education / curriculum / schools: USD 489/Hays Post 2021 facility needs article: Pallister says deferred capital outlay list had grown and district had not moved far enough on facility improvement. (source). Public online activity is listed separately as context.",
   "whereTheyWorship": "The reviewed public record did not identify a public record that reliably identifies Craig Pallister's current church home. Because the public record is thin here, No church is named a church without a direct source. The reviewed public record did not identify a public record that reliably identifies Pallister's current church home. No church affiliation is assigned without a direct source. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
@@ -570,7 +570,7 @@ export const CRAIG_PALLISTER_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Hays USD 489 BOE candidate: Craig Pallister"
   },
-  "socialResearchNote": "17 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "17 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-usd489-diligent-members",

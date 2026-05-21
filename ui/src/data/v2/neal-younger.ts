@@ -19,7 +19,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate statement: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... ",
         "sourceIds": [
           "s-hayspost-candidate-2020"
         ]
@@ -99,7 +99,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Public evidence: Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current campaign website, no long-form post-2020 platform page, no public church-affiliation statement by Younger, and no reliable campaign finance table. The official... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current campaign website, no long-form post-2020 platform page, no public church-affiliation statement by Younger, and no reliable campaign finance table. The official... ",
         "sourceIds": [
           "s-ellis-election-results-page"
         ]
@@ -122,7 +122,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate statement: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said the county should keep people involved in meetings. By 2025, during debate over the 2026 budget, he defended high spending as tied to core county services including ambulance, road and bridge, noxious w... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said the county should keep people involved in meetings. By 2025, during debate over the 2026 budget, he defended high spending as tied to core county services including ambulance, road and bridge, noxious w... ",
         "sourceIds": [
           "s-hayspost-candidate-2020",
           "s-hayspost-budget-tentative-2025",
@@ -220,7 +220,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate statement: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... ",
         "sourceIds": [
           "s-hayspost-candidate-2020"
         ]
@@ -241,7 +241,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -251,7 +251,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -261,7 +261,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate statement: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said the county should keep people involved in meetings. By 2025, during debate over the 2026 budget, he defended high spending as tied to core county services including ambulance, road and bridge, noxious w... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said the county should keep people involved in meetings. By 2025, during debate over the 2026 budget, he defended high spending as tied to core county services including ambulance, road and bridge, noxious w... ",
         "sourceIds": [
           "s-hayspost-candidate-2020",
           "s-hayspost-budget-tentative-2025",
@@ -342,7 +342,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Neal Younger's public messaging footprint is unusually small for an incumbent elected official. No verified campaign website or candidate-controlled social account was found, and the strongest first-person source remains his July 30, 2020 Hays Post candidate questionnaire. In that questionnaire, he presented himself as a tradesman and practical county-government candidate: an electrician and plumber with constructio... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Neal Younger's public messaging footprint is unusually small for an incumbent elected official. No verified campaign website or candidate-controlled social account was found, and the strongest first-person source remains his July 30, 2020 Hays Post candidate questionnaire. In that questionnaire, he presented himself as a tradesman and practical county-government candidate: an electrician and plumber with constructio... ",
         "sourceIds": [
           "s-hayspost-candidate-2020",
           "s-ellis-commission-page",
@@ -426,7 +426,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: His clearest later budget message came in the mental-health funding debate. Hays Post reported in July 2025 that Younger supported the requested High Plains Mental Health increase because it was less expensive than building a new jail. That framing tied county spending to cost avoidance and public safety rather than to a standalone service expansion. The county's March 17, 2026 minutes also recorded that, as commiss... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His clearest later budget message came in the mental-health funding debate. Hays Post reported in July 2025 that Younger supported the requested High Plains Mental Health increase because it was less expensive than building a new jail. That framing tied county spending to cost avoidance and public safety rather than to a standalone service expansion. The county's March 17, 2026 minutes also recorded that, as commiss... ",
         "sourceIds": [
           "s-hayspost-budget-tentative-2025",
           "s-ellis-commission-page",
@@ -485,7 +485,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate statement: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he supported Commerce Parkway access as a useful route to the new school, I-70, north Hays, and future development. In 2025 and 2026 housing and water discussions, he asked practical questions about traffic signals, rural w... ",
         "sourceIds": [
           "s-hayspost-candidate-2020",
           "s-minutes-04082026"
@@ -546,7 +546,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said the county should keep people involved in meetings. By 2025, during debate over the 2026 budget, he defended high spending as tied to core county services including ambulance, road and bridge, noxious w... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and said the county should keep people involved in meetings. By 2025, during debate over the 2026 budget, he defended high spending as tied to core county services including ambulance, road and bridge, noxious w... ",
         "sourceIds": [
           "s-hayspost-candidate-2020",
           "s-hayspost-budget-tentative-2025"
@@ -649,7 +649,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: March 17, 2026 official minutes: Chair Neal Younger called the regular meeting to order; county commissioner report says he attended a weather spotting meeting and a High Plains Mental Health fundraiser. Social/online observations are public signals, not confirmed policy positions.",
+        "text": "March 17, 2026 official minutes: Chair Neal Younger called the regular meeting to order; county commissioner report says he attended a weather spotting meeting and a High Plains Mental Health fundraiser. ",
         "sourceIds": [
           "s-minutes-03172026"
         ]
@@ -668,7 +668,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Neal Younger is profiled here for Ellis County Commissioner, District 2; current officeholder not on the 2026 county filing PDF as a Republican incumbent/current official. Neal Younger's public messaging footprint is unusually small for an incumbent elected official. No verified campaign website or candidate-controlled social account was found, and the strongest first-person source remains his July 30, 2020 Hays Post candidate... Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 30 source-backed items across 9 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he suppor... Education / curriculum / schools: Communication and public involvement are also recurring. Younger said in 2020 that city commissioners should attend county meetings and county commissioners should attend city meetings. He said he would ta... Taxes / spending / debt: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and sa... Taxes / spending / debt: His clearest later budget message came in the mental-health funding debate. Hays Post reported in July 2025 that Younger supported the requested High Plains Mental Health increase because it was less expensive than... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 30 public items across 9 of the 14 issue areas. Examples include: Education / curriculum / schools: Roads, water, housing, and development form the second major pattern. In 2020, Younger said the county should work with Hays on water and \"higher-paying jobs.\" In 2024 joint city-county coverage, he suppor... Education / curriculum / schools: Communication and public involvement are also recurring. Younger said in 2020 that city commissioners should attend county meetings and county commissioners should attend city meetings. He said he would ta... Taxes / spending / debt: The most consistent theme is county spending, but his record reads as fiscal pragmatism rather than simple budget cutting. In 2020, he identified \"Ellis County spending too much money\" as a top voter concern and sa... Taxes / spending / debt: His clearest later budget message came in the mental-health funding debate. Hays Post reported in July 2025 that Younger supported the requested High Plains Mental Health increase because it was less expensive than... Public online activity is listed separately as context.",
   "whereTheyWorship": "Visible absences matter for this profile. The harvest found no verified candidate-controlled Facebook, Instagram, X/Twitter, Bluesky, TikTok, Threads, LinkedIn, YouTube, Truth Social, Gab, Gettr, Substack, or Reddit account. It also found no verified current... No public church or denomination record was located for Neal Younger in the source set reviewed in the reviewed public record. No affiliation is claimed one here. The review did not verify a public church affiliation for Neal Younger in the reviewed public record. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
@@ -678,7 +678,7 @@ export const NEAL_YOUNGER_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Reviewed public records"
   },
-  "socialResearchNote": "22 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "22 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-ellis-commission-page",

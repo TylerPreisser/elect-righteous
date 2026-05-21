@@ -19,7 +19,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -49,7 +49,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Public evidence: Public evidence points strongly toward St. Nicholas of Myra Catholic Church in Hays, but The reviewed public record did not identify a direct statement from Leiker himself confirming parish membership. The strongest source is the family-obituary trail tied to the Leiker name and St. Nicholas: https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/. This is treated as a strong indicator rather than a hard c... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Public evidence points strongly toward St. Nicholas of Myra Catholic Church in Hays, but The reviewed public record did not identify a direct statement from Leiker himself confirming parish membership. The strongest source is the family-obituary trail tied to the Leiker name and St. Nicholas: https://salinadiocese.org/parish/st-nicholas-of-myra-parish-hays/. This is treated as a strong indicator rather than a hard c... ",
         "sourceIds": [
           "src-nathan-leiker-0041",
           "src-nathan-leiker-0044"
@@ -62,7 +62,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: The clearest platform document is his Hays Post candidate Q&A. There, Leiker argued for keeping the county sales tax and making it permanent before sunset, but tying those dollars to infrastructure and large capital improvements. He said county voters worry about where their money is going, and he connected transparency to visible evidence of roads, bridges, and public work actually getting done. Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The clearest platform document is his Hays Post candidate Q&A. There, Leiker argued for keeping the county sales tax and making it permanent before sunset, but tying those dollars to infrastructure and large capital improvements. He said county voters worry about where their money is going, and he connected transparency to visible evidence of roads, bridges, and public work actually getting done. ",
         "sourceIds": [
           "s-hayspost-leiker-qa-2022",
           "src-nathan-leiker-0052",
@@ -169,7 +169,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain infrastructure. At an August 2024 joint city-county meeting, he called the Vineyard Road discussion a forward-looking project and said Hays was clearly developing north of I-70, according to Hays Post. But... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain infrastructure. At an August 2024 joint city-county meeting, he called the Vineyard Road discussion a forward-looking project and said Hays was clearly developing north of I-70, according to Hays Post. But... ",
         "sourceIds": [
           "src-nathan-leiker-0052",
           "s-ingrams-leiker-2021",
@@ -230,7 +230,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -240,7 +240,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -250,7 +250,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... ",
         "sourceIds": [
           "s-ingrams-leiker-2021",
           "s-hayspost-salary-2026"
@@ -293,7 +293,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. ",
         "sourceIds": [
           "s-hayspost-leiker-announcement-2022",
           "s-hayspost-leiker-qa-2022",
@@ -399,7 +399,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His agriculture messaging predates county office and reinforces the same practical tone. In Ingram's 2021 profile, Leiker described L5 Farms as part of a fifth-generation farm in Ellis County and talked about direct producer-consumer relationships after COVID exposed the fragility of food-supply relationships. In a 2023 MyAnIML case study, he framed cattle-health technology in terms of labor limits, earlier treatmen... ",
         "sourceIds": [
           "s-ingrams-leiker-2021",
           "s-hayspost-salary-2026",
@@ -447,7 +447,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate statement: Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... ",
         "sourceIds": [
           "s-hayspost-2022-canvass",
           "s-ellis-commission-page",
@@ -543,7 +543,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Infrastructure is the dominant through-line. After the 2022 canvass, he said he wanted increased focus on roads, bridges, and the infrastructure needed to grow the county, according to Hays Post. In 2024, when Ellis County discussed rural road maintenance, he said the county had promoted subdivision growth without growing public works capacity to handle the added residents, as reported by Hays Post. In 2025, he sugg... ",
         "sourceIds": [
           "s-hayspost-2022-canvass",
           "s-ellis-commission-page",
@@ -650,7 +650,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the county. He described himself as proud to be from Ellis County and ready to serve it. ",
         "sourceIds": [
           "s-hayspost-leiker-announcement-2022",
           "src-nathan-leiker-0007",
@@ -698,7 +698,7 @@ export const NATHAN_LEIKER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Nathan Leiker is profiled here for Current Ellis County Commissioner, District 3; not listed in the current 2026 county filing PDF as a Republican incumbent/current official. His 2022 campaign language presented him as a local farm-and-ranch operator with zoning, Extension, oil-field, and rural-fire experience. In his campaign announcement, he credited his family and said he had worked in positions that took him throughout the cou... The clearest platform document is his Hays Post candidate Q&A. There, Leiker argued for keeping the county sales tax and making it permanent before sunset, but tying those dollars to infrastructure and large capital improvements. He said county voters worry a... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 35 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: The clearest platform document is his Hays Post candidate Q&A. There, Leiker argued for keeping the county sales tax and making it permanent before sunset, but tying those dollars to infrastructure and large capita... Taxes / spending / debt: Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain i... Taxes / spending / debt: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07082025-683 — July 8, 2025 minutes (\"County government is a service industry\" quote; 2026 mill levy discussion). Taxes / spending / debt: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_08052025-689 — August 5, 2025 minutes (Big Creek RHID hearing-set 2025-13, full 2026 budget proposals). Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 35 public items across 8 of the 14 issue areas. Examples include: Taxes / spending / debt: The clearest platform document is his Hays Post candidate Q&A. There, Leiker argued for keeping the county sales tax and making it permanent before sunset, but tying those dollars to infrastructure and large capita... Taxes / spending / debt: Leiker's development message is pro-growth but bounded by planning and infrastructure capacity. In the candidate Q&A, he said the county should recruit business by keeping taxes stable and showing it can maintain i... Taxes / spending / debt: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_07082025-683 — July 8, 2025 minutes (\"County government is a service industry\" quote; 2026 mill levy discussion). Taxes / spending / debt: https://www.ellisco.net/AgendaCenter/ViewFile/Minutes/_08052025-689 — August 5, 2025 minutes (Big Creek RHID hearing-set 2025-13, full 2026 budget proposals). Public online activity is listed separately as context.",
   "whereTheyWorship": "No confirmed current church affiliation surfaced in public sources. Prior research points strongly to Catholic background through TMP-Marian and family ties, but current parish membership is not verified and should not be stated as fact.",
   "campaignFinance": {
     "totalRaised": "Not itemized in public web records",

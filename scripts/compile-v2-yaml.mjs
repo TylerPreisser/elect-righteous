@@ -823,23 +823,18 @@ function fixedIssueStatedText(issue, evidenceItems, socialSignals, candidateCont
   const lead = stated ?? documented ?? fallback;
 
   if (!lead) {
-    return `The reviewed public record did not identify a source-backed candidate statement or documented action for ${title}.`;
+    return `No sourced position or public action found for ${title}.`;
   }
 
   const parts = [];
   if (lead) {
-    const label = lead.classification === "candidate-stated"
-      ? "Candidate statement"
-      : lead.classification === "documented-record"
-        ? "Documented public record"
-        : "Public evidence";
-    parts.push(`${label}: ${excerpt(cleanPublicNarrative(lead.text), 420)}`);
+    parts.push(excerpt(cleanPublicNarrative(lead.text), 420));
   } else {
     parts.push(`No candidate-controlled statement was found for ${title}; the available material is limited to observed public signals.`);
   }
 
   if (socialSignals.length > 0) {
-    parts.push("Social/online observations are public signals, not confirmed policy positions.");
+    parts.push("Public online activity is context, not a confirmed policy position.");
   }
   return parts.join(" ");
 }
@@ -1237,11 +1232,11 @@ function derivedRecordSummary(candidate, issues, evidenceRows) {
     .map((body) => excerpt(body, 240));
 
   if (actionCount === 0 && recordClaims.length === 0) {
-    return `No separate source-backed vote, meeting action, filing, or public-record action was identified for ${candidate.name} in the reviewed public record.`;
+    return `No separate vote, meeting action, filing, or public action was found for ${candidate.name} in the linked sources.`;
   }
 
   const examples = renderedExamples.length ? renderedExamples : recordClaims;
-  return `The public record summary contains ${actionCount} source-backed item${actionCount === 1 ? "" : "s"} across ${issueCountWithActions} of the 14 issue areas. ${examples.length ? `Representative public-record entries include: ${sentenceList(examples)}` : ""} Social-only material is listed separately as online observation, not official action.`;
+  return `This profile links ${actionCount} public item${actionCount === 1 ? "" : "s"} across ${issueCountWithActions} of the 14 issue areas. ${examples.length ? `Examples include: ${sentenceList(examples)}` : ""} Public online activity is listed separately as context.`;
 }
 
 function derivedWhereTheyWorship(candidate, evidenceRows) {
@@ -1307,12 +1302,12 @@ function derivedSocialResearchNote(issues, socialMatrix) {
   const renderedSignals = issues.reduce((count, issue) => count + issue.socialSignals.length, 0);
   const socialRows = asArray(socialMatrix?.signals ?? socialMatrix?.socialSignals ?? socialMatrix?.items ?? socialMatrix);
   if (renderedSignals === 0 && socialRows.length === 0) {
-    return "No issue-relevant public social signals were identified in the reviewed public record. Do not infer private beliefs from a lack of visible social evidence.";
+    return "No issue-relevant public online activity was identified. Do not infer private beliefs from the absence of visible online evidence.";
   }
   if (renderedSignals === 0) {
-    return `The social review found ${socialRows.length} public observation${socialRows.length === 1 ? "" : "s"}, but none were tied closely enough to a specific issue to show as an issue signal. Social evidence remains a signal layer only, not proof of belief.`;
+    return `The online review found ${socialRows.length} public observation${socialRows.length === 1 ? "" : "s"}, but none were tied closely enough to a specific issue to show as an issue signal. Online activity is context, not proof of belief.`;
   }
-  return `${renderedSignals} public source-backed social/online observation${renderedSignals === 1 ? "" : "s"} are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.`;
+  return `${renderedSignals} public online item${renderedSignals === 1 ? "" : "s"} are tied to issue areas. Additional online activity is treated as context, not a policy position.`;
 }
 
 function renderedSourceIds(candidate) {

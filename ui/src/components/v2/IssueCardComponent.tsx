@@ -2,11 +2,11 @@
  * IssueCardComponent — renders one IssueCard.
  *
  * Sections:
- *   1. Heading (issue title)
- *   2. "What they say" (stated.text + source chips)
- *   3. public-record actions, when present
- *   4. social/online observations, when present
- *   5. "Where they diverge" (gap.summary + evidence references — only if gap present)
+ *   1. Heading (issue title + prose preview)
+ *   2. Current position summary (stated.text + source chips)
+ *   3. Dated actions, when present
+ *   4. Observed online signals, when present
+ *   5. Stated/action differences, only if gap present
  *
  * No badge, no score, no consistency label, no flag-alert UI.
  * IDENTITY.md symmetry test applies to all prose rendered here.
@@ -16,6 +16,7 @@
 
 import { useState } from "react";
 import type { IssueCard, Source } from "@/data/types-v2";
+import { cleanEvidenceCopy } from "@/lib/public-copy";
 import ActionList from "./ActionList";
 import SocialSignalChip from "./SocialSignalChip";
 import { ChevronDown, ExternalLink } from "lucide-react";
@@ -60,27 +61,26 @@ function SourceChipInline({
 function SectionLabel({ children }: { children: React.ReactNode }) {
   return (
     <h4
-      className="mb-3 border-l-4 pl-3 font-heading font-bold uppercase tracking-wider"
-      style={{ borderColor: "var(--color-teal)", fontSize: "0.95rem", color: "var(--color-navy)" }}
+      className="mb-3 font-heading font-bold"
+      style={{ fontSize: "1rem", color: "var(--color-navy)" }}
     >
       {children}
     </h4>
   );
 }
 
-function cleanEvidenceText(text: string) {
-  return text
-    .replace(/https?:\/\/\S+/g, "")
-    .replace(/\s{2,}/g, " ")
-    .replace(/\s+([,.;:])/g, "$1")
-    .trim();
+function truncateText(text: string, maxLength: number) {
+  if (text.length <= maxLength) return text;
+  const clipped = text.slice(0, maxLength).trimEnd();
+  const lastSpace = clipped.lastIndexOf(" ");
+  return `${clipped.slice(0, lastSpace > 80 ? lastSpace : clipped.length)}...`;
 }
 
 export default function IssueCardComponent({
   issue,
   sources,
   defaultExpanded = false,
-  recordLabel = "Public Record",
+  recordLabel = "What they have done",
 }: IssueCardComponentProps) {
   const [expanded, setExpanded] = useState(defaultExpanded);
   const sourceById = new Map<string, Source>(sources.map((s) => [s.id, s]));
@@ -92,6 +92,14 @@ export default function IssueCardComponent({
   const hasSocialSignals = issue.socialSignals.length > 0;
   const hasActions = issue.actions.length > 0;
   const hasGap = issue.gap !== undefined;
+  const statedText = cleanEvidenceCopy(issue.stated.text);
+  const previewText =
+    statedText ||
+    (hasActions
+      ? cleanEvidenceCopy(issue.actions[0].body)
+      : hasSocialSignals
+      ? `Social/online observation: ${cleanEvidenceCopy(issue.socialSignals[0].observation)}`
+      : "No sourced position or public action found for this issue.");
 
   // Resolve gap evidence IDs to their source references for display
   const gapEvidenceRefs = hasGap
@@ -131,40 +139,26 @@ export default function IssueCardComponent({
             {issue.title}
           </h3>
 
-          {/* Compact preview of action count when collapsed */}
-          {!expanded && (
-            <div className="mt-2 flex flex-wrap gap-2">
-              <span
-                className="rounded px-2 py-1 text-xs font-semibold"
-                style={{ backgroundColor: "rgba(16, 64, 93, 0.07)", color: "var(--color-navy)" }}
-              >
-                {statedSources.length > 0 ? "Statement sourced" : "No sourced statement"}
-              </span>
-              <span
-                className="rounded px-2 py-1 text-xs font-semibold"
-                style={{ backgroundColor: "rgba(28, 195, 175, 0.10)", color: "var(--color-teal-dark)" }}
-              >
-                {issue.actions.length} public record item{issue.actions.length === 1 ? "" : "s"}
-              </span>
-              {hasSocialSignals && (
-                <span
-                  className="rounded px-2 py-1 text-xs font-semibold"
-                  style={{ backgroundColor: "rgba(196, 146, 42, 0.12)", color: "var(--color-navy)" }}
-                >
-                  {issue.socialSignals.length} online observation{issue.socialSignals.length === 1 ? "" : "s"}
-                </span>
-              )}
-            </div>
-          )}
+          <p
+            className="mt-2 font-body leading-relaxed"
+            style={{ color: "var(--color-charcoal)", fontSize: "0.95rem" }}
+          >
+            {truncateText(previewText, expanded ? 220 : 150)}
+          </p>
         </div>
 
         {/* Expand/collapse indicator */}
-        <ChevronDown
-          size={22}
-          className={`mt-1 shrink-0 transition-transform duration-200 ${expanded ? "rotate-180" : ""}`}
+        <span
+          className="mt-1 inline-flex shrink-0 items-center gap-1 rounded-md px-2 py-1 font-heading text-xs font-bold uppercase tracking-wide"
           style={{ color: "var(--color-teal-dark)" }}
-          aria-hidden="true"
-        />
+        >
+          {expanded ? "Show less" : "See more"}
+          <ChevronDown
+            size={18}
+            className={`transition-transform duration-200 ${expanded ? "rotate-180" : ""}`}
+            aria-hidden="true"
+          />
+        </span>
       </button>
 
       {/* Card body */}
@@ -174,15 +168,15 @@ export default function IssueCardComponent({
       >
         <div className="grid gap-7 p-5 sm:p-6">
 
-          <section aria-label="Where they stand">
+          <section aria-label="Position summary">
             <SectionLabel>Where they stand</SectionLabel>
             {issue.stated.text ? (
               <div className="grid gap-3">
                 <p
                   className="font-body leading-relaxed"
                   style={{ fontSize: "0.9375rem", color: "var(--color-charcoal)" }}
-                >
-                  {cleanEvidenceText(issue.stated.text)}
+                  >
+                  {statedText}
                 </p>
                 {statedSources.length > 0 && (
                   <div className="flex flex-wrap gap-1.5" aria-label="Sources for stated position">
@@ -197,21 +191,24 @@ export default function IssueCardComponent({
                 className="font-body text-sm italic"
                 style={{ color: "var(--color-slate)" }}
               >
-                No public statement found on this issue.
+                No sourced position found on this issue.
               </p>
             )}
           </section>
 
           {(hasActions || !hasSocialSignals) && (
-            <section aria-label="Public record">
+            <section aria-label="Dated actions">
               <SectionLabel>{recordLabel}</SectionLabel>
               <ActionList actions={issue.actions} sources={sources} />
             </section>
           )}
 
           {hasSocialSignals && (
-            <section aria-label="Social / online observations">
-              <SectionLabel>Social / Online Observations</SectionLabel>
+            <section aria-label="Social and online observations">
+              <SectionLabel>Social/online observations</SectionLabel>
+              <p className="mb-3 font-body text-sm leading-relaxed" style={{ color: "var(--color-slate)" }}>
+                These observations show public activity tied to this issue. They are context, not confirmed positions.
+              </p>
               <div className="grid gap-3">
                 {issue.socialSignals.map((signal, index) => (
                   <SocialSignalChip
@@ -224,29 +221,27 @@ export default function IssueCardComponent({
             </section>
           )}
 
-          {/* Section 4: Where they diverge (only if gap present) */}
           {hasGap && (
             <section
               aria-label="Where stated position and documented actions differ"
               className="rounded-md border p-4"
               style={{ borderColor: "rgba(196, 146, 42, 0.45)", backgroundColor: "rgba(196, 146, 42, 0.07)" }}
             >
-              <SectionLabel>Where the record differs from the stated position</SectionLabel>
+              <SectionLabel>Where words and actions may differ</SectionLabel>
               <p
                 className="font-body leading-relaxed"
                 style={{ fontSize: "0.9375rem", color: "var(--color-charcoal)" }}
               >
-                {cleanEvidenceText(issue.gap!.summary)}
+                {cleanEvidenceCopy(issue.gap!.summary)}
               </p>
 
-              {/* Evidence references */}
               {gapEvidenceRefs.length > 0 && (
                 <div className="mt-2">
                   <p
                     className="font-body text-xs font-semibold mb-1.5"
                     style={{ color: "var(--color-slate)" }}
                   >
-                    Supporting evidence:
+                    Sources behind this note:
                   </p>
                   <ul className="grid gap-1.5" role="list">
                     {gapEvidenceRefs.map(({ evId, action, signal }) => (
@@ -256,10 +251,10 @@ export default function IssueCardComponent({
                         style={{ color: "var(--color-slate)" }}
                       >
                         {action
-                          ? `Action: ${action.body.slice(0, 100)}${action.body.length > 100 ? "…" : ""}`
+                          ? truncateText(cleanEvidenceCopy(action.body), 115)
                           : signal
-                          ? `Online: ${signal.observation.slice(0, 100)}${signal.observation.length > 100 ? "…" : ""}`
-                          : `Evidence ID: ${evId}`}
+                          ? `Online activity: ${truncateText(cleanEvidenceCopy(signal.observation), 100)}`
+                          : `Referenced source item: ${evId}`}
                       </li>
                     ))}
                   </ul>

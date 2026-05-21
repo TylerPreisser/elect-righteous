@@ -20,7 +20,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Candidate statement: On bathrooms, vandalism, and social-media claims, Wilson's public stance is managerial and skeptical of online escalation. Hays Post reported that he said all schools deal with bathroom vandalism, that students lose privileges when they misuse spaces, and that the high school would clean bathrooms twice daily. Tiger Media Network reported that he said monitoring bathrooms for eight hours a day was nearly impossible... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On bathrooms, vandalism, and social-media claims, Wilson's public stance is managerial and skeptical of online escalation. Hays Post reported that he said all schools deal with bathroom vandalism, that students lose privileges when they misuse spaces, and that the high school would clean bathrooms twice daily. Tiger Media Network reported that he said monitoring bathrooms for eight hours a day was nearly impossible... ",
         "sourceIds": [
           "s-hayspost-bathroom-vandalism-2026"
         ]
@@ -92,7 +92,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate statement: His earliest located Hays superintendent profile, from February 2019, framed his approach around students and consensus. Wilson said he centered his work on what was best for kids, described himself as a consensus builder on a possible bond, supported long-range facilities planning, emphasized teacher relationships and teacher pay, and said he wanted a positive culture where staff, students, and parents brought thei... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His earliest located Hays superintendent profile, from February 2019, framed his approach around students and consensus. Wilson said he centered his work on what was best for kids, described himself as a consensus builder on a possible bond, supported long-range facilities planning, emphasized teacher relationships and teacher pay, and said he wanted a positive culture where staff, students, and parents brought thei... ",
         "sourceIds": [
           "s-hayspost-2019-profile",
           "s-hayspost-opinion-2025",
@@ -189,7 +189,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -199,7 +199,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate statement: On capital spending, Wilson tends to argue from schedule, readiness, and operational need. In February 2025, he said the district had planned for expenses created by students and staff moving into new buildings and had enough capital-outlay funds with contingency built in. In October 2025, he said Hays Middle School furniture needed to be purchased promptly so the school could open to students on time. In December 2... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On capital spending, Wilson tends to argue from schedule, readiness, and operational need. In February 2025, he said the district had planned for expenses created by students and staff moving into new buildings and had enough capital-outlay funds with contingency built in. In October 2025, he said Hays Middle School furniture needed to be purchased promptly so the school could open to students on time. In December 2... ",
         "sourceIds": [
           "src-ron-wilson-0022",
           "s-hayspost-fees-2025",
@@ -259,7 +259,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -269,7 +269,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -279,7 +279,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -289,7 +289,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate statement: USD 489 official live feed, April 2020 meal suspension post attributed to Ron Wilson. Source: https://www.usd489.com/live-feed?page_no=31 6. USD 489 / Hays Post article on facilities survey and possible bond discussion, April 12, 2021. Source: https://www.usd489.com/article/437110 7. USD 489 / Hays Post article on Westside and mental-health/behavior supports, April 28, 2021. Source:... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "USD 489 official live feed, April 2020 meal suspension post attributed to Ron Wilson. Source: https://www.usd489.com/live-feed?page_no=31 6. USD 489 / Hays Post article on facilities survey and possible bond discussion, April 12, 2021. Source: https://www.usd489.com/article/437110 7. USD 489 / Hays Post article on Westside and mental-health/behavior supports, April 28, 2021. Source:... ",
         "sourceIds": [
           "src-ron-wilson-0010",
           "s-usd489-staff",
@@ -350,7 +350,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Hays USD 489 board votes not to add another manager for bond work Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Hays USD 489 board votes not to add another manager for bond work ",
         "sourceIds": [
           "s-hayspost-project-manager-2025",
           "s-guidon-hiring-2019"
@@ -391,7 +391,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Hays USD 489 board votes not to add another manager for bond work Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Hays USD 489 board votes not to add another manager for bond work ",
         "sourceIds": [
           "s-hayspost-project-manager-2025",
           "s-guidon-hiring-2019"
@@ -421,7 +421,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -431,7 +431,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: Wilson's signed March 2025 Hays Post opinion response is one of the clearest first-person statements in the set. He said people sometimes focus so hard on problems that they miss good things, defended the bond projects as creating a better future for students, staff, and the community, and said his district leadership responsibility was to give them what they deserved. He repeated the idea that USD 489 had to stop s... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Wilson's signed March 2025 Hays Post opinion response is one of the clearest first-person statements in the set. He said people sometimes focus so hard on problems that they miss good things, defended the bond projects as creating a better future for students, staff, and the community, and said his district leadership responsibility was to give them what they deserved. He repeated the idea that USD 489 had to stop s... ",
         "sourceIds": [
           "s-hayspost-opinion-2025",
           "src-ron-wilson-0022",
@@ -507,7 +507,7 @@ export const RON_WILSON_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: By February 2022, Wilson's bond message had become more specific: space, career and technical education, an auditorium, maintenance, school choice, local contractors, and long-term investment. He told the board the proposal was about district space needs, said the high school career-tech environment could be better, argued the community needed an auditorium students could be proud of, and described the bond as an in... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "By February 2022, Wilson's bond message had become more specific: space, career and technical education, an auditorium, maintenance, school choice, local contractors, and long-term investment. He told the board the proposal was about district space needs, said the high school career-tech environment could be better, argued the community needed an auditorium students could be proud of, and described the bond as an in... ",
         "sourceIds": [
           "s-usd489-bond-to-voters-2022"
         ]

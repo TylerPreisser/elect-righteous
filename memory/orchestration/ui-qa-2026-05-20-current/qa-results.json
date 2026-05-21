@@ -1,0 +1,31 @@
+{
+  "testedAt": "2026-05-20T21:20:00-05:00",
+  "build": "root-domain static export served from http://localhost:4173",
+  "screenshots": {
+    "desktopViewport": "1440x1000",
+    "mobileViewport": "390x844",
+    "routes": [
+      "/",
+      "/candidates/",
+      "/elections/",
+      "/about/",
+      "/elections/ks-01-house-2026/",
+      "/candidates/steven-jacob/",
+      "/candidates/ken-brooks/",
+      "/candidates/scott-schwab/",
+      "/candidates/steven-jacob/sources/"
+    ]
+  },
+  "checks": {
+    "targetedPublicTextLeakScan": "pass",
+    "mobilePreisserBadgeOverlap": "fixed by hiding fixed badge below md and relying on footer branding",
+    "issueSectionDefaultState": "collapsed",
+    "issueCardExpandCopy": "See more",
+    "profileOrder": "Who They Are appears before Where They Stand on Big Issues"
+  },
+  "form": {
+    "recipient": "tyler@preissersolutions.com",
+    "status": "blocked_by_formsubmit_activation",
+    "detailFile": "form-test-result.json"
+  }
+}

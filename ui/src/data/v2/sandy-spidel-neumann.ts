@@ -22,7 +22,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -32,7 +32,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -42,7 +42,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -52,7 +52,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -62,7 +62,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -72,7 +72,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -103,7 +103,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -113,7 +113,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -134,7 +134,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -175,7 +175,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts.",
+        "text": "No sourced position or public action found for Election integrity / voting / courts.",
         "sourceIds": []
       },
       "actions": [],
@@ -196,7 +196,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Sandy Spidel Neumann - Ballotpedia Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Sandy Spidel Neumann - Ballotpedia ",
         "sourceIds": [
           "src-sandy-spidel-neumann-0042",
           "s-kcur-guide"
@@ -226,7 +226,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -236,7 +236,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Public evidence: Johnson County Post photo Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Johnson County Post photo ",
         "sourceIds": [
           "src-sandy-spidel-neumann-0077"
         ]
@@ -269,7 +269,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -288,7 +288,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Sandy Spidel Neumann is profiled here for U.S. Senate candidate as a Democratic. | s-joco-candidates | primary | https://www.jocoelection.org/candidates-elected-officials/candidates | accessed 2026-05-19 | Official county election-office candidate list, U.S. Senate row for Sandy Spidel Neumann | ballot-status lead |. | s-campaign-home | primary | https://sandyforkansas.com/ | accessed 2026-05-19 | Candidate-controlled homepage, office claim, biography, campaign address, campaign social links | biography, issue overview |. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 2 source-backed items across 1 of the 14 issue areas. Representative public-record entries include: Public safety / law enforcement / criminal justice: Sandy Spidel Neumann - Ballotpedia. Public safety / law enforcement / criminal justice: KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025). Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 2 public items across 1 of the 14 issue areas. Examples include: Public safety / law enforcement / criminal justice: Sandy Spidel Neumann - Ballotpedia. Public safety / law enforcement / criminal justice: KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025). Public online activity is listed separately as context.",
   "whereTheyWorship": "No public worship affiliation was confirmed in the reviewed public record. No policy position is inferred from the absence or presence of faith-related public records.",
   "campaignFinance": {
     "totalRaised": "Not itemized in reviewed public records",
@@ -298,7 +298,7 @@ export const SANDY_SPIDEL_NEUMANN_V2: CandidateFullV2 = {
     "reportingPeriod": "Reviewed public filings as of 2026-05-20",
     "source": "Fec (https://www.fec.gov/data/candidate/S6KS00262/)"
   },
-  "socialResearchNote": "10 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "10 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-fec-candidate",

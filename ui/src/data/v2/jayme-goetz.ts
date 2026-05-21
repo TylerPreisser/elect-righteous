@@ -19,7 +19,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate statement: On professional development calendars, she used her classroom experience to support full in-service days over early release. USD 489's reposted article says she found it hard to transition between teaching and professional development during early-release days and believed full in-service days were better for staff and ultimately students, while acknowledging child-care issues for families. (USD 489) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On professional development calendars, she used her classroom experience to support full in-service days over early release. USD 489's reposted article says she found it hard to transition between teaching and professional development during early-release days and believed full in-service days were better for staff and ultimately students, while acknowledging child-care issues for families. (USD 489) ",
         "sourceIds": [
           "s-usd489-calendar-pd",
           "s-usd489-members",
@@ -90,7 +90,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -100,7 +100,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -131,7 +131,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -152,7 +152,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -162,7 +162,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -172,7 +172,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -182,7 +182,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts.",
+        "text": "No sourced position or public action found for Election integrity / voting / courts.",
         "sourceIds": []
       },
       "actions": [],
@@ -203,7 +203,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Hays USD 489 BOE votes to change Hays Middle School mascot to Indians Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Hays USD 489 BOE votes to change Hays Middle School mascot to Indians ",
         "sourceIds": [
           "s-hayspost-mascot-vote"
         ]
@@ -224,7 +224,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -234,7 +234,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Role records are straightforward as of this capture. The USD 489 Diligent/HighBond member page lists Jayme Goetz as Board Member, and public meeting pages list her among members for 2025-2026 meetings. A June 2025 Hays Post story reported she was then vice president and willing to serve another term if elected, but the current official portal listing reviewed here identifies her as Board Member. (USD 489 member page... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Role records are straightforward as of this capture. The USD 489 Diligent/HighBond member page lists Jayme Goetz as Board Member, and public meeting pages list her among members for 2025-2026 meetings. A June 2025 Hays Post story reported she was then vice president and willing to serve another term if elected, but the current official portal listing reviewed here identifies her as Board Member. (USD 489 member page... ",
         "sourceIds": [
           "s-usd489-members",
           "s-tiger-handbook-2025"
@@ -256,7 +256,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -264,8 +264,8 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Jayme Goetz is profiled here for Hays USD 489 Board of Education as a nonpartisan incumbent/current official. Goetz's public message is local, educator-centered, and mostly candidate-attributed through Hays Post and Tiger Media Network rather than through campaign social media. She presents herself as a lifelong Hays resident, USD 489 graduate, former Hays High teach... On cell phones, Goetz called student phone use a real problem but not only a school problem. Tiger Media reported that, as a Hays High teacher, she used classroom phone holders and still saw students work around them. She also noted that cell phones can be us... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 5 source-backed items across 3 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: On professional development calendars, she used her classroom experience to support full in-service days over early release. USD 489's reposted article says she found it hard to transition between teaching... Education / curriculum / schools: On calendars and professional development, Goetz's teacher experience is central. USD 489's reposted article says she found it difficult to transition between teaching and professional development on early... Education / curriculum / schools: Role records are straightforward as of this capture. The USD 489 Diligent/HighBond member page lists Jayme Goetz as Board Member, and public meeting pages list her among members for 2025-2026 meetings. A J... Public safety / law enforcement / criminal justice: Hays USD 489 BOE votes to change Hays Middle School mascot to Indians. Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object]",
+  "recordSummary": "This profile links 5 public items across 3 of the 14 issue areas. Examples include: Education / curriculum / schools: On professional development calendars, she used her classroom experience to support full in-service days over early release. USD 489's reposted article says she found it hard to transition between teaching... Education / curriculum / schools: On calendars and professional development, Goetz's teacher experience is central. USD 489's reposted article says she found it difficult to transition between teaching and professional development on early... Education / curriculum / schools: Role records are straightforward as of this capture. The USD 489 Diligent/HighBond member page lists Jayme Goetz as Board Member, and public meeting pages list her among members for 2025-2026 meetings. A J... Public safety / law enforcement / criminal justice: Hays USD 489 BOE votes to change Hays Middle School mascot to Indians. Public online activity is listed separately as context.",
+  "ownWordsNarrative": "",
   "whereTheyWorship": "The reviewed public record did not identify a reliable public source that identifies Jayme Goetz's church home or denomination. Because the public record is thin here, No church affiliation is assigned without evidence. The reviewed public record did not identify a reliable public source that identifies Goetz's church home or denomination. No church affiliation is assigned without evidence. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Goetz told Hays Post in 2023 that she was self-funded. No online donor list, campaign-finance report, treasurer appointment, or affidavit of exemption was found in the reviewed public record. Kansas SOS election standards point most local school-board campaign reporting to the county election officer if reportable.",
@@ -274,7 +274,7 @@ export const JAYME_GOETZ_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Hays USD 489 BOE candidate: Jayme Goetz"
   },
-  "socialResearchNote": "5 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "5 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-usd489-members",

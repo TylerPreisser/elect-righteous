@@ -21,7 +21,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented public record: Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" and frames his speakership as a record of stopping Gov. Laura Kelly's agenda, overriding vetoes, cutting taxes, resisting Medicaid expansion, banning sanctuary cities, defending gun rights, and passing anti-abortio... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" and frames his speakership as a record of stopping Gov. Laura Kelly's agenda, overriding vetoes, cutting taxes, resisting Medicaid expansion, banning sanctuary cities, defending gun rights, and passing anti-abortio... ",
         "sourceIds": [
           "s-campaign-insurance",
           "src-daniel-hawkins-0017",
@@ -83,7 +83,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public record: Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" and frames his speakership as a record of stopping Gov. Laura Kelly's agenda, overriding vetoes, cutting taxes, resisting Medicaid expansion, banning sanctuary cities, defending gun rights, and passing anti-abortio... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" and frames his speakership as a record of stopping Gov. Laura Kelly's agenda, overriding vetoes, cutting taxes, resisting Medicaid expansion, banning sanctuary cities, defending gun rights, and passing anti-abortio... ",
         "sourceIds": [
           "s-campaign-insurance",
           "src-daniel-hawkins-0017"
@@ -113,7 +113,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -123,7 +123,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -133,7 +133,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" and frames his speakership as a record of stopping Gov. Laura Kelly's agenda, overriding vetoes, cutting taxes, resisting Medicaid expansion, banning sanctuary cities, defending gun rights, and passing anti-abortio... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" and frames his speakership as a record of stopping Gov. Laura Kelly's agenda, overriding vetoes, cutting taxes, resisting Medicaid expansion, banning sanctuary cities, defending gun rights, and passing anti-abortio... ",
         "sourceIds": [
           "s-campaign-insurance",
           "src-daniel-hawkins-0017",
@@ -205,7 +205,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Public evidence: His older Hawkins for Kansas site supplies the ideological baseline: unchecked government expansion limits freedom and hurts business growth; he says he is dedicated to defending life, strengthening the family, and protecting rights. That site's public Facebook feed shows the day-to-day version of the same message: legislative wrap-ups with chambers of commerce and GOP groups, property-tax pressure on Kelly, senior... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His older Hawkins for Kansas site supplies the ideological baseline: unchecked government expansion limits freedom and hurts business growth; he says he is dedicated to defending life, strengthening the family, and protecting rights. That site's public Facebook feed shows the day-to-day version of the same message: legislative wrap-ups with chambers of commerce and GOP groups, property-tax pressure on Kelly, senior... ",
         "sourceIds": [
           "src-daniel-hawkins-0016"
         ]
@@ -238,7 +238,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented public record: Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" and frames his speakership as a record of stopping Gov. Laura Kelly's agenda, overriding vetoes, cutting taxes, resisting Medicaid expansion, banning sanctuary cities, defending gun rights, and passing anti-abortio... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" and frames his speakership as a record of stopping Gov. Laura Kelly's agenda, overriding vetoes, cutting taxes, resisting Medicaid expansion, banning sanctuary cities, defending gun rights, and passing anti-abortio... ",
         "sourceIds": [
           "s-campaign-insurance",
           "src-daniel-hawkins-0017"
@@ -289,7 +289,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public record: Recurring topics are taxes, budget restraint, anti-Kelly contrast, Trump alignment, abortion, gun rights, family/gender policy, election integrity, immigration enforcement, and insurance affordability through deregulation. In April 2026, his public messaging leaned heavily into property taxes. After Kelly vetoed HB 2043, WIBW quoted him saying the bill gave taxpayers a voice and that property taxes had reached a cri... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Recurring topics are taxes, budget restraint, anti-Kelly contrast, Trump alignment, abortion, gun rights, family/gender policy, election integrity, immigration enforcement, and insurance affordability through deregulation. In April 2026, his public messaging leaned heavily into property taxes. After Kelly vetoed HB 2043, WIBW quoted him saying the bill gave taxpayers a voice and that property taxes had reached a cri... ",
         "sourceIds": [
           "src-daniel-hawkins-0017"
         ]
@@ -310,7 +310,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" and frames his speakership as a record of stopping Gov. Laura Kelly's agenda, overriding vetoes, cutting taxes, resisting Medicaid expansion, banning sanctuary cities, defending gun rights, and passing anti-abortio... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" and frames his speakership as a record of stopping Gov. Laura Kelly's agenda, overriding vetoes, cutting taxes, resisting Medicaid expansion, banning sanctuary cities, defending gun rights, and passing anti-abortio... ",
         "sourceIds": [
           "s-campaign-insurance",
           "src-daniel-hawkins-0017",
@@ -391,7 +391,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Recurring topics are taxes, budget restraint, anti-Kelly contrast, Trump alignment, abortion, gun rights, family/gender policy, election integrity, immigration enforcement, and insurance affordability through deregulation. In April 2026, his public messaging leaned heavily into property taxes. After Kelly vetoed HB 2043, WIBW quoted him saying the bill gave taxpayers a voice and that property taxes had reached a cri... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Recurring topics are taxes, budget restraint, anti-Kelly contrast, Trump alignment, abortion, gun rights, family/gender policy, election integrity, immigration enforcement, and insurance affordability through deregulation. In April 2026, his public messaging leaned heavily into property taxes. After Kelly vetoed HB 2043, WIBW quoted him saying the bill gave taxpayers a voice and that property taxes had reached a cri... ",
         "sourceIds": [
           "src-daniel-hawkins-0017",
           "s-county-candidate-filing",
@@ -430,7 +430,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Kansas Legislature page: kslegislature.gov Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Kansas Legislature page: kslegislature.gov ",
         "sourceIds": [
           "src-daniel-hawkins-0009",
           "s-campaign-insurance",
@@ -481,7 +481,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public record: Recurring topics are taxes, budget restraint, anti-Kelly contrast, Trump alignment, abortion, gun rights, family/gender policy, election integrity, immigration enforcement, and insurance affordability through deregulation. In April 2026, his public messaging leaned heavily into property taxes. After Kelly vetoed HB 2043, WIBW quoted him saying the bill gave taxpayers a voice and that property taxes had reached a cri... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Recurring topics are taxes, budget restraint, anti-Kelly contrast, Trump alignment, abortion, gun rights, family/gender policy, election integrity, immigration enforcement, and insurance affordability through deregulation. In April 2026, his public messaging leaned heavily into property taxes. After Kelly vetoed HB 2043, WIBW quoted him saying the bill gave taxpayers a voice and that property taxes had reached a cri... ",
         "sourceIds": [
           "src-daniel-hawkins-0017"
         ]
@@ -533,7 +533,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: Hawkins also uses public statements to mark law-and-order and cultural lines. A 2023 WIBW story quoted a joint Hawkins/Masterson statement calling for an independent Office of Child Advocate after Zoey Felix's death. A 2024 JNS article embedded his X post condemning antisemitic vandalism at a Topeka synagogue. In 2025, coverage of HB 2311 quoted a joint statement arguing foster families should not face discriminatio... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Hawkins also uses public statements to mark law-and-order and cultural lines. A 2023 WIBW story quoted a joint Hawkins/Masterson statement calling for an independent Office of Child Advocate after Zoey Felix's death. A 2024 JNS article embedded his X post condemning antisemitic vandalism at a Topeka synagogue. In 2025, coverage of HB 2311 quoted a joint statement arguing foster families should not face discriminatio... ",
         "sourceIds": [
           "src-daniel-hawkins-0045",
           "s-campaign-insurance",
@@ -621,7 +621,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -629,7 +629,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Accessible official and government-adjacent sources support treating Hawkins as a Republican candidate for Kansas Commissioner of Insurance in 2026. Kansas SOS confirms the office is on the 2026 ballot and the June 1, 2026 filing deadline; KPDC lists Hawkins under Insurance Commissioner Candidates and his treasurer filing says office sought is Insurance Commissioner; a current Douglas County/state candidate filing PDF lists Daniel Hawkins (R) as filed on May 13, 2025 for the August 4, 2026 primary. The live SOS candidate-list endpoint was blocked during public-source review.",
-  "recordSummary": "The public record summary contains 24 source-backed items across 10 of the 14 issue areas. Representative public-record entries include: Abortion / life: Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" and frames his sp... Abortion / life: Recurring topics are taxes, budget restraint, anti-Kelly contrast, Trump alignment, abortion, gun rights, family/gender policy, election integrity, immigration enforcement, and insurance affordability through deregulation.... LGBT / gender / parental rights: Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" a... LGBT / gender / parental rights: Recurring topics are taxes, budget restraint, anti-Kelly contrast, Trump alignment, abortion, gun rights, family/gender policy, election integrity, immigration enforcement, and insurance affordability throu... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 24 public items across 10 of the 14 issue areas. Examples include: Abortion / life: Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" and frames his sp... Abortion / life: Recurring topics are taxes, budget restraint, anti-Kelly contrast, Trump alignment, abortion, gun rights, family/gender policy, election integrity, immigration enforcement, and insurance affordability through deregulation.... LGBT / gender / parental rights: Daniel Hawkins' public campaign voice is bluntly Republican and explicitly pro-Trump. His insurance commissioner site opens with the identity stack \"Pro-Life. Pro-Gun. Pro-Trump. Conservative Republican.\" a... LGBT / gender / parental rights: Recurring topics are taxes, budget restraint, anti-Kelly contrast, Trump alignment, abortion, gun rights, family/gender policy, election integrity, immigration enforcement, and insurance affordability throu... Public online activity is listed separately as context.",
   "ownWordsNarrative": "Social research is included as observed public behavior, not as a proxy for belief. Current campaign site links X, Instagram, and Facebook; direct platform timelines were limited by scripts/login walls. The older site used in prior local harvest is now suspended, so prior embedded Facebook observations should retain their May 11, 2026 capture label.",
   "whereTheyWorship": "The review did not verify a current public church affiliation for Daniel Hawkins. His educational background includes Trevecca Nazarene University, which suggests a Christian environment, and his campaign uses explicitly pro-life and family language, but I di... The review did not verify a public church affiliation or church URL for Hawkins. Daniel Hawkins: Board member of Higher Ground (faith-based org), but specific church not confirmed. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
@@ -639,7 +639,7 @@ export const DANIEL_HAWKINS_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2025-12-31",
     "source": "Daniel Hawkins January 2026 Receipts and Expenditures Report"
   },
-  "socialResearchNote": "22 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "22 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-kpdc-statewide-2026",

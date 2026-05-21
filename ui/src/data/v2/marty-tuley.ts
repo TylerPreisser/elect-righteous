@@ -20,7 +20,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public record: On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted... ",
         "sourceIds": [
           "s-campaign-platform"
         ]
@@ -72,7 +72,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate statement: Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the s... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the s... ",
         "sourceIds": [
           "s-campaign-platform",
           "s-campaign-home"
@@ -151,7 +151,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -161,7 +161,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate statement: Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the s... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy meals per day for public school students, no cell phones during public school hours, reduced administrative bloat, higher support-staff pay, and opposition to vouchers (source). His public schools page condenses the s... ",
         "sourceIds": [
           "s-campaign-platform",
           "s-campaign-home"
@@ -222,7 +222,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (source). The campaign launch release stated the same sports position and framed it around fairness and safety (source). WIBW included the position in its announcement story, and KSNT's candidate guide highlighted... ",
         "sourceIds": [
           "s-campaign-platform",
           "s-campaign-home"
@@ -293,7 +293,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -303,7 +303,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public record: The campaign's governance language emphasizes practicality, transparency, and limits on political theater. The \"Meet Marty\" page says he is running to bring practical leadership and real solutions to Kansas, with a focus on showing up, listening, and avoiding political noise (source). The platform says he would not use executive orders or pardons as political tools, would make voting easier and more accessible, and... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The campaign's governance language emphasizes practicality, transparency, and limits on political theater. The \"Meet Marty\" page says he is running to bring practical leadership and real solutions to Kansas, with a focus on showing up, listening, and avoiding political noise (source). The platform says he would not use executive orders or pardons as political tools, would make voting easier and more accessible, and... ",
         "sourceIds": [
           "s-campaign-meet"
         ]
@@ -335,7 +335,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... ",
         "sourceIds": [
           "s-campaign-home",
           "s-campaign-platform",
@@ -423,7 +423,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... ",
         "sourceIds": [
           "s-campaign-home",
           "s-campaign-platform",
@@ -511,7 +511,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -532,7 +532,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public record: The campaign's governance language emphasizes practicality, transparency, and limits on political theater. The \"Meet Marty\" page says he is running to bring practical leadership and real solutions to Kansas, with a focus on showing up, listening, and avoiding political noise (source). The platform says he would not use executive orders or pardons as political tools, would make voting easier and more accessible, and... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The campaign's governance language emphasizes practicality, transparency, and limits on political theater. The \"Meet Marty\" page says he is running to bring practical leadership and real solutions to Kansas, with a focus on showing up, listening, and avoiding political noise (source). The platform says he would not use executive orders or pardons as political tools, would make voting easier and more accessible, and... ",
         "sourceIds": [
           "s-campaign-meet",
           "s-kansas-reflector-debate"
@@ -591,7 +591,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... ",
         "sourceIds": [
           "s-campaign-home",
           "s-campaign-platform",
@@ -679,7 +679,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, and restrained executive power. His campaign home page frames the race as \"Building a Kansas Worth Investing In\" and says Kansas should lead through schools, heal... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -719,8 +719,8 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Marty Tuley is profiled here for Kansas Governor as a Democratic. Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-centered economic development, energy, voting access, an... Health and fitness are the second strongest candidate-controlled signal, reflecting Tuley's identity as an author and personal trainer. The campaign platform calls for daily physical education, farm-to-table school food, prevention-focused obesity policy, and... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 25 source-backed items across 10 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (... Education / curriculum / schools: Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy mea... Education / curriculum / schools: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-ce... Education / curriculum / schools: Tuley's economic message is less technocratic than investment-oriented. His campaign home page says Kansas should attract businesses by investing in education, workforce development, and local growth rathe... Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object],[object Object],[object Object],[object Object],[object Object]",
+  "recordSummary": "This profile links 25 public items across 10 of the 14 issue areas. Examples include: LGBT / gender / parental rights: On cultural and family-policy issues, Tuley's most visible distinctive position is his statement that he supports transgender rights but opposes transgender girls competing in sports with biological girls (... Education / curriculum / schools: Education is the clearest and most repeated issue cluster. Tuley's platform calls for top-25 national teacher pay, better benefits, fully funded junior college and technical school tuition, two healthy mea... Education / curriculum / schools: Marty Tuley's public campaign record is built less around a long elected-office record and more around a candidate-controlled platform: public schools, health and fitness, marijuana legalization, Kansas-ce... Education / curriculum / schools: Tuley's economic message is less technocratic than investment-oriented. His campaign home page says Kansas should attract businesses by investing in education, workforce development, and local growth rathe... Public online activity is listed separately as context.",
+  "ownWordsNarrative": ",,,,",
   "whereTheyWorship": "Public sources do not identify a current church affiliation for Tuley. His campaign language leans heavily on values, family, and Kansas roots, but the available public record does not name a congregation or denomination.",
   "campaignFinance": {
     "totalRaised": "totalRaised: $2,600.00; totalSpent: $193.89; cashOnHand: $2,406.11; inKind: $0.00; otherTransactions: $0.00; reportingPeriod: January 1, 2025 through December 31, 2025; filed: 2026-01-12 2:25:45 PM; treasurer: Marcie Wainright; sourceIds: s-kpdc-202601; s-kpdc-treasurer",
@@ -770,7 +770,7 @@ export const MARTY_TULEY_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Reviewed public records"
   },
-  "socialResearchNote": "31 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "31 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-kpdc-statewide-2026",

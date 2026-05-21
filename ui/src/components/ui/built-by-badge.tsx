@@ -4,7 +4,7 @@ import { withSiteBasePath } from "@/lib/site-env";
 
 export default function BuiltByBadge() {
   return (
-    <div className="fixed bottom-3 left-3 sm:bottom-5 sm:left-5 z-50 no-print">
+    <div className="fixed bottom-5 left-5 z-50 hidden md:block no-print">
       <a
         href="https://www.preissersolutions.com/"
         target="_blank"

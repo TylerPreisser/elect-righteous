@@ -24,7 +24,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Candidate statement: abortion is wrong at any stage - campaign life page, n.d., https://kansansformarshall.com/life (abortion) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "abortion is wrong at any stage - campaign life page, n.d., https://kansansformarshall.com/life (abortion) ",
         "sourceIds": [
           "s-campaign-life",
           "src-roger-marshall-0051"
@@ -62,7 +62,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -83,7 +83,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public record: KSHB - Kansas politicians join Hawley — accessed 2026-03-30 Social/online observations are public signals, not confirmed policy positions.",
+        "text": "KSHB - Kansas politicians join Hawley — accessed 2026-03-30 ",
         "sourceIds": [
           "src-roger-marshall-0068"
         ]
@@ -153,7 +153,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -174,7 +174,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-introduces-comprehensive-bill-to-reform-americas-dysfunctional-budget-process/ Social/online observations are public signals, not confirmed policy positions.",
+        "text": "https://www.marshall.senate.gov/newsroom/press-releases/senator-marshall-introduces-comprehensive-bill-to-reform-americas-dysfunctional-budget-process/ ",
         "sourceIds": [
           "s-budget-reform"
         ]
@@ -260,7 +260,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: CU Today - Credit Card Bill + Trump — accessed 2026-03-30 Social/online observations are public signals, not confirmed policy positions.",
+        "text": "CU Today - Credit Card Bill + Trump — accessed 2026-03-30 ",
         "sourceIds": [
           "src-roger-marshall-0085",
           "src-roger-marshall-0005",
@@ -322,7 +322,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Candidate statement: On the Issues - Gun Control — accessed 2026-03-30 Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On the Issues - Gun Control — accessed 2026-03-30 ",
         "sourceIds": [
           "src-roger-marshall-0086",
           "s-gun-vote-statement"
@@ -376,7 +376,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Candidate statement: On the Issues - Immigration — accessed 2026-03-30 Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On the Issues - Immigration — accessed 2026-03-30 ",
         "sourceIds": [
           "src-roger-marshall-0100",
           "src-roger-marshall-0078"
@@ -447,7 +447,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate statement: On the Issues - Principles & Values — accessed 2026-03-30 Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On the Issues - Principles & Values — accessed 2026-03-30 ",
         "sourceIds": [
           "src-roger-marshall-0115"
         ]
@@ -509,7 +509,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Public evidence: Campaign Finance: As the incumbent senator, Marshall has access to a substantial war chest and national Republican fundraising apparatus. Specific 2026 cycle totals should be checked at FEC.gov. Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Campaign Finance: As the incumbent senator, Marshall has access to a substantial war chest and national Republican fundraising apparatus. Specific 2026 cycle totals should be checked at FEC.gov. ",
         "sourceIds": [
           "src-roger-marshall-0022"
         ]
@@ -562,7 +562,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -572,7 +572,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -613,7 +613,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Public evidence: Campaign Finance: As the incumbent senator, Marshall has access to a substantial war chest and national Republican fundraising apparatus. Specific 2026 cycle totals should be checked at FEC.gov. Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Campaign Finance: As the incumbent senator, Marshall has access to a substantial war chest and national Republican fundraising apparatus. Specific 2026 cycle totals should be checked at FEC.gov. ",
         "sourceIds": [
           "src-roger-marshall-0022"
         ]
@@ -666,7 +666,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: — marshall.senate.gov press release, March 28, 2026 Social/online observations are public signals, not confirmed policy positions.",
+        "text": "— marshall.senate.gov press release, March 28, 2026 ",
         "sourceIds": [
           "src-roger-marshall-0050"
         ]
@@ -696,7 +696,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Roger Marshall is profiled here for U.S. Senator, Kansas as a Republican incumbent/current official. KCUR Candidate Guide — accessed 2026-03-30. Kansas Reflector - Campaign Profile (Aug 2025). These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 20 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Abortion / life: abortion is wrong at any stage - campaign life page, n.d., https://kansansformarshall.com/life (abortion). Abortion / life: National Pro-Life Scorecard. Abortion / life: SBA Pro-Life - Roger Marshall — accessed 2026-03-30. Education / curriculum / schools: KSHB - Kansas politicians join Hawley — accessed 2026-03-30. Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 20 public items across 8 of the 14 issue areas. Examples include: Abortion / life: abortion is wrong at any stage - campaign life page, n.d., https://kansansformarshall.com/life (abortion). Abortion / life: National Pro-Life Scorecard. Abortion / life: SBA Pro-Life - Roger Marshall — accessed 2026-03-30. Education / curriculum / schools: KSHB - Kansas politicians join Hawley — accessed 2026-03-30. Public online activity is listed separately as context.",
   "ownWordsNarrative": "Social research is included only as observed public behavior. The local social harvest covered X, Facebook, YouTube, Instagram, LinkedIn, Truth Social, Gab, Gettr, Substack, Reddit, TikTok, official Senate site, and public-news embeds. Direct X/Facebook/Instagram engagement totals were not visible. No current candidate-controlled Truth Social, Gab, Reddit, TikTok, Substack, or accessible Gettr activity was confirmed.",
   "whereTheyWorship": "Marshall's church is First Christian Church in Great Bend, a Disciples of Christ congregation. Public records tie him to the church as an elder, deacon, board chair, and Sunday school teacher, making his involvement long-running and public rather than incidental.",
   "campaignFinance": {
@@ -735,7 +735,7 @@ export const ROGER_MARSHALL_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-01-01 through 2026-03-31",
     "source": "FEC committee summary for Kansans for Marshall, C00576173"
   },
-  "socialResearchNote": "33 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "33 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-congress-member",

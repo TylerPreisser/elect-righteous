@@ -10,7 +10,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
   "slug": "max-dibble",
   "name": "Max L. Dibble",
   "party": "NP",
-  "position": "Kansas House District 110 candidate; party pending direct SOS readback",
+  "position": "Kansas House District 110 candidate; party not listed in the current source set",
   "electionSlug": "ks-house-110",
   "incumbent": false,
   "occupation": "Phillips County commissioner",
@@ -19,7 +19,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -49,7 +49,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -59,7 +59,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: Phillips County minutes record Dibble discussing budget adjustments to increase government efficiency.",
+        "text": "Phillips County minutes record Dibble discussing budget adjustments to increase government efficiency.",
         "sourceIds": [
           "s-phillips-minutes-2025-01-13"
         ]
@@ -80,7 +80,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: Phillips County minutes record Dibble mentioning a housing development project on the south side of Phillipsburg.",
+        "text": "Phillips County minutes record Dibble mentioning a housing development project on the south side of Phillipsburg.",
         "sourceIds": [
           "s-phillips-minutes-2025-01-13"
         ]
@@ -101,7 +101,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -111,7 +111,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -121,7 +121,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -131,7 +131,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: The state roster audit found Max L. Dibble on the official Kansas SOS 2026 Primary list for House District 110.",
+        "text": "The state roster audit found Max L. Dibble on the official Kansas SOS 2026 Primary list for House District 110.",
         "sourceIds": [
           "s-sos-2026-primary"
         ]
@@ -152,7 +152,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -162,7 +162,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public record: Kansas Legislature minutes record Dibble testifying about pipelines in county rights-of-way and the related local tax base.",
+        "text": "Kansas Legislature minutes record Dibble testifying about pipelines in county rights-of-way and the related local tax base.",
         "sourceIds": [
           "s-ksleg-2022-utilities"
         ]
@@ -183,7 +183,7 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: The City of Phillipsburg lists Max Dibble as Phillips County Commissioner District 2 representative on the Economic Development Advisory Board.",
+        "text": "The City of Phillipsburg lists Max Dibble as Phillips County Commissioner District 2 representative on the Economic Development Advisory Board.",
         "sourceIds": [
           "s-phillipsburg-edab"
         ]
@@ -204,24 +204,24 @@ export const MAX_DIBBLE_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
       "socialSignals": []
     }
   ],
-  "whoTheyAre": "Max L. Dibble was added because House District 110 includes parts of Ellis County and the state audit found the race missing from the site. Public records identify Dibble as a Phillips County commissioner. Phillips County minutes show him participating in county votes and budget/operations discussions, and the City of Phillipsburg lists him as the Phillips County Commission District 2 representative on its Economic Development Advisory Board.",
-  "recordSummary": "The current record confirms an official HD110 roster finding plus a local-government record as Phillips County commissioner. Party is deliberately left as not-party-rendered in the v2 schema until a direct SOS party field is captured; this avoids inventing a party label from prior county activity.",
-  "whereTheyWorship": "No direct public evidence of a current worship community was found in this missing-roster pass. No faith-based policy inference is made.",
+  "whoTheyAre": "Max L. Dibble is listed in public records for the race. Public records identify Dibble as a Phillips County commissioner. Phillips County minutes show him participating in county votes and budget/operations discussions, and the City of Phillipsburg lists him as the Phillips County Commission District 2 representative on its Economic Development Advisory Board.",
+  "recordSummary": "The current record confirms an official HD110 roster finding plus a local-government record as Phillips County commissioner. Party is deliberately left as the current source set does not list a party affiliation; this avoids inventing a party label from prior county activity.",
+  "whereTheyWorship": "No direct public evidence of a current worship community was found . No faith-based policy inference is made.",
   "campaignFinance": {
-    "totalRaised": "Not itemized in the reviewed public records for this missing-roster pass",
-    "narrative": "No itemized campaign-finance filing was found in this missing-roster pass.",
+    "totalRaised": "Not itemized in the reviewed public records for this roster review",
+    "narrative": "No itemized campaign-finance filing was found .",
     "donors": [],
     "reportingPeriod": "Most recent public record reviewed on 2026-05-20",
     "source": "Kansas SOS Candidate List - 2026 Primary"
   },
-  "socialResearchNote": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for Max L. Dibble in this missing-roster pass. Public social evidence remains a signal layer only; none is used as a confirmed policy position.",
+  "socialResearchNote": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for Max L. Dibble . Public social evidence remains a signal layer only; none is used as a confirmed policy position.",
   "sources": [
     {
       "id": "s-sos-2026-primary",

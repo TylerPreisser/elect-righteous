@@ -21,7 +21,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -41,7 +41,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -62,7 +62,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -72,7 +72,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -82,7 +82,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -113,7 +113,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -134,7 +134,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public record: Within Reason with Mike Matson (News Radio KMAN, March 2026) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Within Reason with Mike Matson (News Radio KMAN, March 2026) ",
         "sourceIds": [
           "src-anne-parelkar-0049"
         ]
@@ -194,7 +194,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -225,7 +225,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). T... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). T... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -277,7 +277,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Within Reason with Mike Matson (News Radio KMAN, March 2026) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Within Reason with Mike Matson (News Radio KMAN, March 2026) ",
         "sourceIds": [
           "src-anne-parelkar-0049",
           "src-anne-parelkar-0072",
@@ -316,7 +316,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -337,7 +337,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). T... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public post counts and engagement through a logged-out API capture. The Bluesky profile listed 106 followers, 35 follows, and 126 posts as of May 11, 2026 (source). T... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -389,7 +389,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -397,8 +397,8 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Anne Parelkar is profiled here for U.S. Senate candidate as a Democratic. Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); Bluesky is the only account in that set that yielded public... https://kansasreflector.com/2025/08/25/democratic-immigration-lawyer-wants-to-fix-broken-system-with-run-for-u-s-senate-in-kansas/. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 7 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Immigration / border: Within Reason with Mike Matson (News Radio KMAN, March 2026). Immigration / border: KMAN Radio - Anne Parelkar Interview (Mar 2026). Election integrity / voting / courts: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); B... Public safety / law enforcement / criminal justice: Within Reason with Mike Matson (News Radio KMAN, March 2026). Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object]",
+  "recordSummary": "This profile links 7 public items across 4 of the 14 issue areas. Examples include: Immigration / border: Within Reason with Mike Matson (News Radio KMAN, March 2026). Immigration / border: KMAN Radio - Anne Parelkar Interview (Mar 2026). Election integrity / voting / courts: Parelkar's platform footprint is broader than the portion that was measurable in this harvest. Her campaign website links official Facebook, Instagram, Bluesky, TikTok, and YouTube accounts (source); B... Public safety / law enforcement / criminal justice: Within Reason with Mike Matson (News Radio KMAN, March 2026). Public online activity is listed separately as context.",
+  "ownWordsNarrative": "",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Parelkar has spoken publicly about being raised Presbyterian in Arkansas, but the source material does not identify a current Kansas congregation.",
   "campaignFinance": {
     "totalRaised": "sourceIds: s-fec-candidate; s-fec-committee; coverageStart: 2025-03-03; coverageEnd: 2026-03-31; totalReceipts: 19898; totalContributions: 14398; totalIndividualContributions: 14398; itemizedIndividualContributions: 9676; unitemizedIndividualContributions: 4722; partyCommitteeContributions: 0; otherCommitteeContributions: 0; totalLoansReceived: 5500; candidateLoans: 5500; totalDisbursements: 19707.85; operatingExpenditures: 19707.85; endingCashOnHand: 190.15; debtsOwedByCommittee: 5500",
@@ -408,7 +408,7 @@ export const ANNE_PARELKAR_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Reviewed public records"
   },
-  "socialResearchNote": "16 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "16 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-fec-candidate",

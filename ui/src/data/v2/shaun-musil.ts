@@ -19,7 +19,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -49,7 +49,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -59,7 +59,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate statement: Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 showed Hays was serious about development and that retail was a priority. In 2026, after discussion of Chick-fil-A incentives, he credited Grow Hays and city staff and asked, \"Chick-fil-A now; what's next?\" So... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 showed Hays was serious about development and that retail was a priority. In 2026, after discussion of Chick-fil-A incentives, he credited Grow Hays and city staff and asked, \"Chick-fil-A now; what's next?\" So... ",
         "sourceIds": [
           "s-hayspost-i70-land-2024",
           "s-nextech",
@@ -141,7 +141,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate statement: On budgets and taxes, Musil's message is cautious. He says he does not want to raise the mill levy in the next few years, but also says costs change and \"you never want to say never.\" In 2023 budget coverage, he acknowledged that residents and business owners were feeling cost pressure and said he wanted efficiencies without putting future commissioners in a dire position. In 2026 budget discussions, his concern tur... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On budgets and taxes, Musil's message is cautious. He says he does not want to raise the mill levy in the next few years, but also says costs change and \"you never want to say never.\" In 2023 budget coverage, he acknowledged that residents and business owners were feeling cost pressure and said he wanted efficiencies without putting future commissioners in a dire position. In 2026 budget discussions, his concern tur... ",
         "sourceIds": [
           "s-nextech"
         ]
@@ -217,7 +217,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -227,7 +227,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -237,7 +237,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: His COVID-era comments are the sharpest example of his governing style under pressure. As mayor in 2020, Musil backed mask rules and enforcement while saying his goal was to keep schools and businesses open. After his mayoral year ended, he said the commission disagreed, worked it out, and acted for the community, adding that he had been scared by some decisions but felt the commission did the right thing. The publi... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His COVID-era comments are the sharpest example of his governing style under pressure. As mayor in 2020, Musil backed mask rules and enforcement while saying his goal was to keep schools and businesses open. After his mayoral year ended, he said the commission disagreed, worked it out, and acted for the community, adding that he had been scared by some decisions but felt the commission did the right thing. The publi... ",
         "sourceIds": [
           "s-hayspost-mask-2020"
         ]
@@ -258,7 +258,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: The strongest recurring theme is water. In his 2025 candidate Q&A, Musil said he was running again because Hays had \"unfinished business,\" mainly the water project, and said water should always be the city's No. 1 issue. At the 2025 forum, he said he believed R9 would happen, defended Hays' conservation record, and argued that the city was not taking water from Kinsley. Earlier, after a favorable 2024 ruling, he cal... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The strongest recurring theme is water. In his 2025 candidate Q&A, Musil said he was running again because Hays had \"unfinished business,\" mainly the water project, and said water should always be the city's No. 1 issue. At the 2025 forum, he said he believed R9 would happen, defended Hays' conservation record, and argued that the city was not taking water from Kinsley. Earlier, after a favorable 2024 ruling, he cal... ",
         "sourceIds": [
           "s-nextech",
           "s-goodparty",
@@ -356,7 +356,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: City Page: haysusa.com/273/Shaun-Musil",
+        "text": "City Page: haysusa.com/273/Shaun-Musil",
         "sourceIds": [
           "s-city-musil",
           "s-nextech"
@@ -386,7 +386,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate statement: Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 showed Hays was serious about development and that retail was a priority. In 2026, after discussion of Chick-fil-A incentives, he credited Grow Hays and city staff and asked, \"Chick-fil-A now; what's next?\" So... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 showed Hays was serious about development and that retail was a priority. In 2026, after discussion of Chick-fil-A incentives, he credited Grow Hays and city staff and asked, \"Chick-fil-A now; what's next?\" So... ",
         "sourceIds": [
           "s-hayspost-i70-land-2024",
           "s-nextech",
@@ -456,7 +456,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 showed Hays was serious about development and that retail was a priority. In 2026, after discussion of Chick-fil-A incentives, he credited Grow Hays and city staff and asked, \"Chick-fil-A now; what's next?\" So... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 showed Hays was serious about development and that retail was a priority. In 2026, after discussion of Chick-fil-A incentives, he credited Grow Hays and city staff and asked, \"Chick-fil-A now; what's next?\" So... ",
         "sourceIds": [
           "s-hayspost-i70-land-2024",
           "s-nextech",
@@ -541,7 +541,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible during public-source review, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or c... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The visible social footprint is limited. GoodParty lists Facebook, LinkedIn, and city links for Musil, but says the profile is unclaimed and issue fields are not filled out. The Facebook page at facebook.com/musilcomish was not publicly accessible during public-source review, and LinkedIn activity was visible only through public search previews. No clear X/Twitter, Instagram, Threads, Bluesky, TikTok, Substack, or c... ",
         "sourceIds": [
           "s-goodparty"
         ]
@@ -581,7 +581,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Shaun Musil is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. The strongest recurring theme is water. In his 2025 candidate Q&A, Musil said he was running again because Hays had \"unfinished business,\" mainly the water project, and said water should always be the city's No. 1 issue. At the 2025 forum, he said he believed... Musil also uses business-owner language. As co-owner of the former Paisley Pear, he described downtown as a welcoming place for students and families, saying FHSU students used the back room to study and relax and that he loved welcoming college students down... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 25 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 show... Taxes / spending / debt: On budgets and taxes, Musil's message is cautious. He says he does not want to raise the mill levy in the next few years, but also says costs change and \"you never want to say never.\" In 2023 budget coverage, he ac... Taxes / spending / debt: 2026 city minutes/agendas: April 2026 city materials show Musil present for meetings involving development incentives, housing fee waivers, and routine governance, but the minutes are mostly procedural rather than... Economy / jobs / labor: On budgets and taxes, Musil's message is cautious. He says he does not want to raise the mill levy in the next few years, but also says costs change and \"you never want to say never.\" In 2023 budget coverage, he ack... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 25 public items across 8 of the 14 issue areas. Examples include: Taxes / spending / debt: Musil pairs that water message with a pro-growth, pro-retail view of Hays. He repeatedly says Hays needs more retail, more housing, and a stronger sales-tax base. In 2024, he said city-owned land north of I-70 show... Taxes / spending / debt: On budgets and taxes, Musil's message is cautious. He says he does not want to raise the mill levy in the next few years, but also says costs change and \"you never want to say never.\" In 2023 budget coverage, he ac... Taxes / spending / debt: 2026 city minutes/agendas: April 2026 city materials show Musil present for meetings involving development incentives, housing fee waivers, and routine governance, but the minutes are mostly procedural rather than... Economy / jobs / labor: On budgets and taxes, Musil's message is cautious. He says he does not want to raise the mill levy in the next few years, but also says costs change and \"you never want to say never.\" In 2023 budget coverage, he ack... Public online activity is listed separately as context.",
   "whereTheyWorship": "No public faith statement by Musil found in accessible campaign/city/news materials reviewed here. The Hays City Commission (excluding the mayor) has ZERO confirmed church affiliations. This is the most striking finding. Four of the five elected commissioners (Cunningham, Musil, Jacobs, Vilaysing) have no public faith identity whatsoever. This is unusual f... Church affiliations for Cunningham, Musil, Jacobs, Vilaysing, Dougherty -- Only Ruder (Catholic) is confirmed. This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "Not itemized in reviewed public records",
@@ -591,7 +591,7 @@ export const SHAUN_MUSIL_V2: CandidateFullV2 = {
     "reportingPeriod": "Reviewed public filings as of 2026-05-20",
     "source": "Fec (https://www.fec.gov/data/candidate/H6KS03258/)"
   },
-  "socialResearchNote": "18 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "18 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-city-commission",

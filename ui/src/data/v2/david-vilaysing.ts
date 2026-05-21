@@ -21,7 +21,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -41,7 +41,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -62,7 +62,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Public evidence: HaysPost: Officer on de-escalation training Social/online observations are public signals, not confirmed policy positions.",
+        "text": "HaysPost: Officer on de-escalation training ",
         "sourceIds": [
           "s-hayspost-deescalation"
         ]
@@ -74,7 +74,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... ",
         "sourceIds": [
           "s-hayspost-budget-prep",
           "s-tigermedia-budget-2025"
@@ -137,7 +137,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... ",
         "sourceIds": [
           "s-hayspost-budget-prep",
           "s-tigermedia-forum",
@@ -189,7 +189,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -199,7 +199,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -209,7 +209,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they have no business sitting in those seats. He proposed workforce collaboration among the city, local businesses, Hays High, and Fort Hays State University, and his early swearing-in comments praised department leaders... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they have no business sitting in those seats. He proposed workforce collaboration among the city, local businesses, Hays High, and Fort Hays State University, and his early swearing-in comments praised department leaders... ",
         "sourceIds": [
           "s-tigermedia-forum"
         ]
@@ -230,7 +230,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: HaysPost Candidate Q&A: David Vilaysing Social/online observations are public signals, not confirmed policy positions.",
+        "text": "HaysPost Candidate Q&A: David Vilaysing ",
         "sourceIds": [
           "s-hayspost-qa",
           "s-ileeta-dxi"
@@ -281,7 +281,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Candidate statement: Vilaysing's law-enforcement and training background is a major part of how he presents himself. His DXI Training Solutions site describes responsible conflict management for first responders, businesses, and individuals. In a February 2026 Hays Post story, he said de-escalation training is meant to make law enforcement, civilians, and everyone safer. He also emphasized self-control and emotional intelligence, arguin... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Vilaysing's law-enforcement and training background is a major part of how he presents himself. His DXI Training Solutions site describes responsible conflict management for first responders, businesses, and individuals. In a February 2026 Hays Post story, he said de-escalation training is meant to make law enforcement, civilians, and everyone safer. He also emphasized self-control and emotional intelligence, arguin... ",
         "sourceIds": [
           "s-dxi-home",
           "s-hayspost-budget-prep",
@@ -342,7 +342,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public record: Hays Post: Water, retail, housing top issues Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Hays Post: Water, retail, housing top issues ",
         "sourceIds": [
           "s-hayspost-election-night",
           "s-tigermedia-budget-2025"
@@ -385,7 +385,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking office, he repeated that approach during 2026 budget discussions, challenging department heads to ask frontline staff what the city can stop doing, according to Hays Post. His February 2026 request to review p... ",
         "sourceIds": [
           "s-hayspost-budget-prep",
           "s-hays-city-commission",
@@ -436,7 +436,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -444,7 +444,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "David Vilaysing is profiled here for Hays City Commissioner as a nonpartisan incumbent/current official. The most consistent city-policy themes are water, housing, and cost discipline. Vilaysing calls the R9 water project important but not enough by itself, saying Hays needs both a secure near-term source and a permanent long-term answer. On housing, he talks ab... Hays Catholic Schools Advancement Director Announcement. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 13 source-backed items across 7 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking offi... Economy / jobs / labor: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking offic... Economy / jobs / labor: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they have no bus... Health care / insurance / Medicaid: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 13 public items across 7 of the 14 issue areas. Examples include: Taxes / spending / debt: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking offi... Economy / jobs / labor: His preferred governing style is bottom-up and operational. In the candidate Q&A, he said the city should talk to \"the people actually doing the jobs\" before deciding what is needed or not needed. After taking offic... Economy / jobs / labor: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they have no bus... Health care / insurance / Medicaid: That conflict-management language also shows up in politics. At the October 2025 candidate forum, Tiger Media Network quoted him saying commissioners have to lead by example when conflict arises, or they... Public online activity is listed separately as context.",
   "whereTheyWorship": "No current church affiliation or explicit public faith statement was verified in reviewed sources.",
   "campaignFinance": {
     "totalRaised": "Same as donorFunding: no online donor/funding detail was verified.",
@@ -453,7 +453,7 @@ export const DAVID_VILAYSING_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "14 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "14 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-hays-city-commission",

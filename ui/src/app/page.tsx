@@ -23,21 +23,21 @@ interface HowItWorksItem {
 const HOW_IT_WORKS: HowItWorksItem[] = [
   {
     icon: <Globe size={32} strokeWidth={1.5} />,
-    title: "Multi-Layer Source Collection",
+    title: "Wide Source Collection",
     description:
-      "The working archive already spans 70 candidate research folders, 31 long-form reports, more than 240,000 lines of consolidated candidate research, and 34,000+ captured source URLs. We pull from campaign sites, government filings, court records, local reporting, social media, meeting records, archived web pages, and finance databases.",
+      "The archive pulls from campaign sites, government filings, court records, local reporting, meeting records, archived web pages, social platforms, and finance databases.",
   },
   {
     icon: <ShieldCheck size={32} strokeWidth={1.5} />,
-    title: "Primary-Source Verification",
+    title: "Primary-Source Checks",
     description:
-      "Whenever possible, claims are checked against the underlying document, not just a campaign summary or a quoted article. That means cross-checking legislative records, FEC and Kansas ethics filings, city and county minutes, church websites, court dockets, licensing records, archived snapshots, and direct quotes in context.",
+      "Whenever possible, claims are checked against the underlying record, with filings, minutes, court dockets, archived pages, and direct quotes kept in context.",
   },
   {
     icon: <FileText size={32} strokeWidth={1.5} />,
-    title: "Research Pipeline, Not Spin",
+    title: "Plain-English Dossiers",
     description:
-      "Each candidate page is built from multiple research layers: biography, public record, campaign finance, faith/church documentation, verbatim quotes, and verified adverse-public-record findings. We write in plain English, surface uncertainty when the record is thin, and keep the source trail visible so readers can inspect the evidence for themselves.",
+      "Each profile separates biography, issue positions, campaign finance, community notes, quotes, public actions, and linked sources so readers can inspect the evidence themselves.",
   },
 ];
 
@@ -105,13 +105,12 @@ export default function HomePage() {
                 </p>
 
                 <h1 className="max-w-4xl font-heading text-4xl font-extrabold leading-[1.03] md:text-6xl">
-                  A source-backed field guide for the 2026 ballot.
+                  Source-backed candidate intelligence for the 2026 ballot.
                 </h1>
 
                 <p className="mt-5 max-w-2xl text-base leading-relaxed text-white/76 md:text-lg">
-                  Every profile is organized as a voter dossier: public record, candidate statements,
-                  social/online observations, campaign finance, faith/community notes where public,
-                  and a source trail you can inspect.
+                  A quiet, inspectable voter guide for Hays-area races: candidate statements,
+                  public actions, campaign finance, and cited source trails in one place.
                 </p>
 
                 <div className="mt-7 grid gap-3 sm:grid-cols-2">
@@ -132,36 +131,33 @@ export default function HomePage() {
                 </div>
               </div>
 
-              <div className="rounded-lg border border-white/12 bg-white/[0.06] p-4 shadow-[0_24px_80px_rgba(0,0,0,.35)] backdrop-blur">
+              <div className="rounded-lg border border-white/12 bg-white/[0.06] p-5 shadow-[0_24px_80px_rgba(0,0,0,.35)] backdrop-blur">
                 <div className="mb-4 flex items-center justify-between border-b border-white/10 pb-3">
                   <span className="font-heading text-sm font-bold uppercase tracking-widest text-white/82">
-                    Live archive
+                    Research archive
                   </span>
                   <span className="rounded bg-teal/15 px-2 py-1 text-xs font-semibold text-teal">
-                    Updated 2026 cycle
+                    2026 cycle
                   </span>
                 </div>
 
-                <dl className="grid grid-cols-2 gap-3">
+                <dl className="divide-y divide-white/10">
                   {[
                     ["Profiles", V2_CANDIDATES.length.toLocaleString()],
                     ["Races", ELECTIONS.length.toLocaleString()],
                     ["Public sources", sourceCount.toLocaleString()],
                     ["Record items", actionCount.toLocaleString()],
                   ].map(([label, value]) => (
-                    <div key={label} className="rounded-md border border-white/10 bg-black/18 p-3">
+                    <div key={label} className="flex items-baseline justify-between gap-4 py-3 first:pt-0 last:pb-0">
                       <dt className="text-xs uppercase tracking-wide text-white/55">{label}</dt>
-                      <dd className="mt-1 font-heading text-2xl font-bold text-white">{value}</dd>
+                      <dd className="font-heading text-2xl font-bold text-white">{value}</dd>
                     </div>
                   ))}
                 </dl>
 
-                <div className="mt-4 rounded-md bg-white/[0.04] p-3">
-                  <p className="text-xs uppercase tracking-wide text-white/50">Matrix standard</p>
-                  <p className="mt-1 font-heading text-lg font-bold">14 issue areas per candidate</p>
-                  <p className="mt-1 text-sm leading-relaxed text-white/64">
-                    Empty issues are explicitly marked; social observations stay separate from documented actions.
-                  </p>
+                <div className="mt-4 border-t border-white/10 pt-4">
+                  <p className="text-xs uppercase tracking-wide text-white/50">Profile standard</p>
+                  <p className="mt-1 font-heading text-lg font-bold">14 issue areas, cited line by line</p>
                 </div>
               </div>
             </div>
@@ -177,8 +173,11 @@ export default function HomePage() {
                 className="text-3xl md:text-4xl font-heading font-bold mb-3"
                 style={{ color: "var(--color-navy)" }}
               >
-                Elections Relevant to Hays, Kansas
+                Start with the ballot
               </h2>
+              <p className="mx-auto max-w-2xl text-sm leading-relaxed" style={{ color: "var(--color-slate)" }}>
+                Races are grouped by how voters usually scan a ballot, from federal offices to local seats.
+              </p>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
@@ -186,12 +185,12 @@ export default function HomePage() {
                 <Link
                   key={cat.hash}
                   href={`/elections#${cat.hash}`}
-                  className="group block rounded-lg border bg-white p-6 text-left transition-all duration-200 hover:-translate-y-0.5 hover:border-teal/40 hover:shadow-[0_18px_45px_rgba(16,64,93,0.10)]"
+                  className="group block rounded-lg border bg-white p-5 text-left transition-all duration-200 hover:-translate-y-0.5 hover:border-teal/40 hover:shadow-[0_18px_45px_rgba(16,64,93,0.10)]"
                   style={{ borderColor: "rgba(16, 64, 93, 0.12)" }}
                   aria-label={`View ${cat.label} elections`}
                 >
                   <div
-                    className="mb-5 inline-flex h-12 w-12 items-center justify-center rounded-md"
+                    className="mb-5 inline-flex h-11 w-11 items-center justify-center rounded-md"
                     style={{
                       backgroundColor: `color-mix(in srgb, ${cat.color} 12%, transparent)`,
                       color: cat.color,
@@ -234,24 +233,22 @@ export default function HomePage() {
                 className="text-3xl md:text-4xl font-heading font-bold mb-3"
                 style={{ color: "var(--color-navy)" }}
               >
-                How We Research Every Candidate
+                Built for receipts, not vibes
               </h2>
               <p
                 className="text-lg max-w-4xl mx-auto leading-relaxed"
                 style={{ color: "var(--color-slate)" }}
               >
-                This is not a single Google search and a campaign-bio rewrite.
-                It is a layered research workflow built to gather, compare,
-                verify, and preserve large volumes of public-record material
-                before anything gets turned into a published candidate page.
+                Profiles are assembled from traceable citations,
+                then edited down into a readable voter guide.
               </p>
             </div>
 
-            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-12">
+            <div className="grid grid-cols-1 md:grid-cols-3 gap-8 md:gap-10">
               {HOW_IT_WORKS.map((item) => (
-                <div key={item.title} className="text-center">
+                <div key={item.title} className="text-left">
                   <div
-                    className="inline-flex items-center justify-center w-16 h-16 rounded-full mb-5"
+                    className="inline-flex items-center justify-center w-12 h-12 rounded-md mb-5"
                     style={{
                       backgroundColor: "rgba(28, 195, 175, 0.1)",
                       color: "var(--color-teal)",
@@ -261,7 +258,7 @@ export default function HomePage() {
                     {item.icon}
                   </div>
                   <h3
-                    className="text-xl font-heading font-bold mb-3"
+                    className="text-lg font-heading font-bold mb-3"
                     style={{ color: "var(--color-navy)" }}
                   >
                     {item.title}

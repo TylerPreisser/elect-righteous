@@ -17,6 +17,7 @@ import {
 import type { CandidateFull, OwnWordsSection as OwnWordsData } from "@/data/candidates";
 import { getCandidateResearchSources } from "@/lib/candidate-sources";
 import { FEEDBACK_EMAIL } from "@/lib/config";
+import { normalizePublicCopy } from "@/lib/public-copy";
 
 // ─── Body Paragraph ──────────────────────────────────────────────────────────
 
@@ -80,9 +81,10 @@ function ProfileSection({
 function ParagraphStack({ text }: { text: string }) {
   return (
     <div className="grid gap-5">
-      {text.split("\n\n").map((paragraph, index) => (
-        <BodyText key={index}>{paragraph}</BodyText>
-      ))}
+      {text.split("\n\n").map((paragraph, index) => {
+        const cleaned = normalizePublicCopy(paragraph);
+        return cleaned ? <BodyText key={index}>{cleaned}</BodyText> : null;
+      })}
     </div>
   );
 }
@@ -127,7 +129,7 @@ const SCRUB_TOPIC_STYLES: Record<
     bg: "rgba(16, 64, 93, 0.06)",
   },
   context: {
-    label: "Scrub context",
+    label: "Source context",
     icon: FileText,
     accent: "var(--color-navy-light)",
     bg: "rgba(16, 64, 93, 0.05)",
@@ -157,7 +159,7 @@ const SCRUB_TOPIC_STYLES: Record<
     bg: "rgba(155, 34, 38, 0.08)",
   },
   method: {
-    label: "Harvest notes",
+    label: "Research notes",
     icon: FileText,
     accent: "var(--color-navy-light)",
     bg: "rgba(16, 64, 93, 0.05)",
@@ -503,7 +505,7 @@ function SocialPresenceScrub({
   );
 
   return (
-    <ProfileSection title="Relevant Social / Online Signals" kicker="Public observations">
+    <ProfileSection title="Public Online Activity" kicker="Social/online observations">
       <div>
         <div className="grid gap-3 border-b pb-5" style={{ borderColor: "#e2e8f0" }}>
           <p
@@ -1126,7 +1128,7 @@ export default function CandidateDetailClient({
             </ProfileSection>
           )}
 
-          {/* ── Relevant Social / Online Signals ──────────────────────── */}
+          {/* ── Public Online Activity ──────────────────────── */}
           {candidate.inTheirOwnWords && (
             <SocialPresenceScrub
               candidateName={candidate.name}

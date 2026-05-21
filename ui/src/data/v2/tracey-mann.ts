@@ -27,7 +27,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -37,7 +37,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -47,7 +47,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -57,7 +57,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Public evidence: > -- National Prayer Breakfast coverage, 2024, https://mann.house.gov/about Social/online observations are public signals, not confirmed policy positions.",
+        "text": "> -- National Prayer Breakfast coverage, 2024, https://mann.house.gov/about ",
         "sourceIds": [
           "src-tracey-mann-0005"
         ]
@@ -69,7 +69,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -90,7 +90,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -111,7 +111,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -121,7 +121,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -142,7 +142,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -152,7 +152,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Election integrity / voting / courts.",
+        "text": "No sourced position or public action found for Election integrity / voting / courts.",
         "sourceIds": []
       },
       "actions": [],
@@ -173,7 +173,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: OpenSecrets Profile: opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743 Social/online observations are public signals, not confirmed policy positions.",
+        "text": "OpenSecrets Profile: opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743 ",
         "sourceIds": [
           "src-tracey-mann-0090"
         ]
@@ -194,7 +194,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -245,7 +245,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Local governance / transparency / ethics.",
+        "text": "No sourced position or public action found for Local governance / transparency / ethics.",
         "sourceIds": []
       },
       "actions": [],
@@ -296,7 +296,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -304,7 +304,7 @@ export const TRACEY_MANN_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Tracey Mann is profiled here for U.S. Representative, Kansas's 1st Congressional District as a Republican incumbent/current official. https://mann.house.gov/media/press-releases/rep-mann-defends-religious-freedom-small-business-owners. mann.house.gov press release URL: https://mann.house.gov/media/press-releases/mann-kaptur-colleagues-demand-us-treasury-prioritize-domestic-energy-producers (direct fetch 403; content via search snippet). These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 1 source-backed item across 1 of the 14 issue areas. Representative public-record entries include: Public safety / law enforcement / criminal justice: OpenSecrets Profile: opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743. Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 1 public item across 1 of the 14 issue areas. Examples include: Public safety / law enforcement / criminal justice: OpenSecrets Profile: opensecrets.org/members-of-congress/tracey-mann/summary?cid=N00030743. Public online activity is listed separately as context.",
   "whereTheyWorship": "Mann attends First Covenant Church in Salina, Kansas, affiliated with the Evangelical Covenant Church denomination — a theologically centrist Protestant tradition with roots in Swedish pietism. Before his congressional career, Mann served as Senior Program Director for the National Student Leadership Forum on Faith and Values, a Washington-based nonprofit that runs faith-oriented leadership programs for high school and college students. His public statements frequently invoke faith as a personal anchor, though he does not typically make church policy a campaign centerpiece.",
   "campaignFinance": {
     "totalRaised": "$1,220,354.74",

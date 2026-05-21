@@ -48,7 +48,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   return {
     title: `${candidate.name} — ${party} ${candidate.position}`,
-    description: `Complete research profile for ${candidate.name} (${party}), ${profileStatus.headlineSuffix} for ${candidate.position}. Includes public record, issue positions, campaign finance, faith/community notes where public, and ${sourceCount}+ public sources.`,
+    description: `Complete research profile for ${candidate.name} (${party}), ${profileStatus.headlineSuffix} for ${candidate.position}. Includes issue positions, public actions, campaign finance, faith/community notes where public, and ${sourceCount}+ public sources.`,
     alternates: {
       canonical: candidatePath,
     },

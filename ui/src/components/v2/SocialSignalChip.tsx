@@ -1,17 +1,17 @@
 "use client";
 
 /**
- * SocialSignalChip renders one issue-mapped SocialSignal.
+ * SocialSignalChip renders one issue-mapped SocialSignal as readable prose.
  *
- * IDENTITY.md commitment encoded here: every chip carries the caption
- * "Observed behavior, not a statement of belief." This cannot be removed
- * without editing the component intentionally.
+ * IDENTITY.md commitment encoded here: every item states that it is an observed
+ * online signal, not a confirmed policy position.
  *
  * No grading, no position inference, no flag coloring.
  */
 
 import { useState } from "react";
 import type { SocialSignal, Source } from "@/data/types-v2";
+import { cleanEvidenceCopy } from "@/lib/public-copy";
 import { ExternalLink } from "lucide-react";
 
 /** Platform icon/label — text fallback if we don't have a known platform icon */
@@ -53,14 +53,6 @@ interface SocialSignalChipProps {
 
 const TRUNCATE_AT = 140;
 
-function cleanEvidenceText(text: string) {
-  return text
-    .replace(/https?:\/\/\S+/g, "")
-    .replace(/\s{2,}/g, " ")
-    .replace(/\s+([,.;:])/g, "$1")
-    .trim();
-}
-
 export default function SocialSignalChip({
   signal,
   sources,
@@ -68,7 +60,7 @@ export default function SocialSignalChip({
   const [expanded, setExpanded] = useState(false);
   const sourceById = new Map<string, Source>(sources.map((s) => [s.id, s]));
 
-  const cleanedObservation = cleanEvidenceText(signal.observation);
+  const cleanedObservation = cleanEvidenceCopy(signal.observation);
   const needsTruncation = cleanedObservation.length > TRUNCATE_AT;
   const displayText =
     needsTruncation && !expanded
@@ -81,16 +73,16 @@ export default function SocialSignalChip({
 
   return (
     <div
-      className="rounded-md border-l-2 bg-slate-50 py-3 pl-3 pr-3"
-      style={{ borderColor: "rgba(28, 195, 175, 0.55)" }}
+      className="rounded-md border bg-slate-50 p-4"
+      style={{ borderColor: "rgba(16, 64, 93, 0.10)" }}
     >
       <div className="flex items-start gap-3">
         <PlatformLabel platform={signal.platform} />
 
         <div className="min-w-0 flex-1">
           <p
-            className="font-body leading-snug"
-            style={{ fontSize: "0.9rem", color: "var(--color-charcoal)" }}
+            className="font-body leading-relaxed"
+            style={{ fontSize: "0.9375rem", color: "var(--color-charcoal)" }}
           >
             {displayText}
             {needsTruncation && (
@@ -120,7 +112,14 @@ export default function SocialSignalChip({
               >
                 {expanded ? "less" : "more"}
               </button>
-            )}
+              )}
+          </p>
+
+          <p
+            className="mt-1 font-body text-xs"
+            style={{ color: "var(--color-slate)" }}
+          >
+            Public activity only; not a policy position.
           </p>
 
           {/* Source link(s) */}
@@ -149,13 +148,6 @@ export default function SocialSignalChip({
           )}
         </div>
       </div>
-
-      <p
-        className="mt-2 pl-10 font-body text-xs"
-        style={{ color: "var(--color-slate)" }}
-      >
-        Observed behavior, not a statement of belief.
-      </p>
     </div>
   );
 }

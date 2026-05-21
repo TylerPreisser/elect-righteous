@@ -4,7 +4,7 @@ import {
   Search,
   ShieldCheck,
   FileText,
-  GitBranch,
+  CheckCircle2,
   Layers,
   ChevronRight,
   Globe,
@@ -13,7 +13,7 @@ import {
 export const metadata: Metadata = {
   title: "About | Elect Righteous",
   description:
-    "Learn how Elect Righteous researches candidates, how the reporting pipeline works, and the source reliability standards behind each profile.",
+    "Learn how Elect Righteous researches candidates, checks public sources, and keeps citations visible behind each profile.",
 };
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -30,45 +30,45 @@ interface AgentStep {
 const AGENT_PIPELINE: AgentStep[] = [
   {
     phase: "Phase 1",
-    name: "Election Finder",
+    name: "Roster check",
     icon: <Search size={20} strokeWidth={1.5} />,
     description:
-      "Discovers every upcoming election relevant to your location — city, county, school board, state, and federal — using official Secretary of State websites, county clerk databases, Ballotpedia, and local government records.",
+      "We identify federal, state, county, city, and school-board races relevant to Hays voters and separate filed candidates from current officials or off-cycle officeholders.",
   },
   {
     phase: "Phase 2",
-    name: "Candidate Profiler",
+    name: "Profile research",
     icon: <Layers size={20} strokeWidth={1.5} />,
     description:
-      "For each election, identifies every candidate: declared, filed, and potential write-ins. Sources include official filings, FEC records, state campaign finance databases, campaign websites, and local news announcements.",
+      "For each person, we gather campaign pages, official filings, finance records, local reporting, public statements, and community background where it is public and relevant.",
   },
   {
     phase: "Phase 3",
-    name: "Deep Scraper",
+    name: "Public-record review",
     icon: <Globe size={20} strokeWidth={1.5} />,
     description:
-      "The workhorse. Runs 15+ parallel search passes per candidate — campaign finance, court records, property filings, social media (including archived/deleted posts), news archives, official votes where available, public meeting minutes, endorsements, and donor analysis.",
+      "Meeting minutes, filings, votes, dockets, public notices, archived pages, and candidate-controlled statements are checked against the underlying source whenever possible.",
   },
   {
     phase: "Phase 4",
-    name: "Media Extractor",
+    name: "Media and statements",
     icon: <FileText size={20} strokeWidth={1.5} />,
     description:
-      "Finds and transcribes every video, interview, podcast appearance, and debate involving the candidate. Extracts verbatim quotes with timestamps and source links so voters can see exactly what each candidate said, in context.",
+      "Interviews, forums, videos, questionnaires, campaign posts, and public comments are summarized with links so voters can inspect the original context.",
   },
   {
     phase: "Phase 5",
-    name: "Integrity Analyzer",
+    name: "Words and actions",
     icon: <ShieldCheck size={20} strokeWidth={1.5} />,
     description:
-      "Reviews all gathered intelligence for patterns, contradictions, and notable facts. It checks words against actions, highlights documented context, and helps shape the final editorial profile without reducing people to a score.",
+      "Candidate statements and public actions are kept distinct. If the two appear to differ, the profile says so only when the difference is supported by linked sources.",
   },
   {
     phase: "Phase 6",
-    name: "Report Generator",
-    icon: <GitBranch size={20} strokeWidth={1.5} />,
+    name: "Readable profile",
+    icon: <CheckCircle2 size={20} strokeWidth={1.5} />,
     description:
-      "Compiles everything into beautiful, readable, source-cited reports: full candidate dossiers, election comparison guides, and executive summaries — all published here for voters to review.",
+      "The final page is edited into plain English with citations nearby, clear caveats where the record is thin, and no endorsement language.",
   },
 ];
 
@@ -84,7 +84,7 @@ export default function AboutPage() {
       <main>
         {/* ── HERO ───────────────────────────────────────────────────── */}
         <section
-          className="relative flex items-center justify-center text-center py-24 md:py-32"
+          className="relative overflow-hidden py-16 md:py-24"
           aria-label="About page hero"
         >
           <div
@@ -93,6 +93,9 @@ export default function AboutPage() {
             aria-hidden="true"
           />
           <div className="hero-overlay absolute inset-0" aria-hidden="true" />
+          <div className="absolute inset-0 opacity-25" aria-hidden="true">
+            <div className="h-full w-full bg-[linear-gradient(135deg,rgba(28,195,175,.16),transparent_42%),linear-gradient(rgba(255,255,255,.06)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,.06)_1px,transparent_1px)] bg-[size:auto,32px_32px,32px_32px]" />
+          </div>
 
           <div className="relative z-10 container-main">
             <p
@@ -101,15 +104,15 @@ export default function AboutPage() {
             >
               Transparency &amp; Methodology
             </p>
-            <h1 className="text-4xl md:text-6xl font-heading font-extrabold text-white leading-tight">
-              About
+            <h1 className="max-w-4xl text-4xl md:text-6xl font-heading font-extrabold text-white leading-tight">
+              A voter guide built from public records, not campaign polish.
             </h1>
             <p
-              className="mt-5 max-w-xl mx-auto text-lg leading-relaxed"
+              className="mt-5 max-w-2xl text-base md:text-lg leading-relaxed"
               style={{ color: "rgba(255,255,255,0.70)" }}
             >
-              How we find candidates, how we research them, and the values
-              framework behind every assessment.
+              Elect Righteous gathers the source trail behind Hays-area races
+              and turns it into plain-English profiles voters can check for themselves.
             </p>
           </div>
         </section>
@@ -120,43 +123,52 @@ export default function AboutPage() {
           className="section-white"
           aria-labelledby="mission-heading"
         >
-          <div className="container-main max-w-3xl">
-            <h2
-              id="mission-heading"
-              className="text-3xl md:text-4xl font-heading font-bold mb-6"
-              style={{ color: "var(--color-navy)" }}
-            >
-              Our Mission
-            </h2>
-            <p
-              className="text-lg leading-relaxed mb-5"
-              style={{ color: "var(--color-slate)" }}
-            >
-              Elect Righteous exists to help citizens of Hays, Kansas make
-              fully informed voting decisions grounded in truth and values. We
-              believe that democracy works best when voters have access to
-              complete, accurate, source-cited information about the people
-              asking for their trust.
-            </p>
-            <p
-              className="text-lg leading-relaxed mb-5"
-              style={{ color: "var(--color-slate)" }}
-            >
-              Most voters don&rsquo;t have 40 hours to research every candidate
-              on their ballot. We do the research for you — systematically,
-              transparently, and without editorial bias. We present the facts
-              and let you decide.
-            </p>
-            <p
-              className="text-lg leading-relaxed"
-              style={{ color: "var(--color-slate)" }}
-            >
-              We are guided by Judeo-Christian values, not partisan politics.
-              Our assessment framework measures observable actions against a
-              consistent moral standard. We never endorse candidates. We never
-              tell you who to vote for. We show you the record and trust you to
-              act on it.
-            </p>
+          <div className="container-main">
+            <div className="grid gap-8 lg:grid-cols-[18rem_minmax(0,1fr)] lg:items-start">
+              <div>
+                <p
+                  className="mb-3 text-xs font-heading font-semibold uppercase tracking-widest"
+                  style={{ color: "var(--color-teal-dark)" }}
+                >
+                  Mission
+                </p>
+                <h2
+                  id="mission-heading"
+                  className="text-3xl md:text-4xl font-heading font-bold"
+                  style={{ color: "var(--color-navy)" }}
+                >
+                  Help voters inspect the record before the ballot is due.
+                </h2>
+              </div>
+
+              <div className="max-w-3xl space-y-5">
+                <p
+                  className="text-lg leading-relaxed"
+                  style={{ color: "var(--color-slate)" }}
+                >
+                  Elect Righteous exists to help citizens of Hays, Kansas make
+                  informed voting decisions with source-cited information about
+                  the people asking for public trust.
+                </p>
+                <p
+                  className="text-lg leading-relaxed"
+                  style={{ color: "var(--color-slate)" }}
+                >
+                  Most voters do not have days to research every office,
+                  filing, quote, and public record on their ballot. We organize
+                  that material systematically, keep the citations visible, and
+                  present the facts in plain English.
+                </p>
+                <p
+                  className="text-lg leading-relaxed"
+                  style={{ color: "var(--color-slate)" }}
+                >
+                  We are guided by Judeo-Christian values, not partisan
+                  politics. We do not endorse candidates or tell you who to vote
+                  for. We show the record and trust voters to use judgment.
+                </p>
+              </div>
+            </div>
           </div>
         </section>
 
@@ -173,14 +185,14 @@ export default function AboutPage() {
                 className="text-3xl md:text-4xl font-heading font-bold mb-3"
                 style={{ color: "var(--color-navy)" }}
               >
-                How We Research Every Candidate
+                How the research comes together
               </h2>
               <p
                 className="text-lg max-w-2xl mx-auto"
                 style={{ color: "var(--color-slate)" }}
               >
-                A 6-phase intelligence pipeline runs for every candidate in
-                every race on your ballot.
+                Six repeatable checks move a candidate from roster discovery to
+                a cited, readable profile.
               </p>
             </div>
 
@@ -192,7 +204,7 @@ export default function AboutPage() {
                 aria-hidden="true"
               />
 
-              <ol className="space-y-6" aria-label="Research pipeline phases">
+              <ol className="space-y-6" aria-label="Research checks">
                 {AGENT_PIPELINE.map((step, index) => (
                   <li
                     key={step.phase}
@@ -207,9 +219,8 @@ export default function AboutPage() {
                       {index + 1}
                     </div>
 
-                    {/* Card */}
                     <div
-                      className="flex-1 bg-white rounded-lg p-6 shadow-sm border"
+                      className="flex-1 bg-white rounded-lg p-5 shadow-sm border"
                       style={{ borderColor: "rgba(16,64,93,0.08)" }}
                     >
                       <div className="flex items-center gap-3 mb-2">

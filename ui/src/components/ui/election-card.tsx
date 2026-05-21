@@ -1,5 +1,5 @@
 import Link from "next/link";
-import { Calendar, MapPin, ArrowRight } from "lucide-react";
+import { Calendar, MapPin, ArrowRight, Users } from "lucide-react";
 import Badge from "./badge";
 
 interface ElectionCardProps {
@@ -44,9 +44,9 @@ export default function ElectionCard({
       style={{ borderColor: "rgba(16, 64, 93, 0.12)" }}
       aria-label={`Read about ${name}`}
     >
-      <article className="p-6 flex flex-col h-full">
+      <article className="p-4 sm:p-5 flex min-h-[12rem] flex-col h-full">
         {/* Header */}
-        <div className="flex items-start justify-between gap-3 mb-4">
+        <div className="flex items-start justify-between gap-3 mb-3">
           <Badge variant="type" className="shrink-0 mt-0.5">
             {type}
           </Badge>
@@ -71,14 +71,14 @@ export default function ElectionCard({
             className="text-sm leading-relaxed mb-4 flex-1"
             style={{ color: "var(--color-slate)", fontFamily: "var(--font-body)" }}
           >
-            {plainEnglish.length > 140
-              ? plainEnglish.slice(0, 140).trimEnd() + "…"
+            {plainEnglish.length > 96
+              ? plainEnglish.slice(0, 96).trimEnd() + "..."
               : plainEnglish}
           </p>
         )}
 
         {/* Meta */}
-        <dl className="space-y-1.5 mb-5">
+        <dl className="mt-auto grid gap-1.5 border-t pt-3" style={{ borderColor: "rgba(16,64,93,0.10)" }}>
           <div className="flex items-center gap-2 text-sm text-slate">
             <Calendar size={14} className="shrink-0 text-teal" aria-hidden="true" />
             <dt className="sr-only">Date</dt>
@@ -89,15 +89,19 @@ export default function ElectionCard({
             <dt className="sr-only">Jurisdiction</dt>
             <dd>{jurisdiction}</dd>
           </div>
+          <div className="flex items-center gap-2 text-sm text-slate">
+            <Users size={14} className="shrink-0 text-teal" aria-hidden="true" />
+            <dt className="sr-only">Candidates</dt>
+            <dd>{candidateCount} {candidateCount === 1 ? "profile" : "profiles"}</dd>
+          </div>
         </dl>
 
-        {/* CTA */}
         <span
-          className="mt-auto inline-flex min-h-10 items-center justify-between gap-2 rounded-md px-3 text-sm font-semibold font-heading transition-colors duration-200 group-hover:bg-navy group-hover:text-white"
-          style={{ color: "var(--color-teal-dark)", backgroundColor: "rgba(28, 195, 175, 0.08)" }}
+          className="mt-3 inline-flex items-center gap-2 text-sm font-semibold font-heading transition-colors duration-200 group-hover:text-teal"
+          style={{ color: "var(--color-navy)" }}
           aria-hidden="true"
         >
-          Read More
+          View guide
           <ArrowRight size={15} className="transition-transform duration-200 group-hover:translate-x-1" aria-hidden="true" />
         </span>
       </article>

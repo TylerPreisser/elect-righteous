@@ -13,11 +13,12 @@ import {
   MessageSquare,
   User,
 } from "lucide-react";
-import type { CandidateFullV2, SocialSignal, Source } from "@/data/types-v2";
+import type { CampaignFinanceV2, CandidateFullV2, SocialSignal, Source } from "@/data/types-v2";
 import IssueCardComponent from "@/components/v2/IssueCardComponent";
 import CorrectionForm from "@/components/ui/correction-form";
 import { getProfileStatus } from "@/lib/profile-status";
 import { formatDateLabel, getProfileMetrics } from "@/lib/profile-metrics";
+import { cleanEvidenceCopy, normalizePublicCopy } from "@/lib/public-copy";
 
 const PARTY_LABEL: Record<string, string> = {
   R: "Republican",
@@ -202,11 +203,11 @@ function LinkedNarrativeText({ text }: { text: string }) {
 }
 
 function cleanNarrativeParagraph(paragraph: string) {
-  return paragraph
+  return normalizePublicCopy(paragraph
     .replace(/^[-*_]{3,}$/g, "")
     .replace(/^_([^_]+)_$/g, "$1")
     .replace(/^\*([^*]+)\*$/g, "$1")
-    .trim();
+    .trim());
 }
 
 function NarrativeBlock({ text }: { text: string }) {
@@ -257,14 +258,17 @@ function SocialSignalRow({
           {signal.platform}
         </span>
         <span className="font-body text-sm" style={{ color: "var(--color-slate)" }}>
-          {issueTitle}
+          Related issue: {issueTitle}
         </span>
       </div>
       <p
         className="font-body leading-relaxed"
         style={{ color: "var(--color-charcoal)", fontSize: "0.95rem" }}
       >
-        {signal.observation}
+        {cleanEvidenceCopy(signal.observation)}
+      </p>
+      <p className="font-body text-xs" style={{ color: "var(--color-slate)" }}>
+        Public activity only; not a policy position.
       </p>
       {signalSources.length > 0 && (
         <div className="flex flex-wrap gap-2">
@@ -274,6 +278,85 @@ function SocialSignalRow({
         </div>
       )}
     </li>
+  );
+}
+
+function CampaignFinanceSection({ finance }: { finance: CampaignFinanceV2 }) {
+  const totalRaised = normalizePublicCopy(finance.totalRaised);
+  const narrative = normalizePublicCopy(finance.narrative);
+  const reportingPeriod = normalizePublicCopy(finance.reportingPeriod);
+  const source = normalizePublicCopy(finance.source);
+  const undisclosed = normalizePublicCopy(finance.undisclosed);
+  const totalIsNarrative = totalRaised.length > 90;
+  const primarySummary = totalIsNarrative ? totalRaised : narrative;
+
+  return (
+    <div className="grid gap-5">
+      <div className="grid gap-3 sm:grid-cols-[minmax(0,1fr)_minmax(13rem,0.55fr)]">
+        <div
+          className="rounded-lg border p-4"
+          style={{ borderColor: "rgba(16, 64, 93, 0.12)", backgroundColor: "#f8fafc" }}
+        >
+          <p className="font-body text-sm" style={{ color: "var(--color-slate)" }}>
+            Finance snapshot
+          </p>
+          <p
+            className={totalIsNarrative ? "mt-2 font-body leading-relaxed" : "mt-1 font-heading text-2xl font-bold"}
+            style={{ color: "var(--color-navy)" }}
+          >
+            {totalRaised || "No public finance total listed."}
+          </p>
+        </div>
+
+        <div
+          className="rounded-lg border p-4"
+          style={{ borderColor: "rgba(16, 64, 93, 0.12)", backgroundColor: "#ffffff" }}
+        >
+          <p className="font-body text-sm" style={{ color: "var(--color-slate)" }}>
+            Reporting period
+          </p>
+          <p className="mt-1 font-body leading-relaxed" style={{ color: "var(--color-charcoal)" }}>
+            {reportingPeriod || "Not listed"}
+          </p>
+          {source && (
+            <p className="mt-3 font-body text-xs leading-relaxed" style={{ color: "var(--color-slate)" }}>
+              Source: {source}
+            </p>
+          )}
+        </div>
+      </div>
+
+      {primarySummary && primarySummary !== totalRaised && (
+        <p className="font-body leading-relaxed" style={{ color: "var(--color-charcoal)" }}>
+          {primarySummary}
+        </p>
+      )}
+
+      {finance.donors.length > 0 && (
+        <ul className="grid gap-2 sm:grid-cols-2" role="list">
+          {finance.donors.map((donor) => (
+            <li
+              key={`${donor.name}-${donor.amount}`}
+              className="rounded-md border px-4 py-3"
+              style={{ borderColor: "rgba(16, 64, 93, 0.10)", backgroundColor: "#ffffff" }}
+            >
+              <p className="font-body text-sm leading-snug" style={{ color: "var(--color-charcoal)" }}>
+                {normalizePublicCopy(donor.name)}
+              </p>
+              <p className="mt-1 font-heading text-lg font-bold" style={{ color: "var(--color-navy)" }}>
+                {normalizePublicCopy(donor.amount)}
+              </p>
+            </li>
+          ))}
+        </ul>
+      )}
+
+      {undisclosed && (
+        <p className="font-body text-sm italic" style={{ color: "var(--color-slate)" }}>
+          {undisclosed}
+        </p>
+      )}
+    </div>
   );
 }
 
@@ -370,9 +453,9 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
 
               <div className="mt-6 flex flex-wrap gap-2">
                 {[
-                  ["Issues", "#issues"],
                   ["Background", "#background"],
-                  ["Record", "#record"],
+                  ["Issues", "#issues"],
+                  ["Actions", "#record"],
                   ["Sources", "#sources"],
                 ].map(([label, href]) => (
                   <a
@@ -426,59 +509,11 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
       <div className="container-main py-8 md:py-12">
         <div className="mx-auto max-w-5xl">
           <DossierSection
-            id="issues"
-            title="Where They Stand on Big Issues"
-            kicker="Issue matrix"
-            icon={<BookOpen size={20} />}
-            defaultOpen
-          >
-            <div
-              className="mb-5 grid gap-3 rounded-lg border p-4 sm:grid-cols-3"
-              style={{ borderColor: "rgba(16, 64, 93, 0.12)", backgroundColor: "#f8fafc" }}
-            >
-              <div>
-                <p className="text-xs uppercase tracking-wide" style={{ color: "var(--color-slate)" }}>
-                  Candidate statement
-                </p>
-                <p className="mt-1 font-heading font-bold" style={{ color: "var(--color-navy)" }}>
-                  Shown first when sourced
-                </p>
-              </div>
-              <div>
-                <p className="text-xs uppercase tracking-wide" style={{ color: "var(--color-slate)" }}>
-                  Public record
-                </p>
-                <p className="mt-1 font-heading font-bold" style={{ color: "var(--color-navy)" }}>
-                  {metrics.actionCount} items on file
-                </p>
-              </div>
-              <div>
-                <p className="text-xs uppercase tracking-wide" style={{ color: "var(--color-slate)" }}>
-                  Social / online
-                </p>
-                <p className="mt-1 font-heading font-bold" style={{ color: "var(--color-navy)" }}>
-                  {metrics.socialCount} observations
-                </p>
-              </div>
-            </div>
-            <div className="grid gap-4">
-              {candidate.issues.map((issue, idx) => (
-                <IssueCardComponent
-                  key={issue.id}
-                  issue={issue}
-                  sources={sourcesForIssue(issue)}
-                  defaultExpanded={idx === 0}
-                  recordLabel={profileStatus.recordLabel}
-                />
-              ))}
-            </div>
-          </DossierSection>
-
-          <DossierSection
             id="background"
             title="Who They Are"
             kicker="Background"
             icon={<User size={20} />}
+            defaultOpen
           >
             {candidate.whoTheyAre && (
               <div className="mb-6">
@@ -523,8 +558,55 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
           </DossierSection>
 
           <DossierSection
+            id="issues"
+            title="Where They Stand on Big Issues"
+            kicker="Issue overview"
+            icon={<BookOpen size={20} />}
+          >
+            <div
+              className="mb-5 grid gap-3 rounded-lg border p-4 sm:grid-cols-3"
+              style={{ borderColor: "rgba(16, 64, 93, 0.12)", backgroundColor: "#f8fafc" }}
+            >
+              <div>
+                <p className="text-xs uppercase tracking-wide" style={{ color: "var(--color-slate)" }}>
+                  Position summary
+                </p>
+                <p className="mt-1 font-heading font-bold" style={{ color: "var(--color-navy)" }}>
+                  Shown first when sourced
+                </p>
+              </div>
+              <div>
+                <p className="text-xs uppercase tracking-wide" style={{ color: "var(--color-slate)" }}>
+                  Dated actions
+                </p>
+                <p className="mt-1 font-heading font-bold" style={{ color: "var(--color-navy)" }}>
+                  {metrics.actionCount} items on file
+                </p>
+              </div>
+              <div>
+                <p className="text-xs uppercase tracking-wide" style={{ color: "var(--color-slate)" }}>
+                  Online signals
+                </p>
+                <p className="mt-1 font-heading font-bold" style={{ color: "var(--color-navy)" }}>
+                  {metrics.socialCount} observed
+                </p>
+              </div>
+            </div>
+            <div className="grid gap-4">
+              {candidate.issues.map((issue) => (
+                <IssueCardComponent
+                  key={issue.id}
+                  issue={issue}
+                  sources={sourcesForIssue(issue)}
+                  recordLabel="What they have done"
+                />
+              ))}
+            </div>
+          </DossierSection>
+
+          <DossierSection
             id="record"
-            title={profileStatus.recordLabel}
+            title="Actions and Decisions"
             kicker="Actions and source trail"
             icon={<ListChecks size={20} />}
           >
@@ -543,10 +625,10 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
               </div>
               <div className="rounded border p-4" style={{ borderColor: "rgba(16, 64, 93, 0.12)", backgroundColor: "#f8f9fa" }}>
                 <p className="font-body text-sm" style={{ color: "var(--color-slate)" }}>
-                  Source rule
+                  How to read this section
                 </p>
                 <p className="mt-1 font-body text-sm leading-relaxed" style={{ color: "var(--color-charcoal)" }}>
-                  Official records are prioritized. News reports and candidate statements are labeled by source type; social/online observations are shown separately and are not treated as official actions.
+                  Dated actions appear here when a linked source supports them. Candidate statements, reporting, and public online activity are labeled where they appear.
                 </p>
               </div>
             </div>
@@ -559,7 +641,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                   </span>
                   <span className="font-body text-sm" style={{ color: "var(--color-slate)" }}>
                     {issue.actions.length} {profileStatus.actionLabel}{issue.actions.length === 1 ? "" : "s"}
-                    {issue.socialSignals.length > 0 ? `, ${issue.socialSignals.length} social signal${issue.socialSignals.length === 1 ? "" : "s"}` : ""}
+                    {issue.socialSignals.length > 0 ? `, ${issue.socialSignals.length} online observation${issue.socialSignals.length === 1 ? "" : "s"}` : ""}
                     {issue.gap ? ", gap noted" : ""}
                   </span>
                 </li>
@@ -570,8 +652,8 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
           {(candidate.socialResearchNote || candidate.ownWordsNarrative || socialSignals.length > 0) && (
             <DossierSection
               id="social"
-              title="Relevant Social / Online Signals"
-              kicker="Public observations"
+              title="Public Online Activity"
+              kicker="Social/online observations"
               icon={<MessageSquare size={20} />}
             >
               {candidate.socialResearchNote && (
@@ -599,7 +681,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                 </ul>
               ) : (
                 <p className="mt-3 font-body text-sm italic" style={{ color: "var(--color-slate)" }}>
-                  No issue-relevant follows, likes, comments, reposts, or candidate-controlled posts are listed as source-backed observations.
+                  No issue-relevant follows, likes, comments, reposts, or candidate-controlled posts are listed.
                 </p>
               )}
             </DossierSection>
@@ -613,15 +695,15 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
               icon={<Heart size={20} />}
             >
               <p className="font-body leading-relaxed" style={{ color: "var(--color-charcoal)" }}>
-                {candidate.whereTheyWorship}
+                {normalizePublicCopy(candidate.whereTheyWorship)}
               </p>
               {candidate.church && (
                 <div className="mt-4 grid gap-1 font-body text-sm" style={{ color: "var(--color-charcoal)" }}>
                   <p className="font-semibold" style={{ color: "var(--color-navy)" }}>
                     {candidate.church.name}
                   </p>
-                  {candidate.church.denomination && <p>{candidate.church.denomination}</p>}
-                  {candidate.church.details && <p>{candidate.church.details}</p>}
+                  {candidate.church.denomination && <p>{normalizePublicCopy(candidate.church.denomination)}</p>}
+                  {candidate.church.details && <p>{normalizePublicCopy(candidate.church.details)}</p>}
                   {candidate.church.url && (
                     <a
                       href={candidate.church.url}
@@ -646,53 +728,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
               kicker="Campaign finance"
               icon={<DollarSign size={20} />}
             >
-              <dl className="grid gap-3 sm:grid-cols-3">
-                <div>
-                  <dt className="font-body text-sm" style={{ color: "var(--color-slate)" }}>
-                    Total raised
-                  </dt>
-                  <dd className="font-heading font-bold" style={{ color: "var(--color-navy)", fontSize: "1.2rem" }}>
-                    {candidate.campaignFinance.totalRaised}
-                  </dd>
-                </div>
-                <div className="sm:col-span-2">
-                  <dt className="font-body text-sm" style={{ color: "var(--color-slate)" }}>
-                    Reporting period
-                  </dt>
-                  <dd className="font-body" style={{ color: "var(--color-charcoal)" }}>
-                    {candidate.campaignFinance.reportingPeriod}
-                  </dd>
-                </div>
-              </dl>
-              <p className="mt-4 font-body leading-relaxed" style={{ color: "var(--color-charcoal)" }}>
-                {candidate.campaignFinance.narrative}
-              </p>
-              {candidate.campaignFinance.donors.length > 0 && (
-                <ul className="mt-5 grid gap-3 sm:grid-cols-2" role="list">
-                  {candidate.campaignFinance.donors.map((donor) => (
-                    <li
-                      key={`${donor.name}-${donor.amount}`}
-                      className="rounded-md border p-4"
-                      style={{ borderColor: "rgba(16, 64, 93, 0.10)", backgroundColor: "#f8fafc" }}
-                    >
-                      <p className="font-body text-sm leading-snug" style={{ color: "var(--color-charcoal)" }}>
-                        {donor.name}
-                      </p>
-                      <p className="mt-2 font-heading text-lg font-bold" style={{ color: "var(--color-navy)" }}>
-                        {donor.amount}
-                      </p>
-                    </li>
-                  ))}
-                </ul>
-              )}
-              {candidate.campaignFinance.undisclosed && (
-                <p className="mt-3 font-body text-sm italic" style={{ color: "var(--color-slate)" }}>
-                  {candidate.campaignFinance.undisclosed}
-                </p>
-              )}
-              <p className="mt-3 font-body text-xs" style={{ color: "var(--color-slate)" }}>
-                Source: {candidate.campaignFinance.source}
-              </p>
+              <CampaignFinanceSection finance={candidate.campaignFinance} />
             </DossierSection>
           )}
 

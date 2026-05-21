@@ -23,7 +23,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -33,7 +33,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -43,7 +43,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -84,7 +84,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -105,7 +105,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -146,7 +146,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -167,7 +167,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -177,7 +177,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -187,7 +187,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -197,7 +197,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: https://tigermedianet.com/?p=93385 — Tiger Media Network (entire commission voted; second mayoral term) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "https://tigermedianet.com/?p=93385 — Tiger Media Network (entire commission voted; second mayoral term) ",
         "sourceIds": [
           "s-tigermedia-mayor-2026"
         ]
@@ -259,7 +259,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Mason Ruder Elected Mayor -- Hays Daily News Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Mason Ruder Elected Mayor -- Hays Daily News ",
         "sourceIds": [
           "src-mason-ruder-0123",
           "s-kpa-911"
@@ -289,7 +289,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -320,7 +320,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Public evidence: https://kslegislature.gov/li/b2025_26/measures/HB2433/testimony — HB 2433 testimony listing showing Ruder as proponent on 2026-01-28 (primary; official testimony register) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "https://kslegislature.gov/li/b2025_26/measures/HB2433/testimony — HB 2433 testimony listing showing Ruder as proponent on 2026-01-28 (primary; official testimony register) ",
         "sourceIds": [
           "s-ksleg-hb2433-testimony",
           "s-ksleg-house-ruder-testimony",
@@ -345,7 +345,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -364,7 +364,7 @@ export const MASON_RUDER_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Mason Ruder is profiled here for Hays Mayor; Hays City Commissioner as a nonpartisan incumbent/current official. The dominant theme is local growth tied to practical infrastructure. In his 2023 re-election comments, Ruder said city decisions affect residents \"almost immediately\" and closed with: \"Let's keep growing Hays. We have a lot of work to do.\" At the 2023 candida... Water security is his most consistent policy lane. Ruder has described the R9 Ranch project as an everyday governing priority and later as a \"multi-generational battle.\" In 2026, during the HB 2433 fight over county versus state water-transfer authority, he a... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 3 source-backed items across 2 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: https://tigermedianet.com/?p=93385 — Tiger Media Network (entire commission voted; second mayoral term). Public safety / law enforcement / criminal justice: Mason Ruder Elected Mayor -- Hays Daily News. Public safety / law enforcement / criminal justice: Mason Ruder 9/11 Speech -- Kansas Press Association. Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 3 public items across 2 of the 14 issue areas. Examples include: Election integrity / voting / courts: https://tigermedianet.com/?p=93385 — Tiger Media Network (entire commission voted; second mayoral term). Public safety / law enforcement / criminal justice: Mason Ruder Elected Mayor -- Hays Daily News. Public safety / law enforcement / criminal justice: Mason Ruder 9/11 Speech -- Kansas Press Association. Public online activity is listed separately as context.",
   "whereTheyWorship": "Ruder's Catholic affiliation is publicly documented in the existing record. Hays Catholic Schools identified him with Immaculate Heart of Mary Parish, and his biography is tied to TMP-Marian and Hays Catholic Schools. This is descriptive background only, not a grading category.",
   "campaignFinance": {
     "totalRaised": "Not itemized in public web records",

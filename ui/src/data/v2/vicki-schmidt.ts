@@ -25,7 +25,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented public record: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... ",
         "sourceIds": [
           "src-vicki-schmidt-0033"
         ]
@@ -67,7 +67,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -77,7 +77,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Public evidence: KU News: Vicki Schmidt earns pharmacy school's top honor (April 2019) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "KU News: Vicki Schmidt earns pharmacy school's top honor (April 2019) ",
         "sourceIds": [
           "src-vicki-schmidt-0040"
         ]
@@ -110,7 +110,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Public evidence: hard work, honesty and faith - Vicki Schmidt campaign bio, 2026-04-01, https://vickischmidt.org/meet-vicki/ - topic: personal values. Social/online observations are public signals, not confirmed policy positions.",
+        "text": "hard work, honesty and faith - Vicki Schmidt campaign bio, 2026-04-01, https://vickischmidt.org/meet-vicki/ - topic: personal values. ",
         "sourceIds": [
           "src-vicki-schmidt-0042"
         ]
@@ -122,7 +122,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... ",
         "sourceIds": [
           "src-vicki-schmidt-0033"
         ]
@@ -164,7 +164,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs.... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs.... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -196,7 +196,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -206,7 +206,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -216,7 +216,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate statement: KFL PAC Statement on Schmidt (Oct 27, 2025) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "KFL PAC Statement on Schmidt (Oct 27, 2025) ",
         "sourceIds": [
           "src-vicki-schmidt-0076",
           "s-campaign-home",
@@ -305,7 +305,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs.... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs.... ",
         "sourceIds": [
           "s-campaign-home",
           "src-vicki-schmidt-0033"
@@ -346,7 +346,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme Court did the right thing by returning the issue to states, said she does not believe in \"abortion on demand,\" and said she does believe in reasonable exceptions. On leadership, she said it is imp... ",
         "sourceIds": [
           "src-vicki-schmidt-0033"
         ]
@@ -367,7 +367,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -398,7 +398,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs.... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as hard as they do,\" and ties that pitch to Medicaid drug-rebate recoveries, autism coverage, cancer-care access, insurance recoveries, and lower business costs.... ",
         "sourceIds": [
           "s-campaign-home",
           "s-kdoi-about"
@@ -459,7 +459,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -488,8 +488,8 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Vicki Schmidt is profiled here for Governor candidate as a Republican. Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It's time Kansans have a governor that works as... Her campaign biography uses the same governing frame. It says she found errors in the Kansas Medical Assistance Program that were costing the state millions and implemented a plan that produced more than $391 million in recouped dollars for the state. It also... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 12 source-backed items across 7 of the 14 issue areas. Representative public-record entries include: Abortion / life: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme... Taxes / spending / debt: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S.... Economy / jobs / labor: Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It'... Health care / insurance / Medicaid: KFL PAC Statement on Schmidt (Oct 27, 2025). Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object]",
+  "recordSummary": "This profile links 12 public items across 7 of the 14 issue areas. Examples include: Abortion / life: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S. Supreme... Taxes / spending / debt: Schmidt's most substantive campaign interview found in the harvest was the July 21, 2025 Kansas Reflector piece. On the 2012 Brownback-era tax cuts, she said, \"It is a vote I regret.\" On abortion, she said the U.S.... Economy / jobs / labor: Across the accessible set reviewed, Schmidt's public profile is built around administrative competence, insurance consumer assistance, and a pharmacist's health-care biography. Her campaign homepage opens with, \"It'... Health care / insurance / Medicaid: KFL PAC Statement on Schmidt (Oct 27, 2025). Public online activity is listed separately as context.",
+  "ownWordsNarrative": "",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Her campaign uses faith language, but the available record does not name a parish, congregation, or church website.",
   "campaignFinance": {
     "totalRaised": "totalContributions: $980,372.71; totalExpenditures: $52,211.35; cashOnHandClose: $928,161.36; inKind: $4,227.95; otherTransactions: $81,500.00",
@@ -524,7 +524,7 @@ export const VICKI_SCHMIDT_V2: CandidateFullV2 = {
     "reportingPeriod": "2025 year-end report, Jan. 1-Dec. 31, 2025",
     "source": "Campaign Finance Receipts and Expenditures Report - Vicki L Schmidt"
   },
-  "socialResearchNote": "19 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "19 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-kpdc-statewide-index",

@@ -22,7 +22,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -32,7 +32,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -42,7 +42,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -63,7 +63,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -73,7 +73,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -83,7 +83,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -114,7 +114,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -124,7 +124,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -134,7 +134,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -155,7 +155,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates Social/online observations are public signals, not confirmed policy positions.",
+        "text": "KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates ",
         "sourceIds": [
           "s-kcur-guide",
           "s-campaign-launch",
@@ -198,7 +198,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025) ",
         "sourceIds": [
           "s-kcur-guide"
         ]
@@ -230,7 +230,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -251,7 +251,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates Social/online observations are public signals, not confirmed policy positions.",
+        "text": "KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates ",
         "sourceIds": [
           "s-kcur-guide",
           "s-campaign-launch",
@@ -324,7 +324,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -332,8 +332,8 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Christy Cauble Davis is profiled here for U.S. Senate, Kansas as a Democratic. Candidate information: https://www.sos.ks.gov/elections/candidate-information.html. Important election dates: https://sos.ks.gov/elections/important-election-dates.html. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 5 source-backed items across 3 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates. Election integrity / voting / courts: https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u. Public safety / law enforcement / criminal justice: KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025). Local governance / transparency / ethics: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates. Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object]",
+  "recordSummary": "This profile links 5 public items across 3 of the 14 issue areas. Examples include: Election integrity / voting / courts: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates. Election integrity / voting / courts: https://www.christydavisforkansas.com/post/christy-davis-launches-campaign-for-u-s-senate-it-s-time-for-kansas-to-have-a-senator-who-shows-u. Public safety / law enforcement / criminal justice: KCUR - \"Who's running to represent Kansas in the U.S. Senate in 2026?\" (Dec 30, 2025). Local governance / transparency / ethics: KCUR candidate guide: https://www.kcur.org/politics-elections-and-government/2025-12-30/whos-running-to-represent-kansas-in-the-u-s-senate-in-2026-heres-a-guide-to-the-candidates. Public online activity is listed separately as context.",
+  "ownWordsNarrative": "",
   "whereTheyWorship": "Faith/religion online relevance: Hays Post reported Davis saying she attended church three times a week growing up, publicly identifying with Christianity, and describing a church experience she objected to. This is attributable public speech, but it should n... Hays Post reports Davis publicly identified with Christianity and described a church experience she objected to. Public sources reviewed did not identify a current church affiliation. Hays Post reported that Davis said she attended church three times a week growing up and publicly identified with Christianity. This is recorded only as attributable public speech and shou... This faith/worship note is descriptive only and is not used to infer any policy position.",
   "campaignFinance": {
     "totalRaised": "$137,068.03",
@@ -343,7 +343,7 @@ export const CHRISTY_CAUBLE_DAVIS_V2: CandidateFullV2 = {
     "reportingPeriod": "2025-07-01 to 2026-03-31",
     "source": "CHRISTY DAVIS FOR KANSAS 2026 - committee overview"
   },
-  "socialResearchNote": "11 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "11 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-fec-candidate",

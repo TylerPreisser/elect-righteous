@@ -21,7 +21,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -41,7 +41,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Public evidence: Mann's biography is not incidental to the campaign; it is the campaign's core credential. The \"Meet Chris\" page says he became a police officer at 21, was struck by a drunk driver during a 2002 traffic stop, later went to law school, became a Wyandotte County prosecutor, served on MADD's national board, worked at the Kansas Securities Commission, and opened Mann Law Firm in 2016 (source). The same page says he prose... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Mann's biography is not incidental to the campaign; it is the campaign's core credential. The \"Meet Chris\" page says he became a police officer at 21, was struck by a drunk driver during a 2002 traffic stop, later went to law school, became a Wyandotte County prosecutor, served on MADD's national board, worked at the Kansas Securities Commission, and opened Mann Law Firm in 2016 (source). The same page says he prose... ",
         "sourceIds": [
           "s-campaign-bio"
         ]
@@ -53,7 +53,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -63,7 +63,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -73,7 +73,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -83,7 +83,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -93,7 +93,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -103,7 +103,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -113,7 +113,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... ",
         "sourceIds": [
           "s-campaign-home",
           "s-kwch-launch-2025",
@@ -209,7 +209,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... ",
         "sourceIds": [
           "s-campaign-home",
           "s-kwch-launch-2025",
@@ -289,7 +289,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -299,7 +299,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communities - first as a police officer and then as a prosecutor\" and that he will \"defend the Constitution, protect the rule of law and ensure Kansas families are saf... ",
         "sourceIds": [
           "s-campaign-home",
           "s-kwch-launch-2025",
@@ -404,7 +404,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -412,7 +412,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Chris Mann is profiled here for Attorney General candidate as a Democratic. Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"dedicated his life to serving and protecting Kansas communi... Rule of law, constitutional rights, and family safety recur across platforms, but usually as part of the law-enforcement frame rather than as a long list of policy positions. His website says he will \"defend the Constitution\" and \"protect the rule of law\" (so... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 14 source-backed items across 3 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"d... Election integrity / voting / courts: Rule of law, constitutional rights, and family safety recur across platforms, but usually as part of the law-enforcement frame rather than as a long list of policy positions. His website says he will \"... Election integrity / voting / courts: https://kansasreflector.com/2026/03/23/former-prosecutor-enters-kansas-senate-race/. Election integrity / voting / courts: Campaign homepage: https://chrismannforkansas.com/. Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 14 public items across 3 of the 14 issue areas. Examples include: Election integrity / voting / courts: Across the captured public record, Mann's dominant message is that the attorney general's office should be led by someone with law-enforcement and courtroom experience. His campaign homepage says he \"d... Election integrity / voting / courts: Rule of law, constitutional rights, and family safety recur across platforms, but usually as part of the law-enforcement frame rather than as a long list of policy positions. His website says he will \"... Election integrity / voting / courts: https://kansasreflector.com/2026/03/23/former-prosecutor-enters-kansas-senate-race/. Election integrity / voting / courts: Campaign homepage: https://chrismannforkansas.com/. Public online activity is listed separately as context.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Mann's campaign uses faith language in places, but the source material does not name a congregation or church website.",
   "campaignFinance": {
     "totalRaised": "Not itemized in reviewed public records",
@@ -422,7 +422,7 @@ export const CHRIS_MANN_V2: CandidateFullV2 = {
     "reportingPeriod": "Reviewed public filings as of 2026-05-20",
     "source": "Fec (https://www.fec.gov/data/elections/house/KS/01/2026/)"
   },
-  "socialResearchNote": "12 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "12 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-kpdc-statewide-2026",

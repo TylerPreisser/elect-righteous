@@ -21,7 +21,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -42,7 +42,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -63,7 +63,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -94,7 +94,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -115,7 +115,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Documented public record: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registration. (source) On Apr. 6, 2026, she personalized that issue by posting that her current LLC was formed in 2024 and that filing her report and paying the fee was easier than finding lighting for a resid... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registration. (source) On Apr. 6, 2026, she personalized that issue by posting that her current LLC was formed in 2024 and that filing her report and paying the fee was easier than finding lighting for a resid... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -157,7 +157,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Documented public record: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registration. (source) On Apr. 6, 2026, she personalized that issue by posting that her current LLC was formed in 2024 and that filing her report and paying the fee was easier than finding lighting for a resid... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registration. (source) On Apr. 6, 2026, she personalized that issue by posting that her current LLC was formed in 2024 and that filing her report and paying the fee was easier than finding lighting for a resid... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -227,7 +227,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -258,7 +258,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -279,7 +279,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -300,7 +300,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and says she is \"running to safeguard our elections.\" (source) The same site says, \"The Secretary of State is charged with overseeing and protecting the electoral proc... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and says she is \"running to safeguard our elections.\" (source) The same site says, \"The Secretary of State is charged with overseeing and protecting the electoral proc... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -370,7 +370,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -380,7 +380,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -421,7 +421,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and says she is \"running to safeguard our elections.\" (source) The same site says, \"The Secretary of State is charged with overseeing and protecting the electoral proc... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and says she is \"running to safeguard our elections.\" (source) The same site says, \"The Secretary of State is charged with overseeing and protecting the electoral proc... ",
         "sourceIds": [
           "s-campaign-home"
         ]
@@ -491,7 +491,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -499,7 +499,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Jennifer Day is profiled here for Kansas Secretary of State as a Democratic. Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campaign site says, \"OUR RIGHT TO VOTE IS FUNDAMENTAL,\" and say... The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business registration. (source) On Apr. 6, 2026, she perso... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 7 source-backed items across 4 of the 14 issue areas. Representative public-record entries include: Taxes / spending / debt: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business regi... Economy / jobs / labor: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business regis... Economy / jobs / labor: With 16 years of business experience... - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01). Election integrity / voting / courts: Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campa... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 7 public items across 4 of the 14 issue areas. Examples include: Taxes / spending / debt: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business regi... Economy / jobs / labor: The business-services message is present but secondary in the social feed. The campaign site says government should improve \"the ease of running a business\" and that Day would modernize and streamline business regis... Economy / jobs / labor: With 16 years of business experience... - campaign language, source: https://www.electjenday.com/ (accessed 2026-04-01). Election integrity / voting / courts: Across the accessible public record, Day's campaign is built around a compact election-administration message: elections should be safe, secure, accessible, and insulated from disinformation. Her campa... Public online activity is listed separately as context.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Her public message is framed in civic and administrative terms, and the accessible campaign and legislative material does not tie her to a named congregation.",
   "campaignFinance": {
     "totalRaised": "totalRaised: $84,304.87; totalSpent: $69,564.35; cashOnHand: $14,740.52; inKind: $0.00; otherTransactions: $43,019.00; reportingPeriod: 2025 year-end; January 1, 2025 through December 31, 2025; sourceIds: s-kpdc-202601",
@@ -533,7 +533,7 @@ export const JENNIFER_DAY_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Reviewed public records"
   },
-  "socialResearchNote": "26 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "26 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-joco-candidate",

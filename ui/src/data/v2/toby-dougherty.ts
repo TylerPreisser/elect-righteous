@@ -19,7 +19,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -29,7 +29,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -39,7 +39,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Public evidence: \"I felt like the dumbest kid in the classroom out there.\" Source: Hays Post / Kansas News Service, 2022-05-26, https://hayspost.com/posts/6003cad5-e6bf-4ab2-87a9-fd03d8a5750c, topic: water conservation realization.",
+        "text": "\"I felt like the dumbest kid in the classroom out there.\" Source: Hays Post / Kansas News Service, 2022-05-26, https://hayspost.com/posts/6003cad5-e6bf-4ab2-87a9-fd03d8a5750c, topic: water conservation realization.",
         "sourceIds": [
           "src-toby-dougherty-0028"
         ]
@@ -51,7 +51,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Public evidence: City Manager's Office - Hays Social/online observations are public signals, not confirmed policy positions.",
+        "text": "City Manager's Office - Hays ",
         "sourceIds": [
           "s-hays-manager-office"
         ]
@@ -63,7 +63,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Public evidence: On budgeting, Dougherty's public style is cautious and maintenance-first. He defended exceeding the revenue-neutral rate in 2024 by saying city costs rise over time and that static tax collections are not sustainable. In 2025, he described the 2026 budget as a cautious maintenance budget shaped by inflation, federal grant programs drying up, vehicle costs, tariff uncertainty, and recession risk. His line is not anti... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On budgeting, Dougherty's public style is cautious and maintenance-first. He defended exceeding the revenue-neutral rate in 2024 by saying city costs rise over time and that static tax collections are not sustainable. In 2025, he described the 2026 budget as a cautious maintenance budget shaped by inflation, federal grant programs drying up, vehicle costs, tariff uncertainty, and recession risk. His line is not anti... ",
         "sourceIds": [
           "s-hayspost-rnr-2024",
           "s-hayspost-budget-2026"
@@ -117,7 +117,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Public evidence: On budgeting, Dougherty's public style is cautious and maintenance-first. He defended exceeding the revenue-neutral rate in 2024 by saying city costs rise over time and that static tax collections are not sustainable. In 2025, he described the 2026 budget as a cautious maintenance budget shaped by inflation, federal grant programs drying up, vehicle costs, tariff uncertainty, and recession risk. His line is not anti... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "On budgeting, Dougherty's public style is cautious and maintenance-first. He defended exceeding the revenue-neutral rate in 2024 by saying city costs rise over time and that static tax collections are not sustainable. In 2025, he described the 2026 budget as a cautious maintenance budget shaped by inflation, federal grant programs drying up, vehicle costs, tariff uncertainty, and recession risk. His line is not anti... ",
         "sourceIds": [
           "s-hayspost-rnr-2024"
         ]
@@ -140,7 +140,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -150,7 +150,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -160,7 +160,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -170,7 +170,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... ",
         "sourceIds": [
           "src-toby-dougherty-0051",
           "s-hayspost-pr-manager-2025"
@@ -219,7 +219,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... ",
         "sourceIds": [
           "src-toby-dougherty-0051"
         ]
@@ -259,7 +259,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate statement: His R9 language is also defensive and procedural. He argues that Hays and Russell have followed the state process, that irrigation-to-municipal water-right conversions include reductions to protect nearby users and the aquifer, and that the cities voluntarily reduced their requested rights further. In the May 2026 HPPR/KLC Journal account, he described the project as existential for Hays and Russell and said the cit... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His R9 language is also defensive and procedural. He argues that Hays and Russell have followed the state process, that irrigation-to-municipal water-right conversions include reductions to protect nearby users and the aquifer, and that the cities voluntarily reduced their requested rights further. In the May 2026 HPPR/KLC Journal account, he described the project as existential for Hays and Russell and said the cit... ",
         "sourceIds": [
           "src-toby-dougherty-0067",
           "src-toby-dougherty-0028",
@@ -357,7 +357,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: The conservation message is just as consistent. In Kansas News Service/Hays Post coverage, Dougherty said Hays had looked to Las Vegas, Tucson, Phoenix, and Utah for water-management ideas. The city points to cash-for-grass, drought-tolerant demonstration gardens, effluent reuse, conservation rebates, inclining water rates, customer outreach, and watering restrictions as part of that public identity. Source: Hays Po... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The conservation message is just as consistent. In Kansas News Service/Hays Post coverage, Dougherty said Hays had looked to Las Vegas, Tucson, Phoenix, and Utah for water-management ideas. The city points to cash-for-grass, drought-tolerant demonstration gardens, effluent reuse, conservation rebates, inclining water rates, customer outreach, and watering restrictions as part of that public identity. Source: Hays Po... ",
         "sourceIds": [
           "src-toby-dougherty-0028",
           "s-hays-staff-profile",
@@ -456,7 +456,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "Documented public record: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs described R9 as the city's top focus, and Dougherty walked through the legal and panel steps still blocking the transfer. In 2026, after pipeline and wellfield designs were complete, he said the city was waiting for a Sup... ",
         "sourceIds": [
           "src-toby-dougherty-0051"
         ]
@@ -486,8 +486,8 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Toby Dougherty is profiled here for Hays City Manager as a nonpartisan incumbent/current official. On budgeting, Dougherty's public style is cautious and maintenance-first. He defended exceeding the revenue-neutral rate in 2024 by saying city costs rise over time and that static tax collections are not sustainable. In 2025, he described the 2026 budget as... That same operating philosophy shows up in infrastructure comments. In Strong Towns material, Hays is presented as a city using data to prioritize sewer maintenance, street improvements, transportation changes, civic boards, and downtown reinvestment. At a 20... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 16 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Election integrity / voting / courts: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs des... Election integrity / voting / courts: Dougherty also publicly emphasizes communication and professional administration. In 2025, he announced a new city public relations manager role as part of an effort to give residents clearer informati... Election integrity / voting / courts: Hays Post: Mayor/CM discuss 2025 projects. Public safety / law enforcement / criminal justice: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sa... Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object]",
+  "recordSummary": "This profile links 16 public items across 5 of the 14 issue areas. Examples include: Election integrity / voting / courts: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sandy Jacobs des... Election integrity / voting / courts: Dougherty also publicly emphasizes communication and professional administration. In 2025, he announced a new city public relations manager role as part of an effort to give residents clearer informati... Election integrity / voting / courts: Hays Post: Mayor/CM discuss 2025 projects. Public safety / law enforcement / criminal justice: The dominant theme is water. Dougherty consistently frames the R9 Ranch project as a long-term survival issue for Hays and Russell, not a discretionary expansion. In 2025, he and Mayor Sa... Public online activity is listed separately as context.",
+  "ownWordsNarrative": "",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. The public record around Dougherty is overwhelmingly professional and administrative, with very little reporting on his personal or religious life.",
   "campaignFinance": {
     "totalRaised": "No campaign committee, treasurer appointment, donation page, KPDC filing, local campaign-finance report, donor list, or candidate fundraising total was verified for Dougherty. This fits the reviewed record identifying him as an appointed city manager rather than an electoral candidate.",
@@ -497,7 +497,7 @@ export const TOBY_DOUGHERTY_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Staff Directory - Toby Dougherty"
   },
-  "socialResearchNote": "16 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "16 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-hays-staff-profile",

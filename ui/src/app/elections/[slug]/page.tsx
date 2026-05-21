@@ -335,7 +335,7 @@ export default async function ElectionDetailPage({ params }: PageProps) {
                                     style={{ color: "var(--color-teal-dark)", backgroundColor: "rgba(28, 195, 175, 0.08)" }}
                                     aria-hidden="true"
                                   >
-                                    Open dossier
+                                    Read profile
                                     <ArrowRight size={15} className="transition-transform duration-200 group-hover:translate-x-1" />
                                   </span>
                                 </div>

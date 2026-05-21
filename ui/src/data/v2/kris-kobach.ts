@@ -21,7 +21,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -31,7 +31,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "Documented public record: Kansas Reflector: Gender Marker $1 Fine Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Kansas Reflector: Gender Marker $1 Fine ",
         "sourceIds": [
           "src-kris-kobach-0036"
         ]
@@ -71,7 +71,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -92,7 +92,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Documented public record: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... ",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0007",
@@ -140,7 +140,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -150,7 +150,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -160,7 +160,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented public record: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... ",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0007",
@@ -199,7 +199,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public record: The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifications, and a Fox clip about Anthony Fauci and border COVID testing (source). These videos are older than the current capture window, but they remain part of the campaign site's public presentation a... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The still-live campaign video archive reinforces Kobach's older AG campaign frame. The campaign site embeds videos about Congress testimony, attacks on Chris Mann, family safety, sheriff/law-enforcement support, qualifications, and a Fox clip about Anthony Fauci and border COVID testing (source). These videos are older than the current capture window, but they remain part of the campaign site's public presentation a... ",
         "sourceIds": [
           "src-kris-kobach-0208",
           "src-kris-kobach-0062"
@@ -242,7 +242,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... ",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0069",
@@ -321,7 +321,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... ",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0062"
@@ -374,7 +374,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... ",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0062",
@@ -429,7 +429,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -470,7 +470,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Title IX and Obamacare eligibility rules (source). The AG special litigation page describes the unit he created as handling lawsuits against unlawful regulations, defending Kansas laws, and forcing governments to comply with the... ",
         "sourceIds": [
           "s-ag-bio",
           "src-kris-kobach-0062",
@@ -535,7 +535,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -554,7 +554,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Accessible official and candidate-controlled sources support treating Kobach as the incumbent Republican running for Kansas attorney general re-election in 2026. The live SOS filed-candidates list was blocked during public-source review; KPDC lists him under Attorney General Candidates and his campaign says he filed January 8, 2026.",
-  "recordSummary": "The public record summary contains 17 source-backed items across 8 of the 14 issue areas. Representative public-record entries include: LGBT / gender / parental rights: Kansas Reflector: Gender Marker $1 Fine. LGBT / gender / parental rights: Kansas Reflector: Judge Rebukes Kobach with $1 Fine. Religious liberty / church / civic morality: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Titl... Religious liberty / church / civic morality: The official AG site is more active as a governing communications hub. Its homepage leads with naloxone distribution boxes and a Census lawsuit about excluding undocumented immigrants from appor... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 17 public items across 8 of the 14 issue areas. Examples include: LGBT / gender / parental rights: Kansas Reflector: Gender Marker $1 Fine. LGBT / gender / parental rights: Kansas Reflector: Judge Rebukes Kobach with $1 Fine. Religious liberty / church / civic morality: The most ideologically consistent governing frame is federal overreach. The official AG biography says Kobach led and personally argued challenges to Biden administration actions, including Titl... Religious liberty / church / civic morality: The official AG site is more active as a governing communications hub. Its homepage leads with naloxone distribution boxes and a Census lawsuit about excluding undocumented immigrants from appor... Public online activity is listed separately as context.",
   "whereTheyWorship": "Public reporting ties Kobach to Morning Star Church in Lawrence. The church website is https://msclawrence.com/, and local reporting has referred to it as his church.",
   "campaignFinance": {
     "totalRaised": "$2",
@@ -564,7 +564,7 @@ export const KRIS_KOBACH_V2: CandidateFullV2 = {
     "reportingPeriod": "Reviewed public filings as of 2026-05-20",
     "source": "Fec (https://www.fec.gov/data/legal/matter-under-review/7636/)"
   },
-  "socialResearchNote": "21 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "21 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-kpdc-statewide-2026",

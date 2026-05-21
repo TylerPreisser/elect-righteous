@@ -22,7 +22,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -32,7 +32,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -53,7 +53,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Documented public record: Local coverage of his campaign stops repeats the same two-part argument. At a November 2025 Hays event, Rahjes said, \"I believe I'm most effective by looking you in the eye and having a conversation,\" and tied his run to county clerks, voter ID, ending the three-day mail-ballot grace period, and civic education in schools. On the business side, he described the secretary of state's office as the \"front door\" for peo... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Local coverage of his campaign stops repeats the same two-part argument. At a November 2025 Hays event, Rahjes said, \"I believe I'm most effective by looking you in the eye and having a conversation,\" and tied his run to county clerks, voter ID, ending the three-day mail-ballot grace period, and civic education in schools. On the business side, he described the secretary of state's office as the \"front door\" for peo... ",
         "sourceIds": [
           "s-hays-campaign-stop"
         ]
@@ -95,7 +95,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -116,7 +116,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate statement: His business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \"There's no greater solution than to grow our tax base. I firmly believe that if you grow the base, then you will lower the rate.\" (source) KVOE's March 2026 Emporia coverage likewise reported that he wanted to continue Scott Schwab's work maki... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \"There's no greater solution than to grow our tax base. I firmly believe that if you grow the base, then you will lower the rate.\" (source) KVOE's March 2026 Emporia coverage likewise reported that he wanted to continue Scott Schwab's work maki... ",
         "sourceIds": [
           "s-hays-campaign-stop",
           "s-ksleg-profile"
@@ -159,7 +159,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate statement: His business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \"There's no greater solution than to grow our tax base. I firmly believe that if you grow the base, then you will lower the rate.\" (source) KVOE's March 2026 Emporia coverage likewise reported that he wanted to continue Scott Schwab's work maki... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "His business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \"There's no greater solution than to grow our tax base. I firmly believe that if you grow the base, then you will lower the rate.\" (source) KVOE's March 2026 Emporia coverage likewise reported that he wanted to continue Scott Schwab's work maki... ",
         "sourceIds": [
           "s-hays-campaign-stop",
           "s-campaign-filing",
@@ -239,7 +239,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -249,7 +249,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -259,7 +259,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -280,7 +280,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: The clearest candidate-controlled secretary-of-state statement is the July 2025 filing post on his campaign site. Rahjes framed the office through business filings and election administration, saying Kansas should streamline business filings, improve the One Stop portal, continue security initiatives for election officials and poll workers, increase election-audit transparency, and produce fast, accurate results. In... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The clearest candidate-controlled secretary-of-state statement is the July 2025 filing post on his campaign site. Rahjes framed the office through business filings and election administration, saying Kansas should streamline business filings, improve the One Stop portal, continue security initiatives for election officials and poll workers, increase election-audit transparency, and produce fast, accurate results. In... ",
         "sourceIds": [
           "s-campaign-filing",
           "s-hays-campaign-stop"
@@ -359,7 +359,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -369,7 +369,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Candidate statement: That rural frame also shows up in legislative coffees and issue coverage. In February 2026, Rahjes spoke about senior transportation, conservation, water, AI in campaigns, and NIL funding. On conservation and local control, he said, \"Me living in Agra should not tell Wichita County what they should do with their kids. Johnson County shouldn't tell Hays how much water they should use, and Hays shouldn't tell Johnson... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "That rural frame also shows up in legislative coffees and issue coverage. In February 2026, Rahjes spoke about senior transportation, conservation, water, AI in campaigns, and NIL funding. On conservation and local control, he said, \"Me living in Agra should not tell Wichita County what they should do with their kids. Johnson County shouldn't tell Hays how much water they should use, and Hays shouldn't tell Johnson... ",
         "sourceIds": [
           "s-hays-2026-coffee",
           "s-ksleg-profile"
@@ -422,7 +422,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: That rural frame also shows up in legislative coffees and issue coverage. In February 2026, Rahjes spoke about senior transportation, conservation, water, AI in campaigns, and NIL funding. On conservation and local control, he said, \"Me living in Agra should not tell Wichita County what they should do with their kids. Johnson County shouldn't tell Hays how much water they should use, and Hays shouldn't tell Johnson... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "That rural frame also shows up in legislative coffees and issue coverage. In February 2026, Rahjes spoke about senior transportation, conservation, water, AI in campaigns, and NIL funding. On conservation and local control, he said, \"Me living in Agra should not tell Wichita County what they should do with their kids. Johnson County shouldn't tell Hays how much water they should use, and Hays shouldn't tell Johnson... ",
         "sourceIds": [
           "s-hays-2026-coffee",
           "s-campaign-filing",
@@ -519,7 +519,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -527,7 +527,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Ken Rahjes is profiled here for Secretary of State candidate as a Republican. Across the accessible public set, Rahjes' dominant campaign frame is a low-key administrative argument: secure elections, business services, trust, rural Kansas, and legislative experience. His campaign homepage presents him as \"A family man, built from trust... The clearest candidate-controlled secretary-of-state statement is the July 2025 filing post on his campaign site. Rahjes framed the office through business filings and election administration, saying Kansas should streamline business filings, improve the One... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 14 source-backed items across 6 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Local coverage of his campaign stops repeats the same two-part argument. At a November 2025 Hays event, Rahjes said, \"I believe I'm most effective by looking you in the eye and having a conversation,\" and... Taxes / spending / debt: His business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \"There's no greater solution than to gr... Economy / jobs / labor: His business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \"There's no greater solution than to gro... Economy / jobs / labor: The clearest candidate-controlled secretary-of-state statement is the July 2025 filing post on his campaign site. Rahjes framed the office through business filings and election administration, saying Kansas should s... Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 14 public items across 6 of the 14 issue areas. Examples include: Education / curriculum / schools: Local coverage of his campaign stops repeats the same two-part argument. At a November 2025 Hays event, Rahjes said, \"I believe I'm most effective by looking you in the eye and having a conversation,\" and... Taxes / spending / debt: His business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \"There's no greater solution than to gr... Economy / jobs / labor: His business-services message connects process reform to property-tax pressure. In Hays, Rahjes said he wanted entrepreneurs to avoid navigating multiple agencies and argued, \"There's no greater solution than to gro... Economy / jobs / labor: The clearest candidate-controlled secretary-of-state statement is the July 2025 filing post on his campaign site. Rahjes framed the office through business filings and election administration, saying Kansas should s... Public online activity is listed separately as context.",
   "whereTheyWorship": "Public records identify Rahjes and his wife as members of the United Presbyterian Church in Phillipsburg. Public sources reviewed for this profile did not provide a verified church website.",
   "campaignFinance": {
     "totalRaised": "$24,070.30",
@@ -586,7 +586,7 @@ export const KEN_RAHJES_V2: CandidateFullV2 = {
     "reportingPeriod": "2025 year-end (1/1/2025 through 12/31/2025)",
     "source": "Campaign Finance Receipts and Expenditures Report - Kenneth J Rahjes"
   },
-  "socialResearchNote": "22 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "22 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-ksleg-profile",

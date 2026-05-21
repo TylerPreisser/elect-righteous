@@ -5,6 +5,7 @@ import { getAllCandidateSlugs, getFullCandidateBySlug } from "@/data/candidates"
 import { getAllCandidateV2Slugs, getFullCandidateV2BySlug } from "@/data/v2";
 import { getCandidateResearchSources } from "@/lib/candidate-sources";
 import { sourceHost } from "@/lib/profile-metrics";
+import { normalizePublicCopy } from "@/lib/public-copy";
 
 export function generateStaticParams() {
   return Array.from(new Set([...getAllCandidateSlugs(), ...getAllCandidateV2Slugs()]))
@@ -67,7 +68,7 @@ export default async function SourcesPage({ params }: PageProps) {
     },
     {
       tier: "social",
-      title: "Social / Online Observations",
+      title: "Public Online Activity",
       icon: <MessageSquare size={17} />,
       sources: researchSources.filter((source) => source.tier === "social"),
     },
@@ -184,7 +185,7 @@ export default async function SourcesPage({ params }: PageProps) {
                             className="inline-flex max-w-full items-start gap-1 font-heading font-semibold leading-snug hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
                             style={{ color: "var(--color-teal-dark)", overflowWrap: "anywhere" }}
                           >
-                            {s.title}
+                            {normalizePublicCopy(s.title)}
                             <ExternalLink size={12} className="mt-1 flex-shrink-0" aria-hidden="true" />
                           </a>
                           <p className="mt-1 text-xs" style={{ color: "var(--color-slate)", overflowWrap: "anywhere" }}>
@@ -203,11 +204,15 @@ export default async function SourcesPage({ params }: PageProps) {
                       </div>
                       {s.claimsAnchored.length > 0 && (
                         <ul className="mt-3 grid gap-1 border-t pt-3" style={{ borderColor: "rgba(16, 64, 93, 0.10)" }}>
-                          {s.claimsAnchored.slice(0, 3).map((claim, claimIndex) => (
-                            <li key={`${claim}-${claimIndex}`} className="text-sm leading-relaxed [overflow-wrap:anywhere]" style={{ color: "var(--color-charcoal)" }}>
-                              {claim}
-                            </li>
-                          ))}
+                          {s.claimsAnchored
+                            .map((claim) => normalizePublicCopy(claim))
+                            .filter(Boolean)
+                            .slice(0, 3)
+                            .map((claim, claimIndex) => (
+                              <li key={`${claim}-${claimIndex}`} className="text-sm leading-relaxed [overflow-wrap:anywhere]" style={{ color: "var(--color-charcoal)" }}>
+                                {claim}
+                              </li>
+                            ))}
                         </ul>
                       )}
                     </li>

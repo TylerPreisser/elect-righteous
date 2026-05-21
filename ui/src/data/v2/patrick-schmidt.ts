@@ -21,7 +21,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... ",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -53,7 +53,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -63,7 +63,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Education / curriculum / schools.",
+        "text": "No sourced position or public action found for Education / curriculum / schools.",
         "sourceIds": []
       },
       "actions": [],
@@ -84,7 +84,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... ",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -116,7 +116,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Taxes / spending / debt.",
+        "text": "No sourced position or public action found for Taxes / spending / debt.",
         "sourceIds": []
       },
       "actions": [],
@@ -126,7 +126,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -147,7 +147,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... ",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -179,7 +179,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... ",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -211,7 +211,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... ",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -243,7 +243,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... ",
         "sourceIds": [
           "s-campaign-healthcare",
           "s-ks-leg-vote-record-2025"
@@ -276,7 +276,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: Primary source: https://ethics.kansas.gov/wp-content/uploads/2024/11/11-20-2024-Draft-Agenda.pdf Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Primary source: https://ethics.kansas.gov/wp-content/uploads/2024/11/11-20-2024-Draft-Agenda.pdf ",
         "sourceIds": [
           "s-kgec-agenda-20241120",
           "src-patrick-schmidt-0048",
@@ -333,7 +333,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... ",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -365,7 +365,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Documented public record: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, gun policy, immigration enforcement details, capital punishment, foster care, adoption, or religious liberty (source). The campaign health-care page addresses Medicaid expansion, prescription drugs,... ",
         "sourceIds": [
           "s-campaign-healthcare"
         ]
@@ -427,7 +427,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -435,8 +435,8 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Patrick Schmidt is profiled here for U.S. Senate, Kansas as a Democratic. Across the captured public record, Schmidt's dominant theme is service and working-family economics, with biography, family roots, military service, and household costs appearing in five of the eight campaign-controlled public items captured. His campaign hom... For Kansas-specific issues, the most concrete local policy thread in the captured record is property tax relief, followed by healthcare costs, labor, and trade. In a Kansas Reflector interview, Schmidt said, \"I would love to see real property tax relief for K... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 13 source-backed items across 9 of the 14 issue areas. Representative public-record entries include: Abortion / life: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, g... Religious liberty / church / civic morality: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital... Guns / Second Amendment: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility... Immigration / border: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility na... Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object]",
+  "recordSummary": "This profile links 13 public items across 9 of the 14 issue areas. Examples include: Abortion / life: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility name, g... Religious liberty / church / civic morality: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital... Guns / Second Amendment: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility... Immigration / border: Across the captured period the feed contains no accessible campaign-controlled posts about Kansas water policy, the Ogallala Aquifer, wheat prices, Farm Bill details, Fort Riley, rural hospital closures by facility na... Public online activity is listed separately as context.",
+  "ownWordsNarrative": "",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Schmidt's public profile emphasizes service, family history, and Kansas roots rather than a named congregation or denomination.",
   "campaignFinance": {
     "totalRaised": "$177,173.50",
@@ -446,7 +446,7 @@ export const PATRICK_SCHMIDT_V2: CandidateFullV2 = {
     "reportingPeriod": "2026-01-01 to 2026-03-31",
     "source": "2026 all candidates bulk data"
   },
-  "socialResearchNote": "13 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "13 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-fec-candidate",

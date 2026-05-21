@@ -20,7 +20,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Public evidence: Kansas Reflector reported that Morgan served two terms on the Lawrence school board.",
+        "text": "Kansas Reflector reported that Morgan served two terms on the Lawrence school board.",
         "sourceIds": [
           "s-kansas-reflector-morgan"
         ]
@@ -52,7 +52,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Religious liberty / church / civic morality.",
+        "text": "No sourced position or public action found for Religious liberty / church / civic morality.",
         "sourceIds": []
       },
       "actions": [],
@@ -62,7 +62,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate statement: United Kansas principles say fiscal responsibility means maintaining priorities, making difficult decisions, and living within means; this is party guidance, not a Morgan-only position.",
+        "text": "United Kansas principles say fiscal responsibility means maintaining priorities, making difficult decisions, and living within means; this is party guidance, not a Morgan-only position.",
         "sourceIds": [
           "s-united-kansas-principles"
         ]
@@ -83,7 +83,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Public evidence: Kansas Reflector reported that Morgan co-founded Morgan Quitno Press, a publisher of state and city statistical reference books and databases.",
+        "text": "Kansas Reflector reported that Morgan co-founded Morgan Quitno Press, a publisher of state and city statistical reference books and databases.",
         "sourceIds": [
           "s-kansas-reflector-morgan"
         ]
@@ -95,7 +95,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -105,7 +105,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -115,7 +115,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "Candidate statement: United Kansas principles support accessible and affordable health care and identify Medicaid expansion as one possible part of addressing gaps; this is party guidance, not a Morgan-only position.",
+        "text": "United Kansas principles support accessible and affordable health care and identify Medicaid expansion as one possible part of addressing gaps; this is party guidance, not a Morgan-only position.",
         "sourceIds": [
           "s-united-kansas-principles"
         ]
@@ -136,7 +136,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate statement: Morgan told Kansas Reflector he wants the secretary of state to support safe and secure elections while avoiding unnecessary barriers to voter participation.",
+        "text": "Morgan told Kansas Reflector he wants the secretary of state to support safe and secure elections while avoiding unnecessary barriers to voter participation.",
         "sourceIds": [
           "s-kansas-reflector-morgan"
         ]
@@ -157,7 +157,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -167,7 +167,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -177,7 +177,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: Morgan framed the secretary of state as a quiet steward of elections and public trust rather than a source of partisan conflict.",
+        "text": "Morgan framed the secretary of state as a quiet steward of elections and public trust rather than a source of partisan conflict.",
         "sourceIds": [
           "s-kansas-reflector-morgan"
         ]
@@ -198,7 +198,7 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -207,15 +207,15 @@ export const SCOTT_E_MORGAN_V2: CandidateFullV2 = {
   ],
   "whoTheyAre": "Scott E. Morgan was added after the state roster audit found him on the Kansas SOS 2026 General list for secretary of state as a United Kansas candidate. Kansas Reflector reported that Morgan is a Lawrence resident, attorney, former publishing-business owner, former staff counsel to U.S. Sen. Bob Dole, former staff member for U.S. Sen. Nancy Landon Kassebaum, former chief counsel to Gov. Mike Hayden, and former two-term Lawrence school board member. United Kansas lists Morgan as its executive director.",
   "recordSummary": "The current record confirms a May 20, 2026 United Kansas filing for secretary of state and a public campaign message centered on election administration, voter participation, security, and reducing partisan conflict in the office.",
-  "whereTheyWorship": "No direct public evidence of a current worship community was found in this missing-roster pass. No faith-based policy inference is made.",
+  "whereTheyWorship": "No direct public evidence of a current worship community was found . No faith-based policy inference is made.",
   "campaignFinance": {
-    "totalRaised": "Not itemized in the reviewed public records for this missing-roster pass",
-    "narrative": "No itemized campaign-finance filing was found in this missing-roster pass.",
+    "totalRaised": "Not itemized in the reviewed public records for this roster review",
+    "narrative": "No itemized campaign-finance filing was found .",
     "donors": [],
     "reportingPeriod": "Most recent public record reviewed on 2026-05-20",
     "source": "Kansas SOS Candidate List - 2026 General"
   },
-  "socialResearchNote": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for Scott E. Morgan in this missing-roster pass. Public social evidence remains a signal layer only; none is used as a confirmed policy position.",
+  "socialResearchNote": "No reliable candidate-controlled social follows, likes, comments, or posts were harvested for Scott E. Morgan . Public social evidence remains a signal layer only; none is used as a confirmed policy position.",
   "sources": [
     {
       "id": "s-sos-2026-general",

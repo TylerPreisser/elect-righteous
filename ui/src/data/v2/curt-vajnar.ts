@@ -20,7 +20,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate statement: Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: Hays Post, Oct. 14, 20... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: Hays Post, Oct. 14, 20... ",
         "sourceIds": [
           "s-hayspost-2025-qa",
           "src-curt-vajnar-0044",
@@ -116,7 +116,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Public evidence: Immaculate Heart of Mary Parish Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Immaculate Heart of Mary Parish ",
         "sourceIds": [
           "src-curt-vajnar-0073"
         ]
@@ -128,7 +128,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate statement: Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: Hays Post, Oct. 14, 20... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: Hays Post, Oct. 14, 20... ",
         "sourceIds": [
           "s-hayspost-2025-qa",
           "s-hayspost-election-unofficial"
@@ -177,7 +177,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "Candidate statement: The Golden Belt Bank naming-rights debate is the clearest example of his sponsorship philosophy. Vajnar delayed action on the $200,000 offer for the Hays High football field, arguing the district should decide what is named, set contract terms, avoid merely reacting to the first offer, and give other supporting businesses an opportunity. Later, he said facility names belong to Hays citizens, not a business, and that... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The Golden Belt Bank naming-rights debate is the clearest example of his sponsorship philosophy. Vajnar delayed action on the $200,000 offer for the Hays High football field, arguing the district should decide what is named, set contract terms, avoid merely reacting to the first offer, and give other supporting businesses an opportunity. Later, he said facility names belong to Hays citizens, not a business, and that... ",
         "sourceIds": [
           "src-curt-vajnar-0080"
         ]
@@ -198,7 +198,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -208,7 +208,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -218,7 +218,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -228,7 +228,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Documented public record: That support for facilities does not mean he treats construction decisions as automatic. In 2023, he voted against the guaranteed maximum price contract for Hays High and Roosevelt, saying he did not believe he had enough chance to study the contract. In 2025, he joined the losing side of a vote to explore a separate bond-project manager, while also being quoted as thinking the idea came late in the process. His pat... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "That support for facilities does not mean he treats construction decisions as automatic. In 2023, he voted against the guaranteed maximum price contract for Hays High and Roosevelt, saying he did not believe he had enough chance to study the contract. In 2025, he joined the losing side of a vote to explore a separate bond-project manager, while also being quoted as thinking the idea came late in the process. His pat... ",
         "sourceIds": [
           "s-hayspost-gmp",
           "s-hayspost-election-unofficial"
@@ -279,7 +279,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Public safety / law enforcement / criminal justice.",
+        "text": "No sourced position or public action found for Public safety / law enforcement / criminal justice.",
         "sourceIds": []
       },
       "actions": [],
@@ -289,7 +289,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -299,7 +299,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: Hays Post, Oct. 14, 20... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose incomes are not rising as fast as costs. He paired that with the teacher-pay problem: if the district does not stay competitive, it risks losing good teachers or failing to recruit them. Source: Hays Post, Oct. 14, 20... ",
         "sourceIds": [
           "s-hayspost-2025-qa",
           "src-curt-vajnar-0080",
@@ -367,7 +367,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -375,8 +375,8 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Curt C. Vajnar is profiled here for Hays USD 489 Board of Education as a nonpartisan incumbent/current official. Teacher recruitment and retention are long-running concerns for him. In 2021, he named teacher shortages and retention as one of the greatest problems facing public education and suggested using student-teacher placements, early postings, and incentives for t... | s-ellis-2025-filings | primary | https://www.ellisco.net/DocumentCenter/View/5736/2025-Candidate-Filings | 2026-05-19 | 2025 city/school candidate filing list includes Curt C. Vajnar under USD 489 at-large positions | election status |. These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 17 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose inc... Education / curriculum / schools: On safety, Vajnar has a specific ask: more school resource officer coverage. In the 2025 Q&A, he said he was proud of helping push the first resource officer for the 2023-24 year and would continue pushing... Education / curriculum / schools: Teacher of the Month: Vajnar says goodbye to HHS. Education / curriculum / schools: Curt Vajnar's public voice is local, school-specific, and governance-focused. The reviewed public record did not identify verified campaign website or campaign social feed for him. The strongest source set... Social-only material is listed separately as online observation, not official action.",
-  "ownWordsNarrative": "[object Object]",
+  "recordSummary": "This profile links 17 public items across 5 of the 14 issue areas. Examples include: Education / curriculum / schools: Vajnar's fiscal message is a tradeoff message, not a simple anti-tax line. In 2025, he said the district was doing well financially but acknowledged that mill-levy increases are hard on residents whose inc... Education / curriculum / schools: On safety, Vajnar has a specific ask: more school resource officer coverage. In the 2025 Q&A, he said he was proud of helping push the first resource officer for the 2023-24 year and would continue pushing... Education / curriculum / schools: Teacher of the Month: Vajnar says goodbye to HHS. Education / curriculum / schools: Curt Vajnar's public voice is local, school-specific, and governance-focused. The reviewed public record did not identify verified campaign website or campaign social feed for him. The strongest source set... Public online activity is listed separately as context.",
+  "ownWordsNarrative": "",
   "whereTheyWorship": "Vajnar is publicly identified with Our Lady, Help of Christians Catholic Church in Antonino, where the source record says he has served on the parish council. Church website: https://www.ihm-church.com/.",
   "campaignFinance": {
     "totalRaised": "No online donor list, campaign-finance report, affidavit of exemption, or treasurer appointment for Vajnar was found. Kansas SOS Election Standards point most local school-board campaign reports to the county election officer when reportable, while KPDC's central local coverage does not include ordinary USD 489 school board races.",
@@ -385,7 +385,7 @@ export const CURT_VAJNAR_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Kansas Election Standards - Chapter IV, Candidates"
   },
-  "socialResearchNote": "5 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "5 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-usd489-members",

@@ -20,7 +20,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-abortion-life",
       "title": "Abortion / life",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Abortion / life.",
+        "text": "No sourced position or public action found for Abortion / life.",
         "sourceIds": []
       },
       "actions": [],
@@ -30,7 +30,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-lgbt-gender-parental-rights",
       "title": "LGBT / gender / parental rights",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for LGBT / gender / parental rights.",
+        "text": "No sourced position or public action found for LGBT / gender / parental rights.",
         "sourceIds": []
       },
       "actions": [],
@@ -40,7 +40,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-education-curriculum-schools",
       "title": "Education / curriculum / schools",
       "stated": {
-        "text": "Candidate statement: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. In Hays Post, she said she would work with students to let them know how easy it is to vote in Ellis County, but she also said she did not think there was anything she could do to increase turnout. (source) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. In Hays Post, she said she would work with students to let them know how easy it is to vote in Ellis County, but she also said she did not think there was anything she could do to increase turnout. (source) ",
         "sourceIds": [
           "s-hayspost-2024-profile",
           "s-ellis-agenda-02032026",
@@ -98,7 +98,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-religious-liberty-church-civic-morality",
       "title": "Religious liberty / church / civic morality",
       "stated": {
-        "text": "Public evidence: BobJane 'Bobbi' Dreiling Obituary Social/online observations are public signals, not confirmed policy positions.",
+        "text": "BobJane 'Bobbi' Dreiling Obituary ",
         "sourceIds": [
           "src-bobbi-dreiling-0042"
         ]
@@ -110,7 +110,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-taxes-spending-debt",
       "title": "Taxes / spending / debt",
       "stated": {
-        "text": "Candidate statement: The most repeated claim in her reelection messaging is that the office is accurate and secure. Dreiling told Hays Post she had run eight elections with \"perfect counts, audits and recounts.\" At an October 2024 forum covered by Tiger Media Network, she said Ellis County elections had been free, fair, and secure, and that her tax and value-setting work had been done with 100 percent accuracy. (Hays Post, Tiger Media N... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The most repeated claim in her reelection messaging is that the office is accurate and secure. Dreiling told Hays Post she had run eight elections with \"perfect counts, audits and recounts.\" At an October 2024 forum covered by Tiger Media Network, she said Ellis County elections had been free, fair, and secure, and that her tax and value-setting work had been done with 100 percent accuracy. (Hays Post, Tiger Media N... ",
         "sourceIds": [
           "s-hayspost-2024-profile",
           "s-kansasreflector-fhsu-2023",
@@ -198,7 +198,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-economy-jobs-labor",
       "title": "Economy / jobs / labor",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Economy / jobs / labor.",
+        "text": "No sourced position or public action found for Economy / jobs / labor.",
         "sourceIds": []
       },
       "actions": [],
@@ -229,7 +229,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-guns-second-amendment",
       "title": "Guns / Second Amendment",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Guns / Second Amendment.",
+        "text": "No sourced position or public action found for Guns / Second Amendment.",
         "sourceIds": []
       },
       "actions": [],
@@ -239,7 +239,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-immigration-border",
       "title": "Immigration / border",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Immigration / border.",
+        "text": "No sourced position or public action found for Immigration / border.",
         "sourceIds": []
       },
       "actions": [],
@@ -249,7 +249,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-health-care-insurance-medicaid",
       "title": "Health care / insurance / Medicaid",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Health care / insurance / Medicaid.",
+        "text": "No sourced position or public action found for Health care / insurance / Medicaid.",
         "sourceIds": []
       },
       "actions": [],
@@ -259,7 +259,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-election-integrity-voting-courts",
       "title": "Election integrity / voting / courts",
       "stated": {
-        "text": "Candidate statement: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. In Hays Post, she said she would work with students to let them know how easy it is to vote in Ellis County, but she also said she did not think there was anything she could do to increase turnout. (source) Social/online observations are public signals, not confirmed policy positions.",
+        "text": "Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. In Hays Post, she said she would work with students to let them know how easy it is to vote in Ellis County, but she also said she did not think there was anything she could do to increase turnout. (source) ",
         "sourceIds": [
           "s-hayspost-2024-profile",
           "src-bobbi-dreiling-0006",
@@ -364,7 +364,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-public-safety-law-enforcement-criminal-justice",
       "title": "Public safety / law enforcement / criminal justice",
       "stated": {
-        "text": "Documented public record: ACLU Kansas Press Release Social/online observations are public signals, not confirmed policy positions.",
+        "text": "ACLU Kansas Press Release ",
         "sourceIds": [
           "s-aclu-fhsu-petition-2024"
         ]
@@ -385,7 +385,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-agriculture-rural-economy-water",
       "title": "Agriculture / rural economy / water",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Agriculture / rural economy / water.",
+        "text": "No sourced position or public action found for Agriculture / rural economy / water.",
         "sourceIds": []
       },
       "actions": [],
@@ -395,7 +395,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-local-governance-transparency-ethics",
       "title": "Local governance / transparency / ethics",
       "stated": {
-        "text": "Candidate statement: The most repeated claim in her reelection messaging is that the office is accurate and secure. Dreiling told Hays Post she had run eight elections with \"perfect counts, audits and recounts.\" At an October 2024 forum covered by Tiger Media Network, she said Ellis County elections had been free, fair, and secure, and that her tax and value-setting work had been done with 100 percent accuracy. (Hays Post, Tiger Media N... Social/online observations are public signals, not confirmed policy positions.",
+        "text": "The most repeated claim in her reelection messaging is that the office is accurate and secure. Dreiling told Hays Post she had run eight elections with \"perfect counts, audits and recounts.\" At an October 2024 forum covered by Tiger Media Network, she said Ellis County elections had been free, fair, and secure, and that her tax and value-setting work had been done with 100 percent accuracy. (Hays Post, Tiger Media N... ",
         "sourceIds": [
           "s-hayspost-2024-profile",
           "s-kansasreflector-fhsu-2023",
@@ -500,7 +500,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
       "id": "i-environment-energy-land-use",
       "title": "Environment / energy / land use",
       "stated": {
-        "text": "The reviewed public record did not identify a source-backed candidate statement or documented action for Environment / energy / land use.",
+        "text": "No sourced position or public action found for Environment / energy / land use.",
         "sourceIds": []
       },
       "actions": [],
@@ -508,7 +508,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
     }
   ],
   "whoTheyAre": "Bobbi Dreiling is profiled here for Ellis County Clerk / Election Officer as a Republican incumbent/current official. Her recurring self-description is experience. In her 2020 Hays Post candidate profile, Dreiling said she was running because she knew the office, believed the clerk job required experience, enjoyed serving the public, and had worked underneath the prior clerk... Her election-security argument is procedural and concrete. She points to paper ballots, post-election audits, matching poll-pad data with ballots and result media, training poll workers, checking election equipment before and after elections, counting ballots... These biography/status records are descriptive background only; no policy position is inferred from identity, faith, family, or associations.",
-  "recordSummary": "The public record summary contains 21 source-backed items across 5 of the 14 issue areas. Representative public-record entries include: Education / curriculum / schools: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. I... Education / curriculum / schools: The latest Dreiling-authored public outreach item found was the 2026 Ellis County \"I Voted\" sticker contest. In a commission packet letter to school superintendents, she wrote that a student-designed stick... Education / curriculum / schools: The most recent public outreach item found was civic-engagement oriented: a 2026 student-designed \"I Voted\" sticker contest. In the February 3, 2026 commission packet, Dreiling wrote that she hoped the con... Education / curriculum / schools: Ellis County April 7, 2026 commission packet. Key signal: Dreiling's contest-results cover sheet: 60 entries and three selected student designs. (source). Social-only material is listed separately as online observation, not official action.",
+  "recordSummary": "This profile links 21 public items across 5 of the 14 issue areas. Examples include: Education / curriculum / schools: Her voting-access message is narrower than her critics' framing. Dreiling says her office provides advance voting, mail ballots, Saturday early voting, student voter information, and voter notifications. I... Education / curriculum / schools: The latest Dreiling-authored public outreach item found was the 2026 Ellis County \"I Voted\" sticker contest. In a commission packet letter to school superintendents, she wrote that a student-designed stick... Education / curriculum / schools: The most recent public outreach item found was civic-engagement oriented: a 2026 student-designed \"I Voted\" sticker contest. In the February 3, 2026 commission packet, Dreiling wrote that she hoped the con... Education / curriculum / schools: Ellis County April 7, 2026 commission packet. Key signal: Dreiling's contest-results cover sheet: 60 entries and three selected student designs. (source). Public online activity is listed separately as context.",
   "whereTheyWorship": "Public sources do not identify a current church affiliation. Family and obituary material in the source record points to a Catholic background, but the file does not support naming a current parish.",
   "campaignFinance": {
     "totalRaised": "Not itemized in the reviewed public records",
@@ -517,7 +517,7 @@ export const BOBBI_DREILING_V2: CandidateFullV2 = {
     "reportingPeriod": "Most recent public filing reviewed",
     "source": "Campaign Finance"
   },
-  "socialResearchNote": "15 public source-backed social/online observations are listed across the issue matrix. Additional social observations are treated as context only, not confirmed policy positions.",
+  "socialResearchNote": "15 public online items are tied to issue areas. Additional online activity is treated as context, not a policy position.",
   "sources": [
     {
       "id": "s-ellis-clerk-page",

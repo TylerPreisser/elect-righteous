@@ -1,5 +1,6 @@
 import Link from "next/link";
-import { ArrowRight, Briefcase, FileText, ListChecks, MessageSquare } from "lucide-react";
+import { ArrowRight, FileText, ListChecks, MessageSquare } from "lucide-react";
+import { normalizePublicCopy } from "@/lib/public-copy";
 
 interface CandidateCardProps {
   name: string;
@@ -50,19 +51,19 @@ export default function CandidateCard({
       href={`/candidates/${slug}`}
       className={`group block h-full rounded-lg border bg-white transition-all duration-200 hover:-translate-y-0.5 hover:border-teal/40 hover:shadow-[0_18px_45px_rgba(16,64,93,0.12)] focus:outline-none focus-visible:ring-2 focus-visible:ring-teal ${className}`}
       style={{ borderColor: "rgba(16, 64, 93, 0.12)" }}
-      aria-label={`Open dossier for ${name}`}
+      aria-label={`Open profile for ${name}`}
     >
-      <article className="flex min-h-[15.5rem] h-full flex-col p-5 sm:p-6">
-        <div className="mb-4 flex flex-wrap items-center gap-2">
+      <article className="flex min-h-[12.25rem] h-full flex-col p-4 sm:p-5">
+        <div className="mb-3 flex flex-wrap items-center gap-2">
           <span
-            className="inline-flex max-w-full items-center rounded px-2.5 py-1 text-[0.68rem] font-heading font-bold uppercase tracking-wider"
+            className="inline-flex max-w-full items-center rounded px-2 py-0.5 text-[0.66rem] font-heading font-bold uppercase tracking-wider"
             style={{ backgroundColor: "rgba(16, 64, 93, 0.07)", color: "var(--color-navy)" }}
           >
             {partyLabel}
           </span>
           {incumbent && (
             <span
-              className="inline-flex items-center rounded px-2.5 py-1 text-[0.68rem] font-heading font-bold uppercase tracking-wider"
+              className="inline-flex items-center rounded px-2 py-0.5 text-[0.66rem] font-heading font-bold uppercase tracking-wider"
               style={{ backgroundColor: "rgba(28, 195, 175, 0.10)", color: "var(--color-teal-dark)" }}
             >
               In office
@@ -71,39 +72,40 @@ export default function CandidateCard({
         </div>
 
         <h3
-          className="mb-2 font-heading font-bold text-navy text-xl leading-tight transition-colors duration-200 group-hover:text-teal"
+          className="mb-2 font-heading font-bold text-navy text-lg leading-tight transition-colors duration-200 group-hover:text-teal"
         >
           {name}
         </h3>
 
         <p
-          className="mb-3 text-sm font-semibold leading-snug sm:min-h-[2.25rem]"
+          className="mb-3 text-sm font-semibold leading-snug"
           style={{ color: "var(--color-teal-dark)" }}
         >
           {position}
         </p>
 
-        <div
-          className="mb-5 flex items-start gap-2 text-sm leading-snug sm:min-h-[2.75rem]"
-          style={{ color: "var(--color-slate)" }}
-        >
-          <Briefcase size={14} className="mt-0.5 shrink-0 opacity-60" aria-hidden="true" />
-          <span>{occupation || "Public office / campaign profile"}</span>
-        </div>
+        {occupation && (
+          <p
+            className="mb-4 text-xs leading-snug"
+            style={{ color: "var(--color-slate)" }}
+          >
+            {normalizePublicCopy(occupation)}
+          </p>
+        )}
 
         {oneSentence ? (
           <p
-            className="mb-5 flex-1 text-sm leading-relaxed"
+            className="mb-4 flex-1 text-sm leading-relaxed"
             style={{
               color: "var(--color-charcoal)",
               fontFamily: "var(--font-serif)",
               display: "-webkit-box",
-              WebkitLineClamp: 4,
+              WebkitLineClamp: 2,
               WebkitBoxOrient: "vertical",
               overflow: "hidden",
             }}
           >
-            {oneSentence}
+            {normalizePublicCopy(oneSentence)}
           </p>
         ) : (
           <div className="flex-1" />
@@ -111,17 +113,17 @@ export default function CandidateCard({
 
         {metrics.length > 0 && (
           <div
-            className="mt-auto grid grid-cols-3 gap-2 border-t pt-4"
+            className="mt-auto flex flex-wrap items-center gap-x-3 gap-y-1 border-t pt-3"
             style={{ borderColor: "rgba(16, 64, 93, 0.10)" }}
-            aria-label="Dossier metrics"
+            aria-label="Profile metrics"
           >
             {metrics.map(({ icon: Icon, label, value }) => (
-              <span key={label} className="min-w-0 rounded bg-slate-50 px-2 py-2">
-                <span className="flex items-center gap-1.5 font-heading text-sm font-bold" style={{ color: "var(--color-navy)" }}>
-                  <Icon size={13} className="shrink-0" aria-hidden="true" />
+              <span key={label} className="inline-flex items-center gap-1.5 text-xs" style={{ color: "var(--color-slate)" }}>
+                <Icon size={12} className="shrink-0 text-teal" aria-hidden="true" />
+                <strong className="font-heading text-sm" style={{ color: "var(--color-navy)" }}>
                   {value}
-                </span>
-                <span className="block truncate text-[0.68rem] uppercase tracking-wide" style={{ color: "var(--color-slate)" }}>
+                </strong>
+                <span className="uppercase tracking-wide">
                   {label}
                 </span>
               </span>
@@ -131,11 +133,11 @@ export default function CandidateCard({
 
         {typeof issueCount === "number" && (
           <span
-            className="mt-4 inline-flex min-h-10 items-center justify-between gap-3 rounded-md px-3 text-sm font-heading font-bold transition-colors duration-200 group-hover:bg-navy group-hover:text-white"
-            style={{ backgroundColor: "rgba(16, 64, 93, 0.07)", color: "var(--color-navy)" }}
+            className="mt-3 inline-flex items-center gap-2 text-sm font-heading font-bold transition-colors duration-200 group-hover:text-teal"
+            style={{ color: "var(--color-navy)" }}
             aria-hidden="true"
           >
-            {issueCount} issue dossier
+            See more
             <ArrowRight size={15} className="transition-transform duration-200 group-hover:translate-x-1" />
           </span>
         )}
