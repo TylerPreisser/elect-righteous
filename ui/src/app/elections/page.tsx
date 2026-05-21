@@ -124,22 +124,9 @@ export default function ElectionsPage() {
       {/* ── Categorized Election Sections ────────────────────────────── */}
       <section className="section-light relative" aria-labelledby="elections-list-heading">
         <Container className="relative z-10">
-          <div className="max-w-3xl mb-10">
-            <h2
-              id="elections-list-heading"
-              className="font-heading font-bold text-2xl mb-3"
-              style={{ color: "var(--er-text-strong)" }}
-            >
-              Election Guide
-            </h2>
-            <p
-              className="text-sm leading-relaxed"
-              style={{ color: "var(--er-muted)" }}
-            >
-              Each card links to a plain-English overview of the race or current-officeholder group, why it
-              matters, and every candidate or public official currently researched for that page.
-            </p>
-          </div>
+          <h2 id="elections-list-heading" className="sr-only">
+            Election guide
+          </h2>
 
           <div className="flex flex-col gap-14">
             {ELECTION_CATEGORIES.map((category) => {

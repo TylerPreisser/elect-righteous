@@ -1,5 +1,4 @@
 import Link from "next/link";
-import KineticDossier from "@/components/ui/kinetic-dossier";
 import {
   ArrowRight,
   Building2,
@@ -122,8 +121,6 @@ export default function HomePage() {
             </div>
 
             <div className="grid gap-5">
-              <KineticDossier />
-
               <aside className="er-panel er-reveal er-reveal-delay-1 rounded-lg p-5">
                 <div className="mb-5 flex items-center justify-between border-b border-white/10 pb-4">
                   <span className="font-heading text-sm font-bold uppercase tracking-[0.16em] text-white/78">

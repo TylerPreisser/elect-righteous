@@ -196,6 +196,14 @@ export default function SiteFooter() {
             <p className="site-footer-soft text-xs font-body">
               &copy; {currentYear} Elect Righteous. All rights reserved.
             </p>
+            <a
+              href="https://www.celebratejesus.org/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="footer-nav-link text-xs font-body font-semibold"
+            >
+              Need a Biblical Church?
+            </a>
             <p className="site-footer-soft text-xs font-body text-center">
               This platform does not endorse any candidate.
             </p>
