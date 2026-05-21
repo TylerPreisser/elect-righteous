@@ -9,11 +9,7 @@ export default function BuiltByBadge() {
         href="https://www.preissersolutions.com/"
         target="_blank"
         rel="noopener noreferrer"
-        className="group flex h-[3.25rem] max-w-[calc(100vw-1.5rem)] items-center gap-3 overflow-hidden rounded-xl pl-3 pr-4 shadow-lg backdrop-blur-md transition-all duration-300 hover:shadow-xl focus:outline-none focus-visible:ring-2 focus-visible:ring-teal sm:max-w-[18.5rem]"
-        style={{
-          backgroundColor: "rgba(16, 64, 93, 0.95)",
-          border: "1px solid rgba(28, 195, 175, 0.25)",
-        }}
+        className="built-by-badge-link group flex h-[3.25rem] max-w-[calc(100vw-1.5rem)] items-center gap-3 overflow-hidden rounded-xl pl-3 pr-4 shadow-lg backdrop-blur-md transition-all duration-300 hover:shadow-xl focus:outline-none focus-visible:ring-2 focus-visible:ring-teal sm:max-w-[18.5rem]"
         aria-label="Visit Preisser Solutions"
       >
         <img

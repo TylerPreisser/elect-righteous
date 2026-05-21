@@ -26,11 +26,117 @@
 }
 
 @layer base {
+  :root {
+    color-scheme: light;
+    --er-page-bg: linear-gradient(180deg, #f7fbfb 0%, #eef6f5 48%, #f8f4ea 100%);
+    --er-shell-bg: linear-gradient(180deg, rgba(247, 251, 251, 0.99) 0%, rgba(238, 246, 245, 0.99) 48%, rgba(248, 244, 234, 0.99) 100%);
+    --er-hero-bg: rgba(238, 246, 245, 0.90);
+    --er-text-strong: #071822;
+    --er-text: rgba(7, 24, 34, 0.90);
+    --er-muted: rgba(7, 24, 34, 0.70);
+    --er-muted-soft: rgba(7, 24, 34, 0.52);
+    --er-border: rgba(10, 45, 66, 0.14);
+    --er-border-strong: rgba(10, 45, 66, 0.24);
+    --er-panel-bg: linear-gradient(180deg, rgba(255, 255, 255, 0.82), rgba(255, 255, 255, 0.62));
+    --er-card-bg: rgba(255, 255, 255, 0.72);
+    --er-card-hover-bg: rgba(255, 255, 255, 0.92);
+    --er-soft-bg: rgba(10, 45, 66, 0.055);
+    --er-chip-bg: rgba(10, 45, 66, 0.08);
+    --er-chip-text: rgba(7, 24, 34, 0.78);
+    --er-input-bg: rgba(255, 255, 255, 0.82);
+    --er-shadow: 0 22px 70px rgba(16, 64, 93, 0.12);
+    --er-card-shadow: 0 18px 55px rgba(16, 64, 93, 0.10);
+    --er-grid-line: rgba(16, 64, 93, 0.075);
+    --er-grid-accent: linear-gradient(135deg, rgba(196, 146, 42, 0.10), transparent 34%, rgba(28, 195, 175, 0.12));
+    --er-header-bg: rgba(247, 251, 251, 0.86);
+    --er-header-bg-scrolled: rgba(247, 251, 251, 0.94);
+    --er-header-text: #071822;
+    --er-header-muted: rgba(7, 24, 34, 0.62);
+    --er-header-hover: rgba(10, 45, 66, 0.07);
+    --er-mobile-menu-bg: #f7fbfb;
+    --er-footer-bg: #f4f7f7;
+    --er-footer-text: #071822;
+    --er-footer-muted: rgba(7, 24, 34, 0.66);
+    --er-footer-soft: rgba(7, 24, 34, 0.48);
+    --er-footer-cta-bg: rgba(16, 64, 93, 0.08);
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme]) {
+      color-scheme: dark;
+      --er-page-bg: linear-gradient(180deg, #071822 0%, #0a2030 38%, #101818 100%);
+      --er-shell-bg: linear-gradient(180deg, rgba(7, 24, 34, 0.98) 0%, rgba(10, 32, 48, 0.98) 48%, rgba(14, 24, 24, 0.98) 100%);
+      --er-hero-bg: rgba(7, 26, 36, 0.80);
+      --er-text-strong: #ffffff;
+      --er-text: rgba(246, 246, 246, 0.90);
+      --er-muted: rgba(246, 246, 246, 0.66);
+      --er-muted-soft: rgba(246, 246, 246, 0.48);
+      --er-border: rgba(255, 255, 255, 0.12);
+      --er-border-strong: rgba(255, 255, 255, 0.20);
+      --er-panel-bg: linear-gradient(180deg, rgba(255, 255, 255, 0.075), rgba(255, 255, 255, 0.045));
+      --er-card-bg: rgba(255, 255, 255, 0.07);
+      --er-card-hover-bg: rgba(255, 255, 255, 0.095);
+      --er-soft-bg: rgba(255, 255, 255, 0.055);
+      --er-chip-bg: rgba(255, 255, 255, 0.08);
+      --er-chip-text: rgba(255, 255, 255, 0.82);
+      --er-input-bg: rgba(255, 255, 255, 0.08);
+      --er-shadow: 0 28px 80px rgba(0, 0, 0, 0.25);
+      --er-card-shadow: 0 18px 60px rgba(0, 0, 0, 0.22);
+      --er-grid-line: rgba(255, 255, 255, 0.055);
+      --er-grid-accent: linear-gradient(135deg, rgba(196, 146, 42, 0.10), transparent 34%, rgba(28, 195, 175, 0.10));
+      --er-header-bg: rgba(7, 24, 34, 0.84);
+      --er-header-bg-scrolled: rgba(7, 24, 34, 0.92);
+      --er-header-text: #ffffff;
+      --er-header-muted: rgba(246, 246, 246, 0.62);
+      --er-header-hover: rgba(255, 255, 255, 0.10);
+      --er-mobile-menu-bg: #071822;
+      --er-footer-bg: #2a2929;
+      --er-footer-text: #ffffff;
+      --er-footer-muted: rgba(246, 246, 246, 0.70);
+      --er-footer-soft: rgba(246, 246, 246, 0.45);
+      --er-footer-cta-bg: rgba(16, 64, 93, 0.35);
+    }
+  }
+
+  html[data-theme="dark"] {
+    color-scheme: dark;
+    --er-page-bg: linear-gradient(180deg, #071822 0%, #0a2030 38%, #101818 100%);
+    --er-shell-bg: linear-gradient(180deg, rgba(7, 24, 34, 0.98) 0%, rgba(10, 32, 48, 0.98) 48%, rgba(14, 24, 24, 0.98) 100%);
+    --er-hero-bg: rgba(7, 26, 36, 0.80);
+    --er-text-strong: #ffffff;
+    --er-text: rgba(246, 246, 246, 0.90);
+    --er-muted: rgba(246, 246, 246, 0.66);
+    --er-muted-soft: rgba(246, 246, 246, 0.48);
+    --er-border: rgba(255, 255, 255, 0.12);
+    --er-border-strong: rgba(255, 255, 255, 0.20);
+    --er-panel-bg: linear-gradient(180deg, rgba(255, 255, 255, 0.075), rgba(255, 255, 255, 0.045));
+    --er-card-bg: rgba(255, 255, 255, 0.07);
+    --er-card-hover-bg: rgba(255, 255, 255, 0.095);
+    --er-soft-bg: rgba(255, 255, 255, 0.055);
+    --er-chip-bg: rgba(255, 255, 255, 0.08);
+    --er-chip-text: rgba(255, 255, 255, 0.82);
+    --er-input-bg: rgba(255, 255, 255, 0.08);
+    --er-shadow: 0 28px 80px rgba(0, 0, 0, 0.25);
+    --er-card-shadow: 0 18px 60px rgba(0, 0, 0, 0.22);
+    --er-grid-line: rgba(255, 255, 255, 0.055);
+    --er-grid-accent: linear-gradient(135deg, rgba(196, 146, 42, 0.10), transparent 34%, rgba(28, 195, 175, 0.10));
+    --er-header-bg: rgba(7, 24, 34, 0.84);
+    --er-header-bg-scrolled: rgba(7, 24, 34, 0.92);
+    --er-header-text: #ffffff;
+    --er-header-muted: rgba(246, 246, 246, 0.62);
+    --er-header-hover: rgba(255, 255, 255, 0.10);
+    --er-mobile-menu-bg: #071822;
+    --er-footer-bg: #2a2929;
+    --er-footer-text: #ffffff;
+    --er-footer-muted: rgba(246, 246, 246, 0.70);
+    --er-footer-soft: rgba(246, 246, 246, 0.45);
+    --er-footer-cta-bg: rgba(16, 64, 93, 0.35);
+  }
+
   body {
     font-family: var(--font-body);
-    color: rgba(246, 246, 246, 0.88);
-    background:
-      linear-gradient(180deg, #071822 0%, #0a2030 38%, #101818 100%);
+    color: var(--er-text);
+    background: var(--er-page-bg);
     -webkit-font-smoothing: antialiased;
     text-rendering: geometricPrecision;
   }
@@ -42,7 +148,7 @@
 
 @layer components {
   .footer-nav-link {
-    color: rgba(246, 246, 246, 0.70);
+    color: var(--er-footer-muted);
     transition: color 200ms;
   }
   .footer-nav-link:hover {
@@ -74,9 +180,9 @@
   }
   .card {
     @apply rounded-lg border overflow-hidden transition-all duration-200 hover:-translate-y-0.5;
-    background: rgba(255, 255, 255, 0.07);
-    border-color: rgba(255, 255, 255, 0.12);
-    box-shadow: 0 18px 60px rgba(0, 0, 0, 0.22);
+    background: var(--er-card-bg);
+    border-color: var(--er-border);
+    box-shadow: var(--er-card-shadow);
   }
   .container-main {
     @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
@@ -84,18 +190,17 @@
   .er-shell {
     position: relative;
     overflow: hidden;
-    background:
-      linear-gradient(180deg, rgba(7, 24, 34, 0.98) 0%, rgba(10, 32, 48, 0.98) 48%, rgba(14, 24, 24, 0.98) 100%);
-    color: rgba(246, 246, 246, 0.9);
+    background: var(--er-shell-bg);
+    color: var(--er-text);
   }
   .er-grid-bg {
     position: absolute;
     inset: 0;
     pointer-events: none;
     background-image:
-      linear-gradient(rgba(255, 255, 255, 0.055) 1px, transparent 1px),
-      linear-gradient(90deg, rgba(255, 255, 255, 0.055) 1px, transparent 1px),
-      linear-gradient(135deg, rgba(196, 146, 42, 0.10), transparent 34%, rgba(28, 195, 175, 0.10));
+      linear-gradient(var(--er-grid-line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--er-grid-line) 1px, transparent 1px),
+      var(--er-grid-accent);
     background-size: 36px 36px, 36px 36px, auto;
     opacity: 0.68;
     animation: er-grid-drift 26s linear infinite;
@@ -110,30 +215,40 @@
     animation: er-scan 7s ease-in-out infinite;
   }
   .er-panel {
-    border: 1px solid rgba(255, 255, 255, 0.12);
-    background: linear-gradient(180deg, rgba(255, 255, 255, 0.075), rgba(255, 255, 255, 0.045));
-    box-shadow: 0 28px 80px rgba(0, 0, 0, 0.25);
+    border: 1px solid var(--er-border);
+    background: var(--er-panel-bg);
+    box-shadow: var(--er-shadow);
     backdrop-filter: blur(18px);
   }
   .er-card {
-    border: 1px solid rgba(255, 255, 255, 0.12);
-    background: rgba(255, 255, 255, 0.07);
-    box-shadow: 0 18px 60px rgba(0, 0, 0, 0.22);
+    border: 1px solid var(--er-border);
+    background: var(--er-card-bg);
+    box-shadow: var(--er-card-shadow);
     transition: transform 220ms ease, border-color 220ms ease, background-color 220ms ease, box-shadow 220ms ease;
   }
   .er-card:hover {
     transform: translateY(-3px);
     border-color: rgba(28, 195, 175, 0.42);
-    background: rgba(255, 255, 255, 0.095);
-    box-shadow: 0 24px 80px rgba(0, 0, 0, 0.30);
+    background: var(--er-card-hover-bg);
+    box-shadow: var(--er-shadow);
+  }
+  .er-hero-band {
+    background: var(--er-hero-bg);
+    color: var(--er-text-strong);
+  }
+  .er-hero-grid {
+    background-image:
+      linear-gradient(var(--er-grid-line) 1px, transparent 1px),
+      linear-gradient(90deg, var(--er-grid-line) 1px, transparent 1px);
+    background-size: 26px 26px;
   }
   .er-shell input::placeholder,
   .er-shell textarea::placeholder {
-    color: rgba(246, 246, 246, 0.42);
+    color: var(--er-muted-soft);
   }
   .er-shell select option {
-    background: #071822;
-    color: #f6f6f6;
+    background: var(--er-mobile-menu-bg);
+    color: var(--er-text-strong);
   }
   .er-kicker {
     color: var(--color-teal);
@@ -144,10 +259,10 @@
     text-transform: uppercase;
   }
   .er-muted {
-    color: rgba(246, 246, 246, 0.66);
+    color: var(--er-muted);
   }
   .er-hairline {
-    border-color: rgba(255, 255, 255, 0.12);
+    border-color: var(--er-border);
   }
   .er-reveal {
     animation: er-rise 680ms ease both;
@@ -163,6 +278,116 @@
   }
   .er-marquee {
     animation: er-marquee 28s linear infinite;
+  }
+  .site-header {
+    border-bottom: 1px solid var(--er-border);
+    background: var(--er-header-bg);
+    color: var(--er-header-text);
+    backdrop-filter: blur(18px);
+  }
+  .site-header--scrolled {
+    background: var(--er-header-bg-scrolled);
+  }
+  .site-header-title {
+    color: var(--er-header-text);
+  }
+  .site-header-link {
+    color: var(--er-header-muted);
+  }
+  .site-header-link:hover,
+  .site-header-link.is-active {
+    color: var(--er-header-text);
+  }
+  .site-header-icon-button,
+  .site-mobile-link {
+    color: var(--er-header-muted);
+  }
+  .site-header-icon-button:hover,
+  .site-mobile-link:hover,
+  .site-mobile-link.is-active {
+    background: var(--er-header-hover);
+    color: var(--er-header-text);
+  }
+  .site-mobile-nav {
+    border-color: var(--er-border);
+    background: var(--er-mobile-menu-bg);
+  }
+  .site-mobile-nav-border {
+    border-color: var(--er-border);
+  }
+  .site-mobile-muted {
+    color: var(--er-muted);
+  }
+  .theme-toggle {
+    display: inline-flex;
+    min-height: 2.5rem;
+    align-items: center;
+    gap: 0.45rem;
+    border: 1px solid var(--er-border);
+    border-radius: 0.5rem;
+    padding: 0 0.75rem;
+    color: var(--er-header-text);
+    background: var(--er-soft-bg);
+    font-family: var(--font-heading);
+    font-size: 0.74rem;
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    transition: border-color 180ms, background-color 180ms, transform 180ms;
+  }
+  .theme-toggle:hover {
+    border-color: rgba(28, 195, 175, 0.48);
+    background: rgba(28, 195, 175, 0.12);
+    transform: translateY(-1px);
+  }
+  .theme-toggle-mobile {
+    margin-top: 0.25rem;
+  }
+  .site-footer {
+    background: var(--er-footer-bg);
+    color: var(--er-footer-text);
+  }
+  .site-footer-title {
+    color: var(--er-footer-text);
+  }
+  .site-footer-muted {
+    color: var(--er-footer-muted);
+  }
+  .site-footer-soft {
+    color: var(--er-footer-soft);
+  }
+  .site-footer-cta {
+    border-top: 1px solid rgba(28, 195, 175, 0.16);
+    background: var(--er-footer-cta-bg);
+  }
+  .built-by-badge-link {
+    background: color-mix(in srgb, var(--color-navy) 90%, var(--er-footer-bg));
+    border: 1px solid rgba(28, 195, 175, 0.25);
+  }
+  html[data-theme="light"] .er-shell [class~="text-white"]:not([class*="bg-teal"]) {
+    color: var(--er-text-strong) !important;
+  }
+  html[data-theme="light"] .er-shell [class*="text-white/4"],
+  html[data-theme="light"] .er-shell [class*="text-white/5"] {
+    color: var(--er-muted-soft) !important;
+  }
+  html[data-theme="light"] .er-shell [class*="text-white/6"],
+  html[data-theme="light"] .er-shell [class*="text-white/7"] {
+    color: var(--er-muted) !important;
+  }
+  html[data-theme="light"] .er-shell [class*="text-white/8"],
+  html[data-theme="light"] .er-shell [class*="text-white/9"] {
+    color: var(--er-text) !important;
+  }
+  html[data-theme="light"] .er-shell [class*="border-white/"] {
+    border-color: var(--er-border) !important;
+  }
+  html[data-theme="light"] .er-shell [class*="bg-white/"],
+  html[data-theme="light"] .er-shell [class*="bg-white["] {
+    background-color: var(--er-soft-bg) !important;
+  }
+  html[data-theme="light"] .er-shell [class*="hover:bg-white"]:hover {
+    background-color: rgba(10, 45, 66, 0.08) !important;
   }
 }
 

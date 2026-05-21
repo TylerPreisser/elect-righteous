@@ -56,7 +56,7 @@ export default function CandidateCard({
         <div className="mb-3 flex flex-wrap items-center gap-2">
           <span
             className="inline-flex max-w-full items-center rounded px-2 py-0.5 text-[0.66rem] font-heading font-bold uppercase tracking-wider"
-            style={{ backgroundColor: "rgba(255, 255, 255, 0.08)", color: "rgba(255,255,255,0.82)" }}
+            style={{ backgroundColor: "var(--er-chip-bg)", color: "var(--er-chip-text)" }}
           >
             {partyLabel}
           </span>
@@ -86,7 +86,7 @@ export default function CandidateCard({
         {occupation && (
           <p
             className="mb-4 text-xs leading-snug"
-            style={{ color: "rgba(255,255,255,0.58)" }}
+            style={{ color: "var(--er-muted-soft)" }}
           >
             {normalizePublicCopy(occupation)}
           </p>
@@ -96,7 +96,7 @@ export default function CandidateCard({
           <p
             className="mb-4 flex-1 text-sm leading-relaxed"
             style={{
-              color: "rgba(255,255,255,0.72)",
+              color: "var(--er-muted)",
               fontFamily: "var(--font-serif)",
               display: "-webkit-box",
               WebkitLineClamp: 2,
@@ -113,13 +113,13 @@ export default function CandidateCard({
         {metrics.length > 0 && (
           <div
             className="mt-auto flex flex-wrap items-center gap-x-3 gap-y-1 border-t pt-3"
-            style={{ borderColor: "rgba(255, 255, 255, 0.10)" }}
+            style={{ borderColor: "var(--er-border)" }}
             aria-label="Profile metrics"
           >
             {metrics.map(({ icon: Icon, label, value }) => (
-              <span key={label} className="inline-flex items-center gap-1.5 text-xs" style={{ color: "rgba(255,255,255,0.55)" }}>
+              <span key={label} className="inline-flex items-center gap-1.5 text-xs" style={{ color: "var(--er-muted-soft)" }}>
                 <Icon size={12} className="shrink-0 text-teal" aria-hidden="true" />
-                <strong className="font-heading text-sm" style={{ color: "white" }}>
+                <strong className="font-heading text-sm" style={{ color: "var(--er-text-strong)" }}>
                   {value}
                 </strong>
                 <span className="uppercase tracking-wide">
@@ -133,7 +133,7 @@ export default function CandidateCard({
         {typeof issueCount === "number" && (
           <span
             className="mt-3 inline-flex items-center gap-2 text-sm font-heading font-bold transition-colors duration-200 group-hover:text-teal"
-            style={{ color: "rgba(255,255,255,0.78)" }}
+            style={{ color: "var(--er-text)" }}
             aria-hidden="true"
           >
             See more

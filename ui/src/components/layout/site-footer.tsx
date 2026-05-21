@@ -14,8 +14,7 @@ export default function SiteFooter() {
 
   return (
     <footer
-      style={{ backgroundColor: "var(--color-dark)" }}
-      className="text-white"
+      className="site-footer"
       role="contentinfo"
       aria-label="Site footer"
     >
@@ -47,7 +46,7 @@ export default function SiteFooter() {
                   <rect x="2" y="5.5" width="14" height="3" fill="white" rx="0.5" />
                 </svg>
               </span>
-              <span className="font-heading font-bold text-lg uppercase tracking-widest text-white transition-opacity duration-200 group-hover:opacity-80">
+              <span className="site-footer-title font-heading font-bold text-lg uppercase tracking-widest transition-opacity duration-200 group-hover:opacity-80">
                 Elect Righteous
               </span>
             </Link>
@@ -62,16 +61,10 @@ export default function SiteFooter() {
 
             {/* Scripture */}
             <blockquote className="mt-1">
-              <p
-                className="font-serif italic text-sm leading-relaxed"
-                style={{ color: "rgba(246, 246, 246, 0.75)" }}
-              >
+              <p className="site-footer-muted font-serif italic text-sm leading-relaxed">
                 &ldquo;When the righteous thrive, the people rejoice.&rdquo;
               </p>
-              <footer
-                className="mt-1 text-xs font-body font-semibold uppercase tracking-wider"
-                style={{ color: "rgba(246, 246, 246, 0.45)" }}
-              >
+              <footer className="site-footer-soft mt-1 text-xs font-body font-semibold uppercase tracking-wider">
                 &mdash; Proverbs 29:2
               </footer>
             </blockquote>
@@ -124,22 +117,16 @@ export default function SiteFooter() {
               >
                 <path
                   d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5S10.62 6.5 12 6.5 14.5 7.62 14.5 9 13.38 11.5 12 11.5z"
-                  fill="rgba(246,246,246,0.55)"
+                  fill="currentColor"
                 />
               </svg>
-              <span
-                className="text-sm font-body"
-                style={{ color: "rgba(246, 246, 246, 0.70)" }}
-              >
+              <span className="site-footer-muted text-sm font-body">
                 Hays, Kansas
               </span>
             </div>
 
             {/* Disclaimer */}
-            <p
-              className="text-xs font-body leading-relaxed"
-              style={{ color: "rgba(246, 246, 246, 0.50)" }}
-            >
+            <p className="site-footer-soft text-xs font-body leading-relaxed">
               Elect Righteous is an independent research platform providing
               source-cited public information about candidates and elections.
               All data is drawn from publicly available records. Research is
@@ -150,13 +137,7 @@ export default function SiteFooter() {
       </Container>
 
       {/* Preisser Solutions CTA Banner */}
-      <div
-        className="border-t"
-        style={{
-          borderColor: "rgba(28, 195, 175, 0.15)",
-          backgroundColor: "rgba(16, 64, 93, 0.35)",
-        }}
-      >
+      <div className="site-footer-cta">
         <Container>
           <a
             href="https://www.preissersolutions.com/"
@@ -175,15 +156,10 @@ export default function SiteFooter() {
                 className="rounded-md flex-shrink-0 group-hover:scale-105 transition-transform duration-300"
               />
               <div className="flex min-w-0 flex-col gap-1">
-                <span
-                  className="font-heading text-sm font-bold tracking-wide text-white transition-colors duration-300 group-hover:text-teal sm:text-base"
-                >
+                <span className="site-footer-title font-heading text-sm font-bold tracking-wide transition-colors duration-300 group-hover:text-teal sm:text-base">
                   Preisser Solutions
                 </span>
-                <span
-                  className="text-xs font-body leading-relaxed sm:text-sm"
-                  style={{ color: "rgba(246, 246, 246, 0.65)" }}
-                >
+                <span className="site-footer-muted text-xs font-body leading-relaxed sm:text-sm">
                   Preisser Solutions builds world-class systems behind modern businesses: high-converting websites, local SEO, AI search visibility, CRM workflows, dashboards, and automations that reduce manual work and increase qualified leads.
                 </span>
               </div>
@@ -213,20 +189,14 @@ export default function SiteFooter() {
       {/* Bottom bar */}
       <div
         className="border-t"
-        style={{ borderColor: "rgba(246, 246, 246, 0.10)" }}
+        style={{ borderColor: "var(--er-border)" }}
       >
         <Container>
           <div className="flex flex-col sm:flex-row items-center justify-between gap-3 py-5">
-            <p
-              className="text-xs font-body"
-              style={{ color: "rgba(246, 246, 246, 0.40)" }}
-            >
+            <p className="site-footer-soft text-xs font-body">
               &copy; {currentYear} Elect Righteous. All rights reserved.
             </p>
-            <p
-              className="text-xs font-body text-center"
-              style={{ color: "rgba(246, 246, 246, 0.40)" }}
-            >
+            <p className="site-footer-soft text-xs font-body text-center">
               This platform does not endorse any candidate.
             </p>
           </div>

@@ -92,7 +92,7 @@ export default function CandidatesPage() {
               </h1>
               <p
                 className="text-base leading-relaxed"
-                style={{ color: "rgba(246,246,246,0.80)" }}
+                style={{ color: "var(--er-muted)" }}
               >
                 {V2_CANDIDATES.length} officials and candidates researched -
                 backgrounds, public actions, faith/community ties where public, campaign finance, and
@@ -139,7 +139,7 @@ export default function CandidatesPage() {
                 <Search
                   size={16}
                   className="absolute left-3 top-1/2 -translate-y-1/2 pointer-events-none"
-                  style={{ color: "rgba(255,255,255,0.58)" }}
+                  style={{ color: "var(--er-muted-soft)" }}
                   aria-hidden="true"
                 />
                 <input
@@ -150,16 +150,16 @@ export default function CandidatesPage() {
                   placeholder="Search by name, position, or office…"
                   className="min-h-11 w-full pl-9 pr-11 rounded-md border text-sm font-body transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-teal"
                   style={{
-                    borderColor: "rgba(255,255,255,0.14)",
-                    color: "white",
-                    backgroundColor: "rgba(255,255,255,0.08)",
+                    borderColor: "var(--er-border-strong)",
+                    color: "var(--er-text-strong)",
+                    backgroundColor: "var(--er-input-bg)",
                   }}
                 />
                 {query && (
                   <button
                     onClick={() => setQuery("")}
                     className="absolute right-1.5 top-1/2 flex h-10 w-10 -translate-y-1/2 items-center justify-center rounded transition-colors duration-200 hover:opacity-70 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
-                    style={{ color: "rgba(255,255,255,0.62)" }}
+                    style={{ color: "var(--er-muted)" }}
                     aria-label="Clear search"
                   >
                     <X size={14} aria-hidden="true" />
@@ -178,9 +178,9 @@ export default function CandidatesPage() {
                   onChange={(e) => setPartyFilter(e.target.value as PartyFilter)}
                   className="min-h-11 w-full rounded-md border px-3 text-sm font-body transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-teal md:w-auto cursor-pointer"
                   style={{
-                    borderColor: "rgba(255,255,255,0.14)",
-                    color: "white",
-                    backgroundColor: "rgba(255,255,255,0.08)",
+                    borderColor: "var(--er-border-strong)",
+                    color: "var(--er-text-strong)",
+                    backgroundColor: "var(--er-input-bg)",
                     minWidth: "10.5rem",
                   }}
                 >
@@ -203,9 +203,9 @@ export default function CandidatesPage() {
                   onChange={(e) => setStatusFilter(e.target.value as StatusFilter)}
                   className="min-h-11 w-full rounded-md border px-3 text-sm font-body transition-shadow duration-200 focus:outline-none focus:ring-2 focus:ring-teal md:w-auto cursor-pointer"
                   style={{
-                    borderColor: "rgba(255,255,255,0.14)",
-                    color: "white",
-                    backgroundColor: "rgba(255,255,255,0.08)",
+                    borderColor: "var(--er-border-strong)",
+                    color: "var(--er-text-strong)",
+                    backgroundColor: "var(--er-input-bg)",
                     minWidth: "11.5rem",
                   }}
                 >
@@ -222,14 +222,14 @@ export default function CandidatesPage() {
             <div className="mb-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
               <p
                 className="text-sm font-body"
-                style={{ color: "rgba(255,255,255,0.66)" }}
+                style={{ color: "var(--er-muted)" }}
                 aria-live="polite"
                 aria-atomic="true"
               >
                 Showing{" "}
                 <span
                   className="font-semibold"
-                  style={{ color: "white" }}
+                  style={{ color: "var(--er-text-strong)" }}
                 >
                   {filtered.length}
                 </span>{" "}
@@ -281,13 +281,13 @@ export default function CandidatesPage() {
               <div className="text-center py-20">
                 <p
                 className="font-heading font-bold text-xl mb-2"
-                  style={{ color: "white" }}
+                  style={{ color: "var(--er-text-strong)" }}
                 >
                   No candidates match your search
                 </p>
                 <p
                   className="text-sm mb-5"
-                  style={{ color: "rgba(255,255,255,0.66)" }}
+                  style={{ color: "var(--er-muted)" }}
                 >
                   Try adjusting your filters or search terms.
                 </p>

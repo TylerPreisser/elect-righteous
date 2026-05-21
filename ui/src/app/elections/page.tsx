@@ -94,7 +94,7 @@ export default function ElectionsPage() {
             </h1>
             <p
               className="text-base leading-relaxed"
-              style={{ color: "rgba(246,246,246,0.82)" }}
+              style={{ color: "var(--er-muted)" }}
             >
               Every election relevant to Hays voters, organized the way most
               people think about them: federal first, then state, then ballot
@@ -129,13 +129,13 @@ export default function ElectionsPage() {
             <h2
               id="elections-list-heading"
               className="font-heading font-bold text-2xl mb-3"
-              style={{ color: "white" }}
+              style={{ color: "var(--er-text-strong)" }}
             >
               Election Guide
             </h2>
             <p
               className="text-sm leading-relaxed"
-              style={{ color: "rgba(255,255,255,0.66)" }}
+              style={{ color: "var(--er-muted)" }}
             >
               Each card links to a plain-English overview of the race or current-officeholder group, why it
               matters, and every candidate or public official currently researched for that page.
@@ -159,13 +159,13 @@ export default function ElectionsPage() {
                     <h3
                       id={`${category.id}-heading`}
                       className="font-heading font-bold text-2xl"
-                      style={{ color: "white" }}
+                      style={{ color: "var(--er-text-strong)" }}
                     >
                       {category.heading}
                     </h3>
                     <p
                       className="text-sm leading-relaxed max-w-3xl"
-                      style={{ color: "rgba(255,255,255,0.66)" }}
+                      style={{ color: "var(--er-muted)" }}
                     >
                       {category.description}
                     </p>

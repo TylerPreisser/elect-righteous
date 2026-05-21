@@ -37,7 +37,7 @@ function SourceChip({ source }: { source: Source }) {
       rel="noopener noreferrer"
       className="inline-flex min-h-9 max-w-full items-center gap-1 rounded px-2.5 py-1 text-xs font-body font-semibold transition-colors duration-150 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
       style={{
-        backgroundColor: "rgba(255, 255, 255, 0.08)",
+        backgroundColor: "var(--er-chip-bg)",
         color: "var(--color-teal)",
       }}
       aria-label={`Source: ${label} (opens in new tab)`}
@@ -60,7 +60,7 @@ export default function ActionList({ actions, sources }: ActionListProps) {
     return (
       <p
         className="font-body text-sm italic"
-        style={{ color: "rgba(255,255,255,0.56)" }}
+        style={{ color: "var(--er-muted-soft)" }}
       >
         No public action found for this issue.
       </p>
@@ -71,7 +71,7 @@ export default function ActionList({ actions, sources }: ActionListProps) {
   const sorted = [...actions].sort((a, b) => (a.date < b.date ? 1 : -1));
 
   return (
-    <ol className="divide-y rounded-md border" style={{ borderColor: "rgba(255,255,255,0.10)" }} role="list">
+    <ol className="divide-y rounded-md border" style={{ borderColor: "var(--er-border)" }} role="list">
       {sorted.map((action) => {
         const resolvedSources = action.sourceIds
           .map((id) => sourceById.get(id))
@@ -81,13 +81,13 @@ export default function ActionList({ actions, sources }: ActionListProps) {
           <li
             key={action.id}
             className="flex flex-col gap-2 p-4 sm:flex-row sm:gap-3"
-            style={{ borderColor: "rgba(255,255,255,0.10)" }}
+            style={{ borderColor: "var(--er-border)" }}
           >
             {/* Date column */}
             <time
               dateTime={action.date}
               className="shrink-0 font-body text-sm font-semibold sm:w-28"
-              style={{ color: "rgba(255,255,255,0.56)" }}
+              style={{ color: "var(--er-muted-soft)" }}
             >
               {formatDate(action.date)}
             </time>
@@ -96,7 +96,7 @@ export default function ActionList({ actions, sources }: ActionListProps) {
             <div className="min-w-0 flex-1">
               <p
                 className="font-body leading-relaxed"
-                style={{ fontSize: "0.9375rem", color: "rgba(255,255,255,0.76)" }}
+                style={{ fontSize: "0.9375rem", color: "var(--er-text)" }}
               >
                 {cleanEvidenceCopy(action.body)}
               </p>

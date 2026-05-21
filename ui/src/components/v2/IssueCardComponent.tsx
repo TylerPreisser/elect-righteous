@@ -46,7 +46,7 @@ function SourceChipInline({
       rel="noopener noreferrer"
       className="inline-flex min-h-9 max-w-full items-center gap-1 rounded px-2.5 py-1 text-xs font-body font-semibold transition-colors duration-150 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
       style={{
-        backgroundColor: "rgba(255, 255, 255, 0.08)",
+        backgroundColor: "var(--er-chip-bg)",
         color: "var(--color-teal)",
       }}
       aria-label={`Source: ${label} (opens in new tab)`}
@@ -62,7 +62,7 @@ function SectionLabel({ children }: { children: React.ReactNode }) {
   return (
     <h4
       className="mb-3 font-heading font-bold"
-      style={{ fontSize: "1rem", color: "white" }}
+      style={{ fontSize: "1rem", color: "var(--er-text-strong)" }}
     >
       {children}
     </h4>
@@ -114,8 +114,8 @@ export default function IssueCardComponent({
     <article
       className="overflow-hidden rounded-lg border shadow-[0_8px_30px_rgba(0,0,0,0.16)]"
       style={{
-        borderColor: expanded ? "rgba(28, 195, 175, 0.38)" : "rgba(255, 255, 255, 0.12)",
-        backgroundColor: "rgba(255,255,255,0.055)",
+        borderColor: expanded ? "rgba(28, 195, 175, 0.38)" : "var(--er-border)",
+        backgroundColor: "var(--er-soft-bg)",
       }}
       aria-labelledby={`issue-${issue.id}-heading`}
     >
@@ -124,7 +124,7 @@ export default function IssueCardComponent({
         type="button"
         className="group flex w-full items-start justify-between gap-4 p-5 text-left focus:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-teal sm:p-6"
         style={{
-          backgroundColor: expanded ? "rgba(255,255,255,0.075)" : "rgba(255,255,255,0.045)",
+          backgroundColor: expanded ? "var(--er-card-hover-bg)" : "var(--er-soft-bg)",
           /* iOS Safari: eliminate 300ms tap delay + remove gray flash */
           WebkitTapHighlightColor: "transparent",
           touchAction: "manipulation",
@@ -137,14 +137,14 @@ export default function IssueCardComponent({
           <h3
             id={`issue-${issue.id}-heading`}
             className="font-heading font-bold"
-            style={{ fontSize: "clamp(1.15rem, 3.5vw, 1.55rem)", color: "white", lineHeight: 1.15 }}
+            style={{ fontSize: "clamp(1.15rem, 3.5vw, 1.55rem)", color: "var(--er-text-strong)", lineHeight: 1.15 }}
           >
             {issue.title}
           </h3>
 
           <p
             className="mt-2 font-body leading-relaxed"
-            style={{ color: "rgba(255,255,255,0.70)", fontSize: "0.95rem" }}
+            style={{ color: "var(--er-muted)", fontSize: "0.95rem" }}
           >
             {truncateText(previewText, expanded ? 220 : 150)}
           </p>
@@ -177,7 +177,7 @@ export default function IssueCardComponent({
               <div className="grid gap-3">
                 <p
                   className="font-body leading-relaxed"
-                  style={{ fontSize: "0.9375rem", color: "rgba(255,255,255,0.76)" }}
+                  style={{ fontSize: "0.9375rem", color: "var(--er-text)" }}
                   >
                   {statedText}
                 </p>
@@ -192,7 +192,7 @@ export default function IssueCardComponent({
             ) : (
               <p
                 className="font-body text-sm italic"
-                style={{ color: "rgba(255,255,255,0.56)" }}
+                style={{ color: "var(--er-muted-soft)" }}
               >
                 No sourced position found on this issue.
               </p>
@@ -209,7 +209,7 @@ export default function IssueCardComponent({
           {hasSocialSignals && (
             <section aria-label="Social and online observations">
               <SectionLabel>Social/online observations</SectionLabel>
-              <p className="mb-3 font-body text-sm leading-relaxed" style={{ color: "rgba(255,255,255,0.58)" }}>
+              <p className="mb-3 font-body text-sm leading-relaxed" style={{ color: "var(--er-muted-soft)" }}>
                 These observations show public activity tied to this issue. They are context, not confirmed positions.
               </p>
               <div className="grid gap-3">
@@ -233,7 +233,7 @@ export default function IssueCardComponent({
               <SectionLabel>Where words and actions may differ</SectionLabel>
               <p
                 className="font-body leading-relaxed"
-                style={{ fontSize: "0.9375rem", color: "rgba(255,255,255,0.76)" }}
+                style={{ fontSize: "0.9375rem", color: "var(--er-text)" }}
               >
                 {cleanEvidenceCopy(issue.gap!.summary)}
               </p>
@@ -242,7 +242,7 @@ export default function IssueCardComponent({
                 <div className="mt-2">
                   <p
                     className="font-body text-xs font-semibold mb-1.5"
-                    style={{ color: "rgba(255,255,255,0.56)" }}
+                    style={{ color: "var(--er-muted-soft)" }}
                   >
                     Sources behind this note:
                   </p>
@@ -251,7 +251,7 @@ export default function IssueCardComponent({
                       <li
                         key={evId}
                         className="font-body text-sm"
-                        style={{ color: "rgba(255,255,255,0.58)" }}
+                        style={{ color: "var(--er-muted-soft)" }}
                       >
                         {action
                           ? truncateText(cleanEvidenceCopy(action.body), 115)

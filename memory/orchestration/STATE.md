@@ -1,5 +1,5 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-21T14:21:00Z
+Last updated: 2026-05-21T14:49:00Z
 Last agent: ux-content-designer / frontend-implementer / mobile-qa-agent / build-validation-gatekeeper / github-pages-deploy-agent / cloudflare-deploy-agent
 Last commit: see `git log --oneline -1`
 
@@ -13,8 +13,8 @@ Phase 3: Profile Rebuild
 | 2 | Evidence Matrixing | complete |
 | 3 | Profile Rebuild | complete-with-caveats |
 | 4 | Editorial Review | in progress |
-| 5 | UI/UX Rebuild | complete-dark-redesign-local-qa |
-| 6 | Validation | pass-dark-redesign-local |
+| 5 | UI/UX Rebuild | complete-theme-aware-dark-light-toggle-local-qa |
+| 6 | Validation | pass-theme-aware-local |
 | 7 | Deploy | GitHub Pages preview deployed; Cloudflare Pages and production domains verified |
 
 ## Blockers
@@ -136,11 +136,11 @@ Phase 3: Profile Rebuild
 | Gate | Last Run | Pass/Fail | Notes |
 |------|----------|-----------|-------|
 | YAML parse | 2026-05-21T14:08:00Z | Pass | 81 candidate v2-issues.yaml files parse clean after dark UX redesign. |
-| Phase 2 inventory | 2026-05-21T14:08:00Z | Pass | 81 candidate-like slugs; 59 active 2026; 81 rendered v2; no missing UI entries. |
-| V2 runtime validation | 2026-05-21T14:09:00Z | Pass | validateCandidateV2 accepted 81 v2 candidates after dark UX redesign. |
-| TypeScript | 2026-05-21T14:09:00Z | Pass | npx tsc --noEmit --incremental false passed after dark UX redesign. |
-| Static build | 2026-05-21T14:10:00Z | Pass | npm run build generated 266 static pages after dark UX redesign. |
-| Cloudflare root-domain build | 2026-05-21T14:11:00Z | Pass | npm run build:cloudflare generated 266 static pages with NEXT_PUBLIC_SITE_URL=https://electrighteous.com. |
+| Phase 2 inventory | 2026-05-21T14:52:00Z | Pass | 81 candidate-like slugs; 59 active 2026; 81 rendered v2; no missing UI entries after theme toggle changes. |
+| V2 runtime validation | 2026-05-21T14:52:00Z | Pass | validateCandidateV2 accepted 81 v2 candidates after theme toggle changes. |
+| TypeScript | 2026-05-21T14:45:00Z | Pass | npx tsc --noEmit --incremental false passed after theme toggle changes. |
+| Static build | 2026-05-21T14:51:00Z | Pass | npm run build generated 266 static pages after theme toggle changes. |
+| Cloudflare root-domain build | 2026-05-21T14:46:00Z | Pass | npm run build:cloudflare generated 266 static pages with NEXT_PUBLIC_SITE_URL=https://electrighteous.com after theme toggle changes. |
 | Candidate count parity | 2026-05-20T22:05:00Z | Pass | 16 race entries; every candidateCount matches candidateSlugs.length. |
 | Forbidden public labels | 2026-05-20T19:08:52Z | Pass | No tpreisser.github.io, Preisser Tech, What You Should Know, or In Their Own Words strings remain under ui/src, ui/public, or active compile scripts. |
 | Evidence matrix structure | 2026-05-20T18:55:16Z | Pass | 70 of 70 candidates have raw and final evidence matrices with required fields. |
@@ -167,6 +167,8 @@ Phase 3: Profile Rebuild
 | GitHub Pages preview deploy | 2026-05-21T14:18:00Z | Pass | Pushed main through commit 3cf3c25; GitHub Actions run 26231668123 completed build and deploy successfully. Public preview fetch verified the dark homepage and no targeted forbidden/internal wording. |
 | Cloudflare Pages deploy | 2026-05-21T14:18:00Z | Pass | Built root-domain export with `NEXT_PUBLIC_SITE_URL=https://electrighteous.com`, deployed via Wrangler, and verified deployment `https://ae955d90.elect-righteous.pages.dev`. |
 | Production domain verification | 2026-05-21T14:19:00Z | Pass | `https://electrighteous.com/` and `https://www.electrighteous.com/` return HTTP 200; production metadata uses `https://electrighteous.com/`; home/About fetches show the dark redesign and Romans 13:3-4 About copy, with no targeted forbidden/internal wording hits. |
+| Theme-aware UI build | 2026-05-21T14:51:00Z | Pass | Added system-theme initialization plus desktop and mobile nav light/dark toggles; TypeScript, root-domain `npm run build:cloudflare`, and GitHub Pages `npm run build` pass with 266 static pages. |
+| Theme-aware browser QA | 2026-05-21T14:48:00Z | Pass | Verified local root-domain build at `http://localhost:4176/`: first load follows system dark mode, desktop toggle switches to light with 0 horizontal overflow, current-page browser errors filtered to 0, and Playwright screenshots captured forced light/dark desktop plus forced light/dark mobile states. See `memory/orchestration/theme-qa-2026-05-21/`. |
 
 ## Next Actions Queue
 1. Run full manual professional-narrative-editor, legal-accuracy-reviewer, and symmetry-test-editor passes for all 81 rendered profiles after the automated relevance guard pass — editorial review agents — P0 — blocked by none
@@ -179,6 +181,7 @@ Phase 3: Profile Rebuild
 8. Preview deploy completed for commit 3cf3c25 and Cloudflare Pages root build is live at deployment `https://ae955d90.elect-righteous.pages.dev`; production `electrighteous.com` and `www.electrighteous.com` are verified. Remaining public blocker is FormSubmit activation — deploy agents — P1 — blocked by form provider activation
 
 ## Session Log (last 20 entries)
+- 2026-05-21T14:49:00Z frontend-implementer/mobile-qa-agent Added theme-aware rendering: first paint follows `prefers-color-scheme`, user toggle persists through the nav light/dark control, desktop and mobile nav expose the toggle, shared dark redesign surfaces now use theme variables in light mode, TypeScript, Cloudflare root build, and GitHub Pages build pass, and local browser/Playwright QA confirmed no current-page console errors or horizontal overflow in forced light/dark desktop/mobile screenshots.
 - 2026-05-21T14:21:00Z github-pages-deploy-agent/cloudflare-deploy-agent Committed and pushed dark redesign commit 3cf3c25, verified GitHub Actions Pages run 26231668123 completed successfully, deployed root-domain export to Cloudflare Pages deployment `https://ae955d90.elect-righteous.pages.dev`, and verified `https://electrighteous.com/` plus `https://www.electrighteous.com/` return HTTP 200 with production metadata and the new dark homepage/About copy.
 - 2026-05-21T14:13:00Z ux-content-designer/frontend-implementer/mobile-qa-agent/build-validation-gatekeeper Rebuilt the visible site into a unified dark civic-intelligence interface inspired by the downloaded La Revoltosa, Thorgal, and Balmoral references without copying their code; rewrote About with a public-record/government-role framing and Romans 13:3-4; replaced stale Allen Park demo UI; darkened home, about, candidate index, elections, race detail, candidate dossier, source trail, correction form, cards, badges, and header; preserved collapsed issue dossiers and See more cards; captured 20 desktop/mobile screenshots; confirmed no overflow or targeted internal-copy leaks; YAML, inventory, V2 validation, TypeScript, npm run build, and npm run build:cloudflare all pass.
 - 2026-05-21T02:25:00Z ui-copy-auditor/ux-content-designer/mobile-qa-agent/form-verification Removed public internal/process wording from visible site copy and candidate data, changed issue expanders to See more, moved Who They Are above collapsed issue sections, shortened cards, refined donor/funding layout, fixed favicon assets, restored the desktop Preisser Solutions badge without mobile overlap, captured fresh desktop/mobile screenshots from a root-domain build, confirmed targeted public leak scan returns 0 matches, and verified FormSubmit is wired but blocked pending recipient activation.

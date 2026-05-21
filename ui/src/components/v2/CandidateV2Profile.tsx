@@ -52,7 +52,7 @@ function DossierSection({
     <details
       id={id}
       className="group scroll-mt-24 border-t"
-      style={{ borderColor: "rgba(255, 255, 255, 0.12)" }}
+      style={{ borderColor: "var(--er-border)" }}
       open={defaultOpen}
     >
       <summary
@@ -69,13 +69,13 @@ function DossierSection({
         <span className="min-w-0 flex-1">
           <span
             className="block font-body text-sm"
-            style={{ color: "rgba(255,255,255,0.56)" }}
+            style={{ color: "var(--er-muted-soft)" }}
           >
             {kicker}
           </span>
           <span
             className="block font-heading font-bold"
-            style={{ color: "white", fontSize: "clamp(1.35rem, 3vw, 1.85rem)", lineHeight: 1.12 }}
+            style={{ color: "var(--er-text-strong)", fontSize: "clamp(1.35rem, 3vw, 1.85rem)", lineHeight: 1.12 }}
           >
             {title}
           </span>
@@ -83,7 +83,7 @@ function DossierSection({
         <ChevronRight
           size={20}
           className="shrink-0 transition-transform group-open:rotate-90"
-          style={{ color: "rgba(255,255,255,0.72)" }}
+          style={{ color: "var(--er-muted)" }}
           aria-hidden="true"
         />
       </summary>
@@ -101,7 +101,7 @@ function SourceLink({ source }: { source: Source }) {
       target="_blank"
       rel="noopener noreferrer"
       className="inline-flex min-h-9 max-w-full items-center gap-1 rounded px-2.5 py-1 text-xs font-semibold hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
-      style={{ backgroundColor: "rgba(255, 255, 255, 0.08)", color: "var(--color-teal)" }}
+      style={{ backgroundColor: "var(--er-chip-bg)", color: "var(--color-teal)" }}
       title={source.title}
     >
       <span className="truncate">{label}</span>
@@ -120,10 +120,13 @@ function IntelligenceStat({
   detail?: string;
 }) {
   return (
-    <div className="rounded-md border border-white/10 bg-white/[0.055] p-3">
-      <p className="text-[0.68rem] uppercase tracking-wide text-white/52">{label}</p>
-      <p className="mt-1 font-heading text-2xl font-bold text-white">{value}</p>
-      {detail && <p className="mt-1 text-xs leading-snug text-white/58">{detail}</p>}
+    <div
+      className="rounded-md border p-3"
+      style={{ borderColor: "var(--er-border)", backgroundColor: "var(--er-soft-bg)" }}
+    >
+      <p className="text-[0.68rem] uppercase tracking-wide" style={{ color: "var(--er-muted-soft)" }}>{label}</p>
+      <p className="mt-1 font-heading text-2xl font-bold" style={{ color: "var(--er-text-strong)" }}>{value}</p>
+      {detail && <p className="mt-1 text-xs leading-snug" style={{ color: "var(--er-muted-soft)" }}>{detail}</p>}
     </div>
   );
 }
@@ -145,12 +148,15 @@ function SourceMixBar({
   ];
 
   return (
-    <div className="rounded-md border border-white/10 bg-black/15 p-3">
+    <div
+      className="rounded-md border p-3"
+      style={{ borderColor: "var(--er-border)", backgroundColor: "var(--er-soft-bg)" }}
+    >
       <div className="mb-2 flex items-center justify-between gap-3">
-        <p className="text-xs uppercase tracking-wide text-white/52">Source mix</p>
-        <p className="font-heading text-sm font-bold text-white">{primary + secondary + social} total</p>
+        <p className="text-xs uppercase tracking-wide" style={{ color: "var(--er-muted-soft)" }}>Source mix</p>
+        <p className="font-heading text-sm font-bold" style={{ color: "var(--er-text-strong)" }}>{primary + secondary + social} total</p>
       </div>
-      <div className="flex h-2 overflow-hidden rounded-full bg-white/10">
+      <div className="flex h-2 overflow-hidden rounded-full" style={{ backgroundColor: "var(--er-border)" }}>
         {segments.map((segment) => (
           <span
             key={segment.label}
@@ -159,10 +165,10 @@ function SourceMixBar({
           />
         ))}
       </div>
-      <div className="mt-2 grid grid-cols-3 gap-2 text-xs text-white/62">
+      <div className="mt-2 grid grid-cols-3 gap-2 text-xs" style={{ color: "var(--er-muted)" }}>
         {segments.map((segment) => (
           <span key={segment.label}>
-            <span className="font-semibold text-white">{segment.value}</span> {segment.label.toLowerCase()}
+            <span className="font-semibold" style={{ color: "var(--er-text-strong)" }}>{segment.value}</span> {segment.label.toLowerCase()}
           </span>
         ))}
       </div>
@@ -222,7 +228,7 @@ function NarrativeBlock({ text }: { text: string }) {
         <p
           key={index}
         className="font-body leading-relaxed"
-          style={{ color: "rgba(255,255,255,0.76)" }}
+          style={{ color: "var(--er-text)" }}
         >
           <LinkedNarrativeText text={paragraph} />
         </p>
@@ -248,7 +254,7 @@ function SocialSignalRow({
   return (
     <li
       className="grid gap-2 border-t py-4 first:border-t-0"
-      style={{ borderColor: "rgba(255, 255, 255, 0.10)" }}
+      style={{ borderColor: "var(--er-border)" }}
     >
       <div className="flex flex-wrap items-center gap-2">
         <span
@@ -257,17 +263,17 @@ function SocialSignalRow({
         >
           {signal.platform}
         </span>
-        <span className="font-body text-sm" style={{ color: "rgba(255,255,255,0.56)" }}>
+        <span className="font-body text-sm" style={{ color: "var(--er-muted-soft)" }}>
           Related issue: {issueTitle}
         </span>
       </div>
       <p
         className="font-body leading-relaxed"
-        style={{ color: "rgba(255,255,255,0.74)", fontSize: "0.95rem" }}
+        style={{ color: "var(--er-text)", fontSize: "0.95rem" }}
       >
         {cleanEvidenceCopy(signal.observation)}
       </p>
-      <p className="font-body text-xs" style={{ color: "rgba(255,255,255,0.50)" }}>
+      <p className="font-body text-xs" style={{ color: "var(--er-muted-soft)" }}>
         Public activity only; not a policy position.
       </p>
       {signalSources.length > 0 && (
@@ -295,14 +301,14 @@ function CampaignFinanceSection({ finance }: { finance: CampaignFinanceV2 }) {
       <div className="grid gap-3 sm:grid-cols-[minmax(0,1fr)_minmax(13rem,0.55fr)]">
         <div
           className="rounded-lg border p-4"
-          style={{ borderColor: "rgba(255, 255, 255, 0.12)", backgroundColor: "rgba(255,255,255,0.06)" }}
+          style={{ borderColor: "var(--er-border)", backgroundColor: "var(--er-soft-bg)" }}
         >
-          <p className="font-body text-sm" style={{ color: "rgba(255,255,255,0.56)" }}>
+          <p className="font-body text-sm" style={{ color: "var(--er-muted-soft)" }}>
             Finance snapshot
           </p>
           <p
             className={totalIsNarrative ? "mt-2 font-body leading-relaxed" : "mt-1 font-heading text-2xl font-bold"}
-            style={{ color: "white" }}
+            style={{ color: "var(--er-text-strong)" }}
           >
             {totalRaised || "No public finance total listed."}
           </p>
@@ -310,16 +316,16 @@ function CampaignFinanceSection({ finance }: { finance: CampaignFinanceV2 }) {
 
         <div
           className="rounded-lg border p-4"
-          style={{ borderColor: "rgba(255, 255, 255, 0.12)", backgroundColor: "rgba(255,255,255,0.045)" }}
+          style={{ borderColor: "var(--er-border)", backgroundColor: "var(--er-soft-bg)" }}
         >
-          <p className="font-body text-sm" style={{ color: "rgba(255,255,255,0.56)" }}>
+          <p className="font-body text-sm" style={{ color: "var(--er-muted-soft)" }}>
             Reporting period
           </p>
-          <p className="mt-1 font-body leading-relaxed" style={{ color: "rgba(255,255,255,0.78)" }}>
+          <p className="mt-1 font-body leading-relaxed" style={{ color: "var(--er-text)" }}>
             {reportingPeriod || "Not listed"}
           </p>
           {source && (
-            <p className="mt-3 font-body text-xs leading-relaxed" style={{ color: "rgba(255,255,255,0.52)" }}>
+            <p className="mt-3 font-body text-xs leading-relaxed" style={{ color: "var(--er-muted-soft)" }}>
               Source: {source}
             </p>
           )}
@@ -327,7 +333,7 @@ function CampaignFinanceSection({ finance }: { finance: CampaignFinanceV2 }) {
       </div>
 
       {primarySummary && primarySummary !== totalRaised && (
-        <p className="font-body leading-relaxed" style={{ color: "rgba(255,255,255,0.76)" }}>
+        <p className="font-body leading-relaxed" style={{ color: "var(--er-text)" }}>
           {primarySummary}
         </p>
       )}
@@ -338,12 +344,12 @@ function CampaignFinanceSection({ finance }: { finance: CampaignFinanceV2 }) {
             <li
               key={`${donor.name}-${donor.amount}`}
               className="rounded-md border px-4 py-3"
-              style={{ borderColor: "rgba(255, 255, 255, 0.10)", backgroundColor: "rgba(255,255,255,0.045)" }}
+              style={{ borderColor: "var(--er-border)", backgroundColor: "var(--er-soft-bg)" }}
             >
-              <p className="font-body text-sm leading-snug" style={{ color: "rgba(255,255,255,0.72)" }}>
+              <p className="font-body text-sm leading-snug" style={{ color: "var(--er-muted)" }}>
                 {normalizePublicCopy(donor.name)}
               </p>
-              <p className="mt-1 font-heading text-lg font-bold" style={{ color: "white" }}>
+              <p className="mt-1 font-heading text-lg font-bold" style={{ color: "var(--er-text-strong)" }}>
                 {normalizePublicCopy(donor.amount)}
               </p>
             </li>
@@ -352,7 +358,7 @@ function CampaignFinanceSection({ finance }: { finance: CampaignFinanceV2 }) {
       )}
 
       {undisclosed && (
-        <p className="font-body text-sm italic" style={{ color: "rgba(255,255,255,0.56)" }}>
+        <p className="font-body text-sm italic" style={{ color: "var(--er-muted-soft)" }}>
           {undisclosed}
         </p>
       )}
@@ -398,9 +404,9 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
     <main id="main-content" className="er-shell">
       <div className="er-grid-bg" aria-hidden="true" />
       <div className="er-scanline" aria-hidden="true" />
-      <div className="relative z-10 overflow-hidden bg-[#071a24]/80 text-white">
+      <div className="er-hero-band relative z-10 overflow-hidden">
         <div className="absolute inset-0 opacity-25" aria-hidden="true">
-          <div className="h-full w-full bg-[linear-gradient(rgba(255,255,255,.08)_1px,transparent_1px),linear-gradient(90deg,rgba(255,255,255,.08)_1px,transparent_1px)] bg-[size:26px_26px]" />
+          <div className="er-hero-grid h-full w-full" />
         </div>
 
         <div className="relative container-main py-8 md:py-11">
@@ -436,7 +442,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
               </h1>
               <p
                 className="mt-3 max-w-3xl font-body text-lg leading-relaxed"
-                style={{ color: "rgba(255,255,255,0.76)" }}
+                style={{ color: "var(--er-muted)" }}
               >
                 {candidate.position} - {profileStatus.headlineSuffix}
               </p>
@@ -446,7 +452,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                   style={{
                     borderColor: "rgba(28, 195, 175, 0.28)",
                     backgroundColor: "rgba(28, 195, 175, 0.08)",
-                    color: "rgba(255,255,255,0.78)",
+                    color: "var(--er-text)",
                   }}
                 >
                   {profileStatus.note}
@@ -526,12 +532,12 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
             <dl className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
               {facts.map(([label, value]) => (
                 <div key={label} className="min-w-0">
-                  <dt className="font-body text-sm" style={{ color: "rgba(255,255,255,0.52)" }}>
+                  <dt className="font-body text-sm" style={{ color: "var(--er-muted-soft)" }}>
                     {label}
                   </dt>
                   <dd
                     className="mt-1 font-body leading-snug"
-                    style={{ color: "rgba(255,255,255,0.76)", fontSize: "1rem" }}
+                    style={{ color: "var(--er-text)", fontSize: "1rem" }}
                   >
                     {value}
                   </dd>
@@ -539,7 +545,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
               ))}
               {candidate.campaignWebsite && (
                 <div className="min-w-0">
-                  <dt className="font-body text-sm" style={{ color: "rgba(255,255,255,0.52)" }}>
+                  <dt className="font-body text-sm" style={{ color: "var(--er-muted-soft)" }}>
                     Campaign or official page
                   </dt>
                   <dd className="mt-1">
@@ -567,29 +573,29 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
           >
             <div
               className="mb-5 grid gap-3 rounded-lg border p-4 sm:grid-cols-3"
-              style={{ borderColor: "rgba(255, 255, 255, 0.12)", backgroundColor: "rgba(255,255,255,0.05)" }}
+              style={{ borderColor: "var(--er-border)", backgroundColor: "var(--er-soft-bg)" }}
             >
               <div>
-                <p className="text-xs uppercase tracking-wide" style={{ color: "rgba(255,255,255,0.52)" }}>
+                <p className="text-xs uppercase tracking-wide" style={{ color: "var(--er-muted-soft)" }}>
                   Position summary
                 </p>
-                <p className="mt-1 font-heading font-bold" style={{ color: "white" }}>
+                <p className="mt-1 font-heading font-bold" style={{ color: "var(--er-text-strong)" }}>
                   Shown first when sourced
                 </p>
               </div>
               <div>
-                <p className="text-xs uppercase tracking-wide" style={{ color: "rgba(255,255,255,0.52)" }}>
+                <p className="text-xs uppercase tracking-wide" style={{ color: "var(--er-muted-soft)" }}>
                   Dated actions
                 </p>
-                <p className="mt-1 font-heading font-bold" style={{ color: "white" }}>
+                <p className="mt-1 font-heading font-bold" style={{ color: "var(--er-text-strong)" }}>
                   {metrics.actionCount} items on file
                 </p>
               </div>
               <div>
-                <p className="text-xs uppercase tracking-wide" style={{ color: "rgba(255,255,255,0.52)" }}>
+                <p className="text-xs uppercase tracking-wide" style={{ color: "var(--er-muted-soft)" }}>
                   Online signals
                 </p>
-                <p className="mt-1 font-heading font-bold" style={{ color: "white" }}>
+                <p className="mt-1 font-heading font-bold" style={{ color: "var(--er-text-strong)" }}>
                   {metrics.socialCount} observed
                 </p>
               </div>
@@ -617,7 +623,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                 {candidate.recordSummary ? (
                   <NarrativeBlock text={candidate.recordSummary} />
                 ) : (
-                  <p className="font-body leading-relaxed" style={{ color: "rgba(255,255,255,0.76)" }}>
+                  <p className="font-body leading-relaxed" style={{ color: "var(--er-text)" }}>
                     This page currently contains {actions.length} dated action entries across {candidate.issues.length} issue areas.
                     {gaps.length > 0
                       ? ` ${gaps.length} issue area includes an evidence-anchored stated/action gap.`
@@ -625,23 +631,23 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                   </p>
                 )}
               </div>
-              <div className="rounded border p-4" style={{ borderColor: "rgba(255,255,255, 0.12)", backgroundColor: "rgba(255,255,255,0.05)" }}>
-                <p className="font-body text-sm" style={{ color: "rgba(255,255,255,0.52)" }}>
+              <div className="rounded border p-4" style={{ borderColor: "var(--er-border)", backgroundColor: "var(--er-soft-bg)" }}>
+                <p className="font-body text-sm" style={{ color: "var(--er-muted-soft)" }}>
                   How to read this section
                 </p>
-                <p className="mt-1 font-body text-sm leading-relaxed" style={{ color: "rgba(255,255,255,0.72)" }}>
+                <p className="mt-1 font-body text-sm leading-relaxed" style={{ color: "var(--er-muted)" }}>
                   Dated actions appear here when a linked source supports them. Candidate statements, reporting, and public online activity are labeled where they appear.
                 </p>
               </div>
             </div>
 
-            <ul className="mt-5 divide-y" style={{ borderColor: "rgba(255,255,255,0.10)" }}>
+            <ul className="mt-5 divide-y" style={{ borderColor: "var(--er-border)" }}>
               {candidate.issues.map((issue) => (
                 <li key={issue.id} className="grid gap-1 py-3 sm:grid-cols-[minmax(0,1fr)_auto] sm:items-center">
-                  <span className="font-body font-semibold" style={{ color: "white" }}>
+                  <span className="font-body font-semibold" style={{ color: "var(--er-text-strong)" }}>
                     {issue.title}
                   </span>
-                  <span className="font-body text-sm" style={{ color: "rgba(255,255,255,0.56)" }}>
+                  <span className="font-body text-sm" style={{ color: "var(--er-muted-soft)" }}>
                     {issue.actions.length} {profileStatus.actionLabel}{issue.actions.length === 1 ? "" : "s"}
                     {issue.socialSignals.length > 0 ? `, ${issue.socialSignals.length} online observation${issue.socialSignals.length === 1 ? "" : "s"}` : ""}
                     {issue.gap ? ", gap noted" : ""}
@@ -659,7 +665,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
               icon={<MessageSquare size={20} />}
             >
               {candidate.socialResearchNote && (
-                <p className="font-body leading-relaxed" style={{ color: "rgba(255,255,255,0.76)" }}>
+                <p className="font-body leading-relaxed" style={{ color: "var(--er-text)" }}>
                   {candidate.socialResearchNote}
                 </p>
               )}
@@ -682,7 +688,7 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
                   ))}
                 </ul>
               ) : (
-                <p className="mt-3 font-body text-sm italic" style={{ color: "rgba(255,255,255,0.56)" }}>
+                <p className="mt-3 font-body text-sm italic" style={{ color: "var(--er-muted-soft)" }}>
                   No issue-relevant follows, likes, comments, reposts, or candidate-controlled posts are listed.
                 </p>
               )}
@@ -696,12 +702,12 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
               kicker="Faith affiliation"
               icon={<Heart size={20} />}
             >
-              <p className="font-body leading-relaxed" style={{ color: "rgba(255,255,255,0.76)" }}>
+              <p className="font-body leading-relaxed" style={{ color: "var(--er-text)" }}>
                 {normalizePublicCopy(candidate.whereTheyWorship)}
               </p>
               {candidate.church && (
-                <div className="mt-4 grid gap-1 font-body text-sm" style={{ color: "rgba(255,255,255,0.74)" }}>
-                  <p className="font-semibold" style={{ color: "white" }}>
+                <div className="mt-4 grid gap-1 font-body text-sm" style={{ color: "var(--er-muted)" }}>
+                  <p className="font-semibold" style={{ color: "var(--er-text-strong)" }}>
                     {candidate.church.name}
                   </p>
                   {candidate.church.denomination && <p>{normalizePublicCopy(candidate.church.denomination)}</p>}
@@ -740,12 +746,12 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
             kicker="Research trail"
             icon={<FileText size={20} />}
           >
-            <div className="rounded-lg border p-5 sm:flex sm:items-center sm:justify-between sm:gap-6" style={{ borderColor: "rgba(255,255,255,0.12)", backgroundColor: "rgba(255,255,255,0.05)" }}>
+            <div className="rounded-lg border p-5 sm:flex sm:items-center sm:justify-between sm:gap-6" style={{ borderColor: "var(--er-border)", backgroundColor: "var(--er-soft-bg)" }}>
               <div>
-                <p className="font-heading font-bold" style={{ color: "white" }}>
+                <p className="font-heading font-bold" style={{ color: "var(--er-text-strong)" }}>
                   {candidate.sources.length} linked public sources
                 </p>
-                <p className="mt-1 font-body text-sm leading-relaxed" style={{ color: "rgba(255,255,255,0.70)" }}>
+                <p className="mt-1 font-body text-sm leading-relaxed" style={{ color: "var(--er-muted)" }}>
                   Open the complete source trail with every public URL used for this profile.
                 </p>
               </div>

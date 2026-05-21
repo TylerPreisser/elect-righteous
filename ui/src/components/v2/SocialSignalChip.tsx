@@ -35,7 +35,7 @@ function PlatformLabel({ platform }: { platform: string }) {
       className="inline-flex h-7 w-7 shrink-0 items-center justify-center rounded-full text-xs font-heading font-bold"
       style={{
         backgroundColor: "rgba(28, 195, 175, 0.14)",
-        color: "white",
+        color: "var(--er-text-strong)",
       }}
       aria-label={`Platform: ${platform}`}
       title={platform}
@@ -74,7 +74,7 @@ export default function SocialSignalChip({
   return (
     <div
       className="rounded-md border p-4"
-      style={{ borderColor: "rgba(255,255,255,0.10)", backgroundColor: "rgba(255,255,255,0.045)" }}
+      style={{ borderColor: "var(--er-border)", backgroundColor: "var(--er-soft-bg)" }}
     >
       <div className="flex items-start gap-3">
         <PlatformLabel platform={signal.platform} />
@@ -82,7 +82,7 @@ export default function SocialSignalChip({
         <div className="min-w-0 flex-1">
           <p
             className="font-body leading-relaxed"
-            style={{ fontSize: "0.9375rem", color: "rgba(255,255,255,0.76)" }}
+            style={{ fontSize: "0.9375rem", color: "var(--er-text)" }}
           >
             {displayText}
             {needsTruncation && (
@@ -117,7 +117,7 @@ export default function SocialSignalChip({
 
           <p
             className="mt-1 font-body text-xs"
-            style={{ color: "rgba(255,255,255,0.52)" }}
+            style={{ color: "var(--er-muted-soft)" }}
           >
             Public activity only; not a policy position.
           </p>
@@ -133,7 +133,7 @@ export default function SocialSignalChip({
                   rel="noopener noreferrer"
                   className="inline-flex min-h-9 max-w-full items-center gap-1 rounded px-2.5 py-1 text-xs font-body font-semibold transition-colors duration-150 hover:underline focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
                   style={{
-                    backgroundColor: "rgba(255, 255, 255, 0.08)",
+                    backgroundColor: "var(--er-chip-bg)",
                     color: "var(--color-teal)",
                   }}
                   aria-label={`Source: ${src.publisher ?? src.title} (opens in new tab)`}

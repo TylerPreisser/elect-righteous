@@ -76,9 +76,27 @@ export const metadata: Metadata = {
 };
 
 export const viewport: Viewport = {
-  themeColor: "#10405D",
-  colorScheme: "light",
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#f7fbfb" },
+    { media: "(prefers-color-scheme: dark)", color: "#071822" },
+  ],
+  colorScheme: "light dark",
 };
+
+const themeInitScript = `
+(function () {
+  try {
+    var stored = window.localStorage.getItem("er-theme");
+    var systemDark = window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var theme = stored === "light" || stored === "dark" ? stored : (systemDark ? "dark" : "light");
+    document.documentElement.dataset.theme = theme;
+    document.documentElement.style.colorScheme = theme;
+  } catch (error) {
+    document.documentElement.dataset.theme = "light";
+    document.documentElement.style.colorScheme = "light";
+  }
+})();
+`;
 
 export default function RootLayout({
   children,
@@ -86,8 +104,9 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
+    <html lang="en" suppressHydrationWarning>
       <head>
+        <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"

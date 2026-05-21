@@ -3,7 +3,7 @@
 import { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Menu, X } from "lucide-react";
+import { Menu, Moon, Sun, X } from "lucide-react";
 import Container from "./container";
 
 const NAV_LINKS = [
@@ -13,10 +13,19 @@ const NAV_LINKS = [
   { href: "/about", label: "About" },
 ];
 
+type SiteTheme = "light" | "dark";
+
 export default function SiteHeader() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
+  const [theme, setTheme] = useState<SiteTheme>("light");
   const pathname = usePathname();
+
+  const applyTheme = (nextTheme: SiteTheme) => {
+    document.documentElement.dataset.theme = nextTheme;
+    document.documentElement.style.colorScheme = nextTheme;
+    setTheme(nextTheme);
+  };
 
   useEffect(() => {
     const handleScroll = () => {
@@ -24,6 +33,31 @@ export default function SiteHeader() {
     };
     window.addEventListener("scroll", handleScroll, { passive: true });
     return () => window.removeEventListener("scroll", handleScroll);
+  }, []);
+
+  useEffect(() => {
+    const media = window.matchMedia("(prefers-color-scheme: dark)");
+    const stored = window.localStorage.getItem("er-theme");
+    const initialTheme =
+      document.documentElement.dataset.theme === "dark" || document.documentElement.dataset.theme === "light"
+        ? (document.documentElement.dataset.theme as SiteTheme)
+        : stored === "dark" || stored === "light"
+        ? stored
+        : media.matches
+        ? "dark"
+        : "light";
+
+    applyTheme(initialTheme);
+
+    const handleSystemChange = (event: MediaQueryListEvent) => {
+      const saved = window.localStorage.getItem("er-theme");
+      if (saved !== "dark" && saved !== "light") {
+        applyTheme(event.matches ? "dark" : "light");
+      }
+    };
+
+    media.addEventListener("change", handleSystemChange);
+    return () => media.removeEventListener("change", handleSystemChange);
   }, []);
 
   // Close mobile menu on route change
@@ -43,13 +77,20 @@ export default function SiteHeader() {
     };
   }, [isMobileMenuOpen]);
 
+  const toggleTheme = () => {
+    const nextTheme = theme === "dark" ? "light" : "dark";
+    window.localStorage.setItem("er-theme", nextTheme);
+    applyTheme(nextTheme);
+  };
+
+  const ThemeIcon = theme === "dark" ? Sun : Moon;
+  const themeLabel = theme === "dark" ? "Light" : "Dark";
+
   return (
     <>
       <header
-        className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-          isScrolled
-            ? "border-b border-white/10 bg-[#071822]/92 shadow-[0_18px_50px_rgba(0,0,0,0.28)] backdrop-blur-xl"
-            : "border-b border-white/10 bg-[#071822]/84 backdrop-blur-xl"
+        className={`site-header fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
+          isScrolled ? "site-header--scrolled shadow-[0_18px_50px_rgba(0,0,0,0.20)]" : ""
         }`}
       >
         <Container>
@@ -78,71 +119,91 @@ export default function SiteHeader() {
                 </svg>
               </span>
               <span
-                className="min-w-0 truncate text-base font-heading font-bold uppercase tracking-[0.14em] transition-colors duration-200 group-hover:opacity-80 sm:text-lg"
-                style={{ color: "white" }}
+                className="site-header-title min-w-0 truncate text-base font-heading font-bold uppercase tracking-[0.14em] transition-colors duration-200 group-hover:opacity-80 sm:text-lg"
               >
                 Elect Righteous
               </span>
             </Link>
 
             {/* Desktop Navigation */}
-            <nav aria-label="Primary navigation" className="hidden md:flex items-center gap-1">
-              {NAV_LINKS.map(({ href, label }) => {
-                const isActive =
-                  href === "/"
-                    ? pathname === "/"
-                    : pathname != null && (pathname === href || pathname.startsWith(href + "/"));
+            <div className="hidden md:flex items-center gap-2">
+              <nav aria-label="Primary navigation" className="flex items-center gap-1">
+                {NAV_LINKS.map(({ href, label }) => {
+                  const isActive =
+                    href === "/"
+                      ? pathname === "/"
+                      : pathname != null && (pathname === href || pathname.startsWith(href + "/"));
 
-                return (
-                  <Link
-                    key={href}
-                    href={href}
-                    className={`relative px-4 py-2 text-sm font-heading font-semibold uppercase tracking-wider transition-colors duration-200 rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-teal ${
-                      isActive
-                        ? "text-white"
-                        : "text-white/62 hover:text-white"
-                    }`}
-                    style={
-                      isActive
-                        ? { color: "white" }
-                        : {}
-                    }
-                    aria-current={isActive ? "page" : undefined}
-                  >
-                    {label}
-                    {/* Active teal underline */}
-                    {isActive && (
-                      <span
-                        className="absolute bottom-0 left-4 right-4 h-0.5 rounded-full"
-                        style={{ backgroundColor: "var(--color-teal)" }}
-                        aria-hidden="true"
-                      />
-                    )}
-                  </Link>
-                );
-              })}
-            </nav>
+                  return (
+                    <Link
+                      key={href}
+                      href={href}
+                      className={`site-header-link relative rounded px-4 py-2 text-sm font-heading font-semibold uppercase tracking-wider transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal ${
+                        isActive ? "is-active" : ""
+                      }`}
+                      aria-current={isActive ? "page" : undefined}
+                    >
+                      {label}
+                      {/* Active teal underline */}
+                      {isActive && (
+                        <span
+                          className="absolute bottom-0 left-4 right-4 h-0.5 rounded-full"
+                          style={{ backgroundColor: "var(--color-teal)" }}
+                          aria-hidden="true"
+                        />
+                      )}
+                    </Link>
+                  );
+                })}
+              </nav>
+              <button
+                type="button"
+                className="theme-toggle"
+                onClick={toggleTheme}
+                aria-label={`Switch to ${theme === "dark" ? "light" : "dark"} mode`}
+                title={`Switch to ${theme === "dark" ? "light" : "dark"} mode`}
+              >
+                <ThemeIcon size={16} aria-hidden="true" />
+                <span>{themeLabel}</span>
+              </button>
+            </div>
 
-            {/* Mobile hamburger button */}
-            {/* min-w-[44px] min-h-[44px]: Apple HIG 44×44px minimum tap target */}
-            <button
-              className="md:hidden flex items-center justify-center w-11 h-11 rounded-md transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal hover:bg-white/10"
-              onClick={() => setIsMobileMenuOpen((prev) => !prev)}
-              aria-label={isMobileMenuOpen ? "Close navigation menu" : "Open navigation menu"}
-              aria-expanded={isMobileMenuOpen}
-              aria-controls="mobile-nav"
-              style={{
-                color: "white",
-                WebkitTapHighlightColor: "transparent",
-                touchAction: "manipulation",
-              }}
-            >
-              {isMobileMenuOpen ? (
-                <X size={22} strokeWidth={2.5} />
-              ) : (
-                <Menu size={22} strokeWidth={2.5} />
-              )}
-            </button>
+            <div className="flex items-center gap-2 md:hidden">
+              <button
+                type="button"
+                className="site-header-icon-button flex h-11 w-11 items-center justify-center rounded-md transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
+                onClick={toggleTheme}
+                aria-label={`Switch to ${theme === "dark" ? "light" : "dark"} mode`}
+                title={`Switch to ${theme === "dark" ? "light" : "dark"} mode`}
+                style={{
+                  WebkitTapHighlightColor: "transparent",
+                  touchAction: "manipulation",
+                }}
+              >
+                <ThemeIcon size={19} aria-hidden="true" />
+                <span className="sr-only">{themeLabel} mode</span>
+              </button>
+
+              {/* Mobile hamburger button */}
+              {/* min-w-[44px] min-h-[44px]: Apple HIG 44x44px minimum tap target */}
+              <button
+                className="site-header-icon-button flex h-11 w-11 items-center justify-center rounded-md transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
+                onClick={() => setIsMobileMenuOpen((prev) => !prev)}
+                aria-label={isMobileMenuOpen ? "Close navigation menu" : "Open navigation menu"}
+                aria-expanded={isMobileMenuOpen}
+                aria-controls="mobile-nav"
+                style={{
+                  WebkitTapHighlightColor: "transparent",
+                  touchAction: "manipulation",
+                }}
+              >
+                {isMobileMenuOpen ? (
+                  <X size={22} strokeWidth={2.5} />
+                ) : (
+                  <Menu size={22} strokeWidth={2.5} />
+                )}
+              </button>
+            </div>
           </div>
         </Container>
       </header>
@@ -168,29 +229,26 @@ export default function SiteHeader() {
 
         {/* Slide-out panel */}
         <nav
-          className={`absolute top-0 right-0 flex h-full w-[min(18rem,calc(100vw-2rem))] flex-col border-l border-white/10 bg-[#071822] shadow-2xl transition-transform duration-300 ease-in-out ${
+          className={`site-mobile-nav absolute top-0 right-0 flex h-full w-[min(18rem,calc(100vw-2rem))] flex-col border-l shadow-2xl transition-transform duration-300 ease-in-out ${
             isMobileMenuOpen ? "translate-x-0" : "translate-x-full"
           }`}
           aria-label="Mobile navigation"
         >
           {/* Panel header */}
           <div
-            className="flex items-center justify-between px-6 h-16 border-b"
-            style={{ borderColor: "rgba(255,255,255,0.12)" }}
+            className="site-mobile-nav-border flex items-center justify-between px-6 h-16 border-b"
           >
             <span
-              className="font-heading font-bold text-base uppercase tracking-widest"
-              style={{ color: "white" }}
+              className="site-header-title font-heading font-bold text-base uppercase tracking-widest"
             >
               Menu
             </span>
             {/* min 44×44px tap target per Apple HIG */}
             <button
-              className="flex items-center justify-center w-11 h-11 rounded-md transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal hover:bg-white/10"
+              className="site-header-icon-button flex items-center justify-center w-11 h-11 rounded-md transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
               onClick={() => setIsMobileMenuOpen(false)}
               aria-label="Close navigation menu"
               style={{
-                color: "white",
                 WebkitTapHighlightColor: "transparent",
                 touchAction: "manipulation",
               }}
@@ -211,16 +269,9 @@ export default function SiteHeader() {
                 <li key={href}>
                   <Link
                     href={href}
-                    className={`flex items-center gap-3 px-6 py-4 text-sm font-heading font-semibold uppercase tracking-wider transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-teal ${
-                      isActive
-                        ? "bg-white/10"
-                        : "hover:bg-white/10"
+                    className={`site-mobile-link flex items-center gap-3 px-6 py-4 text-sm font-heading font-semibold uppercase tracking-wider transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-inset focus-visible:ring-teal ${
+                      isActive ? "is-active" : ""
                     }`}
-                    style={{
-                      color: isActive
-                        ? "white"
-                        : "rgba(246,246,246,0.72)",
-                    }}
                     aria-current={isActive ? "page" : undefined}
                   >
                     {/* Active teal indicator bar */}
@@ -237,12 +288,22 @@ export default function SiteHeader() {
               );
             })}
           </ul>
+          <div className="px-6">
+            <button
+              type="button"
+              className="theme-toggle theme-toggle-mobile w-full justify-center"
+              onClick={toggleTheme}
+              aria-label={`Switch to ${theme === "dark" ? "light" : "dark"} mode`}
+            >
+              <ThemeIcon size={16} aria-hidden="true" />
+              <span>{themeLabel} mode</span>
+            </button>
+          </div>
 
           {/* Footer tagline inside mobile menu */}
-          <div className="mt-auto px-6 py-6 border-t" style={{ borderColor: "rgba(255,255,255,0.12)" }}>
+          <div className="site-mobile-nav-border mt-auto px-6 py-6 border-t">
             <p
-              className="text-xs font-body leading-relaxed"
-              style={{ color: "rgba(246,246,246,0.62)" }}
+              className="site-mobile-muted text-xs font-body leading-relaxed"
             >
               Know Your Candidates. Vote Your Values.
             </p>

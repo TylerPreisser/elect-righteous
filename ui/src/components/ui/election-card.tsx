@@ -68,7 +68,7 @@ export default function ElectionCard({
         {plainEnglish && (
           <p
             className="text-sm leading-relaxed mb-4 flex-1"
-            style={{ color: "rgba(255,255,255,0.64)", fontFamily: "var(--font-body)" }}
+            style={{ color: "var(--er-muted)", fontFamily: "var(--font-body)" }}
           >
             {plainEnglish.length > 96
               ? plainEnglish.slice(0, 96).trimEnd() + "..."
@@ -77,7 +77,7 @@ export default function ElectionCard({
         )}
 
         {/* Meta */}
-        <dl className="mt-auto grid gap-1.5 border-t pt-3" style={{ borderColor: "rgba(255,255,255,0.10)" }}>
+        <dl className="mt-auto grid gap-1.5 border-t pt-3" style={{ borderColor: "var(--er-border)" }}>
           <div className="flex items-center gap-2 text-sm text-white/62">
             <Calendar size={14} className="shrink-0 text-teal" aria-hidden="true" />
             <dt className="sr-only">Date</dt>
@@ -97,7 +97,7 @@ export default function ElectionCard({
 
         <span
           className="mt-3 inline-flex items-center gap-2 text-sm font-semibold font-heading transition-colors duration-200 group-hover:text-teal"
-          style={{ color: "rgba(255,255,255,0.78)" }}
+          style={{ color: "var(--er-text)" }}
           aria-hidden="true"
         >
           View guide
