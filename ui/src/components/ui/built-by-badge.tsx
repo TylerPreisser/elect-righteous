@@ -25,7 +25,7 @@ export default function BuiltByBadge() {
             Built by Preisser Solutions
           </span>
           <span className="truncate text-[10px] sm:text-[11px] font-body text-white/60">
-            Websites, SEO, AI search, CRM, dashboards
+            AI. Search. Websites. SEO. Automation.
           </span>
         </div>
 
