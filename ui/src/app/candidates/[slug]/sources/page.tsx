@@ -75,7 +75,6 @@ export default async function SourcesPage({ params }: PageProps) {
   return (
     <main className="er-shell min-h-screen" id="main-content">
       <div className="er-grid-bg" aria-hidden="true" />
-      <div className="er-scanline" aria-hidden="true" />
 
       <div className="relative z-10 border-b border-white/10">
         <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">

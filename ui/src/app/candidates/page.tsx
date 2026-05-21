@@ -67,7 +67,6 @@ export default function CandidatesPage() {
 
       <main id="main-content" className="er-shell min-h-screen">
         <div className="er-grid-bg" aria-hidden="true" />
-        <div className="er-scanline" aria-hidden="true" />
         {/* ── Page Header ──────────────────────────────────────────── */}
         <section
           className="section-navy relative"

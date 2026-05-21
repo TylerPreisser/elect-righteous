@@ -96,7 +96,6 @@ export default async function ElectionDetailPage({ params }: PageProps) {
   return (
     <main id="main-content" className="er-shell min-h-screen">
       <div className="er-grid-bg" aria-hidden="true" />
-      <div className="er-scanline" aria-hidden="true" />
 
       <div className="relative z-10 border-b border-white/10">
         <Container>

@@ -83,8 +83,9 @@ export default function SiteHeader() {
     applyTheme(nextTheme);
   };
 
-  const ThemeIcon = theme === "dark" ? Sun : Moon;
-  const themeLabel = theme === "dark" ? "Light" : "Dark";
+  const targetTheme = theme === "dark" ? "light" : "dark";
+  const ThemeIcon = theme === "dark" ? Moon : Sun;
+  const themeLabel = theme === "dark" ? "Dark" : "Light";
 
   return (
     <>
@@ -160,8 +161,8 @@ export default function SiteHeader() {
                 type="button"
                 className="theme-toggle"
                 onClick={toggleTheme}
-                aria-label={`Switch to ${theme === "dark" ? "light" : "dark"} mode`}
-                title={`Switch to ${theme === "dark" ? "light" : "dark"} mode`}
+                aria-label={`Current theme: ${themeLabel}. Switch to ${targetTheme} mode`}
+                title={`Current theme: ${themeLabel}. Switch to ${targetTheme} mode`}
               >
                 <ThemeIcon size={16} aria-hidden="true" />
                 <span>{themeLabel}</span>
@@ -173,8 +174,8 @@ export default function SiteHeader() {
                 type="button"
                 className="site-header-icon-button flex h-11 w-11 items-center justify-center rounded-md transition-colors duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-teal"
                 onClick={toggleTheme}
-                aria-label={`Switch to ${theme === "dark" ? "light" : "dark"} mode`}
-                title={`Switch to ${theme === "dark" ? "light" : "dark"} mode`}
+                aria-label={`Current theme: ${themeLabel}. Switch to ${targetTheme} mode`}
+                title={`Current theme: ${themeLabel}. Switch to ${targetTheme} mode`}
                 style={{
                   WebkitTapHighlightColor: "transparent",
                   touchAction: "manipulation",
@@ -293,7 +294,7 @@ export default function SiteHeader() {
               type="button"
               className="theme-toggle theme-toggle-mobile w-full justify-center"
               onClick={toggleTheme}
-              aria-label={`Switch to ${theme === "dark" ? "light" : "dark"} mode`}
+              aria-label={`Current theme: ${themeLabel}. Switch to ${targetTheme} mode`}
             >
               <ThemeIcon size={16} aria-hidden="true" />
               <span>{themeLabel} mode</span>

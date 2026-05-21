@@ -1,4 +1,5 @@
 import Link from "next/link";
+import KineticDossier from "@/components/ui/kinetic-dossier";
 import {
   ArrowRight,
   Building2,
@@ -88,7 +89,6 @@ export default function HomePage() {
   return (
     <main className="er-shell min-h-screen" id="main-content">
       <div className="er-grid-bg" aria-hidden="true" />
-      <div className="er-scanline" aria-hidden="true" />
 
       <section className="relative overflow-hidden py-16 md:py-24" aria-label="Election intelligence command center">
         <div className="container-main relative z-10">
@@ -121,30 +121,34 @@ export default function HomePage() {
               </div>
             </div>
 
-            <aside className="er-panel er-reveal er-reveal-delay-1 rounded-lg p-5">
-              <div className="mb-5 flex items-center justify-between border-b border-white/10 pb-4">
-                <span className="font-heading text-sm font-bold uppercase tracking-[0.16em] text-white/78">
-                  Research archive
-                </span>
-                <span className="rounded bg-teal/15 px-2 py-1 text-xs font-semibold text-teal">
-                  2026 cycle
-                </span>
-              </div>
-              <dl className="grid gap-3">
-                {[
-                  ["Profiles", V2_CANDIDATES.length.toLocaleString()],
-                  ["Races", ELECTIONS.length.toLocaleString()],
-                  ["Public sources", sourceCount.toLocaleString()],
-                  ["Record items", actionCount.toLocaleString()],
-                  ["Online observations", socialCount.toLocaleString()],
-                ].map(([label, value]) => (
-                  <div key={label} className="flex items-baseline justify-between gap-4 rounded border border-white/[0.08] bg-white/[0.045] px-3 py-2.5">
-                    <dt className="text-xs uppercase tracking-wide text-white/52">{label}</dt>
-                    <dd className="font-heading text-2xl font-bold text-white">{value}</dd>
-                  </div>
-                ))}
-              </dl>
-            </aside>
+            <div className="grid gap-5">
+              <KineticDossier />
+
+              <aside className="er-panel er-reveal er-reveal-delay-1 rounded-lg p-5">
+                <div className="mb-5 flex items-center justify-between border-b border-white/10 pb-4">
+                  <span className="font-heading text-sm font-bold uppercase tracking-[0.16em] text-white/78">
+                    Research archive
+                  </span>
+                  <span className="rounded bg-teal/15 px-2 py-1 text-xs font-semibold text-teal">
+                    2026 cycle
+                  </span>
+                </div>
+                <dl className="grid gap-3">
+                  {[
+                    ["Profiles", V2_CANDIDATES.length.toLocaleString()],
+                    ["Races", ELECTIONS.length.toLocaleString()],
+                    ["Public sources", sourceCount.toLocaleString()],
+                    ["Record items", actionCount.toLocaleString()],
+                    ["Online observations", socialCount.toLocaleString()],
+                  ].map(([label, value]) => (
+                    <div key={label} className="flex items-baseline justify-between gap-4 rounded border border-white/[0.08] bg-white/[0.045] px-3 py-2.5">
+                      <dt className="text-xs uppercase tracking-wide text-white/52">{label}</dt>
+                      <dd className="font-heading text-2xl font-bold text-white">{value}</dd>
+                    </div>
+                  ))}
+                </dl>
+              </aside>
+            </div>
           </div>
         </div>
       </section>

@@ -59,7 +59,6 @@ export default function AboutPage() {
   return (
     <main className="er-shell min-h-screen" id="main-content">
       <div className="er-grid-bg" aria-hidden="true" />
-      <div className="er-scanline" aria-hidden="true" />
 
       <section className="relative overflow-hidden py-16 md:py-24" aria-labelledby="about-heading">
         <div className="container-main relative z-10">

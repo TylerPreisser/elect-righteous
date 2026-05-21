@@ -403,7 +403,6 @@ export default function CandidateV2Profile({ candidate }: CandidateV2ProfileProp
   return (
     <main id="main-content" className="er-shell">
       <div className="er-grid-bg" aria-hidden="true" />
-      <div className="er-scanline" aria-hidden="true" />
       <div className="er-hero-band relative z-10 overflow-hidden">
         <div className="absolute inset-0 opacity-25" aria-hidden="true">
           <div className="er-hero-grid h-full w-full" />
