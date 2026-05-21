@@ -1,5 +1,5 @@
 # Elect Righteous — Orchestration State
-Last updated: 2026-05-21T14:49:00Z
+Last updated: 2026-05-21T14:55:00Z
 Last agent: ux-content-designer / frontend-implementer / mobile-qa-agent / build-validation-gatekeeper / github-pages-deploy-agent / cloudflare-deploy-agent
 Last commit: see `git log --oneline -1`
 
@@ -15,7 +15,7 @@ Phase 3: Profile Rebuild
 | 4 | Editorial Review | in progress |
 | 5 | UI/UX Rebuild | complete-theme-aware-dark-light-toggle-local-qa |
 | 6 | Validation | pass-theme-aware-local |
-| 7 | Deploy | GitHub Pages preview deployed; Cloudflare Pages and production domains verified |
+| 7 | Deploy | theme toggle pushed; GitHub Pages preview deployed; Cloudflare Pages and production domains verified |
 
 ## Blockers
 - Full manual editorial/legal/symmetry review remains incomplete for 81 of 81 candidates; parallel legal/symmetry triage ran federal, state, and local/off-cycle scans, and the renderer now blocks cross-candidate issue/social/source contamination while preserving candidate-specific social and source evidence — legal-accuracy-reviewer — high — 2026-05-20
@@ -164,9 +164,9 @@ Phase 3: Profile Rebuild
 | Dark redesign screenshot QA | 2026-05-21T14:06:00Z | Pass | Captured 20 screenshots across 10 representative routes in desktop 1440px and mobile 390px. Every checked route returned HTTP 200, had no horizontal overflow, and had no forbidden public text hits. See memory/orchestration/ui-qa-2026-05-21-dark/. |
 | Candidate relevance guard | 2026-05-20T20:30:53Z | Pass | Renderer now rejects finance-only, public-absence, generic race/local context, family-network, and other-candidate-led evidence from issue/social cards unless the evidence names or directly belongs to the current candidate. |
 | Customer local feedback pass | 2026-05-20T20:50:39Z | Pass-with-caveats | Added current-official/appointed-administrator profile labeling, corrected Hays City and USD 489 group copy, added filing-deadline context to election detail pages, corrected Ken Brooks Hays High/Facebook-page notes, and documented that current official roster data still needs post-deadline recheck. |
-| GitHub Pages preview deploy | 2026-05-21T14:18:00Z | Pass | Pushed main through commit 3cf3c25; GitHub Actions run 26231668123 completed build and deploy successfully. Public preview fetch verified the dark homepage and no targeted forbidden/internal wording. |
-| Cloudflare Pages deploy | 2026-05-21T14:18:00Z | Pass | Built root-domain export with `NEXT_PUBLIC_SITE_URL=https://electrighteous.com`, deployed via Wrangler, and verified deployment `https://ae955d90.elect-righteous.pages.dev`. |
-| Production domain verification | 2026-05-21T14:19:00Z | Pass | `https://electrighteous.com/` and `https://www.electrighteous.com/` return HTTP 200; production metadata uses `https://electrighteous.com/`; home/About fetches show the dark redesign and Romans 13:3-4 About copy, with no targeted forbidden/internal wording hits. |
+| GitHub Pages preview deploy | 2026-05-21T14:54:00Z | Pass | Pushed main through theme-toggle commit e7f12e8; GitHub Actions run 26233706219 completed build and deploy successfully. Public preview fetch verified `er-theme`, theme toggle markup, and GitHub base-path assets. |
+| Cloudflare Pages deploy | 2026-05-21T14:54:00Z | Pass | Built root-domain export with `NEXT_PUBLIC_SITE_URL=https://electrighteous.com`, deployed via Wrangler, and verified deployment `https://f76fae6a.elect-righteous.pages.dev`. |
+| Production domain verification | 2026-05-21T14:54:00Z | Pass | `https://electrighteous.com/` and `https://www.electrighteous.com/` return HTTP 200; production fetch verified `er-theme`, theme toggle markup, root-domain assets, and production metadata uses `https://electrighteous.com/`. |
 | Theme-aware UI build | 2026-05-21T14:51:00Z | Pass | Added system-theme initialization plus desktop and mobile nav light/dark toggles; TypeScript, root-domain `npm run build:cloudflare`, and GitHub Pages `npm run build` pass with 266 static pages. |
 | Theme-aware browser QA | 2026-05-21T14:48:00Z | Pass | Verified local root-domain build at `http://localhost:4176/`: first load follows system dark mode, desktop toggle switches to light with 0 horizontal overflow, current-page browser errors filtered to 0, and Playwright screenshots captured forced light/dark desktop plus forced light/dark mobile states. See `memory/orchestration/theme-qa-2026-05-21/`. |
 
@@ -181,6 +181,7 @@ Phase 3: Profile Rebuild
 8. Preview deploy completed for commit 3cf3c25 and Cloudflare Pages root build is live at deployment `https://ae955d90.elect-righteous.pages.dev`; production `electrighteous.com` and `www.electrighteous.com` are verified. Remaining public blocker is FormSubmit activation — deploy agents — P1 — blocked by form provider activation
 
 ## Session Log (last 20 entries)
+- 2026-05-21T14:55:00Z github-pages-deploy-agent/cloudflare-deploy-agent Pushed theme toggle commit e7f12e8, verified GitHub Pages run 26233706219 succeeded, deployed the root-domain export to Cloudflare Pages deployment `https://f76fae6a.elect-righteous.pages.dev`, and verified `https://electrighteous.com/`, `https://www.electrighteous.com/`, and the GitHub Pages preview return the new `er-theme` initializer and theme-toggle nav markup.
 - 2026-05-21T14:49:00Z frontend-implementer/mobile-qa-agent Added theme-aware rendering: first paint follows `prefers-color-scheme`, user toggle persists through the nav light/dark control, desktop and mobile nav expose the toggle, shared dark redesign surfaces now use theme variables in light mode, TypeScript, Cloudflare root build, and GitHub Pages build pass, and local browser/Playwright QA confirmed no current-page console errors or horizontal overflow in forced light/dark desktop/mobile screenshots.
 - 2026-05-21T14:21:00Z github-pages-deploy-agent/cloudflare-deploy-agent Committed and pushed dark redesign commit 3cf3c25, verified GitHub Actions Pages run 26231668123 completed successfully, deployed root-domain export to Cloudflare Pages deployment `https://ae955d90.elect-righteous.pages.dev`, and verified `https://electrighteous.com/` plus `https://www.electrighteous.com/` return HTTP 200 with production metadata and the new dark homepage/About copy.
 - 2026-05-21T14:13:00Z ux-content-designer/frontend-implementer/mobile-qa-agent/build-validation-gatekeeper Rebuilt the visible site into a unified dark civic-intelligence interface inspired by the downloaded La Revoltosa, Thorgal, and Balmoral references without copying their code; rewrote About with a public-record/government-role framing and Romans 13:3-4; replaced stale Allen Park demo UI; darkened home, about, candidate index, elections, race detail, candidate dossier, source trail, correction form, cards, badges, and header; preserved collapsed issue dossiers and See more cards; captured 20 desktop/mobile screenshots; confirmed no overflow or targeted internal-copy leaks; YAML, inventory, V2 validation, TypeScript, npm run build, and npm run build:cloudflare all pass.
