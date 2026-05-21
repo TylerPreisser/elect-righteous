@@ -414,9 +414,6 @@
     flex-shrink: 0;
     align-items: center;
     justify-content: center;
-    border: 1px solid rgba(28, 195, 175, 0.20);
-    border-radius: 0.5rem;
-    background: color-mix(in srgb, var(--color-navy) 92%, #000);
   }
   .site-footer-banner-button {
     display: inline-flex;

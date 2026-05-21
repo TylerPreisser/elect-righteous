@@ -158,17 +158,17 @@ export default function SiteFooter() {
               </span>
               <div className="flex min-w-0 flex-col gap-1">
                 <span className="site-footer-title font-heading text-sm font-bold tracking-wide transition-colors duration-300 group-hover:text-teal sm:text-base">
-                  Need a Biblical church in Hays?
+                  Looking for a church to call home?
                 </span>
                 <span className="site-footer-muted text-xs font-body leading-relaxed sm:text-sm">
-                  Celebration Community Church is a local place to worship Christ, hear Scripture
-                  preached, and walk with other believers.
+                  Celebration Community Church - "We exist to meet Him, grow in Him and serve
+                  through Him."
                 </span>
               </div>
             </div>
 
             <span className="site-footer-banner-button">
-              Visit C3
+              Visit website
               <svg
                 className="w-4 h-4 group-hover:translate-x-0.5 transition-transform duration-300"
                 fill="none"
@@ -206,7 +206,9 @@ export default function SiteFooter() {
                   Preisser Solutions
                 </span>
                 <span className="site-footer-muted text-xs font-body leading-relaxed sm:text-sm">
-                  Preisser Solutions builds world-class systems behind modern businesses: high-converting websites, local SEO, AI search visibility, CRM workflows, dashboards, and automations that reduce manual work and increase qualified leads.
+                  This project was built by Preisser Solutions: AI search, high-converting websites,
+                  local SEO, CRM workflows, dashboards, and automations that reduce manual work and
+                  increase qualified leads.
                 </span>
               </div>
             </div>

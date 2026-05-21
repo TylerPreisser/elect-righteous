@@ -13,6 +13,7 @@ import {
 } from "lucide-react";
 import { ELECTIONS } from "@/data/elections";
 import { V2_CANDIDATES } from "@/data/v2";
+import CountUp from "@/components/ui/count-up";
 
 const CATEGORIES = [
   {
@@ -133,15 +134,17 @@ export default function HomePage() {
                 </div>
                 <dl className="grid gap-3">
                   {[
-                    ["Profiles", V2_CANDIDATES.length.toLocaleString()],
-                    ["Races", ELECTIONS.length.toLocaleString()],
-                    ["Public sources", sourceCount.toLocaleString()],
-                    ["Record items", actionCount.toLocaleString()],
-                    ["Online observations", socialCount.toLocaleString()],
-                  ].map(([label, value]) => (
-                    <div key={label} className="flex items-baseline justify-between gap-4 rounded border border-white/[0.08] bg-white/[0.045] px-3 py-2.5">
-                      <dt className="text-xs uppercase tracking-wide text-white/52">{label}</dt>
-                      <dd className="font-heading text-2xl font-bold text-white">{value}</dd>
+                    { label: "Profiles", value: V2_CANDIDATES.length },
+                    { label: "Races", value: ELECTIONS.length },
+                    { label: "Public sources", value: sourceCount },
+                    { label: "Record items", value: actionCount },
+                    { label: "Online observations", value: socialCount },
+                  ].map((stat, index) => (
+                    <div key={stat.label} className="flex items-baseline justify-between gap-4 rounded border border-white/[0.08] bg-white/[0.045] px-3 py-2.5">
+                      <dt className="text-xs uppercase tracking-wide text-white/52">{stat.label}</dt>
+                      <dd className="font-heading text-2xl font-bold text-white">
+                        <CountUp value={stat.value} durationMs={840 + index * 90} />
+                      </dd>
                     </div>
                   ))}
                 </dl>
