@@ -96,12 +96,12 @@ export default function HomePage() {
             <div className="er-reveal">
               <p className="er-kicker mb-4">Election stewardship for Hays, Kansas</p>
               <h1 className="max-w-5xl font-heading text-4xl font-extrabold leading-[1.02] text-white md:text-6xl">
-                A source-backed voter guide for stewarding the Kansas 2026 ballot.
+                Candidate research that would take hundreds of hours to gather, brought into one free guide.
               </h1>
               <p className="mt-6 max-w-3xl text-lg leading-relaxed text-white/74">
-                Public office is a trust. This guide gathers candidate statements, public actions,
-                campaign finance, race context, and linked sources so voters can weigh the record
-                with clear eyes.
+                Elect Righteous pulls together candidate statements, public actions, campaign
+                finance, race context, local coverage, online observations, and linked sources so
+                voters can find the record in one place.
               </p>
 
               <div className="mt-8 flex flex-col gap-3 sm:flex-row">
