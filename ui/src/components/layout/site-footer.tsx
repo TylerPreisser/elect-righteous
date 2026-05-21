@@ -1,5 +1,6 @@
 import Link from "next/link";
 import Container from "./container";
+import { withSiteBasePath } from "@/lib/site-env";
 
 const NAV_LINKS = [
   { href: "/", label: "Home" },
@@ -167,7 +168,7 @@ export default function SiteFooter() {
             {/* Left: Logo + messaging */}
             <div className="flex min-w-0 items-start gap-3">
               <img
-                src={`${process.env.NODE_ENV === "production" ? "/elect-righteous" : ""}/preisser-solutions-logo.webp`}
+                src={withSiteBasePath("/preisser-solutions-logo.webp")}
                 alt="Preisser Solutions"
                 width={36}
                 height={36}

@@ -1,8 +1,8 @@
 "use client";
 
-export default function BuiltByBadge() {
-  const basePath = process.env.NODE_ENV === "production" ? "/elect-righteous" : "";
+import { withSiteBasePath } from "@/lib/site-env";
 
+export default function BuiltByBadge() {
   return (
     <div className="fixed bottom-3 left-3 sm:bottom-5 sm:left-5 z-50 no-print">
       <a
@@ -17,7 +17,7 @@ export default function BuiltByBadge() {
         aria-label="Visit Preisser Solutions"
       >
         <img
-          src={`${basePath}/preisser-solutions-logo.webp`}
+          src={withSiteBasePath("/preisser-solutions-logo.webp")}
           alt=""
           width={30}
           height={30}

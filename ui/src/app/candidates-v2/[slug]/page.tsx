@@ -6,6 +6,7 @@ import {
 } from "@/data/v2";
 import CandidateV2Profile from "@/components/v2/CandidateV2Profile";
 import { getProfileStatus } from "@/lib/profile-status";
+import { withSiteBasePath } from "@/lib/site-env";
 
 export function generateStaticParams() {
   return getAllCandidateV2Slugs().map((slug) => ({ slug }));
@@ -29,20 +30,22 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
 
   const party = PARTY_LABEL[candidate.party] ?? candidate.party;
   const profileStatus = getProfileStatus(candidate);
+  const candidatePath = withSiteBasePath(`/candidates/${candidate.slug}/`);
+  const previewImage = withSiteBasePath("/og-image-v3.png");
 
   return {
     title: `${candidate.name} — ${party} ${candidate.position}`,
     description: `Source-cited issue profile for ${candidate.name}, ${party} ${profileStatus.headlineSuffix} for ${candidate.position}.`,
     alternates: {
-      canonical: `/elect-righteous/candidates/${candidate.slug}/`,
+      canonical: candidatePath,
     },
     openGraph: {
       title: `${candidate.name} | Elect Righteous`,
       description: `${party} ${profileStatus.metadataNoun} for ${candidate.position}. Source-cited issue profile with ${candidate.sources.length}+ public sources.`,
-      url: `/elect-righteous/candidates/${candidate.slug}/`,
+      url: candidatePath,
       images: [
         {
-          url: "/elect-righteous/og-image-v3.png",
+          url: previewImage,
           width: 1200,
           height: 630,
           alt: `${candidate.name} profile on Elect Righteous`,
@@ -53,7 +56,7 @@ export async function generateMetadata({ params }: PageProps): Promise<Metadata>
       card: "summary_large_image",
       title: `${candidate.name} | Elect Righteous`,
       description: `${party} ${profileStatus.metadataNoun} for ${candidate.position}. Source-cited issue profile with ${candidate.sources.length}+ public sources.`,
-      images: ["/elect-righteous/og-image-v3.png"],
+      images: [previewImage],
     },
   };
 }

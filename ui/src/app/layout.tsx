@@ -4,14 +4,13 @@ import SiteHeader from "@/components/layout/site-header";
 import SiteFooter from "@/components/layout/site-footer";
 import { ELECTIONS } from "@/data/elections";
 import { V2_CANDIDATES } from "@/data/v2";
+import { SITE_URL, withSiteBasePath } from "@/lib/site-env";
 
-const basePath = process.env.NODE_ENV === "production" ? "/elect-righteous" : "";
-const siteUrl = "https://tylerpreisser.github.io";
-const previewImage = `${basePath}/og-image-v3.png`;
+const previewImage = withSiteBasePath("/og-image-v3.png");
 const siteDescription = `Comprehensive, source-cited research on every candidate and officeholder relevant to Hays, Kansas. ${V2_CANDIDATES.length} profiles, ${ELECTIONS.length} races, and public-source trails.`;
 
 export const metadata: Metadata = {
-  metadataBase: new URL(siteUrl),
+  metadataBase: new URL(SITE_URL),
   applicationName: "Elect Righteous",
   title: {
     default: "Elect Righteous | Know Your Candidates. Vote Your Values.",
@@ -34,17 +33,17 @@ export const metadata: Metadata = {
   ],
   icons: {
     icon: [
-      { url: `${basePath}/favicon.ico`, sizes: "any" },
-      { url: `${basePath}/favicon.svg`, type: "image/svg+xml" },
-      { url: `${basePath}/icon-192.png`, sizes: "192x192", type: "image/png" },
+      { url: withSiteBasePath("/favicon.ico"), sizes: "any" },
+      { url: withSiteBasePath("/favicon.svg"), type: "image/svg+xml" },
+      { url: withSiteBasePath("/icon-192.png"), sizes: "192x192", type: "image/png" },
     ],
-    apple: [{ url: `${basePath}/apple-touch-icon.png`, sizes: "180x180", type: "image/png" }],
+    apple: [{ url: withSiteBasePath("/apple-touch-icon.png"), sizes: "180x180", type: "image/png" }],
   },
-  manifest: `${basePath}/site.webmanifest`,
+  manifest: withSiteBasePath("/site.webmanifest"),
   openGraph: {
     title: "Elect Righteous | Know Your Candidates. Vote Your Values.",
     description: siteDescription,
-    url: `${basePath}/`,
+    url: withSiteBasePath("/"),
     type: "website",
     siteName: "Elect Righteous",
     locale: "en_US",
