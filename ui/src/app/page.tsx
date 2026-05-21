@@ -55,21 +55,21 @@ const SOURCE_STRIP = [
 const METHOD_CARDS = [
   {
     icon: <ShieldCheck size={26} strokeWidth={1.6} />,
-    title: "Roster verified before writing",
+    title: "Names before narratives",
     description:
-      "Profiles separate filed candidates, current officials, off-cycle officeholders, administrators, and ballot measures.",
+      "Profiles separate filed candidates, current officials, off-cycle officeholders, administrators, and ballot measures before drawing conclusions.",
   },
   {
     icon: <FileText size={26} strokeWidth={1.6} />,
-    title: "Every claim has a trail",
+    title: "Sources before spin",
     description:
-      "Sources stay close enough for readers to inspect the original record instead of relying on a summary alone.",
+      "Important claims stay close to the original record so voters can inspect the evidence for themselves.",
   },
   {
     icon: <MessageSquare size={26} strokeWidth={1.6} />,
-    title: "Online signals stay in context",
+    title: "Online signals handled carefully",
     description:
-      "Posts, follows, likes, and comments are described as public observations unless the candidate directly made a statement.",
+      "Posts, follows, likes, and comments are treated as public observations unless the candidate directly made the statement.",
   },
 ];
 
@@ -93,13 +93,14 @@ export default function HomePage() {
         <div className="container-main relative z-10">
           <div className="grid gap-9 lg:grid-cols-[minmax(0,1fr)_28rem] lg:items-center">
             <div className="er-reveal">
-              <p className="er-kicker mb-4">Election intelligence for Hays, Kansas</p>
+              <p className="er-kicker mb-4">Election stewardship for Hays, Kansas</p>
               <h1 className="max-w-5xl font-heading text-4xl font-extrabold leading-[1.02] text-white md:text-6xl">
-                A source-backed civic dossier for the Kansas 2026 ballot.
+                A source-backed voter guide for stewarding the Kansas 2026 ballot.
               </h1>
               <p className="mt-6 max-w-3xl text-lg leading-relaxed text-white/74">
-                Candidate statements, public actions, campaign finance, race context, and linked
-                sources in one voter guide built for inspection.
+                Public office is a trust. This guide gathers candidate statements, public actions,
+                campaign finance, race context, and linked sources so voters can weigh the record
+                with clear eyes.
               </p>
 
               <div className="mt-8 flex flex-col gap-3 sm:flex-row">
@@ -124,7 +125,7 @@ export default function HomePage() {
               <aside className="er-panel er-reveal er-reveal-delay-1 rounded-lg p-5">
                 <div className="mb-5 flex items-center justify-between border-b border-white/10 pb-4">
                   <span className="font-heading text-sm font-bold uppercase tracking-[0.16em] text-white/78">
-                    Research archive
+                    Public record file
                   </span>
                   <span className="rounded bg-teal/15 px-2 py-1 text-xs font-semibold text-teal">
                     2026 cycle
@@ -164,9 +165,9 @@ export default function HomePage() {
         <div className="container-main relative z-10">
           <div className="mb-9 flex flex-col gap-4 md:flex-row md:items-end md:justify-between">
             <div className="max-w-3xl">
-              <p className="er-kicker mb-3">Start with the ballot</p>
+              <p className="er-kicker mb-3">Begin with the office</p>
               <h2 id="elections-heading" className="font-heading text-3xl font-bold text-white md:text-4xl">
-                Find the office, then inspect the people.
+                Learn the office, then inspect the people.
               </h2>
             </div>
             <Link
@@ -207,11 +208,11 @@ export default function HomePage() {
             <div>
               <p className="er-kicker mb-3">Research discipline</p>
               <h2 id="method-heading" className="font-heading text-3xl font-bold text-white md:text-4xl">
-                Built for public trust, not campaign polish.
+                Truth before tribe. Sources before spin.
               </h2>
               <p className="mt-4 text-base leading-relaxed text-white/66">
-                The point is not to make candidates look better or worse. The point is to make the public
-                record easier to understand and easier to check.
+                Voting is not a team sport. The point is not to flatter or punish candidates, but to
+                make the public record easier to understand and easier to check.
               </p>
             </div>
 

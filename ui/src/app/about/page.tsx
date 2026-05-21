@@ -14,7 +14,7 @@ import {
 export const metadata: Metadata = {
   title: "About | Elect Righteous",
   description:
-    "How Elect Righteous builds source-backed voter intelligence for Hays, Kansas and Kansas 2026 elections.",
+    "How Elect Righteous helps Hays and Kansas voters examine public office, public records, and candidates with source-backed care.",
 };
 
 const STANDARDS = [
@@ -36,7 +36,7 @@ const STANDARDS = [
   {
     icon: <CheckCircle2 size={21} strokeWidth={1.7} />,
     title: "Corrections welcomed",
-    text: "Candidates, campaigns, officials, and voters can submit corrections with documentation. The goal is accuracy, not winning an argument.",
+    text: "Candidates, campaigns, officials, and voters can submit corrections with documentation. The goal is truthful public record, not winning an argument.",
   },
 ];
 
@@ -74,7 +74,8 @@ export default function AboutPage() {
               <p className="mt-6 max-w-3xl text-lg leading-relaxed text-white/74">
                 Elect Righteous is a voter-intelligence project for Hays, Kansas and Kansas elections.
                 It organizes public records, campaign statements, local reporting, finance data, and
-                observable online activity into sourced profiles ordinary voters can inspect.
+                observable online activity into sourced profiles ordinary voters can inspect before
+                they cast a ballot.
               </p>
             </div>
 
@@ -116,7 +117,7 @@ export default function AboutPage() {
                   from one profile to the next.
                 </p>
                 <p>
-                  The project is shaped by Christian civic concern: government is meant to restrain evil,
+                  The project is shaped by Christian civic concern: government should restrain evil,
                   reward good, and serve the public rather than itself. That conviction guides the work,
                   but it is not used as a shortcut for judging candidates.
                 </p>

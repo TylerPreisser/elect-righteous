@@ -306,7 +306,7 @@ export default function SiteHeader() {
             <p
               className="site-mobile-muted text-xs font-body leading-relaxed"
             >
-              Know Your Candidates. Vote Your Values.
+              Know the record. Steward your vote.
             </p>
           </div>
         </nav>

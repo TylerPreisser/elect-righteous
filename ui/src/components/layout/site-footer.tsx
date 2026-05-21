@@ -56,7 +56,7 @@ export default function SiteFooter() {
               className="font-heading font-semibold text-sm uppercase tracking-wider"
               style={{ color: "var(--color-teal)" }}
             >
-              Know Your Candidates. Vote Your Values.
+              Know the Record. Steward Your Vote.
             </p>
 
             {/* Scripture */}
@@ -128,16 +128,62 @@ export default function SiteFooter() {
             {/* Disclaimer */}
             <p className="site-footer-soft text-xs font-body leading-relaxed">
               Elect Righteous is an independent research platform providing
-              source-cited public information about candidates and elections.
-              All data is drawn from publicly available records. Research is
+              source-cited public information about candidates, officials, and elections.
+              The aim is plain truth, documented sources, and careful civic judgment. Research is
               updated as new information becomes available.
             </p>
           </div>
         </div>
       </Container>
 
+      {/* Biblical church banner */}
+      <div className="site-footer-banner">
+        <Container>
+          <a
+            href="https://www.celebratejesus.org/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="group grid gap-4 py-6 sm:grid-cols-[minmax(0,1fr)_auto] sm:items-center"
+            aria-label="Visit Celebration Community Church"
+          >
+            <div className="flex min-w-0 items-start gap-3">
+              <span className="site-footer-logo-frame" aria-hidden="true">
+                <img
+                  src={withSiteBasePath("/c3-logo.png")}
+                  alt=""
+                  width={36}
+                  height={36}
+                  className="h-9 w-9"
+                />
+              </span>
+              <div className="flex min-w-0 flex-col gap-1">
+                <span className="site-footer-title font-heading text-sm font-bold tracking-wide transition-colors duration-300 group-hover:text-teal sm:text-base">
+                  Need a Biblical church in Hays?
+                </span>
+                <span className="site-footer-muted text-xs font-body leading-relaxed sm:text-sm">
+                  Celebration Community Church is a local place to worship Christ, hear Scripture
+                  preached, and walk with other believers.
+                </span>
+              </div>
+            </div>
+
+            <span className="site-footer-banner-button">
+              Visit C3
+              <svg
+                className="w-4 h-4 group-hover:translate-x-0.5 transition-transform duration-300"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+              >
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2.5} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+              </svg>
+            </span>
+          </a>
+        </Container>
+      </div>
+
       {/* Preisser Solutions CTA Banner */}
-      <div className="site-footer-cta">
+      <div className="site-footer-banner">
         <Container>
           <a
             href="https://www.preissersolutions.com/"
@@ -166,12 +212,7 @@ export default function SiteFooter() {
             </div>
 
             {/* Right: CTA button */}
-            <span
-              className="flex min-h-11 w-full items-center justify-center gap-2 rounded-md px-5 font-heading text-sm font-semibold uppercase tracking-wide text-white transition-all duration-300 group-hover:shadow-lg sm:w-auto"
-              style={{
-                backgroundColor: "var(--color-teal)",
-              }}
-            >
+            <span className="site-footer-banner-button">
               Visit the website
               <svg
                 className="w-4 h-4 group-hover:translate-x-0.5 transition-transform duration-300"
@@ -196,14 +237,6 @@ export default function SiteFooter() {
             <p className="site-footer-soft text-xs font-body">
               &copy; {currentYear} Elect Righteous. All rights reserved.
             </p>
-            <a
-              href="https://www.celebratejesus.org/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="footer-nav-link text-xs font-body font-semibold"
-            >
-              Need a Biblical Church?
-            </a>
             <p className="site-footer-soft text-xs font-body text-center">
               This platform does not endorse any candidate.
             </p>

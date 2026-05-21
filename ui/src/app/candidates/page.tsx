@@ -93,9 +93,9 @@ export default function CandidatesPage() {
                 className="text-base leading-relaxed"
                 style={{ color: "var(--er-muted)" }}
               >
-                {V2_CANDIDATES.length} officials and candidates researched -
-                backgrounds, public actions, faith/community ties where public, campaign finance, and
-                sourced reporting in plain English.
+                {V2_CANDIDATES.length} officials and candidates researched with the same rule:
+                show what they have said, what the public record shows, and what the sources can
+                actually support.
               </p>
               </div>
 
@@ -254,8 +254,8 @@ export default function CandidatesPage() {
                 role="list"
                 aria-label="Candidates"
               >
-                {filtered.map((candidate) => (
-                  <li key={candidate.slug} className="h-full">
+                {filtered.map((candidate, index) => (
+                  <li key={candidate.slug} className={`h-full er-reveal er-reveal-delay-${Math.min(index % 4, 3)}`}>
                     {(() => {
                       const metrics = getProfileMetrics(candidate);
                       return (

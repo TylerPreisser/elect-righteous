@@ -95,9 +95,8 @@ export default function ElectionsPage() {
               className="text-base leading-relaxed"
               style={{ color: "var(--er-muted)" }}
             >
-              Every election relevant to Hays voters, organized the way most
-              people think about them: federal first, then state, then ballot
-              measures, then local races and current off-cycle officials.
+              Every race relevant to Hays voters, ordered so neighbors can understand
+              the office, weigh the public record, and vote with a clear conscience.
             </p>
             </div>
 
@@ -139,7 +138,7 @@ export default function ElectionsPage() {
               }
 
               return (
-                <section key={category.id} id={category.id} aria-labelledby={`${category.id}-heading`} className="scroll-mt-24">
+                <section key={category.id} id={category.id} aria-labelledby={`${category.id}-heading`} className="er-reveal scroll-mt-24">
                   {/* Category heading */}
                   <div className="flex flex-col gap-2 mb-6">
                     <h3
@@ -163,8 +162,8 @@ export default function ElectionsPage() {
                     role="list"
                     aria-label={`${category.heading} election list`}
                   >
-                    {elections.map((election) => (
-                      <li key={election.slug}>
+                    {elections.map((election, index) => (
+                      <li key={election.slug} className={`er-reveal er-reveal-delay-${Math.min(index % 4, 3)}`}>
                         <ElectionCard
                           name={election.name}
                           date={election.date}

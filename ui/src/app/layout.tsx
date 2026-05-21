@@ -3,18 +3,19 @@ import "./globals.css";
 import SiteHeader from "@/components/layout/site-header";
 import SiteFooter from "@/components/layout/site-footer";
 import BuiltByBadge from "@/components/ui/built-by-badge";
+import ScrollReveal from "@/components/ui/scroll-reveal";
 import { ELECTIONS } from "@/data/elections";
 import { V2_CANDIDATES } from "@/data/v2";
 import { SITE_URL, withSiteBasePath } from "@/lib/site-env";
 
 const previewImage = withSiteBasePath("/og-image-v3.png");
-const siteDescription = `Comprehensive, source-cited research on every candidate and officeholder relevant to Hays, Kansas. ${V2_CANDIDATES.length} profiles, ${ELECTIONS.length} races, and public-source trails.`;
+const siteDescription = `A source-cited voter guide for Hays, Kansas and Kansas 2026 elections. ${V2_CANDIDATES.length} profiles, ${ELECTIONS.length} races, and public-source trails for voters who want to steward their ballot carefully.`;
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   applicationName: "Elect Righteous",
   title: {
-    default: "Elect Righteous | Know Your Candidates. Vote Your Values.",
+    default: "Elect Righteous | Know the Record. Steward Your Vote.",
     template: "%s | Elect Righteous",
   },
   description: siteDescription,
@@ -42,7 +43,7 @@ export const metadata: Metadata = {
   },
   manifest: withSiteBasePath("/site.webmanifest"),
   openGraph: {
-    title: "Elect Righteous | Know Your Candidates. Vote Your Values.",
+    title: "Elect Righteous | Know the Record. Steward Your Vote.",
     description: siteDescription,
     url: withSiteBasePath("/"),
     type: "website",
@@ -53,13 +54,13 @@ export const metadata: Metadata = {
         url: previewImage,
         width: 1200,
         height: 630,
-        alt: "Elect Righteous - Know Your Candidates. Vote Your Values.",
+        alt: "Elect Righteous - Know the Record. Steward Your Vote.",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Elect Righteous | Know Your Candidates. Vote Your Values.",
+    title: "Elect Righteous | Know the Record. Steward Your Vote.",
     description:
       "Source-cited candidate research for Kansas voters.",
     images: [previewImage],
@@ -119,6 +120,7 @@ export default function RootLayout({
         />
       </head>
       <body className="min-h-screen flex flex-col">
+        <ScrollReveal />
         <SiteHeader />
         <div className="flex-1">{children}</div>
         <SiteFooter />
