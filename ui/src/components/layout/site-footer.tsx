@@ -172,7 +172,7 @@ export default function SiteFooter() {
                 backgroundColor: "var(--color-teal)",
               }}
             >
-              Upgrade Your Presence
+              Visit the website
               <svg
                 className="w-4 h-4 group-hover:translate-x-0.5 transition-transform duration-300"
                 fill="none"
