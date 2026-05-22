@@ -92,7 +92,7 @@ const DATA_POINTS = [
 ];
 
 const GUIDING_VERSE =
-  "But select from all the people some capable, honest men who fear God and hate bribes. Appoint them as leaders.";
+  "But select from all the people some capable, honest men who fear God and hate bribes. Appoint them as leaders over groups of one thousand, one hundred, fifty, and ten.";
 
 export default function AboutPage() {
   return (
@@ -108,7 +108,7 @@ export default function AboutPage() {
                 id="about-heading"
                 className="font-heading text-4xl font-extrabold leading-[1.02] text-white md:text-6xl"
               >
-                A free public record file for serious voters.
+                A clearer way to research your ballot.
               </h1>
               <p className="mt-6 max-w-3xl text-lg leading-relaxed text-white/74">
                 Elect Righteous gathers the candidate information Hays and Kansas voters would
@@ -124,7 +124,7 @@ export default function AboutPage() {
                   &ldquo;{GUIDING_VERSE}&rdquo;
                 </p>
                 <footer className="mt-4 font-heading text-xs font-bold uppercase tracking-[0.16em] text-teal">
-                  Exodus 18:21
+                  Exodus 18:21, New Living Translation (NLT)
                 </footer>
               </blockquote>
             </aside>

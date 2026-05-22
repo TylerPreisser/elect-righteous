@@ -10,7 +10,7 @@ const NAV_LINKS = [
 ];
 
 const GUIDING_VERSE =
-  "But select from all the people some capable, honest men who fear God and hate bribes. Appoint them as leaders.";
+  "But select from all the people some capable, honest men who fear God and hate bribes. Appoint them as leaders over groups of one thousand, one hundred, fifty, and ten.";
 
 export default function SiteFooter() {
   const currentYear = new Date().getFullYear();
@@ -71,7 +71,7 @@ export default function SiteFooter() {
                 &ldquo;{GUIDING_VERSE}&rdquo;
               </p>
               <footer className="site-footer-soft mt-1 text-xs font-body font-semibold uppercase tracking-wider">
-                &mdash; Exodus 18:21
+                &mdash; Exodus 18:21, New Living Translation (NLT)
               </footer>
             </blockquote>
           </div>
