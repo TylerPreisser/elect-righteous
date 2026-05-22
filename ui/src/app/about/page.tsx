@@ -1,11 +1,12 @@
 import type { Metadata } from "next";
 import {
   Bot,
-  CheckCircle2,
   Database,
   FileSearch,
+  GitBranch,
   Layers3,
   Scale,
+  Search,
   ShieldCheck,
 } from "lucide-react";
 import { ELECTIONS } from "@/data/elections";
@@ -17,44 +18,60 @@ export const metadata: Metadata = {
     "How Elect Righteous helps Hays and Kansas voters examine public office, public records, and candidates with source-backed care.",
 };
 
-const STANDARDS = [
+const AGENT_PIPELINE = [
   {
+    phase: "Step 1",
+    icon: <Search size={21} strokeWidth={1.7} />,
+    title: "Find the races and classify the people",
+    text: "Roster agents check Secretary of State filings, FEC records, KPDC records, county documents, city pages, school-board records, and election calendars. Filed candidates, current officials, off-cycle officeholders, administrators, and ballot measures are kept in separate categories.",
+  },
+  {
+    phase: "Step 2",
     icon: <FileSearch size={21} strokeWidth={1.7} />,
-    title: "What we use",
-    text: "Official filings, meeting records, campaign finance reports, court records, candidate statements, local reporting, and public online observations.",
+    title: "Extract the evidence before writing",
+    text: "Evidence-mining agents read the candidate folders, old research dumps, social harvests, reports, race files, source trails, and rendered data. Facts are pulled into evidence matrices before public prose is written.",
   },
   {
-    icon: <ShieldCheck size={21} strokeWidth={1.7} />,
-    title: "How it is checked",
-    text: "Candidate claims are cross-referenced against source trails, public records, archived research, and the same issue matrix across the site.",
+    phase: "Step 3",
+    icon: <Layers3 size={21} strokeWidth={1.7} />,
+    title: "Cross-check sources and online signals",
+    text: "Source-tier agents separate official records, candidate-controlled statements, reliable reporting, social evidence, and internal memory. Social observations such as posts, likes, follows, and comments are labeled as observations unless the candidate directly made the statement.",
   },
   {
+    phase: "Step 4",
+    icon: <Database size={21} strokeWidth={1.7} />,
+    title: "Put every candidate through the same issue matrix",
+    text: "Each profile uses the same 14 issues. When no source-backed statement or action is found, the profile says that plainly instead of filling the gap with party assumptions.",
+  },
+  {
+    phase: "Step 5",
     icon: <Scale size={21} strokeWidth={1.7} />,
-    title: "How bias is reduced",
-    text: "Profiles separate statements, actions, finance, online observations, and source limits so a reader can see what is known and what is not.",
+    title: "Write through a disciplined Christian lens",
+    text: "The prompt files direct the workflow to notice truthfulness, stewardship, bribery, care for vulnerable people, public faith references, and consistency. That lens shapes what gets checked, while the public writing stays reportorial: no endorsements, no faith-based policy guesses, and no partisan shortcuts.",
   },
   {
-    icon: <CheckCircle2 size={21} strokeWidth={1.7} />,
-    title: "Corrections welcomed",
-    text: "Candidates, campaigns, officials, and voters can submit corrections with documentation. The goal is an accurate public record voters can check.",
+    phase: "Step 6",
+    icon: <ShieldCheck size={21} strokeWidth={1.7} />,
+    title: "Review, validate, and publish",
+    text: "Editorial, legal-accuracy, symmetry, source-health, mobile-display, public-copy, build, GitHub Pages, and Cloudflare checks all sit at the end of the process before changes are treated as shipped.",
   },
 ];
 
 const RESEARCH_SYSTEM = [
   {
     icon: <Bot size={22} strokeWidth={1.7} />,
-    title: "Specialized research agents",
-    text: "The project uses many focused agent passes for roster checks, candidate evidence, source trails, social signals, issue summaries, finance notes, faith/community references, legal review, and UI validation.",
+    title: "Custom prompt files",
+    text: "The workflow is built around specialized prompt files and agent roles, not one generic summary request. Each role has a narrow job: roster audit, evidence extraction, source validation, social analysis, issue building, profile writing, review, validation, or deployment.",
   },
   {
-    icon: <Layers3 size={22} strokeWidth={1.7} />,
-    title: "Cross-reference before publishing",
-    text: "Agent outputs are compared against official sources, prior research files, public records, local reporting, and candidate-controlled material before the profile copy is rendered.",
+    icon: <GitBranch size={22} strokeWidth={1.7} />,
+    title: "Model-assisted passes with a paper trail",
+    text: "The system uses custom large-language-model workflows for extraction, classification, and writing support, but the durable record lives on disk: evidence matrices, source audits, issue matrices, social matrices, validation reports, and handoffs that the next run can inspect.",
   },
   {
-    icon: <Database size={22} strokeWidth={1.7} />,
-    title: "Large public record file",
-    text: "The live build carries every rendered profile through the same public data shape: source trail, issue matrix, record summary, finance context, online observations, and correction path.",
+    icon: <ShieldCheck size={22} strokeWidth={1.7} />,
+    title: "Bias discipline",
+    text: "The agents are instructed to apply the same source order, issue list, caveats, and symmetry test to every person. The goal is not to erase worldview; it is to keep worldview from becoming party favoritism or unsourced inference.",
   },
 ];
 
@@ -91,12 +108,12 @@ export default function AboutPage() {
                 id="about-heading"
                 className="font-heading text-4xl font-extrabold leading-[1.02] text-white md:text-6xl"
               >
-                Transparency for better voting.
+                A free public record file for serious voters.
               </h1>
               <p className="mt-6 max-w-3xl text-lg leading-relaxed text-white/74">
-                Elect Righteous is a voter-intelligence project for Hays, Kansas and Kansas elections.
-                The goal is to add transparency, gather the public record in one place, and help
-                voters examine candidates for public office with care.
+                Elect Righteous gathers the candidate information Hays and Kansas voters would
+                otherwise have to hunt across filings, meeting records, campaign pages, finance
+                reports, local coverage, and public online activity.
               </p>
             </div>
 
@@ -121,25 +138,26 @@ export default function AboutPage() {
             <div>
               <p className="er-kicker mb-3">Mission</p>
               <h2 id="mission-heading" className="font-heading text-3xl font-bold leading-tight text-white md:text-4xl">
-                Help voters see the record.
+                Make local voting easier to take seriously.
               </h2>
             </div>
             <div className="er-panel rounded-lg p-6 md:p-8">
               <div className="grid gap-5 text-base leading-relaxed text-white/74 md:text-lg">
                 <p>
-                  Local and state elections ask voters to make serious decisions with limited time.
-                  Candidate filings, school-board minutes, county records, campaign posts, news stories,
-                  and finance reports are scattered across the internet.
+                  Local and state elections ask voters to make serious decisions with limited time,
+                  and the useful facts are scattered. This site puts those facts in one organized
+                  place so ordinary voters can compare candidates without spending hundreds of
+                  hours searching the internet.
                 </p>
                 <p>
-                  This site brings that material together, keeps citations close, and uses the same
-                  framework across candidates so a voter can compare people without changing standards
-                  from one profile to the next.
+                  The role is simple: make information easier to find, keep sources close, encourage
+                  people to vote, and give readers room to weigh candidates according to conscience,
+                  Scripture, and the values they believe should guide public office.
                 </p>
                 <p>
-                  Exodus 18:21 gives the lens: capable, honest leaders who fear God and hate bribes.
-                  The site does not declare who meets that standard. It gives voters a clearer record
-                  so they can judge wisely.
+                  Elect Righteous does not endorse candidates or tell voters what conclusion to
+                  reach. It organizes public evidence, names source limits, welcomes documented
+                  corrections, and lets the reader judge.
                 </p>
               </div>
             </div>
@@ -147,47 +165,38 @@ export default function AboutPage() {
         </div>
       </section>
 
-      <section className="relative py-12 md:py-18" aria-labelledby="standard-heading">
-        <div className="container-main relative z-10">
-          <div className="mb-8 max-w-3xl">
-            <p className="er-kicker mb-3">The standard</p>
-            <h2 id="standard-heading" className="font-heading text-3xl font-bold text-white md:text-4xl">
-              What the system checks.
-            </h2>
-          </div>
-
-          <div className="grid gap-4 md:grid-cols-2 xl:grid-cols-4">
-            {STANDARDS.map((item, index) => (
-              <article key={item.title} className={`er-card er-reveal rounded-lg p-5 er-reveal-delay-${Math.min(index, 3)}`}>
-                <div className="mb-5 inline-flex h-11 w-11 items-center justify-center rounded-md bg-teal/12 text-teal">
-                  {item.icon}
-                </div>
-                <h3 className="font-heading text-xl font-bold text-white">{item.title}</h3>
-                <p className="mt-3 text-sm leading-relaxed text-white/66">{item.text}</p>
-              </article>
-            ))}
-          </div>
-        </div>
-      </section>
-
-      <section className="relative py-12 md:py-18" aria-labelledby="research-heading">
+      <section className="relative py-12 md:py-18" aria-labelledby="research-engine-heading">
         <div className="container-main relative z-10">
           <div className="mb-8 max-w-3xl">
             <p className="er-kicker mb-3">Research engine</p>
-            <h2 id="research-heading" className="font-heading text-3xl font-bold text-white md:text-4xl">
-              Built from many agent-level checks, not a single summary pass.
+            <h2 id="research-engine-heading" className="font-heading text-3xl font-bold text-white md:text-4xl">
+              Many focused agents, one public record.
             </h2>
             <p className="mt-4 text-base leading-relaxed text-white/68">
-              Elect Righteous uses specialized AI research agents to gather, classify, compare, and
-              validate public information. Across the project, those passes create thousands of
-              agent-level checks against source files, URLs, candidate pages, and rendered output. The
-              work is still judged by source quality: official records first, candidate-controlled
-              statements next, reliable reporting after that, and social observations clearly labeled
-              as observations.
+              The research process is built from specialized agent prompts and large-language-model
+              passes. Each pass has a defined job, and each output is checked against the files and
+              sources that came before it.
             </p>
           </div>
 
-          <div className="grid gap-4 lg:grid-cols-3">
+          <div className="grid gap-4 lg:grid-cols-2">
+            {AGENT_PIPELINE.map((item, index) => (
+              <article key={item.title} className={`er-card er-reveal rounded-lg p-6 er-reveal-delay-${Math.min(index % 4, 3)}`}>
+                <div className="mb-5 flex items-center gap-3">
+                  <span className="inline-flex h-11 w-11 items-center justify-center rounded-md bg-teal/12 text-teal">
+                    {item.icon}
+                  </span>
+                  <span className="font-heading text-xs font-bold uppercase tracking-[0.16em] text-teal">
+                    {item.phase}
+                  </span>
+                </div>
+                <h3 className="font-heading text-xl font-bold text-white">{item.title}</h3>
+                <p className="mt-3 text-sm leading-relaxed text-white/68">{item.text}</p>
+              </article>
+            ))}
+          </div>
+
+          <div className="mt-6 grid gap-4 lg:grid-cols-3">
             {RESEARCH_SYSTEM.map((item, index) => (
               <article key={item.title} className={`er-card er-reveal rounded-lg p-6 er-reveal-delay-${Math.min(index, 3)}`}>
                 <div className="mb-5 inline-flex h-11 w-11 items-center justify-center rounded-md bg-gold/15 text-gold">
