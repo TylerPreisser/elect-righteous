@@ -94,9 +94,9 @@ export default function HomePage() {
         <div className="container-main relative z-10">
           <div className="grid gap-9 lg:grid-cols-[minmax(0,1fr)_28rem] lg:items-center">
             <div className="er-reveal">
-              <p className="er-kicker mb-4">Election stewardship for Hays, Kansas</p>
+              <p className="er-kicker mb-4">Free voter research for Hays, Kansas</p>
               <h1 className="max-w-5xl font-heading text-4xl font-extrabold leading-[1.02] text-white md:text-6xl">
-                Know the record before you vote.
+                All the candidate research in one place.
               </h1>
               <p className="mt-6 max-w-3xl text-lg leading-relaxed text-white/74">
                 Elect Righteous gathers candidate statements, public actions, campaign finance,
@@ -126,7 +126,7 @@ export default function HomePage() {
               <aside className="er-panel er-reveal er-reveal-delay-1 rounded-lg p-5">
                 <div className="mb-5 flex items-center justify-between border-b border-white/10 pb-4">
                   <span className="font-heading text-sm font-bold uppercase tracking-[0.16em] text-white/78">
-                    Public record file
+                    Research file
                   </span>
                   <span className="rounded bg-teal/15 px-2 py-1 text-xs font-semibold text-teal">
                     2026 cycle
@@ -211,10 +211,10 @@ export default function HomePage() {
             <div>
               <p className="er-kicker mb-3">Research discipline</p>
               <h2 id="method-heading" className="font-heading text-3xl font-bold text-white md:text-4xl">
-                A clear record voters can check.
+                Source trails voters can check.
               </h2>
               <p className="mt-4 text-base leading-relaxed text-white/66">
-                The goal is to make public records, candidate statements, online observations, and
+                The goal is to make filings, meeting records, candidate statements, online observations, and
                 source links easier to read together.
               </p>
             </div>
@@ -256,7 +256,7 @@ export default function HomePage() {
                 </div>
                 <div className="border-b border-white/10 p-6">
                   <p className="text-xs uppercase tracking-[0.16em] text-white/46">Evidence lens</p>
-                  <p className="mt-2 font-heading text-2xl font-bold text-white">What the record shows</p>
+                  <p className="mt-2 font-heading text-2xl font-bold text-white">What sources show</p>
                 </div>
                 <Link
                   href="/about"

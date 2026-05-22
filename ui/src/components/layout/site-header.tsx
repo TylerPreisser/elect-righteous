@@ -306,7 +306,7 @@ export default function SiteHeader() {
             <p
               className="site-mobile-muted text-xs font-body leading-relaxed"
             >
-              Know the record. Steward your vote.
+              Free candidate research for Kansas voters.
             </p>
           </div>
         </nav>
