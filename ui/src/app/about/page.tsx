@@ -92,7 +92,7 @@ const DATA_POINTS = [
 ];
 
 const GUIDING_VERSE =
-  "But select from all the people some capable, honest men who fear God and hate bribes. Appoint them as leaders over groups of one thousand, one hundred, fifty, and ten.";
+  "But select capable men from all the people—men who fear God, trustworthy men who hate dishonest gain—and appoint them as officials over thousands, hundreds, fifties and tens.";
 
 export default function AboutPage() {
   return (
@@ -124,7 +124,7 @@ export default function AboutPage() {
                   &ldquo;{GUIDING_VERSE}&rdquo;
                 </p>
                 <footer className="mt-4 font-heading text-xs font-bold uppercase tracking-[0.16em] text-teal">
-                  Exodus 18:21, New Living Translation (NLT)
+                  Exodus 18:21, New International Version (NIV)
                 </footer>
               </blockquote>
             </aside>
