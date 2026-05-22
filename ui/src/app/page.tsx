@@ -96,12 +96,11 @@ export default function HomePage() {
             <div className="er-reveal">
               <p className="er-kicker mb-4">Free voter research for Hays, Kansas</p>
               <h1 className="max-w-5xl font-heading text-4xl font-extrabold leading-[1.02] text-white md:text-6xl">
-                All the candidate research in one place.
+                Elections that actually affect you.
               </h1>
               <p className="mt-6 max-w-3xl text-lg leading-relaxed text-white/74">
-                Elect Righteous gathers candidate statements, public actions, campaign finance,
-                race context, local coverage, online observations, and linked sources into one
-                free guide for Hays and Kansas voters.
+                We make it easy to find information on candidates for elections that actually
+                affect you. Vote Christian values. Your community deserves God-fearing leaders.
               </p>
 
               <div className="mt-8 flex flex-col gap-3 sm:flex-row">
