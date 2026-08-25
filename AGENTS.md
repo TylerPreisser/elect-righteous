@@ -1179,3 +1179,7 @@ When the operator asks for status or the project reaches the end of Phase 7, the
 **Do not delete social evidence.**
 **Do not infer belief as fact.**
 **Do not stop before deploy verification.**
+
+<!-- agent-kit -->
+Agent instructions for this repo live in `CLAUDE.md` (read it in full); settled decisions in `DECISIONS/` (or the nearest parent's). Conformance to an Accepted ADR is never a defect.
+A reviewer may block only with cited code; objections to a settled decision go in a non-blocking "Decision Concerns" section citing the ADR. Never run a live deploy without explicit human say-so.
