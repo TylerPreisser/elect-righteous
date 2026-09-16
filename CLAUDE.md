@@ -7,8 +7,8 @@ voter-guide pages (no grading, no partisan framing) for Kansas races. 54 candida
 federal/state/local races; the site pre-renders ~127 static pages (home, about, 12 elections,
 54 candidate pages, 54 sources pages). The UI is a static-export Next.js site deployed to
 Cloudflare Pages (custom domain, **current production**) and GitHub Pages
-(`https://tpreisser.github.io/elect-righteous/`, legacy, still auto-deploys on push to `main`).
-Repo: `https://github.com/tpreisser/elect-righteous`. Design inspiration: celebratejesus.org
+(`https://tylerpreisser.github.io/elect-righteous/`, legacy, still auto-deploys on push to `main`).
+Repo: `https://github.com/TylerPreisser/elect-righteous`. Design inspiration: celebratejesus.org
 (Celebration Community Church, Hays) + a Beehiiv newsletter aesthetic — Montserrat headings,
 Lato body, Source Serif 4 quotes.
 
