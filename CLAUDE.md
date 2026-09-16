@@ -65,8 +65,7 @@ values shape *what gets researched*, never *how it's voiced*: no scripture on th
   paths) but it is the only record of the candidate roster, `CandidateFull`/`Elections` data
   model, design system, deployment checklist, per-candidate research findings and glossary.
   Read it for those; trust this file and `AGENTS.md` over it on architecture and deploy.
-- `DECISIONS/` — repo-scoped ADRs (agent-kit format); GLOBAL `~/.claude-shared/DECISIONS/`
-  wins on conflict.
+- `DECISIONS/` — repo-scoped ADRs.
 
 ## CONVENTIONS
 - Kebab-case candidate slug/file ↔ `SCREAMING_SNAKE_CASE_V2` exported constant
