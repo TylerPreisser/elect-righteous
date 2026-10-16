@@ -1,0 +1,22 @@
+# Elect Righteous
+
+> A source-cited voter guide for Hays, Kansas and the 2026 Kansas elections.
+
+Elect Righteous profiles every candidate across federal, state, and local Kansas races on the
+2026 ballot (and the current officeholders in races not yet up for election), with equal
+research depth for every candidate regardless of incumbency or party. No grading, scoring, or
+partisan labels — every claim on the site traces back to a cited, dated public source so a
+voter can read the primary record directly.
+
+## Pages
+
+- [Home](https://electrighteous.com/): Overview of all 2026 Kansas elections and candidates.
+- [About](https://electrighteous.com/about/): How candidates are researched and sourced.
+- [Candidates](https://electrighteous.com/candidates/): Every candidate profile, filterable by party and status.
+- [Elections](https://electrighteous.com/elections/): Every federal, state, local, and ballot-measure race.
+
+## Notes
+
+- Every candidate page links to a dedicated sources page listing every citation used.
+- Content is nonpartisan: candidates are held to identical scrutiny and the same evidence
+  standard regardless of party or incumbency.

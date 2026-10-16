@@ -1,0 +1,65 @@
+# Elect Righteous: maximum-permissive crawler policy
+# No robots.txt existed before this file. Absence of a robots.txt is itself an
+# "allow everything" stance, so this file keeps that exact stance explicit —
+# it does not restrict anything that was previously open.
+# Pattern copied from preissersolutions.com's gold-standard robots.txt.
+
+User-agent: *
+Allow: /
+Content-Signal: search=yes,ai-train=yes,ai-input=yes
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-SearchBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Perplexity-User
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+Sitemap: https://electrighteous.com/sitemap.xml
