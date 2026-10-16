@@ -1,3 +1,4 @@
+import type { Metadata } from "next";
 import Link from "next/link";
 import {
   ArrowRight,
@@ -14,6 +15,12 @@ import {
 import { ELECTIONS } from "@/data/elections";
 import { V2_CANDIDATES } from "@/data/v2";
 import CountUp from "@/components/ui/count-up";
+
+export const metadata: Metadata = {
+  alternates: {
+    canonical: "/",
+  },
+};
 
 const CATEGORIES = [
   {

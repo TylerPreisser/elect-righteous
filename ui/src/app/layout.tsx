@@ -11,6 +11,34 @@ import { SITE_URL, withSiteBasePath } from "@/lib/site-env";
 const previewImage = withSiteBasePath("/og-image-v3.png");
 const siteDescription = `A source-cited voter guide for Hays, Kansas and Kansas 2026 elections. ${V2_CANDIDATES.length} profiles, ${ELECTIONS.length} races, and public-source trails for voters who want to steward their ballot carefully.`;
 
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": `${SITE_URL}/#website`,
+      url: SITE_URL,
+      name: "Elect Righteous",
+      description: siteDescription,
+      inLanguage: "en-US",
+      publisher: { "@id": `${SITE_URL}/#organization` },
+    },
+    {
+      "@type": "Organization",
+      "@id": `${SITE_URL}/#organization`,
+      name: "Elect Righteous",
+      url: SITE_URL,
+      description:
+        "A nonpartisan, source-cited voter guide covering federal, state, and local Kansas elections, built for Hays, Kansas voters.",
+      areaServed: {
+        "@type": "AdministrativeArea",
+        name: "Hays, Kansas",
+      },
+      logo: `${SITE_URL}${previewImage}`,
+    },
+  ],
+};
+
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
   applicationName: "Elect Righteous",
@@ -108,6 +136,10 @@ export default function RootLayout({
     <html lang="en" suppressHydrationWarning>
       <head>
         <script dangerouslySetInnerHTML={{ __html: themeInitScript }} />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
           rel="preconnect"
