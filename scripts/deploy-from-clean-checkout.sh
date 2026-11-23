@@ -105,6 +105,8 @@ for i in 1 2 3 4 5 6 7 8 9 10 11 12; do
   sleep 5
 done
 [ "$got" = "$ASSET_SHA" ] || fail "$HOST$ASSET does not match the built chunk"
-curl -fsS -H 'cache-control: no-cache' "$HOST/" | grep -qF "$ASSET" || fail "live $HOST/ does not reference $ASSET"
+# Read the page whole before matching: with pipefail, `curl | grep -q` fails (curl exit 23) when grep stops reading early.
+home="$(curl -fsS -H 'cache-control: no-cache' "$HOST/")" || fail "could not fetch live $HOST/"
+grep -qF "$ASSET" <<<"$home" || fail "live $HOST/ does not reference $ASSET"
 echo "DEPLOYED $BUILD_SHA ($VERSION_TAG) to $HOST; previous deployment $PREV_ID"
 echo "ROLLBACK: $ROLLBACK"
