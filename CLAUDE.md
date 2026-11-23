@@ -36,6 +36,7 @@ values shape *what gets researched*, never *how it's voiced*: no scripture on th
 - `cd ui && npm run deploy:cloudflare` — `wrangler pages deploy out --project-name
   elect-righteous`. LIVE DEPLOY — hook-blocked without `ALLOW_DEPLOY=1`
   (`.claude/hooks/block-live-deploy.sh`).
+- Local deploy (GitHub Actions billing is off): `_workspace/tools/deploy.sh <repo dir> <sha>` runs `scripts/deploy-from-clean-checkout.sh` (Cloudflare Pages only; `--dry-run` supported).
 - GitHub Pages leg auto-deploys on push to `main` via `.github/workflows/deploy.yml`
   (`npm ci` → `npx next build` → upload `ui/out/`).
 - `./scripts/launch.command "Hays, Kansas"` — one-click pipeline launch (dated output dirs,
